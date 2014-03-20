@@ -40,6 +40,9 @@ sub col {
 		if ($text[$i] =~ /NORTH *EAST *SOUTH *WEST *NORTH *EAST *SOUTH *WEST/) {
 			$mode = "pedbike";
 		}
+		if ($text[$i] =~ /15 MIN COUNTS +NORTH +EAST +SOUTH +WEST +TOTAL +15 MIN COUNTS +NORTH +EAST +SOUTH +WEST +TOTAL/) {
+			$mode = "pedbiketotal";
+		}
 
 		if ($text[$i] =~ /^PERIOD +([NSEW]B[LRT][TH] +)+TOTAL/ ||
 		    $text[$i] =~ /^TIME +([NSEW]B[LRT][TH] +)+TOTAL/ ||
@@ -65,7 +68,21 @@ sub col {
 					}
 					print "\n";
 				} else {
-					print STDERR "??? $mode $text[$i]\n";
+					print "xxxx $mode $text[$i]\n";
+				}
+			} elsif ($mode eq "pedbiketotal") {
+				if ($#fields == 11) {
+					print "1,$ns / $ew,$date,$fields[0],,,,,,,,,,,,,";
+					my $j;
+					for ($j = 1; $j < 5; $j++) {
+						print "$fields[$j],";
+					}
+					for ($j = 7; $j < 11; $j++) {
+						print "$fields[$j],";
+					}
+					print "\n";
+				} else {
+					print "xxxx $mode $text[$i]\n";
 				}
 			} elsif ($mode eq "car") {
 				my %sum = ();
@@ -89,6 +106,8 @@ sub col {
 				}
 
 				print "\n";
+			} else {
+				print "xxxxxx $text[$i]\n";
 			}
 		}
 	}
@@ -96,7 +115,7 @@ sub col {
 	print "##### $ns / $ew, $date\n";
 
 	for ($i = 0; $i <= $#text; $i++) {
-		print "$text[$i]\n";
+		# print "$text[$i]\n";
 	}
 }
 
