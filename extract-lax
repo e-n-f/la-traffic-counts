@@ -1,0 +1,54 @@
+#!/usr/bin/perl -w
+
+while (<>) {
+	chomp;
+	push @line, $_;
+}
+
+sub col {
+	my @text = @_;
+
+	my $i;
+	for ($i = 0; $i <= $#text; $i++) {
+		print "$text[$i]\n";
+	}
+}
+
+sub page {
+	my @text = @_;
+
+	my @cols = ();
+	my $i;
+	for ($i = 0; $i >= 0; $i = index($text[0], "WILTEC", $i + 1)) {
+		push @cols, $i;
+	}
+
+	for ($i = 0; $i <= $#cols; $i++) {
+		my @page = ();
+		my $j;
+		for ($j = 0; $j <= $#text; $j++) {
+			if (length($text[$j]) <= $cols[$i]) {
+				push @page, "";
+			} elsif (defined($cols[$i + 1])) {
+				push @page, substr($text[$j], $cols[$i], $cols[$i + 1]);
+			} else {
+				push @page, substr($text[$j], $cols[$i]);
+			}
+		}
+
+		col(@page);
+	}
+}
+
+for ($i = 0; $i <= $#line; $i++) {
+	if ($line[$i] =~ /^WILTEC/) {
+		@text = ($line[$i]);
+
+		for ($j = $i + 1; $j <= $#line; $j++) {
+			last if $line[$j] =~ /WILTEC/;
+			push @text, $line[$j];
+		}
+
+		page(@text);
+	}
+}
