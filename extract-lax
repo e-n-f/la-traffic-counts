@@ -12,6 +12,7 @@ while (<>) {
 
 sub col {
 	my @text = @_;
+	my @cols;
 	my $ns = "";
 	my $ew = "";
 	my $date = "";
@@ -21,9 +22,11 @@ sub col {
 	for ($i = 0; $i <= $#text; $i++) {
 		if ($text[$i] =~ /INTERSECTION:.*N\/S *(.*)/) {
 			$ns = $1;
+			$ns =~ s/      .*//;
 		}
 		if ($text[$i] =~ /E\/W *(.*)/) {
 			$ew = $1;
+			$ew =~ s/      .*//;
 		}
 		if ($text[$i] =~ /DATE: *(.*)/) {
 			$date = $1;
@@ -31,6 +34,16 @@ sub col {
 
 		if ($text[$i] =~ /NORTH *EAST *SOUTH *WEST *NORTH *EAST *SOUTH *WEST/) {
 			$mode = "pedbike";
+		}
+
+		if ($text[$i] =~ /^PERIOD +([NSEW]B[LRT][TH] +)+TOTAL/) {
+		# if ($text[$i] =~ /PERIOD     SBRT      SBTH       SBTH      SBLT     WBRT     WBTH     WBLT      WBLT      NBRT      NBTH      NBLT     NBLT        EBRT       EBRT      EBTH      EBLT TOTAL/) {
+			$mode = "car";
+			@cols = split(/ +/, $text[$i]);
+		}
+
+		if ($text[$i] =~ /^$/) {
+			$mode = "";
 		}
 
 		if ($text[$i] =~ /^[0-9]+-[0-9]+/) {
@@ -47,6 +60,23 @@ sub col {
 				} else {
 					print STDERR "??? $mode $text[$i]\n";
 				}
+			} elsif ($mode eq "car") {
+				%sum = ();
+				for ($a = 1; $a <= $#fields; $a++) {
+					# print "$fields[$a] -> $cols[$a]\n";
+					$sum{$cols[$a]} += $fields[$a];
+				}
+
+				print "1,$ns / $ew,$date,$fields[0],";
+
+				for $dir ('SB', 'WB', 'NB', 'EB') {
+					for $turn ('RT', 'TH', 'LT') {
+						$key = "$dir$turn";
+						print "$sum{$key},";
+					}
+				}
+
+				print "\n";
 			}
 		}
 	}
@@ -54,7 +84,7 @@ sub col {
 	print "##### $ns / $ew, $date\n";
 
 	for ($i = 0; $i <= $#text; $i++) {
-		# print "$text[$i]\n";
+		print "$text[$i]\n";
 	}
 }
 
