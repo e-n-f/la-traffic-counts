@@ -2,6 +2,11 @@
 
 while (<>) {
 	chomp;
+
+	if (s/\014+//) {
+		push @line, "\014";
+	}
+
 	push @line, $_;
 }
 
@@ -44,8 +49,9 @@ for ($i = 0; $i <= $#line; $i++) {
 	if ($line[$i] =~ /^WILTEC/) {
 		@text = ($line[$i]);
 
-		for ($j = $i + 1; $j <= $#line; $j++) {
+		for ($j = $i + 1; $j <= $#line && $j < $i + 100; $j++) {
 			last if $line[$j] =~ /WILTEC/;
+			last if $line[$j] =~ /\014/;
 			push @text, $line[$j];
 		}
 
