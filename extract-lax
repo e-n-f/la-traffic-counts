@@ -76,6 +76,7 @@ sub col {
 
 					# print "$fields[$a] -> $cols[$a]\n";
 					$sum{$cols[$a]} += $fields[$a];
+					last if $cols[$a] eq "TOTAL";
 				}
 
 				print "1,$ns / $ew,$date,$fields[0],";
