@@ -12,10 +12,49 @@ while (<>) {
 
 sub col {
 	my @text = @_;
+	my $ns = "";
+	my $ew = "";
+	my $date = "";
+	my $mode = "";
 
 	my $i;
 	for ($i = 0; $i <= $#text; $i++) {
-		print "$text[$i]\n";
+		if ($text[$i] =~ /INTERSECTION:.*N\/S *(.*)/) {
+			$ns = $1;
+		}
+		if ($text[$i] =~ /E\/W *(.*)/) {
+			$ew = $1;
+		}
+		if ($text[$i] =~ /DATE: *(.*)/) {
+			$date = $1;
+		}
+
+		if ($text[$i] =~ /NORTH *EAST *SOUTH *WEST *NORTH *EAST *SOUTH *WEST/) {
+			$mode = "pedbike";
+		}
+
+		if ($text[$i] =~ /^[0-9]+-[0-9]+/) {
+			@fields = split(/ +/, $text[$i]);
+
+			if ($mode eq "pedbike") {
+				if ($#fields == 8) {
+					print "1,$ns / $ew,$date,$fields[0],,,,,,,,,,,,,";
+					my $j;
+					for ($j = 1; $j < 9; $j++) {
+						print "$fields[$j],";
+					}
+					print "\n";
+				} else {
+					print STDERR "??? $mode $text[$i]\n";
+				}
+			}
+		}
+	}
+
+	print "##### $ns / $ew, $date\n";
+
+	for ($i = 0; $i <= $#text; $i++) {
+		# print "$text[$i]\n";
 	}
 }
 
