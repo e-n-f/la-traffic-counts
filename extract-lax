@@ -1,5 +1,9 @@
 #!/usr/bin/perl -w
 
+use strict;
+
+my @line;
+
 while (<>) {
 	chomp;
 
@@ -13,6 +17,7 @@ while (<>) {
 sub col {
 	my @text = @_;
 	my @cols;
+	my @fields;
 	my $ns = "";
 	my $ew = "";
 	my $date = "";
@@ -36,10 +41,12 @@ sub col {
 			$mode = "pedbike";
 		}
 
-		if ($text[$i] =~ /^PERIOD +([NSEW]B[LRT][TH] +)+TOTAL/) {
-		# if ($text[$i] =~ /PERIOD     SBRT      SBTH       SBTH      SBLT     WBRT     WBTH     WBLT      WBLT      NBRT      NBTH      NBLT     NBLT        EBRT       EBRT      EBTH      EBLT TOTAL/) {
+		if ($text[$i] =~ /^PERIOD +([NSEW]B[LRT][TH] +)+TOTAL/ ||
+		    $text[$i] =~ /^TIME +([NSEW]B[LRT][TH] +)+TOTAL/ ||
+		    $text[$i] =~ /^400-500 +([NSEW]B[LRT][TH] +)+TOTAL/) {
 			$mode = "car";
 			@cols = split(/ +/, $text[$i]);
+			next;
 		}
 
 		if ($text[$i] =~ /^$/) {
@@ -61,17 +68,21 @@ sub col {
 					print STDERR "??? $mode $text[$i]\n";
 				}
 			} elsif ($mode eq "car") {
-				%sum = ();
-				for ($a = 1; $a <= $#fields; $a++) {
+				my %sum = ();
+				for ($a = 1; $a <= $#fields && $a <= $#cols; $a++) {
+					unless ($fields[$a] =~ /^[0-9]+$/) {
+						die $text[$i];
+					}
+
 					# print "$fields[$a] -> $cols[$a]\n";
 					$sum{$cols[$a]} += $fields[$a];
 				}
 
 				print "1,$ns / $ew,$date,$fields[0],";
 
-				for $dir ('SB', 'WB', 'NB', 'EB') {
-					for $turn ('RT', 'TH', 'LT') {
-						$key = "$dir$turn";
+				for my $dir ('SB', 'WB', 'NB', 'EB') {
+					for my $turn ('RT', 'TH', 'LT') {
+						my $key = "$dir$turn";
 						print "$sum{$key},";
 					}
 				}
@@ -115,11 +126,12 @@ sub page {
 	}
 }
 
+my $i;
 for ($i = 0; $i <= $#line; $i++) {
 	if ($line[$i] =~ /^WILTEC/) {
-		@text = ($line[$i]);
+		my @text = ($line[$i]);
 
-		for ($j = $i + 1; $j <= $#line && $j < $i + 100; $j++) {
+		for (my $j = $i + 1; $j <= $#line && $j < $i + 100; $j++) {
 			last if $line[$j] =~ /WILTEC/;
 			last if $line[$j] =~ /\014/;
 			push @text, $line[$j];
