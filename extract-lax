@@ -75,6 +75,7 @@ sub page {
 				push @page, "";
 			} elsif (defined($cols[$i + 1])) {
 				push @page, substr($text[$j], $cols[$i], $cols[$i + 1]);
+				$page[$#page] =~ s/ *$//;
 			} else {
 				push @page, substr($text[$j], $cols[$i]);
 			}
