@@ -22,6 +22,7 @@ sub col {
 	my $ew = "";
 	my $date = "";
 	my $mode = "";
+	my $off;
 
 	my $i;
 	for ($i = 0; $i <= $#text; $i++) {
@@ -35,6 +36,7 @@ sub col {
 		}
 		if ($text[$i] =~ /DATE: *(.*)/) {
 			$date = $1;
+			$date =~ s/,//g;
 		}
 
 		if ($text[$i] =~ /NORTH *EAST *SOUTH *WEST *NORTH *EAST *SOUTH *WEST/) {
@@ -42,6 +44,10 @@ sub col {
 		}
 		if ($text[$i] =~ /15 MIN COUNTS +NORTH +EAST +SOUTH +WEST +TOTAL +15 MIN COUNTS +NORTH +EAST +SOUTH +WEST +TOTAL/) {
 			$mode = "pedbiketotal";
+		}
+		if ($text[$i] =~ /15 MIN COUNTS +LEG +LEG +LEG +LEG/) {
+			$mode = "ped";
+			$off = index($text[$i], "15 MIN");
 		}
 
 		if ($text[$i] =~ /^PERIOD +([NSEW]B[LRT][TH] +)+TOTAL/ ||
@@ -105,10 +111,17 @@ sub col {
 					}
 				}
 
-				print "\n";
+				print ",,,,,,,,\n";
 			} else {
 				print "xxxxxx $text[$i]\n";
 			}
+		} elsif ($mode eq "ped") {
+			@fields = split(/ +/, substr($text[$i], $off));
+			print "1,$ns / $ew,$date,$fields[0],,,,,,,,,,,,,";
+			for ($a = 1; $a < 5; $a++) {
+				print "$fields[$a],";
+			}
+			print ",,,,\n";
 		}
 	}
 
