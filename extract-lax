@@ -74,7 +74,6 @@ sub col {
 		}
 
 		if ($text[$i] =~ /^PERIOD( +[NSEW]B[LRT][TH])+ *$/) {
-			print "FOUND $text[$i]\n";
 			# total column not labeled
 			$mode = "car";
 			@cols = split(/ +/, $text[$i]);
