@@ -26,6 +26,17 @@ sub col {
 
 	my $i;
 	for ($i = 0; $i <= $#text; $i++) {
+		if ($text[$i] =~ /AXLE CLASSIFICATION TURNING MOVEMENT COUNT/) {
+			return;
+		}
+
+		if ($text[$i] =~ /5-LEG/) {  # XXX
+			return;
+		}
+		if ($text[$i] =~ /DIAGONAL CROSSWALK/) {  # XXX
+			return;
+		}
+
 		if ($text[$i] =~ /INTERSECTION:.*N\/S *(.*)/) {
 			$ns = $1;
 			$ns =~ s/      .*//;
@@ -40,6 +51,9 @@ sub col {
 		}
 
 		if ($text[$i] =~ /NORTH *EAST *SOUTH *WEST *NORTH *EAST *SOUTH *WEST/) {
+			$mode = "pedbike";
+		}
+		if ($text[$i] =~ /^PERIOD +LEG +LEG +LEG +LEG +LEG +LEG +LEG +LEG *$/) {
 			$mode = "pedbike";
 		}
 		if ($text[$i] =~ /15 MIN COUNTS +NORTH +EAST +SOUTH +WEST +TOTAL +15 MIN COUNTS +NORTH +EAST +SOUTH +WEST +TOTAL/) {
