@@ -29,6 +29,9 @@ sub col {
 		if ($text[$i] =~ /AXLE CLASSIFICATION TURNING MOVEMENT COUNT/) {
 			return;
 		}
+		if ($text[$i] =~ /24-HOUR ADT COUNT SUMMARY/) {
+			return;
+		}
 
 		if ($text[$i] =~ /5-LEG/) {  # XXX
 			return;
@@ -90,10 +93,14 @@ sub col {
 
 			if ($mode eq "pedbike") {
 				if ($#fields == 8) {
-					print "1,$ns / $ew,$date,$fields[0],,,,,,,,,,,,,";
+					print "$ns / $ew,$date,$fields[0],,,,,,,,,,,,,";
 					my $j;
 					for ($j = 1; $j < 9; $j++) {
-						print "$fields[$j],";
+						print "$fields[$j]";
+
+						if ($j + 1 < 9) {
+							print ",";
+						}
 					}
 					print "\n";
 				} else {
@@ -101,13 +108,17 @@ sub col {
 				}
 			} elsif ($mode eq "pedbiketotal") {
 				if ($#fields == 11) {
-					print "1,$ns / $ew,$date,$fields[0],,,,,,,,,,,,,";
+					print "$ns / $ew,$date,$fields[0],,,,,,,,,,,,,";
 					my $j;
 					for ($j = 1; $j < 5; $j++) {
 						print "$fields[$j],";
 					}
 					for ($j = 7; $j < 11; $j++) {
-						print "$fields[$j],";
+						print "$fields[$j]";
+
+						if ($j + 1 < 11) {
+							print ",";
+						}
 					}
 					print "\n";
 				} else {
@@ -125,7 +136,7 @@ sub col {
 					last if $cols[$a] eq "TOTAL";
 				}
 
-				print "1,$ns / $ew,$date,$fields[0],";
+				print "$ns / $ew,$date,$fields[0],";
 
 				for my $dir ('SB', 'WB', 'NB', 'EB') {
 					for my $turn ('RT', 'TH', 'LT') {
@@ -140,22 +151,22 @@ sub col {
 					}
 				}
 
-				print ",,,,,,,,\n";
+				print ",,,,,,,\n";
 			} else {
 				print "xxxxxx $text[$i]\n";
 			}
 		} elsif ($mode eq "ped") {
 			@fields = split(/ +/, substr($text[$i], $off));
 			next unless $fields[0] =~ /^[0-9]+-[0-9]+$/;
-			print "1,$ns / $ew,$date,$fields[0],,,,,,,,,,,,,";
+			print "$ns / $ew,$date,$fields[0],,,,,,,,,,,,,";
 			for ($a = 1; $a < 5; $a++) {
 				print "$fields[$a],";
 			}
-			print ",,,,\n";
+			print ",,,\n";
 		}
 	}
 
-	print "##### $ns / $ew, $date\n";
+	# print "##### $ns / $ew, $date\n";
 
 	for ($i = 0; $i <= $#text; $i++) {
 		# print "$text[$i]\n";
