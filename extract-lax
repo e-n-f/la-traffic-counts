@@ -7,7 +7,7 @@ my @line;
 while (<>) {
 	chomp;
 
-	if (s/\014+//) {
+	if (s/\014+//g) {
 		push @line, "\014";
 	}
 
@@ -48,6 +48,7 @@ sub col {
 		if ($text[$i] =~ /15 MIN COUNTS +LEG +LEG +LEG +LEG/) {
 			$mode = "ped";
 			$off = index($text[$i], "15 MIN");
+			next;
 		}
 
 		if ($text[$i] =~ /^PERIOD +([NSEW]B[LRT][TH] +)+TOTAL/ ||
@@ -107,7 +108,13 @@ sub col {
 				for my $dir ('SB', 'WB', 'NB', 'EB') {
 					for my $turn ('RT', 'TH', 'LT') {
 						my $key = "$dir$turn";
-						print "$sum{$key},";
+
+						if (!defined($sum{$key})) {
+							# No N/S left turns at CAMDEN DRIVE/DAYTON DRIVE / WILSHIRE BOULEVARD
+							print ",";
+						} else {
+							print "$sum{$key},";
+						}
 					}
 				}
 
@@ -117,6 +124,7 @@ sub col {
 			}
 		} elsif ($mode eq "ped") {
 			@fields = split(/ +/, substr($text[$i], $off));
+			next unless $fields[0] =~ /^[0-9]+-[0-9]+$/;
 			print "1,$ns / $ew,$date,$fields[0],,,,,,,,,,,,,";
 			for ($a = 1; $a < 5; $a++) {
 				print "$fields[$a],";
