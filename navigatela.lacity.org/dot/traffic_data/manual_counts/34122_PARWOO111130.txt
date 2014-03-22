@@ -1,0 +1,181 @@
+                                               TRAFFIC COUNT SUMMARY
+
+                                                                                                                        City of Los Angeles
+STREET:                                                                                                           Department of Transportation
+North/South           WOODLEY AVENUE                                                                           Count by: The Traffic Solution
+
+East/West             PARTHENIA AVENUE
+
+Day:     AM    WEDNESDAY              Date: November 30, 2011             Weather:         CLEAR
+         PM    WEDNESDAY                    November 30, 2011
+Hours:         7-10 AM 4-7 PM
+
+School Day:           YES             District:          VALLEY
+
+
+                       N/B                         S/B                      E/B                         W/B
+DUAL-
+WHEELED                N/A                         N/A                      N/A                         N/A
+BIKES                  N/A                         N/A                      N/A                         N/A
+BUSES                  N/A                         N/A                      N/A                         N/A
+
+
+                       N/B TIME                    S/B TIME                 E/B TIME                    W/B     TIME
+
+AM PK 15 MIN           175    7:45                 454 7:45                 355    8:00                 405      7:30
+
+PM PK 15 MIN           472    5:15                 204 5:15                 404    6:00                 253      4:45
+
+AM PK HOUR             625    7:30                1,672 7:15              1,370    7:30                1,433     7:00
+
+PM PK HOUR            1,617   5:15                 699 4:45               1,529    5:15                 978      4:30
+
+
+
+NORTHBOUND Approach                                      SOUTHBOUND Approach                                   TOTAL       XING S/L       XING N/L
+
+Hours            Lt    Th       Rt    Total              Hours       Lt     Th     Rt         Total             N-S        Ped   Sch     Ped     Sch
+7-8                77   424      49      550             7-8          101 1,452    114         1,667            2,217      N/A   N/A     N/A     N/A
+8-9                91   362      73      526             8-9            82 1,090    92         1,264            1,790      N/A   N/A     N/A     N/A
+9 - 10            101   308      47      456             9 - 10         48   665    78           791            1,247      N/A   N/A     N/A     N/A
+4-5               196 1,025     131    1,352             4-5            68   491    85           644            1,996      N/A   N/A     N/A     N/A
+5-6               201 1,243     170    1,614             5-6            72   537    79           688            2,302      N/A   N/A     N/A     N/A
+6-7               154   914     131    1,199             6-7            50   315    75           440            1,639      N/A   N/A     N/A     N/A
+
+TOTAL             820 4,276     601    5,697             TOTAL       421 4,550       523       5,494           11,191      N/A N/A       N/A N/A
+
+
+EASTBOUND Approach                                       WESTBOUND Approach                                    TOTAL       XING W/L       XING E/L
+
+Hours            Lt    Th       Rt    Total              Hours       Lt    Th      Rt         Total             E-W        Ped   Sch     Ped     Sch
+7-8                86   919     178    1,183             7-8          124 1,258     51         1,433            2,616      N/A   N/A     N/A     N/A
+8-9               103   881     180    1,164             8-9          102   784     26           912            2,076      N/A   N/A     N/A     N/A
+9 - 10            101   500     136      737             9 - 10         95  557     19           671            1,408      N/A   N/A     N/A     N/A
+4-5               162 1,100     154    1,416             4-5          107   791     66           964            2,380      N/A   N/A     N/A     N/A
+5-6               159 1,166     182    1,507             5-6            98  788     60           946            2,453      N/A   N/A     N/A     N/A
+6-7               167   943     152    1,262             6-7          110   609     38           757            2,019      N/A   N/A     N/A     N/A
+
+TOTAL             778 5,509     982    7,269             TOTAL       636 4,787       260       5,683           12,952      N/A N/A       N/A N/A
+INTERSECTION TURNING MOVEMENT COUNT SUMMARY
+
+CLIENT:                    HIRSCH/GREEN TRANSPORTATION CONSULTING, INC.
+PROJECT:                   RESTAURANT DEPOT - VAN NUYS
+DATE:                      WEDNESDAY, NOVEMBER 30, 2011
+PERIOD:                    07:00 AM TO 10:00 AM
+INTERSECTION:      N/S     WOODLEY AVENUE
+                   E/W     PARTHENIA AVENUE
+FILE NUMBER:               2-AM
+
+
+  15 MINUTE          1          2      3          4     5            6          7          8      9      10     11     12
+   TOTALS         SBRT         SBTH   SBLT    WBRT     WBTH        WBLT        NBRT       NBTH   NBLT   EBRT   EBTH   EBLT
+  0700-0715         20         340     12         12   260          32          7          70     19     33    180     21
+  0715-0730         36         361     18         12   335          34          9          85     20     43    202     20
+  0730-0745         28         372     26         16   359          30          13        133     19     45    269     21
+  0745-0800         30         379     45         11   304          28          20        136     19     57    268     24
+  0800-0815         23         324     30         6    225          26          25        117     22     60    269     26
+  0815-0830         26         310     24         5    206          30          17         82     22     43    264     24
+  0830-0845         22         226     15         8    179          20          18         92     23     42    183     31
+  0845-0900         21         230     13         7    174          26          13         71     24     35    165     22
+  0900-0915         20         201     11         4    154          34          16         84     24     37    122     20
+  0915-0930         24         175     18         5    139          24          12         73     32     46    138     24
+  0930-0945         19         164     12         4    138          23          12         79     26     32    119     26
+  0945-1000         15         125     7          6    126          14          7          72     19     21    121     31
+
+
+   1 HOUR            1          2      3          4     5            6          7          8      9      10     11     12
+   TOTALS         SBRT         SBTH   SBLT    WBRT     WBTH        WBLT        NBRT       NBTH   NBLT   EBRT   EBTH   EBLT   TOTALS
+  0700-0800        114         1452   101         51   1258         124         49        424     77    178    919     86     4833
+  0715-0815        117         1436   119         45   1223         118         67        471     80    205    1008    91     4980
+  0730-0830        107         1385   125         38   1094         114         75        468     82    205    1070    95     4858
+  0745-0845        101         1239   114         30   914          104         80        427     86    202    984    105     4386
+  0800-0900         92         1090    82         26   784          102         73        362     91    180    881    103     3866
+  0815-0915         89         967     63         24   713          110         64        329     93    157    734     97     3440
+  0830-0930         87         832     57         24   646          104         59        320    103    160    608     97     3097
+  0845-0945         84         770     54         20   605          107         53        307    106    150    544     92     2892
+  0900-1000         78         665     48         19   557          95          47        308    101    136    500    101     2655
+
+
+
+
+   A.M. PEAK HOUR                                           117      1436           119
+      0715-0815
+
+
+                                       91                                                               45
+
+                                      1008                                                              1223
+        PARTHENIA AVENUE
+                                      205                                                               118
+
+
+
+
+                                                             80          471         67
+   THE TRAFFIC SOLUTION
+   329 DIAMOND STREET
+   ARCADIA, CALIFORNIA 91005                                      WOODLEY AVENUE
+   626.446.7979 PHONE
+   626.446.2877 FAX
+INTERSECTION TURNING MOVEMENT COUNT SUMMARY
+
+CLIENT:                    HIRSCH/GREEN TRANSPORTATION CONSULTING, INC.
+PROJECT:                   RESTAURANT DEPOT - VAN NUYS
+DATE:                      WEDNESDAY, NOVEMBER 30, 2011
+PERIOD:                    04:00 PM TO 07:00 PM
+INTERSECTION:      N/S     WOODLEY AVENUE
+                   E/W     PARTHENIA AVENUE
+FILE NUMBER:               2-PM
+
+
+  15 MINUTE          1          2      3          4     5            6          7          8      9      10     11     12
+   TOTALS         SBRT         SBTH   SBLT    WBRT     WBTH        WBLT        NBRT       NBTH   NBLT   EBRT   EBTH   EBLT
+  0300-0315         19         120     24         10   195          33          27        227     44     34    304     40
+  0315-0330         24         105     20         16   195          21          27        238     56     44    241     43
+  0330-0345         21         124     14         17   200          24          39        275     50     37    271     40
+  0345-0400         21         142     10         23   201          29          38        285     46     39    284     39
+  0400-0415         22         117     16         16   194          25          36        288     55     48    289     45
+  0415-0430         15         168     21         14   215          20          48        372     52     38    305     47
+  0430-0445         22         124     21         12   193          26          43        257     38     52    287     34
+  0445-0500         20         128     14         18   186          27          43        326     56     44    285     33
+  0500-0515         22          98     16         14   170          29          44        289     49     45    311     48
+  0515-0530         17          81     9          10   153          26          20        237     36     46    254     43
+  0530-0545         19          81     12         8    157          38          24        200     33     31    192     34
+  0545-0600         17          55     13         6    129          17          43        188     36     30    186     42
+
+
+   1 HOUR            1          2      3          4     5            6          7          8      9      10     11     12
+   TOTALS         SBRT         SBTH   SBLT    WBRT     WBTH        WBLT        NBRT       NBTH   NBLT   EBRT   EBTH   EBLT   TOTALS
+  0400-0500         85         491     68         66   791          107        131        1025   196    154    1100   162     4376
+  0415-0515         88         488     60         72   790          99         140        1086   207    168    1085   167     4450
+  0430-0530         79         551     61         70   810          98         161        1220   203    162    1149   171     4735
+  0445-0545         80         551     68         65   803          100        165        1202   191    177    1165   165     4732
+  0500-0600         79         537     72         60   788          98         170        1243   201    182    1166   159     4755
+  0515-0615         79         518     72         58   764          102        178        1244   195    179    1188   162     4739
+  0530-0630         81         431     60         54   702          108        150        1109   179    187    1137   158     4356
+  0545-0645         78         388     51         50   666          120        131        1052   174    166    1042   158     4076
+  0600-0700         75         315     50         38   609          110        131        914    154    152    943    167     3658
+
+
+
+
+   P.M. PEAK HOUR                                            79          537         72
+      0500-0600
+
+
+                                      159                                                               60
+
+                                      1166                                                              788
+        PARTHENIA AVENUE
+                                      182                                                               98
+
+
+
+
+                                                            201      1243           170
+   THE TRAFFIC SOLUTION
+   329 DIAMOND STREET
+   ARCADIA, CALIFORNIA 91005                                      WOODLEY AVENUE
+   626.446.7979 PHONE
+   626.446.2877 FAX
+

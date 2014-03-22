@@ -1,0 +1,544 @@
+                                                    City Traffic Counters, LLC.
+                                                          626-256-4171
+                                                                                                            File Name          : Vermont4th
+                                                                                                            Site Code          : 00000000
+                                                                                                            Start Date         : 5/19/2011
+                                                                                                            Page No            :1
+                                                       Groups Printed- 1 - Unshifted
+                     Vermont Ave                     4th St                      Vermont Ave                      4th St
+                     Southbound                     Westbound                     Northbound                    Eastbound
+                                                                                                                                         Int.
+ Start Time   Left   Thru    Right   Peds    Left   Thru   Right   Peds   Left   Thru    Right   Peds    Left   Thru   Right    Peds
+                                                                                                                                        Total
+    Factor     1.0     1.0    1.0     1.0    1.0     1.0    1.0     1.0    1.0     1.0    1.0     1.0     1.0    1.0    1.0      1.0
+ 07:00 AM      55     312       3       8    12        9      8       7      5    261       3     10      20     10       2        4     729
+ 07:15 AM      54     330       2     17       5     11     11      22       5    288       6     11      17     26       6        1     812
+ 07:30 AM      53     314       1       3      5     15     19      12       2    252     10      27      29     30       9        5     786
+ 07:45 AM      61     340       5     22     14      26     12      23       6    243       6     10      27     33       4      13      845
+     Total    223    1296     11      50     36      61     50      64     18    1044     25      58      93     99     21       23     3172
+
+ 08:00 AM      52     338      10       7     14      30     22      18     5     232      12      24     25     50       3       24     866
+ 08:15 AM      55     320      10       8     13      35     16      14     7     251       8      10     19     41       8       19     834
+ 08:30 AM      43     339      32       7      8      32     13       6     3     255      10      13     18     25       5        8     817
+ 08:45 AM      44     322      23      11      7      35     21      17     5     255       5      19     13     31       4       16     828
+     Total    194    1319      75      33     42     132     72      55    20     993      35      66     75    147      20       67    3345
+
+ 09:00 AM      56     290      25       8      9      23     19      12     8     229      18      10     17     17       7        5     753
+ 09:15 AM      51     284      27      12      9      46     19      17     2     228       9      20     21     21       8       18     792
+ 09:30 AM      54     262      37       5     17      48     22      11     5     240      34      11     20     21       9       22     818
+ 09:45 AM      57     255      30      19     20      42     20      37     8     237      46      21     21     29       4       24     870
+     Total    218    1091     119      44     55     159     80      77    23     934     107      62     79     88      28       69    3233
+
+
+
+ 03:00 PM      28     259      17      15      7      22     32      38     6     318      14      29     14     16       9       27     851
+ 03:15 PM      34     258      21      12      6      31     26      38    12     288      24      44     21     22       1       37     875
+ 03:30 PM      27     274      16      27      8      39     26      46     8     313      16      26     27     37       4       38     932
+ 03:45 PM      25     269      23      19      9      20     35      24    10     329      20      43     24     39       4       50     943
+     Total    114    1060      77      73     30     112    119     146    36    1248      74     142     86    114      18      152    3601
+
+ 04:00 PM      25     256      26      12     14      29     50      38    15     292      14      22     27     25       7       22     874
+ 04:15 PM      29     245      19       6      7      40     45      21     6     308      15      22     19     31       6       17     836
+ 04:30 PM      31     254      17      11      9      48     70      31     9     342       8      36     22     32       2       28     950
+ 04:45 PM      25     266      19      10      7      48     51      12    15     331      22      16     21     37       2       28     910
+     Total    110    1021      81      39     37     165    216     102    45    1273      59      96     89    125      17       95    3570
+
+ 05:00 PM      24     261      23      16     11      44     68      17    18     346      31      29     28     49      12       17     994
+ 05:15 PM      35     243      26      10      6      59     70      26    19     326      15      28     29     47       4        9     952
+ 05:30 PM      21     265      17       9     11      58     84      35    16     311      16      17     25     44       6       22     957
+ 05:45 PM      20     283      15      15      2      75     62      32    20     359      15      38     19     63       4       14    1036
+     Total    100    1052      81      50     30     236    284     110    73    1342      77     112    101    203      26       62    3939
+
+Grand Total   959    6839     444     289    230    865    821     554    215    6834     377     536    523    776     130     468    20860
+ Apprch %     11.2    80.2     5.2     3.4    9.3   35.0   33.2    22.4    2.7    85.8     4.7     6.7   27.6   40.9     6.9    24.7
+   Total %     4.6    32.8     2.1     1.4    1.1    4.1    3.9     2.7    1.0    32.8     1.8     2.6    2.5    3.7     0.6     2.2
+                                                 City Traffic Counters, LLC.
+                                                       626-256-4171
+                                                                                                      File Name          : Vermont4th
+                                                                                                      Site Code          : 00000000
+                                                                                                      Start Date         : 5/19/2011
+                                                                                                      Page No            :2
+
+                     Vermont Ave                     4th St                  Vermont Ave                    4th St
+                     Southbound                    Westbound                  Northbound                  Eastbound
+                   Thr Rig Ped App.              Thr Rig Ped App.          Thr Rig Ped App.            Thr Rig Ped App.          Int.
+ Start Time Left                         Left                        Left                        Left
+                     u    ht    s Total            u    ht   s Total         u     ht    s Total         u     ht    s Total    Total
+Peak Hour From 07:00 AM to 11:45 AM - Peak 1 of 1
+ Intersectio
+             07:45 AM
+           n
+                   133
+    Volume 211           57    44 1649     49 123      63   61   296  21 981      36   57 1095    89 149      20   64    322    3362
+                     7
+              12. 81.                     16. 41. 21. 20.                   89.                   27. 46.          19.
+    Percent              3.5 2.7                                      1.9         3.3 5.2                    6.2
+                8    1                      6      6    3    6               6                      6    3          9
+      08:00
+              52 338     10     7   407    14     30   22   18    84    5 232     12   24    273  25    50     3   24    102     866
+    Volume
+       Peak                                                                                                                      0.971
+     Factor
+   High Int. 07:45 AM                    08:00 AM                    08:30 AM                    08:00 AM
+    Volume    61 340       5   22   428    14     30   22   18    84    3 255     10   13    281  25    50     3   24    102
+       Peak
+                                  0.963                        0.881                       0.974                       0.789
+     Factor
+
+                                                                 Vermont Ave
+                                                          Out        In      Total
+                                                          1133       1649     2782
+
+
+                                                           57 1337        211    44
+                                                        Right Thru       Left Peds
+                       523
+
+
+                                89
+
+
+
+
+                                                                                                   Right Thru
+                      Total
+
+
+
+
+                              Left
+
+
+
+
+                                                                                                                Out
+                                                                                                      63
+
+
+                                                                                                                 396
+
+
+
+
+                                                                   North
+                                          149
+                              Peds Right Thru
+
+
+
+
+                                                                                                          123
+                        322
+
+
+
+
+                                                                                                                4th St
+                    4th St
+                       In
+
+
+
+
+                                                                                                                  In
+
+
+
+
+                                                         5/19/2011 7:45:00 AM
+                                                                                                                  296
+                                      20
+
+
+
+
+                                                         5/19/2011 8:30:00 AM
+                                                                                                   Left Peds
+                                                                                                     49
+                       201
+
+
+
+
+                                                         1 - Unshifted
+                      Out
+
+
+
+
+                                                                                                                Total
+                                64
+
+
+
+
+                                                                                                                 692
+                                                                                                          61
+
+
+
+
+                                                         Left  Thru Right Peds
+                                                            21   981   36    57
+
+
+                                                          1406       1095     2501
+                                                          Out        In      Total
+                                                                 Vermont Ave
+                                                 City Traffic Counters, LLC.
+                                                       626-256-4171
+                                                                                                      File Name          : Vermont4th
+                                                                                                      Site Code          : 00000000
+                                                                                                      Start Date         : 5/19/2011
+                                                                                                      Page No            :3
+                     Vermont Ave                     4th St                  Vermont Ave                    4th St
+                     Southbound                    Westbound                  Northbound                  Eastbound
+                   Thr Rig Ped App.              Thr Rig Ped App.          Thr Rig Ped App.            Thr Rig Ped App.          Int.
+ Start Time Left                         Left                        Left                        Left
+                     u    ht    s Total            u    ht   s Total         u     ht    s Total         u     ht    s Total    Total
+Peak Hour From 12:00 PM to 05:45 PM - Peak 1 of 1
+ Intersectio
+             05:00 PM
+           n
+                   105                                                     134
+    Volume 100           81    50 1283     30 236 284 110        660  73          77 112 1604 101 203         26   62    392    3939
+                     2                                                       2
+                    82.                          35. 43. 16.                83.                   25. 51.          15.
+    Percent 7.8          6.3 3.9          4.5                         4.6         4.8 7.0                    6.6
+                     0                             8    0    7               7                      8    8          8
+      05:45
+              20 283     15    15   333     2     75   62   32   171  20 359      15   38    432  19    63     4   14    100    1036
+    Volume
+       Peak                                                                                                                      0.951
+     Factor
+   High Int. 05:45 PM                    05:30 PM                    05:45 PM                    05:00 PM
+    Volume    20 283     15    15   333    11     58   84   35   188  20 359      15   38    432  28    49    12   17    106
+       Peak
+                                  0.963                        0.878                       0.928                       0.925
+     Factor
+
+                                                                 Vermont Ave
+                                                          Out        In      Total
+                                                          1727       1283     3010
+
+
+                                                           81 1052        100    50
+                                                        Right Thru       Left Peds
+                       782
+
+
+                               101
+
+
+
+
+                                                                                                   Right Thru
+                      Total
+
+
+
+
+                              Left
+
+
+
+
+                                                                                                     284
+
+
+
+                                                                                                                Out
+                                                                                                                 380
+
+
+                                                                   North
+                                          203
+                              Peds Right Thru
+
+
+
+
+                                                                                                          236
+                        392
+
+
+
+
+                                                                                                                4th St
+                    4th St
+                       In
+
+
+
+
+                                                                                                                  In
+
+
+
+
+                                                         5/19/2011 5:00:00 PM
+                                                                                                                  660
+                                      26
+
+
+
+
+                                                         5/19/2011 5:45:00 PM
+                                                                                                   Left Peds
+                                                                                                     30
+                       390
+
+
+
+
+                                                         1 - Unshifted
+                      Out
+
+
+
+
+                                                                                                                Total
+                                                                                                                1040
+                                62
+
+
+
+
+                                                                                                         110
+
+
+
+
+                                                         Left  Thru Right Peds
+                                                            73 1342    77   112
+
+
+                                                          1108       1604     2712
+                                                          Out        In      Total
+                                                                 Vermont Ave
+                       City Traffic Counters, LLC.
+                             626-256-4171
+                                                                          File Name    : Vermont4th_Bike
+                                                                          Site Code    : 00000000
+                                                                          Start Date   : 5/19/2011
+                                                                          Page No      :1
+                                Groups Printed- 2 - Bank 1
+               Vermont Ave            4th St            Vermont Ave          4th St
+               Southbound           Westbound            Northbound        Eastbound
+ Start Time              Thru                 Thru                Thru              Thru         Int. Total
+     Factor               1.0                   1.0                 1.0              1.0
+ 07:00 AM                   1                     3                   0                0                4
+ 07:15 AM                   1                     4                   1                1                7
+ 07:30 AM                   3                     2                   1                4               10
+ 07:45 AM                   1                     2                   2                2                7
+       Total                6                    11                   4                7               28
+
+ 08:00 AM                  1                     3                   4                 0                8
+ 08:15 AM                  2                     6                   0                 3               11
+ 08:30 AM                  0                     6                   2                 1                9
+ 08:45 AM                  2                     3                   3                 2               10
+     Total                 5                    18                   9                 6               38
+
+ 09:00 AM                  2                     1                   2                 0                5
+ 09:15 AM                  1                     4                   1                 0                6
+ 09:30 AM                  2                     2                   1                 0                5
+ 09:45 AM                  4                     3                   1                 1                9
+     Total                 9                    10                   5                 1               25
+
+
+
+ 03:00 PM                  3                     3                   1                4                11
+ 03:15 PM                  1                     7                   3                1                12
+ 03:30 PM                  1                     5                   1                4                11
+ 03:45 PM                  1                     5                   1                1                 8
+     Total                 6                    20                   6               10                42
+
+ 04:00 PM                  0                     1                   3                2                 6
+ 04:15 PM                  1                     8                   0                6                15
+ 04:30 PM                  1                     5                   2                8                16
+ 04:45 PM                  2                     6                   2                3                13
+     Total                 4                    20                   7               19                50
+
+ 05:00 PM                  1                     9                   3                1                14
+ 05:15 PM                  2                     7                   3                4                16
+ 05:30 PM                  6                     7                   3                4                20
+ 05:45 PM                  3                    10                   3                4                20
+     Total                12                    33                  12               13                70
+
+Grand Total              42                   112                  43               56                253
+ Apprch %              100.0                 100.0               100.0            100.0
+   Total %              16.6                  44.3                17.0             22.1
+                                                    City Traffic Counters, LLC.
+                                                          626-256-4171
+                                                                                                   File Name          : Vermont4th_Bike
+                                                                                                   Site Code          : 00000000
+                                                                                                   Start Date         : 5/19/2011
+                                                                                                   Page No            :2
+
+                               Vermont Ave                 4th St                 Vermont Ave                 4th St
+                               Southbound               Westbound                 Northbound                Eastbound
+             Start Time       Thru     App. Total      Thru      App. Total      Thru     App. Total      Thru      App. Total     Int. Total
+Peak Hour From 07:00 AM to 11:45 AM - Peak 1 of 1
+           Intersection 08:00 AM
+               Volume            5             5         18             18          9             9          6              6            38
+               Percent       100.0                    100.0                     100.0                    100.0
+        08:15 Volume             2             2          6              6          0             0          3              3            11
+          Peak Factor                                                                                                            0.864
+               High Int. 08:15 AM                 08:15 AM                  08:00 AM                 08:15 AM
+               Volume            2             2          6              6          4             4          3              3
+          Peak Factor                      0.625                     0.750                    0.563                     0.500
+
+                                                                     Vermont Ave
+                                                             Out         In      Total
+                                                                   9        5       14
+
+
+                                                                              5
+                                                                          Thru
+                            24
+                         Total
+
+
+
+
+                                                                                                                      Out
+                                                                                                                  6
+                                                                          North
+                               6
+
+
+                                       6
+
+
+
+
+                                                                                                                  4th St
+                      4th St
+
+
+
+
+                                                                                                          Thru
+                                   Thru
+                         In
+
+
+
+
+                                                                                                                    In
+                                                             5/19/2011 8:00:00 AM
+                                                                                                            18
+
+
+                                                             5/19/2011 8:45:00 AM                                     18
+                          18
+
+
+
+
+                                                             2 - Bank 1
+                         Out
+
+
+
+
+                                                                                                                  Total
+                                                                                                                     24
+
+
+
+
+                                                                          Thru
+                                                                              9
+
+
+                                                                   5          9       14
+                                                             Out           In      Total
+                                                                       Vermont Ave
+                                                    City Traffic Counters, LLC.
+                                                          626-256-4171
+                                                                                                   File Name        : Vermont4th_Bike
+                                                                                                   Site Code        : 00000000
+                                                                                                   Start Date       : 5/19/2011
+                                                                                                   Page No          :3
+                               Vermont Ave                 4th St                 Vermont Ave                 4th St
+                               Southbound               Westbound                 Northbound                Eastbound
+             Start Time       Thru     App. Total      Thru      App. Total      Thru     App. Total      Thru      App. Total     Int. Total
+Peak Hour From 12:00 PM to 05:45 PM - Peak 1 of 1
+           Intersection 05:00 PM
+               Volume           12            12         33             33         12            12         13             13            70
+               Percent       100.0                    100.0                     100.0                    100.0
+        05:45 Volume             3             3         10             10          3             3          4              4            20
+          Peak Factor                                                                                                            0.875
+               High Int. 05:30 PM                 05:45 PM                  05:00 PM                 05:15 PM
+               Volume            6             6         10             10          3             3          4              4
+          Peak Factor                      0.500                     0.825                    1.000                     0.813
+
+                                                                    Vermont Ave
+                                                             Out        In      Total
+                                                               12          12      24
+
+
+                                                                             12
+                                                                          Thru
+                           46
+                        Total
+
+
+
+
+                                                                                                                  Out
+                                                                                                                   13
+                                                                          North
+                           13
+
+
+                                  13
+
+
+
+
+                                                                                                                  4th St
+                      4th St
+
+
+
+
+                                                                                                          Thru
+                                Thru
+                         In
+
+
+
+
+                                                                                                                    In
+                                                             5/19/2011 5:00:00 PM                           33
+
+
+                                                                                                                      33
+                                                             5/19/2011 5:45:00 PM
+                         33
+
+
+
+
+                                                             2 - Bank 1
+                        Out
+
+
+
+
+                                                                                                                  Total
+                                                                                                                     46
+
+
+
+
+                                                                          Thru
+                                                                             12
+
+
+                                                               12          12      24
+                                                             Out        In      Total
+                                                                    Vermont Ave
+

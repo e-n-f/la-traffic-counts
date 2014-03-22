@@ -1,0 +1,40 @@
+                      Intersection Turning Movement
+                                             Prepared by:
+                            National Data & Surveying Services
+
+
+N-S STREET:    Beaudry Ave                 DATE: 12/15/2010            LOCATION: City of Los Angeles
+
+
+E-W STREET: 2nd St                          DAY: WEDNESDAY             PROJECT#     10-5532-007
+
+
+                     NORTHBOUND        SOUTHBOUND             EASTBOUND            WESTBOUND
+
+                 NL     NT     NR    SL     ST     SR    EL      ET    ER     WL      WT     WR    TOTAL
+  LANES:         0       2      1    0       2      0    1        2     0     1        2      0
+
+   6:30   AM     8       39    7     15     93     7     5      130     83    2       22     10    421
+   6:45   AM     18      62    8     21    111     7     6      131     90    3       27     24    508
+   7:00   AM     15      69    15    24    132     0     9      161     80    15      36     15    571
+   7:15   AM     11      79    13    24    173     4     6      191     93    21      58     31    704
+   7:30   AM     11      80    16    32    167     3     9      206     81    23      53     32    713
+   7:45   AM     7      100    10    32    169     8     21     212    106    31      68     32    796
+   8:00   AM     13      86    22    26    180     8     8      172     89    19      66     29    718
+   8:15   AM     13      68    20    24    160     9     10     198     97    25      62     15    701
+
+TOTAL            NL     NT     NR     SL    ST     SR    EL      ET    ER     WL     WT      WR    TOTAL
+VOLUMES =        96     583    111   198   1185    46    74     1401   719    139    392     188    5132
+
+            nb a nb d               sb a  sb d          eb a eb d            wb a nb d
+               790     845            1429 2043           2194 1710            719   534
+      AM Peak Hr Begins at:     715 AM
+
+PEAK
+VOLUMES =       42     345     61    114   689     23    44     781    369    94     245     124   2931
+
+PEAK HR.
+FACTOR:                0.926               0.965               0.881                 0.884         0.921
+
+CONTROL:       Signalized
+

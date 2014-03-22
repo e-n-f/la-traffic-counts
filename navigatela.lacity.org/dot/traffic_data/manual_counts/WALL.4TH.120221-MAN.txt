@@ -1,0 +1,61 @@
+                     City Of Los Angeles
+                     Department Of Transportation
+                     MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South          WALL ST.
+
+East/West            4th ST.
+
+Day:              TUESDAY             Date:       February 21, 2012        Weather:            SUNNY
+
+Hours:        11AM-2PM 3-6PM
+
+School Day:          YES              District:         CENTRAL              I/S CODE 8952
+
+
+                      N/B                         S/B                        E/B                           W/B
+DUAL-
+WHEELED                 34                         55                        139                             0
+BIKES                   35                         31                         55                             0
+BUSES                    0                          0                         30                             0
+
+
+                      N/B TIME                    S/B TIME                   E/B TIME                      W/B TIME
+
+AM PK 15 MIN            51 13.00                   51 12.45                  251 12.15                       0    11.00
+
+PM PK 15 MIN            73     5.15                51    4.00                306      5.00                   0     3.00
+
+AM PK HOUR             180 12.30                  186 12.00                  864 11.30                       0    11.00
+
+PM PK HOUR             247     3.30               156    3.15               1167      4.30                   0     3.00
+
+
+
+NORTHBOUND Approach                                     SOUTHBOUND Approach                                      TOTAL    XING S/L        XING N/L
+
+Hours          Lt     Th       Rt Total                 Hours     Lt        Th        Rt       Total              N-S        Ped Sch        Ped   Sch
+11-12            0     89        61 150                 11-12       62       105           0      167              317       192   7        202     8
+12-1             0     85        70 155                 12-1        74       112           0      186              341       232 10         194     3
+1-2              0     94        77 171                 1-2         75       105           0      180              351       227   6        185     8
+3-4              0    126        99 225                 3-4         53        78           0      131              356       260   0        187    13
+4-5              0     94       129 223                 4-5         64        86           0      150              373       174   0        138    32
+5-6              0    103       121 224                 5-6         77        70           0      147              371       125   0         86     1
+
+TOTAL            0     591     557 1148                 TOTAL     405        556           0      961             2109      1210     23     992      65
+
+
+EASTBOUND Approach                                      WESTBOUND Approach                                       TOTAL    XING W/L        XING E/L
+
+Hours          Lt     Th       Rt Total                 Hours     Lt        Th        Rt       Total             E-W         Ped Sch        Ped   Sch
+11-12           37    563        91 691                 11-12          0         0         0           0           691       310 17         244     5
+12-1            54    701       107 862                 12-1           0         0         0           0           862       353 14         273     4
+1-2             65    574       103 742                 1-2            0         0         0           0           742       284 10         246     9
+3-4             27    795        70 892                 3-4            0         0         0           0           892       270   0        340    15
+4-5             27    971        81 1079                4-5            0         0         0           0          1079       259   0        193     4
+5-6             24    997        41 1062                5-6            0         0         0           0          1062       143   0        140     0
+
+TOTAL         234 4601         493 5328                 TOTAL          0         0         0           0          5328      1619     41    1436      37
+
+              (Rev Oct 06)
+

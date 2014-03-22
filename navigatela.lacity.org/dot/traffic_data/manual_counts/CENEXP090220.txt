@@ -1,0 +1,61 @@
+                    City Of Los Angeles
+                    Department Of Transportation
+                    MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South         CENTINELA AV
+
+East/West           EXPOSITION BL
+
+Day:              FRIDAY                Date:       February 20, 2009                Weather:          SUNNY
+
+Hours:      7-10AM 3-6PM                                          Chekrs:            YOUNG
+
+School Day:         YES                 District:         WESTERN                      I/S CODE 52011
+
+
+                     N/B                            S/B                                E/B                     W/B
+DUAL-
+WHEELED                96                            76                                 17                       0
+BIKES                   1                             0                                  6                       0
+BUSES                   0                             0                                  0                       0
+
+
+                     N/B TIME                       S/B TIME                           E/B TIME                W/B TIME
+
+AM PK 15 MIN         260       8.45                 122    8.45                         21      8.00             0    7.00
+
+PM PK 15 MIN         115       5.45                 197    4.30                         52      5.45             0    3.00
+
+AM PK HOUR           992       8.30                 462    8.30                         64      7.30             0    7.00
+
+PM PK HOUR           425       3.00                 745    4.00                        141      5.00             0    3.00
+
+
+
+NORTHBOUND Approach                                       SOUTHBOUND Approach                                        TOTAL   XING S/L   XING N/L
+
+Hours         Lt     Th        Rt       Total             Hours             Lt        Th        Rt Total              N-S     Ped Sch    Ped   Sch
+7-8            98     535           0      633            7-8                    0     300       16   316              949      0   0      3     0
+8-9           110     818           0      928            8-9                    0     388       56   444             1372      0   0      3     0
+9-10          111     812           0      923            9-10                   0     360       30   390             1313      1   0      0     0
+3-4            27     398           0      425            3-4                    0     706       26   732             1157      0   0      4     0
+4-5            16     287           0      303            4-5                    0     719       26   745             1048      1   0      3     0
+5-6            15     348           0      363            5-6                    0     631       25   656             1019      1   0      1     0
+
+TOTAL         377 3198              0     3575            TOTAL                  0 3104          179    3283          6858     3    0     14    0
+
+
+EASTBOUND Approach                                        WESTBOUND Approach                                         TOTAL   XING W/L   XING E/L
+             EXPOSITION BL                                                                     NONE
+Hours   Lt    Th   Rt Total                               Hours             Lt        Th        Rt Total             E-W      Ped Sch    Ped   Sch
+7-8        7     0  28     35                             7-8                    0         0      0        0            35      2   0      0     0
+8-9       16     0  42     58                             8-9                    0         0      0        0            58      1   0      0     0
+9-10      11     0  24     35                             9-10                   0         0      0        0            35      2   0      0     0
+3-4       21     0  57     78                             3-4                    0         0      0        0            78      1   0      0     0
+4-5       26     0  79   105                              4-5                    0         0      0        0           105      1   0      0     0
+5-6       39     0 102   141                              5-6                    0         0      0        0           141      2   0      0     0
+
+TOTAL         120          0   332          452           TOTAL                  0         0       0       0           452     9    0      0    0
+
+            (Rev Oct 06)
+

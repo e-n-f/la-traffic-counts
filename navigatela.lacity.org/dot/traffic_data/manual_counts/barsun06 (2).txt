@@ -1,0 +1,64 @@
+                                      City of Los Angeles
+                                      Department Of Transportation
+                                      MANUAL TRAFFIC COUNT SUMMARY
+
+STREET:
+North/South          BARRINGTON PL
+
+East/West            SUNSET BL
+
+Day:     THURSDAY                     Date:     April 20, 2006              Weather:              CLEAR
+
+Hours:   7-10AM 3-6PM
+
+School Day:          YES         District:       WESTERN            I/S CODE                       0567071130
+
+
+
+                     N/B                        S/B                          E/B                                W/B
+DUAL-
+WHEELED                37                             0                           135                            296
+BIKES                   3                             0                             0                              0
+BUSES                   1                             0                            35                             49
+
+
+
+                     N/B       TIME            S/B        TIME              E/B         TIME                   W/B     TIME
+
+AM PK 15 MIN          200 8.45                        0 7.00                      324 9.30                       654      8.15
+
+PM PK 15 MIN          164 4.30                        0 3.00                      381 3.15                       553      3.30
+
+AM PK HOUR            682 8.00                        0 7.00                  1207 9.00                         2486      7.30
+
+PM PK HOUR            627 4.30                        0 3.00                  1302 3.00                         2137      3.30
+
+
+
+
+NORTHBOUND Approach                                       SOUTHBOUND Approach                                          TOTAL     XING S/L   XING N/L
+                                                                                        NONE
+Hours       Lt        Th        Rt     Total              Hours    Lt         Th         Rt        Total                N-S      Ped Sch    Ped Sch
+7-8          41            0    358      399              7-8           0           0         0            0              399      8   0      0   0
+8-9          21            0    661      682              8-9           0           0         0            0              682      3   0      0   0
+9-10         17            0    540      557              9-10          0           0         0            0              557      3   0      0   0
+3-4          58            0    553      611              3-4           0           0         0            0              611      6   2      0   0
+4-5          39            0    581      620              4-5           0           0         0            0              620      5   0      0   0
+5-6          34            0    572      606              5-6           0           0         0            0              606      7   0      0   0
+
+TOTAL       210            0 3265       3475              TOTAL         0           0         0            0              3475    32   2      0   0
+
+
+
+EASTBOUND Approach                                        WESTBOUND Approach                                           TOTAL     XING W/L   XING E/L
+
+Hours       Lt        Th        Rt     Total              Hours    Lt         Th   Rt              Total                E-W      Ped Sch    Ped Sch
+7-8              0    767        48      815              7-8      310        2119    0             2429                 3244      0   0      0   0
+8-9              0   1074        25     1099              8-9      279        2130    0             2409                 3508      0   0      0   0
+9-10             0   1176        31     1207              9-10     261        1933    0             2194                 3401      0   0      0   0
+3-4              0   1262        40     1302              3-4      281        1851    0             2132                 3434      0   0      0   0
+4-5              0    993        13     1006              4-5      278        1793    0             2071                 3077      0   0      0   0
+5-6              0   1114        20     1134              5-6      284        1788    0             2072                 3206      0   0      0   0
+
+TOTAL            0 6386         177     6563              TOTAL   1693       11614            0    13307                 19870     0   0      0   0
+

@@ -1,0 +1,186 @@
+                                                  TRAFFIC COUNT SUMMARY
+                                                                                                                              City of Los Angeles
+STREET:                                                                                                                  Department of Transportation
+North/South           COTNER AVENUE
+
+East/West             OLYMPIC BOULEVARD
+
+Day:     AM    THURSDAY               Date:       OCTOBER 30, 2008              Weather:         CLEAR
+         PM    THURSDAY                           OCTOBER 30, 2008
+Hours:         7-10 AM 3-6 PM
+
+School Day:           YES             District:           LOS ANGELES
+
+
+                        N/B                         S/B                           E/B                         W/B
+DUAL-
+WHEELED                 N/A                         N/A                           N/A                          N/A
+BIKES                   N/A                         N/A                           N/A                          N/A
+BUSES                   N/A                         N/A                           N/A                          N/A
+
+
+                        N/B TIME                    S/B TIME                      E/B TIME                    W/B      TIME
+
+AM PK 15 MIN                52 9:45                  31    9:30                   556 8:30                     570     8:00
+
+PM PK 15 MIN                84 5:15                  88    5:15                   541 5:15                     545     5:45
+
+AM PK HOUR              200 9:00                    104    8:45                  2,122 8:30                   2,206    7:45
+
+PM PK HOUR              293 5:00                    283    5:00                  2,124 5:00                   2,057    5:00
+
+
+
+NORTHBOUND Approach                                       SOUTHBOUND Approach                                         TOTAL      XING S/L       XING N/L
+
+Hours           Lt     Th      Rt     Total               Hours         Lt       Th        Rt       Total             N-S        Ped   Sch     Ped   Sch
+7-8              24      65     25        114             7-8              7       20       22           49             163      N/A   N/A     N/A   N/A
+8-9              32     115     42        189             8-9             16       38       32           86             275      N/A   N/A     N/A   N/A
+9 - 10           35     104     61        200             9 - 10          19       49       36         104              304      N/A   N/A     N/A   N/A
+3-4              58     123     63        244             3-4             18       80       39         137              381      N/A   N/A     N/A   N/A
+4-5              63     149     54        266             4-5             25      153       39         217              483      N/A   N/A     N/A   N/A
+5-6              72     164     57        293             5-6             24      213       46         283              576      N/A   N/A     N/A   N/A
+TOTAL           284     720    302      1,306             TOTAL          109      553      214         876            2,182      N/A   N/A     N/A   N/A
+
+
+EASTBOUND Approach                                        WESTBOUND Approach                                          TOTAL      XING W/L       XING E/L
+
+Hours           Lt     Th      Rt     Total               Hours          Lt       Th       Rt       Total             E-W        Ped   Sch     Ped   Sch
+7-8              63      876 100        1,039             7-8             157    1,239      24        1,420           2,459      N/A   N/A     N/A   N/A
+8-9              99    1,783 174        2,056             8-9             215    1,912      26        2,153           4,209      N/A   N/A     N/A   N/A
+9 - 10          115    1,727 198        2,040             9 - 10          180    1,670      48        1,898           3,938      N/A   N/A     N/A   N/A
+3-4              99    1,581 317        1,997             3-4             194    1,622      96        1,912           3,909      N/A   N/A     N/A   N/A
+4-5              96    1,634 336        2,066             4-5             204    1,549      90        1,843           3,909      N/A   N/A     N/A   N/A
+5-6             104    1,674 346        2,124             5-6             219    1,755      83        2,057           4,181      N/A   N/A     N/A   N/A
+TOTAL           576    9,275 1,471     11,322             TOTAL         1,169    9,747     367       11,283           22,605     N/A   N/A     N/A   N/A
+INTERSECTION TURNING MOVEMENT COUNT SUMMARY
+
+CLIENT:                     CRAIN & ASSOCIATES
+PROJECT:                    CENTURY CITY
+DATE:                       THURSDAY, OCTOBER 30, 2008
+PERIOD:                     07:00 AM TO 10:00 AM
+INTERSECTION:    N/S        COTNER AVENUE
+                 E/W        OLYMPIC BOULEVARD
+FILE NUMBER:                 7-AM
+
+
+  15 MINUTE       1            2         3          4          5           6          7          8          9          10         11      12
+   TOTALS       SBRT         SBTH       SBLT       WBRT       WBTH       WBLT        NBRT       NBTH       NBLT       EBRT       EBTH    EBLT
+
+
+  0700-0715            2            2          1          5        164         19           4          5          2         12     123         13
+  0715-0730            4            4          1          7        241         37           8        12           4         19     181         11
+  0730-0745            8            5          2          7        345         45           6        20           7         30     235         19
+  0745-0800            8            9          3          5        489         56           7        28         11          39     337         20
+  0800-0815            5            5          2          5        514         51           9        26         10          41     410         22
+  0815-0830            7           11          2          8        486         60           9        33           5         45     450         28
+  0830-0845            10          13          4          7        474         51         11         26           9         47     481         28
+  0845-0900            10           9          8          6        438         53         13         30           8         41     442         21
+  0900-0915            8           10          7          9        473         33         11         32           7         53     428         27
+  0915-0930            7           10          4        10         429         44         16         27           6         49     468         37
+  0930-0945            10          15          6        15         417         48         17         21         11          43     439         20
+  0940-1000            11          14          2        14         351         55         17         24         11          53     392         31
+
+
+   1 HOUR         1            2         3          4          5           6          7          8          9          10         11      12
+   TOTALS       SBRT         SBTH       SBLT       WBRT       WBTH       WBLT        NBRT       NBTH       NBLT       EBRT       EBTH    EBLT       TOTALS
+
+
+  0700-0800            22          20          7        24     1239            157        25         65         24      100        876         63     2622
+  0715-0815            25          23          8        24     1589            189        30         86         32      129       1163         72     3370
+  0730-0830            28          30          9        25     1834            212        31         107        33      155       1432         89     3985
+  0745-0845            30          38         11        25     1963            218        36         113        35      172       1678         98     4417
+  0800-0900            32          38         16        26     1912            215        42         115        32      174       1783         99     4484
+  0815-0915            35          43         21        30     1871            197        44         121        29      186       1801     104        4482
+  0830-0930            35          42         23        32     1814            181        51         115        30      190       1819     113        4445
+  0845-0945            35          44         25        40     1757            178        57         110        32      186       1777     105        4346
+  0900-1000            36          49         19        48     1670            180        61         104        35      198       1727     115        4242
+
+   A.M. PEAK HOUR                                                  32          38         16
+      0800-0900
+
+
+                                         99                                                                            26
+
+                                        1783                                                                          1912
+        OLYMPIC BOULEVARD
+                                        174                                                                           215
+
+
+
+
+                                                                   32          115        42
+
+
+                                                                         COTNER AVENUE
+
+   THE TRAFFIC SOLUTION
+   329 DIAMOND STREET
+   ARCADIA, CALIFORNIA 91006
+   626.446.7978
+INTERSECTION TURNING MOVEMENT COUNT SUMMARY
+
+CLIENT:                     CRAIN & ASSOCIATES
+PROJECT:                    CENTURY CITY
+DATE:                       THURSDAY, OCTOBER 30, 2008
+PERIOD:                     03:00 PM TO 06:00 PM
+INTERSECTION:    N/S        COTNER AVENUE
+                 E/W        OLYMPIC BOULEVARD
+FILE NUMBER:                 7-PM
+
+
+  15 MINUTE       1            2          3          4          5           6          7         8          9         10         11      12
+   TOTALS       SBRT         SBTH        SBLT       WBRT       WBTH       WBLT        NBRT      NBTH       NBLT      EBRT       EBTH    EBLT
+
+
+  0300-0315            11          17           6        19         411         53         16        21         17         85     350         30
+  0315-0330            10          16           4        25         418         51         19        37         13         83     397         23
+  0330-0345            10          20           3        20         417         46         16        35         12         78     427         20
+  0345-0400            8           27           5        32         376         44         12        30         16         71     407         26
+  0400-0415            11          36           9        23         384         57         18        32         19         85     390         20
+  0415-0430            12          31           5        26         341         56         13        37         16         71     429         24
+  0430-0445            10          45           7        20         419         36         13        48         15         83     406         25
+  0445-0500            6           41           4        21         405         55         10        32         13         97     409         27
+  0500-0515            9           52           4        20         410         47         16        31         17         89     411         22
+  0515-0530            13          68           7        22         439         63         17        49         18         97     416         28
+  0530-0545            13          42           7        18         451         42         14        48         22         75     425         22
+  0545-0600            11          51           6        23         455         67         10        36         15         85     422         32
+
+
+   1 HOUR         1            2          3          4          5           6          7         8          9         10         11      12
+   TOTALS       SBRT         SBTH        SBLT       WBRT       WBTH       WBLT        NBRT      NBTH       NBLT      EBRT       EBTH    EBLT       TOTALS
+
+
+  0300-0400            39          80          18        96     1622            194        63        123        58     317       1581         99     4290
+  0315-0415            39          99          21        100    1595            198        65        134        60     317       1621         89     4338
+  0330-0430            41          114         22        101    1518            203        59        134        63     305       1653         90     4303
+  0345-0445            41          139         26        101    1520            193        56        147        66     310       1632         95     4326
+  0400-0500            39          153         25        90     1549            204        54        149        63     336       1634         96     4392
+  0415-0515            37          169         20        87     1575            194        52        148        61     340       1655         98     4436
+  0430-0530            38          206         22        83     1673            201        56        160        63     366       1642     102        4612
+  0445-0545            41          203         22        81     1705            207        57        160        70     358       1661         99     4664
+  0500-0600            46          213         24        83     1755            219        57        164        72     346       1674     104        4757
+
+   P.M. PEAK HOUR                                                   46          213        24
+      0500-0600
+
+
+                                         104                                                                          83
+
+                                         1674                                                                        1755
+        OLYMPIC BOULEVARD
+                                         346                                                                         219
+
+
+
+
+                                                                    72          164        57
+
+
+                                                                          COTNER AVENUE
+
+   THE TRAFFIC SOLUTION
+   329 DIAMOND STREET
+   ARCADIA, CALIFORNIA 91006
+   626.446.7978
+

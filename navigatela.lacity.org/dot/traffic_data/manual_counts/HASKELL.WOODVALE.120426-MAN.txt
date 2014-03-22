@@ -1,0 +1,61 @@
+                    City Of Los Angeles
+                    Department Of Transportation
+                    MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South         HASKELL AV. / VALLEY VISTA BL.
+
+East/West           WOODVALE RD.
+
+Day:           THURSDAY                 Date:             April 26, 2012              Weather:            SUNNY
+
+Hours:      7-10AM 3-6PM                                           Chekrs:            BD
+
+School Day:         YES                 District:         WEST VALLEY                   I/S CODE 28426
+
+
+                     N/B                            S/B                                 E/B                           W/B
+DUAL-
+WHEELED                13                            12                                     6                           0
+BIKES                   0                             0                                     0                           0
+BUSES                   0                             0                                     0                           0
+
+
+                     N/B TIME                       S/B TIME                            E/B TIME                      W/B TIME
+
+AM PK 15 MIN           69      9.00                  56     7.00                           77    8.00                   0    7.00
+
+PM PK 15 MIN           73      5.45                  23     4.15                           65    5.30                   0    3.00
+
+AM PK HOUR            204      8.15                 197     7.00                        264      7.30                   0    7.00
+
+PM PK HOUR            238      5.00                  64     3.45                        179      5.00                   0    3.00
+
+
+
+NORTHBOUND Approach                                       SOUTHBOUND Approach                                               TOTAL   XING S/L   XING N/L
+
+Hours         Lt     Th        Rt       Total             Hours              Lt        Th        Rt Total                    N-S     Ped Sch    Ped   Sch
+7-8            68     75            0      143            7-8                     0     164       33   197                    340      2   0      0     0
+8-9           126     45            0      171            8-9                     0     136       28   164                    335      3   0      1     0
+9-10          140     61            0      201            9-10                    0     123       22   145                    346      0   0      0     0
+3-4           121     53            0      174            3-4                     0      38       18     56                   230      0   0      0     0
+4-5           130     80            0      210            4-5                     0      39       24     63                   273      1   0      0     0
+5-6           140     98            0      238            5-6                     0      44       19     63                   301      1   0      0     0
+
+TOTAL         725     412           0     1137            TOTAL                   0     544      144         688             1825      7   0      1    0
+
+
+EASTBOUND Approach                                        WESTBOUND Approach                                                TOTAL   XING W/L   XING E/L
+
+Hours         Lt     Th        Rt Total                   Hours              Lt        Th        Rt       Total             E-W      Ped Sch    Ped   Sch
+7-8            36          0   158   194                  7-8                     0         0         0           0           194      4   0      0     0
+8-9            26          0   231   257                  8-9                     0         0         0           0           257      1   0      0     0
+9-10           24          0   176   200                  9-10                    0         0         0           0           200      0   0      0     0
+3-4            14          0   124   138                  3-4                     0         0         0           0           138      3   0      0     0
+4-5            21          0   103   124                  4-5                     0         0         0           0           124      3   0      0     0
+5-6            19          0   160   179                  5-6                     0         0         0           0           179      3   0      0     0
+
+TOTAL         140          0   952        1092            TOTAL                   0         0         0           0          1092     14   0      0    0
+
+            (Rev Oct 06)
+

@@ -1,0 +1,61 @@
+                     24 Hours Traffic Volume
+                     City of Los Angeles                                                                           Counter               KENT/LAVEDIA
+
+                     Department of Transportation                                                                  Date                  03/11/14
+                                                                                                                   Start Time            12 AM
+
+
+Location             VICTORY BL AT VINELAND AV                          Day of Week             TUESDAY            Prepared              03/13/14
+Direction            E/W STREET                                         DOT District            EAST VALLEY                By            LW
+Serial Number        RD23452 D                                          Weather                 CLEAR
+
+
+
+                               NORTHBOUND or WESTBOUND                                 SOUTHBOUND or EASTBOUND
+                      1ST        2ND    3RD      4TH         HOUR         1ST           2ND      3RD      4TH          HOUR
+       Time           QTR        QTR    QTR      QTR         TOTAL        QTR           QTR      QTR      QTR          TOTAL                  TOTAL
+
+      12 AM            47        25      30      14           116           28          31        30      20              109                  225
+      1 AM             20        12      18      13           63            16          12        14      13               55                  118
+      2 AM             13        13       7        4          37            9            9         3       5               26                  63
+      3 AM             12         8      10        9          39            7            6         5      17               35                  74
+      4 AM              9        14      17      22           62            9            6        21      22               58                  120
+      5 AM             41        30      47      39           157           16          31        36      48              131                  288
+      6 AM             53        90      102     128          373           50          71        114     122             357                  730
+      7 AM             135       159     220     221          735          136          205       295     317             953                 1688
+      8 AM             224       192     182     179          777          274          331       345     374             1324                2101
+      9 AM             179       172     150     165          666          316          271       259     196             1042                1708
+      10 AM            165       178     168     159          670          196          203       195     193             787                 1457
+      11 AM            191       180     181     209          761          161          154       190     171             676                 1437
+      12 NN            222       229     190     215          856          201          194       221     205             821                 1677
+      1 PM             231       246     220     209          906          200          200       205     190             795                 1701
+      2 PM             225       258     262     236          981          205          232       199     230             866                 1847
+      3 PM             228       267     247     269         1011          225          232       204     207             868                 1879
+      4 PM             261       254     276     300         1091          213          223       247     242             925                 2016
+      5 PM             300       317     330     346         1293          206          263       261     233             963                 2256
+      6 PM             296       371     304     310         1281          269          292       212     264             1037                2318
+      7 PM             266       285     249     230         1030          210          232       177     171             790                 1820
+      8 PM             215       189     212     195          811          176          185       124     128             613                 1424
+      9 PM             176       180     130     108          594          132          108       117     107             464                 1058
+      10 PM            103       119     78      76           376          102          84        68      53              307                  683
+      11 PM            74        73      57      43           247           61          42        56      39              198                  445
+
+FIRST 12-HOURS PEAK QUARTER COUNT                  224       8 AM         1ST                              374         8 AM                 4TH
+LAST 12-HOURS PEAK QUARTER COUNT                   371       6 PM         2ND                              292         6 PM                 2ND
+24 HOUR VEHICLES TOTAL                                      14,933                                                    14,200               29,133
+TOTAL VEHICLES STANDARD DEVIATION (STD)            [+,-]    399.32                                         [+,-]      387.45               763.98
+
+                                                           PEAK HOURS VOLUME
+                             NORTH or WEST BOUND                    SOUTH or EAST BOUND                             BOTH DIRECTIONS
+                      PEAK             VEHICLE               PEAK                  VEHICLE                PEAK                             VEHICLE
+                      HOUR             VOLUME                HOUR                  VOLUME                 HOUR                             VOLUME
+First 12H Peak         8 AM               777                8 AM                       1,324             8 AM                                2,101
+Last 12H Peak          5 PM              1,293               6 PM                   1,037                 6 PM                                2,318
+First 12H Peak STD                [+,-] 309.41                               [+,-] 448.93                                        [+,-]     748.58
+Last 12H Peak STD                 [+,-] 311.94                               [+,-] 255.86                                        [+,-]     564.32
+
+
+
+
+     VICTORY.VINELAND.140311-AUTO
+

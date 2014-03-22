@@ -1,0 +1,61 @@
+                    City Of Los Angeles
+                    Department Of Transportation
+                    MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South         ROWENA AV
+
+East/West           BEN LOMOND PL
+
+Day:              FRIDAY                Date:       February 27, 2009                Weather:            SUNNY
+
+Hours:      7-10AM 3-6PM                                          Chekrs:            LEE
+
+School Day:         YES                 District:         HOLLYWOOD                    I/S CODE 14986
+
+
+                     N/B                            S/B                                E/B                        W/B
+DUAL-
+WHEELED                13                            16                                    2                        0
+BIKES                   4                             6                                    1                        0
+BUSES                   0                             0                                    0                        0
+
+
+                     N/B TIME                       S/B TIME                           E/B TIME                   W/B TIME
+
+AM PK 15 MIN           57      7.15                  52    8.00                         20      7.15                0    7.00
+
+PM PK 15 MIN           72      4.00                 153    5.45                         20      3.00                0    3.00
+
+AM PK HOUR           194       7.15                 143    7.15                         57      8.30                0    7.00
+
+PM PK HOUR           252       3.30                 461    5.00                         68      3.00                0    3.00
+
+
+
+NORTHBOUND Approach                                       SOUTHBOUND Approach                                           TOTAL   XING S/L   XING N/L
+
+Hours         Lt     Th        Rt       Total             Hours             Lt        Th        Rt       Total           N-S     Ped Sch    Ped   Sch
+7-8            23     156           0      179            7-8                    0     110        6         116           295      0   0      1     0
+8-9            20     137           0      157            8-9                    0     136        4         140           297      4   0      3     0
+9-10           25     114           0      139            9-10                   0     114        4         118           257      0   0      2     0
+3-4            56     185           0      241            3-4                    0     303        7         310           551      1   0      1     0
+4-5            30     202           0      232            4-5                    0     380       10         390           622      7   0      0     0
+5-6            40     171           0      211            5-6                    0     449       12         461           672      1   0      5     0
+
+TOTAL         194    965            0     1159            TOTAL                  0 1492          43        1535          2694     13   0     12    0
+
+
+EASTBOUND Approach                                        WESTBOUND Approach                                            TOTAL   XING W/L   XING E/L
+             BEN LOMOND PL                                                                     NONE
+Hours   Lt    Th   Rt Total                               Hours             Lt        Th        Rt Total                E-W      Ped Sch    Ped   Sch
+7-8        6     0  48     54                             7-8                    0         0      0           0            54     12   1      0     0
+8-9        5     0  48     53                             8-9                    0         0      0           0            53     22   0      0     0
+9-10       4     0  40     44                             9-10                   0         0      0           0            44     14   0      0     0
+3-4        4     0  64     68                             3-4                    0         0      0           0            68      4   0      0     0
+4-5        6     0  42     48                             4-5                    0         0      0           0            48      9   0      0     0
+5-6        8     0  36     44                             5-6                    0         0      0           0            44     20   0      0     0
+
+TOTAL          33          0   278          311           TOTAL                  0         0         0        0           311     81   1      0    0
+
+            (Rev Oct 06)
+

@@ -1,0 +1,184 @@
+                                                         TRAFFIC COUNT SUMMARY
+                                                                                                                                    City of Los Angeles
+STREET:                                                                                                                        Department of Transportation
+North/South               BEVERLY GLEN BOULEVARD                                                                            Count by: Traffic Solution
+
+East/West                 PICO BOULEVARD
+
+Day:     AM    THURSDAY                      Date: November 18, 2010                  Weather:          CLEAR
+         PM    THURSDAY                            November 18, 2010
+Hours:         7-10 AM 3-6 PM
+
+School Day:               YES                District:           WESTERN
+
+
+                            N/B                            S/B                          E/B                          W/B
+DUAL-
+WHEELED                     N/A                            N/A                          N/A                          N/A
+BIKES                       N/A                            N/A                          N/A                          N/A
+BUSES                       N/A                            N/A                          N/A                          N/A
+
+
+                            N/B TIME                       S/B TIME                     E/B TIME                     W/B     TIME
+
+AM PK 15 MIN                    0   7:00                   162 9:15                     619      8:45                557      7:45
+
+PM PK 15 MIN                    0   3:00                   219 5:45                     427      4:45                533      5:45
+
+AM PK HOUR                      0   7:00                   612 8:45                    2,374     8:30               1,973     7:30
+
+PM PK HOUR                      0   3:00                   815 5:00                    1,484     4:45               2,051     5:00
+
+
+
+NORTHBOUND Approach                                              SOUTHBOUND Approach                                        TOTAL       XING S/L      XING N/L
+
+Hours            Lt        Th       Rt       Total               Hours       Lt        Th        Rt        Total             N-S        Ped   Sch     Ped     Sch
+7-8                   0         0        0           0           7-8          230           0    210          440             440       N/A   N/A     N/A     N/A
+8-9                   0         0        0           0           8-9          327           0    261          588             588       N/A   N/A     N/A     N/A
+9 - 10                0         0        0           0           9 - 10       357           0    234          591             591       N/A   N/A     N/A     N/A
+4-5                   0         0        0           0           3-4          415           0    316          731             731       N/A   N/A     N/A     N/A
+5-6                   0         0        0           0           4-5          403           0    312          715             715       N/A   N/A     N/A     N/A
+6-7                   0         0        0           0           5-6          473           0    342          815             815       N/A   N/A     N/A     N/A
+
+TOTAL                 0         0        0           0           TOTAL      2,205           0 1,675         3,880            3,880      N/A N/A       N/A N/A
+
+
+EASTBOUND Approach                                               WESTBOUND Approach                                         TOTAL       XING W/L       XING E/L
+
+Hours            Lt         Th      Rt       Total               Hours       Lt         Th       Rt        Total             E-W        Ped   Sch     Ped     Sch
+7-8               246        978         0    1,224              7-8              0    1,252     358        1,610            2,834      N/A   N/A     N/A     N/A
+8-9               340      1,862         0    2,202              8-9              0    1,505     308        1,813            4,015      N/A   N/A     N/A     N/A
+9 - 10            411      1,827         0    2,238              9 - 10           0    1,334     253        1,587            3,825      N/A   N/A     N/A     N/A
+4-5               270      1,121         0    1,391              3-4              0    1,322     224        1,546            2,937      N/A   N/A     N/A     N/A
+5-6               287      1,177         0    1,464              4-5              0    1,500     259        1,759            3,223      N/A   N/A     N/A     N/A
+6-7               321      1,100         0    1,421              5-6              0    1,786     265        2,051            3,472      N/A   N/A     N/A     N/A
+
+TOTAL           1,875 8,065              0    9,940              TOTAL            0    8,699 1,667         10,366           20,306      N/A N/A       N/A N/A
+INTERSECTION TURNING MOVEMENT COUNT SUMMARY
+
+CLIENT:                 HIRSCH/GREEN TRANSPORTATION CONSULTING, INC.
+PROJECT:                BELLWOOD SENIOR CARE/MEDICAL OFFICE
+DATE:                   THURSDAY, NOVEMBER 18, 2010
+PERIOD:                 07:00 AM TO 10:00 AM
+INTERSECTION      N/S   BEVERLY GLEN BOULEVARD
+                 E/W    PICO BOULEVARD
+FILE NUMBER:            8-AM
+
+
+  15 MINUTE        1        2       3          4      5          6          7          8      9      10     11     12
+   TOTALS        SBRT      SBTH   SBLT    WBRT       WBTH       WBLT       NBRT       NBTH   NBLT   EBRT   EBTH   EBLT
+  0700-0715       40        0      33          63    174         0          0          0      0      0     141     39
+  0715-0730       54        0      48          82    245         0          0          0      0      0     205     54
+  0730-0745       61        0      54          95    394         0          0          0      0      0     285     69
+  0745-0800       55        0      95          118   439         0          0          0      0      0     347     84
+  0800-0815       72        0      80          85    418         0          0          0      0      0     433     77
+  0815-0830       64        0      96          73    351         0          0          0      0      0     431     71
+  0830-0845       56        0      64          70    340         0          0          0      0      0     472     99
+  0845-0900       69        0      87          80    396         0          0          0      0      0     526     93
+  0900-0915       60        0      101         81    328         0          0          0      0      0     490    124
+  0915-0930       59        0      103         53    323         0          0          0      0      0     443    127
+  0930-0945       57        0      76          52    338         0          0          0      0      0     456     86
+  0945-1000       58        0      77          67    345         0          0          0      0      0     438     74
+
+
+   1 HOUR          1        2       3          4      5          6          7          8      9      10     11     12
+   TOTALS        SBRT      SBTH   SBLT    WBRT       WBTH       WBLT       NBRT       NBTH   NBLT   EBRT   EBTH   EBLT   TOTALS
+  0700-0800       210       0      230         358   1252        0          0          0      0      0     978    246     3274
+  0715-0815       242       0      277         380   1496        0          0          0      0      0     1270   284     3949
+  0730-0830       252       0      325         371   1602        0          0          0      0      0     1496   301     4347
+  0745-0845       247       0      335         346   1548        0          0          0      0      0     1683   331     4490
+  0800-0900       261       0      327         308   1505        0          0          0      0      0     1862   340     4603
+  0815-0915       249       0      348         304   1415        0          0          0      0      0     1919   387     4622
+  0830-0930       244       0      355         284   1387        0          0          0      0      0     1931   443     4644
+  0845-0945       245       0      367         266   1385        0          0          0      0      0     1915   430     4608
+  0900-1000       234       0      357         253   1334        0          0          0      0      0     1827   411     4416
+
+
+
+
+   A.M. PEAK HOUR                                         244          0        355
+      0830-0930
+
+
+                                   443                                                              284
+
+                                  1931                                                              1387
+          PICO BOULEVARD
+                                    0                                                                0
+
+
+
+
+                                                            0          0          0
+
+
+                                                      BEVERLY GLEN BOULEVARD
+   THE TRAFFIC SOLUTION
+   329 DIAMOND STREET
+   ARCADIA, CALIFORNIA 91006
+   626.446.7978
+INTERSECTION TURNING MOVEMENT COUNT SUMMARY
+
+CLIENT:                 HIRSCH/GREEN TRANSPORTATION CONSULTING, INC.
+PROJECT:                BELLWOOD SENIOR CARE/MEDICAL OFFICE
+DATE:                   THURSDAY, NOVEMBER 18, 2010
+PERIOD:                 03:00 PM TO 06:00 PM
+INTERSECTION      N/S   BEVERLY GLEN BOULEVARD
+                 E/W    PICO BOULEVARD
+FILE NUMBER:            8-PM
+
+
+  15 MINUTE        1        2       3          4      5          6          7          8      9      10     11     12
+   TOTALS        SBRT      SBTH   SBLT    WBRT       WBTH       WBLT       NBRT       NBTH   NBLT   EBRT   EBTH   EBLT
+  0300-0315       68        0      107         54    313         0          0          0      0      0     293     75
+  0315-0330       77        0      80          55    329         0          0          0      0      0     260     67
+  0330-0345       83        0      119         66    337         0          0          0      0      0     279     64
+  0345-0400       88        0      109         49    343         0          0          0      0      0     289     64
+  0400-0415       70        0      105         76    311         0          0          0      0      0     272     68
+  0415-0430       85        0      109         67    356         0          0          0      0      0     281     74
+  0430-0445       76        0      80          64    380         0          0          0      0      0     267     75
+  0445-0500       81        0      109         52    453         0          0          0      0      0     357     70
+  0500-0515       73        0      114         89    371         0          0          0      0      0     264     81
+  0515-0530       81        0      120         57    472         0          0          0      0      0     269     89
+  0530-0545       89        0      119         60    469         0          0          0      0      0     283     71
+  0545-0600       99        0      120         59    474         0          0          0      0      0     284     80
+
+
+   1 HOUR          1        2       3          4      5          6          7          8      9      10     11     12
+   TOTALS        SBRT      SBTH   SBLT    WBRT       WBTH       WBLT       NBRT       NBTH   NBLT   EBRT   EBTH   EBLT   TOTALS
+  0300-0400       316       0      415         224   1322        0          0          0      0      0     1121   270     3668
+  0315-0415       318       0      413         246   1320        0          0          0      0      0     1100   263     3660
+  0330-0430       326       0      442         258   1347        0          0          0      0      0     1121   270     3764
+  0345-0445       319       0      403         256   1390        0          0          0      0      0     1109   281     3758
+  0400-0500       312       0      403         259   1500        0          0          0      0      0     1177   287     3938
+  0415-0515       315       0      412         272   1560        0          0          0      0      0     1169   300     4028
+  0430-0530       311       0      423         262   1676        0          0          0      0      0     1157   315     4144
+  0445-0545       324       0      462         258   1765        0          0          0      0      0     1173   311     4293
+  0500-0600       342       0      473         265   1786        0          0          0      0      0     1100   321     4287
+
+
+
+
+   P.M. PEAK HOUR                                         324          0        462
+      0445-0545
+
+
+                                   311                                                              258
+
+                                  1173                                                              1765
+          PICO BOULEVARD
+                                    0                                                                0
+
+
+
+
+                                                            0          0          0
+
+
+                                                      BEVERLY GLEN BOULEVARD
+   THE TRAFFIC SOLUTION
+   329 DIAMOND STREET
+   ARCADIA, CALIFORNIA 91006
+   626.446.7978
+

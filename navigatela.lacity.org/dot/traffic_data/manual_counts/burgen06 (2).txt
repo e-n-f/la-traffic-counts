@@ -1,0 +1,64 @@
+                                         City of Los Angeles
+                                         Department Of Transportation
+                                         MANUAL TRAFFIC COUNT SUMMARY
+
+STREET:
+North/South          GENTRY AV
+
+East/West            BURBANK BL
+
+Day:     WEDNESDAY                       Date:         April 19, 2006           Weather: CLEAR
+
+Hours:   7-10AM 3-6PM
+
+School Day:          YES         District:            EAST VALLEY         I/S CODE                1078030390
+
+
+
+                     N/B                               S/B                      E/B                          W/B
+DUAL-
+WHEELED                    0                                 1                   105                              98
+BIKES                      0                                 0                     0                               0
+BUSES                      0                                 0                     7                               5
+
+
+
+                     N/B       TIME                   S/B        TIME           E/B       TIME              W/B        TIME
+
+AM PK 15 MIN               0 7.00                           11 7.45              401 8.30                     268         7.30
+
+PM PK 15 MIN               0 3.00                           10 5.00              282 5.30                     315         5.15
+
+AM PK HOUR                 0 7.00                           31 8.45             1140 8.00                    1010         7.30
+
+PM PK HOUR                 0 3.00                           29 5.00             1072 5.00                    1193         5.00
+
+
+
+
+NORTHBOUND Approach                                              SOUTHBOUND Approach                                   TOTAL       XING S/L   XING N/L
+                               NONE
+Hours       Lt        Th        Rt        Total                  Hours   Lt      Th        Rt     Total                 N-S        Ped Sch    Ped Sch
+7-8              0         0         0            0              7-8      17          0     10        27                      27     0   0      1   0
+8-9              0         0         0            0              8-9      16          0       7       23                      23     0   0      3   0
+9-10             0         0         0            0              9-10     19          0     10        29                      29     0   0      2   0
+3-4              0         0         0            0              3-4        8         0       7       15                      15     0   0      0   0
+4-5              0         0         0            0              4-5        4         0       4         8                      8     0   0      0   0
+5-6              0         0         0            0              5-6      18          0     11        29                      29     0   0      4   0
+
+TOTAL            0         0         0            0              TOTAL    82          0     49      131                    131       0   0     10   0
+
+
+
+EASTBOUND Approach                                               WESTBOUND Approach                                    TOTAL       XING W/L   XING E/L
+
+Hours       Lt    Th            Rt        Total                  Hours   Lt      Th        Rt     Total                 E-W        Ped Sch    Ped Sch
+7-8            2 905                 0      907                  7-8          0 865          4      869                  1776        0   0      0   0
+8-9            4 1136                0     1140                  8-9          0 940          8      948                  2088        0   0      0   0
+9-10           5 893                 0      898                  9-10         0 964         15      979                  1877        0   0      0   0
+3-4           14 936                 0      950                  3-4          0 915         15      930                  1880        0   0      0   0
+4-5           11 840                 0      851                  4-5          0 934         18      952                  1803        0   0      0   0
+5-6           14 1058                0     1072                  5-6          0 1163        30     1193                  2265        0   0      2   0
+
+TOTAL         50 5768                0     5818                  TOTAL        0 5781        90     5871                  11689       0   0      2   0
+

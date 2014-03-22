@@ -1,0 +1,64 @@
+                                    City of Los Angeles
+                                    Department Of Transportation
+                                    MANUAL TRAFFIC COUNT SUMMARY
+
+STREET:
+North/South       BURLINGTON AV
+
+East/West         BEVERLY BL
+
+Day:     FRIDAY                     Date:      April 21, 2006             Weather: CLEAR
+
+Hours:   7-10AM 2-5PM
+
+School Day:       YES          District:      HOLLYWOOD           I/S CODE                    0743010860
+
+
+
+                   N/B                         S/B                        E/B                              W/B
+DUAL-
+WHEELED              24                              0                     102                                  75
+BIKES                 5                              0                       0                                   1
+BUSES                 0                              0                      56                                  48
+
+
+
+                  N/B       TIME              S/B        TIME             E/B       TIME                  W/B        TIME
+
+AM PK 15 MIN         52 7.45                         0 7.00                296 7.45                         226         7.30
+
+PM PK 15 MIN         21 2.00                         0 2.00                220 3.45                         224         4.15
+
+AM PK HOUR          156 7.00                         0 7.00               1140 7.30                         811         7.00
+
+PM PK HOUR           74 3.30                         0 2.00                842 3.45                         877         3.45
+
+
+
+
+NORTHBOUND Approach                                      SOUTHBOUND Approach NONE                                    TOTAL     XING S/L   XING N/L
+
+Hours       Lt     Th        Rt      Total               Hours   Lt        Th        Rt       Total                   N-S      Ped Sch    Ped Sch
+7-8          63         0     93       156               7-8          0         0         0           0                 156     56 81       0   0
+8-9          24         0     35         59              8-9          0         0         0           0                   59    34   3      0   0
+9-10         14         0     27         41              9-10         0         0         0           0                   41    29   1      0   0
+2-3          21         0     43         64              2-3          0         0         0           0                   64    42 32       0   0
+3-4          25         0     43         68              3-4          0         0         0           0                   68    26 154      0   0
+4-5          21         0     43         64              4-5          0         0         0           0                   64    39 18       0   0
+
+TOTAL       168         0    284       452               TOTAL        0         0         0           0                 452    226 289      0   0
+
+
+
+EASTBOUND Approach                                       WESTBOUND Approach                                          TOTAL     XING W/L   XING E/L
+
+Hours       Lt      Th       Rt      Total               Hours   Lt        Th        Rt       Total                   E-W      Ped Sch    Ped Sch
+7-8              0 1000       28      1028               7-8      30       781            0     811                    1839      3   2      2   0
+8-9              0 956        12       968               8-9      22       631            0     653                    1621      0   0      3   0
+9-10             0 682          7      689               9-10     26       517            0     543                    1232      3   0      1   0
+2-3              0 628        35       663               2-3      25       510            0     535                    1198      1   0      3   2
+3-4              0 781        28       809               3-4      32       673            0     706                    1515      0   0      0   0
+4-5              0 810        25       835               4-5      26       846            0     872                    1707      0   0      1   0
+
+TOTAL            0 4857      135      4992               TOTAL   161 3958                 0    4120                    9112      7   2     10   2
+

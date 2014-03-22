@@ -1,0 +1,61 @@
+                    City Of Los Angeles
+                    Department Of Transportation
+                    MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South         N BROADWAY
+
+East/West           SOLANO AV
+
+Day:            TUESDAY                 Date:          May 4, 2010                    Weather:          SUNNY
+
+Hours:      7-10AM 3-6PM                                           Chekrs:            ALAS
+
+School Day:         YES                 District:          CENTRAL                      I/S CODE 20217
+
+
+                     N/B                             S/B                                E/B                     W/B
+DUAL-
+WHEELED                85                            161                                 23                       0
+BIKES                   0                             31                                  3                       0
+BUSES                 100                            115                                  0                       0
+
+
+                     N/B TIME                        S/B TIME                           E/B TIME                W/B TIME
+
+AM PK 15 MIN          132      7.45                  645    7.45                         76      7.30             0    7.00
+
+PM PK 15 MIN         399       5.30                  231    5.45                         65      4.00             0    3.00
+
+AM PK HOUR           403       7.30                 2429    7.45                        245      7.30             0    7.00
+
+PM PK HOUR           1496      5.00                  878    5.00                        196      3.30             0    3.00
+
+
+
+NORTHBOUND Approach                                        SOUTHBOUND Approach                                        TOTAL   XING S/L    XING N/L
+
+Hours         Lt  Th           Rt       Total              Hours             Lt        Th        Rt Total              N-S     Ped Sch     Ped   Sch
+7-8            25 346               0      371             7-8                    0    2059      125 2184              2555      8 28       16     0
+8-9            16 322               0      338             8-9                    0    2233      126 2359              2697     12   0       4     0
+9-10           10 303               0      313             9-10                   0    1423       65 1488              1801      9   2       6     0
+3-4            48 509               0      557             3-4                    0     534      107   641             1198     20   2      13     0
+4-5           113 917               0     1030             4-5                    0     556      122   678             1708     15   5       9     0
+5-6           189 1307              0     1496             5-6                    0     643      235   878             2374     19   0      17     0
+
+TOTAL         401 3704              0     4105             TOTAL                  0 7448          780    8228         12333     83   37     65    0
+
+
+EASTBOUND Approach                                         WESTBOUND Approach                                         TOTAL   XING W/L    XING E/L
+                   SOLANO AV                                                                    NONE
+Hours   Lt    Th    Rt Total                               Hours             Lt        Th        Rt Total             E-W      Ped Sch     Ped   Sch
+7-8      144     0   77   221                              7-8                    0         0      0        0           221     18   3       0     0
+8-9      120     0   74   194                              8-9                    0         0      0        0           194     21   1       0     0
+9-10      92     0   63   155                              9-10                   0         0      0        0           155     14   0       0     0
+3-4      120     0   36   156                              3-4                    0         0      0        0           156     23   0       0     0
+4-5      123     0   65   188                              4-5                    0         0      0        0           188     19   0       0     0
+5-6       89     0   30   119                              5-6                    0         0      0        0           119     10   0       0     0
+
+TOTAL         688          0   345        1033             TOTAL                  0         0       0       0          1033    105   4       0    0
+
+            (Rev Oct 06)
+

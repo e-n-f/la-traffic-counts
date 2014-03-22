@@ -1,0 +1,61 @@
+                       City Of Los Angeles
+                       Department Of Transportation
+                       MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South            BEVERLY GLEN BL
+
+East/West              GREENDALE DR
+
+Day:        WEDNESDAY                     Date:          April 15, 2009         Weather:            SUNNY
+
+Hours:      7-10AM 2-5PM                                     Chekrs:   CEURLLE
+
+School Day:            YES                District:          WESTERN              I/S CODE 12953
+
+
+                        N/B                           S/B                         E/B                        W/B
+DUAL-
+WHEELED                   33                            58                          0                         28
+BIKES                      2                             1                          0                          0
+BUSES                      0                             0                          0                          0
+
+
+                        N/B TIME                       S/B TIME                   E/B TIME                   W/B TIME
+
+AM PK 15 MIN              81     8.45                  293    8.45                  0      7.00               57    7.45
+
+PM PK 15 MIN            352      4.45                  126    3.30                  0      2.00               76    3.15
+
+AM PK HOUR              295      8.00                 1109    8.15                  0      7.00              143    7.15
+
+PM PK HOUR              1341     4.00                  478    3.15                  0      2.00              209    3.00
+
+
+
+NORTHBOUND Approach                                          SOUTHBOUND Approach                                   TOTAL   XING S/L   XING N/L
+
+Hours         Lt        Th       Rt       Total              Hours        Lt  Th           Rt       Total           N-S     Ped Sch    Ped   Sch
+7-8                0     159       8         167             7-8          117 880               0      997          1164      0   0      0     0
+8-9                0     273      22         295             8-9          104 1004              0     1108          1403      1   0      0     0
+9-10               0     207      11         218             9-10          66 940               0     1006          1224      0   0      1     0
+2-3                0     844      18         862             2-3           34 427               0      461          1323      0   0      0     0
+3-4                0    1242      21        1263             3-4           64 412               0      476          1739      0   0      0     0
+4-5                0    1327      14        1341             4-5           29 415               0      444          1785      0   0      0     0
+
+TOTAL              0 4052         94        4146             TOTAL        414 4078              0     4492          8638     1    0      1    0
+
+
+EASTBOUND Approach                                           WESTBOUND Approach                                    TOTAL   XING W/L   XING E/L
+                   NONE                                                   GREENDALE DR
+Hours   Lt    Th    Rt Total                                 Hours   Lt    Th   Rt Total                           E-W      Ped Sch    Ped   Sch
+7-8        0     0    0                           0          7-8       78     0  39   117                            117      0   0      1     0
+8-9        0     0    0                           0          8-9       30     0  23     53                            53      0   0      2     0
+9-10       0     0    0                           0          9-10       9     0  23     32                            32      0   0      1     0
+2-3        0     0    0                           0          2-3       32     0  61     93                            93      0   0      0     0
+3-4        0     0    0                           0          3-4       77     0 132   209                            209      0   0      2     0
+4-5        0     0    0                           0          4-5       25     0 143   168                            168      0   0      2     0
+
+TOTAL              0         0        0           0          TOTAL        251       0      421         672           672     0    0      8    0
+
+            (Rev Oct 06)
+

@@ -1,0 +1,186 @@
+                                                  TRAFFIC COUNT SUMMARY
+                                                                                                                             City of Los Angeles
+STREET:                                                                                                                 Department of Transportation
+North/South           VETERAN AVENUE
+
+East/West             OLYMPIC BOULEVARD
+
+Day:     AM    THURSDAY               Date:       OCTOBER 30, 2008             Weather:         CLEAR
+         PM    THURSDAY                           OCTOBER 30, 2008
+Hours:         7-10 AM 3-6 PM
+
+School Day:           YES             District:           LOS ANGELES
+
+
+                        N/B                         S/B                          E/B                         W/B
+DUAL-
+WHEELED                 N/A                         N/A                          N/A                          N/A
+BIKES                   N/A                         N/A                          N/A                          N/A
+BUSES                   N/A                         N/A                          N/A                          N/A
+
+
+                        N/B TIME                    S/B TIME                     E/B TIME                    W/B      TIME
+
+AM PK 15 MIN                88 7:45                  61    9:00                  531 8:30                     509     8:30
+
+PM PK 15 MIN            104 5:00                    164    5:00                  503 5:00                     550     5:15
+
+AM PK HOUR              287 7:30                    222    8:30                 2,016 8:30                   1,919    8:00
+
+PM PK HOUR              388 4:45                    609    4:30                 1,970 4:30                   2,182    4:45
+
+
+
+NORTHBOUND Approach                                       SOUTHBOUND Approach                                        TOTAL      XING S/L       XING N/L
+
+Hours           Lt     Th      Rt     Total               Hours         Lt       Th       Rt       Total             N-S        Ped   Sch     Ped   Sch
+7-8              20      203    20        243             7-8             49       53      25          127             370      N/A   N/A     N/A   N/A
+8-9              22      163    43        228             8-9             74       96      33          203             431      N/A   N/A     N/A   N/A
+9 - 10           26      138    50        214             9 - 10          84       78      33          195             409      N/A   N/A     N/A   N/A
+3-4              22      184    14        220             3-4             83      272      51          406             626      N/A   N/A     N/A   N/A
+4-5              34      269    45        348             4-5            104      410      64          578             926      N/A   N/A     N/A   N/A
+5-6              39      280    50        369             5-6            100      407      82          589             958      N/A   N/A     N/A   N/A
+TOTAL           163    1,237   222      1,622             TOTAL          494    1,316     288        2,098           3,720      N/A   N/A     N/A   N/A
+
+
+EASTBOUND Approach                                        WESTBOUND Approach                                         TOTAL      XING W/L       XING E/L
+
+Hours           Lt   Th        Rt     Total               Hours         Lt     Th         Rt       Total             E-W        Ped   Sch     Ped   Sch
+7-8              12 1,178         5     1,195             7-8             10 1,181         26        1,217           2,412      N/A   N/A     N/A   N/A
+8-9              30 1,924        17     1,971             8-9             19 1,868         32        1,919           3,890      N/A   N/A     N/A   N/A
+9 - 10           30 1,838        19     1,887             9 - 10          23 1,652         45        1,720           3,607      N/A   N/A     N/A   N/A
+3-4              53 1,730        20     1,803             3-4             35 1,733         43        1,811           3,614      N/A   N/A     N/A   N/A
+4-5              56 1,848        25     1,929             4-5             87 1,986         34        2,107           4,036      N/A   N/A     N/A   N/A
+5-6              51 1,844        34     1,929             5-6             94 2,013         65        2,172           4,101      N/A   N/A     N/A   N/A
+TOTAL           232 10,362      120    10,714             TOTAL          268 10,433       245       10,946           21,660     N/A   N/A     N/A   N/A
+INTERSECTION TURNING MOVEMENT COUNT SUMMARY
+
+CLIENT:                     CRAIN & ASSOCIATES
+PROJECT:                    CENTURY CITY
+DATE:                       THURSDAY, OCTOBER 30, 2008
+PERIOD:                     07:00 AM TO 10:00 AM
+INTERSECTION:    N/S        VETERAN AVENUE
+                 E/W        OLYMPIC BOULEVARD
+FILE NUMBER:                 8-AM
+
+
+  15 MINUTE       1            2          3          4          5            6          7          8          9          10         11      12
+   TOTALS       SBRT         SBTH        SBLT       WBRT       WBTH        WBLT        NBRT       NBTH       NBLT       EBRT       EBTH    EBLT
+
+
+  0700-0715            3            6           8          5        170           1           2        25           2          0     198          2
+  0715-0730            4           10           9          6        263           2           3        39           3          0     249          4
+  0730-0745            7           15          15          6        357           4           6        68           7          2     324          3
+  0745-0800            11          22          17          9        391           3           9        71           8          3     407          3
+  0800-0815            10          20          17          7        448           4           8        52           8          3     480          5
+  0815-0830            9           26          14          7        441           6         10         36           4          4     453          7
+  0830-0845            6           25          22          9        494           6         12         39           5          3     518         10
+  0845-0900            8           25          21          9        485           3         13         36           5          7     473          8
+  0900-0915            8           27          26        13         431           6         17         42           7          7     483          8
+  0915-0930            11          20          23        14         441           8         11         38           5          5     487          7
+  0930-0945            9           17          19          9        387           4         13         28           7          3     449          9
+  0940-1000            5           14          16          9        393           5           9        30           7          4     419          6
+
+
+   1 HOUR         1            2          3          4          5            6          7          8          9          10         11      12
+   TOTALS       SBRT         SBTH        SBLT       WBRT       WBTH        WBLT        NBRT       NBTH       NBLT       EBRT       EBTH    EBLT       TOTALS
+
+
+  0700-0800            25          53          49        26     1181             10         20         203        20           5    1178         12     2782
+  0715-0815            32          67          58        28     1459             13         26         230        26           8    1460         15     3422
+  0730-0830            37          83          63        29     1637             17         33         227        27          12    1664         18     3847
+  0745-0845            36          93          70        32     1774             19         39         198        25          13    1858         25     4182
+  0800-0900            33          96          74        32     1868             19         43         163        22          17    1924         30     4321
+  0815-0915            31          103         83        38     1851             21         52         153        21          21    1927         33     4334
+  0830-0930            33          97          92        45     1851             23         53         155        22          22    1961         33     4387
+  0845-0945            36          89          89        45     1744             21         54         144        24          22    1892         32     4192
+  0900-1000            33          78          84        45     1652             23         50         138        26          19    1838         30     4016
+
+   A.M. PEAK HOUR                                                   33           97         92
+      0830-0930
+
+
+                                          33                                                                             45
+
+                                         1961                                                                           1851
+        OLYMPIC BOULEVARD
+                                          22                                                                             23
+
+
+
+
+                                                                    22           155        53
+
+
+                                                                          VETERAN AVENUE
+
+   THE TRAFFIC SOLUTION
+   329 DIAMOND STREET
+   ARCADIA, CALIFORNIA 91006
+   626.446.7978
+INTERSECTION TURNING MOVEMENT COUNT SUMMARY
+
+CLIENT:                     CRAIN & ASSOCIATES
+PROJECT:                    CENTURY CITY
+DATE:                       THURSDAY, OCTOBER 30, 2008
+PERIOD:                     03:00 PM TO 06:00 PM
+INTERSECTION:    N/S        VETERAN AVENUE
+                 E/W        OLYMPIC BOULEVARD
+FILE NUMBER:                 8-PM
+
+
+  15 MINUTE       1            2          3          4          5            6          7          8          9          10         11      12
+   TOTALS       SBRT         SBTH        SBLT       WBRT       WBTH        WBLT        NBRT       NBTH       NBLT       EBRT       EBTH    EBLT
+
+
+  0300-0315            15          60          16        13         364           9           2        47           3          4     383          8
+  0315-0330            14          52          15        10         402           7           3        30           5          3     421         10
+  0330-0345            10          71          20        10         473           7           4        48           8          5     456         16
+  0345-0400            12          89          32        10         494          12           5        59           6          8     470         19
+  0400-0415            13          99          25          7        508          18         10         79           7          5     451         16
+  0415-0430            13          105         25          8        493          21         10         60           9          6     456         11
+  0430-0445            17          106         25          8        477          20         11         54           8          6     471         12
+  0445-0500            21          100         29        11         508          28         14         76         10           8     470         17
+  0500-0515            28          103         33        14         500          24         19         72         13          12     478         13
+  0515-0530            22          99          26        19         500          31         12         76           9          9     460         14
+  0530-0545            18          107         22        14         512          21           9        70           8          7     449         10
+  0545-0600            14          98          19        18         501          18         10         62           9          6     457         14
+
+
+   1 HOUR         1            2          3          4          5            6          7          8          9          10         11      12
+   TOTALS       SBRT         SBTH        SBLT       WBRT       WBTH        WBLT        NBRT       NBTH       NBLT       EBRT       EBTH    EBLT       TOTALS
+
+
+  0300-0400            51          272         83        43     1733             35         14         184        22          20    1730         53     4240
+  0315-0415            49          311         92        37     1877             44         22         216        26          21    1798         61     4554
+  0330-0430            48          364        102        35     1968             58         29         246        30          24    1833         62     4799
+  0345-0445            55          399        107        33     1972             71         36         252        30          25    1848         58     4886
+  0400-0500            64          410        104        34     1986             87         45         269        34          25    1848         56     4962
+  0415-0515            79          414        112        41     1978             93         54         262        40          32    1875         53     5033
+  0430-0530            88          408        113        52     1985             103        56         278        40          35    1879         56     5093
+  0445-0545            89          409        110        58     2020             104        54         294        40          36    1857         54     5125
+  0500-0600            82          407        100        65     2013             94         50         280        39          34    1844         51     5059
+
+   P.M. PEAK HOUR                                                   89           409        110
+      0445-0545
+
+
+                                          54                                                                             58
+
+                                         1857                                                                           2020
+        OLYMPIC BOULEVARD
+                                          36                                                                            104
+
+
+
+
+                                                                    40           294        54
+
+
+                                                                          VETERAN AVENUE
+
+   THE TRAFFIC SOLUTION
+   329 DIAMOND STREET
+   ARCADIA, CALIFORNIA 91006
+   626.446.7978
+

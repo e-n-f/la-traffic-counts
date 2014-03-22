@@ -1,0 +1,84 @@
+                                        INTERSECTION TURNING MOVEMENT COUNTS
+                                                    PREPARED BY: PACIFIC TRAFFIC DATA SERVICES
+             DATE:         LOCATION:                  LOS ANGELES                              PROJECT #:      CA09-0807-1
+             8/4/09        NORTH & SOUTH:             MAIN                                     LOCATION #:     18
+            TUESDAY        EAST & WEST:               11TH                                     CONTROL:        SIGNAL
+         NOTES:                                                                                         AM               
+                                                                                                        PM               N
+                                                                                                        MD      W              E
+                                                                                                       OTHER             S
+                                                                                                       OTHER             
+                                  NORTHBOUND                  SOUTHBOUND             EASTBOUND               WESTBOUND
+                                     MAIN                        MAIN                  11TH                     11TH
+                             NL       NT       NR        SL       ST       SR   EL      ET       ER     WL       WT      WR    TOTAL
+                  LANES:     1         2        X        X         2        0   X        X        X     0         2       0
+             6:45 AM                                                                                                             0
+             7:00 AM        10        91                         65        6                            2        19      3      196
+             7:15 AM        8        148                         74        11                           1        27      3      272
+             7:30 AM        15       150                         102       17                            4       22      5      315
+             7:45 AM        14       181                         105       18                            6       35      6      365
+             8:00 AM        8        188                         111       15                           10       26      15     373
+             8:15 AM        14       193                         125       21                            4       36      5      398
+             8:30 AM        18       212                         113       26                           10       47      10     436
+             8:45 AM        17       205                          97       19                           14       41      12     405
+AM
+
+
+
+
+             9:00 AM                                                                                                             0
+         VOLUMES            104      1,368    0          0       792    133      0       0        0     51      253       59   2,760
+         APPROACH %         7%        93%    0%         0%       86%    14%     0%      0%       0%    14%      70%      16%
+         APP/DEPART        1,472        /   1,427       925        /    843      0       /        0    363        /      490    0
+         BEGIN PEAK HR              8:00 AM
+         VOLUMES            57        798     0          0       446     81      0       0        0     38      150       42   1,612
+         APPROACH %         7%        93%    0%         0%       85%    15%     0%      0%       0%    17%      65%      18%
+         PEAK HR FACTOR              0.929                      0.902                  0.000                   0.858           0.924
+         APP/DEPART         855         /    840        527        /    484     0         /      0     230        /      288     0
+            10:45 AM                                                                                                             0
+            11:00 AM                                                                                                             0
+            11:15 AM                                                                                                             0
+            11:30 AM                                                                                                             0
+            11:45 AM                                                                                                             0
+            12:00 PM                                                                                                             0
+            12:15 PM                                                                                                             0
+            12:30 PM                                                                                                             0
+MIDDAY
+
+
+
+
+            12:45 PM                                                                                                             0
+             1:00 PM                                                                                                             0
+         VOLUMES             0         0       0         0        0         0    0       0        0      0        0       0      0
+         APPROACH %         0%        0%      0%        0%       0%        0%   0%      0%       0%     0%       0%      0%
+         APP/DEPART          0          /      0         0        /         0    0       /        0      0        /       0     0
+         BEGIN PEAK HR              1:00 PM
+         VOLUMES             0         0       0         0        0         0    0       0        0      0       0        0     0
+         APPROACH %         0%        0%      0%        0%       0%        0%   0%      0%       0%     0%      0%       0%
+         PEAK HR FACTOR              0.000                      0.000                  0.000                   0.000           0.000
+         APP/DEPART          0          /      0         0         /       0    0         /      0      0         /      0       0
+             3:45 PM                                                                                                             0
+             4:00 PM        14       192                         124       15                           15       45      21     426
+             4:15 PM         9       188                         151       19                           15       53      18     453
+             4:30 PM        18       217                         178       16                           11       58      13     511
+             4:45 PM        16       195                         167       17                           16       64      18     493
+             5:00 PM        12       183                         193       22                           18       79      20     527
+             5:15 PM        10       170                         195       26                           20       88      22     531
+             5:30 PM         8       165                         159       27                           21      100      25     505
+             5:45 PM        15       205                         153       20                           20      140      22     575
+PM
+
+
+
+
+             6:00 PM                                                                                                             0
+         VOLUMES            102      1,515    0          0      1,320    162     0       0        0    136      627      159   4,021
+         APPROACH %         6%        94%    0%         0%       89%     11%    0%      0%       0%    15%      68%      17%
+         APP/DEPART        1,617        /   1,674      1,482       /    1,456    0       /        0    922        /      891    0
+         BEGIN PEAK HR              4:45 PM
+         VOLUMES            46        713     0          0       714     92      0       0        0     75      331       85   2,056
+         APPROACH %         6%        94%    0%         0%       89%    11%     0%      0%       0%    15%      67%      17%
+         PEAK HR FACTOR              0.899                      0.912                  0.000                   0.841           0.968
+         APP/DEPART         759         /    798        806        /    789     0         /      0     491        /      469     0
+

@@ -1,0 +1,220 @@
+                                                                   City Traffic Counters
+                                                                       626.256.4171
+                                                                                                                            File Name                       : BundySM_12_3
+                                                                                                                            Site Code                       : 00000000
+                                                                                                                            Start Date                      : 12/3/2009
+                                                                                                                            Page No                         :2
+
+                           Bundy Dr                          Santa Monica Blvd                          Bundy Dr                    Santa Monica Blvd
+                          Southbound                            Westbound                              Northbound                      Eastbound
+                                     App.                                        App.                               App.                                                 App.     Int.
+   Start Time   Left    Thru Right          Left Thru Right                                  Left    Thru Right               Left          Thru Right
+                                    Total                                        Total                              Total                                                Total   Total
+Peak Hour From 07:00 AM to 11:45 AM - Peak 1 of 1
+  Intersection 08:00 AM
+      Volume      77    838   26      941      0   947  98                       1045       102        837    68    1007      50            588               93          731    3724
+      Percent     8.2 89.1    2.8            0.0 90.6   9.4                                 10.1       83.1   6.8             6.8           80.4             12.7
+        08:45
+                  14    187     5     206      0   271  25                        296         28       213    11     252       15           162                     17    194     948
+      Volume
+ Peak Factor                                                                                                                                                                     0.982
+      High Int. 08:15 AM                   08:45 AM                                         08:00 AM                         08:45 AM
+      Volume      23    224     9     256      0   271  25                        296         25    225       18      268      15    162                            17     194
+ Peak Factor                       0.919                                        0.883                               0.939                                                0.942
+
+                                                                                 Bundy Dr
+                                                                         Out        In         Total
+                                                                          985        941        1926
+
+
+                                                                             26   838           77
+                                                                          Right Thru         Left
+                                         1806
+                                        Total
+
+
+
+
+                                                                                                                                               Out
+                                                                                                                                                733
+                                                  50
+
+
+
+
+                                                                                                                               Right Thru
+
+
+
+
+                                                                                                                                                 Santa Monica Blvd
+                        Santa Monica Blvd
+
+
+
+
+                                                Left
+
+
+
+
+                                                                                    North
+                                                                                                                                  98
+                                731
+
+
+                                                       588
+                                                Right Thru
+                                In
+
+
+
+
+                                                                                                                                                       1045
+                                                                        12/3/2009 8:00:00 AM                                                            In
+                                                                                                                                      947
+
+
+
+
+                                                                        12/3/2009 8:45:00 AM
+                                                   93
+
+
+
+
+                                                                                                                               Left
+                       1075
+
+
+
+
+                                                                        Unshifted
+                       Out
+
+
+
+
+                                                                                                                                                                Total
+                                                                                                                                                                 1778
+                                                                                                                                   0
+
+
+
+
+                                                                           Left Thru Right
+                                                                            102   837   68
+
+
+                                                                          931       1007        1938
+                                                                         Out        In         Total
+                                                                                 Bundy Dr
+                                                                   City Traffic Counters
+                                                                       626.256.4171
+                                                                                                                            File Name                       : BundySM_12_3
+                                                                                                                            Site Code                       : 00000000
+                                                                                                                            Start Date                      : 12/3/2009
+                                                                                                                            Page No                         :3
+                           Bundy Dr                          Santa Monica Blvd                          Bundy Dr                    Santa Monica Blvd
+                          Southbound                            Westbound                              Northbound                      Eastbound
+                                     App.                                        App.                               App.                                                 App.     Int.
+   Start Time   Left    Thru Right          Left Thru Right                                 Left    Thru Right                Left          Thru Right
+                                    Total                                        Total                              Total                                                Total   Total
+Peak Hour From 12:00 PM to 05:45 PM - Peak 1 of 1
+  Intersection 05:00 PM
+      Volume      67    801   51      919      0   754  73                        827       117     1018     122    1257      61            974              115         1150    4153
+      Percent     7.3 87.2    5.5            0.0 91.2   8.8                                  9.3     81.0     9.7             5.3           84.7             10.0
+        05:15
+                  17    231   16      264      0   206  18                        224        31        272    29     332       17           252                     32    301    1121
+      Volume
+ Peak Factor                                                                                                                                                                     0.926
+      High Int. 05:15 PM                   05:15 PM                                   05:45 PM                            05:00 PM
+      Volume      17    231   16      264      0   206  18                        224   31    289             23      343   19    251                               36     306
+ Peak Factor                       0.870                                        0.923                               0.916                                                0.940
+
+                                                                                 Bundy Dr
+                                                                         Out        In         Total
+                                                                         1152        919        2071
+
+
+                                                                             51   801          67
+                                                                          Right Thru        Left
+                                         2072
+                                        Total
+
+
+
+
+                                                                                                                                               1163
+                                                                                                                                               Out
+                                                  61
+
+
+
+
+                                                                                                                               Right Thru
+
+
+
+
+                                                                                                                                                 Santa Monica Blvd
+                        Santa Monica Blvd
+
+
+
+
+                                                Left
+
+
+
+
+                                                                                    North                                         73
+                               1150
+
+
+                                                       974
+                                                Right Thru
+                                In
+
+
+
+
+                                                                                                                                                        In
+                                                                        12/3/2009 5:00:00 PM
+                                                                                                                                      754
+
+
+                                                                                                                                                        827
+                                                                        12/3/2009 5:45:00 PM
+                                                  115
+
+
+
+
+                                                                                                                               Left
+                        922
+
+
+
+
+                                                                        Unshifted
+                       Out
+
+
+
+
+                                                                                                                                                                Total
+                                                                                                                                                                 1990
+                                                                                                                                   0
+
+
+
+
+                                                                           Left Thru Right
+                                                                            117 1018   122
+
+
+                                                                          916       1257        2173
+                                                                         Out        In         Total
+                                                                                 Bundy Dr
+

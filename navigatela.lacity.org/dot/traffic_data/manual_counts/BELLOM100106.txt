@@ -1,0 +1,61 @@
+                    City Of Los Angeles
+                    Department Of Transportation
+                    MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South         BELLE PORTE AV
+
+East/West           LOMITA BL
+
+Day:          WEDNESDAY               Date:        January 6, 2010              Weather:            SUNNY
+
+Hours:      7-10AM 3-6PM                                        Chekrs:         ALAS
+
+School Day:         YES               District:         SOUTHERN                  I/S CODE 3818
+
+
+                      N/B                         S/B                             E/B                        W/B
+DUAL-
+WHEELED                11                          0                              131                          98
+BIKES                   2                          0                                8                           5
+BUSES                   0                          0                                5                           6
+
+
+                      N/B TIME                    S/B TIME                        E/B TIME                   W/B TIME
+
+AM PK 15 MIN           27      7.15                0     7.00                     279      8.00               287    8.15
+
+PM PK 15 MIN           17      5.30                0     3.00                     432      5.30               321    5.30
+
+AM PK HOUR             85      7.00                0     7.00                    1012      7.30              1055    8.15
+
+PM PK HOUR             62      5.00                0     3.00                    1666      5.00              1259    5.00
+
+
+
+NORTHBOUND Approach                                     SOUTHBOUND Approach                                         TOTAL   XING S/L   XING N/L
+             BELLE PORTE AV                                                NONE
+Hours   Lt    Th   Rt Total                             Hours    Lt   Th    Rt Total                                 N-S     Ped Sch    Ped   Sch
+7-8      15      0  70     85                           7-8         0    0    0                          0             85      3   0      0     0
+8-9      16      0  63     79                           8-9         0    0    0                          0             79      6   0      0     0
+9-10     12      0  36     48                           9-10        0    0    0                          0             48      8   0      0     0
+3-4        7     0  24     31                           3-4         0    0    0                          0             31      4   0      0     0
+4-5        8     0  32     40                           4-5         0    0    0                          0             40     11   2      0     0
+5-6      10      0  52     62                           5-6         0    0    0                          0             62      9   0      0     0
+
+TOTAL          68          0   277        345           TOTAL               0       0           0        0            345     41   2      0    0
+
+
+EASTBOUND Approach                                      WESTBOUND Approach                                          TOTAL   XING W/L   XING E/L
+
+Hours         Lt     Th        Rt Total                 Hours             Lt  Th           Rt       Total           E-W      Ped Sch    Ped   Sch
+7-8                0 861        19   880                7-8                22 922               0      944           1824      0   0      7     0
+8-9                0 928        23   951                8-9                27 1016              0     1043           1994      0   0      2     0
+9-10               0 755        27   782                9-10               29 855               0      884           1666      0   0      2     0
+3-4                0 1225       46 1271                 3-4                75 967               0     1042           2313      0   0      2     1
+4-5                0 1561       46 1607                 4-5                72 1021              0     1093           2700      0   0      9     5
+5-6                0 1617       49 1666                 5-6                94 1165              0     1259           2925      0   0     15     0
+
+TOTAL              0 6947      210      7157            TOTAL             319 5946              0     6265          13422      0   0     37    6
+
+            (Rev Oct 06)
+

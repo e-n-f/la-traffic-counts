@@ -1,0 +1,512 @@
+                                                 City Traffic Counters
+                                                    626-447-4171
+                                                                                                    File Name        : FigVenice
+                                                                                                    Site Code        : 00000000
+                                                                                                    Start Date       : 5/10/2012
+                                                                                                    Page No          :1
+                                                Groups Printed- 1 - Unshifted
+                    Figueroa St               Venice Blvd                  Figueroa St               Venice Blvd
+                   Southbound                  Westbound                   Northbound                 Eastbound
+ Start Time    Left     Thru      Right   Left     Thru    Right      Left      Thru     Right   Left     Thru     Right   Int. Total
+     Factor    1.0        1.0       1.0   1.0        1.0     1.0       1.0        1.0      1.0   1.0        1.0      1.0
+ 07:00 AM        1         50         7     8        43      11        33        337         8    13        38       40         589
+ 07:15 AM        3         66         2    13        54        6       47        364       11     23        62       60         711
+ 07:30 AM        1         77         6    19        53        9       55        381         8    22        97       52         780
+ 07:45 AM        3         63       10     10        56      21        42        450       17     28       105       53         858
+       Total     8       256        25     50       206      47       177      1532        44     86       302      205        2938
+
+ 08:00 AM        1       72          9      3       50         7       37       426        14     27      111        47         804
+ 08:15 AM        7       71          5     14       50         6       37       454        24     29      134        49         880
+ 08:30 AM        3       72         12     12       47         6       30       468        20     23      129        39         861
+ 08:45 AM        6       73         12     11       48         8       35       360        21     42      101        41         758
+     Total      17      288         38     40      195        27      139      1708        79    121      475       176        3303
+
+ 09:00 AM        4       57          8      6       40         6       23       354        11     19       97        33         658
+ 09:15 AM        3       70         11      7       53         9       25       365        12     19       85        33         692
+ 09:30 AM        2       72         15      9       35        14       27       282        10     19       65        34         584
+ 09:45 AM        1       76          9     11       44         9       19       232        19     17       65        47         549
+     Total      10      275         43     33      172        38       94      1233        52     74      312       147        2483
+
+
+
+ 03:00 PM        3      107          6     15       62         8       34       346         8     27       81        26         723
+ 03:15 PM        8      138          7     11       50         9       33       371        17     30       88        30         792
+ 03:30 PM        5      117          4     16       77        18       43       380        21     22      115        38         856
+ 03:45 PM        4      148          5     14       66         9       51       319        21     25      100        52         814
+     Total      20      510         22     56      255        44      161      1416        67    104      384       146        3185
+
+ 04:00 PM        5      127         15     13       67        11       37       363        15     16       94        41         804
+ 04:15 PM        8      128         16     22       80        16       35       398        18     29       95        39         884
+ 04:30 PM        5      157          9     20       76        12       48       409        13     28       92        38         907
+ 04:45 PM        6      136          8     22       87        14       40       361        18     23      105        45         865
+     Total      24      548         48     77      310        53      160      1531        64     96      386       163        3460
+
+ 05:00 PM        2      149         14     25      119        13       55       363        14     17       95        43         909
+ 05:15 PM        4      129         22     26      130        11       53       388        15     19       99        33         929
+ 05:30 PM        3      130         16     26      144        20       54       373        16     24       91        21         918
+ 05:45 PM        5      118         21     27      142        16       56       330        18     25       94        17         869
+     Total      14      526         73    104      535        60      218      1454        63     85      379       114        3625
+
+Grand Total    93      2403        249    360     1673      269       949      8874       369    566     2238      951       18994
+ Apprch %      3.4      87.5        9.1   15.6     72.7     11.7       9.3      87.1       3.6   15.1     59.6     25.3
+   Total %     0.5      12.7        1.3    1.9      8.8      1.4       5.0      46.7       1.9    3.0     11.8      5.0
+                                                         City Traffic Counters
+                                                            626-447-4171
+                                                                                                                               File Name                   : FigVenice
+                                                                                                                               Site Code                   : 00000000
+                                                                                                                               Start Date                  : 5/10/2012
+                                                                                                                               Page No                     :2
+
+                         Figueroa St                  Venice Blvd                             Figueroa St                          Venice Blvd
+                         Southbound                   Westbound                               Northbound                           Eastbound
+                                     App.                             App.                                  App.                                           App.     Int.
+   Start Time   Left   Thru Right            Left Thru Right                        Left    Thru Right               Left          Thru Right
+                                    Total                             Total                                 Total                                          Total   Total
+Peak Hour From 07:00 AM to 11:45 AM - Peak 1 of 1
+  Intersection 07:45 AM
+      Volume      14    278   36      328     39   203   40             282         146     1798     75     2019    107            479           188        774    3403
+      Percent     4.3 84.8 11.0             13.8 72.0 14.2                           7.2     89.1    3.7            13.8           61.9          24.3
+        08:15
+                    7    71    5       83     14    50    6              70          37       454     24     515      29           134                49    212     880
+      Volume
+ Peak Factor                                                                                                                                                       0.967
+      High Int. 08:30 AM                   07:45 AM                             08:30 AM                            08:15 AM
+      Volume        3    72   12       87     10    56   21              87       30    468           20      518     29    134                       49     212
+ Peak Factor                       0.943                              0.810                                 0.974                                          0.913
+
+                                                                      Figueroa St
+                                                               Out        In          Total
+                                                               1945        328         2273
+
+
+                                                                   36   278            14
+                                                                Right Thru          Left
+                            1159
+                            Total
+
+
+
+
+                                                                                                                                      Out
+                                                                                                                                       568
+                                          107
+
+
+
+
+                                                                                                                      Right Thru
+                                         Left
+
+
+
+
+                                                                        North
+                                                                                                                         40
+
+
+
+
+                                                                                                                                      Venice Blvd
+                           Venice Blvd
+
+                                 774
+
+
+                                                479
+                                         Right Thru
+                                In
+
+
+
+
+                                                              5/10/2012 7:45:00 AM                                                        In
+                                                                                                                             203
+
+
+                                                                                                                                           282
+
+                                                              5/10/2012 8:30:00 AM
+                                           188
+
+
+
+
+                                                                                                                      Left
+                        385
+
+
+
+
+                                                              1 - Unshifted
+                       Out
+
+
+
+
+                                                                                                                                                  Total
+                                                                                                                        39
+
+
+                                                                                                                                                   850
+
+
+
+
+                                                                 Left Thru Right
+                                                                  146 1798    75
+
+
+                                                                505       2019         2524
+                                                               Out        In          Total
+                                                                      Figueroa St
+                                                         City Traffic Counters
+                                                            626-447-4171
+                                                                                                                               File Name                   : FigVenice
+                                                                                                                               Site Code                   : 00000000
+                                                                                                                               Start Date                  : 5/10/2012
+                                                                                                                               Page No                     :3
+                         Figueroa St                  Venice Blvd                             Figueroa St                          Venice Blvd
+                         Southbound                   Westbound                               Northbound                           Eastbound
+                                     App.                             App.                                  App.                                           App.     Int.
+   Start Time   Left   Thru Right            Left Thru Right                        Left    Thru Right              Left           Thru Right
+                                    Total                             Total                                 Total                                          Total   Total
+Peak Hour From 12:00 PM to 05:45 PM - Peak 1 of 1
+  Intersection 05:00 PM
+      Volume      14    526   73      613   104    535   60             699     218         1454     63     1735     85            379           114        578    3625
+      Percent     2.3 85.8 11.9             14.9 76.5    8.6                    12.6         83.8    3.6            14.7           65.6          19.7
+        05:15
+                    4   129   22      155     26   130   11             167          53       388     15     456     19             99                33    151     929
+      Volume
+ Peak Factor                                                                                                                                                       0.976
+      High Int. 05:00 PM                   05:30 PM                         05:15 PM                              05:00 PM
+      Volume        2   149   14      165     26   144   20             190   53    388               15      456   17     95                         43     155
+ Peak Factor                       0.929                              0.920                                 0.951                                          0.932
+
+                                                                      Figueroa St
+                                                               Out        In          Total
+                                                               1599        613         2212
+
+
+                                                                   73   526            14
+                                                                Right Thru          Left
+                            1404
+                            Total
+
+
+
+
+                                                                                                                                      Out
+                                                                                                                                       456
+                                           85
+
+
+
+
+                                                                                                                      Right Thru
+                                         Left
+
+
+
+
+                                                                        North                                            60
+
+
+
+
+                                                                                                                                      Venice Blvd
+                           Venice Blvd
+
+                                 578
+
+
+                                                379
+                                         Right Thru
+                                In
+
+
+
+
+                                                                                                                                          In
+                                                              5/10/2012 5:00:00 PM
+                                                                                                                             535
+
+
+                                                                                                                                           699
+                                                              5/10/2012 5:45:00 PM
+                                           114
+
+
+
+
+                                                                                                                      Left
+                        826
+
+
+
+
+                                                              1 - Unshifted
+                                                                                                                       104
+                       Out
+
+
+
+
+                                                                                                                                                  Total
+                                                                                                                                                  1155
+
+
+
+
+                                                                 Left Thru Right
+                                                                  218 1454    63
+
+
+                                                                744       1735         2479
+                                                               Out        In          Total
+                                                                      Figueroa St
+                                  City Traffic Counters
+                                     626-447-4171
+                                                                               File Name    : FigVenice_B_P
+                                                                               Site Code    : 00000000
+                                                                               Start Date   : 5/10/2012
+                                                                               Page No      :1
+                                   Groups Printed- 2 - Bank 1
+               Figueroa St        Venice Blvd               Figueroa St           Venice Blvd
+               Southbound         Westbound                 Northbound            Eastbound
+ Start Time    Thru        Peds   Thru        Peds          Thru        Peds      Thru        Peds   Int. Total
+     Factor     1.0         1.0    1.0          1.0           1.0        1.0       1.0         1.0
+ 07:00 AM         2          17      3            7             0          5         1          10         45
+ 07:15 AM         3          19      4            7             1          6         2           6         48
+ 07:30 AM         4          17      3            5             3          1         1           7         41
+ 07:45 AM         2          13      5          10              2          5         0           1         38
+       Total     11          66     15          29              6         17         4          24        172
+
+ 08:00 AM         1          8       6           5            0           5          4          0          29
+ 08:15 AM         5         14       3           6            1           4          2          4          39
+ 08:30 AM         4         20       1           5            2           9          5          6          52
+ 08:45 AM         1         10       3           4            1           4          2          2          27
+     Total       11         52      13          20            4          22         13         12         147
+
+ 09:00 AM         3          8       3           3            1           5          3          3          29
+ 09:15 AM         0          9       0           4            0           6          0          5          24
+ 09:30 AM         3          2       4           5            2           7          2          3          28
+ 09:45 AM         1         10       4           3            1           8          3          9          39
+     Total        7         29      11          15            4          26          8         20         120
+
+
+
+ 03:00 PM         1         11       6          14            3           4          4          2          45
+ 03:15 PM         0         23       2          10            1          10          3          9          58
+ 03:30 PM         1         24      14          30            4          12          4          7          96
+ 03:45 PM         2         18      11          13            4          12          4          7          71
+     Total        4         76      33          67           12          38         15         25         270
+
+ 04:00 PM         1         16       6          13            1          18          1          5          61
+ 04:15 PM         0         25       6          13            1           7          4          2          58
+ 04:30 PM         1         19       8          11            1           5          5         14          64
+ 04:45 PM         2         17       8          21            4          11          7         11          81
+     Total        4         77      28          58            7          41         17         32         264
+
+ 05:00 PM         2         22       8          19            1           7          2          6          67
+ 05:15 PM         0         14       6          17           12           8          5          1          63
+ 05:30 PM         4         12       8          11            0           2          3          2          42
+ 05:45 PM         4         16       7          13            3           9          8          3          63
+     Total       10         64      29          60           16          26         18         12         235
+
+Grand Total     47         364    129         249           49         170          75        125        1208
+ Apprch %      11.4        88.6   34.1        65.9         22.4        77.6        37.5       62.5
+   Total %      3.9        30.1   10.7        20.6          4.1        14.1         6.2       10.3
+                                                       City Traffic Counters
+                                                          626-447-4171
+                                                                                                                 File Name                     : FigVenice_B_P
+                                                                                                                 Site Code                     : 00000000
+                                                                                                                 Start Date                    : 5/10/2012
+                                                                                                                 Page No                       :2
+
+                             Figueroa St             Venice Blvd                           Figueroa St                          Venice Blvd
+                             Southbound              Westbound                             Northbound                           Eastbound
+                                       App.                           App.                               App.                                          App.
+      Start Time   Thru               Peds      Thru  Peds                         Thru       Peds                 Thru            Peds                        Int. Total
+                                       Total                          Total                              Total                                         Total
+Peak Hour From 07:00 AM to 11:45 AM - Peak 1 of 1
+     Intersection 07:00 AM
+         Volume        11     66         77       15    29                44          6        17          23         4             24                   28         172
+         Percent     14.3   85.7                 34.1 65.9                         26.1       73.9                 14.3            85.7
+   07:15 Volume         3     19         22         4    7                11          1          6          7         2               6                   8         48
+     Peak Factor                                                                                                                                                0.896
+         High Int. 07:15 AM                  07:45 AM                            07:15 AM                        07:00 AM
+         Volume         3     19         22         5   10              15            1          6           7        1                 10                11
+     Peak Factor                      0.875                          0.733                               0.821                                         0.636
+
+                                                                    Figueroa St
+                                                            Out         In         Total
+                                                                  6        77         83
+
+
+                                                                       11   66
+                                                                    Thru Peds
+                            43
+                         Total
+
+
+
+
+                                                                                                                                   Out
+                                                                                                                                      4
+                                                                         North
+                                                 4
+
+
+
+
+                                                                                                                    Thru Peds
+                                        Peds Thru
+
+
+
+
+                                                                                                                                   Venice Blvd
+                        Venice Blvd
+
+                               28
+
+
+
+
+                                                                                                                      15
+                             In
+
+
+
+
+                                                                                                                                       In
+                                                           5/10/2012 7:00:00 AM                                                          44
+                                          24
+
+
+
+
+                                                           5/10/2012 7:45:00 AM
+                                                                                                                           29
+                     15
+
+
+
+
+                                                            2 - Bank 1
+                    Out
+
+
+
+
+                                                                                                                                               Total
+                                                                                                                                                  48
+
+
+
+
+                                                                    Thru Peds
+                                                                        6   17
+
+
+                                                              11           23         34
+                                                            Out         In         Total
+                                                                    Figueroa St
+                                                      City Traffic Counters
+                                                         626-447-4171
+                                                                                                                 File Name                     : FigVenice_B_P
+                                                                                                                 Site Code                     : 00000000
+                                                                                                                 Start Date                    : 5/10/2012
+                                                                                                                 Page No                       :3
+                             Figueroa St            Venice Blvd                            Figueroa St                          Venice Blvd
+                             Southbound             Westbound                              Northbound                           Eastbound
+                                       App.                           App.                               App.                                          App.
+      Start Time   Thru               Peds      Thru  Peds                         Thru       Peds                 Thru            Peds                        Int. Total
+                                       Total                          Total                              Total                                         Total
+Peak Hour From 12:00 PM to 05:45 PM - Peak 1 of 1
+     Intersection 03:15 PM
+         Volume          4    81         85       33    66               99         10         52          62       12              28                   40         286
+         Percent       4.7  95.3                 33.3 66.7                         16.1       83.9                 30.0            70.0
+   03:30 Volume          1    24         25       14    30               44           4        12          16         4               7                  11         96
+     Peak Factor                                                                                                                                                0.745
+         High Int. 03:30 PM                  03:30 PM                           04:00 PM                         03:15 PM
+         Volume          1    24         25       14    30               44          1          18          19        3                    9              12
+     Peak Factor                      0.850                           0.563                              0.816                                         0.833
+
+                                                                     Figueroa St
+                                                           Out           In        Total
+                                                             10             85        95
+
+
+                                                                         4   81
+                                                                     Thru Peds
+                            73
+                         Total
+
+
+
+
+                                                                                                                                   Out
+                                                                                                                                    12
+                                                                        North
+                                               12
+
+
+
+
+                                                                                                                    Thru Peds
+                                        Peds Thru
+
+
+
+
+                                                                                                                                   Venice Blvd
+                        Venice Blvd
+
+                                40
+
+
+
+
+                                                                                                                      33
+                              In
+
+
+
+
+                                                                                                                                       In
+                                                          5/10/2012 3:15:00 PM
+
+                                                                                                                                         99
+                                          28
+
+
+
+
+                                                          5/10/2012 4:00:00 PM
+                                                                                                                           66
+                     33
+
+
+
+
+                                                           2 - Bank 1
+                    Out
+
+
+
+
+                                                                                                                                               Total
+                                                                                                                                                111
+
+
+
+
+                                                                     Thru Peds
+                                                                        10   52
+
+
+                                                                 4          62        66
+                                                           Out           In        Total
+                                                                     Figueroa St
+

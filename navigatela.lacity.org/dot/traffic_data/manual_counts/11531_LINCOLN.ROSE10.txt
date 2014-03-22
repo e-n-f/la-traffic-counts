@@ -1,0 +1,61 @@
+                    City Of Los Angeles
+                    Department Of Transportation
+                    MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South         LINCOLN BL
+
+East/West           ROSE AV
+
+Day:           WEDNESDAY              Date:        February 9, 2010             Weather:          SUNNY
+
+Hours:      7-10AM 3-6PM                                        Chekrs:         THOMPSON
+
+School Day:         YES               District:         WESTERN                   I/S CODE 11531
+
+
+                     N/B                          S/B                             E/B                     W/B
+DUAL-
+WHEELED                    9                       25                              39                       9
+BIKES                      0                        0                               0                       0
+BUSES                      0                        0                               0                       0
+
+
+                     N/B TIME                     S/B TIME                        E/B TIME                W/B TIME
+
+AM PK 15 MIN           37      9.15                57    8.15                     169      8.45           136    7.45
+
+PM PK 15 MIN           39      5.30                59    5.15                     178      5.00            79    4.15
+
+AM PK HOUR           103       8.00               204    8.00                     614      8.15           486    7.45
+
+PM PK HOUR           147       5.00               218    4.45                     674      4.45           279    4.00
+
+
+
+NORTHBOUND Approach                                     SOUTHBOUND Approach                                     TOTAL   XING S/L   XING N/L
+
+Hours         Lt     Th        Rt     Total             Hours             Lt     Th        Rt Total              N-S     Ped Sch    Ped   Sch
+7-8            43          0     5         48           7-8                54         0     68   122              170      0   0      0     0
+8-9            88          0    15       103            8-9                80         0    124   204              307      0   0      0     0
+9-10           79          0    11         90           9-10               45         0    125   170              260      0   0      0     0
+3-4            98          0    11       109            3-4                58         0    131   189              298      0   0      0     0
+4-5           112          0     9       121            4-5                66         0    132   198              319      0   0      0     0
+5-6           132          0    15       147            5-6                74         0    142   216              363      0   0      0     0
+
+TOTAL         552          0    66        618           TOTAL             377         0    722     1099          1717     0    0      0    0
+
+
+EASTBOUND Approach                                      WESTBOUND Approach                                      TOTAL   XING W/L   XING E/L
+
+Hours         Lt     Th        Rt Total                 Hours             Lt     Th        Rt Total             E-W      Ped Sch    Ped   Sch
+7-8           180     191       90   461                7-8                27     136       76   239              700      0   0      0     0
+8-9           190     275      138   603                8-9                35     276      127   438             1041      0   0      0     0
+9-10          166     234      129   529                9-10               28     172       53   253              782      0   0      0     0
+3-4           136     215      177   528                3-4                37     139       61   237              765      0   0      0     0
+4-5           169     274      176   619                4-5                58     172       49   279              898      0   0      0     0
+5-6           166     337      166   669                5-6                47     173       59   279              948      0   0      0     0
+
+TOTAL         1007 1526        876      3409            TOTAL             232 1068         425     1725          5134     0    0      0    0
+
+            (Rev Oct 06)
+

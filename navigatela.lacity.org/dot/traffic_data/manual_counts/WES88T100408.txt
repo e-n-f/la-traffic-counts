@@ -1,0 +1,61 @@
+                    City Of Los Angeles
+                    Department Of Transportation
+                    MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South         WESTERN AV
+
+East/West           88TH ST
+
+Day:        THURSDAY                    Date:         April 8, 2010            Weather:            SUNNY
+
+Hours:      7-10AM 2-5PM                                  Chekrs:   YOUNG
+
+School Day:         YES                 District:         SOUTHERN               I/S CODE 1700
+
+
+                     N/B                            S/B                          E/B                           W/B
+DUAL-
+WHEELED               107                            90                           13                             0
+BIKES                   0                             1                           15                             0
+BUSES                  74                            42                            0                             0
+
+
+                     N/B TIME                       S/B TIME                     E/B TIME                      W/B TIME
+
+AM PK 15 MIN          240      7.45                 215    7.45                   10      9.30                   0    7.00
+
+PM PK 15 MIN          244      4.45                 248    3.45                   16      2.15                   0    2.00
+
+AM PK HOUR            880      7.30                 732    7.30                   28      8.45                   0    7.00
+
+PM PK HOUR            901      4.00                 922    3.45                   38      3.00                   0    2.00
+
+
+
+NORTHBOUND Approach                                       SOUTHBOUND Approach                                        TOTAL   XING S/L    XING N/L
+
+Hours         Lt     Th        Rt       Total             Hours       Lt        Th        Rt       Total              N-S     Ped Sch     Ped   Sch
+7-8             8     821           0      829            7-8              0     632        8         640             1469      0   0       0     0
+8-9            19     774           0      793            8-9              0     611        5         616             1409      0   0       2     0
+9-10           21     552           0      573            9-10             0     558       12         570             1143      1   0       3     0
+2-3            31     747           0      778            2-3              0     678       17         695             1473      4   0       7     0
+3-4            24     818           0      842            3-4              0     786       20         806             1648      2   0      22     0
+4-5            26     875           0      901            4-5              0     899       16         915             1816      5   0      10     0
+
+TOTAL         129 4587              0     4716            TOTAL            0 4164          78        4242             8958     12   0      44    0
+
+
+EASTBOUND Approach                                        WESTBOUND Approach                                         TOTAL   XING W/L    XING E/L
+
+Hours         Lt     Th        Rt Total                   Hours       Lt        Th        Rt       Total             E-W      Ped Sch     Ped   Sch
+7-8             2          0    12     14                 7-8              0         0         0           0            14     16   5       0     0
+8-9             7          0    17     24                 8-9              0         0         0           0            24     19   3       0     0
+9-10            8          0    17     25                 9-10             0         0         0           0            25     31   0       0     0
+2-3             9          0    24     33                 2-3              0         0         0           0            33     34   0       0     0
+3-4            11          0    27     38                 3-4              0         0         0           0            38     26   3       0     0
+4-5            12          0    24     36                 4-5              0         0         0           0            36     35   0       0     0
+
+TOTAL          49          0   121          170           TOTAL            0         0         0           0           170    161   11      0    0
+
+            (Rev Oct 06)
+

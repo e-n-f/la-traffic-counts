@@ -1,0 +1,63 @@
+                        City Of Los Angeles
+                        Department Of Transportation
+                        MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South             NORTON AV
+
+East/West               6 TH ST
+
+Day:        MONDAY                         Date:       March 12, 2007                 Weather:           CLEAR
+
+Hours:      7-10AM 3-6PM
+
+School Day:             YES                District:             HOLLYWOOD              I/S CODE 5446082440
+
+
+                         N/B                           S/B                             E/B                         W/B
+DUAL-
+WHEELED                        9                             3                              31                        9
+BIKES                          3                             0                               0                        0
+BUSES                          0                             0                               0                        0
+
+
+                        N/B        TIME                S/B       TIME                 E/B        TIME              W/B TIME
+
+AM PK 15 MIN                  64    8.00                 14 7.45                        274       8.00              401     7.45
+
+PM PK 15 MIN                  32    4.00                 14 4.15                        305       5.15              248     5.15
+
+AM PK HOUR                148       7.30                 39 9.00                        952       7.30             1407     7.30
+
+PM PK HOUR                122       4.00                 43 4.15                       1140       5.00              933     5.00
+
+
+
+
+NORTHBOUND Approach                                              SOUTHBOUND Approach                                      TOTAL    XING S/L   XING N/L
+
+Hours          Lt        Th         Rt      Total                Hours       Lt        Th         Rt      Total            N-S     Ped Sch    Ped Sch
+7-8                 5          7      64        76               7-8              2      18         14        34             110     11   0      4   0
+8-9                 4          8    120       132                8-9              3       8         15        26             158      8   0      0   0
+9-10                6          4      27        37               9-10             4       8         27        39              76     11   0      5   0
+3-4                 5          8      64        77               3-4              1      11          5        17              94      1   0      0   0
+4-5                 6         16    100       122                4-5              6      20         12        38             160      2   0      1   0
+5-6                 4         11      89      104                5-6              8      14         19        41             145      2   0      3   0
+
+TOTAL           30            54     464       548               TOTAL        24            79      92      195              743     35   0     13   0
+
+
+EASTBOUND Approach                                               WESTBOUND Approach                                       TOTAL    XING W/L   XING E/L
+
+Hours          Lt        Th         Rt      Total                Hours       Lt        Th         Rt      Total            E-W     Ped Sch    Ped Sch
+7-8              7        621         31      659                7-8           99      1174          9     1282             1941      4   0      0   0
+8-9             11        889         27      927                8-9           75      1184          6     1265             2192      3   0      0   0
+9-10             3        486         20      509                9-10          46       913          4      963             1472      3   0      0   0
+3-4             13        888         24      925                3-4           47       616         11      674             1599      1   0      0   0
+4-5             26        921         22      969                4-5           56       620         22      698             1667      1   0      0   0
+5-6             31       1075         34     1140                5-6           83       825         25      933             2073      1   0      0   0
+
+TOTAL           91       4880        158      5129               TOTAL       406       5332         77     5815            10944     13   0      0   0
+
+
+            (Rev Oct 06)
+

@@ -1,0 +1,282 @@
+                          City Of Los Angeles
+                          Department Of Transportation
+                          MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South               St Andrews Pl
+
+East/West                 6th St
+
+Day:                      Tuesday                Date:             May 1, 2012                  Weather:             SUNNY
+
+Hours:        7-10AM 3-6PM                                                  Chekrs:             NDS
+
+School Day:               YES                    District:                                        I/S CODE
+
+
+                             N/B                             S/B                                   E/B                         W/B
+DUAL-
+WHEELED                            5                          4                                       26                        13
+BIKES                              5                         11                                       15                        23
+BUSES                              4                          3                                       15                         8
+
+
+                             N/B       TIME                  S/B    TIME                           E/B     TIME                W/B     TIME
+
+AM PK 15 MIN                     50     8.00                  86     7.30                          339      8.00               296      7.30
+
+PM PK 15 MIN                     70    17.45                  53    16.45                          291     17.15                266    17.15
+
+AM PK HOUR                    158       7.30                 307     7.15                         1177      7.45               1101     7.15
+
+PM PK HOUR                    239      17.00                 185    16.45                         1093     17.00               1011    16.45
+
+
+
+
+NORTHBOUND Approach                                                SOUTHBOUND Approach                                                TOTAL    XING S/L     XING N/L
+
+Hours           Lt          Th         Rt        Total             Hours              Lt          Th       Rt Total                    N-S      Ped   Sch    Ped   Sch
+7-8                  15        71           18       104           7-8                     44      116      102   262                   366      45     9     33     3
+8-9                  19        96           42       157           8-9                     42      126       74   242                   399      54     0     32     2
+9-10                 21        64           31       116           9-10                    26        99      56   181                   297      22     1     24     0
+15-16                16       125           48       189           15-16                   23        86      40   149                   338      43     2     41     2
+16-17                27       135           46       208           16-17                   19      109       40   168                   376      37     0     42     1
+17-18                27       167           45       239           17-18                   15      129       39   183                   422      32     0     43     0
+
+TOTAL            125          658       230         1013           TOTAL               169         665       351       1185            2198     233   12     215       8
+
+
+EASTBOUND Approach                                                 WESTBOUND Approach                                                 TOTAL    XING W/L     XING E/L
+
+Hours           Lt          Th         Rt        Total             Hours              Lt          Th       Rt        Total             E-W      Ped   Sch    Ped   Sch
+7-8                  32      741         85          858           7-8                     11      990          16     1017             1875     38     4     43    20
+8-9                  20      976        122        1118            8-9                     18      968          19     1005             2123     28     1     43     5
+9-10                 19      696         29          744           9-10                    22      697          16       735            1479     10     0     22     0
+15-16                42      761         98          901           15-16                   37      623          21       681            1582     32     2     36     1
+16-17                29      842         73          944           16-17                   34      764          27       825            1769     28     5     32     1
+17-18                37     1009         47        1093            17-18                   41      931          37     1009             2102     28     1     38     2
+
+TOTAL            179         5025       454         5658           TOTAL               163        4973       136       5272            10930    164   13     214   29
+                                   Intersection Turning Movement
+                                                            Prepared by:
+                                           National Data & Surveying Services
+         Project ID: CA12_5161_001                                                                                      Day: TUESDAY
+                                                                              CARS
+                 City: City of Los Angeles                                                                             Date: 05/01/2012
+                                                                              AM
+    NS/EW Streets:             St Andrews Pl             St Andrews Pl                     6th St                     6th St
+                               NORTHBOUND                SOUTHBOUND                       EASTBOUND                  WESTBOUND
+
+                          NL        NT         NR   SL        ST         SR          EL      ET       ER        WL     WT        WR      TOTAL
+     LANES:               0          1          0   0          1          0          0        2        0        0       2         0
+
+          7:00   AM        2        8          3    6         10         23          5      110       2         3      164        5       341
+          7:15   AM        3        10         4    11        22         25          10     180       5         1      273        4       548
+          7:30   AM        5        23         4    15        41         29          8      201       24        2      287        5       644
+          7:45   AM        5        28         6    11        42         25          9      246       54        5      262        2       695
+          8:00   AM        5        33         12   17        40         27          4      248       86        4      252        2       730
+          8:15   AM        4        22         9    7         33         15          5      249       17        3      250        5       619
+          8:30   AM        2        21         8    10        30         11          4      242       6         4      244        8       590
+          8:45   AM        8        20         11   7         23         21          6      233       12        6      219        4       570
+          9:00   AM        4        20         9    3         33         12          5      199       5         5      190        2       487
+          9:15   AM        8        11         7    9         24         11          7      164       6         3      191        7       448
+          9:30   AM        6        18         10   5         26         15          3      173       13        8      164        3       444
+          9:45   AM        3        15         5    8         15         17          4      151       5         6      147        4       380
+
+                        NL       NT  NR       SL    ST     SR      EL     ET                           ER       WL      WT       WR      TOTAL
+   TOTAL VOLUMES :      55      229   88     109    339   231      70    2396                         235        50    2643       51      6496
+    APPROACH %'s :    14.78% 61.56% 23.66% 16.05% 49.93% 34.02%   2.59% 88.71%                        8.70%     1.82% 96.32%     1.86%
+                     nb a     nb d        sb a   sb d           eb a   eb d                                   wb a   nb d
+PEAK HR START TIME :      730 AM                                                                                                         TOTAL
+
+      PEAK HR VOL :       19       106         31   50       156         96          26     944       181       14     1051      14       2688
+
+   PEAK HR FACTOR :                0.780                    0.888                           0.851                      0.918              0.921
+
+         CONTROL : Signalized
+                                    Intersection Turning Movement
+                                                             Prepared by:
+                                            National Data & Surveying Services
+         Project ID: CA12_5161_001                                                                                       Day: TUESDAY
+                                                                               CARS
+                  City: City of Los Angeles                                                                             Date: 05/01/2012
+                                                                               PM
+    NS/EW Streets:              St Andrews Pl             St Andrews Pl                     6th St                     6th St
+                                NORTHBOUND                SOUTHBOUND                       EASTBOUND                  WESTBOUND
+
+                           NL        NT         NR   SL        ST         SR          EL      ET       ER        WL     WT        WR      TOTAL
+     LANES:                0          1          0   0          1          0          0        2        0        0       2         0
+
+           3:00   PM        3        29         17   3         26         14          6      160       24        8      157       4        451
+           3:15   PM        6        23         11   5         21         7           12     205       37        9      151       6        493
+           3:30   PM        1        38         12   9         19         10          13     184       24        12     148       7        477
+           3:45   PM        5        32         8    6         20         9           11     203       13        7      166       4        484
+           4:00   PM        7        28         10   3         24         7           9      203       16        5      161       7        480
+           4:15   PM        7        27         15   4         26         8           6      187       15        9      173       6        483
+           4:30   PM        9        37         13   4         30         8           10     234       27        8      205       8        593
+           4:45   PM        4        43         8    8         28         17          4      209       13        11     220       6        571
+           5:00   PM        7        42         8    4         24         12          10     232       11        3      253       1        607
+           5:15   PM        5        32         9    1         29         9           9      273       8         12     239       15       641
+           5:30   PM        8        45         13   4         41         8           7      250       16        13     227       9        641
+           5:45   PM        7        48         15   6         35         10          11     252       12        13     212       12       633
+
+                        NL       NT  NR      SL     ST     SR       EL    ET                            ER       WL      WT       WR      TOTAL
+   TOTAL VOLUMES :      69      424  139     57     323   119      108   2592                          216       110    2312       85      6554
+    APPROACH %'s :    10.92% 67.09% 21.99% 11.42% 64.73% 23.85%   3.70% 88.89%                         7.41%     4.39% 92.22%     3.39%
+                     nb a     nb d        sb a   sb d           eb a   eb d                                    wb a   nb d
+PEAK HR START TIME :      500 PM                                                                                                          TOTAL
+
+      PEAK HR VOL :        27       167         45   15       129         39          37    1007       47        41     931       37       2522
+
+   PEAK HR FACTOR :                 0.854                    0.863                           0.941                      0.948              0.984
+
+         CONTROL : Signalized
+                                   Intersection Turning Movement
+                                                            Prepared by:
+                                           National Data & Surveying Services
+         Project ID: CA12_5161_001                                                                                 Day: TUESDAY
+                                                                             BUSES
+                 City: City of Los Angeles                                                                        Date: 05/01/2012
+                                                                              AM
+     NS/EW Streets:            St Andrews Pl             St Andrews Pl                     6th St                6th St
+                               NORTHBOUND                SOUTHBOUND                       EASTBOUND             WESTBOUND
+
+                          NL        NT         NR   SL        ST         SR          EL      ET       ER   WL     WT        WR      TOTAL
+     LANES:               0          1          0   0          1          0          0        2        0   0       2         0
+
+          7:00   AM                  1         0    0         0                              2        0    0       1                  4
+          7:15   AM                  0         1    1         0                              0        0    0       0                  2
+          7:30   AM                  0         0    0         1                              1        0    0       1                  3
+          7:45   AM                  0         0    0         0                              1        0    0       0                  1
+          8:00   AM                  0         0    0         0                              1        0    0       0                  1
+          8:15   AM                  0         1    0         0                              1        1    0       0                  3
+          8:30   AM                  0         0    0         0                              0        0    0       1                  1
+          8:45   AM                  0         1    0         0                              0        0    1       1                  3
+          9:00   AM                  0         0    1         0                              1        0    0       0                  2
+          9:15   AM                  0         0    0         0                              1        0    0       1                  2
+          9:30   AM                  0         0    0         0                              1        0    0       0                  1
+          9:45   AM                  0         0    0         0                              0        0    0       0                  0
+
+                        NL        NT NR      SL     ST                    SR        EL     ET     ER    WL      WT          WR      TOTAL
+   TOTAL VOLUMES :       0         1  3       2      1                     0         0      9      1     1       5           0        23
+    APPROACH %'s :     0.00% 25.00% 75.00% 66.67% 33.33%                 0.00%     0.00% 90.00% 10.00% 16.67% 83.33%        0.00%
+                     nb a      nb d       sb a   sb d                            eb a   eb d          wb a   nb d
+PEAK HR START TIME :       700 AM                                                                                                   TOTAL
+
+      PEAK HR VOL :       0         1          1    1         1          0           0       4        0    0       2        0        10
+
+   PEAK HR FACTOR :                0.500                    0.500                           0.500                 0.500              0.625
+
+         CONTROL : Signalized
+                                Intersection Turning Movement
+                                                               Prepared by:
+                                      National Data & Surveying Services
+          Project ID: CA12_5161_001                                                                        Day: TUESDAY
+                                                                    BUSES
+                  City: City of Los Angeles                                                               Date: 05/01/2012
+                                                                                 PM
+     NS/EW Streets:      St Andrews Pl           St Andrews Pl                    6th St                6th St
+                         NORTHBOUND              SOUTHBOUND                      EASTBOUND             WESTBOUND
+
+                         NL    NT     NR    SL    ST           SR           EL        ET     ER   WL      WT        WR       TOTAL
+      LANES:             0      1      0    0      1            0           0          2      0   0        2         0
+
+           3:00   PM                                                                  1           0        0                  1
+           3:15   PM                                                                  1           0        0                  1
+           3:30   PM                                                                  1           0        0                  1
+           3:45   PM                                                                  0           0        0
+           4:00   PM                                                                  1           0        0                  1
+           4:15   PM                                                                  0           0        1                  1
+           4:30   PM                                                                  1           0        0                  1
+           4:45   PM                                                                  0           1        0                  1
+           5:00   PM                                                                  0           0        0                  0
+           5:15   PM                                                                  0           0        0                  0
+           5:30   PM                                                                  0           0        0                  0
+           5:45   PM                                                                  0           0        0                  0
+
+                         NL    NT     NR    SL    ST           SR         EL     ET    ER        WL       WT        WR      TOTAL
+    TOTAL VOLUMES :      0      0      0    0      0            0         0       5     0        1         1         0        7
+     APPROACH %'s :                                                     0.00% 100.00% 0.00%      50.00% 50.00%        0.00%
+                        nb a nb d          sb a sb d                   eb a  eb d           wb a       nb d
+PEAK HR START TIME :     400 PM                                                                                              TOTAL
+
+       PEAK HR VOL :     0     0      0     0     0            0            0         2      0    1       1          0        4
+
+   PEAK HR FACTOR :           0.000                    0.000                       0.500                 0.500               1.000
+
+          CONTROL : Signalized
+                                     Intersection Turning Movement
+                                                              Prepared by:
+                                              National Data & Surveying Services
+         Project ID: CA12_5161_001                                                                                        Day: TUESDAY
+                                                                        HEAVY TRUCKS
+                  City: City of Los Angeles                                                                              Date: 05/01/2012
+                                                                                 AM
+     NS/EW Streets:             St Andrews Pl               St Andrews Pl                   6th St                      6th St
+                                NORTHBOUND                  SOUTHBOUND                     EASTBOUND                  WESTBOUND
+
+                           NL         NT         NR    SL        ST         SR        EL      ET       ER        WL      WT       WR      TOTAL
+     LANES:                0           1          0    0          1          0        0        2        0        0        2        0
+
+           7:00   AM                  0                 0        0          0         0       0                           1                  1
+           7:15   AM                  0                 0        0          0         0       0                           0                  0
+           7:30   AM                  0                 0        0          0         0       0                           1                  1
+           7:45   AM                  1                 0        0          0         0       0                           0                  1
+           8:00   AM                  0                 0        0          0         0       0                           0                  0
+           8:15   AM                  0                 0        0          0         0       1                           0                  1
+           8:30   AM                  0                 0        0          0         1       1                           1                  3
+           8:45   AM                  0                 1        0          0         0       0                           0                  1
+           9:00   AM                  0                 0        0          0         0       2                           0                  2
+           9:15   AM                  0                 0        1          0         0       1                           2                  4
+           9:30   AM                  0                 0        0          0         0       2                           2                  4
+           9:45   AM                  0                 0        0          1         0       1                           0                  2
+
+                        NL         NT           NR      SL     ST     SR     EL     ET                  ER       WL      WT       WR      TOTAL
+    TOTAL VOLUMES :      0          1            0       1      1      1      1      8                   0        0        7       0       20
+     APPROACH %'s :    0.00% 100.00%            0.00% 33.33% 33.33% 33.33% 11.11% 88.89%               0.00%     0.00% 100.00%    0.00%
+                     nb a      nb d                  sb a   sb d          eb a   eb d                          wb a   nb d
+PEAK HR START TIME :       900 AM                                                                                                         TOTAL
+
+      PEAK HR VOL :        0          0          0     0         1          1         0       6        0         0       4        0         12
+
+   PEAK HR FACTOR :                 0.000                      0.500                        0.750                       0.500               0.750
+
+         CONTROL : Signalized
+                                     Intersection Turning Movement
+                                                                  Prepared by:
+                                              National Data & Surveying Services
+         Project ID: CA12_5161_001                                                                                     Day: TUESDAY
+                                                                           HEAVY TRUCKS
+                  City: City of Los Angeles                                                                           Date: 05/01/2012
+                                                                                    PM
+     NS/EW Streets:             St Andrews Pl                  St Andrews Pl                   6th St                6th St
+                                NORTHBOUND                     SOUTHBOUND                     EASTBOUND             WESTBOUND
+
+                           NL        NT         NR        SL        ST         SR        EL      ET       ER   WL     WT        WR      TOTAL
+     LANES:                0          1          0        0          1          0        0        2        0   0       2         0
+
+           3:00   PM        0         0                             0                            3        0    0       0                  3
+           3:15   PM        1         1                             0                            3        0    0       0                  5
+           3:30   PM        0         0                             0                            0        0    0       0                  0
+           3:45   PM        0         2                             0                            0        0    1       1                  4
+           4:00   PM        0         0                             0                            1        0    0       1                  2
+           4:15   PM        0         0                             0                            1        1    0       0                  2
+           4:30   PM        0         0                             1                            3        0    0       2                  6
+           4:45   PM        0         0                             0                            2        1    0       1                  4
+           5:00   PM        0         0                             0                            0        0    0       0                  0
+           5:15   PM        0         0                             0                            1        0    0       0                  1
+           5:30   PM        0         0                             0                            0        0    0       0                  0
+           5:45   PM        0         0                             0                            1        0    0       0                  1
+
+                        NL        NT            NR          SL      ST          SR        EL     ET     ER    WL      WT        WR      TOTAL
+    TOTAL VOLUMES :      1         3             0          0        1           0         0     15      2     1       5         0        28
+     APPROACH %'s :   25.00% 75.00%             0.00%      0.00% 100.00%       0.00%     0.00% 88.24% 11.76% 16.67% 83.33%      0.00%
+                     nb a      nb d                     sb a    sb d                   eb a   eb d          wb a   nb d
+PEAK HR START TIME :       400 PM                                                                                                       TOTAL
+
+      PEAK HR VOL :        0         0          0         0         1          0         0       7        2    0       4        0        14
+
+   PEAK HR FACTOR :                 0.000                         0.250                         0.750                 0.500              0.583
+
+         CONTROL : Signalized
+

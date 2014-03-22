@@ -1,0 +1,61 @@
+                     City Of Los Angeles
+                     Department Of Transportation
+                     MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South          ROSCOMARE RD (ONE WAY)
+
+East/West            CHALON RD (EAST LEG)
+
+Day:            TUESDAY                 Date:         March 2, 2010                  Weather:            SUNNY
+
+Hours:      7-10AM 3-6PM                                          Chekrs:            THOMPSON
+
+School Day:          YES                District:         WESTERN                      I/S CODE 43327
+
+
+                      N/B                           S/B                                E/B                         W/B
+DUAL-
+WHEELED                    0                         0                                  11                           5
+BIKES                      0                         0                                   0                           0
+BUSES                      0                         0                                   0                           0
+
+
+                      N/B TIME                      S/B TIME                           E/B TIME                    W/B TIME
+
+AM PK 15 MIN               0   7.00                  0     7.00                         39      8.00                 8    9.15
+
+PM PK 15 MIN               0   3.00                  0     3.00                         99      5.45                17    4.15
+
+AM PK HOUR                 0   7.00                  0     7.00                        128      7.30                19    7.30
+
+PM PK HOUR                 0   3.00                  0     3.00                        368      5.00                50    3.30
+
+
+
+NORTHBOUND Approach                                       SOUTHBOUND Approach                                            TOTAL      XING S/L   XING N/L
+             ROSCOMARE RD                                                    NONE
+Hours   Lt    Th   Rt Total                               Hours    Lt   Th    Rt Total                                    N-S        Ped Sch    Ped   Sch
+7-8        0     0   0      0                             7-8         0    0    0                             0                 0      0   0      0     0
+8-9        0     0   0      0                             8-9         0    0    0                             0                 0      0   0      0     0
+9-10       0     0   0      0                             9-10        0    0    0                             0                 0      0   0      0     0
+3-4        0     0   0      0                             3-4         0    0    0                             0                 0      0   0      0     0
+4-5        0     0   0      0                             4-5         0    0    0                             0                 0      0   0      0     0
+5-6        0     0   0      0                             5-6         0    0    0                             0                 0      0   0      0     0
+
+TOTAL            0         0        0           0         TOTAL                  0       0           0        0                 0     0    0      0    0
+
+
+EASTBOUND Approach                                        WESTBOUND Approach                                             TOTAL      XING W/L   XING E/L
+
+Hours         Lt      Th       Rt       Total             Hours             Lt        Th        Rt       Total           E-W         Ped Sch    Ped   Sch
+7-8            70      21           0        91           7-8                    0     12         5           17           108         0   0      2     0
+8-9            95      25           0      120            8-9                    0       8        6           14           134         2   0      1     0
+9-10           63      23           0        86           9-10                   0     11         8           19           105         1   0      1     0
+3-4           160      23           0      183            3-4                    0     23        15           38           221         0   0      0     0
+4-5           258      17           0      275            4-5                    0     25        19           44           319         0   0      0     0
+5-6           350      18           0      368            5-6                    0     12        23           35           403         0   0      0     0
+
+TOTAL         996     127           0     1123            TOTAL                  0      91       76         167           1290        3    0      4    0
+
+            (Rev Oct 06)
+

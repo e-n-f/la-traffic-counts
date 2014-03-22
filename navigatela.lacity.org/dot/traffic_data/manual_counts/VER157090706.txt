@@ -1,0 +1,61 @@
+                    City Of Los Angeles
+                    Department Of Transportation
+                    MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South         VERMONT AV (ONE WAY)
+
+East/West           157TH ST
+
+Day:             MONDAY              Date:             July 6, 2009               Weather:            SUNNY
+
+Hours:      7-10AM 3-6PM                                       Chekrs:            LEE
+
+School Day:         YES              District:         SOUTHERN                     I/S CODE 2723
+
+
+                     N/B                         S/B                                E/B                           W/B
+DUAL-
+WHEELED                80                         0                                  13                             5
+BIKES                   8                         0                                   9                             0
+BUSES                  54                         0                                   0                             0
+
+
+                     N/B TIME                    S/B TIME                           E/B TIME                      W/B TIME
+
+AM PK 15 MIN          153   7.45                  0     7.00                         27      8.00                  17    8.00
+
+PM PK 15 MIN          269   5.45                  0     3.00                         43      4.45                  25    3.00
+
+AM PK HOUR            543   7.15                  0     7.00                         85      7.15                  62    9.00
+
+PM PK HOUR            979   5.00                  0     3.00                        146      4.45                  84    3.00
+
+
+
+NORTHBOUND Approach                                    SOUTHBOUND Approach                                              TOTAL   XING S/L    XING N/L
+       VERMONT AV (ONE WAY)
+Hours   Lt   Th    Rt Total                            Hours             Lt        Th        Rt       Total              N-S     Ped Sch     Ped   Sch
+7-8      43 450     13   506                           7-8                    0         0         0           0           506      8   0       2     0
+8-9      57 419     11   487                           8-9                    0         0         0           0           487      3   2       3     0
+9-10     32 393     12   437                           9-10                   0         0         0           0           437      4   3       4     0
+3-4      57 668     24   749                           3-4                    0         0         0           0           749      5   2       0     0
+4-5      80 768     25   873                           4-5                    0         0         0           0           873      8   6       7     2
+5-6      70 882     27   979                           5-6                    0         0         0           0           979     14   1       9     1
+
+TOTAL         339 3580      112        4031            TOTAL                  0         0         0           0          4031     42   14     25    3
+
+
+EASTBOUND Approach                                     WESTBOUND Approach                                               TOTAL   XING W/L    XING E/L
+
+Hours         Lt     Th     Rt       Total             Hours             Lt        Th        Rt Total                   E-W      Ped Sch     Ped   Sch
+7-8            49     21         0        70           7-8                    0     26        21     47                   117      2   0       5     0
+8-9            57     18         0        75           8-9                    0     28        29     57                   132      3   0       1     0
+9-10           51     33         0        84           9-10                   0     30        32     62                   146      4   0       3     0
+3-4            61     64         0      125            3-4                    0     53        31     84                   209      0   0       1     0
+4-5            70     60         0      130            4-5                    0     40        26     66                   196      3   0       4     0
+5-6            69     60         0      129            5-6                    0     44        28     72                   201      0   0       4     1
+
+TOTAL         357     256        0       613           TOTAL                  0     221      167         388             1001     12   0      18    1
+
+            (Rev Oct 06)
+

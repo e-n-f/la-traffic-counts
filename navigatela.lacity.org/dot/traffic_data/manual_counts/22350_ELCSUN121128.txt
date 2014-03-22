@@ -1,0 +1,341 @@
+                                   Intersection Turning Movement
+                                                            Prepared by:
+                                           National Data & Surveying Services
+         Project ID: CA12_5476_005                                                                                         Day: WEDNESDAY
+                                                                              CARS
+                 City: City of Hollywood                                                                                  Date: 11/28/2012
+                                                                              AM
+     NS/EW Streets:            El Centro Ave             El Centro Ave                    Sunset Blvd                  Sunset Blvd
+                               NORTHBOUND                SOUTHBOUND                       EASTBOUND                    WESTBOUND
+
+                          NL        NT         NR   SL        ST         SR          EL       ET        ER        WL      WT         WR      TOTAL
+     LANES:               0          1          0   0          1          0          1         3         0        1        3          0
+
+          7:00   AM       3         6          6    1         2          3           1       173        12        14      319         4      544
+          7:15   AM       6         7          5    0         10         7           0       178        7         11      366         3      600
+          7:30   AM       4         4          5    6         8          4           2       198        5         14      438         2      690
+          7:45   AM       5         2          11   3         15         10          2       260        6         20      457         2      793
+          8:00   AM       4         6          10   5         26         19          1       221        18        18      404         3      735
+          8:15   AM       13        11         14   4         21         12          1       217        10        15      389         4      711
+          8:30   AM       13        9          13   5         21         8           3       234        13        20      404         7      750
+          8:45   AM       12        10         15   4         16         10          6       227        9         13      410         4      736
+          9:00   AM       5         7          9    3         24         15          5       227        13        15      352         2      677
+          9:15   AM       12        9          16   0         25         20          13      234        11        9       322         6      677
+          9:30   AM       7         16         11   4         9          8           4       213        11        10      316         2      611
+          9:45   AM       15        7          5    1         21         12          4       221        7         13      305         4      615
+
+                        NL       NT  NR        SL     ST     SR      EL     ET                           ER       WL      WT         WR      TOTAL
+   TOTAL VOLUMES :      99       94  120       36     198   128      42    2603                         122       172    4482         43      8139
+    APPROACH %'s :    31.63% 30.03% 38.34%    9.94% 54.70% 35.36%   1.52% 94.07%                        4.41%     3.66% 95.42%       0.92%
+                     nb a     nb d         sb a    sb d           eb a   eb d                                   wb a   nb d
+PEAK HR START TIME :      745 AM                                                                                                             TOTAL
+
+      PEAK HR VOL :      35        28          48   17       83          49          7       932        47        73     1654        16      2989
+
+   PEAK HR FACTOR :               0.730                     0.745                           0.920                        0.910               0.942
+
+         CONTROL : Signalized
+                                    Intersection Turning Movement
+                                                              Prepared by:
+                                            National Data & Surveying Services
+         Project ID: CA12_5476_005                                                                                           Day: WEDNESDAY
+                                                                                CARS
+                  City: City of Hollywood                                                                                   Date: 11/28/2012
+                                                                                PM
+    NS/EW Streets:              El Centro Ave              El Centro Ave                    Sunset Blvd                  Sunset Blvd
+                                NORTHBOUND                 SOUTHBOUND                       EASTBOUND                    WESTBOUND
+
+                           NL        NT         NR    SL        ST         SR          EL       ET        ER        WL      WT         WR      TOTAL
+     LANES:                0          1          0    0          1          0          1         3         0        1        3          0
+
+           3:00   PM       7         22         22    4         16         7           4       314        15        18      313         5      747
+           3:15   PM       5         23         25    6         10         5           3       326        12        15      299         5      734
+           3:30   PM       10        14         31    4         12         4           3       357        17        21      320         5      798
+           3:45   PM       13        13         22    3         8          5           5       306        9         13      320         8      725
+           4:00   PM       12        23         36    5         8          9           3       289        12        16      326         3      742
+           4:15   PM       9         29         17    3         12         10          5       333        7         11      326         2      764
+           4:30   PM       8         26         32    5         10         5           4       320        15        13      315         5      758
+           4:45   PM       10        27         24    5         12         1           5       385        10        13      352         7      851
+           5:00   PM       9         33         32    3         16         9           3       384        11        16      331         2      849
+           5:15   PM       8         27         20    10        9          5           3       373        15        9       344         3      826
+           5:30   PM       11        31         33    7         7          9           3       377        12        10      312         4      816
+           5:45   PM       12        27         22    7         8          6           8       408        21        10      311         7      847
+
+                        NL       NT  NR      SL     ST     SR      EL     ET                               ER       WL      WT         WR      TOTAL
+   TOTAL VOLUMES :     114      295  316     62     128    75      49    4172                             156       165    3869         56      9457
+    APPROACH %'s :    15.72% 40.69% 43.59% 23.40% 48.30% 28.30%   1.12% 95.32%                            3.56%     4.03% 94.60%       1.37%
+                     nb a     nb d        sb a   sb d           eb a   eb d                                       wb a   nb d
+PEAK HR START TIME :      445 PM                                                                                                               TOTAL
+
+      PEAK HR VOL :       38        118         109   25       44          24          14     1519        48        48     1339        16      3342
+
+   PEAK HR FACTOR :                0.883                      0.830                           0.988                        0.943               0.982
+
+         CONTROL : Signalized
+                                  PREPARED BY NATIONAL DATA & SURVEYING SERVICES
+PROJECT#:     CA12_5476_005
+N/S Street:   El Centro Ave
+E/W Street:   Sunset Blvd
+DATE:         11/28/2012                                      DAY:        11/28/2012
+CITY:         City of Hollywood
+    AM
+Adult Pedestrians                                             School-Aged Pedestrians
+              NORTH LEG SOUTH LEG       EAST LEG   WEST LEG               NORTH LEG SOUTH LEG   EAST LEG   WEST LEG
+  TIME                                                          TIME
+               EB   WB   EB   WB        NB    SB   NB    SB                EB   WB   EB   WB    NB    SB   NB    SB
+ 7:00 AM                                                       7:00 AM
+ 7:15 AM                                                       7:15 AM
+ 7:30 AM                                                       7:30 AM
+ 7:45 AM                                                       7:45 AM
+ 8:00 AM                                                       8:00 AM
+ 8:15 AM                                                       8:15 AM
+ 8:30 AM                                                       8:30 AM
+ 8:45 AM                                                       8:45 AM
+ 9:00 AM                                                       9:00 AM
+ 9:15 AM                                                       9:15 AM
+ 9:30 AM                                                       9:30 AM
+ 9:45 AM                                                       9:45 AM
+ TOTALS         0      0      0     0   0     0    0     0     TOTALS       0      0    0   0   0     0    0     0
+
+
+    PM
+Adult Pedestrians                                             School-Aged Pedestrians
+              NORTH LEG SOUTH LEG       EAST LEG   WEST LEG               NORTH LEG SOUTH LEG   EAST LEG   WEST LEG
+   TIME                                                          TIME
+               EB   WB   EB   WB        NB    SB   NB    SB                EB   WB   EB   WB    NB    SB   NB    SB
+ 3:00 PM                                                       3:00 PM
+ 3:15 PM                                                       3:15 PM
+ 3:30 PM                                                       3:30 PM
+ 3:45 PM                                                       3:45 PM
+ 4:00 PM                                                       4:00 PM
+ 4:15 PM                                                       4:15 PM
+ 4:30 PM                                                       4:30 PM
+ 4:45 PM                                                       4:45 PM
+ 5:00 PM                                                       5:00 PM
+ 5:15 PM                                                       5:15 PM
+ 5:30 PM                                                       5:30 PM
+ 5:45 PM                                                       5:45 PM
+ TOTALS         0      0      0     0   0     0    0     0     TOTALS       0      0    0   0   0     0    0     0
+                                    Intersection Turning Movement
+                                                                  Prepared by:
+                                            National Data & Surveying Services
+         Project ID: CA12_5476_005                                                                                                Day: WEDNESDAY
+                                                                                    BIKES
+                  City: City of Hollywood                                                                                        Date: 11/28/2012
+                                                                                     AM
+     NS/EW Streets:             El Centro Ave                  El Centro Ave                     Sunset Blvd                  Sunset Blvd
+                                NORTHBOUND                     SOUTHBOUND                        EASTBOUND                    WESTBOUND
+
+                           NL        NT         NR        SL        ST         SR           EL       ET        ER        WL      WT         WR      TOTAL
+     LANES:                0          1          0        0          1          0           1         3         0        1        3          0
+
+           7:00   AM       0         1                              0                                1          1                 0                   3
+           7:15   AM       0         0                              0                                0          0                 6                   6
+           7:30   AM       0         0                              0                                0          0                 7                   7
+           7:45   AM       0         0                              0                                1          0                 5                   6
+           8:00   AM       0         0                              0                                1          0                 0                   1
+           8:15   AM       0         0                              0                                1          0                 2                   3
+           8:30   AM       1         1                              0                                2          0                 6                  10
+           8:45   AM       0         1                              2                                3          0                 8                  14
+           9:00   AM       0         0                              0                                1          0                 2                   3
+           9:15   AM       0         0                              0                                3          0                 3                   6
+           9:30   AM       2         2                              0                                0          0                 6                  10
+           9:45   AM       1         3                              0                                1          0                 7                  12
+
+                        NL        NT            NR          SL      ST          SR        EL     ET             ER       WL       WT        WR      TOTAL
+    TOTAL VOLUMES :      4         8             0          0        2           0         0     14              1        0       52         0        81
+     APPROACH %'s :   33.33% 66.67%             0.00%      0.00% 100.00%       0.00%     0.00% 93.33%          6.67%     0.00% 100.00%      0.00%
+                     nb a      nb d                     sb a     sb d                  eb a   eb d                     wb a    nb d
+PEAK HR START TIME :       745 AM                                                                                                                   TOTAL
+
+      PEAK HR VOL :        1         1          0          0        0          0            0        5         0         0       13         0        20
+
+   PEAK HR FACTOR :                0.250                          0.000                            0.625                        0.542               0.500
+
+         CONTROL : Signalized
+                                    Intersection Turning Movement
+                                                                  Prepared by:
+                                            National Data & Surveying Services
+         Project ID: CA12_5476_005                                                                                                Day: WEDNESDAY
+                                                                                    BIKES
+                  City: City of Hollywood                                                                                        Date: 11/28/2012
+                                                                                     PM
+     NS/EW Streets:             El Centro Ave                  El Centro Ave                     Sunset Blvd                  Sunset Blvd
+                                NORTHBOUND                     SOUTHBOUND                        EASTBOUND                    WESTBOUND
+
+                           NL        NT         NR        SL        ST         SR           EL       ET        ER        WL      WT         WR      TOTAL
+     LANES:                0          1          0        0          1          0           1         3         0        1        3          0
+
+           3:00   PM       0         0           0        0         0          0            0        2          0                 8          0       10
+           3:15   PM       1         0           0        0         0          0            1        6          0                 6          0       14
+           3:30   PM       1         0           0        0         1          0            0        2          0                 4          0        8
+           3:45   PM       2         1           1        0         1          0            0        3          0                 5          0       13
+           4:00   PM       0         0           0        0         2          1            0        5          0                 5          0       13
+           4:15   PM       0         0           0        0         0          0            0        1          0                 3          1        5
+           4:30   PM       0         2           0        1         0          0            0        8          0                 5          0       16
+           4:45   PM       0         0           0        0         0          0            0        3          0                 3          0        6
+           5:00   PM       0         0           0        0         0          0            0        2          0                 7          0        9
+           5:15   PM       0         2           0        0         0          0            1        7          0                 3          0       13
+           5:30   PM       0         0           0        0         1          0            0        1          0                 5          0        7
+           5:45   PM       1         1           0        0         0          0            0        3          1                 7          0       13
+
+                        NL        NT            NR         SL     ST     SR      EL     ET                      ER       WL      WT         WR      TOTAL
+    TOTAL VOLUMES :      5         6             1          1      5      1       2     43                       1        0      61          1       127
+     APPROACH %'s :   41.67% 50.00%             8.33%    14.29% 71.43% 14.29%   4.35% 93.48%                   2.17%     0.00% 98.39%       1.61%
+                     nb a      nb d                     sb a   sb d           eb a   eb d                              wb a   nb d
+PEAK HR START TIME :       445 PM                                                                                                                   TOTAL
+
+      PEAK HR VOL :        0         2          0         0         1          0            1       13         0         0       18         0        35
+
+   PEAK HR FACTOR :                0.250                          0.250                            0.438                        0.643               0.673
+
+         CONTROL : Signalized
+                                    Intersection Turning Movement
+                                                                  Prepared by:
+                                            National Data & Surveying Services
+          Project ID: CA12_5476_005                                                                                                Day: WEDNESDAY
+                                                                                     BUSES
+                  City: City of Hollywood                                                                                         Date: 11/28/2012
+                                                                                      AM
+     NS/EW Streets:             El Centro Ave                  El Centro Ave                      Sunset Blvd                  Sunset Blvd
+                                NORTHBOUND                     SOUTHBOUND                         EASTBOUND                    WESTBOUND
+
+                           NL        NT         NR        SL        ST          SR           EL       ET        ER        WL      WT         WR      TOTAL
+     LANES:                0          1          0        0          1           0           1         3         0        1        3          0
+
+           7:00   AM       0                               0                     0                    3          0                 5                   8
+           7:15   AM       0                               0                     0                    4          0                 9                  13
+           7:30   AM       0                               0                     0                    5          0                 7                  12
+           7:45   AM       0                               0                     0                    9          0                 6                  15
+           8:00   AM       0                               0                     1                    5          1                 5                  12
+           8:15   AM       1                               0                     0                    6          0                 5                  12
+           8:30   AM       0                               1                     1                    1          0                 8                  11
+           8:45   AM       0                               0                     1                    1          0                 2                   4
+           9:00   AM       0                               0                     0                    2          0                 5                   7
+           9:15   AM       0                               0                     0                    1          0                 7                   8
+           9:30   AM       0                               0                     0                    1          0                 1                   2
+           9:45   AM       0                               0                     0                    2          0                 5                   7
+
+                           NL    NT             NR         SL       ST           SR        EL     ET             ER       WL       WT        WR      TOTAL
+    TOTAL VOLUMES :    1          0              0          1        0            3         0     40              1        0       65         0       111
+     APPROACH %'s : 100.00%     0.00%           0.00%    25.00%    0.00%       75.00%     0.00% 97.56%          2.44%     0.00% 100.00%      0.00%
+                     nb a     nb d                      sb a    sb d                    eb a   eb d                     wb a    nb d
+PEAK HR START TIME :      745 AM                                                                                                                     TOTAL
+
+       PEAK HR VOL :       1         0          0          1        0           2            0       21         1         0       24         0        50
+
+   PEAK HR FACTOR :                0.250                          0.375                             0.611                        0.750               0.833
+
+          CONTROL : Signalized
+                                    Intersection Turning Movement
+                                                               Prepared by:
+                                             National Data & Surveying Services
+          Project ID: CA12_5476_005                                                                                           Day: WEDNESDAY
+                                                                                BUSES
+                  City: City of Hollywood                                                                                    Date: 11/28/2012
+                                                                                 PM
+     NS/EW Streets:             El Centro Ave               El Centro Ave                    Sunset Blvd                  Sunset Blvd
+                                NORTHBOUND                  SOUTHBOUND                       EASTBOUND                    WESTBOUND
+
+                           NL           NT      NR     SL        ST         SR          EL       ET        ER        WL      WT         WR      TOTAL
+     LANES:                0             1       0     0          1          0          1         3         0        1        3          0
+
+           3:00   PM                                             0                               4                            7                  11
+           3:15   PM                                             0                               5                            4                   9
+           3:30   PM                                             0                               2                            1                   3
+           3:45   PM                                             0                               4                            2                   6
+           4:00   PM                                             1                               4                            3                   8
+           4:15   PM                                             0                               2                            2                   4
+           4:30   PM                                             0                               6                            3                   9
+           4:45   PM                                             0                               4                            2                   6
+           5:00   PM                                             0                               4                            4                   8
+           5:15   PM                                             0                               3                            4                   7
+           5:30   PM                                             0                               2                            2                   4
+           5:45   PM                                             0                               4                            3                   7
+
+                           NL           NT      NR       SL      ST          SR        EL      ET           ER       WL       WT        WR      TOTAL
+    TOTAL VOLUMES :        0             0       0       0        1           0         0      44            0        0       37         0        82
+     APPROACH %'s :                                     0.00% 100.00%       0.00%     0.00% 100.00%        0.00%     0.00% 100.00%      0.00%
+                       nb a       nb d               sb a     sb d                  eb a    eb d                   wb a    nb d
+PEAK HR START TIME :           445 PM                                                                                                           TOTAL
+
+       PEAK HR VOL :       0            0       0       0        0          0           0       13         0         0       12         0        25
+
+   PEAK HR FACTOR :                 0.000                      0.000                           0.813                        0.750               0.781
+
+          CONTROL : Signalized
+                                   Intersection Turning Movement
+                                                            Prepared by:
+                                           National Data & Surveying Services
+         Project ID: CA12_5476_005                                                                                       Day: WEDNESDAY
+                                                                     HEAVY TRUCKS
+                 City: City of Hollywood                                                                                Date: 11/28/2012
+                                                                              AM
+    NS/EW Streets:             El Centro Ave             El Centro Ave                  Sunset Blvd                  Sunset Blvd
+                               NORTHBOUND                SOUTHBOUND                     EASTBOUND                    WESTBOUND
+
+                          NL        NT         NR   SL        ST         SR        EL       ET        ER        WL      WT         WR      TOTAL
+     LANES:               0          1          0   0          1          0        1         3         0        1        3          0
+
+          7:00   AM       0         0          0    0         0          0         0        4          0        1        6          0       11
+          7:15   AM       0         0          0    0         1          0         0        11         1        0        6          0       19
+          7:30   AM       0         0          0    0         0          0         0        10         0        1        11         0       22
+          7:45   AM       0         0          0    0         0          1         0        7          0        0        8          0       16
+          8:00   AM       0         0          0    0         0          1         0        3          0        1        6          0       11
+          8:15   AM       1         1          0    0         0          0         0        6          0        0        14         0       22
+          8:30   AM       0         0          0    0         0          1         1        5          0        1        11         1       20
+          8:45   AM       0         1          0    0         0          0         0        4          1        0        7          0       13
+          9:00   AM       0         0          0    1         2          0         0        3          1        0        9          0       16
+          9:15   AM       0         0          1    0         0          0         0        9          0        1        10         1       22
+          9:30   AM       0         0          0    0         0          0         0        3          1        0        9          0       13
+          9:45   AM       0         0          0    1         0          0         0        4          0        1        7          1       14
+
+                        NL        NT NR      SL     ST     SR      EL     ET                           ER       WL      WT         WR      TOTAL
+   TOTAL VOLUMES :       1         2  1       2      3      3       1     69                            4        6     104          3       199
+    APPROACH %'s :    25.00% 50.00% 25.00% 25.00% 37.50% 37.50%   1.35% 93.24%                        5.41%     5.31% 92.04%       2.65%
+                     nb a      nb d       sb a   sb d           eb a   eb d                                   wb a   nb d
+PEAK HR START TIME :       745 AM                                                                                                          TOTAL
+
+      PEAK HR VOL :       1         1          0    0         0          3         1       21         0         2       39         1        69
+
+   PEAK HR FACTOR :               0.250                     0.750                         0.786                        0.750               0.784
+
+         CONTROL : Signalized
+                                    Intersection Turning Movement
+                                                             Prepared by:
+                                            National Data & Surveying Services
+         Project ID: CA12_5476_005                                                                                        Day: WEDNESDAY
+                                                                      HEAVY TRUCKS
+                  City: City of Hollywood                                                                                Date: 11/28/2012
+                                                                               PM
+    NS/EW Streets:              El Centro Ave             El Centro Ave                  Sunset Blvd                  Sunset Blvd
+                                NORTHBOUND                SOUTHBOUND                     EASTBOUND                    WESTBOUND
+
+                           NL        NT         NR   SL        ST         SR        EL       ET        ER        WL      WT         WR      TOTAL
+     LANES:                0          1          0   0          1          0        1         3         0        1        3          0
+
+           3:00   PM       0         0          0    1         0          0         0        4                            6          0       11
+           3:15   PM       0         0          0    0         0          0         0        3                            2          0        5
+           3:30   PM       0         0          0    0         0          0         0        5                            2          0        7
+           3:45   PM       0         0          0    0         1          0         0        4                            1          0        6
+           4:00   PM       1         0          1    0         0          0         0        6                            6          0       14
+           4:15   PM       0         0          0    1         0          0         0        4                            2          0        7
+           4:30   PM       0         1          0    1         0          0         0        5                            3          0       10
+           4:45   PM       0         0          1    0         0          0         0        8                            4          0       13
+           5:00   PM       0         0          0    1         0          0         0        1                            1          0        3
+           5:15   PM       0         0          0    0         0          0         0        3                            2          0        5
+           5:30   PM       0         0          0    0         0          0         0        7                            3          1       11
+           5:45   PM       0         1          0    1         1          1         1        2                            4          0       11
+
+                        NL        NT NR      SL     ST     SR      EL     ET                            ER       WL      WT         WR      TOTAL
+   TOTAL VOLUMES :       1         2  2       5      2      1       1     52                             0        0      36          1       103
+    APPROACH %'s :    20.00% 40.00% 40.00% 62.50% 25.00% 12.50%   1.89% 98.11%                         0.00%     0.00% 97.30%       2.70%
+                     nb a      nb d       sb a   sb d           eb a   eb d                                    wb a   nb d
+PEAK HR START TIME :       445 PM                                                                                                           TOTAL
+
+      PEAK HR VOL :        0         0          1    1         0          0         0       19         0         0       10         1        32
+
+   PEAK HR FACTOR :                0.250                     0.250                         0.594                        0.688               0.615
+
+         CONTROL : Signalized
+

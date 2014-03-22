@@ -1,0 +1,61 @@
+ACCUTEK                          TRAFFIC COUNT SUMMARY
+
+STREET:
+North/South       WESTWOOD BLVD.
+
+East/West         KINROSS AVE.
+
+Day:    WEDNESDAY                     Date:       12-4-1996                 Weather:          SUNNY
+
+Hours: 7-10 AM 3-6 PM                 FILE:       AM057
+
+School Day:       YES                 District:           WEST L.A.
+
+
+                    N/B                             S/B                        E/B                     W/B
+DUAL-
+WHEELED              89                             62                         10                      24
+BIKES                23                             29                         47                      52
+BUSES               225                            272                          1                       7
+
+
+                    N/B TIME                        S/B TIME                   E/B TIME                W/B     TIME
+
+AM PK 15 MIN        335   8:30                     119     9:00                34      8:15            40       7:45
+
+PM PK 15 MIN        245   5:45                     311     5:00                72      5:15            63       5:45
+
+AM PK HOUR         1160   8:00                     434     9:00                98      9:00            138      8:00
+
+PM PK HOUR          887   5:00                    1113     5:00               210      5:00            217      5:00
+
+
+
+NORTHBOUND Approach                                       SOUTHBOUND Approach                                TOTAL     XING S/L    XING N/L
+
+Hours       Lt      Th    Rt          Total               Hours       Lt      Th       Rt     Total           N-S      Ped   Sch   Ped   Sch
+7-8          33     840    15           888               7-8           6     215       26      247           1135      19   20    35    10
+8-9          45    1081    34          1160               8-9          11     293       38      342           1502      45   13    58     9
+9-10         49    1061    40          1150               9-10         21     376       37      434           1584      52   15    80     5
+3-4          39     631    47           717               3-4          31     862       71      964           1681     116   93    67    71
+4-5          71     696    64           831               4-5          29     942       66     1037           1868     125   41    79    91
+5-6          65     744    78           887               5-6          37     996       80     1113           2000     148   78    94    60
+
+TOTAL       302    5053   278          5633               TOTAL       135    3684      318     4137            9770    505   260   413   246
+
+
+EASTBOUND Approach                                        WESTBOUND Approach                                 TOTAL     XING W/L    XING E/L
+
+Hours       Lt     Th     Rt          Total               Hours       Lt      Th       Rt     Total           E-W      Ped   Sch   Ped    Sch
+7-8          38     10     24             72              7-8          6       34       51        91            163     50   34     29    25
+8-9          26     42     29             97              8-9         11       55       72      138             235     64   12     55    34
+9-10         35     35     28             98              9-10        12       43       55      110             208     69   12     60    16
+3-4          34     61     39           134               3-4         21       56       65      142             276     80   61    108   105
+4-5          55     70     66           191               4-5         26       61       64      151             342    121   95    134   128
+5-6          54     89     67           210               5-6         35       91       91      217             427    123   59    120   102
+
+TOTAL       242     307   253            802              TOTAL       111     340      398      849           1651     507   273   506   410
+
+
+                                                                                                              11421
+

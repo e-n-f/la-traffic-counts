@@ -1,0 +1,184 @@
+                                                     TRAFFIC COUNT SUMMARY
+                                                                                                                                      City of Los Angeles
+STREET:                                                                                                                          Department of Transportation
+North/South               CENTURY PARK WEST                                                                                   Count by: Traffic Solution
+
+East/West                 SANTA MONICA BOULEVARD
+
+Day:     AM    WEDNESDAY                    Date: November 17, 2010                Weather:            CLEAR
+         PM    WEDNESDAY                          November 17, 2010
+Hours:         7-10 AM 3-6 PM
+
+School Day:               YES               District:         WESTERN
+
+
+                            N/B                         S/B                          E/B                               W/B
+DUAL-
+WHEELED                     N/A                         N/A                          N/A                               N/A
+BIKES                       N/A                         N/A                          N/A                               N/A
+BUSES                       N/A                         N/A                          N/A                               N/A
+
+
+                            N/B TIME                    S/B TIME                     E/B TIME                          W/B     TIME
+
+AM PK 15 MIN                    78   9:45                 0 7:00                     678      9:15                     509      8:45
+
+PM PK 15 MIN                179      5:15                 0 3:00                     550      3:15                     577      5:00
+
+AM PK HOUR                  243      9:00                 0 7:00                    2,610     8:45                    1,920     8:00
+
+PM PK HOUR                  618      4:45                 0 3:00                    2,090     3:00                    2,180     4:45
+
+
+
+NORTHBOUND Approach                                           SOUTHBOUND Approach                                             TOTAL       XING S/L      XING N/L
+
+Hours            Lt        Th        Rt     Total             Hours       Lt        Th        Rt          Total                N-S        Ped   Sch     Ped     Sch
+7-8                55           0     82       137            7-8              0         0         0              0             137       N/A   N/A     N/A     N/A
+8-9                71           0    117       188            8-9              0         0         0              0             188       N/A   N/A     N/A     N/A
+9 - 10            105           0    138       243            9 - 10           0         0         0              0             243       N/A   N/A     N/A     N/A
+4-5               279           0    206       485            3-4              0         0         0              0             485       N/A   N/A     N/A     N/A
+5-6               299           0    213       512            4-5              0         0         0              0             512       N/A   N/A     N/A     N/A
+6-7               411           0    207       618            5-6              0         0         0              0             618       N/A   N/A     N/A     N/A
+
+TOTAL           1,220           0    963     2,183            TOTAL            0         0         0              0            2,183      N/A N/A       N/A N/A
+
+
+EASTBOUND Approach                                            WESTBOUND Approach                                              TOTAL       XING W/L       XING E/L
+
+Hours            Lt         Th       Rt     Total             Hours       Lt         Th       Rt          Total                E-W        Ped   Sch     Ped     Sch
+7-8                   0    1,807     227     2,034            7-8          114      1,391          0       1,505               3,539      N/A   N/A     N/A     N/A
+8-9                   0    2,165     353     2,518            8-9          237      1,683          0       1,920               4,438      N/A   N/A     N/A     N/A
+9 - 10                0    2,208     385     2,593            9 - 10       232      1,470          0       1,702               4,295      N/A   N/A     N/A     N/A
+4-5                   0    1,859     231     2,090            3-4          103      2,022          0       2,125               4,215      N/A   N/A     N/A     N/A
+5-6                   0    1,795     174     1,969            4-5          117      1,991          0       2,108               4,077      N/A   N/A     N/A     N/A
+6-7                   0    1,783     232     2,015            5-6          123      2,057          0       2,180               4,195      N/A   N/A     N/A     N/A
+
+TOTAL                 0 11,617 1,602        13,219            TOTAL       926 10,614               0      11,540              24,759      N/A N/A       N/A N/A
+INTERSECTION TURNING MOVEMENT COUNT SUMMARY
+
+CLIENT:               HIRSCH/GREEN TRANSPORTATION CONSULTING, INC.
+PROJECT:              BELLWOOD SENIOR CARE/MEDICAL OFFICE
+DATE:                 WEDNESDAY, NOVEMBER 17, 2010
+PERIOD:               07:00 AM TO 10:00 AM
+INTERSECTION   N/S    CENTURY PARK WEST
+               E/W    SANTA MONICA BOULEVARD
+FILE NUMBER:          2-AM
+
+
+  15 MINUTE     1        2        3          4    5          6          7          8      9      10     11     12
+   TOTALS      SBRT    SBTH     SBLT    WBRT     WBTH       WBLT       NBRT       NBTH   NBLT   EBRT   EBTH   EBLT
+  0700-0715     0        0        0          0   251         20         15         0      9      43    362     0
+  0715-0730     0        0        0          0   325         27         19         0      12     53    425     0
+  0730-0745     0        0        0          0   397         34         20         0      15     60    476     0
+  0745-0800     0        0        0          0   418         33         28         0      19     71    544     0
+  0800-0815     0        0        0          0   400         51         23         0      18     73    550     0
+  0815-0830     0        0        0          0   419         40         30         0      11     79    569     0
+  0830-0845     0        0        0          0   441         60         34         0      18    100    531     0
+  0845-0900     0        0        0          0   423         86         30         0      24    101    515     0
+  0900-0915     0        0        0          0   361         60         35         0      25     91    557     0
+  0915-0930     0        0        0          0   353         70         22         0      22    107    571     0
+  0930-0945     0        0        0          0   386         55         36         0      25    101    567     0
+  0945-1000     0        0        0          0   370         47         45         0      33     86    513     0
+
+
+   1 HOUR       1        2        3          4    5          6          7          8      9      10     11     12
+   TOTALS      SBRT    SBTH     SBLT    WBRT     WBTH       WBLT       NBRT       NBTH   NBLT   EBRT   EBTH   EBLT   TOTALS
+  0700-0800     0        0        0          0   1391       114         82         0      55    227    1807    0      3676
+  0715-0815     0        0        0          0   1540       145         90         0      64    257    1995    0      4091
+  0730-0830     0        0        0          0   1634       158        101         0      63    283    2139    0      4378
+  0745-0845     0        0        0          0   1678       184        115         0      66    323    2194    0      4560
+  0800-0900     0        0        0          0   1683       237        117         0      71    353    2165    0      4626
+  0815-0915     0        0        0          0   1644       246        129         0      78    371    2172    0      4640
+  0830-0930     0        0        0          0   1578       276        121         0      89    399    2174    0      4637
+  0845-0945     0        0        0          0   1523       271        123         0      96    400    2210    0      4623
+  0900-1000     0        0        0          0   1470       232        138         0     105    385    2208    0      4538
+
+
+
+
+   A.M. PEAK HOUR                                       0          0          0
+      0815-0915
+
+
+                                  0                                                              0
+
+                                2174                                                            1644
+  SANTA MONICA BOULEVARD
+                                 371                                                            246
+
+
+
+
+                                                       78          0        129
+
+
+                                                        CENTURY PARK WEST
+   THE TRAFFIC SOLUTION
+   329 DIAMOND STREET
+   ARCADIA, CALIFORNIA 91006
+   626.446.7978
+INTERSECTION TURNING MOVEMENT COUNT SUMMARY
+
+CLIENT:               HIRSCH/GREEN TRANSPORTATION CONSULTING, INC.
+PROJECT:              BELLWOOD SENIOR CARE/MEDICAL OFFICE
+DATE:                 WEDNESDAY, NOVEMBER 17, 2010
+PERIOD:               03:00 PM TO 06:00 PM
+INTERSECTION   N/S    CENTURY PARK WEST
+               E/W    SANTA MONICA BOULEVARD
+FILE NUMBER:          2-PM
+
+
+  15 MINUTE     1        2        3          4    5          6          7          8      9      10     11     12
+   TOTALS      SBRT    SBTH     SBLT    WBRT     WBTH       WBLT       NBRT       NBTH   NBLT   EBRT   EBTH   EBLT
+  0300-0315     0        0        0          0   499         14         52         0      57     69    437     0
+  0315-0330     0        0        0          0   503         33         47         0      73     55    495     0
+  0330-0345     0        0        0          0   509         26         53         0      88     67    475     0
+  0345-0400     0        0        0          0   511         30         54         0      61     40    452     0
+  0400-0415     0        0        0          0   517         40         55         0      65     46    446     0
+  0415-0430     0        0        0          0   480         30         41         0      89     47    462     0
+  0430-0445     0        0        0          0   501         22         52         0      65     41    476     0
+  0445-0500     0        0        0          0   493         25         65         0      80     40    411     0
+  0500-0515     0        0        0          0   538         39         64         0      89     52    434     0
+  0515-0530     0        0        0          0   520         27         55         0     124     58    478     0
+  0530-0545     0        0        0          0   513         25         40         0     101     70    455     0
+  0545-0600     0        0        0          0   486         32         48         0      97     52    416     0
+
+
+   1 HOUR       1        2        3          4    5          6          7          8      9      10     11     12
+   TOTALS      SBRT    SBTH     SBLT    WBRT     WBTH       WBLT       NBRT       NBTH   NBLT   EBRT   EBTH   EBLT   TOTALS
+  0300-0400     0        0        0          0   2022       103        206         0     279    231    1859    0      4700
+  0315-0415     0        0        0          0   2040       129        209         0     287    208    1868    0      4741
+  0330-0430     0        0        0          0   2017       126        203         0     303    200    1835    0      4684
+  0345-0445     0        0        0          0   2009       122        202         0     280    174    1836    0      4623
+  0400-0500     0        0        0          0   1991       117        213         0     299    174    1795    0      4589
+  0415-0515     0        0        0          0   2012       116        222         0     323    180    1783    0      4636
+  0430-0530     0        0        0          0   2052       113        236         0     358    191    1799    0      4749
+  0445-0545     0        0        0          0   2064       116        224         0     394    220    1778    0      4796
+  0500-0600     0        0        0          0   2057       123        207         0     411    232    1783    0      4813
+
+
+
+
+   P.M. PEAK HOUR                                       0          0          0
+      0500-0600
+
+
+                                  0                                                              0
+
+                                1783                                                            2057
+  SANTA MONICA BOULEVARD
+                                 232                                                            123
+
+
+
+
+                                                      411          0        207
+
+
+                                                        CENTURY PARK WEST
+   THE TRAFFIC SOLUTION
+   329 DIAMOND STREET
+   ARCADIA, CALIFORNIA 91006
+   626.446.7978
+

@@ -1,0 +1,63 @@
+                      City Of Los Angeles
+                      Department Of Transportation
+                      MANUAL TRAFFIC COUNT SUMMARY
+                                                                                                                          HOLSI207
+STREET:
+North/South           HOLLYWOOD FWY NB OFF/ON RAMP
+
+East/West             SILVER LAKE BL
+
+Day:        THURSDAY                 Date: JULY 5, 2007                                  Weather:           SUNNY
+
+Hours:      7-10AM 3-6PM
+
+School Day:           YES            District:       HOLLYWOOD WILSHIRE                    I/S CODE 57821
+
+
+                       N/B                   S/B                       E/B                           W/B
+DUAL-
+WHEELED                  69                      0                       42                            87
+BIKES                     0                      4                        4                             0
+BUSES                     0                      0                        8                             7
+
+
+                       N/B TIME             S/B TIME                    E/B TIME                     W/B TIME
+
+AM PK 15 MIN            137   7.15               0    7.00              123     8.45                  441    8.30
+
+PM PK 15 MIN            203   5.45               0    3.00              341     5.45                  200    3.15
+
+AM PK HOUR              523   7.15               0    7.00              427     8.45                 1512    7.45
+
+PM PK HOUR              790   5.00               0    3.00             1207     5.00                  728    3.00
+
+
+
+NORTHBOUND Approach                                  SOUTHBOUND Approach                 NONE               TOTAL   XING S/L         XING N/L
+
+Hours           Lt  Th        Rt Total               Hours    Lt       Th       Rt       Total              N-S     Ped Sch          Ped   Sch
+7-8             316    0      188 504                7-8           0        0        0           0           504      7   0            3     0
+8-9             240    2      178 420                8-9           0        0        0           0           420      4   0            3     0
+9-10            279    2      191 472                9-10          0        0        0           0           472      7   0            0     0
+3-4             257    2      324 583                3-4           0        0        0           0           583      6   3            1     0
+4-5             280    0      434 714                4-5           0        0        0           0           714      8   0            2     0
+5-6             300    0      490 790                5-6           0        0        0           0           790      4   0            0     0
+
+TOTAL          1672       6 1805 3483                TOTAL         0        0        0           0           3483    36      3         9    0
+
+
+EASTBOUND Approach                                   WESTBOUND Approach                                     TOTAL   XING W/L         XING E/L
+
+Hours           Lt      Th    Rt    Total            Hours    Lt      Th        Rt Total                    E-W     Ped Sch          Ped   Sch
+7-8                  0 243         0 243             7-8           0 1155       260 1415                     1658     0   0            2     0
+8-9                  0 380         0 380             8-9           0 1144       351 1495                     1875     1   0            0     1
+9-10                 0 384         0 384             9-10          0 919        347 1266                     1650     0   0           13     0
+3-4                  0 771         0 771             3-4           0 566        162   728                    1499     0   0            0     0
+4-5                  0 1011        0 1011            4-5           0 505        107   612                    1623     0   0            3     0
+5-6                  0 1206        1 1207            5-6           0 583        144   727                    1934     0   0            0     0
+
+TOTAL                0 3995        1 3996            TOTAL         0 4872 1371             6243             10239     1      0        18    1
+
+
+(Rev Oct 06)
+

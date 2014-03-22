@@ -1,0 +1,61 @@
+ACCUTEK                          TRAFFIC COUNT SUMMARY
+
+STREET:
+North/South       SEPULVEDA BLVD.
+
+East/West         PALMS BLVD.
+
+Day:    TUESDAY                       Date:       11-12-1996              Weather:          SUNNY
+
+Hours: 7-10 AM 3-6 PM                 FILE:       AM044
+
+School Day:       YES                 District:           LOS ANGELES
+
+
+                    N/B                             S/B                      E/B                     W/B
+DUAL-
+WHEELED             121                             69                       53                      56
+BIKES                11                             18                       13                      17
+BUSES                90                             77                       32                      43
+
+
+                    N/B TIME                        S/B TIME                 E/B TIME                W/B     TIME
+
+AM PK 15 MIN        403   7:45                     141     9:00             277      7:45           304       7:45
+
+PM PK 15 MIN        320   5:45                     365     5:30             293      5:00           276       5:30
+
+AM PK HOUR         1243   8:00                     516     9:00             909      8:00           938       8:00
+
+PM PK HOUR         1027   5:00                    1326     5:00            1133      5:00           1005      5:00
+
+
+
+NORTHBOUND Approach                                       SOUTHBOUND Approach                              TOTAL     XING S/L    XING N/L
+
+Hours       Lt      Th    Rt          Total               Hours     Lt      Th       Rt     Total           N-S      Ped   Sch   Ped   Sch
+7-8         151     941    88          1180               7-8        48     266       57      371           1551     16    17    23    10
+8-9         115    1033    95          1243               8-9        63     363       72      498           1741     37     2    25     0
+9-10         81     740    78           899               9-10       69     386       61      516           1415     29     0    13     0
+3-4         106     635    96           837               3-4       133     657      144      934           1771     47    10    13     6
+4-5         132     710    96           938               4-5       173     838      167     1178           2116     28     0    20     4
+5-6         124     767   136          1027               5-6       146     966      214     1326           2353     44     0    24     0
+
+TOTAL       709    4826   589          6124               TOTAL     632    3476      715     4823           10947    201    29   118    20
+
+
+EASTBOUND Approach                                        WESTBOUND Approach                               TOTAL     XING W/L    XING E/L
+
+Hours       Lt     Th     Rt          Total               Hours     Lt      Th       Rt     Total           E-W      Ped   Sch   Ped   Sch
+7-8         108    561     28           697               7-8        82     609      127      818            1515    23    11     9     7
+8-9         145    709     55           909               8-9        91     681      166      938            1847    38     0    12     1
+9-10        138    427     36           601               9-10       64     437      122      623            1224    18     0    13     0
+3-4         115    551     83           749               3-4       121     671      107      899            1648    34    11    31     3
+4-5         121    667     97           885               4-5       137     643       78      858            1743    29     0    32     0
+5-6         126    902    105          1133               5-6       143     759      103     1005            2138    47     0    23     0
+
+TOTAL       753    3817   404          4974               TOTAL     638    3800      703     5141           10115    189    22   120    11
+
+
+                                                                                                            21062
+

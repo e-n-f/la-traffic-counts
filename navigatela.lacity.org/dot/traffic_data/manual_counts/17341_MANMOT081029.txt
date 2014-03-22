@@ -1,0 +1,323 @@
+                                                 TRAFFIC COUNT SUMMARY
+                                                                                                                           City of Los Angeles
+STREET:                                                                                                               Department of Transportation
+North/South           MANNING AVENUE
+
+East/West             MOTOR AVENUE
+
+Day:     AM    THURSDAY              Date:       October 29, 2008              Weather:         CLEAR
+         PM    THURSDAY                          October 29, 2008
+Hours:         7-10 AM 3-6 PM
+
+School Day:           YES            District:            LOS ANGELES
+
+
+                        N/B                         S/B                          E/B                         W/B
+DUAL-
+WHEELED                 N/A                        N/A                           N/A                         N/A
+BIKES                   N/A                        N/A                           N/A                         N/A
+BUSES                   N/A                        N/A                           N/A                         N/A
+
+
+                        N/B TIME                    S/B TIME                     E/B TIME                    W/B    TIME
+
+AM PK 15 MIN            177 8:45                     58    8:00                  149 8:45                     78    9:00
+
+PM PK 15 MIN            110 4:30                   196     5:15                  136 3:15                    151    3:45
+
+AM PK HOUR              614 8:15                   220     7:30                  561 8:30                    302    8:15
+
+PM PK HOUR              356 4:30                   664     5:00                  508 3:15                    593    5:00
+
+
+
+NORTHBOUND Approach                                       SOUTHBOUND Approach                                      TOTAL      XING S/L       XING N/L
+
+Hours           Lt     Th      Rt    Total                Hours         Lt       Th       Rt       Total           N-S        Ped   Sch     Ped   Sch
+7-8              74      194 140         408              7-8             16      120      27          163           571      N/A   N/A     N/A   N/A
+8-9              87      254 226         567              8-9             21      125      67          213           780      N/A   N/A     N/A   N/A
+9 - 10           85      204 234         523              9 - 10          24       91      52          167           690      N/A   N/A     N/A   N/A
+3-4              49      128 152         329              3-4             13      288     122          423           752      N/A   N/A     N/A   N/A
+4-5              49      162 126         337              4-5             19      348     143          510           847      N/A   N/A     N/A   N/A
+5-6              53      140 127         320              5-6             20      409     235          664           984      N/A   N/A     N/A   N/A
+TOTAL           397    1,082 1,005     2,484              TOTAL          113    1,381     646        2,140         4,624      N/A   N/A     N/A   N/A
+
+
+EASTBOUND Approach                                        WESTBOUND Approach                                       TOTAL      XING W/L       XING E/L
+
+Hours           Lt     Th      Rt    Total                Hours         Lt       Th       Rt       Total           E-W        Ped   Sch     Ped   Sch
+7-8              51      317    36       404              7-8             97      121      17          235           639      N/A   N/A     N/A   N/A
+8-9              54      430    37       521              8-9             91      187      18          296           817      N/A   N/A     N/A   N/A
+9 - 10           59      417    24       500              9 - 10         104      178      14          296           796      N/A   N/A     N/A   N/A
+3-4              58      358    77       493              3-4            191      312      13          516         1,009      N/A   N/A     N/A   N/A
+4-5              51      331    87       469              4-5            168      368      12          548         1,017      N/A   N/A     N/A   N/A
+5-6              64      344    89       497              5-6            185      391      17          593         1,090      N/A   N/A     N/A   N/A
+TOTAL           337    2,197   350     2,884              TOTAL          836    1,557      91        2,484         5,368      N/A   N/A     N/A   N/A
+                                                City Traffic Counters
+                                                    626.256.4171
+                                                                                                        File Name      : ManMot
+                                                                                                        Site Code      : 00000000
+                                                                                                        Start Date     : 5/29/2008
+                                                                                                        Page No        :1
+                                                Groups Printed- 1 - Unshifted
+                  Manning Ave                 Motor Ave                    Manning Ave                  Motor Ave
+                    Southbound                Westbound                     Northbound                  Eastbound
+ Start Time    Left      Thru    Right   Left     Thru     Right       Left      Thru    Right   Left       Thru    Right   Int. Total
+     Factor    1.0         1.0     1.0   1.0        1.0      1.0       1.0         1.0     1.0   1.0          1.0     1.0
+ 07:00 AM        4         16        2    21        19         5          9        34      27      8          58        9        212
+ 07:15 AM        4         25        4    25        21         6        14         45      39     13          68        3        267
+ 07:30 AM        3         41      11     22        43         3        28         61      30     13         100        6        361
+ 07:45 AM        5         38      10     29        38         3        23         54      44     17          91      18         370
+       Total    16        120      27     97       121        17        74        194     140     51         317      36        1210
+
+ 08:00 AM        4       39        15     27       40         5        15        61        40     10        107        8         371
+ 08:15 AM        9       28        17     26       42         7        15        53        74     10         90        6         377
+ 08:30 AM        2       27        19     21       53         2        26        64        42     11        115       15         397
+ 08:45 AM        6       31        16     17       52         4        31        76        70     23        118        8         452
+     Total      21      125        67     91      187        18        87       254       226     54        430       37        1597
+
+ 09:00 AM        9       34        10     26       50         2        18        71        74     16        124        8         442
+ 09:15 AM        5       19        16     25       44         4        25        51        65     21         99        3         377
+ 09:30 AM        6       15        17     32       40         5        24        37        44     13         99        6         338
+ 09:45 AM        4       23         9     21       44         3        18        45        51      9         95        7         329
+     Total      24       91        52    104      178        14        85       204       234     59        417       24        1486
+
+
+
+ 03:00 PM        0       67        23     50       68         1         8        26        34     11         83       18         389
+ 03:15 PM        4       67        36     54       78         2        16        43        43     16        100       20         479
+ 03:30 PM        1       75        32     34       74         4        12        31        40     19         73       22         417
+ 03:45 PM        8       79        31     53       92         6        13        28        35     12        102       17         476
+     Total      13      288       122    191      312        13        49       128       152     58        358       77        1761
+
+ 04:00 PM        6       81        33     48       95         2        12        43        26     16         91       20         473
+ 04:15 PM        3       95        34     43       92         2        11        38        25     10         80       13         446
+ 04:30 PM        3       91        28     40       90         4        21        44        45     11         78       33         488
+ 04:45 PM        7       81        48     37       91         4         5        37        30     14         82       21         457
+     Total      19      348       143    168      368        12        49       162       126     51        331       87        1864
+
+ 05:00 PM        9      113        47     44      100         2        17        44        35     12         82       21         526
+ 05:15 PM        5      122        69     48      100         1        16        30        32     17         85       20         545
+ 05:30 PM        2       97        59     44      101         3        11        38        27     16         83       27         508
+ 05:45 PM        4       77        60     49       90        11         9        28        33     19         94       21         495
+     Total      20      409       235    185      391        17        53       140       127     64        344       89        2074
+
+Grand Total    113     1381      646     836     1557        91      397      1082       1005    337       2197     350         9992
+ Apprch %       5.3     64.5     30.2    33.7     62.7       3.7     16.0      43.6       40.5   11.7       76.2    12.1
+   Total %      1.1     13.8      6.5     8.4     15.6       0.9      4.0      10.8       10.1    3.4       22.0     3.5
+                                                             City Traffic Counters
+                                                                 626.256.4171
+                                                                                                                                 File Name           : ManMot
+                                                                                                                                 Site Code           : 00000000
+                                                                                                                                 Start Date          : 5/29/2008
+                                                                                                                                 Page No             :2
+
+                        Manning Ave                    Motor Ave                             Manning Ave                          Motor Ave
+                        Southbound                     Westbound                             Northbound                           Eastbound
+                                        App.                              App.                              App.                                     App.     Int.
+    Start Time   Left   Thru      Right          Left Thru    Right                  Left    Thru   Right              Left      Thru        Right
+                                        Total                             Total                             Total                                    Total   Total
+Peak Hour From 07:00 AM to 11:45 AM - Peak 1 of 1
+  Intersection 08:15 AM
+      Volume       26    120     62      208      90   197     15          302        90     264    260      614      60         447          37      544    1668
+      Percent    12.5   57.7   29.8             29.8  65.2     5.0                   14.7    43.0   42.3             11.0        82.2         6.8
+        08:45
+                    6     31     16       53      17    52       4           73         31    76      70     177          23      118           8     149     452
+      Volume
+  Peak Factor                                                                                                                                                0.923
+      High Int. 08:15 AM                      09:00 AM                              08:45 AM                        08:45 AM
+      Volume        9     28     17       54      26    50       2          78         31    76       70      177      23    118                8      149
+  Peak Factor                          0.963                             0.968                              0.867                                    0.913
+
+                                                                         Manning Ave
+                                                                 Out         In      Total
+                                                                  339         208      547
+
+
+                                                                         62   120       26
+                                                                      Right Thru     Left
+                                893
+                               Total
+
+
+
+
+                                                                                                                                 Out
+                                                                                                                                  733
+                                            60
+
+
+
+
+                                                                                                                    Right Thru
+                                          Left
+
+
+
+
+                                                                            North
+                                                                                                                       15
+
+
+
+
+                                                                                                                                 Motor Ave
+                          Motor Ave
+
+                               544
+
+
+                                                 447
+                                          Right Thru
+                               In
+
+
+
+
+                                                                                                                                    In
+                                                                 5/29/2008 8:15:00 AM
+                                                                                                                           197
+
+
+                                                                                                                                     302
+
+                                                                 5/29/2008 9:00:00 AM
+                                             37
+
+
+
+
+                                                                                                                    Left
+                                349
+
+
+
+
+                                                                 1 - Unshifted
+                               Out
+
+
+
+
+                                                                                                                                 Total
+                                                                                                                      90
+
+
+                                                                                                                                 1035
+
+
+
+
+                                                                      Left  Thru Right
+                                                                         90   264  260
+
+
+                                                                  247         614      861
+                                                                 Out         In      Total
+                                                                         Manning Ave
+                                                             City Traffic Counters
+                                                                 626.256.4171
+                                                                                                                                 File Name           : ManMot
+                                                                                                                                 Site Code           : 00000000
+                                                                                                                                 Start Date          : 5/29/2008
+                                                                                                                                 Page No             :3
+                        Manning Ave                    Motor Ave                             Manning Ave                          Motor Ave
+                        Southbound                     Westbound                             Northbound                           Eastbound
+                                        App.                              App.                              App.                                     App.     Int.
+    Start Time   Left   Thru      Right          Left Thru    Right                 Left     Thru   Right              Left      Thru        Right
+                                        Total                             Total                             Total                                    Total   Total
+Peak Hour From 12:00 PM to 05:45 PM - Peak 1 of 1
+  Intersection 05:00 PM
+      Volume       20    409   235       664     185   391     17          593       53      140    127      320      64         344          89      497    2074
+      Percent     3.0   61.6   35.4             31.2  65.9     2.9                  16.6     43.8   39.7             12.9        69.2        17.9
+        05:15
+                    5    122     69      196      48   100       1         149          16    30      32      78          17       85          20     122     545
+      Volume
+  Peak Factor                                                                                                                                                0.951
+      High Int. 05:15 PM                      05:45 PM                         05:00 PM                           05:45 PM
+      Volume        5    122     69      196      49    90      11         150    17    44            35       96    19    94                  21      134
+  Peak Factor                          0.847                             0.988                              0.833                                    0.927
+
+                                                                         Manning Ave
+                                                                 Out         In      Total
+                                                                  221         664      885
+
+
+                                                                        235   409      20
+                                                                      Right Thru    Left
+                               1176
+                               Total
+
+
+
+
+                                                                                                                                 Out
+                                                                                                                                  491
+                                            64
+
+
+
+
+                                                                                                                    Right Thru
+                                          Left
+
+
+
+
+                                                                            North                                      17
+
+
+
+
+                                                                                                                                 Motor Ave
+                          Motor Ave
+
+                               497
+
+
+                                                 344
+                                          Right Thru
+                               In
+
+
+
+
+                                                                                                                                    In
+                                                                 5/29/2008 5:00:00 PM
+                                                                                                                           391
+
+
+                                                                                                                                     593
+                                                                 5/29/2008 5:45:00 PM
+                                             89
+
+
+
+
+                                                                                                                    Left
+                                679
+
+
+
+
+                                                                 1 - Unshifted
+                                                                                                                     185
+                               Out
+
+
+
+
+                                                                                                                                 Total
+                                                                                                                                 1084
+
+
+
+
+                                                                      Left  Thru Right
+                                                                         53   140  127
+
+
+                                                                  683         320     1003
+                                                                 Out         In      Total
+                                                                         Manning Ave
+

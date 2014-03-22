@@ -1,0 +1,93 @@
+WILTEC                                                                                              Phone: (626) 564-1944   Fax: (626) 564-0969
+INTERSECTION TURNING MOVEMENT COUNT SUMMARY
+
+CLIENT:                 INTUEOR
+PROJECT:                DOWNTOWN LOS ANGELES TRAFFIC COUNTS
+DATE:                   TUESDAY MAY 5, 2009
+PERIOD:                 7:00 AM TO 9:00 AM
+INTERSECTION: N/S       GRAND AVENUE
+              E/W       FOURTH STREET
+
+
+
+15 MIN COUNTS      1             2       3        4        5        6      7         8        9     10       11       12                 TOTALS
+PERIOD          SBRT          SBTH    SBLT     WBRT     WBTH     WBLT   NBRT      NBTH     NBLT   EBRT    EBTH      EBLT
+700-715            0             0       3        0        0        0      0         0        0      0      211       70                       284
+715-730            0             0       9        0        0        0      0         0        0      0      229       85                       323
+730-745            0             0       8        0        0        0      0         0        0      0      250       85                       343
+745-800            0             0       7        0        0        0      0         0        0      0      234       84                       325
+800-815            0             0      10        0        0        0      0         0        0      0      324      129                       463
+815-830            0             0       9        0        0        0      0         0        0      0      335      147                       491
+830-845            0             0       5        0        0        0      0         0        0      0      279      121                       405
+845-900            0             0      11        0        0        0      0         0        0      0      276      144                       431
+HOUR TOTALS
+700-800             0             0       27        0      0        0         0      0        0      0      924       324                  1275
+715-815             0             0       34        0      0        0         0      0        0      0     1037       383                  1454
+730-830             0             0       34        0      0        0         0      0        0      0     1143       445                  1622
+745-845             0             0       31        0      0        0         0      0        0      0     1172       481                  1684
+800-900             0             0       35        0      0        0         0      0        0      0     1214       541                  1790
+
+AM PEAK HOUR                                                                             PEDESTRIAN COUNTS
+   800-900                                                                               PERIOD         NORTH EAST          SOUTH       WEST
+                              0       0        35                             0          15 MIN COUNTS  LEG    LEG          LEG         LEG
+                                                                                         700-715             0          0           0           0
+                                                                              0          715-730             1          0           0           0
+                                                                                         730-745             0          0           0           0
+                                                                              0          745-800             0          0           0           0
+                                                                                         800-815             0          0           0           0
+                                                                                         815-830             0          0           0           1
+                        541                                                              830-845             1          0           0           0
+                                                                                         845-900             1          0           0           2
+FOURTH STREET           1214                                                             HOUR TOTALS
+                                                                                         700-800             1          0           0           0
+                        0                                  0        0         0          715-815             1          0           0           0
+                                                                                         730-830             0          0           0           1
+                                                               GRAND AVENUE              745-845             1          0           0           1
+                                                                                         800-900             2          0           0           3
+WILTEC                                                                                               Phone: (626) 564-1944   Fax: (626) 564-0969
+INTERSECTION TURNING MOVEMENT COUNT SUMMARY
+
+CLIENT:                 INTUEOR
+PROJECT:                DOWNTOWN LOS ANGELES TRAFFIC COUNTS
+DATE:                   TUESDAY MAY 5, 2009
+PERIOD:                 4:00 PM TO 6:00 PM
+INTERSECTION: N/S       GRAND AVENUE
+              E/W       FOURTH STREET
+
+
+
+15 MIN COUNTS      1            2       3         4         5        6      7         8        9     10       11       12                 TOTALS
+PERIOD          SBRT         SBTH    SBLT      WBRT      WBTH     WBLT   NBRT      NBTH     NBLT   EBRT    EBTH      EBLT
+400-415            0            0      21         0         0        0      0         0        0      0      234       16                       271
+415-430            0            0      21         0         0        0      0         0        0      0      226       16                       263
+430-445            0            0      34         0         0        0      0         0        0      0      244       14                       292
+445-500            0            0      25         0         0        0      0         0        0      0      253       23                       301
+500-515            0            0      20         0         0        0      0         0        0      0      275       14                       309
+515-530            0            0      26         0         0        0      0         0        0      0      305       22                       353
+530-545            0            0      28         0         0        0      0         0        0      0      235       21                       284
+545-600            0            0      17         0         0        0      0         0        0      0      229       16                       262
+HOUR TOTALS
+400-500             0            0       101         0      0        0         0      0        0      0      957        69                  1127
+415-515             0            0       100         0      0        0         0      0        0      0      998        67                  1165
+430-530             0            0       105         0      0        0         0      0        0      0     1077        73                  1255
+445-545             0            0        99         0      0        0         0      0        0      0     1068        80                  1247
+500-600             0            0        91         0      0        0         0      0        0      0     1044        73                  1208
+
+PM PEAK HOUR                                                                              PEDESTRIAN COUNTS
+   430-530                                                                                PERIOD         NORTH EAST          SOUTH       WEST
+                             0       0         105                             0          15 MIN COUNTS  LEG    LEG          LEG         LEG
+                                                                                          400-415             1          0           0           0
+                                                                               0          415-430             1          0           0           2
+                                                                                          430-445             2          1           0           2
+                                                                               0          445-500             2          0           0           0
+                                                                                          500-515             1          0           0           0
+                                                                                          515-530             1          0           0           1
+                        73                                                                530-545             3          1           0           1
+                                                                                          545-600             1          1           0           0
+FOURTH STREET           1077                                                              HOUR TOTALS
+                                                                                          400-500             6          1           0           4
+                        0                                   0        0         0          415-515             6          1           0           4
+                                                                                          430-530             6          1           0           3
+                                                                GRAND AVENUE              445-545             7          1           0           2
+                                                                                          500-600             6          2           0           2
+

@@ -1,0 +1,509 @@
+                                                  City Traffic Counters
+                                                     626-447-4171
+                                                                                                      File Name       : Fig11th
+                                                                                                      Site Code       : 00000000
+                                                                                                      Start Date      : 5/10/2012
+                                                                                                      Page No         :1
+                                                  Groups Printed- 1 - Unshifted
+                    Figueroa St                  11th St                     Figueroa St                 11th St
+                   Southbound                   Westbound                    Northbound                 Eastbound
+ Start Time    Left     Thru      Right    Left     Thru     Right      Left      Thru     Right   Left     Thru    Right   Int. Total
+     Factor    1.0        1.0       1.0    1.0       1.0       1.0       1.0        1.0      1.0   1.0       1.0      1.0
+ 07:00 AM        1         15         0     19         0       13          7       312         1     2         0        1        371
+ 07:15 AM        1         18         0     22         0       15          3       370         1     6         0        0        436
+ 07:30 AM        0         22         0     27         0       21          5       399         0     5         3        2        484
+ 07:45 AM        0         30         0     19         0       21          9       477         2     2         3        7        570
+       Total     2         85         0     87         0       70        24      1558          4    15         6      10        1861
+
+ 08:00 AM        0       50          1      24         2       26         6      472          4      8        1        5         599
+ 08:15 AM        0       54          0      16         0       22         7      480          1      5        3        8         596
+ 08:30 AM        0       35          1      23         0       27         6      489          6      6        2        2         597
+ 08:45 AM        0       41          0      17         0       26         6      451          2      9        1        3         556
+     Total       0      180          2      80         2      101        25     1892         13     28        7       18        2348
+
+ 09:00 AM        1       43          0      16         0       28        12      421          1      3        5        3         533
+ 09:15 AM        1       43          0      18         0       25        12      401          4      6        2        9         521
+ 09:30 AM        1       55          0      20         0       23         9      342          5      7        3        4         469
+ 09:45 AM        1       41          0      18         0       30         9      279          2     10        5       10         405
+     Total       4      182          0      72         0      106        42     1443         12     26       15       26        1928
+
+
+
+ 03:00 PM        0       57          0      22         0       49         0      370          5      0        0        0         503
+ 03:15 PM        0       56          0      30         0       51         0      377          7      0        0        0         521
+ 03:30 PM        0       57          0      39         0       47         0      411          6      0        0        0         560
+ 03:45 PM        0       61          0      56         0       73         0      341          3      0        0        0         534
+     Total       0      231          0     147         0      220         0     1499         21      0        0        0        2118
+
+ 04:00 PM        3       79          1      41         0       64         0      362          7      0        0        0         557
+ 04:15 PM        1       73          0      63         0       61         0      389          5      0        0        0         592
+ 04:30 PM        2       78          0      61         0       60         0      417         11      0        0        0         629
+ 04:45 PM        4       68          0      63         1       78         0      365          7      0        0        0         586
+     Total      10      298          1     228         1      263         0     1533         30      0        0        0        2364
+
+ 05:00 PM        0       72          0      89         0       74         0      379          9      0        0        0         623
+ 05:15 PM        5       69          0     103         0       91         0      388          8      0        0        0         664
+ 05:30 PM        2       77          0     107         0      119         0      370          3      0        0        0         678
+ 05:45 PM        1       59          2     157         2      122         0      381          6      0        0        0         730
+     Total       8      277          2     456         2      406         0     1518         26      0        0        0        2695
+
+Grand Total    24      1253          5    1070         5     1166        91     9443        106     69      28       54       13314
+ Apprch %      1.9      97.7       0.4     47.7      0.2      52.0       0.9     98.0        1.1   45.7    18.5     35.8
+   Total %     0.2       9.4       0.0      8.0      0.0       8.8       0.7     70.9        0.8    0.5     0.2      0.4
+                                                     City Traffic Counters
+                                                        626-447-4171
+                                                                                                                              File Name             : Fig11th
+                                                                                                                              Site Code             : 00000000
+                                                                                                                              Start Date            : 5/10/2012
+                                                                                                                              Page No               :2
+
+                        Figueroa St                11th St                                  Figueroa St                             11th St
+                        Southbound                Westbound                                 Northbound                             Eastbound
+                                     App.                         App.                                    App.                                      App.     Int.
+   Start Time   Left   Thru Right            Left Thru Right                    Left       Thru Right              Left           Thru Right
+                                    Total                         Total                                   Total                                     Total   Total
+Peak Hour From 07:00 AM to 11:45 AM - Peak 1 of 1
+  Intersection 07:45 AM
+      Volume        0   169     2     171     82     2   96         180         28         1918    13     1959     21                9        22      52    2362
+      Percent     0.0 98.8    1.2           45.6   1.1 53.3                     1.4         97.9   0.7            40.4            17.3       42.3
+        08:00
+                    0    50     1      51     24     2   26          52            6        472      4     482        8             1          5      14     599
+      Volume
+ Peak Factor                                                                                                                                                0.986
+      High Int. 08:15 AM                   08:00 AM                         08:30 AM                              08:15 AM
+      Volume        0    54     0      54     24     2   26         52          6   489              6      501       5    3                   8       16
+ Peak Factor                       0.792                         0.865                                    0.978                                     0.813
+
+                                                                  Figueroa St
+                                                          Out         In          Total
+                                                          2035         171         2206
+
+
+                                                                2   169                0
+                                                            Right Thru          Left
+                            84
+                         Total
+
+
+
+
+                                                                                                                                     Out
+                                    21
+
+
+
+
+                                                                                                                    Right Thru
+
+
+
+                                                                                                                                      22
+                                  Left
+
+
+
+
+                                                                    North
+                                                                                                                       96
+                             52
+
+
+
+
+                                                                                                                                     11th St
+                       11th St
+
+
+
+
+                                            9
+                                  Right Thru
+                           In
+
+
+
+
+                                                         5/10/2012 7:45:00 AM                                                          In
+                                                                                                                                        180
+
+                                                         5/10/2012 8:30:00 AM
+                                                                                                                              2
+                                     22
+
+
+
+
+                                                                                                                    Left
+                          32
+
+
+
+
+                                                          1 - Unshifted
+                         Out
+
+
+
+
+                                                                                                                                     Total
+                                                                                                                      82
+
+
+                                                                                                                                      202
+
+
+
+
+                                                               Left  Thru Right
+                                                                  28 1918    13
+
+
+                                                           273        1959         2232
+                                                          Out         In          Total
+                                                                  Figueroa St
+                                                     City Traffic Counters
+                                                        626-447-4171
+                                                                                                                                 File Name           : Fig11th
+                                                                                                                                 Site Code           : 00000000
+                                                                                                                                 Start Date          : 5/10/2012
+                                                                                                                                 Page No             :3
+                        Figueroa St                11th St                                      Figueroa St                            11th St
+                        Southbound                Westbound                                     Northbound                            Eastbound
+                                     App.                             App.                                    App.                                   App.     Int.
+   Start Time   Left   Thru Right            Left Thru Right                        Left       Thru Right             Left           Thru Right
+                                    Total                             Total                                   Total                                  Total   Total
+Peak Hour From 12:00 PM to 05:45 PM - Peak 1 of 1
+  Intersection 05:00 PM
+      Volume        8   277     2     287   456      2  406               864         0        1518    26     1544      0               0        0      0    2695
+      Percent     2.8 96.5    0.7           52.8   0.2 47.0                         0.0         98.3   1.7            0.0             0.0      0.0
+        05:45
+                    1    59     2      62   157      2  122               281          0        381      6     387       0             0         0      0     730
+      Volume
+ Peak Factor                                                                                                                                                 0.923
+      High Int. 05:30 PM                   05:45 PM                         05:15 PM
+      Volume        2    77     0      79   157      2  122             281     0   388                  8      396
+ Peak Factor                       0.908                              0.769                                   0.975
+
+                                                                      Figueroa St
+                                                          Out             In          Total
+                                                          1924             287         2211
+
+
+                                                                2   277                    8
+                                                            Right Thru              Left
+                             4
+                         Total
+
+
+
+
+                                                                                                                                       Out
+                                       0
+
+
+
+
+                                                                                                                       Right Thru
+
+
+
+                                                                                                                                        34
+                                   Left
+
+
+
+
+                                                                          North                                          406
+                              0
+
+
+
+
+                                                                                                                                       11th St
+                       11th St
+
+
+
+
+                                             0
+                                   Right Thru
+                           In
+
+
+
+
+                                                                                                                                         In
+                                                         5/10/2012 5:00:00 PM
+                                                                                                                                          864
+                                                         5/10/2012 5:45:00 PM
+                                                                                                                                 2
+                                       0
+
+
+
+
+                                                                                                                       Left
+                               4
+
+
+
+
+                                                          1 - Unshifted
+                                                                                                                        456
+                         Out
+
+
+
+
+                                                                                                                                       Total
+                                                                                                                                        898
+
+
+
+
+                                                               Left       Thru Right
+                                                                      0    1518   26
+
+
+                                                           733            1544         2277
+                                                          Out             In          Total
+                                                                      Figueroa St
+                                  City Traffic Counters
+                                     626-447-4171
+                                                                               File Name     : Fig11th_B_P
+                                                                               Site Code     : 00000000
+                                                                               Start Date    : 5/10/2012
+                                                                               Page No       :1
+                                   Groups Printed- 2 - Bank 1
+               Figueroa St          11th St                 Figueroa St           11th St
+               Southbound         Westbound                 Northbound          Eastbound
+ Start Time    Thru        Peds   Thru        Peds          Thru        Peds    Thru      Peds     Int. Total
+     Factor     1.0         1.0    1.0          1.0           1.0        1.0     1.0       1.0
+ 07:00 AM         3           7      3            9             1         18       3        20           64
+ 07:15 AM         1          11      6            6             1         15       4        16           60
+ 07:30 AM         3           8      5          12              0         15       2        13           58
+ 07:45 AM         1          17      0          12              1         25       3        25           84
+       Total      8          43     14          39              3         73      12        74          266
+
+ 08:00 AM         2          4       2           7            0          29       1          14          59
+ 08:15 AM         2          4       1          12            0          10       1           6          36
+ 08:30 AM         1          7       1          14            3          24       6          18          74
+ 08:45 AM         0          3       3          21            0           7       4           3          41
+     Total        5         18       7          54            3          70      12          41         210
+
+ 09:00 AM         2          4       1          15            0          16       4           9          51
+ 09:15 AM         1          3       1          26            0          18       3           3          55
+ 09:30 AM         1          6       2          31            2          16       3           7          68
+ 09:45 AM         0          5       2          18            0          10       4           4          43
+     Total        4         18       6          90            2          60      14          23         217
+
+
+
+ 03:00 PM         4         18      11          99            3          44      11          11         201
+ 03:15 PM         4         16      14         101            2          50      10          14         211
+ 03:30 PM         2         12       2         112            1          56       7           6         198
+ 03:45 PM         4         22       3          97            2          53       6          22         209
+     Total       14         68      30         409            8         203      34          53         819
+
+ 04:00 PM         3         20       4         111            2          38       5          14         197
+ 04:15 PM         1         31       4         126            1          42       3           7         215
+ 04:30 PM         2         26       2         113            1          59       4           4         211
+ 04:45 PM         2         25       1         106            0          44       6          24         208
+     Total        8        102      11         456            4         183      18          49         831
+
+ 05:00 PM         1         20       2         111            2          35       2          19         192
+ 05:15 PM         3         23       1         101            4          60       4          15         211
+ 05:30 PM         2         24       3         120            2          53       2          21         227
+ 05:45 PM         1         30       2         139            2          57       2          25         258
+     Total        7         97       8         471           10         205      10          80         888
+
+Grand Total     46         346     76         1519          30         794      100         320        3231
+ Apprch %      11.7        88.3    4.8         95.2         3.6        96.4     23.8        76.2
+   Total %      1.4        10.7    2.4         47.0         0.9        24.6      3.1         9.9
+                                                    City Traffic Counters
+                                                       626-447-4171
+                                                                                                                 File Name                : Fig11th_B_P
+                                                                                                                 Site Code                : 00000000
+                                                                                                                 Start Date               : 5/10/2012
+                                                                                                                 Page No                  :2
+
+                          Figueroa St              11th St                               Figueroa St                           11th St
+                          Southbound              Westbound                              Northbound                           Eastbound
+                                       App.                         App.                               App.                                App.
+      Start Time   Thru        Peds             Thru  Peds                       Thru       Peds                 Thru           Peds               Int. Total
+                                       Total                        Total                              Total                               Total
+Peak Hour From 07:00 AM to 11:45 AM - Peak 1 of 1
+     Intersection 07:00 AM
+         Volume         8     43         51       14    39             53           3        73          76       12             74          86         266
+         Percent     15.7   84.3                 26.4 73.6                        3.9       96.1                 14.0           86.0
+   07:45 Volume         1     17         18         0   12             12           1        25          26         3            25          28         84
+     Peak Factor                                                                                                                                    0.792
+         High Int. 07:45 AM                  07:30 AM                         07:45 AM                         07:45 AM
+         Volume         1     17         18         5   12             17          1          25          26        3             25          28
+     Peak Factor                      0.708                         0.779                              0.731                               0.768
+
+                                                                 Figueroa St
+                                                         Out         In          Total
+                                                               3        51          54
+
+
+                                                                       8   43
+                                                                   Thru Peds
+                       100
+                      Total
+
+
+
+
+                                                                                                                                Out
+                                                                                                                                 12
+                                                                      North
+                                        12
+
+
+
+
+                                                                                                                  Thru Peds
+                                 Peds Thru
+                          86
+                    11th St
+
+
+
+
+                                                                                                                                11th St
+                                                                                                                    14
+                        In
+
+
+
+
+                                                                                                                                  In
+                                                         5/10/2012 7:00:00 AM                                                       53
+                                   74
+
+
+
+
+                                                         5/10/2012 7:45:00 AM
+                                                                                                                         39
+                       14
+
+
+
+
+                                                         2 - Bank 1
+                      Out
+
+
+
+
+                                                                                                                                Total
+                                                                                                                                   65
+
+
+
+
+                                                                   Thru Peds
+                                                                       3   73
+
+
+                                                               8          76        84
+                                                         Out           In        Total
+                                                                   Figueroa St
+                                                    City Traffic Counters
+                                                       626-447-4171
+                                                                                                                 File Name                : Fig11th_B_P
+                                                                                                                 Site Code                : 00000000
+                                                                                                                 Start Date               : 5/10/2012
+                                                                                                                 Page No                  :3
+                            Figueroa St            11th St                               Figueroa St                           11th St
+                            Southbound            Westbound                              Northbound                           Eastbound
+                                       App.                         App.                               App.                                App.
+      Start Time   Thru         Peds            Thru  Peds                       Thru       Peds                 Thru           Peds               Int. Total
+                                       Total                        Total                              Total                               Total
+Peak Hour From 12:00 PM to 05:45 PM - Peak 1 of 1
+     Intersection 05:00 PM
+         Volume          7    97        104         8  471            479         10        205         215       10             80          90         888
+         Percent       6.7  93.3                  1.7 98.3                        4.7       95.3                 11.1           88.9
+   05:45 Volume          1    30         31         2  139            141           2        57          59         2            25          27        258
+     Peak Factor                                                                                                                                    0.860
+         High Int. 05:45 PM                  05:45 PM                         05:15 PM                         05:45 PM
+         Volume          1    30         31         2  139            141          4          60          64        2             25          27
+     Peak Factor                      0.839                         0.849                              0.840                               0.833
+
+                                                                   Figueroa St
+                                                         Out           In        Total
+                                                           10           104        114
+
+
+                                                                       7   97
+                                                                   Thru Peds
+                         98
+                      Total
+
+
+
+
+                                                                                                                                Out
+                                                                                                                                 10
+                                                                      North
+                                         10
+
+
+
+
+                                                                                                                  Thru Peds
+                                  Peds Thru
+                          90
+
+
+
+
+                                                                                                                                11th St
+                    11th St
+                        In
+
+
+
+
+                                                                                                                      8
+
+
+
+                                                                                                                                  In
+                                                         5/10/2012 5:00:00 PM
+
+                                                                                                                                  479
+                                    80
+
+
+
+
+                                                         5/10/2012 5:45:00 PM
+                                                                                                                        471
+                            8
+
+
+
+
+                                                         2 - Bank 1
+                      Out
+
+
+
+
+                                                                                                                                Total
+                                                                                                                                 489
+
+
+
+
+                                                                   Thru Peds
+                                                                      10  205
+
+
+                                                               7        215        222
+                                                         Out           In        Total
+                                                                   Figueroa St
+

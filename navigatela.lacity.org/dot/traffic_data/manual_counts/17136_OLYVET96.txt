@@ -1,0 +1,61 @@
+ACCUTEK                            TRAFFIC COUNT SUMMARY
+
+STREET:
+North/South       VETERAN AVE.
+
+East/West         OLYMPIC BLVD.
+
+Day:    TUESDAY                         Date:       11-26-1996              Weather:          CLEAR
+
+Hours: 7-10 AM 3-6 PM                   FILE:       AM048
+
+School Day:       YES                   District:           LOS ANGELES
+
+
+                    N/B                               S/B                      E/B                     W/B
+DUAL-
+WHEELED                 7                              8                      151                      131
+BIKES                   7                             12                       10                        9
+BUSES                   0                              0                       34                       34
+
+
+                    N/B TIME                          S/B TIME                 E/B TIME                W/B     TIME
+
+AM PK 15 MIN         68     8:15                      70     9:15             636      8:45           633       8:15
+
+PM PK 15 MIN         44     3:15                     175     5:45             541      5:15           779       5:15
+
+AM PK HOUR          247     8:00                     234     8:00            2272      8:00           2391      8:00
+
+PM PK HOUR          166     4:00                     647     5:00            2049      5:00           2926      5:00
+
+
+
+NORTHBOUND Approach                                         SOUTHBOUND Approach                              TOTAL     XING S/L       XING N/L
+
+Hours       Lt     Th       Rt          Total               Hours     Lt      Th       Rt     Total           N-S      Ped   Sch      Ped   Sch
+7-8          19     78       27           124               7-8        53      44       32      129            253      2     0        3     0
+8-9          41    165       41           247               8-9       109      78       47      234            481      4     0        2     0
+9-10         39    113       32           184               9-10       87      88       46      221            405      1     0        2     0
+3-4          49     95       20           164               3-4        98     232      123      453            617      0     0        2     0
+4-5          30    113       23           166               4-5       139     328      127      594            760      5     0        2     0
+5-6          30     89       29           148               5-6       167     386       94      647            795      3     0        2     0
+
+TOTAL       208     653     172           1033              TOTAL     653    1156      469     2278            3311     15        0    13        0
+
+
+EASTBOUND Approach                                          WESTBOUND Approach                               TOTAL     XING W/L       XING E/L
+
+Hours       Lt      Th      Rt          Total               Hours     Lt      Th       Rt     Total           E-W      Ped   Sch      Ped   Sch
+7-8          24    1357       9          1390               7-8        12    1604       22     1638            3028     4     1        3     0
+8-9          33    2219      20          2272               8-9        25    2327       39     2391            4663     4     0        3     1
+9-10         33    1849      13          1895               9-10       18    2065       29     2112            4007     5     0        1     0
+3-4          33    1798      18          1849               3-4        37    2450       25     2512            4361     1     0        4     0
+4-5          45    1886      20          1951               4-5        40    2609       28     2677            4628     6     0        4     0
+5-6          35    1996      18          2049               5-6        65    2827       34     2926            4975     0     0        0     0
+
+TOTAL       203 11105       98           11406              TOTAL     197 13882        177    14256           25662     20        1    15        1
+
+
+                                                                                                              28973
+

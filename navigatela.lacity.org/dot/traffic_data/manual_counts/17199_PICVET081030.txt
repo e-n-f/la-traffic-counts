@@ -1,0 +1,186 @@
+                                                  TRAFFIC COUNT SUMMARY
+                                                                                                                             City of Los Angeles
+STREET:                                                                                                                 Department of Transportation
+North/South           VETERAN AVENUE
+
+East/West             PICO BOULEVARD
+
+Day:     AM    THURSDAY               Date:       OCTOBER 30, 2008             Weather:         CLEAR
+         PM    THURSDAY                           OCTOBER 30, 2008
+Hours:         7-10 AM 3-6 PM
+
+School Day:           YES             District:           LOS ANGELES
+
+
+                        N/B                         S/B                          E/B                         W/B
+DUAL-
+WHEELED                 N/A                         N/A                          N/A                          N/A
+BIKES                   N/A                         N/A                          N/A                          N/A
+BUSES                   N/A                         N/A                          N/A                          N/A
+
+
+                        N/B TIME                    S/B TIME                     E/B TIME                    W/B      TIME
+
+AM PK 15 MIN                42 8:45                  28    8:30                  459 9:00                     381     8:45
+
+PM PK 15 MIN                50 5:00                 136    4:45                  494 5:15                     415     3:15
+
+AM PK HOUR              155 8:30                     93    8:00                 1,702 8:15                   1,460    8:15
+
+PM PK HOUR              162 4:45                    495    4:30                 1,850 4:45                   1,605    4:30
+
+
+
+NORTHBOUND Approach                                       SOUTHBOUND Approach                                        TOTAL      XING S/L       XING N/L
+
+Hours           Lt     Th      Rt     Total               Hours         Lt      Th        Rt       Total             N-S        Ped   Sch     Ped   Sch
+7-8              14      11     15         40             7-8             14       5       32           51              91      N/A   N/A     N/A   N/A
+8-9              34      40     39        113             8-9             37       7       49           93             206      N/A   N/A     N/A   N/A
+9 - 10           41      51     40        132             9 - 10          25       3       40           68             200      N/A   N/A     N/A   N/A
+3-4              28      24     28         80             3-4             64      65      123          252             332      N/A   N/A     N/A   N/A
+4-5              28      13     55         96             4-5            103     136      178          417             513      N/A   N/A     N/A   N/A
+5-6              45      28     68        141             5-6             85     140      201          426             567      N/A   N/A     N/A   N/A
+TOTAL           190     167    245        602             TOTAL          328     356      623        1,307           1,909      N/A   N/A     N/A   N/A
+
+
+EASTBOUND Approach                                        WESTBOUND Approach                                         TOTAL      XING W/L       XING E/L
+
+Hours           Lt     Th      Rt     Total               Hours         Lt       Th       Rt       Total             E-W        Ped   Sch     Ped   Sch
+7-8              60      931      7       998             7-8             17    1,124      27        1,168           2,166      N/A   N/A     N/A   N/A
+8-9             159    1,398     14     1,571             8-9             37    1,360      56        1,453           3,024      N/A   N/A     N/A   N/A
+9 - 10          171    1,349     21     1,541             9 - 10          56    1,260      45        1,361           2,902      N/A   N/A     N/A   N/A
+3-4              91    1,278     41     1,410             3-4             28    1,477      65        1,570           2,980      N/A   N/A     N/A   N/A
+4-5              98    1,419     50     1,567             4-5             57    1,366     104        1,527           3,094      N/A   N/A     N/A   N/A
+5-6             144    1,596     56     1,796             5-6             52    1,351      87        1,490           3,286      N/A   N/A     N/A   N/A
+TOTAL           723    7,971    189     8,883             TOTAL          247    7,938     384        8,569           17,452     N/A   N/A     N/A   N/A
+INTERSECTION TURNING MOVEMENT COUNT SUMMARY
+
+CLIENT:                      CRAIN & ASSOCIATES
+PROJECT:                     CENTURY CITY
+DATE:                        THURSDAY, OCTOBER 30, 2008
+PERIOD:                      07:00 AM TO 10:00 AM
+INTERSECTION:     N/S        VETERAN AVENUE
+                 E/W         PICO BOULEVARD
+FILE NUMBER:                  11-AM
+
+
+  15 MINUTE        1            2          3          4          5            6         7          8          9          10         11      12
+   TOTALS        SBRT         SBTH        SBLT       WBRT       WBTH        WBLT       NBRT       NBTH       NBLT       EBRT       EBTH    EBLT
+
+
+  0700-0715             7             1          3          4        203           6          3          2          0          1     158          5
+  0715-0730             5             1          2          6        268           4          3          4          4          2     184         13
+  0730-0745             10            1          4          7        332           3          5          2          5          1     245         19
+  0745-0800             10            2          5        10         321           4          4          3          5          3     344         23
+  0800-0815             10            2         10        14         339           4          6          5          8          2     306         20
+  0815-0830             10            1          8        12         328           6          5          8          6          3     352         38
+  0830-0845             15            2         11        16         342          11        13         11           9          4     362         48
+  0845-0900             14            2          8        14         351          16        15         16         11           5     378         53
+  0900-0915             13            1          5        12         333          19        14         17         10           7     393         59
+  0915-0930             9             0          8        10         314          17        10         14         15           5     342         41
+  0930-0945             10            2          5        10         321          13          9        12           9          3     319         49
+  0940-1000             8             0          7        13         292           7          7          8          7          6     295         22
+
+
+   1 HOUR          1            2          3          4          5            6         7          8          9          10         11      12
+   TOTALS        SBRT         SBTH        SBLT       WBRT       WBTH        WBLT       NBRT       NBTH       NBLT       EBRT       EBTH    EBLT       TOTALS
+
+
+  0700-0800             32            5         14        27     1124             17        15         11         14           7     931         60     2257
+  0715-0815             35            6         21        37     1260             15        18         14         22           8    1079         75     2590
+  0730-0830             40            6         27        43     1320             17        20         18         24           9    1247     100        2871
+  0745-0845             45            7         34        52     1330             25        28         27         28          12    1364     129        3081
+  0800-0900             49            7         37        56     1360             37        39         40         34          14    1398     159        3230
+  0815-0915             52            6         32        54     1354             52        47         52         36          19    1485     198        3387
+  0830-0930             51            5         32        52     1340             63        52         58         45          21    1475     201        3395
+  0845-0945             46            5         26        46     1319             65        48         59         45          20    1432     202        3313
+  0900-1000             40            3         25        45     1260             56        40         51         41          21    1349     171        3102
+
+   A.M. PEAK HOUR                                                    51            5        32
+      0830-0930
+
+
+                                          201                                                                            52
+
+                                          1475                                                                          1340
+          PICO BOULEVARD
+                                           21                                                                            63
+
+
+
+
+                                                                     45           58        52
+
+
+                                                                           VETERAN AVENUE
+
+   THE TRAFFIC SOLUTION
+   329 DIAMOND STREET
+   ARCADIA, CALIFORNIA 91006
+   626.446.7978
+INTERSECTION TURNING MOVEMENT COUNT SUMMARY
+
+CLIENT:                      CRAIN & ASSOCIATES
+PROJECT:                     CENTURY CITY
+DATE:                        THURSDAY, OCTOBER 30, 2008
+PERIOD:                      03:00 PM TO 06:00 PM
+INTERSECTION:     N/S        VETERAN AVENUE
+                 E/W         PICO BOULEVARD
+FILE NUMBER:                  11-PM
+
+
+  15 MINUTE        1            2          3          4          5            6          7          8          9          10         11      12
+   TOTALS        SBRT         SBTH        SBLT       WBRT       WBTH        WBLT        NBRT       NBTH       NBLT       EBRT       EBTH    EBLT
+
+
+  0300-0315             26          12          15        18         369           6           4          7          9          9     303         20
+  0315-0330             39          15          15        16         393           6           6          9          7         10     314         22
+  0330-0345             24          18          17        18         340           9           7          5          6         12     320         23
+  0345-0400             34          20          17        13         375           7         11           3          6         10     341         26
+  0400-0415             30          32          16        18         341          10         10           2          4         10     327         17
+  0415-0430             40          29          24        25         319          12         11           2          5         10     347         20
+  0430-0445             49          33          28        29         344          16         11           2          7         11     349         25
+  0445-0500             59          42          35        32         362          19         23           7        12          19     396         36
+  0500-0515             60          49          26        24         373          14         24           8        18          18     416         44
+  0515-0530             57          37          20        26         351          15         20           9        11          16     437         41
+  0530-0545             46          32          23        20         318          10         15           5        10          10     387         30
+  0545-0600             38          22          16        17         309          13           9          6          6         12     356         29
+
+
+   1 HOUR          1            2          3          4          5            6          7          8          9          10         11      12
+   TOTALS        SBRT         SBTH        SBLT       WBRT       WBTH        WBLT        NBRT       NBTH       NBLT       EBRT       EBTH    EBLT       TOTALS
+
+
+  0300-0400            123          65          64        65     1477             28         28         24         28          41    1278         91     3312
+  0315-0415            127          85          65        65     1449             32         34         19         23          42    1302         88     3331
+  0330-0430            128          99          74        74     1375             38         39         12         21          42    1335         86     3323
+  0345-0445            153          114         85        85     1379             45         43           9        22          41    1364         88     3428
+  0400-0500            178          136        103        104    1366             57         55         13         28          50    1419         98     3607
+  0415-0515            208          153        113        110    1398             61         69         19         42          58    1508     125        3864
+  0430-0530            225          161        109        111    1430             64         78         26         48          64    1598     146        4060
+  0445-0545            222          160        104        102    1404             58         82         29         51          63    1636     151        4062
+  0500-0600            201          140         85        87     1351             52         68         28         45          56    1596     144        3853
+
+   P.M. PEAK HOUR                                                    222          160        104
+      0445-0545
+
+
+                                          151                                                                            102
+
+                                          1636                                                                           1404
+          PICO BOULEVARD
+                                           63                                                                             58
+
+
+
+
+                                                                     51           29         82
+
+
+                                                                           VETERAN AVENUE
+
+   THE TRAFFIC SOLUTION
+   329 DIAMOND STREET
+   ARCADIA, CALIFORNIA 91006
+   626.446.7978
+

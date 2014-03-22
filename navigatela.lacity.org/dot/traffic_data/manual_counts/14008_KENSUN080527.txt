@@ -1,0 +1,176 @@
+INTERSECTION TURNING MOVEMENT COUNT SUMMARY
+
+CLIENT:                HIRSCH/GREEN TRANSPORTATION CONSULTING, INC.
+PROJECT:               BRENTWOOD TOWN GREEN
+DATE:                  TUESDAY, MAY 27, 2008
+PERIOD:                07:00 AM TO 10:00 AM
+INTERSECTION     N/S   KENTER AVENUE
+                 E/W   SUNSET BOULEVARD
+FILE NUMBER:           1-AM
+
+
+  15 MINUTE       1       2        3          4      5           6          7          8      9      10     11     12
+   TOTALS       SBRT    SBTH     SBLT    WBRT       WBTH       WBLT        NBRT       NBTH   NBLT   EBRT   EBTH   EBLT
+  0700-0715       15      26      21          45    175          31         12         9      25     15    125     5
+  0715-0730       16      30      30          53    182          28         15         11     30     17    121     5
+  0730-0745       44      28      46          55    258          62         18         25     36     26    183     7
+  0745-0800       30      43      74          69    219          50         15         30     27     38    241     25
+  0800-0815       29      51      67          75    223          55         13         34     24     34    226     11
+  0815-0830       32      87      69          78    259          61         12         43     26     33    224     37
+  0830-0845       11      47      45          54    234          54         10         27     12     20    240     25
+  0845-0900       24      54      51          37    228          71         15         33     31     26    250     21
+  0900-0915       15      53      68          51    221          61         15         29     33     29    284     21
+  0915-0930       19      76      50          60    261          67         10         46     34     26    275     23
+  0930-0945       26      61      55          32    223          65         12         36     22     44    231     20
+  0945-1000       9       80      52          58    225          90         13         35     27     50    223     39
+
+
+   1 HOUR         1       2        3          4      5           6          7          8      9      10     11     12
+   TOTALS       SBRT    SBTH     SBLT    WBRT       WBTH       WBLT        NBRT       NBTH   NBLT   EBRT   EBTH   EBLT   TOTALS
+  0700-0800      105     127      171         222   834         171         60         75    118     96    670     42     2691
+  0715-0815      119     152      217         252   882         195         61        100    117    115    771     48     3029
+  0730-0830      135     209      256         277   959         228         58        132    113    131    874     80     3452
+  0745-0845      102     228      255         276   935         220         50        134     89    125    931     98     3443
+  0800-0900       96     239      232         244   944         241         50        137     93    113    940     94     3423
+  0815-0915       82     241      233         220   942         247         52        132    102    108    998    104     3461
+  0830-0930       69     230      214         202   944         253         50        135    110    101    1049    90     3447
+  0845-0945       84     244      224         180   933         264         52        144    120    125    1040    85     3495
+  0900-1000       69     270      225         201   930         283         50        146    116    149    1013   103     3555
+
+
+
+
+   A.M. PEAK HOUR                                         69         270        225
+      0900-1000
+
+
+                                  103                                                               201
+
+                                 1013                                                               930
+          SUNSET BOULEVARD
+                                  149                                                               283
+
+
+
+
+                                                         116         146         50
+
+
+                                                               KENTER AVENUE
+INTERSECTION TURNING MOVEMENT COUNT SUMMARY
+
+CLIENT:                HIRSCH/GREEN TRANSPORTATION CONSULTING, INC.
+PROJECT:               BRENTWOOD TOWN GREEN
+DATE:                  TUESDAY, MAY 27, 2008
+PERIOD:                03:00 PM TO 06:00 PM
+INTERSECTION     N/S   KENTER AVENUE
+                 E/W   SUNSET BOULEVARD
+FILE NUMBER:           1-PM
+
+
+  15 MINUTE       1       2        3          4      5           6          7          8      9      10     11     12
+   TOTALS       SBRT    SBTH     SBLT    WBRT       WBTH       WBLT        NBRT       NBTH   NBLT   EBRT   EBTH   EBLT
+  1500-1515       25      98      66          40    231          51         22         51     19     41    213     21
+  1515-1530       30     103      63          46    226          65         21         62     29     53    203     35
+  1530-1545       20      46      68          18    206          58         22         11     15     48    175     12
+  1545-1600       22      49      56          38    218          55         19         67     31     34    193     22
+  1600-1615       8       86      59          54    223          89         30         83     46     51    156     21
+  1615-1630       10      58      65          68    212          86         34         55     36     49    159     27
+  1630-1645       16     116      90          65    186          63         32         99     43     40    152     27
+  1645-1700       24      78      78          59    218          99         21         86     47     35    140     55
+  1700-1715       25      68      81          68    179          93         28         77     43     32    103     36
+  1715-1730       21      56      56          47    201          99         27        105     44     38    114     29
+  1730-1745       24      85      73          45    192          89         46        100     66     44    121     35
+  1745-1800       21      79      65          42    186          78         32         98     51     36    102     28
+
+
+   1 HOUR         1       2        3          4      5           6          7          8      9      10     11     12
+   TOTALS       SBRT    SBTH     SBLT    WBRT       WBTH       WBLT        NBRT       NBTH   NBLT   EBRT   EBTH   EBLT   TOTALS
+  1500-1600       97     296      253         142   881         229         84        191     94    176    784     90     3317
+  1515-1615       80     284      246         156   873         267         92        223    121    186    727     90     3345
+  1530-1630       60     239      248         178   859         288        105        216    128    182    683     82     3268
+  1545-1645       56     309      270         225   839         293        115        304    156    174    660     97     3498
+  1600-1700       58     338      292         246   839         337        117        323    172    175    607    130     3634
+  1615-1715       75     320      314         260   795         341        115        317    169    156    554    145     3561
+  1630-1730       86     318      305         239   784         354        108        367    177    145    509    147     3539
+  1645-1745       94     287      288         219   790         380        122        368    200    149    478    155     3530
+  1700-1800       91     288      275         202   758         359        133        380    204    150    440    128     3408
+
+
+
+
+   P.M. PEAK HOUR                                         58         338        292
+      1600-1700
+
+
+                                  130                                                               246
+
+                                  607                                                               839
+          SUNSET BOULEVARD
+                                  175                                                               337
+
+
+
+
+                                                         172         323        117
+
+
+                                                               KENTER AVENUE
+                                                    TRAFFIC COUNT SUMMARY
+                                                                                                                              City of Los Angeles
+STREET:                                                                                                                  Department of Transportation
+North/South              KENTER AVENUE                                                                                Count by:
+
+East/West                SUNSET BOULEVARD
+
+Day:     AM    TUESDAY                     Date: May 27, 2008                   Weather:          CLEAR
+         PM    TUESDAY                           May 27, 2008
+Hours:         7-10 AM 3-6 PM
+
+School Day:              YES               District:         WEST LOS ANGELES
+
+
+                           N/B                         S/B                        E/B                          W/B
+DUAL-
+WHEELED                    N/A                         N/A                        N/A                          N/A
+BIKES                      N/A                         N/A                        N/A                          N/A
+BUSES                      N/A                         N/A                        N/A                          N/A
+
+
+                           N/B TIME                    S/B TIME                   E/B TIME                     W/B     TIME
+
+AM PK 15 MIN                   90   9:15               188 8:15                   334      9:00                398      8:15
+
+PM PK 15 MIN               212      5:30               222 4:30                   291      3:15                376      4:45
+
+AM PK HOUR                 316      8:45               600 7:30                  1,265     9:00               1,464     7:30
+
+PM PK HOUR                 717      5:00               709 4:15                  1,050     3:00               1,422     4:00
+
+
+
+NORTHBOUND Approach                                          SOUTHBOUND Approach                                      TOTAL       XING S/L      XING N/L
+
+Hours            Lt       Th        Rt     Total             Hours       Lt      Th        Rt        Total             N-S        Ped   Sch     Ped     Sch
+7-8               118       75       60       253            7-8          171     127      105          403              656      N/A   N/A     N/A     N/A
+8-9                 93     137       50       280            8-9          232     239       96          567              847      N/A   N/A     N/A     N/A
+9 - 10            116      146       50       312            9 - 10       225     270       69          564              876      N/A   N/A     N/A     N/A
+3-4                 94     191       84       369            3-4          253     296       97          646            1,015      N/A   N/A     N/A     N/A
+4-5               172      323      117       612            4-5          292     338       58          688            1,300      N/A   N/A     N/A     N/A
+5-6               204      380      133       717            5-6          275     288       91          654            1,371      N/A   N/A     N/A     N/A
+
+TOTAL             797 1,252         494     2,543            TOTAL      1,448 1,558        516        3,522            6,065      N/A N/A       N/A N/A
+
+
+EASTBOUND Approach                                           WESTBOUND Approach                                       TOTAL       XING W/L       XING E/L
+
+Hours            Lt    Th           Rt     Total             Hours       Lt      Th        Rt        Total             E-W        Ped   Sch     Ped     Sch
+7-8                42   670          96       808            7-8          171     834      222        1,227            2,035      N/A   N/A     N/A     N/A
+8-9                94   940         113     1,147            8-9          241     944      244        1,429            2,576      N/A   N/A     N/A     N/A
+9 - 10            103 1,013         149     1,265            9 - 10       283     930      201        1,414            2,679      N/A   N/A     N/A     N/A
+3-4                90   784         176     1,050            3-4          229     881      142        1,252            2,302      N/A   N/A     N/A     N/A
+4-5               130   607         175       912            4-5          337     839      246        1,422            2,334      N/A   N/A     N/A     N/A
+5-6               128   440         150       718            5-6          359     758      202        1,319            2,037      N/A   N/A     N/A     N/A
+
+TOTAL             587 4,454         859     5,900            TOTAL      1,620 5,186 1,257             8,063           13,963      N/A N/A       N/A N/A
+

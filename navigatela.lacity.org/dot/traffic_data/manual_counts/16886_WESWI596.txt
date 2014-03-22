@@ -1,0 +1,62 @@
+ACCUTEK                            TRAFFIC COUNT SUMMARY
+
+STREET:
+North/South       WESTHOLME AVE.
+
+East/West         WILSHIRE BLVD.
+
+Day:    WEDNESDAY                       Date:       12-18-1996              Weather:          CLEAR
+
+Hours: 7-10 AM 3-6 PM                   FILE:       AM056
+
+School Day:       YES                   District:           LOS ANGELES
+
+
+                    N/B                               S/B                      E/B                      W/B
+DUAL-
+WHEELED                 4                              8                      163                       158
+BIKES                   6                              3                        0                         8
+BUSES                   8                              2                      156                       156
+
+
+                    N/B TIME                          S/B TIME                 E/B TIME                 W/B     TIME
+
+AM PK 15 MIN         70     8:15                      46     8:30             652      8:45             646      8:15
+
+PM PK 15 MIN         40     5:30                      78     5:15             721      5:45            599       3:30
+
+AM PK HOUR          242     8:00                     116     8:00            2370      8:00            2301      8:00
+
+PM PK HOUR          135     5:00                     265     5:00            2670      5:00            2307      5:00
+
+
+
+
+NORTHBOUND Approach                                         SOUTHBOUND Approach                               TOTAL     XING S/L       XING N/L
+
+Hours       Lt     Th       Rt          Total               Hours     Lt      Th       Rt     Total            N-S      Ped   Sch      Ped   Sch
+7-8          35     47       36           118               7-8        23      27       19        69            187      8     9       10     0
+8-9          81    105       56           242               8-9        46      38       32      116             358     17     1       15     1
+9-10         51     38       51           140               9-10       34      44       30      108             248     12     0       18     1
+3-4          49     25       18             92              3-4        47      51       28      126             218     12     0        4     0
+4-5          37     51       17           105               4-5        57      77       21      155             260     12     0        0     0
+5-6          63     52       20           135               5-6        87     155       23      265             400      8     0        0     0
+
+TOTAL       316     318     198            832              TOTAL     294     392      153      839             1671     69    10       47        2
+
+
+EASTBOUND Approach                                          WESTBOUND Approach                                TOTAL     XING W/L       XING E/L
+
+Hours       Lt      Th      Rt          Total               Hours     Lt      Th       Rt     Total            E-W      Ped   Sch      Ped   Sch
+7-8          21    1399      36          1456               7-8        24    1583       33     1640            3096     10     0        5     5
+8-9          33    2255      82          2370               8-9        35    2187       79     2301            4671     18     4       13     0
+9-10         17    2073      53          2143               9-10       29    1966       86     2081            4224     12     1       12     0
+3-4          27    2311      82          2420               3-4        29    2162       24     2215            4635      6     0        9     0
+4-5          21    2331      71          2423               4-5        40    2169       24     2233            4656      7     0       19     0
+5-6          25    2565      80          2670               5-6        38    2246       23     2307            4977      9     0       15     0
+
+TOTAL       144 12934       404         13482               TOTAL     195 12313        269    12777            26259     62        5    73        5
+
+
+                                                                                                               27930
+

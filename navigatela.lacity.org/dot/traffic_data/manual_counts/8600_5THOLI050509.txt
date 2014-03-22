@@ -1,0 +1,47 @@
+WILTEC                                                                                                     Phone: (626) 564-1944   Fax: (626) 564-0969
+INTERSECTION TURNING MOVEMENT COUNT SUMMARY
+
+CLIENT:                   INTUEOR
+PROJECT:                  DOWNTOWN LOS ANGELES TRAFFIC COUNTS
+DATE:                     TUESDAY MAY 5, 2009
+PERIOD:                   7:00 AM TO 9:00 AM
+INTERSECTION: N/S         OLIVE STREET
+              E/W         FIFTH STREET
+
+
+
+15 MIN COUNTS      1             2         3       4          5        6       7           8        9      10      11        12              TOTALS
+PERIOD          SBRT          SBTH      SBLT    WBRT      WBTH      WBLT    NBRT       NBTH      NBLT    EBRT    EBTH      EBLT
+700-715           33             0         0      14        204        0       0         105       61       0       0         0                   417
+715-730           24             0         0      11        251        0       0         115       67       0       0         0                   468
+730-745           37             0         0      25        244        0       0         145       82       0       0         0                   533
+745-800           25             0         0      23        266        0       0         185       85       0       0         0                   584
+800-815           31             0         0      20        267        0       0         187       90       0       0         0                   595
+815-830           27             0         0      29        258        0       0         175       96       0       0         0                   585
+830-845           50             0         0      47        293        0       0         207       89       0       0         0                   686
+845-900           47             0         0      29        238        0       0         163       85       0       0         0                   562
+HOUR TOTALS
+700-800             119             0       0        73     965         0         0     550        295      0         0        0                2002
+715-815             117             0       0        79    1028         0         0     632        324      0         0        0                2180
+730-830             120             0       0        97    1035         0         0     692        353      0         0        0                2297
+745-845             133             0       0       119    1084         0         0     754        360      0         0        0                2450
+800-900             155             0       0       125    1056         0         0     732        360      0         0        0                2428
+
+AM PEAK HOUR                                                                                   PEDESTRIAN COUNTS
+   745-845                                                                                     PERIOD         NORTH EAST      SOUTH WEST
+                              133       0       0                                119           15 MIN COUNTS  LEG     LEG     LEG     LEG
+                                                                                               700-715             54      17      40      25
+                                                                             1084              715-730             90      39      32      33
+                                                                                               730-745            103      53      51      44
+                                                                                  0            745-800             92      34      55      31
+                                                                                               800-815            105      22      51      39
+                                                                                               815-830            140      39      61      44
+                          0                                                                    830-845            148      52      92      71
+                                                                                               845-900            118      30      57      35
+FIFTH STREET              0                                                                    HOUR TOTALS
+                                                                                               700-800            339     143     178     133
+                          0                                 360       754         0            715-815            390     148     189     147
+                                                                                               730-830            440     148     218     158
+                                                                  OLIVE STREET                 745-845            485     147     259     185
+                                                                                               800-900            511     143     261     189
+

@@ -1,0 +1,302 @@
+                                                        TRAFFIC COUNT SUMMARY
+                                                                                                                                        City of Los Angeles
+STREET:                                                                                                                           Department of Transportation
+North/South              OVERLAND AVENUE
+
+East/West                10 FWY. EASTBOUND ON-RAMP
+
+Day:     AM    THURSDAY                     Date:       JUNE 5, 2008                   Weather:            CLEAR
+         PM    THURSDAY                                 JUNE 5, 2008
+Hours:         7-9 AM 4-6 PM
+
+School Day:              YES                District:           LOS ANGELES
+
+
+                           N/B                            S/B                            E/B                              W/B
+DUAL-
+WHEELED                    N/A                            N/A                            N/A                              N/A
+BIKES                      N/A                            N/A                            N/A                              N/A
+BUSES                      N/A                            N/A                            N/A                              N/A
+
+
+                           N/B TIME                       S/B TIME                       E/B TIME                         W/B    TIME
+
+AM PK 15 MIN               597     7:30                   342 8:15                           0 7:00                         0     7:00
+
+PM PK 15 MIN               486     5:45                   580 5:45                           0 3:00                         0     3:00
+
+AM PK HOUR                2,323    7:30                  1,333 8:00                          0 7:00                         0     7:00
+
+PM PK HOUR                1,856    5:00                  2,164 5:00                          0 3:00                         0     3:00
+
+
+
+NORTHBOUND Approach                                             SOUTHBOUND Approach                                             TOTAL      XING S/L       XING N/L
+
+Hours           Lt        Th     Rt         Total               Hours      Lt            Th       Rt          Total              N-S       Ped   Sch     Ped     Sch
+7-8                  0    1,840 367           2,207             7-8         796           281          0        1,077            3,284     N/A   N/A     N/A     N/A
+8-9                  0    1,966 282           2,248             8-9         893           440          0        1,333            3,581     N/A   N/A     N/A     N/A
+4-5                  0    1,343 368           1,711             4-5       1,005         1,036          0        2,041            3,752     N/A   N/A     N/A     N/A
+5-6                  0    1,408 448           1,856             5-6       1,001         1,163          0        2,164            4,020     N/A   N/A     N/A     N/A
+TOTAL                0    6,557 1,465         8,022             TOTAL     3,695         2,920          0        6,615           14,637     N/A   N/A     N/A     N/A
+
+
+EASTBOUND Approach                                              WESTBOUND Approach                                              TOTAL      XING W/L       XING E/L
+
+Hours           Lt        Th       Rt       Total               Hours         Lt        Th        Rt          Total              E-W       Ped   Sch     Ped     Sch
+7-8                  0         0        0           0           7-8                0         0         0              0                0   N/A   N/A     N/A     N/A
+8-9                  0         0        0           0           8-9                0         0         0              0                0   N/A   N/A     N/A     N/A
+4-5                  0         0        0           0           4-5                0         0         0              0                0   N/A   N/A     N/A     N/A
+5-6                  0         0        0           0           5-6                0         0         0              0                0   N/A   N/A     N/A     N/A
+TOTAL                0         0        0           0           TOTAL              0         0         0              0                0   N/A   N/A     N/A     N/A
+                                              City Traffic Counters
+                                                  626.256.4171
+                                                                                               File Name      : Over10EB
+                                                                                               Site Code      : 00000000
+                                                                                               Start Date     : 6/5/2008
+                                                                                               Page No        :1
+                                              Groups Printed- 1 - Unshifted
+                   Overland Ave          10 EB On-Ramp                  Overland Ave          10 EB On-Ramp
+                    Southbound               Westbound                   Northbound               Eastbound
+ Start Time     Left    Thru    Right   Left     Thru    Right      Left      Thru   Right   Left     Thru  Right   Int. Total
+     Factor      1.0      1.0     1.0   1.0       1.0      1.0       1.0        1.0    1.0   1.0       1.0    1.0
+ 07:00 AM       150       49        0     0         0        0         0       374     92      0         0      0        665
+ 07:15 AM       199       64        0     0         0        0         0       457     94      0         0      0        814
+ 07:30 AM       214       77        0     0         0        0         0       502     95      0         0      0        888
+ 07:45 AM       233       91        0     0         0        0         0       507     86      0         0      0        917
+       Total    796      281        0     0         0        0         0     1840     367      0         0      0       3284
+
+ 08:00 AM       230     110        0      0        0        0         0     491        81      0       0       0         912
+ 08:15 AM       231     111        0      0        0        0         0     495        66      0       0       0         903
+ 08:30 AM       220     106        0      0        0        0         0     493        72      0       0       0         891
+ 08:45 AM       212     113        0      0        0        0         0     487        63      0       0       0         875
+     Total      893     440        0      0        0        0         0    1966       282      0       0       0        3581
+
+
+
+ 04:00 PM       261     230        0      0        0        0         0     322        80      0       0       0         893
+ 04:15 PM       259     249        0      0        0        0         0     324        88      0       0       0         920
+ 04:30 PM       230     268        0      0        0        0         0     360        91      0       0       0         949
+ 04:45 PM       255     289        0      0        0        0         0     337       109      0       0       0         990
+     Total     1005    1036        0      0        0        0         0    1343       368      0       0       0        3752
+
+ 05:00 PM       251     287        0      0        0        0         0     360       103      0       0       0        1001
+ 05:15 PM       249     281        0      0        0        0         0     364       107      0       0       0        1001
+ 05:30 PM       214     302        0      0        0        0         0     324       112      0       0       0         952
+ 05:45 PM       287     293        0      0        0        0         0     360       126      0       0       0        1066
+     Total     1001    1163        0      0        0        0         0    1408       448      0       0       0        4020
+
+Grand Total    3695    2920         0     0        0         0        0    6557      1465      0       0        0     14637
+ Apprch %       55.9    44.1      0.0   0.0      0.0       0.0      0.0     81.7      18.3   0.0     0.0      0.0
+   Total %      25.2    19.9      0.0   0.0      0.0       0.0      0.0     44.8      10.0   0.0     0.0      0.0
+                                                                 City Traffic Counters
+                                                                     626.256.4171
+                                                                                                                                    File Name                         : Over10EB
+                                                                                                                                    Site Code                         : 00000000
+                                                                                                                                    Start Date                        : 6/5/2008
+                                                                                                                                    Page No                           :2
+
+                       Overland Ave                         10 EB On-Ramp                         Overland Ave                      10 EB On-Ramp
+                       Southbound                             Westbound                            Northbound                          Eastbound
+                                     App.                                     App.                               App.                                                 App.     Int.
+   Start Time   Left    Thru Right           Left Thru Right                               Left   Thru Right              Left           Thru Right
+                                    Total                                     Total                              Total                                                Total   Total
+Peak Hour From 07:00 AM to 11:45 AM - Peak 1 of 1
+  Intersection 07:45 AM
+      Volume     914    418     0   1332       0      0    0                        0        0    1986    305    2291       0               0                 0          0    3623
+      Percent 68.6 31.4       0.0            0.0    0.0  0.0                               0.0     86.7   13.3            0.0             0.0               0.0
+        07:45
+                 233     91     0     324      0      0    0                        0        0     507     86     593        0             0                      0      0     917
+      Volume
+ Peak Factor                                                                                                                                                                  0.988
+      High Int. 08:15 AM                   6:45:00 AM                                     07:45 AM                       6:45:00 AM
+      Volume     231    111     0     342      0      0    0                        0         0   507      86      593
+ Peak Factor                       0.974                                                                         0.966
+
+                                                                            Overland Ave
+                                                                     Out         In      Total
+                                                                     1986        1332     3318
+
+
+                                                                          0   418           914
+                                                                      Right Thru           Left
+                                          0
+                                      Total
+
+
+
+
+                                                                                                                                           1219
+                                                                                                                                           Out
+                                                  0
+
+
+
+
+                                                                                                                           Right Thru
+                                              Left
+
+
+
+
+                                                                                                                                              10 EB On-Ramp
+                        10 EB On-Ramp
+
+
+
+
+                                                                                  North
+                                                                                                                               0
+                                  0
+
+
+                                                        0
+                                              Right Thru
+                               In
+
+
+
+
+                                                                                                                                                    In
+                                                                     6/5/2008 7:45:00 AM
+                                                                     6/5/2008 8:30:00 AM
+                                                                                                                                     0
+
+
+                                                                                                                                                       0
+                                                  0
+
+
+
+
+                                                                                                                           Left
+                          0
+
+
+
+
+                                                                     1 - Unshifted
+                       Out
+
+
+
+
+                                                                                                                                                          Total
+                                                                                                                                                           1219
+                                                                                                                               0
+
+
+
+
+                                                                       Left       Thru Right
+                                                                              0    1986  305
+
+
+                                                                      418        2291     2709
+                                                                     Out         In      Total
+                                                                            Overland Ave
+                                                                    City Traffic Counters
+                                                                        626.256.4171
+                                                                                                                                       File Name                         : Over10EB
+                                                                                                                                       Site Code                         : 00000000
+                                                                                                                                       Start Date                        : 6/5/2008
+                                                                                                                                       Page No                           :3
+                       Overland Ave                         10 EB On-Ramp                             Overland Ave                     10 EB On-Ramp
+                       Southbound                             Westbound                                Northbound                         Eastbound
+                                     App.                                          App.                              App.                                                App.     Int.
+   Start Time   Left    Thru Right          Left             Thru Right                        Left   Thru Right             Left           Thru Right
+                                    Total                                          Total                             Total                                               Total   Total
+Peak Hour From 12:00 PM to 05:45 PM - Peak 1 of 1
+  Intersection 05:00 PM
+      Volume 1001 1163          0   2164       0                0       0                0       0    1408    448    1856      0               0                 0          0    4020
+      Percent 46.3 53.7       0.0            0.0              0.0     0.0                      0.0     75.9   24.1           0.0             0.0               0.0
+        05:45
+                 287    293     0     580      0               0        0                0       0     360    126     486       0             0                      0      0    1066
+      Volume
+ Peak Factor                                                                                                                                                                     0.943
+      High Int. 05:45 PM                                                                   05:45 PM
+      Volume     287    293     0     580      0               0        0                0     0   360        126      486
+ Peak Factor                       0.933                                                                             0.955
+
+                                                                               Overland Ave
+                                                                       Out          In      Total
+                                                                       1408         2164     3572
+
+
+                                                                             0 1163            1001
+                                                                         Right Thru            Left
+                                          0
+                                      Total
+
+
+
+
+                                                                                                                                              1449
+                                                                                                                                              Out
+                                                  0
+
+
+
+
+                                                                                                                              Right Thru
+                                              Left
+
+
+
+
+                                                                                                                                                 10 EB On-Ramp
+                        10 EB On-Ramp
+
+
+
+
+                                                                                       North                                      0
+                                  0
+
+
+                                                        0
+                                              Right Thru
+                               In
+
+
+
+
+                                                                                                                                                       In
+                                                                       6/5/2008 5:00:00 PM
+                                                                       6/5/2008 5:45:00 PM
+                                                                                                                                        0
+
+
+                                                                                                                                                          0
+                                                  0
+
+
+
+
+                                                                                                                              Left
+                          0
+
+
+
+
+                                                                        1 - Unshifted
+                       Out
+
+
+
+
+                                                                                                                                                             Total
+                                                                                                                                                              1449
+                                                                                                                                  0
+
+
+
+
+                                                                            Left       Thru Right
+                                                                                   0    1408  448
+
+
+                                                                       1163         1856     3019
+                                                                       Out          In      Total
+                                                                               Overland Ave
+

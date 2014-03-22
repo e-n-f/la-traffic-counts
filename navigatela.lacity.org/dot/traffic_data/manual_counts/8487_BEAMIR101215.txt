@@ -1,0 +1,40 @@
+                     Intersection Turning Movement
+                                             Prepared by:
+                         National Data & Surveying Services
+
+
+N-S STREET:    Beaudry Ave                 DATE: 12/15/2010                    LOCATION: City of Los Angeles
+
+
+E-W STREET: Miramar St                      DAY: WEDNESDAY                     PROJECT#    10-5532-106
+
+
+                     NORTHBOUND          SOUTHBOUND             EASTBOUND                 WESTBOUND
+
+                NL      NT     NR    SL     ST     SR      EL         ET       ER    WL      WT     WR    TOTAL
+  LANES:
+
+   6:30   AM     3                                 31                                        29            63
+   6:45   AM     0                                 45                                        50            95
+   7:00   AM     4                                 28                                        51            83
+   7:15   AM     2                                 37                                        48            87
+   7:30   AM     3                                 31                                        61            95
+   7:45   AM     1                                 38                                        58            97
+   8:00   AM     2                                 28                                        54            84
+   8:15   AM     1                                 26                                        52            79
+
+TOTAL           NL      NT     NR    SL     ST     SR      EL         ET       ER    WL     WT      WR    TOTAL
+VOLUMES =       16       0      0    0       0     264     0           0        0    0      403      0     683
+
+            nb a nb d              sb a   sb d           eb a       eb d            wb a nb d
+                 16      0            264      0                0          0          403   683
+      AM Peak Hr Begins at:    715 AM
+
+PEAK
+VOLUMES =        8      0      0     0      0      134      0         0        0      0     221     0      363
+
+PEAK HR.
+FACTOR:                0.667               0.882                    0.000                   0.906         0.936
+
+CONTROL:
+

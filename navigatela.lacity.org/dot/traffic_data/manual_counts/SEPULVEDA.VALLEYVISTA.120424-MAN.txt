@@ -1,0 +1,61 @@
+                       City Of Los Angeles
+                       Department Of Transportation
+                       MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South            SEPULVEDA BL.
+
+East/West              VALLEY VISTA BL.
+
+Day:               TUESDAY                Date:         APRIL 24,2012                  Weather:            SUNNY
+
+Hours:      7-10AM                                                  Chekrs:            BD
+
+School Day:            YES                District:         WEST VALLEY                  I/S CODE 28203
+
+
+                        N/B                           S/B                                E/B                           W/B
+DUAL-
+WHEELED                      0                         16                                    9                           0
+BIKES                        0                          0                                    0                           0
+BUSES                        0                          0                                    0                           0
+
+
+                        N/B TIME                      S/B TIME                           E/B TIME                      W/B TIME
+
+AM PK 15 MIN                 0   7.00                  45    7.15                           41    7.15                   0     7.00
+
+PM PK 15 MIN                 0   3.00                   0    3.00                            0    3.00                   0     3.00
+
+AM PK HOUR                   0   7.00                 166    7.00                        150      7.00                   0     7.00
+
+PM PK HOUR                   0   3.00                   0    3.00                            0    3.00                   0     3.00
+
+
+
+NORTHBOUND Approach                                         SOUTHBOUND Approach                                              TOTAL    XING S/L   XING N/L
+
+Hours         Lt        Th       Rt       Total             Hours             Lt        Th        Rt       Total              N-S      Ped Sch    Ped   Sch
+7-8                0         0        0           0         7-8               166            0         0      166              166       0   0      2     0
+8-9                0         0        0           0         8-9               124            0         0      124              124       0   0      1     0
+9-10               0         0        0           0         9-10              135            0         0      135              135       0   0      2     0
+                   0         0        0           0                              0           0         0         0                0      0   0      0     0
+                   0         0        0           0                              0           0         0         0                0      0   0      0     0
+                   0         0        0           0                              0           0         0         0                0      0   0      0     0
+
+TOTAL              0         0        0           0         TOTAL             425            0         0      425              425      0    0      5    0
+
+
+EASTBOUND Approach                                          WESTBOUND Approach                                               TOTAL    XING W/L   XING E/L
+
+Hours         Lt        Th       Rt Total                   Hours             Lt        Th        Rt       Total             E-W       Ped Sch    Ped   Sch
+7-8                0         0   150   150                  7-8                    0         0         0           0           150       0   0      0     0
+8-9                0         0   110   110                  8-9                    0         0         0           0           110       0   0      0     0
+9-10               0         0   123   123                  9-10                   0         0         0           0           123       0   0      0     0
+                   0         0     0      0                                        0         0         0           0             0       0   0      0     0
+                   0         0     0      0                                        0         0         0           0             0       0   0      0     0
+                   0         0     0      0                                        0         0         0           0             0       0   0      0     0
+
+TOTAL              0         0   383          383           TOTAL                  0         0         0           0           383      0    0      0    0
+
+            (Rev Oct 06)
+

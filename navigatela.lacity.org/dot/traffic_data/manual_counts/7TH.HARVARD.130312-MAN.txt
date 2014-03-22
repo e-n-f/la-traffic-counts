@@ -1,0 +1,578 @@
+                          City Of Los Angeles
+                          Department Of Transportation
+                          MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South               Harvard Blvd
+East/West                 7th St
+Day:                      Monday                 Date:         March 12, 2012                   Weather:              SUNNY
+Hours:        7-10AM 3-6PM                                                   Conducted By: Pacific Traffic Data Services
+School Day:               YES                    District:                                        I/S CODE
+
+                              N/B                            S/B                                   E/B                          W/B
+DUAL-
+WHEELED                            9                           9                                        8                        13
+BIKES                              7                          11                                       24                        28
+BUSES                              0                           0                                        0                         0
+
+                              N/B TIME                       S/B TIME                              E/B TIME                     W/B TIME
+AM PK 15 MIN                     82    8.45                   54      7.30                             51   8.45                 47     7.45
+PM PK 15 MIN                     81 17.45                     83 17.30                                 74 17.45                  80 17.00
+AM PK HOUR                    278      8.00                  200      7.30                         191      8.00                164     9.00
+PM PK HOUR                    308 17.00                      306 17.00                             251 17.00                    288 17.00
+
+
+NORTHBOUND Approach                                                SOUTHBOUND Approach                                                TOTAL    XING S/L    XING N/L
+
+Hours           Lt          Th         Rt        Total             Hours              Lt          Th        Rt        Total            N-S      Ped Sch     Ped Sch
+7-8                  35      137            14       186           7-8                     23      105           18       146           332      26   4      19   0
+8-9                  51      188            39       278           8-9                     23      129           20       172           450      37   2      19   0
+9-10                 34      154            26       214           9-10                    17      123           24       164           378      28   0      19   0
+15-16                41      200            38       279           15-16                   34      200           42       276           555      44 12       30   0
+16-17                43      203            31       277           16-17                   25      167           37       229           506      33   0      41   2
+17-18                56      230            22       308           17-18                   21      246           39       306           614      58   8      30   0
+TOTAL            260         1112       170         1542           TOTAL               143         970       180        1293           2835     226   26    158       2
+
+EASTBOUND Approach                                                 WESTBOUND Approach                                                 TOTAL    XING W/L    XING E/L
+
+Hours           Lt          Th         Rt        Total             Hours              Lt          Th        Rt        Total            E-W      Ped Sch     Ped Sch
+7-8                  14        85           28       127           7-8                     16       79           30       125            252     38 40       36 16
+8-9                  25       133           33       191           8-9                     17       90           39       146            337     19   2      21   0
+9-10                 26        97           35       158           9-10                    13      112           39       164            322     26   0      14   0
+15-16                36       127           44       207           15-16                   26      143           38       207            414     55 22       32   6
+16-17                17       138           52       207           16-17                   27      150           46       223            430     23   0      27   0
+17-18                21       170           60       251           17-18                   60      189           39       288            539     32   2      22   2
+TOTAL            139          750       252         1141           TOTAL               159         763       231        1153           2294     193   66    152   24
+                                      INTERSECTION TURNING MOVEMENT COUNTS
+                                                PREPARED BY: PACIFIC TRAFFIC DATA SERVICES
+         DATE:        LOCATION:                   Los Angeles                                       PROJECT #:      SC0168
+        3/12/13       NORTH & SOUTH:              Harvard                                           LOCATION #:     4
+                                                        th
+        Tuesday       EAST & WEST:                W 7                                               CONTROL:        All-Way Stop
+                      NOTES:                                                                                 AM                Y
+          ALL                                                                                                PM                N
+        CLASSES                                                                                              MD      W              E
+                                                                                                            OTHER              S
+                                                                                                            OTHER              
+                             NORTHBOUND                      SOUTHBOUND                EASTBOUND                  WESTBOUND
+                                Harvard                         Harvard                     W 7th                     W 7th
+                        NL       NT       NR        SL           ST       SR      EL        ET        ER     WL       WT      WR    TOTAL
+             LANES:     0         1        0        0             1        0      1          1        0.5    1         1      0.5
+         7:00 AM         6        18        1        6           10         0      3        12         8     0       12        3     79
+         7:15 AM         4        31        4        4           14         5      4         21        5     5       21        7     125
+         7:30 AM        13        45        4        8           41         5      5         14        8     3       17       10     173
+         7:45 AM        12        43        5        5           40         8      2         38        7     8       29       10     207
+         8:00 AM        11        45        7        5           40         6      8         33        9     5       19        8     196
+         8:15 AM        12        39        9        6           30         6      7         33        6     2       24        8     182
+         8:30 AM        15        48       10        2           35         2      8         25      11      7       25       12     200
+         8:45 AM        13        56       13       10           24         6      2         42        7     3       22       11     209
+         9:00 AM         9        40        9        3           27         5      7         30        8     1       33        7     179
+         9:15 AM         8        43        7        4           28         9      9         24        8     4       30        6     180
+AM
+
+
+
+
+         9:30 AM         9        27        6        6           34         5      7         20      10      4       19       18     165
+         9:45 AM         8        44        4        4           34         5      3         23        9     4       30        8     176
+     VOLUMES           120       479       79       63          357        62     65        315       96    46       281      108   2,071
+     APPROACH %        18%       71%      12%      13%          74%       13%    14%        66%      20%    11%      65%      25%
+     APP/DEPART        678         /      652      482            /       499    476          /      457    435       /       463    0
+     BEGIN PEAK HR             8:00 AM
+     VOLUMES            51       188       39       23          129        20     25      133         33    17       90       39    787
+     APPROACH %        18%       68%      14%      13%          75%       12%    13%      70%        17%    12%      62%      27%
+     PEAK HR FACTOR             0.848                          0.843                     0.936                      0.830           0.941
+     APP/DEPART        278         /      252      172            /       179    191        /        195    146        /      161     0
+        03:00 PM        12        46        9        4          60        16       9      18         11      9       28       13     235
+         3:15 PM         8        59        8       10           54        10    13       32         12     11       47        7     271
+         3:30 PM        12        43        8       14           47        10      7      39         11      4       37        6     238
+         3:45 PM         9        52       13        6           39         6      7      38         10      2       31       12     225
+         4:00 PM         5        49        7        7           39        10      4      31         16     10       39       11     228
+         4:15 PM        20        38        7        7           40         9      3      31         15      5       43       12     230
+         4:30 PM         7        66        7        7           47         8      6      37         12      6       34       11     248
+         4:45 PM        11        50       10        4           41        10      4      39          9      6       34       12     230
+         5:00 PM         9        60        9        5           57         9      3      38         13     21       51        8     283
+         5:15 PM         9        61        4        8           59         8      8      34         15     10       51        9     276
+PM
+
+
+
+
+         5:30 PM        20        50        5        7           67         9      2      48         16     12       43       13     292
+         5:45 PM        18        59        4        1           63        13      8      50         16     17       44        9     302
+     VOLUMES           140       633       91       80          613       118     74      435        156    113      482      123   3,058
+     APPROACH %        16%       73%      11%      10%          76%       15%    11%      65%        23%    16%      67%      17%
+     APP/DEPART        864         /      830      811            /       882    665        /        606    718        /      740    0
+     BEGIN PEAK HR             5:00 PM
+     VOLUMES            56       230      22        21          246        39     21      170         60     60      189      39    1,153
+     APPROACH %        18%       75%      7%        7%          80%       13%     8%      68%        24%    21%      66%      14%
+     PEAK HR FACTOR             0.951                          0.922                     0.848                      0.900           0.954
+     APP/DEPART        308         /      290      306            /       366    251        /        213    288        /      284     0
+
+                                                              Harvard
+
+                                                             NORTH SIDE
+
+
+                       W 7th          WEST SIDE                                 EAST SIDE           W 7th
+
+
+                                                             SOUTH SIDE
+
+                                                              Harvard
+                                      INTERSECTION TURNING MOVEMENT COUNTS
+                                                PREPARED BY: PACIFIC TRAFFIC DATA SERVICES
+          DATE:       LOCATION:                   Los Angeles                                   PROJECT #:      SC0168
+         3/12/13      NORTH & SOUTH:              Harvard                                       LOCATION #:     4
+        TUESDAY       EAST & WEST:                W 7th                                         CONTROL:        All-Way Stop
+        CLASS 1:      NOTES:                                                                             AM                Y
+       PASSENGER                                                                                         PM                N
+        VEHICLES                                                                                         MD      W              E
+                                                                                                        OTHER              S
+                                                                                                        OTHER              
+                             NORTHBOUND                  SOUTHBOUND                EASTBOUND                  WESTBOUND
+                                Harvard                     Harvard                     W 7th                     W 7th
+                        NL       NT       NR        SL          ST    SR      EL        ET        ER     WL       WT      WR    TOTAL
+             LANES:     0         1        0        0            1     0      1          1        0.5    1         1      0.5
+         7:00 AM         6        18        0        6       10         1      3         12        8     0       12        3     79
+         7:15 AM         4        30        4        4       13         5      4        21         5     5       21        7     123
+         7:30 AM        13        43        4        8       40         5      5        13         8     3       17       10     169
+         7:45 AM        12        43        5        5       40         7      2        38         7     8       29       10     206
+         8:00 AM        11        45        7        4       40         5      8        33         9     5       19        6     192
+         8:15 AM        12        38        9        6       30         5      6         33        6     1       24        8     178
+         8:30 AM        15        48       10        2       35         2      8         25      11      7       24       12     199
+         8:45 AM        13        56       13       10       23         6      2         42        7     3       22       11     208
+         9:00 AM         9        40        9        3       27         4      7         30        8     1        32        6    176
+         9:15 AM         8        42        7        4       28         9      9         24        8     4        30        6    179
+AM
+
+
+
+
+         9:30 AM         9        27        6        6       34         5      7         20       10     4        19       18    165
+         9:45 AM         8        44        4        4       34         5      3         23        9     4        30        8    176
+     VOLUMES           120       474       78       62      354        59     64        314       96    45       279      105   2,050
+     APPROACH %        18%       71%      12%      13%      75%       12%    14%        66%      20%    10%      65%      24%
+     APP/DEPART        672         /      643      475        /       495    474          /      454    429        /      458    0
+     BEGIN PEAK HR             8:00 AM
+     VOLUMES            51       187       39       22      128        18     24      133         33    16       89       37    777
+     APPROACH %        18%       68%      14%      13%      76%       11%    13%      70%        17%    11%      63%      26%
+     PEAK HR FACTOR             0.845                      0.857                     0.931                      0.826           0.934
+     APP/DEPART        277         /      248      168        /       177    190        /        194    142        /      158     0
+        03:00 PM        12        46        9        4       60        16      9      18         10       9      28       13     234
+         3:15 PM         8        58        8       10       54       10     13       30         12     11       47        7     268
+         3:30 PM        12        42        8       14       47       10       7      38         11       4      37        5     235
+         3:45 PM         9        52       13        5       39         6      7      37         10       2      31       12     223
+         4:00 PM         5        48        7        7       39        10      4      31         16     10       38       10     225
+         4:15 PM        20        37        7        7       40         8      3      31         15       5      43       12     228
+         4:30 PM         7        66        7        7       47         8      6       37         12      6       34      11     248
+         4:45 PM        11        50       10        4       41        10      3       39          9      6      33       12     228
+         5:00 PM         9        59        9        5       57         9      3       38         13     21       50       7     280
+         5:15 PM         9        60        4        8       59         7      8       34         15     10       51       9     274
+PM
+
+
+
+
+         5:30 PM        20        50        5        7       67         9      2       48         16     12       43      13     292
+         5:45 PM        18        59        4        1       63        13      7       50         16     17       43       9     300
+     VOLUMES           140       627       91       79      613       116     72      431        155    113      478      120   3,035
+     APPROACH %        16%       73%      11%      10%      76%       14%    11%      66%        24%    16%      67%      17%
+     APP/DEPART        858         /      819      808        /       881    658        /        601    711        /      734    0
+     BEGIN PEAK HR             5:00 PM
+     VOLUMES            56       228      22        21      246        38     20      170         60     60      187      38    1,146
+     APPROACH %        18%       75%      7%        7%      81%       12%     8%      68%        24%    21%      66%      13%
+     PEAK HR FACTOR             0.944                      0.919                     0.856                      0.913           0.955
+     APP/DEPART        306         /      286      305        /       366    250        /        213    285        /      281     0
+
+                                                          Harvard
+
+                                                         NORTH SIDE
+
+
+                       W 7th          WEST SIDE                             EAST SIDE           W 7th
+
+
+                                                         SOUTH SIDE
+
+                                                          Harvard
+                                      INTERSECTION TURNING MOVEMENT COUNTS
+                                               PREPARED BY: PACIFIC TRAFFIC DATA SERVICES
+          DATE:       LOCATION:                   Los Angeles                                    PROJECT #:      SC0168
+         3/12/13      NORTH & SOUTH:              Harvard                                        LOCATION #:     4
+        TUESDAY       EAST & WEST:                W 7th                                          CONTROL:        All-Way Stop
+       CLASS 2:       NOTES:                                                                              AM                Y
+        2-AXLE                                                                                            PM                N
+         WORK                                                                                             MD      W               E
+       VEHICLES/                                                                                         OTHER              S
+        TRUCKS                                                                                           OTHER              
+                             NORTHBOUND                  SOUTHBOUND                 EASTBOUND                  WESTBOUND
+                                Harvard                     Harvard                      W 7th                     W 7th
+                        NL       NT       NR        SL          ST     SR      EL        ET        ER     WL       WT      WR     TOTAL
+             LANES:     0         1        0        0            1      0      1          1        0.5    1         1      0.5
+         7:00 AM        0         0        1         0        0         1       0         0        0       0        0        0     2
+         7:15 AM        0         0        0         0        0         0       0         0        0       0        0        0     0
+         7:30 AM        0         0        0         0        0         0       0         0        0       0        0        0     0
+         7:45 AM        0         0        0         0        0         1       0         0        0       0        0        0     1
+         8:00 AM        0         0        0         0        0         1       0         0        0       0        0        1     2
+         8:15 AM        0         1        0         0        0         0       0         0        0       0        0        0     1
+         8:30 AM        0         0        0         0        0         0       0         0        0       0        0        0     0
+         8:45 AM        0         0        0         0        0         0       0         0        0       0        0        0     0
+         9:00 AM        0         0        0         0        0         1       0         0        0       0        0        1     2
+         9:15 AM        0         1        0         0        0         0       0         0        0       0        0        0     1
+AM
+
+
+
+
+         9:30 AM        0         0        0         0        0         0       0         0        0       0        0        0     0
+         9:45 AM        0         0        0         0        0         0       0         0        0       0        0        0     0
+     VOLUMES            0         2        1         0        0         4       0         0        0       0        0        2     9
+     APPROACH %        0%        67%      33%       0%       0%       100%     0%        0%       0%      0%       0%      100%
+     APP/DEPART         3          /       4         4        /         0       0         /        1       2        /        4     0
+     BEGIN PEAK HR             7:45 AM
+     VOLUMES            0         1        0         0       0          2       0       0          0       0       0         1     4
+     APPROACH %        0%       100%      0%        0%      0%        100%     0%      0%         0%      0%      0%       100%
+     PEAK HR FACTOR             0.250                      0.500                      0.000                      0.250            0.500
+     APP/DEPART         1          /       2        2         /        0       0         /         0       1        /       2       0
+        03:00 PM        0         0        0        0        0         0       0        0          0       0       0        0       0
+         3:15 PM        0         1        0        0        0         0       0        2          0       0       0        0       3
+         3:30 PM        0         1        0        0        0         0       0        1          0       0       0        0       2
+         3:45 PM        0         0        0        1        0         0       0        1          0       0       0        0       2
+         4:00 PM        0         1        0        0        0         0       0        0          0       0       1        1       3
+         4:15 PM        0         1        0        0        0         1       0        0          0       0       0        0       2
+         4:30 PM        0         0        0        0        0         0       0        0          0       0       0        0       0
+         4:45 PM        0         0        0        0        0         0       1        0          0       0       1        0       2
+         5:00 PM        0         1        0        0        0         0       0        0          0       0       1        1       3
+         5:15 PM        0         1        0        0        0         1       0        0          0       0       0        0       2
+PM
+
+
+
+
+         5:30 PM        0         0        0        0        0         0       0        0          0       0       0        0       0
+         5:45 PM        0         0        0        0        0         0       1        0          0       0       1        0       2
+     VOLUMES            0         6        0        1        0         2       2        4          0       0       4        2      21
+     APPROACH %        0%       100%      0%       33%      0%        67%     33%      67%        0%      0%      67%      33%
+     APP/DEPART         6          /      10        3         /        0       6         /         5       6        /       6      0
+     BEGIN PEAK HR             3:15 PM
+     VOLUMES            0         3        0         1       0         0        0       4          0       0       1        1      10
+     APPROACH %        0%       100%      0%       100%     0%        0%       0%     100%        0%      0%      50%      50%
+     PEAK HR FACTOR             0.750                      0.250                      0.500                      0.250            0.833
+     APP/DEPART         3          /       4        1         /        0       4         /         5      2         /       1       0
+
+                                                          Harvard
+
+                                                         NORTH SIDE
+
+
+                       W 7th          WEST SIDE                              EAST SIDE           W 7th
+
+
+                                                         SOUTH SIDE
+
+                                                          Harvard
+                                      INTERSECTION TURNING MOVEMENT COUNTS
+                                               PREPARED BY: PACIFIC TRAFFIC DATA SERVICES
+          DATE:       LOCATION:                   Los Angeles                                  PROJECT #:      SC0168
+         3/12/13      NORTH & SOUTH:              Harvard                                      LOCATION #:     4
+        TUESDAY       EAST & WEST:                W 7th                                        CONTROL:        All-Way Stop
+        CLASS 3:      NOTES:                                                                            AM                Y
+         3-AXLE                                                                                         PM                N
+         TRUCKS                                                                                         MD      W               E
+                                                                                                       OTHER              S
+                                                                                                       OTHER              
+                             NORTHBOUND                  SOUTHBOUND               EASTBOUND                  WESTBOUND
+                                Harvard                     Harvard                    W 7th                     W 7th
+                        NL       NT       NR        SL          ST    SR     EL        ET        ER     WL       WT      WR     TOTAL
+             LANES:     0         1        0        0            1     0     1          1        0.5    1         1      0.5
+         7:00 AM        0         0        0        0        0         0      0         0        0      0        0        0      0
+         7:15 AM        0         0        0        0        0         0      0         0        0      0        0        0      0
+         7:30 AM        0         0        0        0        1         0      0         0        0      0        0        0      1
+         7:45 AM        0         0        0        0        0         0      0         0        0      0        0        0      0
+         8:00 AM        0         0        0        1        0         0      0         0        0      0        0        0      1
+         8:15 AM        0         0        0        0        0         0      1         0        0      1        0        0      2
+         8:30 AM        0         0        0        0        0         0      0         0        0      0        1        0      1
+         8:45 AM        0         0        0        0        0         0      0         0        0      0        0        0      0
+         9:00 AM        0         0        0        0        0         0      0         0        0      0        1        0      1
+         9:15 AM        0         0        0        0        0         0      0         0        0      0        0        0      0
+AM
+
+
+
+
+         9:30 AM        0         0        0        0        0         0      0         0        0      0        0        0      0
+         9:45 AM        0         0        0        0        0         0      0         0        0      0        0        0      0
+     VOLUMES            0         0        0        1        1         0      1         0        0      1        2        0      6
+     APPROACH %        0%        0%       0%       50%      50%       0%    100%       0%       0%     33%      67%      0%
+     APP/DEPART         0          /       1        2        /         2      1         /        1      3        /        2      0
+     BEGIN PEAK HR             8:15 AM
+     VOLUMES            0         0        0         0       0         0      1       0          0      1        2        0      4
+     APPROACH %        0%        0%       0%        0%      0%        0%    100%     0%         0%     33%      67%      0%
+     PEAK HR FACTOR             0.000                      0.000                    0.250                      0.750            0.500
+     APP/DEPART         0          /       1         0        /        1      1        /          0      3        /        2      0
+         3:00 PM        0         0        0         0       0         0      0       0           0      0       0         0      0
+         3:15 PM        0         0        0         0       0         0      0       0           0      0       0         0      0
+         3:30 PM        0         0        0         0       0         0      0       0           0      0       0         1      1
+         3:45 PM        0         0        0         0       0         0      0       0           0      0       0         0      0
+         4:00 PM        0         0        0         0       0         0      0       0           0      0       0         0      0
+         4:15 PM        0         0        0         0       0         0      0       0           0      0       0         0      0
+         4:30 PM        0         0        0         0       0         0      0       0           0      0       0         0      0
+         4:45 PM        0         0        0         0       0         0      0       0           0      0       0         0      0
+         5:00 PM        0         0        0         0       0         0      0       0           0      0       0         0      0
+         5:15 PM        0         0        0         0       0         0      0       0           0      0       0         0      0
+PM
+
+
+
+
+         5:30 PM        0         0        0         0       0         0      0       0           0      0       0         0      0
+         5:45 PM        0         0        0         0       0         0      0       0           0      0       0         0      0
+     VOLUMES            0         0        0         0       0         0      0       0           0      0       0         1      1
+     APPROACH %        0%        0%       0%        0%      0%        0%     0%      0%          0%     0%      0%       100%
+     APP/DEPART         0          /       1         0        /        0      0        /          0      1        /        0     0
+     BEGIN PEAK HR             3:30 PM
+     VOLUMES            0         0        0         0       0         0      0       0           0      0       0         1     1
+     APPROACH %        0%        0%       0%        0%      0%        0%     0%      0%          0%     0%      0%       100%
+     PEAK HR FACTOR             0.000                      0.000                    0.000                      0.250            0.250
+     APP/DEPART         0          /       1        0         /       0      0         /         0      1         /       0       0
+
+                                                          Harvard
+
+                                                         NORTH SIDE
+
+
+                       W 7th          WEST SIDE                            EAST SIDE           W 7th
+
+
+                                                         SOUTH SIDE
+
+                                                          Harvard
+                                      INTERSECTION TURNING MOVEMENT COUNTS
+                                               PREPARED BY: PACIFIC TRAFFIC DATA SERVICES
+          DATE:       LOCATION:                   Los Angeles                                  PROJECT #:      SC0168
+         3/12/13      NORTH & SOUTH:              Harvard                                      LOCATION #:     4
+        TUESDAY       EAST & WEST:                W 7th                                        CONTROL:        All-Way Stop
+        CLASS 4:      NOTES:                                                                            AM                Y
+       4 OR MORE                                                                                        PM                N
+          AXLE                                                                                          MD      W               E
+         TRUCKS                                                                                        OTHER              S
+                                                                                                       OTHER              
+                             NORTHBOUND                  SOUTHBOUND               EASTBOUND                  WESTBOUND
+                                Harvard                     Harvard                    W 7th                     W 7th
+                        NL       NT       NR        SL          ST    SR     EL        ET        ER     WL       WT      WR     TOTAL
+             LANES:     0         1        0        0            1     0     1          1        0.5    1         1      0.5
+         7:00 AM        0         0        0         0        0        0      0         0         0      0        0        0     0
+         7:15 AM        0         0        0         0        0        0      0         0         0      0        0        0     0
+         7:30 AM        0         0        0         0        0        0      0         0         0      0        0        0     0
+         7:45 AM        0         0        0         0        0        0      0         0         0      0        0        0     0
+         8:00 AM        0         0        0         0        0        0      0         0         0      0        0        1     1
+         8:15 AM        0         0        0         0        0        0      0         0         0      0        0        0     0
+         8:30 AM        0         0        0         0        0        0      0         0         0      0        0        0     0
+         8:45 AM        0         0        0         0        0        0      0         0         0      0        0        0     0
+         9:00 AM        0         0        0         0        0        0      0         0         0      0        0        0     0
+         9:15 AM        0         0        0         0        0        0      0         0         0      0        0        0     0
+AM
+
+
+
+
+         9:30 AM        0         0        0         0        0        0      0         0         0      0        0        0     0
+         9:45 AM        0         0        0         0        0        0      0         0         0      0        0        0     0
+     VOLUMES            0         0        0         0        0        0      0         0         0      0        0        1     1
+     APPROACH %        0%        0%       0%        0%       0%       0%     0%        0%        0%     0%       0%      100%
+     APP/DEPART         0          /       1         0        /        0      0         /         0      1        /        0     0
+     BEGIN PEAK HR             8:00 AM
+     VOLUMES            0         0        0         0       0         0      0       0           0      0       0         1     1
+     APPROACH %        0%        0%       0%        0%      0%        0%     0%      0%          0%     0%      0%       100%
+     PEAK HR FACTOR             0.000                      0.000                    0.000                      0.250            0.250
+     APP/DEPART         0          /       1         0        /        0      0        /          0      1        /       0       0
+         3:00 PM        0         0        0         0       0         0      0       0           1      0       0        0       1
+         3:15 PM        0         0        0         0       0         0      0       0           0      0       0        0       0
+         3:30 PM        0         0        0         0       0         0      0       0           0      0       0        0       0
+         3:45 PM        0         0        0         0       0         0      0       0           0      0       0        0       0
+         4:00 PM        0         0        0         0       0         0      0       0           0      0       0        0       0
+         4:15 PM        0         0        0         0       0         0      0       0           0      0       0        0       0
+         4:30 PM        0         0        0         0       0         0      0       0           0      0       0        0       0
+         4:45 PM        0         0        0         0       0         0      0       0           0      0       0        0       0
+         5:00 PM        0         0        0         0       0         0      0       0           0      0       0        0       0
+         5:15 PM        0         0        0         0       0         0      0       0           0      0       0        0       0
+PM
+
+
+
+
+         5:30 PM        0         0        0         0       0         0      0       0           0      0       0        0       0
+         5:45 PM        0         0        0         0       0         0      0       0           0      0       0        0       0
+     VOLUMES            0         0        0         0       0         0      0       0           1      0       0        0       1
+     APPROACH %        0%        0%       0%        0%      0%        0%     0%      0%         100%    0%      0%       0%
+     APP/DEPART         0          /       0         0        /        1      1        /          0      0        /       0      0
+     BEGIN PEAK HR             3:00 PM
+     VOLUMES            0         0        0         0       0         0      0       0           1      0       0        0      1
+     APPROACH %        0%        0%       0%        0%      0%        0%     0%      0%         100%    0%      0%       0%
+     PEAK HR FACTOR             0.000                      0.000                    0.250                      0.000            0.250
+     APP/DEPART         0          /       0        0         /       1      1         /         0      0         /       0       0
+
+                                                          Harvard
+
+                                                         NORTH SIDE
+
+
+                       W 7th          WEST SIDE                            EAST SIDE           W 7th
+
+
+                                                         SOUTH SIDE
+
+                                                          Harvard
+                                        INTERSECTION TURNING MOVEMENT COUNTS
+                                                 PREPARED BY: PACIFIC TRAFFIC DATA SERVICES
+          DATE:         LOCATION:                   Los Angeles                                     PROJECT #:          SC0168
+         3/12/13        NORTH & SOUTH:              Harvard                                         LOCATION #:         4
+        TUESDAY         EAST & WEST:                W 7th                                           CONTROL:            All-Way Stop
+        CLASS 5:        NOTES:                                                                                   AM                   Y
+                                                                                                                 PM                   N
+          RV                                                                                                     MD      W                      E
+                                                                                                                OTHER                 S
+                                                                                                                OTHER                 
+                               NORTHBOUND                  SOUTHBOUND                    EASTBOUND                    WESTBOUND
+                                  Harvard                       Harvard                     W 7th                         W 7th
+                          NL       NT       NR        SL          ST      SR        EL      ET        ER         WL       WT          WR        TOTAL
+               LANES:     0         1        0        0            1       0        1        1        0.5        1         1          0.5
+         7:00 AM          0          0       0         0         0         0         0       0        0           0        0           0         0
+         7:15 AM          0          1       0         0         1         0         0       0        0           0        0           0         2
+         7:30 AM          0          2       0         0         0         0         0       1        0           0        0           0         3
+         7:45 AM          0          0       0         0         0         0         0       0        0           0        0           0         0
+         8:00 AM          0          0       0         0         0         0         0       0        0           0        0           0         0
+         8:15 AM          0          0       0         0         0         1         0       0        0           0        0           0         1
+         8:30 AM          0          0       0         0         0         0         0       0        0           0        0           0         0
+         8:45 AM          0          0       0         0         1         0         0       0        0           0        0           0         1
+         9:00 AM          0          0       0         0         0         0         0       0        0           0        0           0         0
+         9:15 AM          0          0       0         0         0         0         0       0        0           0        0           0         0
+AM
+
+
+
+
+         9:30 AM          0          0       0         0         0         0         0       0        0           0        0           0         0
+         9:45 AM          0          0       0         0         0         0         0       0        0           0        0           0         0
+     VOLUMES              0          3       0         0         2         1         0       1        0           0        0           0         7
+     APPROACH %          0%        100%     0%        0%        67%       33%       0%     100%      0%          0%       0%          0%
+     APP/DEPART           3           /      3         3         /         2         1       /        1           0        /           1         0
+     BEGIN PEAK HR                7:15 AM
+     VOLUMES              0          3       0         0          1        0         0        1     0             0        0           0         5
+     APPROACH %          0%        100%     0%        0%        100%      0%        0%      100%   0%            0%       0%          0%
+     PEAK HR FACTOR                0.375                        0.250                      0.250                         0.000                  0.417
+     APP/DEPART           3           /      3         1           /       1         1        /     1             0         /          0          0
+         3:00 PM          0          0       0         0          0        0         0        0     0             0        0           0          0
+         3:15 PM          0          0       0         0          0        0         0        0     0             0        0           0          0
+         3:30 PM          0          0       0         0          0        0         0        0     0             0        0           0          0
+         3:45 PM          0          0       0         0          0        0         0        0     0             0        0           0          0
+         4:00 PM          0          0       0         0          0        0         0        0     0             0        0           0          0
+         4:15 PM          0          0       0         0          0        0         0        0     0             0        0           0          0
+         4:30 PM          0          0       0         0          0        0         0        0     0             0        0           0          0
+         4:45 PM          0          0       0         0          0        0         0        0     0             0        0           0          0
+         5:00 PM          0          0       0         0          0        0         0        0     0             0        0           0          0
+         5:15 PM          0          0       0         0          0        0         0        0     0             0        0           0          0
+PM
+
+
+
+
+         5:30 PM          0          0       0         0          0        0         0        0     0             0        0           0          0
+         5:45 PM          0          0       0         0          0        0         0        0     0             0        0           0          0
+     VOLUMES              0          0       0         0          0        0         0        0     0             0        0           0          0
+     APPROACH %          0%         0%      0%        0%         0%       0%        0%       0%    0%            0%       0%          0%           0
+     APP/DEPART           0          0       0         0          0        0         0        0     0             0        0           0          0
+     BEGIN PEAK HR               12:00 AM                  0      0        0    0         0      0          0           0         0         0
+     VOLUMES              0          0       0         0          0        0         0        0     0             0        0           0          0
+     APPROACH %          0%         0%      0%        0%         0%       0%        0%       0%    0%            0%       0%          0%           0
+     PEAK HR FACTOR       0        0.000     0         0        0.000      0         0     0.000    0             0      0.000         0        0.000
+     APP/DEPART           0          0       0         0          0        0         0        0     0             0        0           0          0
+
+                                                               Harvard
+
+                                                           NORTH SIDE
+
+
+                         W 7th          WEST SIDE                               EAST SIDE           W 7th
+
+
+                                                           SOUTH SIDE
+
+                                                               Harvard
+                                      INTERSECTION TURNING MOVEMENT COUNTS
+                                               PREPARED BY: PACIFIC TRAFFIC DATA SERVICES
+          DATE:       LOCATION:                   Los Angeles                                      PROJECT #:            SC0168
+         3/12/13      NORTH & SOUTH:              Harvard                                          LOCATION #:           4
+        TUESDAY       EAST & WEST:                W 7th                                            CONTROL:              All-Way Stop
+        CLASS 6:      NOTES:                                                                                      AM                     Y
+                                                                                                                  PM                     N
+          BUS                                                                                                     MD         W                     E
+                                                                                                                 OTHER                   S
+                                                                                                                 OTHER                   
+                             NORTHBOUND                  SOUTHBOUND                   EASTBOUND                        WESTBOUND
+                                Harvard                       Harvard                      W 7th                             W 7th
+                        NL       NT       NR        SL          ST      SR       EL        ET          ER         WL         WT          WR        TOTAL
+             LANES:     0         1        0        0            1       0       1          1          0.5        1           1          0.5
+         7:00 AM        0          0       0         0          0        0        0         0           0          0          0           0         0
+         7:15 AM        0          0       0         0          0        0        0         0           0          0          0           0         0
+         7:30 AM        0          0       0         0          0        0        0         0           0          0          0           0         0
+         7:45 AM        0          0       0         0          0        0        0         0           0          0          0           0         0
+         8:00 AM        0          0       0         0          0        0        0         0           0          0          0           0         0
+         8:15 AM        0          0       0         0          0        0        0         0           0          0          0           0         0
+         8:30 AM        0          0       0         0          0        0        0         0           0          0          0           0         0
+         8:45 AM        0          0       0         0          0        0        0         0           0          0          0           0         0
+         9:00 AM        0          0       0         0          0        0        0         0           0          0          0           0         0
+         9:15 AM        0          0       0         0          0        0        0         0           0          0          0           0         0
+AM
+
+
+
+
+         9:30 AM        0          0       0         0          0        0        0         0           0          0          0           0         0
+         9:45 AM        0          0       0         0          0        0        0         0           0          0          0           0         0
+     VOLUMES            0          0       0         0          0        0        0         0           0          0          0           0         0
+     APPROACH %        0%         0%      0%        0%         0%       0%       0%        0%          0%         0%         0%          0%         0
+     APP/DEPART         0         0        0         0          0        0        0         0           0          0          0           0         0
+     BEGIN PEAK HR             12:00 AM                  0      0       0    0         0           0         0           0           0         0
+     VOLUMES            0          0       0         0          0        0        0       0             0          0        0             0          0
+     APPROACH %        0%         0%      0%        0%         0%       0%       0%      0%            0%         0%       0%            0%           0
+     PEAK HR FACTOR     0       0.000      0         0        0.000      0        0     0.000           0          0      0.000           0        0.000
+     APP/DEPART         0         0        0         0          0        0        0       0             0          0        0             0          0
+         3:00 PM        0          0       0         0          0        0        0       0             0          0        0             0          0
+         3:15 PM        0          0       0         0          0        0        0       0             0          0        0             0          0
+         3:30 PM        0          0       0         0          0        0        0       0             0          0        0             0          0
+         3:45 PM        0          0       0         0          0        0        0       0             0          0        0             0          0
+         4:00 PM        0          0       0         0          0        0        0       0             0          0        0             0          0
+         4:15 PM        0          0       0         0          0        0        0       0             0          0        0             0          0
+         4:30 PM        0          0       0         0          0        0        0       0             0          0        0             0          0
+         4:45 PM        0          0       0         0          0        0        0       0             0          0        0             0          0
+         5:00 PM        0          0       0         0          0        0        0       0             0          0        0             0          0
+         5:15 PM        0          0       0         0          0        0        0       0             0          0        0             0          0
+PM
+
+
+
+
+         5:30 PM        0          0       0         0          0        0        0       0             0          0        0             0          0
+         5:45 PM        0          0       0         0          0        0        0       0             0          0        0             0          0
+     VOLUMES            0          0       0         0          0        0        0       0             0          0        0             0          0
+     APPROACH %        0%         0%      0%        0%         0%       0%       0%      0%            0%         0%       0%            0%           0
+     APP/DEPART         0         0        0         0          0        0        0       0             0          0        0             0          0
+     BEGIN PEAK HR             12:00 AM                  0      0       0    0         0           0         0           0           0         0
+     VOLUMES            0          0       0         0          0        0        0       0             0          0        0             0          0
+     APPROACH %        0%         0%      0%        0%         0%       0%       0%      0%            0%         0%       0%            0%           0
+     PEAK HR FACTOR     0       0.000      0         0        0.000      0        0     0.000           0          0      0.000           0        0.000
+     APP/DEPART         0         0        0         0          0        0        0       0             0          0        0             0          0
+
+                                                             Harvard
+
+                                                         NORTH SIDE
+
+
+                       W 7th          WEST SIDE                              EAST SIDE             W 7th
+
+
+                                                         SOUTH SIDE
+
+                                                             Harvard
+

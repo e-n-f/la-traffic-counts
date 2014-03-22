@@ -1,0 +1,415 @@
+                                     INTERSECTION TURNING MOVEMENT COUNTS
+                                               PREPARED BY: PACIFIC TRAFFIC DATA SERVICES
+        DATE:         LOCATION:                   LOS ANGELES                                    PROJECT #:        CA10-0910-01
+        9/8/10        NORTH & SOUTH:              FLOWER                                         LOCATION #:       3
+      WEDNESDAY       EAST & WEST:                11TH                                           CONTROL:          SIGNAL
+                      NOTES:                                                                               AM                Y
+         ALL                                                                                               PM                N
+       CLASSES                                                                                             MD       W               E
+                                                                                                          OTHER              S
+                                                                                                          OTHER              
+                             NORTHBOUND                  SOUTHBOUND                 EASTBOUND                    WESTBOUND                           U-TURNS
+                                FLOWER                      FLOWER                       11TH                       11TH
+                        NL       NT       NR        SL        ST       SR      EL        ET        ER      WL        WT      WR     TOTAL   NB   SB    EB   WB   TTL
+            LANES:      X         X        X        X          3        1      X          X         1      1.5       1.5      X
+         7:00 AM        0         0        0        0         60        11      0         0        6       10        19      0       106    0    0     0    0    0
+         7:15 AM        0         0        0        0         70        21      0         0        2       12        18      0       123    0    0     0    0    0
+         7:30 AM        0         0        0        0         97        22      0         0        4       16        30      0       169    0    0     0    0    0
+         7:45 AM        0         0        0        0        105        21      0         0        5       7         34      0       172    0    0     0    0    0
+         8:00 AM        0         0        0        0        102        15      0         0        1       7         51      0       176    0    0     0    0    0
+         8:15 AM        0         0        0        0        105        14      0         0        2       9         45      0       175    0    0     0    0    0
+         8:30 AM        0         0        0        0        114        21      0         0        1       9         43      0       188    0    0     0    0    0
+         8:45 AM        0         0        0        0        100        30      0         0        4       19        38      0       191    0    0     0    0    0
+AM
+
+
+
+
+     VOLUMES            0         0        0        0        753       155      0         0       25       89       278      0      1,300   0    0     0    0    0
+     APPROACH %        0%        0%       0%       0%        83%       17%     0%        0%      100%     24%       76%     0%
+     APP/DEPART         0          /       0       908         /       867     25          /       0      367         /     433      0
+     BEGIN PEAK HR             8:00 AM
+     VOLUMES            0         0        0        0        421        80      0       0          8       44       177       0     730
+     APPROACH %        0%        0%       0%       0%        84%       16%     0%      0%        100%     20%       80%      0%
+     PEAK HR FACTOR             0.000                       0.928                     0.500                        0.953            0.955
+     APP/DEPART         0          /       0       501         /      473       8        /         0      221         /     257       0
+         4:00 PM        0         0        0        0        300       40       0       0          3       14        51      0       408    0    0     0    0    0
+         4:15 PM        0         0        0        0        302       44       0       0          2       12        56      0       416    0    0     0    0    0
+         4:30 PM        0         0        0        0        315       45       0       0          2       12        57      0       431    0    0     0    0    0
+         4:45 PM        0         0        0        0        318       50       0       0          5       12        59      0       444    0    0     0    0    0
+         5:00 PM        0         0        0        0        345       39       0       0          9       25        71      0       489    0    0     0    0    0
+         5:15 PM        0         0        0        0        318       35       0       0         12       23        89      0       477    0    0     0    0    0
+         5:30 PM        0         0        0        0        327       50       0       0         12       24        84      0       497    0    0     0    0    0
+         5:45 PM        0         0        0        0        256       38       0       0          9       28        96      0       427    0    0     0    0    0
+PM
+
+
+
+
+     VOLUMES            0         0        0        0       2,481     341       0       0         54      150       563      0      3,589   0    0     0    0    0
+     APPROACH %        0%        0%       0%       0%        88%      12%      0%      0%        100%     21%       79%     0%
+     APP/DEPART         0          /       0      2,822        /     2,685     54        /         0      713         /     904      0
+     BEGIN PEAK HR             4:45 PM
+     VOLUMES            0         0        0        0       1,308      174      0       0         38       84       303       0     1,907
+     APPROACH %        0%        0%       0%       0%        88%       12%     0%      0%        100%     22%       78%      0%
+     PEAK HR FACTOR             0.000                       0.965                     0.792                        0.864            0.959
+     APP/DEPART         0          /      0       1,482        /     1,430     38        /         0      387         /     477       0
+
+                                                           FLOWER
+
+                                                          NORTH SIDE
+
+
+                       11TH          WEST SIDE                               EAST SIDE           11TH
+
+
+                                                          SOUTH SIDE
+
+                                                           FLOWER
+
+                                 PEDESTRIAN + BIKE CROSSINGS                                    PEDESTRIAN CROSSINGS                         BICYCLE CROSSINGS
+                               N SIDE    S SIDE   E SIDE    W SIDE   TOTAL            N SIDE     S SIDE   E SIDE   W SIDE   TOTAL           NS   SS    ES   WS TOTAL
+        7:00 AM                  0        0         0         1        1                 0         0       0         0       0              0    0     0    1    1
+        7:15 AM                  0        0         1         0        1                 0         0       0         0       0              0    0     1    0    1
+        7:30 AM                  0        1         0         1        2                 0         0       0         0       0              0    1     0    1    2
+        7:45 AM                  0        0         0         0        0                 0         0       0         0       0              0    0     0    0    0
+AM
+
+
+
+
+        8:00 AM                  0        0         1         0        1                 0         0       0         0       0              0    0     1    0    1
+        8:15 AM                  0        1         0         0        1                 0         0       0         0       0              0    1     0    0    1
+        8:30 AM                  0        0         1         2        3                 0         0       0         0       0              0    0     1    2    3
+        8:45 AM                  0        0         0         0        0                 0         0       0         0       0              0    0     0    0    0
+         TOTAL                   0        2         3         4        9                 0         0       0         0       0              0    2     3    4    9
+        4:00 PM                  0        0         0         1        1                 0         0       0         0       0              0    0     0    1    1
+        4:15 PM                  0        0         0         0        0                 0         0       0         0       0              0    0     0    0    0
+        4:30 PM                  0        0         0         0        0                 0         0       0         0       0              0    0     0    0    0
+        4:45 PM                  1        0         1         1        3                 0         0       0         0       0              1    0     1    1    3
+PM
+
+
+
+
+        5:00 PM                  0        0         0         0        0                 0         0       0         0       0              0    0     0    0    0
+P
+
+
+
+
+        5:15 PM                  0        0         1         2        3                 0         0       0         0       0              0    0     1    2    3
+        5:30 PM                  0        0         0         2        2                 0         0       0         0       0              0    0     0    2    2
+        5:45 PM                  0        0         0         1        1                 0         0       0         0       0              0    0     0    1    1
+         TOTAL                   1        0         2         7        10                0         0       0         0       0              1    0     2    7    10
+                                           PACIFIC TRAFFIC DATA SERVICES
+                                              TURNING MOVEMENT COUNTS
+
+                                                       FLOWER
+                           3,730   496       3,234     0      TOTAL               0
+                           2,822   341       2,481     0        PM                0
+                            908    155        753      0        AM                0
+
+
+
+
+                                                                                                      1,080
+                                                                                          367
+                                                                                                713
+       1,337
+
+               904
+                     433
+
+
+
+
+                                                                                          0
+                                                                                                0
+
+                                                                                                      0
+                                                                                          278
+                                                                                                563
+
+                                                                                                      841
+                                                     LOS ANGELES
+       TOTAL
+
+
+
+
+                                                                                                150
+
+                                                                                                      239
+                     AM
+               PM
+
+
+
+
+                                                     CA10-0910-01
+
+
+
+
+                                                                                          89
+11TH
+
+
+
+
+                                                                                                              11TH
+                                                                                                      TOTAL
+                                                      ALL HOURS
+
+
+
+
+                                                                                          AM
+                                                                                                PM
+       0
+
+               0
+                     0
+       0
+
+               0
+                     0
+       79
+
+               54
+                     25
+
+
+
+
+                                                                                          0
+                                                                                                0
+
+                                                                                                      0
+       79
+
+               54
+                     25
+
+
+
+
+                                    867               AM        0         0       0   0
+                                   2,685              PM        0         0       0   0
+                                   3,552             TOTAL      0         0       0   0
+
+                                                       FLOWER
+
+                                                       FLOWER
+                           1,983   254       1,729     0      TOTAL               0
+                           1,482   174       1,308     0        PM                0
+                            501     80        421      0        AM                0
+                                                                                          221
+                                                                                                387
+
+                                                                                                      608
+       734
+
+               477
+                     257
+
+
+
+
+                                                                                          0
+                                                                                                0
+
+                                                                                                      0
+                                                                                          177
+                                                                                                303
+
+                                                                                                      480
+
+
+
+
+                                                     PEAK HOUR
+       TOTAL
+
+
+
+
+                                                                                                      128
+                     AM
+               PM
+
+
+
+
+                                                                                          44
+                                                                                                84
+
+
+
+
+                                                      AM      8:00 AM
+11TH
+
+
+
+
+                                                                                                              11TH
+
+
+
+
+                                                                        8:45 AM
+                                                                                                      TOTAL
+                                                                                          AM
+                                                                                                PM
+       0
+
+               0
+                     0
+
+
+
+
+                                                                        #REF!
+
+                                                      PM      4:45 PM
+       0
+
+               0
+                     0
+
+
+
+
+                                                                        5:45 PM
+       46
+
+               38
+                     8
+
+
+
+
+                                                                                          0
+                                                                                                0
+
+                                                                                                      0
+       46
+
+               38
+                     8
+
+
+
+
+                                    473               AM        0         0       0   0
+                                   1,430              PM        0         0       0   0
+                                   1,903              Total     0         0       0   0
+
+                                                       FLOWER
+                                      INTERSECTION TURNING MOVEMENT COUNTS
+                                                PREPARED BY: PACIFIC TRAFFIC DATA SERVICES
+        DATE:         LOCATION:                    LOS ANGELES                                    PROJECT #:         CA10-0910-01
+        9/8/10        NORTH & SOUTH:               FLOWER                                         LOCATION #:        3
+      WEDNESDAY       EAST & WEST:                 11TH                                           CONTROL:           SIGNAL
+        CLASS 1:      NOTES:                                                                                 AM                Y
+       PASSENGER                                                                                             PM                N
+        VEHICLES                                                                                             MD       W               E
+                                                                                                            OTHER              S
+                                                                                                            OTHER              
+                             NORTHBOUND                   SOUTHBOUND                 EASTBOUND                     WESTBOUND                              U-TURNS
+                                FLOWER                       FLOWER                       11TH                         11TH
+                        NL       NT        NR        SL        ST       SR      EL        ET        ER       WL        WT      WR     TOTAL   NB     SB     EB   WB   TTL
+             LANES:     X         X         X        X          3        1      X          X         1       1.5       1.5      X
+         7:00 AM                                               52         3                          6        9        16              86                             0
+         7:15 AM                                               65        13                          2       12        18              110                            0
+         7:30 AM                                               93        13                          4       15        28              153                            0
+         7:45 AM                                               99        13                          5        7        32              156                            0
+         8:00 AM                                               96         9                          1        7        46              159                            0
+         8:15 AM                                               96         3                          2        9        40              150                            0
+         8:30 AM                                              110        15                          1        9        39              174                            0
+         8:45 AM                                               95        20                          4       18        35              172                            0
+AM
+
+
+
+
+     VOLUMES            0         0         0        0        706        89      0         0        25       86       254       0     1,160   0      0      0    0    0
+     APPROACH %        0%        0%        0%       0%        89%       11%     0%        0%       100%     25%       75%      0%
+     APP/DEPART         0          /        0       795         /       817     25         /         0      340         /      343     0
+     BEGIN PEAK HR             8:00 AM
+     VOLUMES            0         0         0        0        397        47      0       0           8       43       160       0     655
+     APPROACH %        0%        0%        0%       0%        89%       11%     0%      0%         100%     21%       79%      0%
+     PEAK HR FACTOR             0.000                        0.888                     0.500                         0.958            0.941
+     APP/DEPART         0          /        0       444         /      448      8         /          0      203         /      207      0
+         4:00 PM                                              294       34                           3       14        50              395                            0
+         4:15 PM                                              297       38                           2       12        54              403                            0
+         4:30 PM                                              308       37                           2       12        56              415                            0
+         4:45 PM                                              315       40                           5       12        56              428                            0
+         5:00 PM                                              336       32                           9       25        69              471                            0
+         5:15 PM                                              307       28                          12       22        86              455                            0
+         5:30 PM                                              319       41                          10       23        82              475                            0
+         5:45 PM                                              248       34                           9       28        94              413                            0
+PM
+
+
+
+
+     VOLUMES            0         0         0        0       2,424     284       0         0        52      148       547       0     3,455   0      0      0    0    0
+     APPROACH %        0%        0%        0%       0%        90%      10%      0%        0%       100%     21%       79%      0%
+     APP/DEPART         0          /        0      2,708        /     2,624     52         /         0      695         /      831     0
+     BEGIN PEAK HR             4:45 PM
+     VOLUMES            0         0         0        0       1,277      141      0       0          36       82       293       0     1,829
+     APPROACH %        0%        0%        0%       0%        90%       10%     0%      0%         100%     22%       78%      0%
+     PEAK HR FACTOR             0.000                        0.963                     0.750                         0.868            0.963
+     APP/DEPART         0          /        0      1,418        /     1,395     36        /          0      375         /      434      0
+
+                                                            FLOWER
+
+                                                           NORTH SIDE
+
+
+                       11TH           WEST SIDE                               EAST SIDE           11TH
+
+
+                                                           SOUTH SIDE
+
+                                                            FLOWER
+
+                                         PEDESTRIAN CROSSINGS                                    PEDESTRIAN ACTIVATIONS                           BICYCLE CROSSINGS
+                               N SIDE     S SIDE   E SIDE    W SIDE   TOTAL            N SIDE      S SIDE   E SIDE   W SIDE   TOTAL           NS     SS     ES   WS TOTAL
+        7:00 AM                  10         8        8        18        44                                                      0             0      0      0    1     1
+        7:15 AM                  12         7       14        23        56                                                      0             0      0      1    0     1
+        7:30 AM                   9         9        9        27        54                                                      0             0      1      0    1     2
+        7:45 AM                  13        10       16        31        70                                                      0             0      0      0    0     0
+AM
+
+
+
+
+        8:00 AM                  11         8        7        30        56                                                      0             0      0      1    0     1
+A
+
+
+
+
+        8:15 AM                   9         7       15        22        53                                                      0             0      1      0    0     1
+        8:30 AM                  12         6        8        28        54                                                      0             0      0      1    2     3
+        8:45 AM                  10        14        7        21        52                                                      0             0      0      0    0     0
+         TOTAL                   86        69       84        200       439               0          0        0        0        0             0      2      3    4     9
+        4:00 PM                  11         9        8        26        54                                                      0             0      0      0    1     1
+        4:15 PM                  14         5        7        34        60                                                      0             0      0      0    0     0
+        4:30 PM                   8         6       15        27        56                                                      0             0      0      0    0     0
+        4:45 PM                  12         8        9        31        60                                                      0             1      0      1    1     3
+PM
+
+
+
+
+        5:00 PM                  16         7       13        33        69                                                      0             0      0      0    0     0
+        5:15 PM                  10         5       17        23        55                                                      0             0      0      1    2     3
+        5:30 PM                  13         9        6        21        49                                                      0             0      0      0    2     2
+        5:45 PM                   9        12        8        25        54                                                      0             0      0      0    1     1
+         TOTAL                   93        61       83        220       457               0          0        0        0        0             1      0      2    7    10
+

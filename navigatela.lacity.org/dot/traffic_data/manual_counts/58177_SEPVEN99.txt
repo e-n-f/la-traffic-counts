@@ -1,0 +1,59 @@
+ACCUTEK                               TRAFFIC COUNT SUMMARY
+
+STREET:
+North/South          SEPULVEDA BLVD.
+
+East/West            FWY 101 WB OFF RAMP
+
+Day:    WEDNESDAY                          Date:       2-24-99                    Weather:          CLEAR
+
+Hours: 7-10 AM 3-6 PM                      FILE:       #####
+
+School Day:          YES                   District:           LOS ANGELES
+
+
+                       N/B                               S/B                         E/B                    W/B
+DUAL-
+WHEELED                    0                              0                              0                   0
+BIKES                      0                              0                              0                   0
+BUSES                      0                              0                              0                   0
+
+
+                       N/B TIME                          S/B TIME                    E/B TIME               W/B     TIME
+
+AM PK 15 MIN           172      8:15                    592      7:00                    0   0.00           256      9:30
+
+PM PK 15 MIN           481      5:30                    340      5:30                    0   0.00           108      4:45
+
+AM PK HOUR             593     8:00                    1941      7:00                    0   0.00           968       9:00
+
+PM PK HOUR            1801      5:00                   1293      5:00                    0   0.00           423       3:00
+
+
+
+
+NORTHBOUND Approach                                            SOUTHBOUND Approach                                TOTAL      XING S/L       XING N/L
+
+Hours       Lt         Th      Rt          Total               Hours     Lt         Th       Rt     Total          N-S       Ped   Sch      Ped   Sch
+7-8              0     405       0           405               7-8            0    1941        0     1941          2346       0     0        0     0
+8-9              0     593       0           593               8-9            0    1700        0     1700          2293       0     0        0     0
+9-10             0     555       0           555               9-10           0    1567        0     1567          2122       0     0        0     0
+3-4              0    1255       0          1255               3-4            0    1080        0     1080          2335       0     0        0     0
+4-5              0    1498       0          1498               4-5            0    1159        0     1159          2657       0     0        0     0
+5-6              0    1801       0          1801               5-6            0    1293        0     1293          3094       0     0        0     0
+
+TOTAL            0    6107       0          6107               TOTAL          0    8740        0     8740          14847       0        0     0        0
+
+
+EASTBOUND Approach                                             WESTBOUND Approach                                 TOTAL      XING W/L       XING E/L
+
+Hours       Lt        Th       Rt          Total               Hours     Lt         Th       Rt     Total          E-W       Ped   Sch      Ped   Sch
+7-8              0         0     0                 0           7-8       517             0   108      625            625      0     0        0     0
+8-9              0         0     0                 0           8-9       547             0   115      662            662      0     0        0     0
+9-10             0         0     0                 0           9-10      765             0   203      968            968      0     0        0     0
+3-4              0         0     0                 0           3-4       232             0   191      423            423      0     0        0     0
+4-5              0         0     0                 0           4-5       238             0   180      418            418      0     0        0     0
+5-6              0         0     0                 0           5-6       232             0   169      401            401      0     0        0     0
+
+TOTAL            0         0     0                 0           TOTAL    2531             0   966     3497          3497        0        0     0        0
+

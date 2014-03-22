@@ -1,0 +1,381 @@
+                      City Of Los Angeles
+                      Department Of Transportation
+                      MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South           Vermont Avenue
+
+East/West             Sunset Boulevard
+
+Day:          Wednesday               Date:          December 7, 2011     Weather:          CLEAR
+
+Hours:        7-10AM 3-6PM
+
+School Day:           YES             District:          LOS ANGELES        I/S CODE                  0
+
+
+                        N/B                        S/B                      E/B                     W/B
+DUAL-
+WHEELED                   82                       100                      152                     148
+BIKES                     52                        58                       54                      16
+BUSES                     53                        42                       27                      51
+
+
+                        N/B TIME                   S/B TIME                 E/B TIME                W/B   TIME
+
+AM PK 15 MIN            279    7.45                267    4.45              256      8.15           166    7.45
+
+PM PK 15 MIN            320    7.45                317    7.45              360      5.00           198    7.15
+
+AM PK HOUR              982    7.45                963    7.45              912      7.45           584    7.45
+
+PM PK HOUR             1132    7.00               1140    7.00             1336      5.00           701    7.15
+
+
+
+NORTHBOUND Approach                                      SOUTHBOUND Approach                              TOTAL          XING S/L          XING N/L
+
+Hours           Lt     Th      Rt Total                  Hours      Lt     Th        Rt Total              N-S            Ped Sch            Ped   Sch
+7-8             251    543     144   938                 7-8         38    530       173   741             1679            75   1            113     0
+8-9             223    497     169   889                 8-9         34    629       202   865             1754            72   1            127     0
+9-10            207    500     152   859                 9-10        37    493       183   713             1572           105   0             97     2
+3-4             246    755     128 1129                  3-4         80    764       296 1140              2269           229 11             162     0
+4-5             215    680     108 1003                  4-5         68    683       230   981             1984           157 24             153    16
+5-6             226    744     108 1078                  5-6         58    775       242 1075              2153           149 13             109     0
+
+TOTAL          1368 3719       809       5896            TOTAL      315 3874 1326            5515         11411           878     50         761   18
+
+
+EASTBOUND Approach                                       WESTBOUND Approach                               TOTAL          XING W/L          XING E/L
+
+Hours           Lt     Th      Rt Total                  Hours      Lt     Th        Rt Total             E-W             Ped Sch            Ped   Sch
+7-8             109    384     178   671                 7-8         98    366        31   495             1166           130   0            340     0
+8-9             138    498     256   892                 8-9         72    445        35   552             1444           165   0            258     2
+9-10            149    381     176   706                 9-10        82    387        39   508             1214           193   0            187     0
+3-4             266    623     280 1169                  3-4        148    435        72   655             1824           294   6            340    12
+4-5             242    649     258 1149                  4-5        134    454        67   655             1804           265 24             309     9
+5-6             249    760     327 1336                  5-6        117    469        66   652             1988           248   5            234     3
+
+TOTAL          1153 3295 1475            5923                       651 2556         310     3517          9440          1295     35       1668    26
+
+              (Rev Oct 06)
+
+
+                                                                                                                  City of Los Angeles
+                                                                                                                  Department of Transportation
+                                                               Counts Unlimited Inc.
+                                                                  PO Box 1178
+                                                                Corona, CA 92878
+                                                                 (951) 268-6268
+City of Los Angeles                                                                                                       File Name    : LOSVESUAM
+N/S: Vermont Avenue                                                                                                       Site Code    : 00000001
+E/W: Sunset Boulevard                                                                                                     Start Date   : 12/7/2011
+Weather: Sunny                                                                                                            Page No      :1
+
+
+                                                            Groups Printed- Total Volume
+                        Vermont Avenue               Sunset Boulevard              Vermont Avenue               Sunset Boulevard
+                          Southbound                   Westbound                      Northbound                   Eastbound
+   Start Time    Left    Thru Right App. Total   Left Thru Right App. Total   Left Thru Right App. Total    Left Thru Right App. Total        Int. Total
+    07:00 AM       8       93     37     138      25    70       8     103      62    104     32   198       20     81    26     127             566
+    07:15 AM      10      107     34     151      15    90       6     111      64    142     43   249       17     94    51     162             673
+    07:30 AM       5      139     41     185      19    89       7     115      52    131     29   212       34     96    40     170             682
+    07:45 AM      15      191     61     267      39   117      10     166      73    166     40   279       38   113     61     212             924
+         Total    38      530    173     741      98   366      31     495    251     543    144   938      109   384    178     671            2845
+
+    08:00 AM       9      167     51      227     18    130     7      155     64      135     43     242    27    129       60        216       840
+    08:15 AM       6      170     60      236     19    104     9      132     62      137     44     243    34    132       90        256       867
+    08:30 AM       9      175     49      233     18    101    12      131     49      126     44     219    42    135       51        228       811
+    08:45 AM      10      117     42      169     17    110     7      134     48       99     38     185    35    102       55        192       680
+        Total     34      629    202      865     72    445    35      552    223      497    169     889   138    498      256        892      3198
+
+    09:00 AM       9      135     68      212     26    107    10      143     55      153     54     262    43    115       55        213       830
+    09:15 AM      12      156     40      208     18    100    13      131     64      131     44     239    44     99       55        198       776
+    09:30 AM      13      140     50      203     25    126    12      163     60      146     35     241    44    117       47        208       815
+    09:45 AM       3       62     25       90     13     54     4       71     28       70     19     117    18     50       19         87       365
+        Total     37      493    183      713     82    387    39      508    207      500    152     859   149    381      176        706      2786
+
+ Grand Total     109     1652    558     2319     252   1198   105    1555     681     1540    465   2686    396   1263     610        2269     8829
+  Apprch %       4.7     71.2    24.1            16.2     77   6.8            25.4     57.3   17.3          17.5   55.7    26.9
+    Total %      1.2     18.7     6.3    26.3     2.9   13.6   1.2    17.6     7.7     17.4    5.3   30.4    4.5   14.3     6.9        25.7
+
+
+
+
+                      Vermont Avenue                  Sunset Boulevard            Vermont Avenue                Sunset Boulevard
+                         Southbound                     Westbound                   Northbound                     Eastbound
+   Start Time   Left Thru Right App. Total       Left Thru Right App. Total   Left Thru Right App. Total    Left Thru Right App. Total        Int. Total
+Peak Hour Analysis From 07:00 AM to 09:45 AM - Peak 1 of 1
+Peak Hour for Entire Intersection Begins at 07:45 AM
+    07:45 AM       15    191      61      267      39   117      10     166    73       166    40     279    38    113       61        212        924
+    08:00 AM        9    167      51      227      18    130      7     155     64      135    43     242    27    129       60        216       840
+    08:15 AM        6    170      60      236      19   104       9     132     62      137    44     243    34    132       90         256      867
+    08:30 AM        9    175      49      233      18   101      12     131     49      126     44    219    42     135      51         228      811
+ Total Volume      39    703     221      963      94   452      38     584    248      564    171    983    141    509     262         912     3442
+ % App. Total       4      73 22.9               16.1 77.4      6.5           25.2     57.4   17.4          15.5   55.8    28.7
+         PHF .650 .920 .906              .902 .603 .869 .792           .880   .849     .849   .972   .881   .839   .943    .728        .891      .931
+                                                                                               Counts Unlimited Inc.
+                                                                                                  PO Box 1178
+                                                                                                Corona, CA 92878
+                                                                                                 (951) 268-6268
+City of Los Angeles                                                                                                                                                            File Name          : LOSVESUAM
+N/S: Vermont Avenue                                                                                                                                                            Site Code          : 00000001
+E/W: Sunset Boulevard                                                                                                                                                          Start Date         : 12/7/2011
+Weather: Sunny                                                                                                                                                                 Page No            :2
+
+                                                                                                   Vermont Avenue
+                                                                                               Out       In     Total
+                                                                                                743       963    1706
+
+
+                                                                                                   221  703         39
+                                                                                                 Right Thru       Left
+
+
+
+
+                                                                                             Peak Hour Data
+                                             1833
+                                             Total
+
+
+
+
+                                                                                                                                                                   Out
+                                                                                                                                                                    719
+                                                        141
+
+
+
+
+                                                                                                                                                    Right Thru
+                                                       Left
+
+
+
+
+                                                                                                                                                                     Sunset Boulevard
+                            Sunset Boulevard
+
+
+
+
+                                                                                                         North
+
+
+
+
+                                                                                                                                                       38
+                                    912
+
+
+                                                              509
+                                                       Right Thru
+                                    In
+
+
+
+
+                                                                                                                                                                            In
+                                                                                                                                                           452
+                                                                                             Peak Hour Begins at 07:45 AM
+
+
+
+
+                                                                                                                                                                             584
+                                                                                             Total Volume
+                                                         262
+
+
+
+
+                                                                                                                                                    Left
+                            921
+                           Out
+
+
+
+
+                                                                                                                                                                                    Total
+                                                                                                                                                      94
+
+
+                                                                                                                                                                                     1303
+                                                                                                    Left Thru Right
+                                                                                                     248  564   171
+
+
+                                                                                               1059       983    2042
+                                                                                               Out       In     Total
+                                                                                                   Vermont Avenue
+
+Peak Hour Analysis From 07:00 AM to 09:45 AM - Peak 1 of 1
+Peak Hour for Each Approach Begins at:
+                07:45 AM                                                   07:45 AM                              07:45 AM                        07:45 AM
+    +0 mins.       15           191                   61            267       39      117     10        166         73      166     40    279       38           113                        61   212
+   +15 mins.        9         167                      51           227       18      130      7        155         64       135    43    242       27           129                        60   216
+   +30 mins.        6         170                      60           236       19       104     9        132         62       137    44    243       34           132                        90   256
+   +45 mins.        9         175                      49           233       18       101    12        131         49       126     44   219       42           135                51           228
+ Total Volume      39         703                     221           963       94       452     38       584        248       564    171   983      141            509              262           912
+ % App. Total       4          73                    22.9                   16.1      77.4    6.5                 25.2      57.4   17.4           15.5           55.8             28.7
+        PHF      .650        .920                    .906           .902    .603      .869   .792      .880       .849      .849   .972   .881    .839           .943             .728           .891
+                                                                    Counts Unlimited Inc.
+                                                                       PO Box 1178
+                                                                     Corona, CA 92878
+                                                                      (951) 268-6268
+City of Los Angeles                                                                                                                File Name    : LOSVESUPM
+N/S: Vermont Avenue                                                                                                                Site Code    : 00000001
+E/W: Sunset Boulevard                                                                                                              Start Date   : 12/7/2011
+Weather:Sunny                                                                                                                      Page No      :1
+
+
+                                                              Groups Printed- Total Volume
+                         Vermont Avenue               Sunset Boulevard                 Vermont Avenue                  Sunset Boulevard
+                           Southbound                    Westbound                       Northbound                       Eastbound
+   Start Time    Left     Thru Right App. Total   Left Thru Right App. Total      Left Thru Right App. Total       Left Thru Right App. Total          Int. Total
+    03:00 PM      28       179     61     268      30     97      12       139      57   188     33    278          68    155      70    293               978
+    03:15 PM      15       183     79     277      46    130      22       198      77   180     30    287          55    136      63    254              1016
+    03:30 PM      14       197     67     278      37     98      17       152      50   168     26    244          67    161      71    299               973
+    03:45 PM      23       205     89     317      35    110      21       166      62   219     39    320          76    171      76    323              1126
+         Total    80       764    296   1140      148    435      72       655    246    755    128   1129         266    623    280    1169              4093
+
+    04:00 PM       12      180     57      249     40      131      14     185      52       168     29      249    65      160       59         284       967
+    04:15 PM       15      187     61      263     32       92      12     136      56       175     36      267    69      177       79         325       991
+    04:30 PM       20      182     64      266     33      128      22     183      59       183     23      265    62      181       71         314      1028
+    04:45 PM       21      134     48      203     29      103      19     151      48       154     20      222    46      131       49         226       802
+         Total     68      683    230      981    134      454      67     655     215       680    108     1003   242      649      258        1149      3788
+
+    05:00 PM       19      232     56      307     37      119      16     172      53       208     30      291    74      197       89         360      1130
+    05:15 PM       16      202     59      277     29      129      24     182      59       221     34      314    73      194       81         348      1121
+    05:30 PM       15      177     80      272     30      134      11     175      68       187     22      277    60      205       92         357      1081
+    05:45 PM        8      164     47      219     21       87      15     123      46       128     22      196    42      164       65         271       809
+         Total     58      775    242     1075    117      469      66     652     226       744    108     1078   249      760      327        1336      4141
+
+ Grand Total      206     2222    768     3196     399    1358     205    1962     687      2179     344    3210    757    2032      865        3654    12022
+   Apprch %        6.4     69.5     24            20.3     69.2   10.4            21.4       67.9   10.7           20.7     55.6    23.7
+     Total %       1.7     18.5    6.4     26.6     3.3    11.3     1.7    16.3     5.7      18.1     2.9   26.7     6.3    16.9      7.2       30.4
+
+
+
+
+                        Vermont Avenue                   Sunset Boulevard              Vermont Avenue                  Sunset Boulevard
+                           Southbound                       Westbound                    Northbound                       Eastbound
+   Start Time      Left Thru Right App. Total        Left Thru Right App. Total    Left Thru Right App. Total      Left Thru Right App. Total          Int. Total
+Peak Hour Analysis From 03:00 PM to 05:45 PM - Peak 1 of 1
+Peak Hour for Entire Intersection Begins at 05:00 PM
+    05:00 PM         19     232      56        307    37    119      16    172      53       208      30     291     74     197       89         360      1130
+    05:15 PM         16     202      59        277    29    129      24    182      59       221      34     314     73     194       81         348      1121
+    05:30 PM         15     177      80        272    30    134      11    175      68       187      22     277     60     205       92         357      1081
+    05:45 PM          8     164      47        219    21     87      15    123      46       128      22     196     42     164       65         271       809
+ Total Volume        58     775     242      1075    117    469      66    652     226       744     108    1078    249     760      327        1336      4141
+ % App. Total       5.4 72.1       22.5             17.9   71.9    10.1             21        69      10           18.6    56.9     24.5
+          PHF     .763     .835    .756       .875  .791   .875    .688   .896    .831      .842    .794    .858   .841    .927     .889        .928       .916
+                                                                                               Counts Unlimited Inc.
+                                                                                                  PO Box 1178
+                                                                                                Corona, CA 92878
+                                                                                                 (951) 268-6268
+City of Los Angeles                                                                                                                                                          File Name        : LOSVESUPM
+N/S: Vermont Avenue                                                                                                                                                          Site Code        : 00000001
+E/W: Sunset Boulevard                                                                                                                                                        Start Date       : 12/7/2011
+Weather:Sunny                                                                                                                                                                Page No          :2
+
+                                                                                                   Vermont Avenue
+                                                                                               Out       In     Total
+                                                                                               1059     1075     2134
+
+
+                                                                                                      242  775       58
+                                                                                                    Right Thru     Left
+
+
+
+
+                                                                                             Peak Hour Data
+                                             2273
+                                             Total
+
+
+
+
+                                                                                                                                                                    Out
+                                                                                                                                                                     926
+                                                        249
+
+
+
+
+                                                                                                                                                    Right Thru
+                                                       Left
+
+
+
+
+                                                                                                                                                                      Sunset Boulevard
+                            Sunset Boulevard
+
+
+
+
+                                                                                                         North
+
+
+
+
+                                                                                                                                                       66
+                                    1336
+
+
+                                                              760
+                                                       Right Thru
+                                     In
+
+
+
+
+                                                                                                                                                                             In
+                                                                                                                                                           469
+                                                                                             Peak Hour Begins at 05:00 PM
+
+
+
+
+                                                                                                                                                                              652
+                                                                                             Total Volume
+                                                         327
+
+
+
+
+                                                                                                                                                    Left
+                            937
+
+
+
+
+                                                                                                                                                     117
+                           Out
+
+
+
+
+                                                                                                                                                                                     Total
+                                                                                                                                                                                      1578
+                                                                                                    Left Thru Right
+                                                                                                     226  744   108
+
+
+                                                                                               1219     1078     2297
+                                                                                               Out       In     Total
+                                                                                                   Vermont Avenue
+
+Peak Hour Analysis From 03:00 PM to 05:45 PM - Peak 1 of 1
+Peak Hour for Each Approach Begins at:
+                03:00 PM                                                   03:15 PM                              03:00 PM                        05:00 PM
+    +0 mins.       28         179                      61            268      46       130     22        198        57       188     33    278      74            197                89       360
+   +15 mins.       15         183                      79            277      37        98     17        152        77       180     30    287      73            194                81       348
+   +30 mins.       14         197                      67            278      35       110     21        166        50       168     26    244      60            205                92       357
+   +45 mins.       23         205                      89            317      40       131     14        185        62       219     39    320      42            164                65       271
+ Total Volume      80         764                     296           1140     158       469     74        701       246       755    128   1129     249            760               327      1336
+ % App. Total       7          67                      26                   22.5      66.9   10.6                 21.8      66.9   11.3           18.6           56.9              24.5
+         PHF     .714        .932                    .831           .899    .859      .895   .841       .885      .799      .862   .821   .882    .841           .927              .889      .928
+

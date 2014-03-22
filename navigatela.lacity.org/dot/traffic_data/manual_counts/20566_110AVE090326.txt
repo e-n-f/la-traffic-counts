@@ -1,0 +1,52 @@
+WILTEC                                                                                                                                    Phone: (626) 564-1944     Fax: (626) 564-0969
+INTERSECTION TURNING MOVEMENT COUNT SUMMARY
+
+CLIENT:                            FEHR AND PEERS/ ARUP
+PROJECT:                           DOWNTOWN LOS ANGELES TRAFFIC COUNTS
+DATE:                              THURSDAY MARCH 26, 2009
+PERIODS:                           7:00 AM TO 9:00 AM AND        4:00 PM TO 6:00 PM
+INTERSECTION:          N/S         W. AVENUE 26
+                       E/W         SR 110 SB OFF-RAMP
+CITY:                              LOS ANGELES
+
+15 MIN COUNTS                                             7:00 AM TO 9:00 AM
+                   1          2         3      4      5          6        7       8      9     10     11     12
+PERIOD          SBRT    SBTH         SBLT   WBRT   WBTH     WBLT     NBRT      NBTH   NBLT   EBRT   EBTH   EBLT   TOTAL      AM PEAK HOUR
+700-715            5         274        0     17      1          7        0     195      4      9      0      1     513         715-815                                    52
+715-730            5         314        0     21      0         14        0     220      3     10      0      2     589
+730-745            3         353        0     11      2          9        0     232      0     11      0      1     622                   23        1335   0               4
+745-800            7         333        0     10      1          4        0     228      3      6      0      0     592
+800-815            8         335        0     10      1          7        0     214      5      9      0      2     591                                                    34
+815-830            5         294        0      5      0          4        0     178      3     19      0      0     508
+830-845            8         268        0      6      0          6        0     147      3     15      0      4     457
+845-900            5         278        0     11      0          5        0     120      6      9      0      4     438                        5
+HOUR TOTALS
+                   1          2         3      4      5          6        7       8      9     10     11     12           SR 110 SB OFF-RAMP 0                 11    894        0
+TIME            SBRT    SBTH         SBLT   WBRT   WBTH     WBLT     NBRT      NBTH   NBLT   EBRT   EBTH   EBLT   TOTAL
+700-800           20     1274           0     59      4         34        0     875     10     36      0      4    2316                        36
+715-815           23     1335           0     52      4         34        0     894     11     36      0      5    2394                                             W. AVENUE 26
+730-830           23     1315           0     36      4         24        0     852     11     45      0      3    2313
+745-845           28     1230           0     31      2         21        0     767     14     49      0      6    2148
+800-900           26     1175           0     32      1         22        0     659     17     52      0     10    1994
+
+
+15 MIN COUNTS                                             4:00 PM TO 6:00 PM
+                   1          2         3      4      5          6        7       8      9     10     11     12
+PERIOD          SBRT    SBTH         SBLT   WBRT   WBTH     WBLT     NBRT      NBTH   NBLT   EBRT   EBTH   EBLT   TOTAL      PM PEAK HOUR
+400-415            4         234        0     38      1         14        0     202      2     13      0      2     510         415-515                                    183
+415-430            1         240        0     36      0         55        0     246      5      4      0      1     588
+430-445            9         241        0     39      3         52        0     252      4      9      0      1     610                   27        970    0               7
+445-500            9         245        0     67      4         64        0     235      2      8      0      1     635
+500-515            8         244        0     41      0         18        0     245      1      8      0      2     567                                                    189
+515-530            4         226        0     38      0          8        0     283      0      8      0      1     568
+530-545            7         232        0     31      2          9        0     279      1      2      0      2     565
+545-600            6         241        0     24      0          9        0     281      3      4      0      0     568                        5
+HOUR TOTALS
+                   1          2         3      4      5          6        7       8      9     10     11     12           SR 110 SB OFF-RAMP 0                 12    978        0
+TIME            SBRT    SBTH         SBLT   WBRT   WBTH     WBLT     NBRT      NBTH   NBLT   EBRT   EBTH   EBLT   TOTAL
+400-500           23         960        0    180      8        185        0     935     13     34      0      5    2343                        29
+415-515           27         970        0    183      7        189        0     978     12     29      0      5    2400                                             W. AVENUE 26
+430-530           30         956        0    185      7        142        0    1015      7     33      0      5    2380
+445-545           28         947        0    177      6         99        0    1042      4     26      0      6    2335
+500-600           25         943        0    134      2         44        0    1088      5     22      0      5    2268
+

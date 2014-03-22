@@ -1,0 +1,52 @@
+WILTEC                                                                                                                                   Phone: (626) 564-1944   Fax: (626) 564-0969
+INTERSECTION TURNING MOVEMENT COUNT SUMMARY
+
+CLIENT:                          FEHR AND PEERS/ ARUP
+PROJECT:                         DOWNTOWN LOS ANGELES TRAFFIC COUNTS
+DATE:                            THURSDAY APRIL 2, 2009
+PERIODS:                         7:00 AM TO 9:00 AM  AND      4:00 PM TO 6:00 PM
+INTERSECTION:          N/S       AVENUE 20
+                       E/W       MAIN STREET
+CITY:                            LOS ANGELES
+
+15 MIN COUNTS                                            7:00 AM TO 9:00 AM
+                   1         2        3      4       5         6        7        8      9     10     11     12
+PERIOD          SBRT    SBTH       SBLT   WBRT   WBTH      WBLT     NBRT      NBTH   NBLT   EBRT   EBTH   EBLT   TOTAL      AM PEAK HOUR
+700-715            5         0       20     20     209         0        0        0      0      0     59      5     318         730-830                                 211
+715-730            6         0       35     32     267         0        0        0      0      0     38      4     382
+730-745            9         0       70     54     374         0        0        0      0      0     71      5     583                   29        0   245             1516
+745-800            7         0       66     68     384         0        0        0      0      0     71      5     601
+800-815            4         0       64     64     407         0        0        0      0      0     72      9     620                                                 0
+815-830            9         0       45     25     351         0        0        0      0      0     58     12     500
+830-845           10         0       33     20     304         0        0        0      0      0     78     10     455
+845-900           10         0       30     22     267         0        0        0      0      0     89      9     427                        31
+HOUR TOTALS
+                   1         2        3      4       5         6        7        8      9     10     11     12           MAIN STREET       272               0     0       0
+TIME            SBRT    SBTH       SBLT   WBRT   WBTH      WBLT     NBRT      NBTH   NBLT   EBRT   EBTH   EBLT   TOTAL
+700-800           27         0      191    174    1234         0        0        0      0      0    239     19    1884                         0
+715-815           26         0      235    218    1432         0        0        0      0      0    252     23    2186                                           AVENUE 20
+730-830           29         0      245    211    1516         0        0        0      0      0    272     31    2304
+745-845           30         0      208    177    1446         0        0        0      0      0    279     36    2176
+800-900           33         0      172    131    1329         0        0        0      0      0    297     40    2002
+
+
+15 MIN COUNTS                                            4:00 PM TO 6:00 PM
+                   1         2        3      4       5         6        7        8      9     10     11     12
+PERIOD          SBRT    SBTH       SBLT   WBRT   WBTH      WBLT     NBRT      NBTH   NBLT   EBRT   EBTH   EBLT   TOTAL      PM PEAK HOUR
+400-415            7         0       39     44     135         0        0        0      0      0    132     13     370         445-545                                 193
+415-430            8         0       39     43     105         0        0        0      0      0    151      7     353
+430-445           10         0       59     50     115         0        0        0      0      0    170     14     418                   34        0   201             542
+445-500            6         0       56     53     135         0        0        0      0      0    209     20     479
+500-515           13         0       45     49     122         0        0        0      0      0    197     12     438                                                 0
+515-530            7         0       44     40     138         0        0        0      0      0    215     23     467
+530-545            8         0       56     51     147         0        0        0      0      0    222     14     498
+545-600            8         0       42     27     159         0        0        0      0      0    213     14     463                        69
+HOUR TOTALS
+                   1         2        3      4       5         6        7        8      9     10     11     12           MAIN STREET       843               0     0       0
+TIME            SBRT    SBTH       SBLT   WBRT   WBTH      WBLT     NBRT      NBTH   NBLT   EBRT   EBTH   EBLT   TOTAL
+400-500           31         0      193    190     490         0        0        0      0      0    662     54    1620                         0
+415-515           37         0      199    195     477         0        0        0      0      0    727     53    1688                                           AVENUE 20
+430-530           36         0      204    192     510         0        0        0      0      0    791     69    1802
+445-545           34         0      201    193     542         0        0        0      0      0    843     69    1882
+500-600           36         0      187    167     566         0        0        0      0      0    847     63    1866
+

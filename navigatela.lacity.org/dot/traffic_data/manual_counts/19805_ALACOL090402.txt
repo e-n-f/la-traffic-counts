@@ -1,0 +1,54 @@
+WILTEC                                                                                                                                    Phone: (626) 564-1944       Fax: (626) 564-0969
+INTERSECTION TURNING MOVEMENT COUNT SUMMARY
+
+CLIENT:                            FEHR AND PEERS/ ARUP
+PROJECT:                           DOWNTOWN LOS ANGELES TRAFFIC COUNTS
+DATE:                              THURSDAY APRIL 2, 2009
+PERIODS:                           7:00 AM TO 9:00 AM  AND       4:00 PM TO 6:00 PM
+INTERSECTION:          N/S         ALAMEDA STREET
+                       E/W         WEST COLLEGE STREET
+CITY:                              LOS ANGELES
+
+15 MIN COUNTS                                             7:00 AM TO 9:00 AM
+                   1          2         3      4      5          6        7       8      9     10     11     12
+PERIOD          SBRT    SBTH         SBLT   WBRT   WBTH     WBLT     NBRT      NBTH   NBLT   EBRT   EBTH   EBLT   TOTAL      AM PEAK HOUR
+700-715           15         221        2      4     22          4        3      51     25     32     13     14     406         745-845                                       9
+715-730           22         242        1      1     17          6        3      51     23     44     10     12     432
+730-745           27         297        3      4     21          7        0      57     30     31     15     25     517                   161       1264   28                 95
+745-800           37         293        6      0     18         11        2      53     24     30     10     19     503
+800-815           38         320        8      2     26          9        2      85     29     30     12     24     585                                                       40
+815-830           39         302       11      5     26          9        5      92     22     40     13     20     584
+830-845           47         349        3      2     25         11        2      62     22     27      8     11     569
+845-900           26         254        0      2     23          3        5      68     25     29     10     21     466                        74
+HOUR TOTALS
+                   1          2         3      4      5          6        7       8      9     10     11     12           WEST COLLEGE STREET
+                                                                                                                                          43                    97     292         11
+TIME            SBRT    SBTH         SBLT   WBRT   WBTH     WBLT     NBRT      NBTH   NBLT   EBRT   EBTH   EBLT   TOTAL
+700-800          101     1053          12      9     78         28        8     212    102    137     48     70    1858                     127
+715-815          124     1152          18      7     82         33        7     246    106    135     47     80    2037                                               ALAMEDA STREET
+730-830          141     1212          28     11     91         36        9     287    105    131     50     88    2189
+745-845          161     1264          28      9     95         40      11      292     97    127     43     74    2241
+800-900          150     1225          22     11    100         32      14      307     98    126     43     76    2204
+
+
+15 MIN COUNTS                                             4:00 PM TO 6:00 PM
+                   1          2         3      4      5          6        7       8      9     10     11     12
+PERIOD          SBRT    SBTH         SBLT   WBRT   WBTH     WBLT     NBRT      NBTH   NBLT   EBRT   EBTH   EBLT   TOTAL      PM PEAK HOUR
+400-415           13         107        2      8     13          3        1     220     82     27     15     26     517         445-545                                       28
+415-430            9         113        6      6     19          4        6     230     72     33     22     30     550
+430-445           13         95         3      7     24         11      10      309     85     25     25     31     638                   51        343    14                 69
+445-500           13         88         4      8     14          8        6     319     96     29     33     42     660
+500-515           14         84         2      3     18          8        4     293     93     24     18     22     583                                                       25
+515-530           12         81         6     10     23          4        6     321    111     29     16     20     639
+530-545           12         90         2      7     14          5        5     338    127     38     21     38     697
+545-600           12         77         3      4     18          9        6     312    120     36     19     31     647                     122
+HOUR TOTALS
+                   1          2         3      4      5          6        7       8      9     10     11     12           WEST COLLEGE STREET
+                                                                                                                                          88                    427    1271        21
+TIME            SBRT    SBTH         SBLT   WBRT   WBTH     WBLT     NBRT      NBTH   NBLT   EBRT   EBTH   EBLT   TOTAL
+400-500           48         403       15     29     70         26      23     1078    335    114     95    129    2365                     120
+415-515           49         380       15     24     75         31      26     1151    346    111     98    125    2431                                               ALAMEDA STREET
+430-530           52         348       15     28     79         31      26     1242    385    107     92    115    2520
+445-545           51         343       14     28     69         25      21     1271    427    120     88    122    2579
+500-600           50         332       13     24     73         26      21     1264    451    127     74    111    2566
+

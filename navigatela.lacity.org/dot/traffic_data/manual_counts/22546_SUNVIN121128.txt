@@ -1,0 +1,341 @@
+                                   Intersection Turning Movement
+                                                         Prepared by:
+                                           National Data & Surveying Services
+         Project ID: CA12_5476_001                                                                                     Day: WEDNESDAY
+                                                                          CARS
+                 City: City of Hollywood                                                                              Date: 11/28/2012
+                                                                          AM
+     NS/EW Streets:              Vine St                  Vine St                     Sunset Blvd                  Sunset Blvd
+                               NORTHBOUND               SOUTHBOUND                    EASTBOUND                    WESTBOUND
+
+                          NL        NT       NR    SL       ST       SR          EL       ET        ER        WL      WT         WR      TOTAL
+     LANES:               1          2        1    1         3        0          1         3         0        1        3          0
+
+          7:00   AM       10        94        19   6       236       14          2       148        5         16      297        6        853
+          7:15   AM       10       112        20   8       275       15          4       168        7         26      337        3        985
+          7:30   AM       19       119        24   7       293       25          6       178        15        24      425        9       1144
+          7:45   AM       22       121        19   6       310       18          5       231        16        40      426        10      1224
+          8:00   AM       24       154        27   9       298       14          10      208        21        38      424        20      1247
+          8:15   AM       22       175        23   3       346       19          11      212        21        38      363        21      1254
+          8:30   AM       22       173        28   15      302       20          9       230        17        49      392        26      1283
+          8:45   AM       18       172        26   11      303       26          9       194        18        44      362        20      1203
+          9:00   AM       15       171        33   19      330       26          12      215        22        32      367        22      1264
+          9:15   AM       19       176        36   14      306       28          14      207        11        28      312        14      1165
+          9:30   AM       24       164        28   14      257       17          9       214        15        36      291        15      1084
+          9:45   AM       23       144        34   14      251       24          8       201        23        42      297        24      1085
+
+                        NL       NT  NR        SL     ST              SR        EL     ET            ER       WL      WT         WR      TOTAL
+   TOTAL VOLUMES :     228      1775 317      126    3507            246        99    2406          191       413    4293        190     13791
+    APPROACH %'s :     9.83% 76.51% 13.66%    3.25% 90.41%           6.34%     3.67% 89.24%         7.08%     8.44% 87.68%       3.88%
+                     nb a     nb d         sb a    sb d                      eb a   eb d                    wb a   nb d
+PEAK HR START TIME :      745 AM                                                                                                         TOTAL
+
+      PEAK HR VOL :      90        623       97    33     1256       71          35      881        75       165     1605        77      5008
+
+   PEAK HR FACTOR :               0.908                   0.924                         0.968                        0.958               0.976
+
+         CONTROL : Signalized
+                                    Intersection Turning Movement
+                                                           Prepared by:
+                                            National Data & Surveying Services
+         Project ID: CA12_5476_001                                                                                      Day: WEDNESDAY
+                                                                           CARS
+                  City: City of Hollywood                                                                              Date: 11/28/2012
+                                                                           PM
+     NS/EW Streets:               Vine St                  Vine St                     Sunset Blvd                  Sunset Blvd
+                                NORTHBOUND               SOUTHBOUND                    EASTBOUND                    WESTBOUND
+
+                           NL        NT       NR    SL       ST       SR          EL       ET        ER        WL      WT         WR      TOTAL
+     LANES:                1          2        1    1         3        0          1         3         0        1        3          0
+
+           3:00   PM       21       218       37    13      176       25          19      281        32        35      283        26      1166
+           3:15   PM       25       255       41    11      198       18          18      273        26        28      287        31      1211
+           3:30   PM       29       225       44    16      210       26          14      296        26        44      261        29      1220
+           3:45   PM       34       232       30    12      198       35          23      295        29        34      303        26      1251
+           4:00   PM       22       251       47    14      200       22          15      236        20        39      271        25      1162
+           4:15   PM       31       253       50    17      167       31          20      274        19        46      312        30      1250
+           4:30   PM       21       306       50    10      172       32          16      280        25        29      249        32      1222
+           4:45   PM       16       282       52    16      188       25          16      316        19        23      301        35      1289
+           5:00   PM       25       258       47    14      196       28          21      355        25        46      299        28      1342
+           5:15   PM       24       252       43    10      205       21          21      285        27        33      250        23      1194
+           5:30   PM       20       296       39    13      205       23          23      340        27        36      286        22      1330
+           5:45   PM       35       313       45    10      215       26          24      354        28        32      259        18      1359
+
+                        NL       NT  NR        SL     ST     SR       EL    ET                        ER       WL      WT         WR      TOTAL
+   TOTAL VOLUMES :     303      3141 525      156    2330   312      230   3585                      303       425    3361        325     14996
+    APPROACH %'s :     7.63% 79.14% 13.23%    5.58% 83.27% 11.15%   5.59% 87.06%                     7.36%    10.34% 81.76%       7.91%
+                     nb a     nb d         sb a    sb d           eb a   eb d                                wb a   nb d
+PEAK HR START TIME :      500 PM                                                                                                          TOTAL
+
+      PEAK HR VOL :       104      1119       174   47      821       98          89     1334        107      147     1094        91      5225
+
+   PEAK HR FACTOR :                0.889                   0.962                         0.942                        0.893               0.961
+
+         CONTROL : Signalized
+                                  PREPARED BY NATIONAL DATA & SURVEYING SERVICES
+PROJECT#:     CA12_5476_001
+N/S Street:   Vine St
+E/W Street:   Sunset Blvd
+DATE:         11/28/2012                                      DAY:        11/28/2012
+CITY:         City of Hollywood
+    AM
+Adult Pedestrians                                             School-Aged Pedestrians
+              NORTH LEG SOUTH LEG       EAST LEG   WEST LEG               NORTH LEG SOUTH LEG   EAST LEG   WEST LEG
+  TIME                                                          TIME
+               EB   WB   EB   WB        NB    SB   NB    SB                EB   WB   EB   WB    NB    SB   NB    SB
+ 7:00 AM                                                       7:00 AM
+ 7:15 AM                                                       7:15 AM
+ 7:30 AM                                                       7:30 AM
+ 7:45 AM                                                       7:45 AM
+ 8:00 AM                                                       8:00 AM
+ 8:15 AM                                                       8:15 AM
+ 8:30 AM                                                       8:30 AM
+ 8:45 AM                                                       8:45 AM
+ 9:00 AM                                                       9:00 AM
+ 9:15 AM                                                       9:15 AM
+ 9:30 AM                                                       9:30 AM
+ 9:45 AM                                                       9:45 AM
+ TOTALS         0      0      0     0   0     0    0     0     TOTALS       0      0    0   0   0     0    0     0
+
+
+    PM
+Adult Pedestrians                                             School-Aged Pedestrians
+              NORTH LEG SOUTH LEG       EAST LEG   WEST LEG               NORTH LEG SOUTH LEG   EAST LEG   WEST LEG
+   TIME                                                          TIME
+               EB   WB   EB   WB        NB    SB   NB    SB                EB   WB   EB   WB    NB    SB   NB    SB
+ 3:00 PM                                                       3:00 PM
+ 3:15 PM                                                       3:15 PM
+ 3:30 PM                                                       3:30 PM
+ 3:45 PM                                                       3:45 PM
+ 4:00 PM                                                       4:00 PM
+ 4:15 PM                                                       4:15 PM
+ 4:30 PM                                                       4:30 PM
+ 4:45 PM                                                       4:45 PM
+ 5:00 PM                                                       5:00 PM
+ 5:15 PM                                                       5:15 PM
+ 5:30 PM                                                       5:30 PM
+ 5:45 PM                                                       5:45 PM
+ TOTALS         0      0      0     0   0     0    0     0     TOTALS       0      0    0   0   0     0    0     0
+                                   Intersection Turning Movement
+                                                         Prepared by:
+                                           National Data & Surveying Services
+         Project ID: CA12_5476_001                                                                                 Day: WEDNESDAY
+                                                                          BIKES
+                 City: City of Hollywood                                                                          Date: 11/28/2012
+                                                                           AM
+     NS/EW Streets:              Vine St                  Vine St                      Sunset Blvd             Sunset Blvd
+                               NORTHBOUND               SOUTHBOUND                     EASTBOUND               WESTBOUND
+
+                          NL        NT       NR    SL       ST       SR           EL       ET        ER   WL      WT         WR   TOTAL
+     LANES:               1          2        1    1         3        0           1         3         0   1        3          0
+
+          7:00   AM       0         1         0             0        0            0        0         0    0        0         0        1
+          7:15   AM       0         0         0             1        1            0        0         0    0        1         0        3
+          7:30   AM       0         1         0             2        0            0        1         0    0        0         0        4
+          7:45   AM       0         0         0             2        0            0        1         1    0        1         0        5
+          8:00   AM       0         0         0             4        0            1        0         0    0        2         0        7
+          8:15   AM       0         2         0             0        1            0        1         0    0        1         0        5
+          8:30   AM       0         0         0             2        0            0        1         0    0        2         1        6
+          8:45   AM       0         0         1             1        0            0        1         1    1        5         0       10
+          9:00   AM       0         1         1             0        0            0        2         1    0        2         1        8
+          9:15   AM       0         2         0             1        0            1        1         0    0        2         0        7
+          9:30   AM       1         1         0             1        0            0        1         0    0        2         1        7
+          9:45   AM       1         2         1             2        0            0        1         0    0        4         0       11
+
+                        NL        NT NR        SL     ST     SR     EL     ET     ER     WL      WT    WR                         TOTAL
+   TOTAL VOLUMES :       2        10  3        0      16      2      2     10      3      1      22     3                           74
+    APPROACH %'s :    13.33% 66.67% 20.00%    0.00% 88.89% 11.11% 13.33% 66.67% 20.00%   3.85% 84.62% 11.54%
+                     nb a      nb d        sb a    sb d          eb a   eb d           wb a   nb d
+PEAK HR START TIME :       745 AM                                                                                                 TOTAL
+
+      PEAK HR VOL :       0         2         0    0        8        1            1        3         1    0        6         1       23
+
+   PEAK HR FACTOR :               0.250                   0.563                          0.625                   0.583               0.821
+
+         CONTROL : Signalized
+                                    Intersection Turning Movement
+                                                               Prepared by:
+                                            National Data & Surveying Services
+         Project ID: CA12_5476_001                                                                                           Day: WEDNESDAY
+                                                                               BIKES
+                  City: City of Hollywood                                                                                   Date: 11/28/2012
+                                                                                PM
+     NS/EW Streets:               Vine St                      Vine St                      Sunset Blvd                  Sunset Blvd
+                                NORTHBOUND                   SOUTHBOUND                     EASTBOUND                    WESTBOUND
+
+                           NL        NT       NR        SL       ST       SR           EL       ET        ER        WL      WT         WR      TOTAL
+     LANES:                1          2        1        1         3        0           1         3         0        1        3          0
+
+           3:00   PM       0         1                           2                              1                   0        4                   8
+           3:15   PM       0         1                           0                              4                   0        1                   6
+           3:30   PM       1         1                           2                              5                   0        2                  11
+           3:45   PM       0         0                           0                              5                   0        2                   7
+           4:00   PM       0         0                           2                              1                   0        3                   6
+           4:15   PM       0         0                           1                              1                   0        2                   4
+           4:30   PM       0         0                           0                              2                   0        1                   3
+           4:45   PM       0         0                           0                              2                   0        0                   2
+           5:00   PM       0         2                           2                              0                   0        1                   5
+           5:15   PM       0         0                           0                              7                   0        1                   8
+           5:30   PM       0         0                           0                              2                   1        2                   5
+           5:45   PM       0         0                           0                              2                   0        0                   2
+
+                        NL        NT          NR          SL      ST       SR        EL      ET            ER       WL      WT         WR      TOTAL
+    TOTAL VOLUMES :      1         5           0          0        9        0         0      32             0        1      19          0        67
+     APPROACH %'s :   16.67% 83.33%           0.00%      0.00% 100.00%    0.00%     0.00% 100.00%         0.00%     5.00% 95.00%       0.00%
+                     nb a      nb d                   sb a     sb d               eb a    eb d                    wb a   nb d
+PEAK HR START TIME :       500 PM                                                                                                              TOTAL
+
+      PEAK HR VOL :        0         2         0         0       2        0            0       11         0         1        4         0        20
+
+   PEAK HR FACTOR :                0.250                       0.250                          0.393                        0.417               0.625
+
+         CONTROL : Signalized
+                                    Intersection Turning Movement
+                                                          Prepared by:
+                                            National Data & Surveying Services
+         Project ID: CA12_5476_001                                                                                      Day: WEDNESDAY
+                                                                          BUSES
+                  City: City of Hollywood                                                                              Date: 11/28/2012
+                                                                           AM
+     NS/EW Streets:               Vine St                  Vine St                     Sunset Blvd                  Sunset Blvd
+                                NORTHBOUND               SOUTHBOUND                    EASTBOUND                    WESTBOUND
+
+                           NL        NT       NR    SL       ST       SR          EL       ET        ER        WL      WT         WR   TOTAL
+     LANES:                1          2        1    1         3        0          1         3         0        1        3          0
+
+           7:00   AM                 4         0             2                    0        3                            4         0       13
+           7:15   AM                 2         1             3                    0        3                            7         2       18
+           7:30   AM                 1         0             3                    0        5                            5         2       16
+           7:45   AM                 1         0             3                    0        8                            5         1       18
+           8:00   AM                 2         0             4                    0        5                            5         2       18
+           8:15   AM                 1         0             2                    0        6                            5         0       14
+           8:30   AM                 1         0             2                    0        2                            6         3       14
+           8:45   AM                 1         0             2                    0        1                            1         1        6
+           9:00   AM                 1         0             0                    0        2                            3         1        7
+           9:15   AM                 2         0             1                    0        1                            3         4       11
+           9:30   AM                 1         0             1                    1        1                            1         1        6
+           9:45   AM                 1         1             1                    0        1                            5         2       11
+
+                        NL        NT NR        SL      ST              SR        EL     ET            ER       WL      WT    WR        TOTAL
+   TOTAL VOLUMES :       0        18  2        0       24               0         1     38             0        0      50     19        152
+    APPROACH %'s :     0.00% 90.00% 10.00%    0.00% 100.00%           0.00%     2.56% 97.44%         0.00%     0.00% 72.46% 27.54%
+                     nb a      nb d        sb a     sb d                      eb a   eb d                    wb a   nb d
+PEAK HR START TIME :       745 AM                                                                                                      TOTAL
+
+      PEAK HR VOL :        0         5         0    0       11        0           0       21         0         0       21         6       64
+
+   PEAK HR FACTOR :                0.625                   0.688                         0.656                        0.750               0.889
+
+         CONTROL : Signalized
+                                    Intersection Turning Movement
+                                                           Prepared by:
+                                            National Data & Surveying Services
+         Project ID: CA12_5476_001                                                                                      Day: WEDNESDAY
+                                                                          BUSES
+                  City: City of Hollywood                                                                              Date: 11/28/2012
+                                                                           PM
+     NS/EW Streets:               Vine St                  Vine St                     Sunset Blvd                  Sunset Blvd
+                                NORTHBOUND               SOUTHBOUND                    EASTBOUND                    WESTBOUND
+
+                           NL        NT       NR    SL       ST       SR          EL       ET        ER        WL      WT         WR   TOTAL
+     LANES:                1          2        1    1         3        0          1         3         0        1        3          0
+
+           3:00   PM       0         1         2    0        2                    0        4          0        1        4         1       15
+           3:15   PM       0         1         0    0        0                    0        7          0        0        2         0       10
+           3:30   PM       0         4         0    0        2                    0        1          2        0        2         1       12
+           3:45   PM       0         3         1    0        5                    0        2          0        0        2         1       14
+           4:00   PM       1         3         0    1        1                    0        1          0        0        1         1        9
+           4:15   PM       0         1         0    0        4                    1        1          0        0        2         0        9
+           4:30   PM       0         4         2    0        2                    0        5          0        0        2         3       18
+           4:45   PM       0         2         0    0        1                    0        3          0        0        1         1        8
+           5:00   PM       0         1         0    0        2                    0        2          0        0        2         1        8
+           5:15   PM       0         2         0    0        1                    0        2          0        0        2         2        9
+           5:30   PM       0         1         2    0        2                    0        1          0        0        1         0        7
+           5:45   PM       0         1         2    0        1                    0        3          0        0        2         2       11
+
+                        NL        NT NR        SL     ST               SR        EL     ET            ER       WL      WT    WR        TOTAL
+   TOTAL VOLUMES :       1        24  9        1      23                0         1     32             2        1      23     13        130
+    APPROACH %'s :     2.94% 70.59% 26.47%    4.17% 95.83%            0.00%     2.86% 91.43%         5.71%     2.70% 62.16% 35.14%
+                     nb a      nb d        sb a    sb d                       eb a   eb d                    wb a   nb d
+PEAK HR START TIME :       500 PM                                                                                                      TOTAL
+
+      PEAK HR VOL :        0         5         4    0        6        0           0        8         0         0        7         5       35
+
+   PEAK HR FACTOR :                0.750                   0.750                         0.667                        0.750               0.795
+
+         CONTROL : Signalized
+                                   Intersection Turning Movement
+                                                         Prepared by:
+                                           National Data & Surveying Services
+         Project ID: CA12_5476_001                                                                              Day: WEDNESDAY
+                                                                    HEAVY TRUCKS
+                 City: City of Hollywood                                                                       Date: 11/28/2012
+                                                                          AM
+    NS/EW Streets:               Vine St                  Vine St                   Sunset Blvd             Sunset Blvd
+                               NORTHBOUND               SOUTHBOUND                  EASTBOUND               WESTBOUND
+
+                          NL        NT       NR    SL       ST       SR        EL       ET        ER   WL      WT         WR      TOTAL
+     LANES:               1          2        1    1         3        0        1         3         0   1        3          0
+
+          7:00   AM       0         0         0     0       2         3        0        3         0    2        4          0       14
+          7:15   AM       0         3         1     2       5         0        0        5         1    0        5          0       22
+          7:30   AM       0         1         2     1       2         1        1        4         0    1        10         0       23
+          7:45   AM       1         1         1     0       5         1        0        5         0    0        6          2       22
+          8:00   AM       1         3         0     0       5         0        2        3         0    0        7          0       21
+          8:15   AM       0         1         0     1       2         2        0        5         1    1        15         1       29
+          8:30   AM       1         1         2     0       2         2        0        2         0    1        10         1       22
+          8:45   AM       2         1         2     1       1         2        0        2         0    0        7          0       18
+          9:00   AM       0         0         1     1       3         0        0        2         4    0        8          0       19
+          9:15   AM       0         0         1     0       2         2        0        9         0    2        7          3       26
+          9:30   AM       2         2         1     1       5         1        2        1         3    2        12         1       33
+          9:45   AM       0         1         2     0       3         1        0        2         0    1        5          1       16
+
+                        NL        NT NR      SL     ST     SR      EL     ET     ER     WL      WT                        WR      TOTAL
+   TOTAL VOLUMES :       7        14  13      7     37     15       5     43      9      10     96                         9       265
+    APPROACH %'s :    20.59% 41.18% 38.24% 11.86% 62.71% 25.42%   8.77% 75.44% 15.79%   8.70% 83.48%                      7.83%
+                     nb a      nb d       sb a   sb d           eb a   eb d           wb a   nb d
+PEAK HR START TIME :       745 AM                                                                                                 TOTAL
+
+      PEAK HR VOL :       3         6         3    1       14        5         2       15         1    2       38         4        94
+
+   PEAK HR FACTOR :               0.750                   0.833                       0.750                   0.647               0.810
+
+         CONTROL : Signalized
+                                    Intersection Turning Movement
+                                                           Prepared by:
+                                            National Data & Surveying Services
+         Project ID: CA12_5476_001                                                                                    Day: WEDNESDAY
+                                                                     HEAVY TRUCKS
+                  City: City of Hollywood                                                                            Date: 11/28/2012
+                                                                           PM
+     NS/EW Streets:               Vine St                  Vine St                   Sunset Blvd                  Sunset Blvd
+                                NORTHBOUND               SOUTHBOUND                  EASTBOUND                    WESTBOUND
+
+                           NL        NT       NR    SL       ST       SR        EL       ET        ER        WL      WT         WR      TOTAL
+     LANES:                1          2        1    1         3        0        1         3         0        1        3          0
+
+           3:00   PM       0         1         1    0        1         0        0        3                   1        4          2       13
+           3:15   PM       0         2         3    0        2         1        0        2                   0        2          0       12
+           3:30   PM       0         1         0    0        2         0        0        4                   0        1          0        8
+           3:45   PM       0         1         0    0        1         0        0        4                   0        2          0        8
+           4:00   PM       0         1         1    0        3         1        1        4                   0        3          1       15
+           4:15   PM       0         0         0    1        1         0        0        3                   1        2          0        8
+           4:30   PM       0         0         0    0        3         1        0        4                   0        2          0       10
+           4:45   PM       1         3         0    1        1         0        1        6                   1        3          0       17
+           5:00   PM       2         3         1    0        1         3        0        2                   0        1          0       13
+           5:15   PM       0         1         0    0        2         1        0        2                   0        1          0        7
+           5:30   PM       0         2         1    0        2         1        0        6                   1        3          0       16
+           5:45   PM       0         0         0    0        1         0        1        3                   0        7          0       12
+
+                        NL        NT NR        SL     ST     SR      EL     ET                      ER       WL      WT         WR      TOTAL
+   TOTAL VOLUMES :       3        15  7        2      20      8       3     43                       0        4      31          3       139
+    APPROACH %'s :    12.00% 60.00% 28.00%    6.67% 66.67% 26.67%   6.52% 93.48%                   0.00%    10.53% 81.58%       7.89%
+                     nb a      nb d        sb a    sb d           eb a   eb d                              wb a   nb d
+PEAK HR START TIME :       500 PM                                                                                                       TOTAL
+
+      PEAK HR VOL :        2         6         2    0        6        5         1       13         0         1       12         0        48
+
+   PEAK HR FACTOR :                0.417                   0.688                       0.583                        0.464               0.750
+
+         CONTROL : Signalized
+

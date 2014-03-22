@@ -1,0 +1,61 @@
+                     City Of Los Angeles
+                     Department Of Transportation
+                     MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South          N BROADWAY
+
+East/West            COLLEGE ST
+
+Day:              MONDAY             Date:         June 21, 2010         Weather:          SUNNY
+
+Hours:        11AM-2PM 3-6PM
+
+School Day:          YES             District:         CENTRAL             I/S CODE 19759
+
+
+                      N/B                        S/B                       E/B                     W/B
+DUAL-
+WHEELED               102                        152                        51                      57
+BIKES                   3                         26                         1                      12
+BUSES                  64                        164                        20                      48
+
+
+                      N/B TIME                   S/B TIME                  E/B TIME                W/B TIME
+
+AM PK 15 MIN          141    12.45               208 13.45                 113 11.30                81    12.30
+
+PM PK 15 MIN          304     5.30               257    5.30               108      5.15           141     4.45
+
+AM PK HOUR            520    12.45               772 13.00                 413 11.30               309    12.30
+
+PM PK HOUR           1115     5.00               942    5.00               422      5.00           551     4.45
+
+
+
+NORTHBOUND Approach                                    SOUTHBOUND Approach                               TOTAL    XING S/L        XING N/L
+
+Hours          Lt     Th     Rt Total                  Hours       Lt     Th        Rt Total              N-S        Ped Sch        Ped   Sch
+11-12           34    308      43 385                  11-12        76     443       93   612              997       233   0        218     8
+12-1            36    376      53 465                  12-1         87     512       97   696             1161       208   0        200     4
+1-2             57    375      62 494                  1-2          75     592      105   772             1266       288   0        187     3
+3-4             37    536      53 626                  3-4          72     527       95   694             1320       189   0        171     6
+4-5             26    665      33 724                  4-5          88     535      109   732             1456       114   0        121     4
+5-6             34    990      91 1115                 5-6          80     744      118   942             2057       129   0        150    10
+
+TOTAL          224 3250       335 3809                 TOTAL       478 3353         617     4448          8257      1161     0     1047      35
+
+
+EASTBOUND Approach                                     WESTBOUND Approach                                TOTAL    XING W/L        XING E/L
+
+Hours          Lt     Th     Rt Total                  Hours       Lt     Th        Rt Total             E-W         Ped Sch        Ped   Sch
+11-12           67    183     118 368                  11-12        46     179       65   290              658       218   4        223     9
+12-1            63    212     103 378                  12-1         56     168       73   297              675       228   3        269     8
+1-2             73    240      97 410                  1-2          50     167       77   294              704       333 16         230     4
+3-4             56    222      81 359                  3-4          47     193      111   351              710       250 12         249     7
+4-5             68    246      85 399                  4-5          48     209      155   412              811       282   0        215     5
+5-6             85    264      73 422                  5-6          47     272      230   549              971       337   9        180     5
+
+TOTAL          412 1367       557 2336                 TOTAL       294 1188         711     2193          4529      1648     44    1366      38
+
+              (Rev Oct 06)
+

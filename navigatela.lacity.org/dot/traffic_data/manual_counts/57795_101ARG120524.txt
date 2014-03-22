@@ -1,0 +1,75 @@
+                                    Intersection Turning Movement
+                                                               Prepared by:
+                                            National Data & Surveying Services
+          Project ID: CA12_5218_102                                                                                     Day: THURSDAY
+
+                  City: City of Hollywood                                                                               Date: 05/24/2012
+                                                                               AM
+     NS/EW Streets:              Argyle Ave                  Argyle Ave              US-101 NB On-ramp           US-101 NB On-ramp
+                                NORTHBOUND                   SOUTHBOUND                   EASTBOUND                  WESTBOUND
+
+                           NL        NT       NR        SL       ST       SR        EL       ET       ER        WL      WT       WR      TOTAL
+     LANES:
+
+           7:00   AM       11                                             2         38                                   84                135
+           7:15   AM       21                                             5         44                                   98                168
+           7:30   AM       29                                             8         59                                  129                225
+           7:45   AM       32                                             3         43                                  137                215
+           8:00   AM       29                                             11        38                                  152                230
+           8:15   AM       41                                             9         52                                  158                260
+           8:30   AM       45                                             13        56                                  157                271
+           8:45   AM       36                                             9         41                                  165                251
+           9:00   AM       40                                             8         44                                  164                256
+           9:15   AM       35                                             6         29                                  171                241
+           9:30   AM       37                                             11        47                                  134                229
+           9:45   AM       22                                             15        32                                  162                231
+
+                           NL    NT           NR          SL       ST      SR       EL     ET          ER       WL       WT      WR      TOTAL
+    TOTAL VOLUMES :   378         0            0          0         0     100      523      0           0        0      1711      0       2712
+     APPROACH %'s : 100.00%     0.00%         0.00%      0.00%    0.00% 100.00% 100.00%   0.00%       0.00%     0.00% 100.00%    0.00%
+                     nb a     nb d                    sb a     sb d             eb a    eb d                  wb a    nb d
+PEAK HR START TIME :      815 AM                                                                                                         TOTAL
+
+       PEAK HR VOL :      162        0         0         0       0        39        193      0        0         0      644       0         1038
+
+   PEAK HR FACTOR :                0.900                       0.750                        0.862                      0.976               0.958
+
+          CONTROL :
+                                    Intersection Turning Movement
+                                                               Prepared by:
+                                            National Data & Surveying Services
+          Project ID: CA12_5218_102                                                                                     Day: THURSDAY
+
+                  City: City of Hollywood                                                                               Date: 05/24/2012
+                                                                               PM
+     NS/EW Streets:              Argyle Ave                  Argyle Ave              US-101 NB On-ramp           US-101 NB On-ramp
+                                NORTHBOUND                   SOUTHBOUND                   EASTBOUND                  WESTBOUND
+
+                           NL        NT       NR        SL       ST       SR        EL       ET       ER        WL      WT       WR      TOTAL
+     LANES:
+
+           3:00   PM       77                                             10        52                                  162                301
+           3:15   PM       80                                             9         50                                  167                306
+           3:30   PM       77                                             5         63                                  148                293
+           3:45   PM       80                                             6         50                                  135                271
+           4:00   PM       87                                             13        52                                  131                283
+           4:15   PM      116                                             5         49                                  140                310
+           4:30   PM      109                                             15        49                                  125                298
+           4:45   PM      121                                             8         51                                  116                296
+           5:00   PM      128                                             6         47                                  147                328
+           5:15   PM      131                                             3         46                                  158                338
+           5:30   PM      135                                             7         40                                  111                293
+           5:45   PM      123                                             8         50                                  119                300
+
+                           NL    NT           NR          SL       ST      SR       EL     ET          ER       WL       WT      WR      TOTAL
+    TOTAL VOLUMES :   1264        0            0          0         0      95      599      0           0        0      1659      0       3617
+     APPROACH %'s : 100.00%     0.00%         0.00%      0.00%    0.00% 100.00% 100.00%   0.00%       0.00%     0.00% 100.00%    0.00%
+                     nb a     nb d                    sb a     sb d             eb a    eb d                  wb a    nb d
+PEAK HR START TIME :      430 PM                                                                                                         TOTAL
+
+       PEAK HR VOL :      489        0         0         0       0        32        193      0        0         0      546       0         1260
+
+   PEAK HR FACTOR :                0.933                       0.533                        0.946                      0.864               0.932
+
+          CONTROL :
+

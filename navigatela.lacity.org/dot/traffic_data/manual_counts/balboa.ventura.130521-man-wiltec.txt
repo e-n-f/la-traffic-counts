@@ -1,0 +1,391 @@
+                     City Of Los Angeles
+                     Department Of Transportation
+                     MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South          BALBOA BOULEVARD
+
+East/West            VENTURA BOULEVARD
+
+Day:        TUESDAY                   Date:         MAY 21, 2013         Weather:          CLEAR
+
+Hours:      7-10AM 3-6PM
+
+School Day:          YES              District:             0              I/S CODE                  0
+
+
+                      N/B                          S/B                     E/B                     W/B
+DUAL-
+WHEELED                    0                        0                        0                       0
+BIKES                      0                        0                        0                       0
+BUSES                      0                        0                        0                       0
+
+
+                      N/B TIME                     S/B TIME                E/B TIME                W/B TIME
+
+AM PK 15 MIN          101      8.30               325 8.15                 598      7.15           273     9.45
+
+PM PK 15 MIN          103      5.00               213 5.00                 407      3.30           529     5.15
+
+AM PK HOUR            347      8.00               1169 8.15               2218      7.15           1001    9.00
+
+PM PK HOUR            308      5.00               838 3.00                1376      3.00           2061    5.00
+
+
+
+NORTHBOUND Approach                                      SOUTHBOUND Approach                              TOTAL       XING S/L          XING N/L
+
+Hours         Lt      Th       Rt Total                  Hours     Lt     Th        Rt Total               N-S          Ped Sch           Ped    Sch
+7-8              7     129     139   275                 7-8       434     122      158   714               989           0   0             0      0
+8-9             14     155     178   347                 8-9       564     245      353 1162               1509           0   0             0      0
+9-10            11     108     119   238                 9-10      468     185      364 1017               1255           0   0             0      0
+3-4             25     134      87   246                 3-4       366     114      358   838              1084           0   0             0      0
+4-5             24     145      72   241                 4-5       306     112      338   756               997           0   0             0      0
+5-6             33     197      78   308                 5-6       288     100      373   761              1069           0   0             0      0
+
+TOTAL         114     868      673      1655             TOTAL    2426     878 1944         5248           6903            0     0          0     0
+
+
+EASTBOUND Approach                                       WESTBOUND Approach                               TOTAL       XING W/L          XING E/L
+
+Hours         Lt     Th        Rt Total                  Hours     Lt  Th           Rt Total              E-W           Ped Sch           Ped    Sch
+7-8           173    2025       15 2213                  7-8        40 462          175   677              2890           0   0             0      0
+8-9           182    1836       23 2041                  8-9        80 617          218   915              2956           0   0             0      0
+9-10          213    1237       32 1482                  9-10       72 649          280 1001               2483           0   0             0      0
+3-4           340    1029        7 1376                  3-4        87 1181         438 1706               3082           0   0             0      0
+4-5           292     974       19 1285                  4-5       109 1317         420 1846               3131           0   0             0      0
+5-6           306     937       18 1261                  5-6       110 1526         425 2061               3322           0   0             0      0
+
+TOTAL         1506 8038        114      9658             TOTAL     498 5752 1956            8206          17864            0     0          0     0
+
+            (Rev Oct 06)
+
+
+                                                                                                                  City of Los Angeles                  ****
+                                                                                                                  Department of Transportation         ****
+                                                                 FETSIM COUNT SHEET                               (R 3-89)                             ****
+                    City Of Los Angeles
+                    Department Of Transportation
+                    MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South         LANKERSHIM BOULEVARD
+
+East/West           VENTURA BOULEVARD
+
+Day:        WEDNESDAY                 Date:          MAY 15, 2013         Weather:          CLEAR
+
+Hours:      7-10AM 3-6PM
+
+School Day:         YES               District:              0              I/S CODE                   0
+
+
+                     N/B                           S/B                      E/B                     W/B
+DUAL-
+WHEELED                    0                         0                        0                        0
+BIKES                      0                         0                        0                        0
+BUSES                      0                         0                        0                        0
+
+
+                     N/B TIME                      S/B TIME                 E/B TIME                W/B TIME
+
+AM PK 15 MIN           77      8.30                458    8.00              466      8.30            201    9.30
+
+PM PK 15 MIN           58      5.00                351    5.00              268      4.30            345    5.30
+
+AM PK HOUR            207      8.30               1650    7.45             1375      8.00            724    8.45
+
+PM PK HOUR            201      4.15               1319    5.00              899      4.30           1214    5.00
+
+
+
+NORTHBOUND Approach                                      SOUTHBOUND Approach                               TOTAL       XING S/L           XING N/L
+
+Hours         Lt     Th        Rt Total                  Hours     Lt      Th        Rt Total               N-S          Ped Sch           Ped    Sch
+7-8            23      62       58   143                 7-8       714       85      544 1343               1486           0   0             0      0
+8-9            28      99       63   190                 8-9       838      100      650 1588               1778           0   0             0      0
+9-10           31      91       64   186                 9-10      506       66      448 1020               1206           0   0             0      0
+3-4            38      87       54   179                 3-4       436       73      405   914              1093           0   0             0      0
+4-5            38      99       45   182                 4-5       440       81      463   984              1166           0   0             0      0
+5-6            25     101       50   176                 5-6       554      104      661 1319               1495           0   0             0      0
+
+TOTAL         183     539      334      1056             TOTAL    3488      509      3171    7168           8224            0      0          0    0
+
+
+EASTBOUND Approach                                       WESTBOUND Approach                                TOTAL       XING W/L           XING E/L
+
+Hours         Lt  Th           Rt Total                  Hours     Lt      Th        Rt Total              E-W           Ped Sch           Ped    Sch
+7-8            55  834          13   902                 7-8        11      147      205   363              1265           0   0             0      0
+8-9            80 1275          20 1375                  8-9        26      236      298   560              1935           0   0             0      0
+9-10           81  787          13   881                 9-10       37      272      406   715              1596           0   0             0      0
+3-4           105  681          21   807                 3-4        29      450      411   890              1697           0   0             0      0
+4-5           115  738          15   868                 4-5        42      508      460 1010               1878           0   0             0      0
+5-6           118  721          15   854                 5-6        32      632      550 1214               2068           0   0             0      0
+
+TOTAL         554    5036       97      5687             TOTAL      177    2245      2330    4752          10439            0      0          0    0
+
+            (Rev Oct 06)
+
+
+                                                                                                                   City of Los Angeles                  ****
+                                                                                                                   Department of Transportation         ****
+                                                                 FETSIM COUNT SHEET                                (R 3-89)                             ****
+                     City Of Los Angeles
+                     Department Of Transportation
+                     MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South          LAUREL CANYON BOULEVARD
+
+East/West            VENTURA BOULEVARD
+
+Day:        WEDNESDAY                 Date:          MAY 15, 2013         Weather:          CLEAR
+
+Hours:      7-10AM 3-6PM
+
+School Day:          YES              District:              0              I/S CODE                   0
+
+
+                      N/B                          S/B                      E/B                     W/B
+DUAL-
+WHEELED                    0                         0                        0                        0
+BIKES                      0                         0                        0                        0
+BUSES                      0                         0                        0                        0
+
+
+                      N/B TIME                     S/B TIME                 E/B TIME                W/B TIME
+
+AM PK 15 MIN           377     9.00                382    7.00              308      8.00            219    9.45
+
+PM PK 15 MIN           510     5.00                357    3.30              415      5.45            279    5.00
+
+AM PK HOUR            1349     7.45               1361    7.45             1192      7.45            749    8.00
+
+PM PK HOUR            1732     4.15               1338    3.30             1232      5.00           1036    5.00
+
+
+
+NORTHBOUND Approach                                      SOUTHBOUND Approach                               TOTAL       XING S/L           XING N/L
+
+Hours         Lt      Th       Rt Total                  Hours     Lt  Th            Rt Total               N-S          Ped Sch           Ped    Sch
+7-8           213      634     170 1017                  7-8        78 1143          127 1348               2365           0   0             0      0
+8-9           281      753     234 1268                  8-9       162 1005          160 1327               2595           0   0             0      0
+9-10          310      812     213 1335                  9-10      147  888          188 1223               2558           0   0             0      0
+3-4           296      776     214 1286                  3-4       188  626          225 1039               2325           0   0             0      0
+4-5           424      996     218 1638                  4-5       184  822          240 1246               2884           0   0             0      0
+5-6           391      966     208 1565                  5-6       210  778          234 1222               2787           0   0             0      0
+
+TOTAL         1915    4937     1257     8109             TOTAL      969    5262      1174    7405          15514            0      0          0    0
+
+
+EASTBOUND Approach                                       WESTBOUND Approach                                TOTAL       XING W/L           XING E/L
+
+Hours         Lt      Th       Rt Total                  Hours     Lt      Th        Rt Total              E-W           Ped Sch           Ped    Sch
+7-8            69      547     317   933                 7-8       290      337       13   640              1573           0   0             0      0
+8-9           153      761     268 1182                  8-9       229      489       31   749              1931           0   0             0      0
+9-10          151      599     181   931                 9-10      220      495       22   737              1668           0   0             0      0
+3-4           153      541     124   818                 3-4       188      506       35   729              1547           0   0             0      0
+4-5           190      715     204 1109                  4-5       220      699       57   976              2085           0   0             0      0
+5-6           329      690     213 1232                  5-6       242      742       52 1036               2268           0   0             0      0
+
+TOTAL         1045    3853     1307     6205             TOTAL    1389     3268       210    4867          11072            0      0          0    0
+
+            (Rev Oct 06)
+
+
+                                                                                                                   City of Los Angeles                  ****
+                                                                                                                   Department of Transportation         ****
+                                                                 FETSIM COUNT SHEET                                (R 3-89)                             ****
+                     City Of Los Angeles
+                     Department Of Transportation
+                     MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South          RESEDA BOULEVARD
+
+East/West            VENTURA BOULEVARD
+
+Day:        TUESDAY                   Date:         MAY 21, 2013         Weather:          CLEAR
+
+Hours:      7-10AM 3-6PM
+
+School Day:          YES              District:             0              I/S CODE                   0
+
+
+                      N/B                         S/B                      E/B                     W/B
+DUAL-
+WHEELED                    0                        0                        0                        0
+BIKES                      0                        0                        0                        0
+BUSES                      0                        0                        0                        0
+
+
+                      N/B TIME                    S/B TIME                 E/B TIME                W/B TIME
+
+AM PK 15 MIN           176     7.45               218    7.45              563      8.00            267    7.30
+
+PM PK 15 MIN           149     3.00               273    4.45              364      3.30            404    5.45
+
+AM PK HOUR             627     7.15               752    7.30             2068      7.15            981    7.30
+
+PM PK HOUR             517     3.00               930    4.00             1310      3.00           1571    5.00
+
+
+
+NORTHBOUND Approach                                     SOUTHBOUND Approach                               TOTAL       XING S/L           XING N/L
+
+Hours         Lt      Th       Rt Total                 Hours     Lt      Th        Rt Total               N-S          Ped Sch           Ped    Sch
+7-8            58      403     148   609                7-8       209      332      127   668              1277           0   0             0      0
+8-9            63      342     122   527                8-9       242      305      150   697              1224           0   0             0      0
+9-10           59      274     113   446                9-10      263      242      230   735              1181           0   0             0      0
+3-4            75      357      85   517                3-4       221      317      253   791              1308           0   0             0      0
+4-5            90      322      73   485                4-5       262      360      308   930              1415           0   0             0      0
+5-6            62      338      82   482                5-6       246      337      264   847              1329           0   0             0      0
+
+TOTAL          407    2036     623      3066            TOTAL    1443     1893      1332    4668           7734            0      0          0    0
+
+
+EASTBOUND Approach                                      WESTBOUND Approach                                TOTAL       XING W/L           XING E/L
+
+Hours         Lt      Th       Rt Total                 Hours     Lt  Th            Rt Total              E-W           Ped Sch           Ped    Sch
+7-8           157     1768      16 1941                 7-8       121  543          104   768              2709           0   0             0      0
+8-9           185     1604      42 1831                 8-9        74  608          168   850              2681           0   0             0      0
+9-10          166      986      44 1196                 9-10       67  544          206   817              2013           0   0             0      0
+3-4           224     1045      41 1310                 3-4       118  921          320 1359               2669           0   0             0      0
+4-5           230      910      32 1172                 4-5       128  929          309 1366               2538           0   0             0      0
+5-6           193      996      29 1218                 5-6       122 1112          337 1571               2789           0   0             0      0
+
+TOTAL         1155    7309     204      8668            TOTAL      630    4657      1444    6731          15399            0      0          0    0
+
+            (Rev Oct 06)
+
+
+                                                                                                                  City of Los Angeles                  ****
+                                                                                                                  Department of Transportation         ****
+                                                                FETSIM COUNT SHEET                                (R 3-89)                             ****
+                     City Of Los Angeles
+                     Department Of Transportation
+                     MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South          SEPULVEDA BOULEVARD
+
+East/West            VENTURA BOULEVARD
+
+Day:        WEDNESDAY                 Date:          MAY 15, 2013        Weather:          CLEAR
+
+Hours:      7-10AM 3-6PM
+
+School Day:          YES              District:              0             I/S CODE                   0
+
+
+                      N/B                          S/B                     E/B                     W/B
+DUAL-
+WHEELED                    0                         0                       0                        0
+BIKES                      0                         0                       0                        0
+BUSES                      0                         0                       0                        0
+
+
+                      N/B TIME                     S/B TIME                E/B TIME                W/B TIME
+
+AM PK 15 MIN           291     8.15                459    9.00             375      7.30            439    7.45
+
+PM PK 15 MIN           534     5.00                334    5.45             558      5.15            419    4.30
+
+AM PK HOUR            1017     8.45               1565    8.45            1385      9.00           1586    7.30
+
+PM PK HOUR            1893     4.15               1227    5.00            2059      4.30           1546    4.30
+
+
+
+NORTHBOUND Approach                                      SOUTHBOUND Approach                              TOTAL       XING S/L           XING N/L
+
+Hours         Lt      Th       Rt Total                  Hours     Lt     Th        Rt Total               N-S          Ped Sch           Ped    Sch
+7-8           280      276     151   707                 7-8       203     619      275 1097               1804           0   0             0      0
+8-9           365      341     208   914                 8-9       245     676      410 1331               2245           0   0             0      0
+9-10          376      360     270 1006                  9-10      248     801      483 1532               2538           0   0             0      0
+3-4           425      712     323 1460                  3-4       208     386      471 1065               2525           0   0             0      0
+4-5           499      971     276 1746                  4-5       207     452      518 1177               2923           0   0             0      0
+5-6           549      968     239 1756                  5-6       173     549      505 1227               2983           0   0             0      0
+
+TOTAL         2494    3628     1467     7589             TOTAL    1284    3483      2662    7429          15018            0      0          0    0
+
+
+EASTBOUND Approach                                       WESTBOUND Approach                               TOTAL       XING W/L           XING E/L
+
+Hours         Lt      Th       Rt Total                  Hours     Lt     Th        Rt Total              E-W           Ped Sch           Ped    Sch
+7-8           271      706     238 1215                  7-8       478    1032       47 1557               2772           0   0             0      0
+8-9           276      740     263 1279                  8-9       304    1003       76 1383               2662           0   0             0      0
+9-10          363      749     273 1385                  9-10      328     874      109 1311               2696           0   0             0      0
+3-4           555      945     223 1723                  3-4       245     924      158 1327               3050           0   0             0      0
+4-5           643     1219     183 2045                  4-5       236    1049      215 1500               3545           0   0             0      0
+5-6           599     1213     211 2023                  5-6       273    1067      183 1523               3546           0   0             0      0
+
+TOTAL         2707    5572     1391     9670             TOTAL    1864    5949       788    8601          18271            0      0          0    0
+
+            (Rev Oct 06)
+
+
+                                                                                                                  City of Los Angeles                  ****
+                                                                                                                  Department of Transportation         ****
+                                                                 FETSIM COUNT SHEET                               (R 3-89)                             ****
+                     City Of Los Angeles
+                     Department Of Transportation
+                     MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South          VENTURA BOULEVARD
+
+East/West            WINNETKA AVENUE
+
+Day:        TUESDAY                   Date:          MAY 21, 2013         Weather:          CLEAR
+
+Hours:      7-10AM 3-6PM
+
+School Day:          YES              District:              0              I/S CODE                   0
+
+
+                      N/B                          S/B                      E/B                     W/B
+DUAL-
+WHEELED                    0                         0                        0                        0
+BIKES                      0                         0                        0                        0
+BUSES                      0                         0                        0                        0
+
+
+                      N/B TIME                     S/B TIME                 E/B TIME                W/B TIME
+
+AM PK 15 MIN           114     8.30                287    7.30              397      8.00            286    8.00
+
+PM PK 15 MIN           127     4.00                274    3.15              413      5.00            328    3.30
+
+AM PK HOUR             421     7.15               1124    7.15             1457      7.15           1102    7.30
+
+PM PK HOUR             461     3.15                894    3.00             1601      5.00           1167    3.15
+
+
+
+NORTHBOUND Approach                                      SOUTHBOUND Approach                               TOTAL       XING S/L           XING N/L
+
+Hours         Lt      Th       Rt Total                  Hours     Lt      Th        Rt Total               N-S          Ped Sch           Ped    Sch
+7-8            66      285      37   388                 7-8       468      357      234 1059               1447           0   0             0      0
+8-9            83      270      37   390                 8-9       421      213      328   962              1352           0   0             0      0
+9-10           66      218      56   340                 9-10      361      138      238   737              1077           0   0             0      0
+3-4            70      325      36   431                 3-4       347      337      210   894              1325           0   0             0      0
+4-5            90      294      56   440                 4-5       315      282      201   798              1238           0   0             0      0
+5-6            83      290      55   428                 5-6       312      230      202   744              1172           0   0             0      0
+
+TOTAL          458    1682     277      2417             TOTAL    2224     1557      1413    5194           7611            0      0          0    0
+
+
+EASTBOUND Approach                                       WESTBOUND Approach                                TOTAL       XING W/L           XING E/L
+
+Hours         Lt      Th       Rt Total                  Hours     Lt      Th        Rt Total              E-W           Ped Sch           Ped    Sch
+7-8           178     1039      42 1259                  7-8       106      577      152   835              2094           0   0             0      0
+8-9           156     1075      60 1291                  8-9        55      714      187   956              2247           0   0             0      0
+9-10          130      675      60   865                 9-10       35      517      147   699              1564           0   0             0      0
+3-4           280      957      92 1329                  3-4        57      773      335 1165               2494           0   0             0      0
+4-5           235      887      95 1217                  4-5        47      702      306 1055               2272           0   0             0      0
+5-6           307     1182     112 1601                  5-6        61      740      312 1113               2714           0   0             0      0
+
+TOTAL         1286    5815     461      7562             TOTAL      361    4023      1439    5823          13385            0      0          0    0
+
+            (Rev Oct 06)
+
+
+                                                                                                                   City of Los Angeles                  ****
+                                                                                                                   Department of Transportation         ****
+                                                                 FETSIM COUNT SHEET                                (R 3-89)                             ****
+

@@ -1,0 +1,413 @@
+                                   INTERSECTION TURNING MOVEMENT COUNTS
+                                                PREPARED BY: PACIFIC TRAFFIC DATA SERVICES
+        DATE:         LOCATION:                    LOS ANGELES                                     PROJECT #:        CA10-0910-01
+        9/8/10        NORTH & SOUTH:               BROADWAY                                        LOCATION #:       6
+      WEDNESDAY       EAST & WEST:                 11TH                                            CONTROL:          SIGNAL
+                      NOTES:                                                                                 AM                Y
+         ALL                                                                                                 PM                N
+       CLASSES                                                                                               MD       W               E
+                                                                                                            OTHER              S
+                                                                                                            OTHER              
+                             NORTHBOUND                   SOUTHBOUND                  EASTBOUND                   WESTBOUND                            U-TURNS
+                               BROADWAY                     BROADWAY                       11TH                        11TH
+                        NL       NT        NR        SL        ST       SR       EL        ET        ER      WL        WT      WR     TOTAL   NB   SB    EB   WB   TTL
+            LANES:      1         2         X        X          2        0       X          X         X      0          2       0
+         7:00 AM        8         90     0           0         69        5        0         0        0       11        19      3       205    0    21    0    0     21
+         7:15 AM        13       116     1           0         78        10       0         0        0       12        38      4       272    0    27    0    0     27
+         7:30 AM        15       100     0           0         81        12       0         0        0       7         37      5       257    0    22    0    0     22
+         7:45 AM        20       131     1           0         80        6        0         0        0       12        40      8       298    0    24    0    0     24
+         8:00 AM        14       158     0           0         72        4        0         0        0       13        46      5       312    0    22    0    0     22
+         8:15 AM        12       149     0           0         80        4        0         0        0       12        39      4       300    0    18    0    0     18
+         8:30 AM        13       178     1           0         94        7        0         0        0       7         46      6       352    0    20    0    0     20
+         8:45 AM        12       168     0           0         95        9        0         0        0       9         43      5       341    0    25    0    0     25
+AM
+
+
+
+
+     VOLUMES           107      1,090    3           0        649        57       0         0        0       83       308      40     2,337   0    179   0    0    179
+     APPROACH %        9%        91%    0%          0%        92%       8%       0%        0%       0%      19%       71%     9%
+     APP/DEPART       1,200        /   1,130        706         /       732       0          /       3      431         /     472      0
+     BEGIN PEAK HR             8:00 AM
+     VOLUMES           51        653     1           0        341       24        0       0          0       41       174      20     1,305
+     APPROACH %        7%        93%    0%          0%        93%       7%       0%      0%         0%      17%       74%      9%
+     PEAK HR FACTOR             0.918                        0.877                      0.000                        0.918            0.927
+     APP/DEPART        705         /    673         365         /       382       0        /         1      235         /     249       0
+         4:00 PM        16       136     0           0        119        5        0       0          0       11        58      8       353    0    0     0    0    0
+         4:15 PM        18       160     0           0        110        9        0       0          0       3         63      9       372    0    0     0    0    0
+         4:30 PM        12       152     0           0        140        10       0       0          0       7         71      10      402    0    0     0    0    0
+         4:45 PM        16       175     0           0        182        12       0       0          0       11        63      15      474    0    0     0    0    0
+         5:00 PM        21       177     0           0        200        15       0       0          0       9        102      16      540    0    0     0    0    0
+         5:15 PM        9        118     0           0        141        13       0       0          0       3        102      12      398    0    0     0    0    0
+         5:30 PM        18       146     0           0        151        5        0       0          0       11       116      14      461    0    0     0    0    0
+         5:45 PM        14       184     0           0        111        16       0       0          0       6        133      10      474    0    0     0    0    0
+PM
+
+
+
+
+     VOLUMES           124      1,248    0           0       1,154       85       0       0          0       61       708      94     3,474   0    0     0    0    0
+     APPROACH %        9%        91%    0%          0%        93%       7%       0%      0%         0%      7%        82%     11%
+     APP/DEPART       1,372        /   1,342       1,239        /      1,215      0        /         0      863         /     917      0
+     BEGIN PEAK HR             5:00 PM
+     VOLUMES           62        625     0           0        603       49        0       0          0       29       453      52     1,873
+     APPROACH %        9%        91%    0%          0%        92%       8%       0%      0%         0%       5%       85%     10%
+     PEAK HR FACTOR             0.867                        0.758                      0.000                        0.896            0.867
+     APP/DEPART        687         /    677         652         /       632      0         /         0      534         /     564       0
+
+                                                          BROADWAY
+
+                                                           NORTH SIDE
+
+
+                       11TH           WEST SIDE                                EAST SIDE           11TH
+
+
+                                                           SOUTH SIDE
+
+                                                          BROADWAY
+
+                                 PEDESTRIAN + BIKE CROSSINGS                                      PEDESTRIAN CROSSINGS                         BICYCLE CROSSINGS
+                               N SIDE     S SIDE   E SIDE    W SIDE    TOTAL            N SIDE     S SIDE   E SIDE   W SIDE   TOTAL           NS   SS    ES   WS TOTAL
+        7:00 AM                  2         1         0        1         4                  0         0       0         0       0               2   1     0     1   4
+        7:15 AM                  2         0         1        0         3                  0         0       0         0       0               2   0     1     0   3
+        7:30 AM                  2         1         0        0         3                  0         0       0         0       0               2   1     0     0   3
+        7:45 AM                  3         0         2        2         7                  0         0       0         0       0               3   0     2     2   7
+AM
+
+
+
+
+        8:00 AM                  2         1         0        0         3                  0         0       0         0       0               2   1     0     0   3
+        8:15 AM                  1         2         0        3         6                  0         0       0         0       0               1   2     0     3   6
+        8:30 AM                  2         2         0        1         5                  0         0       0         0       0               2   2     0     1   5
+        8:45 AM                  3         1         1        1         6                  0         0       0         0       0               3   1     1     1   6
+         TOTAL                   17        8         4        8         37                 0         0       0         0       0              17   8     4     8   37
+        4:00 PM                  1         3         1        5         10                 0         0       0         0       0               1   3     1     5   10
+        4:15 PM                  2         1         1        2         6                  0         0       0         0       0               2   1     1     2   6
+        4:30 PM                  2         0         0        4         6                  0         0       0         0       0               2   0     0     4   6
+        4:45 PM                  2         1         0        3         6                  0         0       0         0       0               2   1     0     3   6
+PM
+
+
+
+
+        5:00 PM                  3         1         1        2         7                  0         0       0         0       0               3   1     1     2   7
+P
+
+
+
+
+        5:15 PM                  5         0         2        2         9                  0         0       0         0       0               5   0     2     2   9
+        5:30 PM                  1         0         1        2         4                  0         0       0         0       0               1   0     1     2   4
+        5:45 PM                  2         2         0        4         8                  0         0       0         0       0               2   2     0     4   8
+         TOTAL                   18        8         6        24        56                 0         0       0         0       0              18   8     6    24   56
+                                           PACIFIC TRAFFIC DATA SERVICES
+                                              TURNING MOVEMENT COUNTS
+
+                                                     BROADWAY
+                           1,945   142       1,803     0      TOTAL               2,472
+                           1,239    85       1,154     0        PM                1,342
+                            706     57        649      0        AM                1,130
+
+
+
+
+                                                                                                              1,294
+                                                                                                  431
+                                                                                                        863
+       1,389
+
+               917
+                     472
+
+
+
+
+                                                                                                              134
+                                                                                                  40
+                                                                                                        94
+
+                                                                                                              1,016
+                                                                                                  308
+                                                                                                        708
+                                                     LOS ANGELES
+       TOTAL
+
+
+
+
+                                                                                                              144
+                     AM
+               PM
+
+
+
+
+                                                     CA10-0910-01
+
+
+
+
+                                                                                                  83
+                                                                                                        61
+11TH
+
+
+
+
+                                                                                                                      11TH
+                                                                                                              TOTAL
+                                                      ALL HOURS
+
+
+
+
+                                                                                                  AM
+                                                                                                        PM
+       0
+
+               0
+                     0
+       0
+
+               0
+                     0
+       0
+
+               0
+                     0
+
+
+
+
+                                                                                                  3
+                                                                                                        0
+
+                                                                                                              3
+       0
+
+               0
+                     0
+
+
+
+
+                                    732               AM       107      1,090      3      1,200
+                                   1,215              PM       124      1,248      0      1,372
+                                   1,947             TOTAL     231      2,338      3      2,572
+
+                                                     BROADWAY
+
+                                                     BROADWAY
+                           1,017    73        944      0      TOTAL               1,350
+                           652      49        603      0        PM                677
+                           365      24        341      0        AM                673
+                                                                                                  235
+                                                                                                        534
+
+                                                                                                              769
+       813
+
+               564
+                     249
+
+
+
+
+                                                                                                  20
+                                                                                                        52
+
+                                                                                                              72
+                                                                                                  174
+                                                                                                        453
+
+                                                                                                              627
+
+
+
+
+                                                     PEAK HOUR
+       TOTAL
+
+
+
+                     AM
+               PM
+
+
+
+
+                                                                                                  41
+                                                                                                        29
+
+                                                                                                              70
+
+
+
+
+                                                      AM      8:00 AM
+11TH
+
+
+
+
+                                                                                                                      11TH
+
+
+
+
+                                                                        8:45 AM
+                                                                                                              TOTAL
+                                                                                                  AM
+                                                                                                        PM
+       0
+
+               0
+                     0
+
+
+
+
+                                                                        #REF!
+
+                                                      PM      5:00 PM
+       0
+
+               0
+                     0
+
+
+
+
+                                                                        5:45 PM
+       0
+
+               0
+                     0
+
+
+
+
+                                                                                                  1
+                                                                                                        0
+
+                                                                                                              1
+       0
+
+               0
+                     0
+
+
+
+
+                                   382                AM        51       653       1      705
+                                   632                PM        62       625       0      687
+                                   1,014              Total    113      1,278      1      1,392
+
+                                                     BROADWAY
+                                   INTERSECTION TURNING MOVEMENT COUNTS
+                                                PREPARED BY: PACIFIC TRAFFIC DATA SERVICES
+        DATE:         LOCATION:                    LOS ANGELES                                     PROJECT #:         CA10-0910-01
+        9/8/10        NORTH & SOUTH:               BROADWAY                                        LOCATION #:        6
+      WEDNESDAY       EAST & WEST:                 11TH                                            CONTROL:           SIGNAL
+        CLASS 1:      NOTES:                                                                                  AM                Y
+       PASSENGER                                                                                              PM                N
+        VEHICLES                                                                                              MD       W               E
+                                                                                                             OTHER              S
+                                                                                                             OTHER              
+                             NORTHBOUND                   SOUTHBOUND                  EASTBOUND                    WESTBOUND                               U-TURNS
+                               BROADWAY                     BROADWAY                       11TH                         11TH
+                        NL       NT        NR        SL        ST       SR       EL        ET        ER       WL        WT      WR     TOTAL   NB     SB     EB   WB   TTL
+             LANES:     1         2         X        X          2        0       X          X         X       0          2       0
+         7:00 AM         8        78                           57        5                                    10        18      3       179                            0
+         7:15 AM        13       102                           61        9                                     9        37      3       234                            0
+         7:30 AM        14        88                           68       12                                     5        36      4       227                            0
+         7:45 AM        20       119                           66        6                                    11        37      3       262                            0
+         8:00 AM        13       148                           56        4                                    11        43      5       280                            0
+         8:15 AM        12       140                           68        4                                    10        36      2       272                            0
+         8:30 AM        13       168                           81        7                                     5        43      6       323                            0
+         8:45 AM        12       155                           80        8                                     8        39      5       307                            0
+AM
+
+
+
+
+     VOLUMES           105       998     0           0        537       55        0         0         0       69       289     31      2,084   0      0      0    0    0
+     APPROACH %        10%       90%    0%          0%        91%       9%       0%        0%        0%      18%       74%     8%
+     APP/DEPART       1,103        /   1,029        592         /       606       0         /         0      389         /     449      0
+     BEGIN PEAK HR             8:00 AM
+     VOLUMES           50        611     0           0        285       23        0       0           0       34       161      18     1,182
+     APPROACH %        8%        92%    0%          0%        93%       7%       0%      0%          0%      16%       76%      8%
+     PEAK HR FACTOR             0.913                        0.875                      0.000                         0.903            0.915
+     APP/DEPART        661         /    629         308         /       319      0         /          0      213         /     234       0
+         4:00 PM        16       122                          108         5                                  10         57       8      326                            0
+         4:15 PM        17       145                           97         8                                   3         60       9      339                            0
+         4:30 PM        11       137                          123       10                                    7         70       8      366                            0
+         4:45 PM        16       161                          165       11                                   11         58      14      436                            0
+         5:00 PM        19       159                          187       15                                    9         98      16      503                            0
+         5:15 PM         9       105                          126       13                                    2         98      11      364                            0
+         5:30 PM        18       128                          137         5                                  11        110      14      423                            0
+         5:45 PM        14       166                           96       15                                    6        126      10      433                            0
+PM
+
+
+
+
+     VOLUMES           120      1,123    0           0       1,039       82       0         0         0      59        677      90     3,190   0      0      0    0    0
+     APPROACH %        10%       90%    0%          0%        93%       7%       0%        0%        0%      7%        82%     11%
+     APP/DEPART       1,243        /   1,213       1,121        /      1,098      0         /         0      826         /     879      0
+     BEGIN PEAK HR             4:45 PM
+     VOLUMES            62       553     0           0        615       44        0       0           0       33       364      55     1,726
+     APPROACH %        10%       90%    0%          0%        93%       7%       0%      0%          0%       7%       81%     12%
+     PEAK HR FACTOR             0.864                        0.816                      0.000                         0.837            0.858
+     APP/DEPART        615         /    608         659         /       648      0         /          0      452         /     470       0
+
+                                                          BROADWAY
+
+                                                           NORTH SIDE
+
+
+                       11TH           WEST SIDE                                EAST SIDE           11TH
+
+
+                                                           SOUTH SIDE
+
+                                                          BROADWAY
+
+                                        PEDESTRIAN CROSSINGS                                      PEDESTRIAN ACTIVATIONS                           BICYCLE CROSSINGS
+                               N SIDE     S SIDE   E SIDE    W SIDE    TOTAL            N SIDE      S SIDE   E SIDE   W SIDE   TOTAL           NS     SS     ES   WS TOTAL
+        7:00 AM                 30        33        27        12        102                                                     0               2     1      0     1    4
+        7:15 AM                 73        53        64        37        227                                                     0               2     0      1     0    3
+        7:30 AM                 96        63        84        40        283                                                     0               2     1      0     0    3
+        7:45 AM                 86        61        84        35        266                                                     0               3     0      2     2    7
+AM
+
+
+
+
+        8:00 AM                 62        44        35        30        171                                                     0               2     1      0    0     3
+A
+
+
+
+
+        8:15 AM                 45        19        35        14        113                                                     0               1     2      0     3    6
+        8:30 AM                 39        45        17        12        113                                                     0               2     2      0     1    5
+        8:45 AM                 50        26        14        11        101                                                     0               3     1      1     1    6
+         TOTAL                  481       344       360       191      1,376               0          0        0        0       0              17     8      4     8   37
+        4:00 PM                 78        54        71        31        234                                                     0               1     3      1     5   10
+        4:15 PM                 38        32        49        14        133                                                     0               2     1      1     2    6
+        4:30 PM                 48        42        68        26        184                                                     0               2     0      0     4    6
+        4:45 PM                 41        31        43        19        134                                                     0               2     1      0     3    6
+PM
+
+
+
+
+        5:00 PM                 50        39        39        13        141                                                     0               3     1      1     2    7
+        5:15 PM                 21        21        32         9        83                                                      0               5     0      2    2     9
+        5:30 PM                 13        13        25        14        65                                                      0               1     0      1     2    4
+        5:45 PM                 20        15        16         7        58                                                      0               2     2      0     4    8
+         TOTAL                  309       247       343       133      1,032               0          0        0        0       0              18     8      6    24   56
+

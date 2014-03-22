@@ -1,0 +1,58 @@
+ACCUTEK                          TRAFFIC COUNT SUMMARY
+
+STREET:
+North/South       BUNDY DR.
+
+East/West         OCEAN PARK BLVD.
+
+Day:    THURSDAY                      Date:       11-7-1996                 Weather:          SUNNY
+
+Hours: 7-10 AM 3-6 PM                 FILE:       AM002
+
+School Day:       YES                 District:           WEST L.A.
+
+
+                    N/B                             S/B                        E/B                    W/B
+DUAL-
+WHEELED             162                             98                         62                     24
+BIKES                19                             12                          8                     24
+BUSES                49                             40                         66                     47
+
+
+                    N/B TIME                        S/B TIME                   E/B TIME               W/B     TIME
+
+AM PK 15 MIN        660   8:00                     322     8:45               246      8:45           182      8:45
+
+PM PK 15 MIN        396   3:15                     497     5:30               356      5:00           497      5:30
+
+AM PK HOUR         2507   8:00                    1240     8:00               948      8:00           672      8:00
+
+PM PK HOUR         1541   3:00                    1921     5:00              1211      5:00           670      5:00
+
+
+
+NORTHBOUND Approach                                       SOUTHBOUND Approach                               TOTAL     XING S/L       XING N/L
+
+Hours       Lt      Th    Rt          Total               Hours       Lt      Th       Rt     Total          N-S      Ped   Sch      Ped   Sch
+7-8         364    1405   279          2048               7-8          16     668      209      893          2941      4     0       23     2
+8-9         478    1747   282          2507               8-9          32     852      356     1240          3747      1     0        6     1
+9-10        389    1301   175          1865               9-10         23     732      362     1117          2982      3     0        8     0
+3-4         292    1078   171          1541               3-4          50    1305      166     1521          3062      1     1       10    10
+4-5         262     996   173          1431               4-5          49    1523      201     1773          3204      4     1       13     2
+5-6         225     912   302          1439               5-6          55    1690      176     1921          3360      8     1       34     5
+
+TOTAL 2010         7439 1382           10831              TOTAL       225    6770 1470         8465          19296     21        3    94    20
+
+
+EASTBOUND Approach                                        WESTBOUND Approach                                TOTAL     XING W/L       XING E/L
+
+Hours       Lt     Th     Rt          Total               Hours       Lt      Th       Rt     Total          E-W      Ped   Sch      Ped   Sch
+7-8          28    347    158           533               7-8          56     377       42      475           1008     7     9        5     6
+8-9          67    567    314           948               8-9          62     577       33      672           1620     9     3        2     0
+9-10         96    389    296           781               9-10         61     361       38      460           1241     6     1        0     0
+3-4          97    366    439           902               3-4         107     371       38      516           1418    13     8        1     0
+4-5         119    454    533          1106               4-5         114     445       30      589           1695     6     5        7     0
+5-6         129    544    538          1211               5-6          91     540       39      670           1881    10     5       30     0
+
+TOTAL       536    2667 2278           5481               TOTAL       491    2671      220     3382          8863      51    31       45        6
+

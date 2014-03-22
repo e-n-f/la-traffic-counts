@@ -1,0 +1,61 @@
+ACCUTEK                          TRAFFIC COUNT SUMMARY
+
+STREET:
+North/South       WESTWOOD BLVD.
+
+East/West         OLYMPIC BLVD.
+
+Day:    WEDNESDAY                     Date:       11-20-1996                Weather:          CLEAR
+
+Hours: 7-10 AM 3-6 PM                 FILE:       AM027
+
+School Day:       YES                 District:           WEST L.A.
+
+
+                    N/B                             S/B                        E/B                     W/B
+DUAL-
+WHEELED              93                            102                        217                      205
+BIKES                 7                              9                         10                       27
+BUSES                84                             74                         62                       56
+
+
+                    N/B TIME                        S/B TIME                   E/B TIME                W/B     TIME
+
+AM PK 15 MIN        349   8:45                     210     7:45               761      8:45           628       8:15
+
+PM PK 15 MIN        254   3:45                     389     5:15               581      5:45           908       5:45
+
+AM PK HOUR         1253   8:00                     171     9:00              2676      8:00           2396      8:00
+
+PM PK HOUR          968   3:00                    1448     5:00              2283      5:00           3374      5:00
+
+
+
+NORTHBOUND Approach                                       SOUTHBOUND Approach                                TOTAL     XING S/L    XING N/L
+
+Hours       Lt     Th     Rt          Total               Hours       Lt      Th       Rt     Total           N-S      Ped   Sch   Ped   Sch
+7-8          69    744     72           885               7-8          64     371       68      503           1388     21     1     6     1
+8-9         126    980    147          1253               8-9          95     506      106      707           1960     20     1     3     0
+9-10         83    701    141           925               9-10        122     489      106      717           1642     20     1    10     0
+3-4          89    719    160           968               3-4         125    1092      165     1382           2350     15     7     7     0
+4-5          83    709    108           900               4-5         160    1110      144     1414           2314     14     4    10     3
+5-6          83    744    110           937               5-6         135    1183      130     1448           2385     11     0     7     0
+
+TOTAL       533    4597   738           5868              TOTAL       701    4751      719     6171           12039    101    14    43        4
+
+
+EASTBOUND Approach                                        WESTBOUND Approach                                 TOTAL     XING W/L    XING E/L
+
+Hours       Lt      Th    Rt          Total               Hours       Lt      Th       Rt     Total           E-W      Ped   Sch   Ped   Sch
+7-8          85    1320    76          1481               7-8          37    1527       92     1656            3137    17     5     3     1
+8-9         117    2401   158          2676               8-9          53    2203      140     2396            5072    25     2     9     2
+9-10        113    2129   135          2377               9-10         57    1901      126     2084            4461    30     4    10     0
+3-4         120    1669    91          1880               3-4          80    2167      174     2421            4301    50    15    20     6
+4-5         117    1920   117          2154               4-5          79    2226      214     2519            4673    32     6    19     4
+5-6         103    2076   104          2283               5-6          94    3060      220     3374            5657    42     4     8     1
+
+TOTAL       655 11515     681          12851              TOTAL       400 13084        966    14450           27301    196    36    69    14
+
+
+                                                                                                              39340
+

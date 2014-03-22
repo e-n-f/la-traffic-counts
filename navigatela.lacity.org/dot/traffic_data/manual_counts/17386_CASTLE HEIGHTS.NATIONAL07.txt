@@ -1,0 +1,61 @@
+                    City Of Los Angeles
+                    Department Of Transportation
+                    MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South         CASTLE HIGHTS AV
+
+East/West           NATIONAL BL
+
+Day:        TUESDAY                Date:       OCTOBER 16, 2007         Weather:          SUNNY
+
+Hours:      7-10AM 3-6PM
+
+School Day:         YES            District:          WR                  I/S CODE 17386                        CASNAT207
+
+
+                     N/B                        S/B                       E/B                     W/B
+DUAL-
+WHEELED                15                        30                        48                      99
+BIKES                  15                         1                        15                       7
+BUSES                   0                         0                        34                      48
+
+
+                     N/B TIME                   S/B TIME                  E/B TIME                W/B TIME
+
+AM PK 15 MIN           99   8.00                148    7.45               374      8.45           265    7.45
+
+PM PK 15 MIN           32   4.30                204    5.30               320      5.30           190    5.45
+
+AM PK HOUR           315    8.00                503    7.30              1286      8.00           998    7.30
+
+PM PK HOUR           118    5.00                761    5.00              1138      5.00           671    5.00
+
+
+
+NORTHBOUND Approach                                   SOUTHBOUND Approach                               TOTAL     XING S/L      XING N/L
+
+Hours         Lt     Th     Rt Total                  Hours       Lt     Th        Rt Total              N-S       Ped Sch       Ped   Sch
+7-8            55      89    11   155                 7-8          85     23       220   328              483       11   0         6     8
+8-9            88     208    19   315                 8-9         121     38       283   442              757        4   0        10     4
+9-10           33      54    15   102                 9-10         63     21       208   292              394       10   0         8     0
+3-4            37      37    19     93                3-4         219     36       246   501              594       23   0         8     1
+4-5            37      38    16     91                4-5         210     55       308   573              664       21   0         7     0
+5-6            48      44    26   118                 5-6         216     98       447   761              879       10   0         8     0
+
+TOTAL         298    470    106        874            TOTAL       914     271 1712         2897          3771       79      0     47   13
+
+
+EASTBOUND Approach                                    WESTBOUND Approach                                TOTAL     XING W/L      XING E/L
+
+Hours         Lt     Th     Rt Total                  Hours       Lt     Th        Rt Total             E-W        Ped Sch       Ped   Sch
+7-8           173     568    16   757                 7-8           8     769       75   852             1609        8   0        11     3
+8-9           284     964    38 1286                  8-9          10     852       90   952             2238       20   0        19     1
+9-10          304     615    12   931                 9-10         13     630      110   753             1684        8   0        16     0
+3-4           221     759    19   999                 3-4          21     462       63   546             1545       21   2        24     1
+4-5           217     873    20 1110                  4-5          21     486       55   562             1672        8   3        24     0
+5-6           245     845    48 1138                  5-6          17     593       61   671             1809       11   0        15     1
+
+TOTAL         1444 4624     153      6221             TOTAL        90 3792         454     4336         10557       76      5    109    6
+
+            (Rev Oct 06)
+

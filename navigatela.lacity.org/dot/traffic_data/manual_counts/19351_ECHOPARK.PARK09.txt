@@ -1,0 +1,61 @@
+                    City Of Los Angeles
+                    Department Of Transportation
+                    MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South         ECHO PARK AV
+
+East/West           PARK AV
+
+Day:        MONDAY                      Date:         April 13, 2009            Weather:          SUNNY
+
+Hours:      7-10AM 2-5PM                                  Chekrs:   ALAS
+
+School Day:         YES                 District:         HOLLYWOOD               I/S CODE 19351
+
+
+                     N/B                            S/B                           E/B                     W/B
+DUAL-
+WHEELED                20                            33                            10                       0
+BIKES                   3                            16                             3                       0
+BUSES                  38                            40                             0                       0
+
+
+                     N/B TIME                       S/B TIME                      E/B TIME                W/B TIME
+
+AM PK 15 MIN           64      7.30                 134    8.00                    48      7.30             0    7.00
+
+PM PK 15 MIN         138       4.15                 155    4.30                    36      3.15             0    2.00
+
+AM PK HOUR           222       7.00                 477    8.30                   152      7.30             0    7.00
+
+PM PK HOUR           495       4.00                 568    4.00                   121      4.00             0    2.00
+
+
+
+NORTHBOUND Approach                                       SOUTHBOUND Approach                                   TOTAL   XING S/L   XING N/L
+
+Hours         Lt     Th        Rt       Total             Hours        Lt        Th        Rt Total              N-S     Ped Sch    Ped   Sch
+7-8            70     152           0      222            7-8               0     387       17   404              626      1   0     10     2
+8-9            45     112           0      157            8-9               0     448       17   465              622      1   0     10     0
+9-10           49     154           0      203            9-10              0     412       26   438              641      0   0     15     1
+2-3            80     170           0      250            2-3               0     300       24   324              574      1   0     20     0
+3-4           122     198           0      320            3-4               0     341       25   366              686      0   0     23     1
+4-5           181     314           0      495            4-5               0     527       41   568             1063      1   0     14     0
+
+TOTAL         547 1100              0     1647            TOTAL             0 2415          150    2565          4212      4   0     92    4
+
+
+EASTBOUND Approach                                        WESTBOUND Approach                                    TOTAL   XING W/L   XING E/L
+                   PARK AV                                                                NONE
+Hours   Lt    Th    Rt Total                              Hours        Lt        Th        Rt Total             E-W      Ped Sch    Ped   Sch
+7-8       20     0 123    143                             7-8               0         0      0        0           143     30   1      0     0
+8-9       13     0 105    118                             8-9               0         0      0        0           118     49   2      0     0
+9-10      12     0   77     89                            9-10              0         0      0        0            89     56   0      0     0
+2-3       30     0   83   113                             2-3               0         0      0        0           113      9   0      0     0
+3-4       27     0   68     95                            3-4               0         0      0        0            95     19   2      0     0
+4-5       44     0   77   121                             4-5               0         0      0        0           121     19   2      0     0
+
+TOTAL         146          0   533          679           TOTAL             0         0       0       0           679    182   7      0    0
+
+            (Rev Oct 06)
+

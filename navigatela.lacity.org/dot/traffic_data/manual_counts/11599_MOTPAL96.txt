@@ -1,0 +1,62 @@
+ACCUTEK                          TRAFFIC COUNT SUMMARY
+
+STREET:
+North/South       MOTOR AVE.
+
+East/West         PALMS BLVD.
+
+Day:    TUESDAY                       Date:       11-12-1996                Weather:          CLEAR
+
+Hours: 7-10 AM 3-6 PM                 FILE:       AM018
+
+School Day:       YES                 District:           WEST L.A.
+
+
+                    N/B                             S/B                        E/B                     W/B
+DUAL-
+WHEELED              16                             31                         14                      39
+BIKES                 4                             16                         13                      13
+BUSES                41                             31                         49                      25
+
+
+                    N/B TIME                        S/B TIME                   E/B TIME                W/B     TIME
+
+AM PK 15 MIN        399   8:15                     157     8:45               317      7:45            292      7:45
+
+PM PK 15 MIN        195   5:45                     324     5:45               267      5:00           304       5:45
+
+AM PK HOUR         1397   8:00                     545     9:00               988      8:00           838       7:00
+
+PM PK HOUR          738   5:00                    1194     5:00              1016      5:00           1102      5:00
+
+
+
+
+NORTHBOUND Approach                                       SOUTHBOUND Approach                                TOTAL     XING S/L    XING N/L
+
+Hours       Lt      Th    Rt          Total               Hours       Lt      Th       Rt     Total           N-S      Ped   Sch   Ped   Sch
+7-8         187     701    97           985               7-8          48     242       40      330           1315     17     5    27    12
+8-9         168    1082   147          1397               8-9          43     459       41      543           1940     19     2    37     7
+9-10         96     651    96           843               9-10         43     452       50      545           1388      6     0    20     0
+3-4          99     388   100           587               3-4          77     534       71      682           1269     45     4    43    20
+4-5         109     433   109           651               4-5          81     732      116      929           1580     28     6     4     2
+5-6         117     500   121           738               5-6         128     932      134     1194           1932     16     0     2     0
+
+TOTAL       776    3755   670          5201               TOTAL       420    3351      452     4223            9424    131    17   133    41
+
+
+EASTBOUND Approach                                        WESTBOUND Approach                                 TOTAL     XING W/L    XING E/L
+
+Hours       Lt     Th     Rt          Total               Hours       Lt      Th       Rt     Total           E-W      Ped   Sch   Ped   Sch
+7-8          96    675     37           808               7-8          93     702       43      838           1646     42    10    38     7
+8-9         163    738     87           988               8-9         116     606       70      792           1780     53     4    43     0
+9-10        116    462     85           663               9-10        132     440       44      616           1279      6     0    22     0
+3-4         102    587     92           781               3-4         149     657       29      835           1616     34    20    90    18
+4-5         103    609    107           819               4-5         158     702       35      895           1714     48    15    41     7
+5-6         105    799    112          1016               5-6         188     888       26     1102           2118     20     1    20     0
+
+TOTAL       685    3870   520          5075               TOTAL       836    3995      247     5078           10153    203    50   254    32
+
+
+                                                                                                              19577
+

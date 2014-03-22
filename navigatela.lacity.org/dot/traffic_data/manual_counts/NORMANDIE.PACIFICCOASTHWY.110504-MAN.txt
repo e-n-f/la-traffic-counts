@@ -1,0 +1,60 @@
+                       City Of Los Angeles
+                       Department Of Transportation
+                       MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South            Normandie Ave
+
+East/West              Pacific Coast Highway
+
+Day:                 Wednesday           Date:             May 4, 2011                 Weather:            SUNNY
+
+Hours:        7-10AM 3-6PM                                           Chekrs:           NDS
+
+School Day:            YES               District:                                       I/S CODE
+
+
+                          N/B                        S/B                                  E/B                      W/B
+DUAL-
+WHEELED                      0                         0                                     0                        0
+BIKES                        0                         0                                     0                        0
+BUSES                        0                         0                                     0                        0
+
+
+                          N/B    TIME                S/B    TIME                          E/B     TIME             W/B     TIME
+
+AM PK 15 MIN               151    7.45               151      7.45                        499       7.45            571     7.30
+
+PM PK 15 MIN               203   15.30               173     16.45                        465     16.00             456    17.30
+
+AM PK HOUR                 538    7.45               581      7.15                       1879       7.30           1936     7.30
+
+PM PK HOUR                 692   16.30               665     16.45                       1813     15.15            1725    17.00
+
+
+
+
+NORTHBOUND Approach                                        SOUTHBOUND Approach                                            TOTAL    XING S/L        XING N/L
+
+Hours           Lt       Th       Rt     Total             Hours               Lt        Th       Rt    Total              N-S      Ped   Sch       Ped   Sch
+7-8               93      314       48       455           7-8                   91       287      150      528              983     35     3        39     1
+8-9              105      301       80       486           8-9                  113       256      126      495              981     25     0        22     1
+9-10              96      219      128       443           9-10                 128       204        98     430              873     19     3        21     0
+15-16            139      355      154       648           15-16                122       290      156      568             1216     19     3        26     2
+16-17            156      372      136       664           16-17                150       325      141      616             1280     22     4        21     1
+17-18            134      342      137       613           17-18                142       319      168      629             1242     18     2        14     0
+
+TOTAL            723     1903      683      3309           TOTAL                746      1681       839     3266            6575    138       15    143       5
+
+
+EASTBOUND Approach                                         WESTBOUND Approach                                             TOTAL    XING W/L        XING E/L
+
+Hours           Lt       Th       Rt     Total             Hours               Lt        Th       Rt    Total              E-W      Ped   Sch       Ped   Sch
+7-8              104     1511       93      1708           7-8                  106      1689      102     1897             3605     35     1        40     0
+8-9              126     1472      111      1709           8-9                  162      1477        85    1724             3433     30     2        25     2
+9-10             109     1224       82      1415           9-10                 141      1204        83    1428             2843     24     0        30     1
+15-16            116     1524      103      1743           15-16                  97     1308      103     1508             3251     32     3        21     3
+16-17            130     1530       99      1759           16-17                  94     1323      100     1517             3276     27     4        41     1
+17-18            128     1495      108      1731           17-18                  82     1541      102     1725             3456     24     2        19     2
+
+TOTAL            713     8756      596     10065           TOTAL                682      8542       575     9799           19864    172       12    176       9
+

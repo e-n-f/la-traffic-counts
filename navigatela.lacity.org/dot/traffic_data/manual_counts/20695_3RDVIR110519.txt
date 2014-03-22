@@ -1,0 +1,540 @@
+                                                    City Traffic Counters, LLC.
+                                                          626-256-4171
+                                                                                                                  File Name       : Virgil_3rd
+                                                                                                                  Site Code       : 00000000
+                                                                                                                  Start Date      : 5/19/2011
+                                                                                                                  Page No         :1
+                                                         Groups Printed- Group 1
+                      Virgil Ave                     3rd St                      Virgil Ave                          3rd St
+                     Southbound                     Westbound                   Northbound                         Eastbound
+                                                                                                                                            Int.
+ Start Time   Left   Thru    Right   Peds    Left   Thru    Right   Peds    Left   Thru    Right   Peds    Left    Thru   Right   Peds
+                                                                                                                                           Total
+    Factor     1.0     1.0    1.0     1.0    1.0      1.0     1.0    1.0    1.0      1.0    1.0      1.0    1.0     1.0    1.0     1.0
+ 07:00 AM      21     160     14        1    11      176      29     10       5      81       2      23     29     141       9     15       727
+ 07:15 AM      21     203     20        9    12      216      33     13     15      104       9      22     27     194       9     10       917
+ 07:30 AM      25     227     28      23     20      229      32     14       8     121     14       45     33     211       7       9     1046
+ 07:45 AM      29     248     24      31     17      259      20     24     18      141     16       26     27     248     12      23      1163
+     Total     96     838     86      64     60      880     114     61     46      447     41      116    116     794     37      57      3853
+
+ 08:00 AM      32     246      25      24     19     221      21      12      8     119      18       8     29     228      16      12     1038
+ 08:15 AM      24     244      22      10     12     223      15       7      9     100       9       5     25     274       7       4      990
+ 08:30 AM      24     256      29       3      7     215      22       6      6     109      13       3     25     219      13       5      955
+ 08:45 AM      28     249      25      11     14     226      16      10      5     109      14      12     29     241      15       2     1006
+     Total    108     995     101      48     52     885      74      35     28     437      54      28    108     962      51      23     3989
+
+ 09:00 AM      37     223      27       9      7     209      15       5      4      98       7       8     30     207       8       3      897
+ 09:15 AM      16     226      26      11     17     207      17       2     13     103      10      12     24     203      13       3      903
+ 09:30 AM      10     164      29      18     11     191      25       6     21     101      10       8     31     204      16       4      849
+ 09:45 AM      26     171      37       5     18     230      17       4     41     118      10       6     42     196      18       2      941
+     Total     89     784     119      43     53     837      74      17     79     420      37      34    127     810      55      12     3590
+
+
+
+ 03:00 PM      25     119      27      14      7     210      22       5     21     123      11       9     48     184      29       3      857
+ 03:15 PM      22     142      30      11     11     213      23      11      8     120      16      17     36     202      12      10      884
+ 03:30 PM      27     140      28      20     12     226      29      26     10     134      16      19     44     197      21      12      961
+ 03:45 PM      31     143      27      17     23     214      23      15     13     140      20      23     46     202      13       5      955
+     Total    105     544     112      62     53     863      97      57     52     517      63      68    174     785      75      30     3657
+
+ 04:00 PM      29     152      22      24      9     225      22      12     12     153      17      27     43     222      15      11      995
+ 04:15 PM      21     135      17      11      7     259      20       8     19     154      15       7     38     219      11       9      950
+ 04:30 PM      26     156      30      12      8     241      31       5     17     169      19      14     37     230      11      11     1017
+ 04:45 PM      25     178      24      18      8     238      18       5     16     155      16      19     30     240       9      14     1013
+     Total    101     621      93      65     32     963      91      30     64     631      67      67    148     911      46      45     3975
+
+ 05:00 PM      26     191      32      18     11     269      32      10     12     167      23      17     35     232      12       8     1095
+ 05:15 PM      29     142      28      21     13     261      14      13     17     155      25      16     39     243      17       8     1041
+ 05:30 PM      25     169      31      23     13     268      20       6     18     137      19      17     40     236      18      12     1052
+ 05:45 PM      28     160      22      20     11     276      19      21     11     137      27      26     39     217      13      10     1037
+     Total    108     662     113      82     48    1074      85      50     58     596      94      76    153     928      60      38     4225
+
+Grand Total   607    4444    624      364    298    5502     535     250    327    3048     356     389    826    5190     324     205    23289
+ Apprch %     10.1    73.6   10.3      6.0    4.5    83.6     8.1     3.8    7.9    74.0     8.6     9.4   12.6    79.3     5.0     3.1
+   Total %     2.6    19.1    2.7      1.6    1.3    23.6     2.3     1.1    1.4    13.1     1.5     1.7    3.5    22.3     1.4     0.9
+                                                  City Traffic Counters, LLC.
+                                                        626-256-4171
+                                                                                                                File Name    : Virgil_3rd
+                                                                                                                Site Code    : 00000000
+                                                                                                                Start Date   : 5/19/2011
+                                                                                                                Page No      :2
+
+                        Virgil Ave                     3rd St                     Virgil Ave                     3rd St
+                     Southbound                      Westbound                  Northbound                     Eastbound
+                   Thr Rig Ped App.               Thr Rig Ped App.           Thr Rig Ped App.               Thr Rig Ped App.        Int.
+ Start Time Left                            Left                       Left                           Left
+                     u       ht     s Total         u     ht   s Total         u       ht     s Total         u     ht   s Total   Total
+Peak Hour From 07:00 AM to 11:45 AM - Peak 1 of 1
+ Intersectio
+             07:30 AM
+           n
+    Volume 110 965          99     88 1262   68 932      88   57 1145   43 481        57     84   665 114 961      42   48 1165    4237
+                    76.                            81.                        72.           12.              82.
+    Percent 8.7            7.8 7.0           5.9        7.7 5.0         6.5          8.6               9.8        3.6 4.1
+                     5                              4                          3              6               5
+      07:45
+              29 248        24     31   332  17 259      20   24   320  18 141        16     26   201  27 248      12   23   310   1163
+    Volume
+       Peak                                                                                                                         0.911
+     Factor
+   High Int. 07:45 AM                       07:45 AM                   07:45 AM                       07:45 AM
+    Volume    29 248        24     31   332  17 259      20   24   320  18 141        16     26   201  27 248      12   23   310
+       Peak
+                                      0.950                      0.895                          0.827                      0.940
+     Factor
+
+                                                                     Virgil Ave
+                                                           Out           In       Total
+                                                            683         1262       1945
+
+
+                                                             99   965        110    88
+                                                          Right Thru        Left Peds
+                       2239
+
+
+                                114
+
+
+
+
+                                                                                                       Right Thru
+                       Total
+
+
+
+
+                               Left
+
+
+
+
+                                                                                                                    1128
+                                                                                                                    Out
+                                                                                                          88
+
+
+
+
+                                                                       North
+                                           961
+                               Peds Right Thru
+
+
+
+
+                                                                                                              932
+                       1165
+
+
+
+
+                                                                                                                    3rd St
+                     3rd St
+                        In
+
+
+
+
+                                                                                                                     1145
+                                                                                                                      In
+
+
+
+
+                                                           5/19/2011 7:30:00 AM
+                                       42
+
+
+
+
+                                                           5/19/2011 8:15:00 AM
+                                                                                                       Left Peds
+                                                                                                         68
+                       1074
+
+
+
+
+                                                           Group 1
+                       Out
+
+
+
+
+                                                                                                                    Total
+                                                                                                                    2273
+                                 48
+
+
+
+
+                                                                                                              57
+
+
+
+
+                                                          Left  Thru Right Peds
+                                                             43   481   57    84
+
+
+                                                           1075           665      1740
+                                                           Out           In       Total
+                                                                     Virgil Ave
+                                                 City Traffic Counters, LLC.
+                                                       626-256-4171
+                                                                                                              File Name    : Virgil_3rd
+                                                                                                              Site Code    : 00000000
+                                                                                                              Start Date   : 5/19/2011
+                                                                                                              Page No      :3
+                       Virgil Ave                     3rd St                    Virgil Ave                     3rd St
+                     Southbound                     Westbound                  Northbound                    Eastbound
+                   Thr Rig Ped App.              Thr Rig Ped App.           Thr Rig Ped App.              Thr Rig Ped App.        Int.
+ Start Time Left                           Left                       Left                          Left
+                     u      ht     s Total         u     ht   s Total         u      ht     s Total         u     ht   s Total   Total
+Peak Hour From 12:00 PM to 05:45 PM - Peak 1 of 1
+ Intersectio
+             05:00 PM
+           n
+                                                 107
+    Volume 108 662 113            82   965  48          85   50 1257   58 596       94     76   824 153 928      60   38 1179    4225
+                                                   4
+              11. 68. 11.                         85.                        72. 11.                 13. 78.
+    Percent                      8.5        3.8        6.8 4.0         7.0                9.2                   5.1 3.2
+                2    6       7                     4                          3       4                0    7
+      05:00
+              26 191       32     18   267  11 269      32   10   322  12 167       23     17   219  35 232      12    8   287   1095
+    Volume
+       Peak                                                                                                                       0.965
+     Factor
+   High Int. 05:00 PM                      05:45 PM                   05:00 PM                      05:15 PM
+    Volume    26 191       32     18   267  11 276      19   21   327  12 167       23     17   219  39 243      17    8   307
+       Peak
+                                     0.904                      0.961                         0.941                      0.960
+     Factor
+
+                                                                    Virgil Ave
+                                                          Out           In       Total
+                                                           834           965      1799
+
+
+                                                           113   662        108    82
+                                                         Right Thru        Left Peds
+                       2424
+
+
+                                153
+
+
+
+
+                                                                                                     Right Thru
+                       Total
+
+
+
+
+                               Left
+
+
+
+
+                                                                                                                  1130
+                                                                                                                  Out
+                                                                                                        85 1074
+
+
+
+
+                                                                      North
+                                           928
+                               Peds Right Thru
+                       1179
+
+
+
+
+                                                                                                                  3rd St
+                     3rd St
+                        In
+
+
+
+
+                                                                                                                   1257
+                                                                                                                    In
+
+
+
+
+                                                          5/19/2011 5:00:00 PM
+                                       60
+
+
+
+
+                                                          5/19/2011 5:45:00 PM
+                                                                                                     Left Peds
+                                                                                                       48
+                       1245
+
+
+
+
+                                                          Group 1
+                       Out
+
+
+
+
+                                                                                                                  Total
+                                                                                                                  2387
+                                 38
+
+
+
+
+                                                                                                            50
+
+
+
+
+                                                         Left  Thru Right Peds
+                                                            58   596   94    76
+
+
+                                                           770           824      1594
+                                                          Out           In       Total
+                                                                    Virgil Ave
+                        City Traffic Counters, LLC.
+                              626-256-4171
+                                                                          File Name       : Virgil_3rd_Bike
+                                                                          Site Code       : 00000000
+                                                                          Start Date      : 5/19/2011
+                                                                          Page No         :1
+                                 Groups Printed- Group 2
+                Virgil Ave            3rd St             Virgil Ave         3rd St
+               Southbound           Westbound           Northbound        Eastbound
+ Start Time               Thru                Thru                 Thru            Thru             Int. Total
+     Factor                1.0                  1.0                 1.0             1.0
+ 07:00 AM                    0                    1                   1               1                    3
+ 07:15 AM                    1                    2                   1               2                    6
+ 07:30 AM                    2                    1                   0               1                    4
+ 07:45 AM                    1                    0                   0               1                    2
+       Total                 4                    4                   2               5                   15
+
+ 08:00 AM                   0                    4                   1               0                     5
+ 08:15 AM                   0                    0                   1               0                     1
+ 08:30 AM                   0                    1                   0               1                     2
+ 08:45 AM                   1                    2                   1               0                     4
+     Total                  1                    7                   3               1                    12
+
+ 09:00 AM                   0                    0                   1               1                      2
+ 09:15 AM                   1                    0                   1               0                      2
+ 09:30 AM                   1                    0                   0               0                      1
+ 09:45 AM                   3                    0                   0               1                      4
+     Total                  5                    0                   2               2                      9
+
+
+
+ 03:00 PM                   1                    1                   0               0                     2
+ 03:15 PM                   1                    1                   0               1                     3
+ 03:30 PM                   0                    0                   1               0                     1
+ 03:45 PM                   2                    1                   1               0                     4
+     Total                  4                    3                   2               1                    10
+
+ 04:00 PM                   0                    1                   0               0                      1
+ 04:15 PM                   0                    0                   0               1                      1
+ 04:30 PM                   0                    0                   1               1                      2
+ 04:45 PM                   0                    2                   3               0                      5
+     Total                  0                    3                   4               2                      9
+
+ 05:00 PM                   4                    0                   1               0                     5
+ 05:15 PM                   2                    2                   2               0                     6
+ 05:30 PM                   0                    2                   4               0                     6
+ 05:45 PM                   1                    1                   1               1                     4
+     Total                  7                    5                   8               1                    21
+
+Grand Total               21                   22                  21              12                     76
+ Apprch %               100.0                100.0               100.0           100.0
+   Total %               27.6                 28.9                27.6            15.8
+                                                    City Traffic Counters, LLC.
+                                                          626-256-4171
+                                                                                                       File Name             : Virgil_3rd_Bike
+                                                                                                       Site Code             : 00000000
+                                                                                                       Start Date            : 5/19/2011
+                                                                                                       Page No               :2
+
+                                Virgil Ave                  3rd St                  Virgil Ave                  3rd St
+                               Southbound                Westbound                 Northbound                 Eastbound
+             Start Time       Thru      App. Total      Thru      App. Total      Thru      App. Total      Thru     App. Total        Int. Total
+Peak Hour From 07:00 AM to 11:45 AM - Peak 1 of 1
+           Intersection 07:15 AM
+               Volume            4              4          7              7          2              2          4             4               17
+               Percent       100.0                     100.0                     100.0                     100.0
+        07:15 Volume             1              1          2              2          1              1          2             2                 6
+          Peak Factor                                                                                                                0.708
+               High Int. 07:30 AM                  08:00 AM                  07:15 AM                  07:15 AM
+               Volume            2              2          4              4          1              1          2             2
+          Peak Factor                       0.500                     0.438                     0.500                    0.500
+
+                                                                        Virgil Ave
+                                                              Out           In       Total
+                                                                    2           4         6
+
+
+                                                                              4
+                                                                          Thru
+                            11
+                         Total
+
+
+
+
+                                                                                                                       Out
+                                                                                                                   4
+                                                                          North
+                               4
+
+
+
+
+                                                                                                                   3rd St
+                      3rd St
+
+
+
+
+                                       4
+
+
+
+
+                                                                                                           Thru
+                                   Thru
+                         In
+
+
+
+
+                                                                                                                     In
+                                                             5/19/2011 7:15:00 AM
+                                                             5/19/2011 8:00:00 AM
+                                                                                                               7
+
+
+                                                                                                                        7
+                               7
+
+
+
+
+                                                              Group 2
+                         Out
+
+
+
+
+                                                                                                                   Total
+                                                                                                                      11
+
+
+
+
+                                                                          Thru
+                                                                              2
+
+
+                                                                    4           2         6
+                                                              Out           In       Total
+                                                                        Virgil Ave
+                                                     City Traffic Counters, LLC.
+                                                           626-256-4171
+                                                                                                         File Name           : Virgil_3rd_Bike
+                                                                                                         Site Code           : 00000000
+                                                                                                         Start Date          : 5/19/2011
+                                                                                                         Page No             :3
+                                Virgil Ave                  3rd St                  Virgil Ave                  3rd St
+                               Southbound                Westbound                 Northbound                Eastbound
+             Start Time       Thru      App. Total      Thru      App. Total      Thru      App. Total      Thru     App. Total        Int. Total
+Peak Hour From 12:00 PM to 05:45 PM - Peak 1 of 1
+           Intersection 04:45 PM
+               Volume            6              6          6              6         10             10          0                 0           22
+               Percent       100.0                     100.0                     100.0                       0.0
+        05:30 Volume             0              0          2              2          4              4          0                 0             6
+          Peak Factor                                                                                                                0.917
+               High Int. 05:00 PM                  04:45 PM                  05:30 PM
+               Volume            4              4          2              2          4              4
+          Peak Factor                       0.375                     0.750                     0.625
+
+                                                                         Virgil Ave
+                                                               Out           In       Total
+                                                                 10              6       16
+
+
+                                                                               6
+                                                                           Thru
+                             6
+                         Total
+
+
+
+
+                                                                                                                       Out
+                                                                                                                   0
+                                                                           North
+                               0
+
+
+
+
+                                                                                                                   3rd St
+                      3rd St
+
+
+
+
+                                       0
+
+
+
+
+                                                                                                           Thru
+                                   Thru
+                         In
+
+
+
+
+                                                                                                                     In
+                                                              5/19/2011 4:45:00 PM
+                                                              5/19/2011 5:30:00 PM
+                                                                                                               6
+
+
+                                                                                                                        6
+                               6
+
+
+
+
+                                                              Group 2
+                         Out
+
+
+
+
+                                                                                                                   Total
+                                                                                                                       6
+
+
+
+
+                                                                           Thru
+                                                                              10
+
+
+                                                                     6          10       16
+                                                               Out           In       Total
+                                                                         Virgil Ave
+

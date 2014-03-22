@@ -1,0 +1,61 @@
+                     City Of Los Angeles
+                     Department Of Transportation
+                     MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South          WESTMORELAND AV
+
+East/West            COSMOPOLITAN ST
+
+Day:        TUESDAY                     Date:         May 12, 2009            Weather:            SUNNY
+
+Hours:      7-10AM 2-5PM                                  Chekrs:   YOUNG
+
+School Day:          YES                District:         HOLLYWOOD             I/S CODE 18826
+
+
+                      N/B                           S/B                         E/B                         W/B
+DUAL-
+WHEELED                12                            2                              7                         0
+BIKES                   3                            0                              4                         0
+BUSES                   0                            0                              0                         0
+
+
+                      N/B TIME                      S/B TIME                    E/B TIME                    W/B TIME
+
+AM PK 15 MIN           62      7.15                 14     8.15                  28      7.15                 0    7.00
+
+PM PK 15 MIN           35      4.45                 12     2.00                  28      4.30                 0    2.00
+
+AM PK HOUR            149      7.15                 43     7.30                  67      7.00                 0    7.00
+
+PM PK HOUR            109      4.00                 24     2.00                  54      4.00                 0    2.00
+
+
+
+NORTHBOUND Approach                                       SOUTHBOUND Approach                                     TOTAL   XING S/L   XING N/L
+
+Hours         Lt      Th       Rt       Total             Hours      Lt        Th        Rt       Total            N-S     Ped Sch    Ped   Sch
+7-8            46       89          0      135            7-8             0     19            6        25           160     23   0     24     2
+8-9            15       43          0        58           8-9             0     41            2        43           101      2   0      0     0
+9-10             3      21          0        24           9-10            0     16            1        17            41      0   0      0     0
+2-3              3      64          0        67           2-3             0     24            0        24            91      6   0      0     0
+3-4              5      65          0        70           3-4             0     15            0        15            85      3   0      0     0
+4-5              7     102          0      109            4-5             0     11            3        14           123      0   0      4     0
+
+TOTAL          79     384           0       463           TOTAL           0     126       12         138            601     34   0     28    2
+
+
+EASTBOUND Approach                                        WESTBOUND Approach                                      TOTAL   XING W/L   XING E/L
+             COSMOPOLITAN ST                                                            NONE
+Hours   Lt    Th   Rt Total                               Hours      Lt        Th        Rt Total                 E-W      Ped Sch    Ped   Sch
+7-8       29     0  38     67                             7-8             0         0      0           0             67     69   2      0     0
+8-9        4     0  12     16                             8-9             0         0      0           0             16      5   0      0     0
+9-10       2     0   6      8                             9-10            0         0      0           0              8      5   0      0     0
+2-3        3     0   3      6                             2-3             0         0      0           0              6     13   0      0     0
+3-4       10     0   5     15                             3-4             0         0      0           0             15     18   0      0     0
+4-5       40     0  14     54                             4-5             0         0      0           0             54      9   0      0     0
+
+TOTAL          88          0    78          166           TOTAL           0         0         0        0            166    119   2      0    0
+
+            (Rev Oct 06)
+

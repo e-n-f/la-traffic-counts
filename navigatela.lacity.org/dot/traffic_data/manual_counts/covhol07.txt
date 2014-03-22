@@ -1,0 +1,63 @@
+                        City Of Los Angeles
+                        Department Of Transportation
+                        MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South             HOLLYWOOD WAY
+
+East/West               COVELLO ST
+
+Day:        WEDNESDAY                         Date:        May 9, 2007                  Weather:              SUNNY
+
+Hours:      7-10AM 2-5PM
+
+School Day:             YES                   District:          EAST VALLEY              I/S CODE             26588
+
+
+                         N/B                              S/B                            E/B                           W/B
+DUAL-
+WHEELED                   163                              146                                 0                         0
+BIKES                       0                                0                                 2                         0
+BUSES                       0                                0                                 0                         0
+
+
+                        N/B        TIME                   S/B    TIME                   E/B        TIME                W/B TIME
+
+AM PK 15 MIN              197        8.00                  460 8.30                            0     7.00                0     7.00
+
+PM PK 15 MIN              452        4.30                  206 3.30                            0     2.00                3     2.30
+
+AM PK HOUR                650        7.45                 1643 8.00                            0     7.00                0     7.00
+
+PM PK HOUR               1583        4.00                  777 4.00                            0     2.00                9     2.00
+
+
+
+
+NORTHBOUND Approach                                              SOUTHBOUND Approach                                         TOTAL      XING S/L   XING N/L
+
+Hours          Lt        Th          Rt        Total             Hours         Lt        Th         Rt         Total          N-S       Ped Sch    Ped Sch
+7-8                 0     538             0      538             7-8                3    1316             0     1319           1857        0   0      0   0
+8-9                 4     636             4      644             8-9                1    1642             0     1643           2287        0   0      0   0
+9-10                4     523             1      528             9-10               1     920             0      921           1449        0   0      0   0
+2-3                 3    1194             6     1203             2-3                2     481             0      483           1686        0   0      0   0
+3-4                 4    1351             6     1361             3-4                1     632             4      637           1998        0   0      0   0
+4-5                 4    1575             4     1583             4-5                4     773             0      777           2360        1   0      0   0
+
+TOTAL           19       5817         21         5857            TOTAL          12       5764             4     5780          11637        1   0      0   0
+
+
+EASTBOUND Approach                                               WESTBOUND Approach                                          TOTAL      XING W/L   XING E/L
+                                   DRIVE WAY                                                       COVELLO ST
+Hours          Lt        Th          Rt   Total                  Hours         Lt        Th         Rt   Total                E-W       Ped Sch    Ped Sch
+7-8                 0          0        0       0                7-8                0          0       0       0                    0      0   0      0   0
+8-9                 0          0        0       0                8-9                0          0       0       0                    0      0   0      0   0
+9-10                0          0        0       0                9-10               0          0       0       0                    0      0   0      0   0
+2-3                 0          0        0       0                2-3                1          0       8       9                    9      0   0      0   0
+3-4                 0          0        0       0                3-4                2          0       2       4                    4      0   0      1   0
+4-5                 0          0        0       0                4-5                2          0       2       4                    4      0   0      3   0
+
+TOTAL               0          0          0           0          TOTAL              5          0      12          17              17       0   0      4   0
+
+
+            (Rev Oct 06)
+

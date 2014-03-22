@@ -1,0 +1,61 @@
+                       City Of Los Angeles
+                       Department Of Transportation
+                       MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South            MYRA AV
+
+East/West              TRACY ST
+
+Day:               FRIDAY                 Date:        March 16, 2010                Weather:            SUNNY
+
+Hours:      7-10AM 3-6PM                                            Chekrs:          LEE
+
+School Day:            YES                District:         HOLLYWOOD                  I/S CODE 14698
+
+
+                        N/B                           S/B                              E/B                         W/B
+DUAL-
+WHEELED                      1                         0                                 9                          17
+BIKES                        1                         0                                 6                          10
+BUSES                        0                         0                                10                           8
+
+
+                        N/B TIME                      S/B TIME                         E/B TIME                    W/B TIME
+
+AM PK 15 MIN                 9   7.15                  0     7.00                      110      7.15               101     7.15
+
+PM PK 15 MIN                 5   5.45                  0     3.00                       45      3.15                85     3.15
+
+AM PK HOUR               21      8.00                  0     7.00                      184      7.00               257     7.00
+
+PM PK HOUR               10      5.00                  0     3.00                      114      3.00               200     3.00
+
+
+
+NORTHBOUND Approach                                         SOUTHBOUND Approach                                          TOTAL    XING S/L   XING N/L
+             MYRA AV                                                           NONE
+Hours   Lt    Th   Rt Total                                 Hours    Lt   Th    Rt Total                                  N-S      Ped Sch    Ped   Sch
+7-8      10      0   7     17                               7-8         0    0    0                           0             17      81   1      0     0
+8-9        6     0  15     21                               8-9         0    0    0                           0             21      22   0      0     0
+9-10       1     0   5      6                               9-10        0    0    0                           0               6      8   0      0     0
+3-4        0     0   3      3                               3-4         0    0    0                           0               3     31   0      0     0
+4-5        1     0   6      7                               4-5         0    0    0                           0               7      2   0      0     0
+5-6        3     0   7     10                               5-6         0    0    0                           0             10      22   1      0     0
+
+TOTAL          21            0    43           64           TOTAL               0          0         0        0             64     166   2      0    0
+
+
+EASTBOUND Approach                                          WESTBOUND Approach                                           TOTAL    XING W/L   XING E/L
+
+Hours         Lt        Th       Rt       Total             Hours             Lt      Th        Rt       Total           E-W       Ped Sch    Ped   Sch
+7-8                0     178          6      184            7-8                10      247           0      257            441       0   0      2     0
+8-9                0      68          7        75           8-9                  9     100           0      109            184       0   0      1     0
+9-10               0      75          4        79           9-10               12       58           0        70           149       0   0      1     0
+3-4                0     108          6      114            3-4                15      185           0      200            314       2   0     14     0
+4-5                0      69          1        70           4-5                13      103           0      116            186       0   0      1     0
+5-6                0     106          6      112            5-6                14      160           0      174            286       1   0     11     1
+
+TOTAL              0    604       30          634           TOTAL              73      853           0      926           1560       3   0     30    1
+
+            (Rev Oct 06)
+

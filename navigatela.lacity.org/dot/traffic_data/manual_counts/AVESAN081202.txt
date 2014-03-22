@@ -1,0 +1,61 @@
+                     City Of Los Angeles
+                     Department Of Transportation
+                     MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South          AVE 19
+
+East/West            SAN FERNANDO RD
+
+Day:            TUESDAY               Date:        December 2, 2008            Weather:          SUNNY
+
+Hours:      7-10AM 3-6PM                                         Chekrs:       LEE
+
+School Day:          YES              District:          CENTRAL                 I/S CODE 20433
+
+
+                      N/B                         S/B                            E/B                     W/B
+DUAL-
+WHEELED                 39                         101                               0                    57
+BIKES                    5                           0                               0                     4
+BUSES                    0                           8                               0                     0
+
+
+                      N/B TIME                     S/B TIME                      E/B TIME                W/B TIME
+
+AM PK 15 MIN            26     7.45                395    7.45                       0    7.00            44    7.45
+
+PM PK 15 MIN           251     5.30                 70    3.15                       0    3.00           204    5.30
+
+AM PK HOUR              91     7.45               1441    7.30                       0    7.00           144    7.15
+
+PM PK HOUR             822     5.00                244    3.15                       0    3.00           542    5.00
+
+
+
+NORTHBOUND Approach                                      SOUTHBOUND Approach                                   TOTAL   XING S/L   XING N/L
+                 AVE 19                                              SAN FERNANDO RD
+Hours   Lt   Th    Rt Total                              Hours    Lt   Th    Rt Total                           N-S     Ped Sch    Ped   Sch
+7-8        0  72     3     75                            7-8      322 933      0 1255                           1330      0   0      0     0
+8-9        0  84     4     88                            8-9      372 957      0 1329                           1417      0   0      0     0
+9-10       0  55     4     59                            9-10     185 519      0   704                           763      0   0      0     0
+3-4        0 265    18   283                             3-4      110 115      0   225                           508      0   0      0     0
+4-5        0 466    16   482                             4-5       97 121      0   218                           700      0   0      0     0
+5-6        0 807    15   822                             5-6      110 110      0   220                          1042      0   0      0     0
+
+TOTAL            0 1749         60      1809             TOTAL         1196 2755            0     3951          5760     0    0      0    0
+
+
+EASTBOUND Approach                                       WESTBOUND Approach                                    TOTAL   XING W/L   XING E/L
+                   NONE                                               SAN FERNANDO RD
+Hours   Lt    Th    Rt Total                             Hours   Lt    Th   Rt Total                           E-W      Ped Sch    Ped   Sch
+7-8        0     0    0                       0          7-8        0     0 142   142                            142      0   0      1     0
+8-9        0     0    0                       0          8-9        0     0 126   126                            126      0   0      3     0
+9-10       0     0    0                       0          9-10       0     0 116   116                            116      0   0      2     0
+3-4        0     0    0                       0          3-4        0     0 218   218                            218      0   0      1     0
+4-5        0     0    0                       0          4-5        0     0 282   282                            282      0   0      0     0
+5-6        0     0    0                       0          5-6        0     0 542   542                            542      0   0      1     0
+
+TOTAL            0         0     0            0          TOTAL             0         0 1426       1426          1426     0    0      8    0
+
+            (Rev Oct 06)
+

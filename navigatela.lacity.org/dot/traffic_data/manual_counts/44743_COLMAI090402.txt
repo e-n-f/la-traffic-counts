@@ -1,0 +1,54 @@
+WILTEC                                                                                                                                    Phone: (626) 564-1944     Fax: (626) 564-0969
+INTERSECTION TURNING MOVEMENT COUNT SUMMARY
+
+CLIENT:                            FEHR AND PEERS/ ARUP
+PROJECT:                           DOWNTOWN LOS ANGELES TRAFFIC COUNTS
+DATE:                              THURSDAY APRIL 2, 2009
+PERIODS:                           7:00 AM TO 9:00 AM  AND       4:00 PM TO 6:00 PM
+INTERSECTION:          N/S         MAIN STREET
+                       E/W         WEST COLLEGE STREET
+CITY:                              LOS ANGELES
+
+15 MIN COUNTS                                             7:00 AM TO 9:00 AM
+                   1          2         3      4      5          6        7       8      9     10     11     12
+PERIOD          SBRT    SBTH         SBLT   WBRT   WBTH     WBLT     NBRT      NBTH   NBLT   EBRT   EBTH   EBLT   TOTAL      AM PEAK HOUR
+700-715           21         169        1      2      1          1        5      50      4      5      2      8     269         745-845                                    6
+715-730           26         215        1      0      0          2        8      52      3      3      1      5     316
+730-745           27         256        1      1      0          1        4      71      1      3      4      7     376                   135       1012   6               1
+745-800           31         252        2      3      0          1        3      81      2      6      0      8     389
+800-815           36         249        1      2      0          0        1      88      4      8      1     10     400                                                    5
+815-830           30         260        1      0      1          3        2      64      4     10      0      9     384
+830-845           38         251        2      1      0          1        2      68      2      5      0     10     380
+845-900           37         255        5      3      0          1        1      64      3      7      0      7     383                        37
+HOUR TOTALS
+                   1          2         3      4      5          6        7       8      9     10     11     12           WEST COLLEGE STREET
+                                                                                                                                           1                   12    301        8
+TIME            SBRT    SBTH         SBLT   WBRT   WBTH     WBLT     NBRT      NBTH   NBLT   EBRT   EBTH   EBLT   TOTAL
+700-800          105         892        5      6      1          5      20      254     10     17      7     28    1350                        29
+715-815          120         972        5      6      0          4      16      292     10     20      6     30    1481                                             MAIN STREET
+730-830          124     1017           5      6      1          5      10      304     11     27      5     34    1549
+745-845          135     1012           6      6      1          5        8     301     12     29      1     37    1553
+800-900          141     1015           9      6      1          5        6     284     13     30      1     36    1547
+
+
+15 MIN COUNTS                                             4:00 PM TO 6:00 PM
+                   1          2         3      4      5          6        7       8      9     10     11     12
+PERIOD          SBRT    SBTH         SBLT   WBRT   WBTH     WBLT     NBRT      NBTH   NBLT   EBRT   EBTH   EBLT   TOTAL      PM PEAK HOUR
+400-415           15         125        4      4      1          9        1     139      7      8      0     17     330         500-600                                    7
+415-430           18         111        2      2      2          3        3     164     11      8      1     17     342
+430-445           23         116        0      4      1         16        0     174      7      7      0     21     369                   85        412    0               5
+445-500           14         104        0      2      1          6        2     186      6     12      0     20     353
+500-515           23         103        0      4      1          4        1     198     10      8      0     19     371                                                    17
+515-530           22         107        0      2      1          4        0     231      8      8      0     17     400
+530-545           19         100        0      1      0          4        1     242      4     13      0     19     403
+545-600           21         102        0      0      3          5        1     233      4     10      0     20     399                        75
+HOUR TOTALS
+                   1          2         3      4      5          6        7       8      9     10     11     12           WEST COLLEGE STREET
+                                                                                                                                           0                   26    904        3
+TIME            SBRT    SBTH         SBLT   WBRT   WBTH     WBLT     NBRT      NBTH   NBLT   EBRT   EBTH   EBLT   TOTAL
+400-500           70         456        6     12      5         34        6     663     31     35      1     75    1394                        39
+415-515           78         434        2     12      5         29        6     722     34     35      1     77    1435                                             MAIN STREET
+430-530           82         430        0     12      4         30        3     789     31     35      0     77    1493
+445-545           78         414        0      9      3         18        4     857     28     41      0     75    1527
+500-600           85         412        0      7      5         17        3     904     26     39      0     75    1573
+

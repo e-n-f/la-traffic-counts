@@ -1,0 +1,61 @@
+                    City Of Los Angeles
+                    Department Of Transportation
+                    MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South         CAMDEN AV
+
+East/West           OHIO AV
+
+Day:        MONDAY                    Date:       JULY 30, 2007          Weather:          SUNNY
+
+Hours:      7-10AM 3-6PM
+
+School Day:         YES               District:          WR                I/S CODE 17538
+
+
+                     N/B                           S/B                     E/B                     W/B
+DUAL-
+WHEELED                 1                            1                      31                      27
+BIKES                  54                           37                       1                       0
+BUSES                   0                            1                       0                       1
+
+
+                     N/B TIME                      S/B TIME                E/B TIME                W/B TIME
+
+AM PK 15 MIN               8   8.45                  9    8.15             253      9.00           160    9.15
+
+PM PK 15 MIN           12      5.00                  8    4.30             169      5.00           178    5.15
+
+AM PK HOUR             28      8.45                 27    8.15             982      8.15           607    8.45
+
+PM PK HOUR             23      4.30                 20    4.30             651      4.30           668    5.00
+
+
+
+NORTHBOUND Approach                                      SOUTHBOUND Approach                             TOTAL   XING S/L   XING N/L
+
+Hours         Lt     Th        Rt Total                  Hours    Lt      Th        Rt Total              N-S     Ped Sch    Ped   Sch
+7-8             5          1    12     18                7-8         4         2     14     20              38     11   3     22     0
+8-9            10          0    14     24                8-9         7         0     16     23              47     28   0     24     0
+9-10            7          0    16     23                9-10        7         0      7     14              37     18   0      7     0
+3-4             7          1     7     15                3-4         3         0      6      9              24     13   0      8     0
+4-5             3          1     9     13                4-5        10         0      4     14              27     11   0      9     0
+5-6             4          2    15     21                5-6         6         1      7     14              35     13   0     27     0
+
+TOTAL          36          5    73        114            TOTAL      37         3     54       94           208     94   3     97    0
+
+
+EASTBOUND Approach                                       WESTBOUND Approach                              TOTAL   XING W/L   XING E/L
+
+Hours         Lt     Th        Rt Total                  Hours    Lt      Th        Rt Total             E-W      Ped Sch    Ped   Sch
+7-8             1     529       10   540                 7-8         7     341       11   359              899      1   0      2     0
+8-9             5     933       14   952                 8-9        10     557        1   568             1520      2   0      1     0
+9-10            2     744       12   758                 9-10        9     562        2   573             1331      2   0      2     0
+3-4             7     479       31   517                 3-4        15     453        7   475              992      0   0      4     0
+4-5            13     570       25   608                 4-5        10     494        1   505             1113      1   0      0     0
+5-6             9     562       37   608                 5-6        16     641       11   668             1276      8   0      4     0
+
+TOTAL          37 3817         129      3983             TOTAL      67 3048          33     3148          7131     14   0     13    0
+
+            (Rev Oct 06)
+

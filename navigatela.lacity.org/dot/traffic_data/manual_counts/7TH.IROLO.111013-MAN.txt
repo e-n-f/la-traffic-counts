@@ -1,0 +1,577 @@
+                          City Of Los Angeles
+                          Department Of Transportation
+                          MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South               Irolo St
+East/West                 7th St
+Day:                      Thursday              Date:        October 13, 2011                  Weather:              SUNNY
+Hours:        7-10AM 3-6PM                                                  Conducted By: Pacific Traffic Data Services
+School Day:               YES                   District:                                        I/S CODE
+
+                              N/B                           S/B                                   E/B                          W/B
+DUAL-
+WHEELED                          28                          46                                        9                        16
+BIKES                            40                          34                                       14                        11
+BUSES                            47                          55                                        0                         1
+
+                              N/B TIME                      S/B TIME                              E/B TIME                     W/B TIME
+AM PK 15 MIN                  163     8.15                  194      8.00                             58   9.45                 36     9.45
+PM PK 15 MIN                  161 17.15                     206 17.15                                 97 17.00                  56 17.00
+AM PK HOUR                    638     8.00                  731      7.30                         193      8.15                130     9.00
+PM PK HOUR                    580 17.00                     813 16.45                             339 16.45                    197 17.00
+
+
+NORTHBOUND Approach                                               SOUTHBOUND Approach                                                TOTAL    XING S/L    XING N/L
+
+Hours           Lt          Th        Rt        Total             Hours              Lt          Th        Rt        Total            N-S      Ped Sch     Ped Sch
+7-8               73         443           28       544           7-8                     30      523        72          625           1169     34 20       44 30
+8-9              113         492           33       638           8-9                     37      511       126          674           1312     42 10       42 12
+9-10              94         438           28       560           9-10                    32      430       120          582           1142     39   7      50   3
+15-16             61         465           17       543           15-16                   34      514        82          630           1173     50 25       49   6
+16-17             49         478           22       549           16-17                   45      608       120          773           1322     62 15       51   3
+17-18             60         489           31       580           17-18                   64      564       177          805           1385     58 16       84   6
+TOTAL            450         2805      159         3414           TOTAL               242        3150       697        4089           7503     285   93    320   60
+
+EASTBOUND Approach                                                WESTBOUND Approach                                                 TOTAL    XING W/L    XING E/L
+
+Hours           Lt          Th        Rt        Total             Hours              Lt          Th        Rt        Total            E-W      Ped Sch     Ped Sch
+7-8                  23        64          46       133           7-8                     17       50           29        96            229     72 10       58 13
+8-9                  43        87          54       184           8-9                     18       58           48       124            308     63   4      75 10
+9-10                 53        70          65       188           9-10                    23       49           58       130            318     74   2      62   3
+15-16                40        98          82       220           15-16                   24       60           58       142            362     95 18       40   7
+16-17                43       129          86       258           16-17                   30       65           51       146            404    111 20       59   5
+17-18                55       187          94       336           17-18                   27      101           69       197            533    125   7      55   2
+TOTAL            257          635      427         1319           TOTAL               139         383       313          835          2154     540   61    349   40
+                                   INTERSECTION TURNING MOVEMENT COUNTS
+                                               PREPARED BY: PACIFIC TRAFFIC DATA SERVICES
+         DATE:        LOCATION:                   LOS ANGELES                                  PROJECT #:      CA11-1014-1971
+        10/13/11      NORTH & SOUTH:              IROLO                                        LOCATION #:     2
+       THURSDAY       EAST & WEST:                7TH                                          CONTROL:        SIGNAL
+                      NOTES:                                                                            AM               Y
+          ALL                                                                                           PM               N
+        CLASSES                                                                                         MD      W               E
+                                                                                                       OTHER             S
+                                                                                                       OTHER             
+                             NORTHBOUND                  SOUTHBOUND                 EASTBOUND                WESTBOUND
+                                IROLO                        IROLO                       7TH                     7TH
+                        NL       NT       NR        SL        ST       SR      EL        ET      ER     WL       WT      WR     TOTAL
+             LANES:     0         2        0        0          2        0      1          1       0     1         1       0
+         7:00 AM        13       107    10          1         99       13      5          8      5      5        10       5      281
+         7:15 AM        15       115     3          6        126       15      5          4      11      6        7       7      320
+         7:30 AM        16       110     6          7        150       17      5          20     20      0       14       8      373
+         7:45 AM        29       111     9         16        148       27      8          32     10      6       19       9      424
+         8:00 AM        25       123     7         12        151       31      10         23     10      5       17       11     425
+         8:15 AM        29       128     6          9        130       33      12         19     17      5       14       11     413
+         8:30 AM        31       115     12         7        109       37      12         25     11      3       15       10     387
+         8:45 AM        28       126     8          9        121       25      9          20     16      5       12       16     395
+         9:00 AM        29       109     4          7        103       30      11         20     21      5       11       12     362
+         9:15 AM        22       118     10        13        108       31      13         15     8       5       11       16     370
+AM
+
+
+
+
+         9:30 AM        21       106     10         5        117       22      8          14     20      8       14       12     357
+         9:45 AM        22       105     4          7        102       37      21         21     16      5       13       18     371
+     VOLUMES           280      1,373    89        99       1,464     318     119        221    165     58      157      135    4,478
+     APPROACH %        16%       79%    5%         5%        78%      17%     24%        44%    33%    17%      45%      39%
+     APP/DEPART       1,742       /    1,627      1,881        /     1,687    505          /    409    350        /      755     0
+     BEGIN PEAK HR             7:45 AM
+     VOLUMES           114       477     34        44        538       128     42       99       48     19       65       41    1,649
+     APPROACH %        18%       76%    5%         6%        76%       18%    22%      52%      25%    15%      52%      33%
+     PEAK HR FACTOR             0.959                       0.915                     0.945                    0.919            0.970
+     APP/DEPART        625        /     560        710         /      605     189        /      177    125        /      307      0
+         3:00 PM        16       111     3          7        130       21      6        19       26     8        17       18     382
+         3:15 PM        22       129     4          9        129       20      11       24       13     4        14       14     393
+         3:30 PM        12       114     2          14       119       21      14       26       17     7        10       14     370
+         3:45 PM        11       111     8          4        136       20      9        29       26     5        19       12     390
+         4:00 PM        11       120     7          6        161       24      15       30       13     6        18       18     429
+         4:15 PM        10       119     7          10       162       32      11       35       19     8        10       15     438
+         4:30 PM        16       126     4          13       137       29      12       30       24     11       15       10     427
+         4:45 PM        12       113     4          16       148       35      5        34       30     5        22        8     432
+         5:00 PM        13       108     9          13       152       38      14       55       28     8        31       17     486
+         5:15 PM         7       146     8          20       141       45      13       43       28     7        19       12     489
+PM
+
+
+
+
+         5:30 PM        22       110     10         20       135       50      16       53       20     5        21       24     486
+         5:45 PM        18       125     4          11       136       44      12       36       18     7        30       16     457
+     VOLUMES           170      1,432    70        143      1,686     379     138      414      262     81      226      178    5,179
+     APPROACH %        10%       86%    4%         6%        76%      17%     17%      51%      32%    17%      47%      37%
+     APP/DEPART       1,672       /    1,748      2,208        /     2,029    814        /      627    485        /      775     0
+     BEGIN PEAK HR             5:00 PM
+     VOLUMES            60       489     31        64        564       177     55      187       94     27      101       69    1,918
+     APPROACH %        10%       84%    5%         8%        70%       22%    16%      56%      28%    14%      51%      35%
+     PEAK HR FACTOR             0.901                       0.977                     0.866                    0.879            0.981
+     APP/DEPART        580        /     613        805         /       685    336        /      282    197        /      338      0
+
+                                                            IROLO
+
+                                                          NORTH SIDE
+
+
+                        7TH           WEST SIDE                              EAST SIDE         7TH
+
+
+                                                          SOUTH SIDE
+
+                                                            IROLO
+                                   INTERSECTION TURNING MOVEMENT COUNTS
+                                               PREPARED BY: PACIFIC TRAFFIC DATA SERVICES
+         DATE:        LOCATION:                   LOS ANGELES                                  PROJECT #:      CA11-1014-1971
+        10/13/11      NORTH & SOUTH:              IROLO                                        LOCATION #:     2
+       THURSDAY       EAST & WEST:                7TH                                          CONTROL:        SIGNAL
+        CLASS 1:      NOTES:                                                                            AM               Y
+       PASSENGER                                                                                        PM               N
+        VEHICLES                                                                                        MD      W               E
+                                                                                                       OTHER             S
+                                                                                                       OTHER             
+                             NORTHBOUND                  SOUTHBOUND                 EASTBOUND                WESTBOUND
+                                IROLO                        IROLO                       7TH                     7TH
+                        NL       NT       NR        SL        ST       SR      EL        ET      ER     WL       WT      WR     TOTAL
+             LANES:     0         2        0        0          2        0      1          1       0     1         1       0
+         7:00 AM        13       105     9          0         96       12      5          8      5      5        10       5      273
+         7:15 AM        15       109     3          5        122       15      5          4      11     5        7        6      307
+         7:30 AM        16       106     6          6        146       16      5          20     20     0        14       8      363
+         7:45 AM        29       110     8          15       145       27      8          32     10     6        18       9      417
+         8:00 AM        25       118     7          10       142       30      10         23     10     5        17       11     408
+         8:15 AM        29       124     6          9        128       33      12         19     17     5        14       9      405
+         8:30 AM        31       110     11         7        102       36      12         25     11     3        15       10     373
+         8:45 AM        28       124     8          9        115       25      9          20     16     5        12       16     387
+         9:00 AM        29       107     4          7        100       30      11         20     21     5        10       11     355
+         9:15 AM        22       116     9          13       105       30      12         15     8      5        11       15     361
+AM
+
+
+
+
+         9:30 AM        21       104     10         5        115       22      8          14     20     8        14       11     352
+         9:45 AM        22       105     4          7        100       36      20         19     16     5        12       18     364
+     VOLUMES           280      1,338    85         93      1,416     312     117        219    165     57      154      129    4,365
+     APPROACH %        16%       79%    5%         5%        78%      17%     23%        44%    33%    17%      45%      38%
+     APP/DEPART       1,703        /   1,584      1,821        /     1,638    501          /    397    340        /      746     0
+     BEGIN PEAK HR             7:45 AM
+     VOLUMES           114       462     32        41        517       126     42       99       48     19       64       39    1,603
+     APPROACH %        19%       76%    5%         6%        76%       18%    22%      52%      25%    16%      52%      32%
+     PEAK HR FACTOR             0.956                       0.914                     0.945                    0.924            0.961
+     APP/DEPART        608         /    543        684         /      584     189        /      172    122        /      304      0
+         3:00 PM        15       108     3          7        125       21      6        19       26     8        16       18     372
+         3:15 PM        21       127     4          9        128       19      11       23       13     4        13       14     386
+         3:30 PM        12       109     2          14       117       21      14       26       17     6        10       13     361
+         3:45 PM        11       106     8          4        132       20      9        29       26     5        19       11     380
+         4:00 PM        11       115     7          6        158       23      15       30       13     6        17       18     419
+         4:15 PM        10       116     6          10       158       32      11       35       19     8        10       15     430
+         4:30 PM        16       124     4          13       132       29      12       28       24     11       15       10     418
+         4:45 PM        12       111     4          16       147       33      5        34       28     5        22       8      425
+         5:00 PM        13       107     9          13       149       38      14       55       28     8        30       17     481
+         5:15 PM        7        144     7          20       140       45      13       43       28     7        19       12     485
+PM
+
+
+
+
+         5:30 PM        22       108     10         20       131       49      16       53       20     5        21       24     479
+         5:45 PM        18       125     4          11       133       44      12       36       18     7        30       16     454
+     VOLUMES           168      1,400    68        143      1,650     374     138      411      260     80      222      176    5,090
+     APPROACH %        10%       86%    4%         7%        76%      17%     17%      51%      32%    17%      46%      37%
+     APP/DEPART       1,636        /   1,714      2,167        /     1,990    809        /      622    478        /      764     0
+     BEGIN PEAK HR             5:00 PM
+     VOLUMES            60       484     30        64        553       176     55      187       94     27      100       69    1,899
+     APPROACH %        10%       84%    5%         8%        70%       22%    16%      56%      28%    14%      51%      35%
+     PEAK HR FACTOR             0.908                       0.967                     0.866                    0.891            0.979
+     APP/DEPART        574         /    608        793         /       674    336        /      281    196        /      336      0
+
+                                                            IROLO
+
+                                                          NORTH SIDE
+
+
+                        7TH           WEST SIDE                              EAST SIDE         7TH
+
+
+                                                          SOUTH SIDE
+
+                                                            IROLO
+                                   INTERSECTION TURNING MOVEMENT COUNTS
+                                               PREPARED BY: PACIFIC TRAFFIC DATA SERVICES
+         DATE:        LOCATION:                   LOS ANGELES                                 PROJECT #:      CA11-1014-1971
+        10/13/11      NORTH & SOUTH:              IROLO                                       LOCATION #:     2
+       THURSDAY       EAST & WEST:                7TH                                         CONTROL:        SIGNAL
+       CLASS 2:       NOTES:                                                                           AM               Y
+        2-AXLE                                                                                         PM               N
+         WORK                                                                                          MD      W               E
+       VEHICLES/                                                                                      OTHER             S
+        TRUCKS                                                                                        OTHER             
+                             NORTHBOUND                  SOUTHBOUND                EASTBOUND                WESTBOUND
+                                IROLO                       IROLO                       7TH                     7TH
+                        NL       NT       NR        SL       ST       SR      EL        ET      ER     WL       WT      WR     TOTAL
+             LANES:     0         2        0        0         2        0      1          1       0     1         1       0
+         7:00 AM        0         0        0        0        1         0      0          0       0      0       0        0      1
+         7:15 AM        0         1        0        0        1         0      0          0       0      0       0        1      3
+         7:30 AM        0         1        0        0        2         1      0          0       0      0       0        0      4
+         7:45 AM        0         0        0        1        1         0      0          0       0      0       0        0      2
+         8:00 AM        0         3        0        1        1         1      0          0       0      0       0        0      6
+         8:15 AM        0         1        0        0        1         0      0          0       0      0       0        1      3
+         8:30 AM        0         3        1        0        2         1      0          0       0      0       0        0      7
+         8:45 AM        0         2        0        0        2         0      0          0       0      0       0        0      4
+         9:00 AM        0         1        0        0        2         0      0          0       0      0       1        1      5
+         9:15 AM        0         0        1        0        2         1      1          0       0      0       0        1      6
+AM
+
+
+
+
+         9:30 AM        0         2        0        0        1         0      0          0       0      0       0        1      4
+         9:45 AM        0         0        0        0        1         1      1          2       0      0       1        0      6
+     VOLUMES            0         14        2       2        17        5      2          2       0      0       2        5      51
+     APPROACH %        0%        88%      13%      8%       71%       21%    50%        50%     0%     0%      29%      71%
+     APP/DEPART        16          /       21      24         /        17     4           /      6      7        /       7      0
+     BEGIN PEAK HR             8:30 AM
+     VOLUMES            0         6       2         0        8         2       1       0        0       0       1        2      22
+     APPROACH %        0%        75%     25%       0%       80%       20%    100%     0%       0%      0%      33%      67%
+     PEAK HR FACTOR             0.500                      0.833                     0.250                    0.375            0.786
+     APP/DEPART         8          /       9       10         /        8       1        /       2      3         /       3       0
+         3:00 PM        1         1        0        0        3         0       0       0        0      0        0        0       5
+         3:15 PM        1         0        0        0        0         0       0       1        0      0        1        0       3
+         3:30 PM        0         3        0        0        1         0       0       0        0      1        0        1       6
+         3:45 PM        0         1        0        0        1         0       0       0        0      0        0        1       3
+         4:00 PM        0         2        0        0        1         1       0       0        0      0        1        0       5
+         4:15 PM        0         1        0        0        0         0       0       0        0      0        0        0       1
+         4:30 PM        0         1        0        0        2         0       0       2        0      0        0        0       5
+         4:45 PM        0         0        0        0        0         1       0       0        2      0        0        0       3
+         5:00 PM        0         0        0        0        0         0       0       0        0      0        1        0       1
+         5:15 PM        0         0        1        0        0         0       0       0        0      0        0        0       1
+PM
+
+
+
+
+         5:30 PM        0         0        0        0        1         1       0       0        0      0        0        0       2
+         5:45 PM        0         0        0        0        0         0       0       0        0      0        0        0       0
+     VOLUMES            2         9        1        0        9         3       0       3        2      1        3        2       35
+     APPROACH %        17%       75%      8%       0%       75%       25%     0%      60%      40%    17%      50%      33%
+     APP/DEPART         12         /      11       12         /        12      5        /       4      6         /       8      0
+     BEGIN PEAK HR             3:15 PM
+     VOLUMES            1         6        0        0        3         1       0       1        0      1        2        2      17
+     APPROACH %        14%       86%      0%       0%       75%       25%     0%     100%      0%     20%      40%      40%
+     PEAK HR FACTOR             0.583                      0.333                     0.250                    0.625            0.708
+     APP/DEPART         7          /      8         4         /       4       1         /       1      5         /      4        0
+
+                                                           IROLO
+
+                                                         NORTH SIDE
+
+
+                        7TH           WEST SIDE                             EAST SIDE         7TH
+
+
+                                                         SOUTH SIDE
+
+                                                           IROLO
+                                   INTERSECTION TURNING MOVEMENT COUNTS
+                                               PREPARED BY: PACIFIC TRAFFIC DATA SERVICES
+         DATE:        LOCATION:                   LOS ANGELES                                 PROJECT #:      CA11-1014-1971
+        10/13/11      NORTH & SOUTH:              IROLO                                       LOCATION #:     2
+       THURSDAY       EAST & WEST:                7TH                                         CONTROL:        SIGNAL
+       CLASS 3:       NOTES:                                                                           AM               Y
+        3-AXLE                                                                                         PM               N
+        TRUCKS                                                                                         MD      W               E
+                                                                                                      OTHER             S
+                                                                                                      OTHER             
+                             NORTHBOUND                  SOUTHBOUND                EASTBOUND                WESTBOUND
+                                IROLO                       IROLO                       7TH                     7TH
+                        NL       NT       NR        SL       ST       SR      EL        ET      ER     WL       WT      WR     TOTAL
+             LANES:     0         2        0        0         2        0      1          1       0     1         1       0
+         7:00 AM        0         0        0        0        0         0       0         0       0     0         0       0      0
+         7:15 AM        0         0        0        0        0         0       0         0       0     1         0       0      1
+         7:30 AM        0         0        0        1        0         0       0         0       0     0         0       0      1
+         7:45 AM        0         0        0        0        0         0       0         0       0     0         0       0      0
+         8:00 AM        0         0        0        0        1         0       0         0       0     0         0       0      1
+         8:15 AM        0         0        0        0        0         0       0         0       0     0         0       1      1
+         8:30 AM        0         0        0        0        1         0       0         0       0     0         0       0      1
+         8:45 AM        0         0        0        0        1         0       0         0       0     0         0       0      1
+         9:00 AM        0         0        0        0        0         0       0         0       0     0         0       0      0
+         9:15 AM        0         0        0        0        0         0       0         0       0     0         0       0      0
+AM
+
+
+
+
+         9:30 AM        0         0        0        0        0         0       0         0       0     0         0       0      0
+         9:45 AM        0         0        0        0        0         0       0         0       0     0         0       0      0
+     VOLUMES            0         0        0        1        3         0       0         0       0     1         0       1      6
+     APPROACH %        0%        0%       0%       25%      75%       0%      0%        0%      0%    50%       0%      50%
+     APP/DEPART         0          /       1        4         /        4       0          /      1     2          /      0      0
+     BEGIN PEAK HR             8:00 AM
+     VOLUMES            0         0        0        0        3         0       0       0        0       0       0       1       4
+     APPROACH %        0%        0%       0%       0%      100%       0%      0%      0%       0%      0%      0%     100%
+     PEAK HR FACTOR             0.000                      0.750                     0.000                    0.250            1.000
+     APP/DEPART         0          /       1        3         /        3       0        /       0      1         /      0        0
+         3:00 PM        0         0        0        0        0         0       0       0         0      0       1        0       1
+         3:15 PM        0         0        0        0        0         1       0       0         0      0       0        0       1
+         3:30 PM        0         0        0        0        0         0       0       0         0      0       0        0       0
+         3:45 PM        0         0        0        0        1         0       0       0         0      0       0        0       1
+         4:00 PM        0         0        0        0        0         0       0       0         0      0       0        0       0
+         4:15 PM        0         0        0        0        0         0       0       0         0      0       0        0       0
+         4:30 PM        0         0        0        0        1         0       0       0         0      0       0        0       1
+         4:45 PM        0         0        0        0        0         0       0       0         0      0       0        0       0
+         5:00 PM        0         0        0        0        0         0       0       0         0      0       0        0       0
+         5:15 PM        0         0        0        0        0         0       0       0         0      0       0        0       0
+PM
+
+
+
+
+         5:30 PM        0         0        0        0        0         0       0       0         0      0       0        0       0
+         5:45 PM        0         0        0        0        0         0       0       0         0      0       0        0       0
+     VOLUMES            0         0        0        0        2         1       0       0         0      0       1        0       4
+     APPROACH %        0%        0%       0%       0%       67%       33%     0%      0%        0%     0%     100%      0%
+     APP/DEPART         0          /       0        3         /        2       0        /        0      1        /       2      0
+     BEGIN PEAK HR             3:00 PM
+     VOLUMES            0         0        0        0        1         1       0       0        0       0       1        0      3
+     APPROACH %        0%        0%       0%       0%       50%       50%     0%      0%       0%      0%     100%      0%
+     PEAK HR FACTOR             0.000                      0.500                     0.000                    0.250            0.750
+     APP/DEPART         0          /      0         2         /       1       0         /       0      1         /      2        0
+
+                                                           IROLO
+
+                                                         NORTH SIDE
+
+
+                        7TH           WEST SIDE                             EAST SIDE         7TH
+
+
+                                                         SOUTH SIDE
+
+                                                           IROLO
+                                   INTERSECTION TURNING MOVEMENT COUNTS
+                                               PREPARED BY: PACIFIC TRAFFIC DATA SERVICES
+         DATE:        LOCATION:                   LOS ANGELES                                 PROJECT #:      CA11-1014-1971
+        10/13/11      NORTH & SOUTH:              IROLO                                       LOCATION #:     2
+       THURSDAY       EAST & WEST:                7TH                                         CONTROL:        SIGNAL
+        CLASS 4:      NOTES:                                                                           AM               Y
+       4 OR MORE                                                                                       PM               N
+          AXLE                                                                                         MD      W               E
+         TRUCKS                                                                                       OTHER             S
+                                                                                                      OTHER             
+                             NORTHBOUND                  SOUTHBOUND                EASTBOUND                WESTBOUND
+                                IROLO                       IROLO                       7TH                     7TH
+                        NL       NT       NR        SL       ST       SR      EL        ET      ER     WL       WT      WR     TOTAL
+             LANES:     0         2        0        0         2        0      1          1       0     1         1       0
+         7:00 AM        0         0        0        0        1         1       0         0       0      0        0       0      2
+         7:15 AM        0         0        0        0        0         0       0         0       0      0        0       0      0
+         7:30 AM        0         0        0        0        1         0       0         0       0      0        0       0      1
+         7:45 AM        0         0        0        0        0         0       0         0       0      0        0       0      0
+         8:00 AM        0         0        0        0        0         0       0         0       0      0        0       0      0
+         8:15 AM        0         0        0        0        0         0       0         0       0      0        0       0      0
+         8:30 AM        0         0        0        0        0         0       0         0       0      0        0       0      0
+         8:45 AM        0         0        0        0        0         0       0         0       0      0        0       0      0
+         9:00 AM        0         0        0        0        0         0       0         0       0      0        0       0      0
+         9:15 AM        0         0        0        0        0         0       0         0       0      0        0       0      0
+AM
+
+
+
+
+         9:30 AM        0         0        0        0        0         0       0         0       0      0        0       0      0
+         9:45 AM        0         0        0        0        0         0       0         0       0      0        0       0      0
+     VOLUMES            0         0        0        0        2         1       0         0       0      0        0       0      3
+     APPROACH %        0%        0%       0%       0%       67%       33%     0%        0%      0%     0%       0%      0%
+     APP/DEPART         0          /       0        3         /        2       0          /      0      0         /      1      0
+     BEGIN PEAK HR             7:00 AM
+     VOLUMES            0         0        0        0         2        1       0       0        0       0       0        0      3
+     APPROACH %        0%        0%       0%       0%       67%       33%     0%      0%       0%      0%      0%       0%
+     PEAK HR FACTOR             0.000                      0.375                     0.000                    0.000            0.375
+     APP/DEPART         0          /       0        3          /       2       0        /       0      0         /      1        0
+         3:00 PM        0         0        0        0         0        0       0       0        0       0       0        0       0
+         3:15 PM        0         0        0        0         0        0       0       0        0       0       0        0       0
+         3:30 PM        0         0        0        0         0        0       0       0        0       0       0        0       0
+         3:45 PM        0         0        0        0         0        0       0       0        0       0       0        0       0
+         4:00 PM        0         0        0        0         0        0       0       0        0       0       0        0       0
+         4:15 PM        0         0        0        0         0        0       0       0        0       0       0        0       0
+         4:30 PM        0         0        0        0         0        0       0       0        0       0       0        0       0
+         4:45 PM        0         0        0        0         0        0       0       0        0       0       0        0       0
+         5:00 PM        0         0        0        0         0        0       0       0        0       0       0        0       0
+         5:15 PM        0         0        0        0         0        0       0       0        0       0       0        0       0
+PM
+
+
+
+
+         5:30 PM        0         0        0        0         0        0       0       0        0       0       0        0       0
+         5:45 PM        0         0        0        0         0        0       0       0        0       0       0        0       0
+     VOLUMES            0         0        0        0         0        0       0       0        0       0       0        0       0
+     APPROACH %        0%        0%       0%       0%        0%       0%      0%      0%       0%      0%      0%       0%
+     APP/DEPART         0          /       0        0          /       0       0        /       0       0        /       0      0
+     BEGIN PEAK HR             5:45 PM
+     VOLUMES            0         0        0        0        0         0       0       0        0       0       0        0      0
+     APPROACH %        0%        0%       0%       0%       0%        0%      0%      0%       0%      0%      0%       0%
+     PEAK HR FACTOR             0.000                      0.000                     0.000                    0.000            0.000
+     APP/DEPART         0          /      0         0         /       0       0         /       0      0         /      0        0
+
+                                                           IROLO
+
+                                                         NORTH SIDE
+
+
+                        7TH           WEST SIDE                             EAST SIDE         7TH
+
+
+                                                         SOUTH SIDE
+
+                                                           IROLO
+                                   INTERSECTION TURNING MOVEMENT COUNTS
+                                               PREPARED BY: PACIFIC TRAFFIC DATA SERVICES
+         DATE:        LOCATION:                   LOS ANGELES                                PROJECT #:      CA11-1014-1971
+        10/13/11      NORTH & SOUTH:              IROLO                                      LOCATION #:     2
+       THURSDAY       EAST & WEST:                7TH                                        CONTROL:        SIGNAL
+       CLASS 5:       NOTES:                                                                          AM               Y
+     RECREATIONAL                                                                                     PM               N
+       VEHICLES                                                                                       MD      W               E
+                                                                                                     OTHER             S
+                                                                                                     OTHER             
+                             NORTHBOUND                  SOUTHBOUND               EASTBOUND                WESTBOUND
+                                IROLO                       IROLO                      7TH                     7TH
+                        NL       NT       NR        SL       ST       SR     EL        ET      ER     WL       WT      WR     TOTAL
+             LANES:     0         2        0        0         2        0     1          1       0     1         1       0
+         7:00 AM        0         0        0        0        0         0      0         0      0       0        0       0      0
+         7:15 AM        0         0        0        0        0         0      0         0      0       0        0       0      0
+         7:30 AM        0         0        0        0        0         0      0         0      0       0        0       0      0
+         7:45 AM        0         0        0        0        0         0      0         0      0       0        0       0      0
+         8:00 AM        0         0        0        0        0         0      0         0      0       0        0       0      0
+         8:15 AM        0         0        0        0        0         0      0         0      0       0        0       0      0
+         8:30 AM        0         0        0        0        0         0      0         0      0       0        0       0      0
+         8:45 AM        0         0        0        0        0         0      0         0      0       0        0       0      0
+         9:00 AM        0         0        0        0        0         0      0         0      0       0        0       0      0
+         9:15 AM        0         0        0        0        0         0      0         0      0       0        0       0      0
+AM
+
+
+
+
+         9:30 AM        0         0        0        0        0         0      0         0      0       0        0       0      0
+         9:45 AM        0         0        0        0        0         0      0         0      0       0        0       0      0
+     VOLUMES            0         0        0        0        0         0      0         0      0       0        0       0      0
+     APPROACH %        0%        0%       0%       0%       0%        0%     0%        0%     0%      0%       0%      0%
+     APP/DEPART         0          /       0        0         /        0      0          /     0       0         /      0      0
+     BEGIN PEAK HR             9:45 AM
+     VOLUMES            0         0        0        0        0         0      0       0        0       0       0        0      0
+     APPROACH %        0%        0%       0%       0%       0%        0%     0%      0%       0%      0%      0%       0%
+     PEAK HR FACTOR             0.000                      0.000                    0.000                    0.000            0.000
+     APP/DEPART         0          /       0        0         /        0      0        /       0      0         /      0        0
+         3:00 PM        0         0        0        0        0         0      0       0        0       0       0        0       0
+         3:15 PM        0         0        0        0        0         0      0       0        0       0       0        0       0
+         3:30 PM        0         0        0        0        0         0      0       0        0       0       0        0       0
+         3:45 PM        0         0        0        0        0         0      0       0        0       0       0        0       0
+         4:00 PM        0         0        0        0        0         0      0       0        0       0       0        0       0
+         4:15 PM        0         0        0        0        0         0      0       0        0       0       0        0       0
+         4:30 PM        0         0        0        0        0         0      0       0        0       0       0        0       0
+         4:45 PM        0         0        0        0        0         0      0       0        0       0       0        0       0
+         5:00 PM        0         0        0        0        0         0      0       0        0       0       0        0       0
+         5:15 PM        0         0        0        0        0         0      0       0        0       0       0        0       0
+PM
+
+
+
+
+         5:30 PM        0         0        0        0        0         0      0       0        0       0       0        0       0
+         5:45 PM        0         0        0        0        0         0      0       0        0       0       0        0       0
+     VOLUMES            0         0        0        0        0         0      0       0        0       0       0        0       0
+     APPROACH %        0%        0%       0%       0%       0%        0%     0%      0%       0%      0%      0%       0%
+     APP/DEPART         0          /       0        0         /        0      0        /       0       0        /       0      0
+     BEGIN PEAK HR             5:45 PM
+     VOLUMES            0         0        0        0        0         0      0       0        0       0       0        0      0
+     APPROACH %        0%        0%       0%       0%       0%        0%     0%      0%       0%      0%      0%       0%
+     PEAK HR FACTOR             0.000                      0.000                    0.000                    0.000            0.000
+     APP/DEPART         0          /      0         0         /       0      0         /       0      0         /      0        0
+
+                                                           IROLO
+
+                                                         NORTH SIDE
+
+
+                        7TH           WEST SIDE                            EAST SIDE         7TH
+
+
+                                                         SOUTH SIDE
+
+                                                           IROLO
+                                   INTERSECTION TURNING MOVEMENT COUNTS
+                                               PREPARED BY: PACIFIC TRAFFIC DATA SERVICES
+         DATE:        LOCATION:                   LOS ANGELES                                PROJECT #:      CA11-1014-1971
+        10/13/11      NORTH & SOUTH:              IROLO                                      LOCATION #:     2
+       THURSDAY       EAST & WEST:                7TH                                        CONTROL:        SIGNAL
+       CLASS 6:       NOTES:                                                                          AM               Y
+        BUSSES                                                                                        PM               N
+                                                                                                      MD      W               E
+                                                                                                     OTHER             S
+                                                                                                     OTHER             
+                             NORTHBOUND                  SOUTHBOUND               EASTBOUND                WESTBOUND
+                                IROLO                       IROLO                      7TH                     7TH
+                        NL       NT       NR        SL       ST       SR     EL        ET      ER     WL       WT      WR     TOTAL
+             LANES:     0         2        0        0         2        0     1          1       0     1         1       0
+         7:00 AM        0         2        1        1        1         0      0         0       0      0        0       0      5
+         7:15 AM        0         5        0        1        3         0      0         0       0      0        0       0      9
+         7:30 AM        0         3        0        0        1         0      0         0       0      0        0       0      4
+         7:45 AM        0         1        1        0        2         0      0         0       0      0        1       0      5
+         8:00 AM        0         2        0        1        7         0      0         0       0      0        0       0      10
+         8:15 AM        0         3        0        0        1         0      0         0       0      0        0       0      4
+         8:30 AM        0         2        0        0        4         0      0         0       0      0        0       0      6
+         8:45 AM        0          0       0        0        3         0      0         0       0      0        0       0       3
+         9:00 AM        0          1       0        0        1         0      0         0       0      0        0       0       2
+         9:15 AM        0          2       0        0        1         0      0         0       0      0        0       0       3
+AM
+
+
+
+
+         9:30 AM        0          0       0        0        1         0      0         0       0      0        0       0       1
+         9:45 AM        0          0       0        0        1         0      0         0       0      0        0       0       1
+     VOLUMES            0         21       2         3       26        0      0         0       0      0        1       0      53
+     APPROACH %        0%        91%      9%       10%      90%       0%     0%        0%      0%     0%      100%     0%
+     APP/DEPART        23          /      21        29        /       26      0          /      5      1         /      1      0
+     BEGIN PEAK HR             7:15 AM
+     VOLUMES            0         11       1        2        13        0      0       0        0       0       1        0      28
+     APPROACH %        0%        92%      8%       13%      87%       0%     0%      0%       0%      0%     100%      0%
+     PEAK HR FACTOR             0.600                      0.469                    0.000                    0.250            0.700
+     APP/DEPART        12          /      11       15         /       13      0        /       3      1         /      1        0
+         3:00 PM        0         2        0        0        2         0      0       0         0      0       0        0       4
+         3:15 PM        0         2        0        0        1         0      0       0         0      0       0        0       3
+         3:30 PM        0         2        0        0        1         0      0       0         0      0       0        0       3
+         3:45 PM        0         4        0        0        2         0      0       0         0      0       0        0       6
+         4:00 PM        0         3        0        0        2         0      0       0         0      0       0        0       5
+         4:15 PM        0         2        1        0        4         0      0       0         0      0       0        0       7
+         4:30 PM        0          1       0        0         2        0      0       0         0      0       0        0       3
+         4:45 PM        0          2       0        0         1        1      0       0         0      0       0        0       4
+         5:00 PM        0          1       0        0         3        0      0       0         0      0       0        0       4
+         5:15 PM        0          2       0        0         1        0      0       0         0      0       0        0       3
+PM
+
+
+
+
+         5:30 PM        0          2       0        0         3        0      0       0         0      0       0        0       5
+         5:45 PM        0          0       0        0         3        0      0       0         0      0       0        0       3
+     VOLUMES            0         23       1        0        25        1      0       0         0      0       0        0       50
+     APPROACH %        0%        96%      4%       0%       96%       4%     0%      0%        0%     0%      0%       0%
+     APP/DEPART        24          /      23       26          /      25      0        /        1      0        /       1      0
+     BEGIN PEAK HR             3:45 PM
+     VOLUMES            0         10       1        0        10        0      0       0        0       0       0        0      21
+     APPROACH %        0%        91%      9%       0%      100%       0%     0%      0%       0%      0%      0%       0%
+     PEAK HR FACTOR             0.688                      0.625                    0.000                    0.000            0.750
+     APP/DEPART        11          /      10       10         /       10     0         /       1      0         /      0        0
+
+                                                           IROLO
+
+                                                         NORTH SIDE
+
+
+                        7TH           WEST SIDE                            EAST SIDE         7TH
+
+
+                                                         SOUTH SIDE
+
+                                                           IROLO
+

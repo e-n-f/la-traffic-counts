@@ -1,0 +1,61 @@
+                       City Of Los Angeles
+                       Department Of Transportation
+                       MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South            MEYLER ST
+
+East/West              CHANNEL ST
+
+Day:               TUESDAY                Date:        February 9, 2010                Weather:          SUNNY
+
+Hours:      7-10AM 3-6PM                                            Chekrs:            ALAS
+
+School Day:            YES                District:         SOUTHERN                     I/S CODE 17829
+
+
+                        N/B                           S/B                                E/B                     W/B
+DUAL-
+WHEELED                      0                          2                                 15                      15
+BIKES                        0                          0                                  0                       0
+BUSES                        0                          0                                  0                       0
+
+
+                        N/B TIME                      S/B TIME                           E/B TIME                W/B TIME
+
+AM PK 15 MIN                 0   7.00                  40    8.00                        129      8.15            78    7.45
+
+PM PK 15 MIN                 0   3.00                  23    4.45                         81      3.45           118    5.45
+
+AM PK HOUR                   0   7.00                 150    7.15                        428      7.30           249    7.30
+
+PM PK HOUR                   0   3.00                  63    4.45                        251      3.30           381    5.00
+
+
+
+NORTHBOUND Approach                                         SOUTHBOUND Approach                                        TOTAL   XING S/L   XING N/L
+                  NONE                                                   MEYLER ST
+Hours   Lt   Th    Rt Total                                 Hours    Lt   Th    Rt Total                                N-S     Ped Sch    Ped   Sch
+7-8        0    0    0                            0         7-8      133     0    3   136                                136      0   0      5     0
+8-9        0    0    0                            0         8-9      105     0    7   112                                112      0   0      0     0
+9-10       0    0    0                            0         9-10      59     0    7     66                                66      0   0      4     0
+3-4        0    0    0                            0         3-4       42     0    6     48                                48      0   0      2     0
+4-5        0    0    0                            0         4-5       54     0    2     56                                56      0   0      0     0
+5-6        0    0    0                            0         5-6       58     0    5     63                                63      0   0      0     0
+
+TOTAL              0         0        0           0         TOTAL             451          0       30      481           481     0    0     11    0
+
+
+EASTBOUND Approach                                          WESTBOUND Approach                                         TOTAL   XING W/L   XING E/L
+
+Hours         Lt        Th       Rt       Total             Hours             Lt        Th        Rt Total             E-W      Ped Sch    Ped   Sch
+7-8                2     336          0      338            7-8                    0     166       18   184              522      0   2      0     0
+8-9                6     337          0      343            8-9                    0     180       33   213              556      0   0      0     0
+9-10               4     181          0      185            9-10                   0      98       27   125              310      0   0      0     0
+3-4                5     215          0      220            3-4                    0     280       42   322              542      0   0      0     0
+4-5                0     224          0      224            4-5                    0     269       55   324              548      0   0      0     0
+5-6                2     186          0      188            5-6                    0     300       81   381              569      0   0      0     0
+
+TOTAL          19 1479                0     1498            TOTAL                  0 1293         256     1549          3047     0    2      0    0
+
+            (Rev Oct 06)
+

@@ -1,0 +1,75 @@
+                                   Intersection Turning Movement
+                                                          Prepared by:
+                                           National Data & Surveying Services
+         Project ID: CA12_5218_002                                                                                   Day: THURSDAY
+
+                 City: City of Hollywood                                                                            Date: 05/24/2012
+                                                                           AM
+     NS/EW Streets:             Argyle Ave               Argyle Ave                  Franklin Ave               Franklin Ave
+                                NORTHBOUND               SOUTHBOUND                  EASTBOUND                  WESTBOUND
+
+                          NL       NT        NR    SL       ST        SR        EL       ET         ER    WL        WT         WR      TOTAL
+     LANES:               1.5      0.5        1    0.5      0.5        1        1         2          1    1          2          0
+
+          7:00   AM       1         1         9    1        18        0         2         84        11    34        114         1      276
+          7:15   AM       1         2         8    20       22        2         1        101        4     32        137         3      333
+          7:30   AM       1         3         9    11       29        4         4        159        10    38        202         6      476
+          7:45   AM       3         8         12   16       22        3         4        127        16    51        195         1      458
+          8:00   AM       1         3         17   13       30        11        5        133        13    38        173         0      437
+          8:15   AM       4         4         12   11       27        5         6        109        15    40        185         5      423
+          8:30   AM       0         5         13   14       31        1         3        133        25    34        198         3      460
+          8:45   AM       0         11        11   13       26        3         2        138        35    67        200         0      506
+          9:00   AM       6         11        17   17       32        7         9        129        37    43        186         2      496
+          9:15   AM       1         5         9    14       24        4         8        134        38    52        192         6      487
+          9:30   AM       1         11        13   11       23        2         9        104        19    39        183         6      421
+          9:45   AM       11        9         11   10       29        5         7        144        32    37        162         5      462
+
+                        NL       NT  NR       SL    ST                 SR        EL     ET     ER    WL      WT                WR      TOTAL
+   TOTAL VOLUMES :      30       73  141     151    313                47        60    1495   255    505    2127                38      5235
+    APPROACH %'s :    12.30% 29.92% 57.79% 29.55% 61.25%              9.20%     3.31% 82.60% 14.09% 18.91% 79.66%              1.42%
+                     nb a     nb d        sb a   sb d                         eb a   eb d          wb a   nb d
+PEAK HR START TIME :      830 AM                                                                                                       TOTAL
+
+      PEAK HR VOL :       7        32        50    58      113        15        22      534         135   196      776         11      1949
+
+   PEAK HR FACTOR :               0.654                    0.830                        0.960                      0.920               0.963
+
+         CONTROL : Signalized
+                                    Intersection Turning Movement
+                                                            Prepared by:
+                                            National Data & Surveying Services
+         Project ID: CA12_5218_002                                                                                       Day: THURSDAY
+
+                  City: City of Hollywood                                                                               Date: 05/24/2012
+                                                                            PM
+     NS/EW Streets:              Argyle Ave               Argyle Ave                  Franklin Ave                  Franklin Ave
+                                 NORTHBOUND               SOUTHBOUND                  EASTBOUND                     WESTBOUND
+
+                           NL       NT        NR    SL       ST        SR        EL       ET         ER        WL       WT         WR      TOTAL
+     LANES:                1.5      0.5        1    0.5      0.5        1        1         2          1        1         2          0
+
+           3:00   PM       5         12       25    17       27         5        5        181        10        24       138         4      453
+           3:15   PM       4         3        19    12       21         1        7        216        12        33       136         0      464
+           3:30   PM       5         10       25    17       20         2        1        211        8         33       143         3      478
+           3:45   PM       9         9        46    9        21         2        7        213        9         30       163         0      518
+           4:00   PM       4         16       38    15       24         6        3        183        8         31       180         2      510
+           4:15   PM       7         13       28    14       8          3        3        219        4         19       136         0      454
+           4:30   PM       1         14       30    18       16         4        8        222        10        21       152         1      497
+           4:45   PM       3         16       30    11       13         1        6        199        7         17       134         2      439
+           5:00   PM       5         14       34    11       15         2        5        259        8         26       141         2      522
+           5:15   PM       9         7        33    7        14         5        8        247        6         23       139         1      499
+           5:30   PM       0         21       39    10       19         5        7        213        3         22       129         4      472
+           5:45   PM       12        14       40    21       24         3        10       242        9         19       152         5      551
+
+                        NL       NT  NR       SL    ST                  SR        EL     ET           ER       WL      WT          WR      TOTAL
+   TOTAL VOLUMES :      64      149  387     162    222                 39        70    2605          94       298    1743          24      5857
+    APPROACH %'s :    10.67% 24.83% 64.50% 38.30% 52.48%               9.22%     2.53% 94.08%        3.39%    14.43% 84.41%        1.16%
+                     nb a     nb d        sb a   sb d                          eb a   eb d                   wb a   nb d
+PEAK HR START TIME :      500 PM                                                                                                           TOTAL
+
+      PEAK HR VOL :       26        56        146   49       72        15        30      961         26        90      561         12      2044
+
+   PEAK HR FACTOR :                0.864                    0.708                        0.935                         0.942               0.927
+
+         CONTROL : Signalized
+

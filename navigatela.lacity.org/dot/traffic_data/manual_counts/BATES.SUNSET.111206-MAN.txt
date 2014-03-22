@@ -1,0 +1,375 @@
+                         City Of Los Angeles
+                         Department Of Transportation
+                         MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South              Bates Avenue
+
+East/West                Sunset Boulevard
+
+Day:          Wednesday                   Date:        December 6, 2011        Weather:          CLEAR
+
+Hours:        7-10AM 3-6PM
+
+School Day:              YES              District:         LOS ANGELES          I/S CODE                   0
+
+
+                           N/B                        S/B                        E/B                     W/B
+DUAL-
+WHEELED                        2                       3                          59                       98
+BIKES                          1                       0                          29                       20
+BUSES                          0                       0                          20                       33
+
+
+                           N/B TIME                   S/B TIME                   E/B TIME                W/B    TIME
+
+AM PK 15 MIN                13     7.45               22     7.45                265      8.15            238    7.45
+
+PM PK 15 MIN                10     4.00               12     5.00                332      5.15            280    5.00
+
+AM PK HOUR                  38     7.30               62     7.15               1036      8.00            745    8.45
+
+PM PK HOUR                  30     4.00               34     5.00               1277      4.30           1076    5.00
+
+
+
+NORTHBOUND Approach                                         SOUTHBOUND Approach                                 TOTAL       XING S/L           XING N/L
+
+Hours           Lt        Th       Rt Total                 Hours     Lt        Th        Rt Total               N-S          Ped Sch            Ped   Sch
+7-8                  7         0    24     31               7-8        34            7     20     61               94          12   0             13     1
+8-9                  4         0    18     22               8-9        14            1     19     34               56          12   0             11     0
+9-10                 2         0     8     10               9-10       20            2     35     57               67           6   0              4     0
+3-4                  6         0    11     17               3-4          5           0     18     23               40          47   0             19     0
+4-5                  4         0    26     30               4-5          5           0     19     24               54          46   0             15     0
+5-6                  3         0    22     25               5-6          2           1     29     32               57          37   0             19     0
+
+TOTAL            26            0    65         91           TOTAL         80      11      140      231            368         160       0         81    1
+
+
+EASTBOUND Approach                                          WESTBOUND Approach                                  TOTAL       XING W/L           XING E/L
+
+Hours           Lt  Th             Rt Total                 Hours     Lt        Th        Rt Total              E-W           Ped Sch            Ped   Sch
+7-8               5 832             16   853                7-8        21       629        58   708              1561           3   0              4     0
+8-9              11 1004            21 1036                 8-9        24       699        23   746              1782           1   0              1     0
+9-10             21 854             24   899                9-10       16       708        20   744              1643           2   0              1     0
+3-4              33 950             16   999                3-4        20       853        18   891              1890           2   0              5     0
+4-5              35 1120            23 1178                 4-5        25       880        21   926              2104           6   0              0     0
+5-6              46 1124            43 1213                 5-6        29       993        20 1042               2255           2   0              3     0
+
+TOTAL           151 5884           143      6178                      135 4762            160     5057          11235          16       0         14    0
+
+              (Rev Oct 06)
+
+
+                                                                                                                        City of Los Angeles
+                                                                                                                        Department of Transportation
+                                                                   Counts Unlimited Inc.
+                                                                      PO Box 1178
+                                                                    Corona, CA 92878
+                                                                     (951) 268-6268
+City of Los Angeles                                                                                                                    File Name    : LOSBASUAM
+N/S: Bates Avenue                                                                                                                      Site Code    : 00000001
+E/W: Sunset Boulevard                                                                                                                  Start Date   : 12/6/2011
+Weather: Sunny                                                                                                                         Page No      :1
+
+
+                                                                Groups Printed- Total Volume
+                      Bates Avenue                      Sunset Boulevard                  Bates Avenue                     Sunset Boulevard
+                       Southbound                          Westbound                       Northbound                         Eastbound
+   Start Time    Left Thru Right       App. Total   Left Thru Right App. Total      Left Thru Right       App. Total   Left Thru Right App. Total          Int. Total
+    07:00 AM       5      1      2            8       0    112       1       113       0      0      3           3       0    140       2   142                266
+    07:15 AM      11      0      6           17       2    138       6       146       1      0      3           4       2    198       2   202                369
+    07:30 AM       4      3      7           14       5    179      27       211       4      0      7          11       2    249       6   257                493
+    07:45 AM      14      3      5           22      14    200      24       238       2      0    11           13       1    245       6   252                525
+         Total    34      7    20            61      21    629      58       708       7      0    24           31       5    832      16   853               1653
+
+    08:00 AM        5       0      4          9       8    189      3      200       2        0      5           7        2     243        7         252       468
+    08:15 AM        4       1      2          7       4    172      5      181       1        0      6           7        0     259        6         265       460
+    08:30 AM        4       0      6         10       6    163      4      173       0        0      4           4        5     236        3         244       431
+    08:45 AM        1       0      7          8       6    175     11      192       1        0      3           4        4     266        5         275       479
+         Total     14       1     19         34      24    699     23      746       4        0     18          22       11    1004       21        1036      1838
+
+    09:00 AM        4       0      8         12       2    166      8      176       2        0      2           4        7     211        8         226       418
+    09:15 AM        7       1     12         20       6    183      3      192       0        0      2           2        5     221        5         231       445
+    09:30 AM        4       0      8         12       5    185      5      195       0        0      2           2        4     213        6         223       432
+    09:45 AM        5       1      7         13       3    174      4      181       0        0      2           2        5     209        5         219       415
+         Total     20       2     35         57      16    708     20      744       2        0      8          10       21     854       24         899      1710
+
+ Grand Total       68      10     74        152      61   2036    101     2198      13        0     50          63       37    2690        61       2788      5201
+   Apprch %      44.7     6.6   48.7                2.8    92.6    4.6            20.6        0   79.4                  1.3     96.5      2.2
+     Total %      1.3     0.2    1.4         2.9    1.2    39.1    1.9     42.3    0.2        0      1          1.2     0.7     51.7      1.2       53.6
+
+
+
+
+                          Bates Avenue                    Sunset Boulevard                 Bates Avenue                    Sunset Boulevard
+                           Southbound                        Westbound                      Northbound                        Eastbound
+   Start Time      Left Thru Right App. Total        Left Thru Right App. Total    Left    Thru Right     App. Total   Left Thru Right App. Total          Int. Total
+Peak Hour Analysis From 07:00 AM to 09:45 AM - Peak 1 of 1
+Peak Hour for Entire Intersection Begins at 07:30 AM
+    07:30 AM          4        3      7        14       5    179       27   211      4        0      7          11        2     249        6         257       493
+    07:45 AM        14         3      5         22     14    200       24   238      2        0     11           13        1    245        6         252        525
+    08:00 AM          5        0      4          9      8    189        3   200      2        0      5           7         2    243        7         252       468
+    08:15 AM          4        1      2          7      4    172        5   181      1        0      6           7         0    259         6        265       460
+ Total Volume       27         7     18        52      31    740       59   830      9        0     29          38         5    996        25       1026      1946
+ % App. Total     51.9     13.5    34.6               3.7 89.2        7.1         23.7        0   76.3                   0.5   97.1       2.4
+          PHF     .482     .583    .643      .591   .554    .925    .546   .872   .563     .000   .659        .731     .625    .961     .893        .968       .927
+                                                                                               Counts Unlimited Inc.
+                                                                                                  PO Box 1178
+                                                                                                Corona, CA 92878
+                                                                                                 (951) 268-6268
+City of Los Angeles                                                                                                                                                                   File Name        : LOSBASUAM
+N/S: Bates Avenue                                                                                                                                                                     Site Code        : 00000001
+E/W: Sunset Boulevard                                                                                                                                                                 Start Date       : 12/6/2011
+Weather: Sunny                                                                                                                                                                        Page No          :2
+
+                                                                                                       Bates Avenue
+                                                                                                Out         In      Total
+                                                                                                  64          52      116
+
+
+                                                                                                    18     7                27
+                                                                                                 Right Thru               Left
+
+
+
+
+                                                                                             Peak Hour Data
+                                             1793
+                                             Total
+
+
+
+
+                                                                                                                                                                             1052
+                                                                                                                                                                             Out
+                                                       5
+
+
+
+
+                                                                                                                                                            Right Thru
+                                                            Left
+
+
+
+
+                                                                                                                                                                               Sunset Boulevard
+                            Sunset Boulevard
+
+
+
+
+                                                                                                                 North
+
+
+
+
+                                                                                                                                                               59
+                                    1026
+
+
+                                                              996
+                                                       Right Thru
+                                     In
+
+
+
+
+                                                                                                                                                                                      In
+                                                                                                                                                                   740
+                                                                                             Peak Hour Begins at 07:30 AM
+
+
+
+
+                                                                                                                                                                                       830
+                                                                                             Total Volume
+                                                          25
+
+
+
+
+                                                                                                                                                            Left
+                            767
+                           Out
+
+
+
+
+                                                                                                                                                                                              Total
+                                                                                                                                                              31
+
+
+                                                                                                                                                                                               1882
+                                                                                                     Left        Thru Right
+                                                                                                            9        0   29
+
+
+                                                                                                  63          38      101
+                                                                                                Out         In      Total
+                                                                                                       Bates Avenue
+
+Peak Hour Analysis From 07:00 AM to 09:45 AM - Peak 1 of 1
+Peak Hour for Each Approach Begins at:
+                07:15 AM                                                   07:30 AM                                      07:30 AM                        08:00 AM
+    +0 mins.       11            0                      6            17         5      179      27              211          4         0      7    11         2            243                 7       252
+   +15 mins.        4            3                      7            14        14      200      24              238          2         0     11    13         0            259                 6       265
+   +30 mins.       14            3                      5            22         8      189       3              200          2         0      5     7         5            236                 3       244
+   +45 mins.        5            0                      4             9         4      172       5              181          1         0      6     7         4            266                 5       275
+ Total Volume      34            6                     22            62        31      740      59              830          9         0     29    38        11          1004                 21      1036
+ % App. Total    54.8          9.7                   35.5                     3.7     89.2     7.1                        23.7         0   76.3             1.1           96.9                 2
+         PHF     .607        .500                    .786           .705    .554      .925   .546               .872      .563      .000   .659   .731    .550            .944              .750      .942
+                                                                    Counts Unlimited Inc.
+                                                                       PO Box 1178
+                                                                     Corona, CA 92878
+                                                                      (951) 268-6268
+City of Los Angeles                                                                                                                     File Name    : LOSBASUPM
+N/S: Bates Avenue                                                                                                                       Site Code    : 00000001
+E/W: Sunset Boulevard                                                                                                                   Start Date   : 12/6/2011
+Weather: Sunny                                                                                                                          Page No      :1
+
+
+                                                                 Groups Printed- Total Volume
+                         Bates Avenue                    Sunset Boulevard                  Bates Avenue                     Sunset Boulevard
+                          Southbound                        Westbound                       Northbound                         Eastbound
+   Start Time     Left   Thru Right     App. Total   Left Thru Right App. Total      Left Thru Right       App. Total   Left Thru Right App. Total          Int. Total
+    03:00 PM        2        0      5          7       6    213       9       228       2      0      3           5       5    237       1   243                483
+    03:15 PM        0        0      2          2       4    212       5       221       1      0      2           3      13    234       3   250                476
+    03:30 PM        3        0      5          8       6    209       2       217       3      0      2           5       9    241       4   254                484
+    03:45 PM        0        0      6          6       4    219       2       225       0      0      4           4       6    238       8   252                487
+         Total      5        0    18          23      20    853      18       891       6      0    11           17      33    950      16   999               1930
+
+    04:00 PM        0       0       2          2       3    214      6      223       0        0     10          10       10     282        6         298       533
+    04:15 PM        2       0       8         10      10    206      8      224       0        0      2           2        9     278        5         292       528
+    04:30 PM        2       0       4          6       4    231      5      240       1        0      8           9        6     292        3         301       556
+    04:45 PM        1       0       5          6       8    229      2      239       3        0      6           9       10     268        9         287       541
+         Total      5       0      19         24      25    880     21      926       4        0     26          30       35    1120       23        1178      2158
+
+    05:00 PM        0       1      11         12      13    256      5      274       0        0      9           9        7     280       15         302       597
+    05:15 PM        1       0       7          8       4    241      5      250       2        0      4           6       14     298        9         321       585
+    05:30 PM        0       0       5          5       4    251      4      259       1        0      2           3       10     268       14         292       559
+    05:45 PM        1       0       6          7       8    245      6      259       0        0      7           7       15     278        5         298       571
+         Total      2       1      29         32      29    993     20     1042       3        0     22          25       46    1124       43        1213      2312
+
+  Grand Total      12       1      66         79      74   2726      59    2859      13        0     59          72     114     3194        82       3390      6400
+    Apprch %     15.2     1.3    83.5                2.6    95.3    2.1            18.1        0   81.9                  3.4     94.2      2.4
+      Total %     0.2       0       1         1.2    1.2    42.6    0.9     44.7    0.2        0    0.9          1.1     1.8     49.9      1.3         53
+
+
+
+
+                          Bates Avenue                    Sunset Boulevard                  Bates Avenue                    Sunset Boulevard
+                           Southbound                        Westbound                       Northbound                        Eastbound
+   Start Time      Left Thru Right App. Total        Left Thru Right App. Total     Left    Thru Right     App. Total   Left Thru Right App. Total          Int. Total
+Peak Hour Analysis From 03:00 PM to 05:45 PM - Peak 1 of 1
+Peak Hour for Entire Intersection Begins at 05:00 PM
+    05:00 PM          0        1     11         12     13    256        5    274      0        0      9            9       7     280       15         302        597
+    05:15 PM          1        0      7          8      4    241        5    250      2        0      4           6       14     298         9        321       585
+    05:30 PM          0        0      5          5      4    251        4    259      1        0      2           3       10      268       14        292       559
+    05:45 PM          1        0      6          7      8    245        6    259      0        0      7           7       15      278        5        298       571
+ Total Volume         2        1     29        32      29    993       20  1042       3        0     22          25        46   1124        43       1213      2312
+ % App. Total       6.2      3.1 90.6                 2.8 95.3        1.9            12        0     88                   3.8    92.7      3.5
+          PHF     .500     .250    .659      .667   .558    .970    .833    .951   .375     .000   .611        .694     .767     .943    .717        .945       .968
+                                                                                               Counts Unlimited Inc.
+                                                                                                  PO Box 1178
+                                                                                                Corona, CA 92878
+                                                                                                 (951) 268-6268
+City of Los Angeles                                                                                                                                                                     File Name        : LOSBASUPM
+N/S: Bates Avenue                                                                                                                                                                       Site Code        : 00000001
+E/W: Sunset Boulevard                                                                                                                                                                   Start Date       : 12/6/2011
+Weather: Sunny                                                                                                                                                                          Page No          :2
+
+                                                                                                       Bates Avenue
+                                                                                                Out         In      Total
+                                                                                                  66          32       98
+
+
+                                                                                                    29     1                      2
+                                                                                                 Right Thru                Left
+
+
+
+
+                                                                                             Peak Hour Data
+                                             2238
+                                             Total
+
+
+
+
+                                                                                                                                                                               1148
+                                                                                                                                                                               Out
+                                                         46
+
+
+
+
+                                                                                                                                                              Right Thru
+                                                       Left
+
+
+
+
+                                                                                                                                                                                 Sunset Boulevard
+                            Sunset Boulevard
+
+
+
+
+                                                                                                                 North
+
+
+
+
+                                                                                                                                                                 20
+                                    1213
+
+
+                                                          43 1124
+                                                       Right Thru
+                                     In
+
+
+
+
+                                                                                                                                                                                       1042
+                                                                                                                                                                                        In
+                                                                                                                                                                     993
+                                                                                             Peak Hour Begins at 05:00 PM
+
+                                                                                             Total Volume
+
+
+
+
+                                                                                                                                                              Left
+                           1025
+                           Out
+
+
+
+
+                                                                                                                                                                                                Total
+                                                                                                                                                                29
+
+
+                                                                                                                                                                                                 2190
+                                                                                                     Left        Thru Right
+                                                                                                            3        0   22
+
+
+                                                                                                  73          25       98
+                                                                                                Out         In      Total
+                                                                                                       Bates Avenue
+
+Peak Hour Analysis From 03:00 PM to 05:45 PM - Peak 1 of 1
+Peak Hour for Each Approach Begins at:
+                04:15 PM                                                   05:00 PM                                      04:30 PM                          05:00 PM
+    +0 mins.        2            0                      8            10        13      256       5           274             1           0      8     9         7            280                 15      302
+   +15 mins.        2            0                      4             6         4      241       5           250             3           0      6     9        14            298                  9      321
+   +30 mins.        1            0                      5             6         4      251       4           259             0           0      9     9        10            268                 14      292
+   +45 mins.        0            1                     11            12         8      245       6           259             2           0      4     6        15            278                  5      298
+ Total Volume       5            1                     28            34        29      993      20          1042             6           0     27    33        46          1124                  43     1213
+ % App. Total    14.7          2.9                   82.4                     2.8     95.3     1.9                        18.2           0   81.8             3.8           92.7                3.5
+         PHF     .625        .250                    .636           .708    .558      .970   .833               .951      .500        .000   .750   .917    .767            .943              .717      .945
+

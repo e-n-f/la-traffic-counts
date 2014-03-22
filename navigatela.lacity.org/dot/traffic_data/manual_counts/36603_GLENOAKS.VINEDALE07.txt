@@ -1,0 +1,61 @@
+                    City Of Los Angeles
+                    Department Of Transportation
+                    MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South         GLENOAKS BL
+
+East/West           VINEDALE ST
+
+Day:        TUESDAY                Date:       JUNE 19, 2007            Weather:           SUNNY
+
+Hours:      7-10AM 3-6PM                                                District:          WILTEC
+
+School Day:         YES            District:          EV                I/S CODE           36603
+
+
+                     N/B                        S/B                       E/B                       W/B
+DUAL-
+WHEELED               194                       142                         14                        7
+BIKES                   0                         0                          0                        0
+BUSES                  47                        37                          0                        0
+
+
+                     N/B TIME                   S/B TIME                  E/B TIME                  W/B TIME
+
+AM PK 15 MIN          201   7.45                258    8.00                 20      9.00             14    7.30
+
+PM PK 15 MIN         376    5.15                236    4.00                 25      4.45             15    3.45
+
+AM PK HOUR           658    7.45                963    7.30                 42      8.30             47    8.45
+
+PM PK HOUR           1365   5.00                717    3.15                 73      4.00             45    3.00
+
+
+
+NORTHBOUND Approach                                   SOUTHBOUND Approach                                 TOTAL   XING S/L   XING N/L
+
+Hours         Lt     Th   Rt Total                    Hours    Lt         Th        Rt Total               N-S     Ped Sch    Ped   Sch
+7-8            78      54 471   603                   7-8         2        797       14   813              1416     10   2      3     0
+8-9            59      44 480   583                   8-9         8        916       18   942              1525      9   0      8     1
+9-10           43      30 433   506                   9-10        8        726       18   752              1258      4   1      8     0
+3-4            98      88 874 1060                    3-4         6        590       24   620              1680     13   1      9     1
+4-5           135     122 968 1225                    4-5         9        661       16   686              1911      6   0      3     0
+5-6           156     153 1056 1365                   5-6        21        642       14   677              2042     18   0     10     0
+
+TOTAL         569     491 4282       5342             TOTAL      54 4332            104      4490          9832     60   4     41    2
+
+
+EASTBOUND Approach                                    WESTBOUND Approach                                  TOTAL   XING W/L   XING E/L
+
+Hours         Lt     Th     Rt     Total              Hours    Lt         Th        Rt Total              E-W      Ped Sch    Ped   Sch
+7-8             9     14      4         27            7-8           5      15        15     35               62      1   2    170     1
+8-9             9       7     4         20            8-9           5      15        17     37               57      5   1    182     0
+9-10           12     20      7         39            9-10          2      22        21     45               84      2   4    107     0
+3-4            24     28     15         67            3-4           4      19        22     45              112      6   0    107     1
+4-5            22     41     10         73            4-5           3      12        12     27              100      2   0     81     1
+5-6            22       9     6         37            5-6           3      14         6     23               60      4   0     99     0
+
+TOTAL          98     119    46        263            TOTAL      22         97       93       212           475     20   7    746    3
+
+            (Rev Oct 06)
+

@@ -1,0 +1,61 @@
+                       City Of Los Angeles
+                       Department Of Transportation
+                       MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South            WOODLEY PL
+
+East/West              ROSCOE BL
+
+Day:        TUESDAY                       Date:       SEPTEMBER 25, 2007       Weather:          SUNNY
+
+Hours:      7-10AM 3-6PM
+
+School Day:            YES                District:          WV                  I/S CODE 32266
+
+
+                        N/B                            S/B                       E/B                     W/B
+DUAL-
+WHEELED                      0                          13                       357                      285
+BIKES                        0                           0                        11                       10
+BUSES                        0                           0                        38                       35
+
+
+                        N/B TIME                       S/B TIME                  E/B TIME                W/B TIME
+
+AM PK 15 MIN                 0   7.00                   65    8.00               502      8.15            494    7.45
+
+PM PK 15 MIN                 0   3.00                   26    3.00               497      5.30            413    4.30
+
+AM PK HOUR                   0   7.00                  204    7.45              1874      7.45           1790    7.15
+
+PM PK HOUR                   0   3.00                   82    3.00              1920      5.00           1583    4.30
+
+
+
+NORTHBOUND Approach                       NONE               SOUTHBOUND Approach                                TOTAL   XING S/L   XING N/L
+
+Hours         Lt        Th       Rt       Total              Hours    Lt        Th        Rt Total               N-S     Ped Sch    Ped   Sch
+7-8                0         0        0           0          7-8       13            0    130   143               143      0   0      5     0
+8-9                0         0        0           0          8-9       25            0    179   204               204      0   0      1     0
+9-10               0         0        0           0          9-10      18            0    103   121               121      0   0      0     0
+3-4                0         0        0           0          3-4         7           0     75     82               82      0   0      0     0
+4-5                0         0        0           0          4-5         6           0     59     65               65      0   0      3     0
+5-6                0         0        0           0          5-6         7           0     54     61               61      0   0      2     0
+
+TOTAL              0         0        0           0          TOTAL      76           0    600      676            676     0    0     11    0
+
+
+EASTBOUND Approach                                           WESTBOUND Approach                                 TOTAL   XING W/L   XING E/L
+
+Hours         Lt        Th       Rt       Total              Hours    Lt        Th        Rt Total              E-W      Ped Sch    Ped   Sch
+7-8            29       1457          0     1486             7-8           0    1666       11 1677               3163      0   0      0     0
+8-9            41       1778          0     1819             8-9           0    1593       20 1613               3432      0   0      1     0
+9-10           38       1166          0     1204             9-10          0    1459       29 1488               2692      0   0      0     0
+3-4           103       1510          0     1613             3-4           0    1308       44 1352               2965      0   0      0     0
+4-5           108       1580          0     1688             4-5           0    1416       25 1441               3129      0   0      0     0
+5-6           165       1755          0     1920             5-6           0    1478       30 1508               3428      0   0      1     0
+
+TOTAL         484 9246                0     9730             TOTAL         0 8920         159     9079          18809     0    0      2    0
+
+            (Rev Oct 06)
+

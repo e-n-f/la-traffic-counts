@@ -1,0 +1,61 @@
+                       City Of Los Angeles
+                       Department Of Transportation
+                       MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South            CENTINELA AV
+
+East/West              STANWOOD DR
+
+Day:               TUESDAY              Date:        January 26, 2010              Weather:            SUNNY
+
+Hours:      7-10AM 3-6PM                                           Chekrs:         THOMPSON
+
+School Day:            YES              District:          WESTERN                   I/S CODE 12169
+
+
+                        N/B                         S/B                              E/B                        W/B
+DUAL-
+WHEELED                   87                         104                               0                          0
+BIKES                     10                          12                               0                          0
+BUSES                     25                          29                               0                          0
+
+
+                        N/B TIME                    S/B TIME                         E/B TIME                   W/B TIME
+
+AM PK 15 MIN             497     8.45                274    8.30                       0      7.00               28    9.00
+
+PM PK 15 MIN            329      5.45               625     5.45                       0      3.00               19    3.15
+
+AM PK HOUR              1681     8.15                992    7.45                       0      7.00               85    7.15
+
+PM PK HOUR              1192     5.00               2455    5.00                       0      3.00               57    3.15
+
+
+
+NORTHBOUND Approach                                        SOUTHBOUND Approach                                        TOTAL   XING S/L   XING N/L
+
+Hours         Lt        Th       Rt Total                  Hours             Lt     Th        Rt       Total           N-S     Ped Sch    Ped   Sch
+7-8                0    1560      22 1582                  7-8                 9     566           0      575          2157      0   0      0     0
+8-9                0    1555      54 1609                  8-9                18     973           0      991          2600      0   0      0     0
+9-10               0    1380      24 1404                  9-10                9     761           0      770          2174      0   0      0     0
+3-4                0     999      31 1030                  3-4                51    1800           0     1851          2881      0   0      0     0
+4-5                0    1042      30 1072                  4-5                52    1969           0     2021          3093      0   0      0     0
+5-6                0    1170      22 1192                  5-6                87    2368           0     2455          3647      0   0      0     0
+
+TOTAL              0 7706        183      7889             TOTAL             226 8437              0     8663         16552     0    0      0    0
+
+
+EASTBOUND Approach                                         WESTBOUND Approach                                         TOTAL   XING W/L   XING E/L
+                   NONE                                                 STANWOOD DR
+Hours   Lt    Th    Rt Total                               Hours   Lt    Th   Rt Total                                E-W      Ped Sch    Ped   Sch
+7-8        0     0    0                         0          7-8        1     0  79     80                                 80      0   0      3     0
+8-9        0     0    0                         0          8-9        0     0  78     78                                 78      0   0      4     0
+9-10       0     0    0                         0          9-10       0     0  58     58                                 58      0   0      2     0
+3-4        0     0    0                         0          3-4        7     0  48     55                                 55      0   0      0     0
+4-5        0     0    0                         0          4-5        4     0  31     35                                 35      0   0      0     0
+5-6        0     0    0                         0          5-6        4     0  35     39                                 39      0   0      1     0
+
+TOTAL              0         0     0            0          TOTAL              16       0      329         345           345     0    0     10    0
+
+            (Rev Oct 06)
+

@@ -1,0 +1,61 @@
+                     City Of Los Angeles
+                     Department Of Transportation
+                     MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South          SEWARD ST
+
+East/West            SANTA MONICA BL
+
+Day:          MONDAY                   Date:         June 14, 2010         Weather:          SUNNY
+
+Hours:        10AM-3PM 6PM-7PM
+
+School Day:          YES               District:         HOLLYWOOD           I/S CODE 18298
+
+
+                      N/B                          S/B                       E/B                     W/B
+DUAL-
+WHEELED                11                          12                        240                      273
+BIKES                   0                           3                         30                       42
+BUSES                   0                           0                         55                       49
+
+
+                      N/B TIME                     S/B TIME                  E/B TIME                W/B TIME
+
+AM PK 15 MIN           17       0.45               25     0.45               275      0.45           352     11.30
+
+PM PK 15 MIN           29       6.01                32    1.45               345      6.16            336     2.30
+
+AM PK HOUR             59      12.00                82 10.15                1037 12.00               1330    10.45
+
+PM PK HOUR             90       6.01               102    1.45              1327      2.45           1161     2.30
+
+
+
+NORTHBOUND Approach                                      SOUTHBOUND Approach                                TOTAL    XING S/L       XING N/L
+
+Hours          Lt     Th       Rt Total                  Hours       Lt     Th        Rt Total               N-S        Ped Sch       Ped   Sch
+10-11            3         3     25  31                  10-11        11         6     62     79              110        14   0        24     0
+11-12            6         4     27  37                  11-12        13         6     46     65              102        19   0        20     0
+12-1            10         8     41  59                  12-1         16         4     50     70              129        24   0        31     0
+1-2              5         4     36  45                  1-2          15         8     66     89              134        21   0        23     0
+2-3             14         6     41  61                  2-3          15         7     64     86              147        31   0        12     0
+6-7              5         2     83  90                  6-7          12         4     64     80              170        30   0        33     0
+
+TOTAL          43      27       253      323             TOTAL        82      35      352      469            792       139     0     143      0
+
+
+EASTBOUND Approach                                       WESTBOUND Approach                                 TOTAL    XING W/L       XING E/L
+
+Hours          Lt Th           Rt      Total             Hours       Lt     Th        Rt Total              E-W         Ped Sch       Ped   Sch
+10-11           35 946           19     1000             10-11        55    1091       27 1173               2173         1   0         2     0
+11-12           25 900           23      948             11-12        42    1259       27 1328               2276         1   0         1     0
+12-1            27 982           28     1037             12-1         35    1091       19 1145               2182         2   0         4     0
+1-2             40 1070          34     1144             1-2          39    1055       29 1123               2267         1   0         6     0
+2-3             26 1118          29     1173             2-3          34    1097       28 1159               2332         2   0         7     0
+6-7             57 1251          12     1320             6-7          27    1002       35 1064               2384         2   0         0     0
+
+TOTAL         210 6267          145 6622                 TOTAL       232 6595         165     6992          13614         9     0      20      0
+
+              (Rev Oct 06)
+

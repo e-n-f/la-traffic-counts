@@ -1,0 +1,61 @@
+                     City Of Los Angeles
+                     Department Of Transportation
+                     MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South          MULHOLLAND DR
+
+East/West            OUTPOST DR
+
+Day:        JUNE 20, 2007             Date:        WEDNESDAY            Weather:          CLEAR
+
+Hours:      7-10AM 3-6PM                                                Checker:          WILTEC
+
+School Day:          YES              District:         EV                I/S CODE                27982
+
+
+                      N/B                         S/B                     E/B                      W/B
+DUAL-
+WHEELED                35                          22                       4                        0
+BIKES                   1                           4                       0                        1
+BUSES                   1                           0                       1                        0
+
+
+                      N/B TIME                    S/B TIME                E/B TIME                 W/B TIME
+
+AM PK 15 MIN           40      8.00                49    7.30             251      7.15            232      7.45
+
+PM PK 15 MIN               0   3.00                 0    3.00               0      3.00               0     3.00
+
+AM PK HOUR            120      7.15               172    7.00             982      7.15            853      7.15
+
+PM PK HOUR                 0   3.00                 0    3.00               0      3.00               0     3.00
+
+
+
+NORTHBOUND Approach                                     SOUTHBOUND Approach                               TOTAL    XING S/L   XING N/L
+
+Hours         Lt      Th       Rt Total                 Hours    Lt      Th        Rt Total                N-S      Ped Sch    Ped   Sch
+7-8            21      67       19   107                7-8       83      50        39   172                279       0   0      1     0
+8-9            20      57       24   101                8-9       54      30        31   115                216       1   0      1     0
+9-10           33      44       22     99               9-10      37      27        43   107                206       0   0      0     0
+3-4              0       0       0      0               3-4         0       0        0      0                  0      0   0      0     0
+4-5              0       0       0      0               4-5         0       0        0      0                  0      0   0      0     0
+5-6              0       0       0      0               5-6         0       0        0      0                  0      0   0      0     0
+
+TOTAL          74     168       65        307           TOTAL     174     107      113      394             701      1    0     2     0
+
+
+EASTBOUND Approach                                      WESTBOUND Approach                                TOTAL    XING W/L   XING E/L
+
+Hours         Lt      Th       Rt Total                 Hours    Lt      Th        Rt Total               E-W       Ped Sch    Ped   Sch
+7-8            16      883      36   935                7-8       14      760       23   797               1732       0   0      0     0
+8-9            19      847      19   885                8-9       19      761       20   800               1685       0   0      2     0
+9-10           21      743       7   771                9-10      18      712       21   751               1522       0   0      1     0
+3-4              0       0       0      0               3-4         0       0        0      0                 0       0   0      0     0
+4-5              0       0       0      0               4-5         0       0        0      0                 0       0   0      0     0
+5-6              0       0       0      0               5-6         0       0        0      0                 0       0   0      0     0
+
+TOTAL          56 2473          62      2591            TOTAL      51 2233          64     2348            4939      0    0     3     0
+
+            (Rev Oct 06)
+

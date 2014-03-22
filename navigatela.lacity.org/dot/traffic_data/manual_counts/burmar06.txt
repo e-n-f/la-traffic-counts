@@ -1,0 +1,64 @@
+                                         City of Los Angeles
+                                         Department Of Transportation
+                                         MANUAL TRAFFIC COUNT SUMMARY
+
+STREET:
+North/South          BURNET AV
+
+East/West            MARTHA ST
+
+Day:     FRIDAY                          Date:         April 28, 2006             Weather: CLEAR
+
+Hours:   7-10AM 3-6PM
+
+School Day:          YES         District:            EAST VALLEY         I/S CODE                    1090048460
+
+
+
+                     N/B                               S/B                        E/B                           W/B
+DUAL-
+WHEELED                    0                                 1                          4                             1
+BIKES                      0                                 0                          0                             0
+BUSES                      0                                 0                          0                             0
+
+
+
+                     N/B       TIME                   S/B        TIME             E/B       TIME               W/B        TIME
+
+AM PK 15 MIN               0 7.00                            7 8.00                 29 8.00                          14      8.15
+
+PM PK 15 MIN               0 3.00                            5 3.00                 16 3.00                          31      4.30
+
+AM PK HOUR                 0 7.00                           18 7.15                 84 7.15                          46      7.45
+
+PM PK HOUR                 0 3.00                           11 3.00                 40 3.00                      116         4.15
+
+
+
+
+NORTHBOUND Approach                                              SOUTHBOUND Approach                                      TOTAL       XING S/L   XING N/L
+                               NONE
+Hours       Lt        Th        Rt        Total                  Hours   Lt        Th        Rt       Total                N-S        Ped Sch    Ped Sch
+7-8              0         0         0            0              7-8      11            0         1       12                     12     0   0      3   0
+8-9              0         0         0            0              8-9      13            0         1       14                     14     0   0      0   0
+9-10             0         0         0            0              9-10     10            0         1       11                     11     0   0      1   0
+3-4              0         0         0            0              3-4      10            0         1       11                     11     0   0      1   0
+4-5              0         0         0            0              4-5      10            0         0       10                     10     0   0      0   0
+5-6              0         0         0            0              5-6      10            0         1       11                     11     0   0      1   0
+
+TOTAL            0         0         0            0              TOTAL    64            0         5      69                      69     0   0      6   0
+
+
+
+EASTBOUND Approach                                               WESTBOUND Approach                                       TOTAL       XING W/L   XING E/L
+
+Hours       Lt        Th        Rt        Total                  Hours   Lt        Th        Rt       Total                E-W        Ped Sch    Ped Sch
+7-8              0     68            0        68                 7-8          0     22         4          26                  94        2   0      0   0
+8-9              0     66            0        66                 8-9          0     36         5          41                 107        0   0      0   0
+9-10             1     36            0        37                 9-10         0     20         1          21                  58        3   0      1   0
+3-4              2     38            0        40                 3-4          0     55        16          71                 111        0   0      0   0
+4-5              0     36            0        36                 4-5          0     83        19        102                  138        0   0      0   0
+5-6              7     31            0        38                 5-6          0     62         9          71                 109        0   0      0   0
+
+TOTAL         10      275            0      285                  TOTAL        0    278        54        332                  617        5   0      1   0
+

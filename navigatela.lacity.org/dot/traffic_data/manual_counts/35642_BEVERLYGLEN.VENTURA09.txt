@@ -1,0 +1,61 @@
+                    City Of Los Angeles
+                    Department Of Transportation
+                    MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South         BEVERLY GLEN BL
+
+East/West           VENTURA BL
+
+Day:            TUESDAY            Date:         July 21, 2009               Weather:          SUNNY
+
+Hours:      7-10AM 3-6PM                                     Chekrs:         CERULLE
+
+School Day:         YES            District:         WESTERN                   I/S CODE 35642
+
+
+                     N/B                       S/B                             E/B                      W/B
+DUAL-
+WHEELED                26                       25                              78                        69
+BIKES                   2                        3                               4                         8
+BUSES                   0                       27                             106                        87
+
+
+                     N/B TIME                  S/B TIME                        E/B TIME                 W/B TIME
+
+AM PK 15 MIN         104    9.15               158    8.45                     356      9.15             432    8.15
+
+PM PK 15 MIN         243    5.45               166    5.45                     410      5.45             496    3.30
+
+AM PK HOUR           373    8.45               601    8.45                    1358      8.45            1274    7.45
+
+PM PK HOUR           898    5.00               598    5.00                    1454      5.00            1756    3.00
+
+
+
+NORTHBOUND Approach                                  SOUTHBOUND Approach                                       TOTAL   XING S/L   XING N/L
+
+Hours         Lt     Th     Rt Total                 Hours             Lt     Th        Rt Total                N-S     Ped Sch    Ped   Sch
+7-8            55      54    56   165                7-8                16     367      130   513                678     21   2     23     0
+8-9            92     134    77   303                8-9                18     411      124   553                856     17   0     15     0
+9-10          111     149   113   373                9-10               24     464      102   590                963     18   0     15     0
+3-4           201     383   144   728                3-4                32     293       81   406               1134     30   0     17     0
+4-5           239     463   147   849                4-5                51     397       64   512               1361     29   0     17     1
+5-6           230     509   159   898                5-6                43     499       56   598               1496     32   0     21     3
+
+TOTAL         928 1692      696      3316            TOTAL             184 2431         557      3172           6488    147   2    108    4
+
+
+EASTBOUND Approach                                   WESTBOUND Approach                                        TOTAL   XING W/L   XING E/L
+
+Hours         Lt  Th        Rt Total                 Hours             Lt     Th        Rt     Total           E-W      Ped Sch    Ped   Sch
+7-8            16 484       180   680                7-8               224     727        3       954           1634      3   0      6     0
+8-9            72 828       182 1082                 8-9               169    1064        2      1235           2317      3   0      0     0
+9-10           73 1055      167 1295                 9-10              184     743        1       928           2223      6   0     10     0
+3-4            88 872        65 1025                 3-4               130    1618        8      1756           2781      3   0      6     0
+4-5           111 1029       73 1213                 4-5               133    1387       15      1535           2748      2   0      9     0
+5-6           135 1248       71 1454                 5-6               152    1269       11      1432           2886      7   0      7     0
+
+TOTAL         495 5516      738      6749            TOTAL             992 6808          40      7840          14589     24   0     38    0
+
+            (Rev Oct 06)
+

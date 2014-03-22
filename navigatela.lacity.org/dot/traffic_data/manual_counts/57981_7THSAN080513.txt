@@ -1,0 +1,145 @@
+                 File Name: #E - US 101 SB Ramps & 7th St - A.M. Peak Period
+                 Start Date: 5/13/2008
+                 Start Time: 7:00:00 AM
+
+Passenger Vehicles/Pedestrians
+
+                                  Soto St                            1st St                          Soto St                          1st St
+                                                                                                                                                            Total
+                               Southbound                         Westbound                        Northbound                      Eastbound
+    Start Time       Left     Thru      Right   Peds    Left    Thru       Right   Peds   Left   Thru      Right   Peds   Left   Thru       Right   Peds   Vehicles
+07:00 AM              4        0           8     1       2      232          0      0      0      0          0      0      0      78         21      0       345
+07:15 AM              8        0          20     0       3      277          0      0      0      0          0      2      0      76         28      0       412
+07:30 AM              9        0          14     1       2      256          0      0      0      0          0      4      0      88         19      0       388
+07:45 AM              9        0          17     2       0      279          0      0      0      0          0      1      0      82         23      0       410
+08:00 AM              5        0          23     0       8      235          0      0      0      0          0      0      0      88         23      0       382
+08:15 AM              5        0          14     0       2      253          0      0      0      0          0      0      0      75         23      0       372
+08:30 AM              4        1          10     0       1      206          0      0      0      0          0      0      0      76         29      0       327
+08:45 AM              5        0          19     0       0      212          0      0      0      0          0      0      0      82         30      1       348
+
+Hour Totals          Left     Thru      Right   Peds    Left    Thru      Right    Peds   Left   Thru      Right   Peds   Left   Thru      Right    Peds    Total
+7:00 AM - 8:00 AM     30       0         59      4        7     1044        0       0      0      0          0      7      0     324         91      0      1555
+7:15 AM - 8:15 AM     31       0         74      3       13     1047        0       0      0      0          0      7      0     334        93       0      1592
+7:30 AM - 8:30 AM     28       0         68      3       12     1023        0       0      0      0          0      5      0     333        88       0      1552
+7:45 AM - 8:45 AM     23       1         64      2       11      973        0       0      0      0          0      1      0     321         98      0      1491
+8:00 AM - 9:00 AM     19       1         66      0       11      906        0       0      0      0          0      0      0     321        105      1      1429
+
+Trucks/Buses
+
+                                  Soto St                            1st St                          Soto St                          1st St
+                                                                                                                                                            Total
+                               Southbound                         Westbound                        Northbound                       Eastbound
+    Start Time       Left     Thru      Right           Left    Thru       Right          Left   Thru      Right          Left   Thru       Right          Vehicles
+07:00 AM              0        0           0             6       22          0             0      0          0             0       3          5              36
+07:15 AM              0        0           5             4       23          0             0      0          0             0      10         13              55
+07:30 AM              0        0           7             7       21          0             0      0          0             0       8          3              46
+07:45 AM              0        0          13             8       20          0             0      0          0             0       3          3              47
+08:00 AM              0        0           2             4       24          0             0      0          0             0       8         13              51
+08:15 AM              0        0           5             3       18          0             0      0          0             0      21          8              55
+08:30 AM              0        0           3             3       27          0             0      0          0             0       7         15              55
+08:45 AM              0        0           3             3       23          0             0      0          0             0      11         13              53
+
+Hour Totals          Left     Thru      Right           Left    Thru      Right           Left   Thru      Right          Left   Thru      Right            Total
+7:00 AM - 8:00 AM     0        0         25              25      86         0              0      0          0             0      24        24              184
+7:15 AM - 8:15 AM     0        0         27              23      88         0              0      0          0             0      29        32              199
+7:30 AM - 8:30 AM     0        0         27              22      83         0              0      0          0             0      40        27              199
+7:45 AM - 8:45 AM     0        0         23              18      89         0              0      0          0             0      39        39              208
+8:00 AM - 9:00 AM     0        0         13              13      92         0              0      0          0             0      47        49              214
+
+Total
+
+                                  Soto St                            1st St                          Soto St                          1st St
+                                                                                                                                                            Total
+                               Southbound                         Westbound                        Northbound                      Eastbound
+    Start Time       Left     Thru      Right   Peds    Left    Thru       Right   Peds   Left   Thru      Right   Peds   Left   Thru       Right   Peds   Vehicles
+07:00 AM              4        0           8     1        8     254          0      0      0      0          0      0      0      81         26      0       381
+07:15 AM              8        0          25     0        7     300          0      0      0      0          0      2      0      86         41      0       467
+07:30 AM              9        0          21     1        9     277          0      0      0      0          0      4      0      96         22      0       434
+07:45 AM              9        0          30     2        8     299          0      0      0      0          0      1      0      85         26      0       457
+08:00 AM              5        0          25     0       12     259          0      0      0      0          0      0      0      96         36      0       433
+08:15 AM              5        0          19     0        5     271          0      0      0      0          0      0      0      96         31      0       427
+08:30 AM              4        1          13     0        4     233          0      0      0      0          0      0      0      83         44      0       382
+08:45 AM              5        0          22     0        3     235          0      0      0      0          0      0      0      93         43      1       401
+
+Hour Totals          Left     Thru      Right   Peds    Left    Thru      Right    Peds   Left   Thru      Right   Peds   Left   Thru      Right    Peds    Total
+7:00 AM - 8:00 AM     30       0         84      4       32     1130        0       0      0      0          0      7      0     348        115      0      1739
+7:15 AM - 8:15 AM     31       0         101     3       36     1135        0       0      0      0          0      7      0     363        125      0      1791
+7:30 AM - 8:30 AM     28       0         95      3       34     1106        0       0      0      0          0      5      0     373        115      0      1751
+7:45 AM - 8:45 AM     23       1         87      2       29     1062        0       0      0      0          0      1      0     360        137      0      1699
+8:00 AM - 9:00 AM     19       1         79      0       24      998        0       0      0      0          0      0      0     368        154      1      1643
+
+Peak Hour            Left    Thru      Right    Peds   Left     Thru      Right    Peds   Left   Thru     Right    Peds   Left   Thru      Right    Peds    Total
+7:15 AM - 8:15 AM     31      0         101      3      36      1135        0       0      0      0         0       7      0     363        125      0      1791
+                 File Name: #E - US 101 SB Ramps & 7th St - P.M. Peak Period
+                 Start Date: 5/13/2008
+                 Start Time: 4:00:00 PM
+
+Passenger Vehicles/Pedestrians
+
+                                  Soto St                            1st St                          Soto St                          1st St
+                                                                                                                                                            Total
+                               Southbound                         Westbound                        Northbound                      Eastbound
+    Start Time       Left     Thru      Right   Peds    Left    Thru       Right   Peds   Left   Thru      Right   Peds   Left   Thru       Right   Peds   Vehicles
+04:00 PM              7        0          12     2       1      120          0      0      0      0          0      2      0     119         49      0       308
+04:15 PM              4        0          16     0       2       99          0      0      0      0          0      2      0     133         67      0       321
+04:30 PM              5        0          10     5       2      117          0      0      0      0          0      2      0     198         46      1       378
+04:45 PM              3        0          12     3       1      100          0      0      0      0          0      1      0     152         65      0       333
+05:00 PM              7        0          12     3       0       94          0      1      0      0          0      1      0     180         61      0       354
+05:15 PM              4        1          12     1       0      102          0      0      0      0          0      3      0     178         60      2       357
+05:30 PM              7        0          15     3       0       81          0      1      0      0          0      5      0     151         58      0       312
+05:45 PM              6        0          14     4       0      117          0      0      0      0          0      1      0     146         68      0       351
+
+Hour Totals          Left     Thru      Right   Peds    Left    Thru      Right    Peds   Left   Thru      Right   Peds   Left   Thru      Right    Peds    Total
+4:00 PM - 5:00 PM     19       0         50      10      6      436         0       0      0      0          0       7     0     602        227      1      1340
+4:15 PM - 5:15 PM     19       0         50      11      5      410         0       1      0      0          0       6     0     663        239      1      1386
+4:30 PM - 5:30 PM     19       1         46      12      3      413         0       1      0      0          0       7     0     708        232      3      1422
+4:45 PM - 5:45 PM     21       1         51      10      1      377         0       2      0      0          0      10     0     661        244      2      1356
+5:00 PM - 6:00 PM     24       1         53      11      0      394         0       2      0      0          0      10     0     655        247      2      1374
+
+Trucks/Buses
+
+                                  Soto St                            1st St                          Soto St                          1st St
+                                                                                                                                                            Total
+                               Southbound                         Westbound                        Northbound                       Eastbound
+    Start Time       Left     Thru      Right           Left    Thru       Right          Left   Thru      Right          Left   Thru       Right          Vehicles
+04:00 PM              0        0          3              0       10          0             0      0          0             0      10          3              26
+04:15 PM              0        0          3              0       23          0             0      0          0             0      26         10              62
+04:30 PM              0        0          6              3       26          0             0      0          0             0      32          6              73
+04:45 PM              0        0          0              0       23          0             0      0          0             0      19         16              58
+05:00 PM              3        0          3              0       13          0             0      0          0             0       6         10              35
+05:15 PM              0        0          3              0       13          0             0      0          0             0       0          0              16
+05:30 PM              0        0          3              0       20          0             0      0          0             0      10          0              33
+05:45 PM              0        0          0              0        6          0             0      0          0             0       3          6              15
+
+Hour Totals          Left     Thru      Right           Left    Thru      Right           Left   Thru      Right          Left   Thru      Right            Total
+4:00 PM - 5:00 PM     0        0         12              3       82         0              0      0          0             0      87        35              219
+4:15 PM - 5:15 PM     3        0         12              3       85         0              0      0          0             0      83        42              228
+4:30 PM - 5:30 PM     3        0         12              3       75         0              0      0          0             0      57        32              182
+4:45 PM - 5:45 PM     3        0          9              0       69         0              0      0          0             0      35        26              142
+5:00 PM - 6:00 PM     3        0          9              0       52         0              0      0          0             0      19        16               99
+
+Total
+
+                                  Soto St                            1st St                          Soto St                          1st St
+                                                                                                                                                            Total
+                               Southbound                         Westbound                        Northbound                      Eastbound
+    Start Time       Left     Thru      Right   Peds    Left    Thru       Right   Peds   Left   Thru      Right   Peds   Left   Thru       Right   Peds   Vehicles
+04:00 PM               7       0          15     2       1      130          0      0      0      0          0      2      0     129         52      0       334
+04:15 PM               4       0          19     0       2      122          0      0      0      0          0      2      0     159         77      0       383
+04:30 PM               5       0          16     5       5      143          0      0      0      0          0      2      0     230         52      1       451
+04:45 PM               3       0          12     3       1      123          0      0      0      0          0      1      0     171         81      0       391
+05:00 PM              10       0          15     3       0      107          0      1      0      0          0      1      0     186         71      0       389
+05:15 PM               4       1          15     1       0      115          0      0      0      0          0      3      0     178         60      2       373
+05:30 PM               7       0          18     3       0      101          0      1      0      0          0      5      0     161         58      0       345
+05:45 PM               6       0          14     4       0      123          0      0      0      0          0      1      0     149         74      0       366
+
+Hour Totals          Left     Thru      Right   Peds    Left    Thru      Right    Peds   Left   Thru      Right   Peds   Left   Thru      Right    Peds    Total
+4:00 PM - 5:00 PM     19       0         62      10      9      518         0       0      0      0          0       7     0     689        262      1      1559
+4:15 PM - 5:15 PM     22       0         62      11      8      495         0       1      0      0          0       6     0     746        281      1      1614
+4:30 PM - 5:30 PM     22       1         58      12      6      488         0       1      0      0          0       7     0     765        264      3      1604
+4:45 PM - 5:45 PM     24       1         60      10      1      446         0       2      0      0          0      10     0     696        270      2      1498
+5:00 PM - 6:00 PM     27       1         62      11      0      446         0       2      0      0          0      10     0     674        263      2      1473
+
+Peak Hour            Left    Thru      Right    Peds   Left     Thru      Right    Peds   Left   Thru     Right    Peds   Left   Thru      Right    Peds    Total
+4:15 PM - 5:15 PM     22      0         62       11     8       495         0       1      0      0         0       6      0     746        281      1      1614
+

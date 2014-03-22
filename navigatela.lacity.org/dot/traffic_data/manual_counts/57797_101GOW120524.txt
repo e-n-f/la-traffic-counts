@@ -1,0 +1,75 @@
+                                    Intersection Turning Movement
+                                                               Prepared by:
+                                            National Data & Surveying Services
+          Project ID: CA12_5218_004                                                                                Day: THURSDAY
+
+                  City: City of Hollywood                                                                         Date: 05/24/2012
+                                                                               AM
+     NS/EW Streets:              Gower St                     Gower St              US-101 NB Off-ramp     US-101 NB Off-ramp
+                                NORTHBOUND                   SOUTHBOUND                  EASTBOUND              WESTBOUND
+
+                           NL        NT       NR        SL       ST       SR        EL      ET       ER   WL      WT        WR     TOTAL
+     LANES:                0          2        0        0         2        0        0        0        0   1        0         1
+
+           7:00   AM                 52                          62                                       20                12       146
+           7:15   AM                 72                          71                                       23                12       178
+           7:30   AM                 88                          90                                       43                18       239
+           7:45   AM                109                         101                                       32                15       257
+           8:00   AM                 96                          97                                       43                10       246
+           8:15   AM                 92                          99                                       35                13       239
+           8:30   AM                 98                         107                                       26                14       245
+           8:45   AM                115                         133                                       44                19       311
+           9:00   AM                109                         101                                       29                10       249
+           9:15   AM                 98                          92                                       31                13       234
+           9:30   AM                105                          99                                       36                17       257
+           9:45   AM                100                          98                                       36                13       247
+
+                        NL        NT          NR          SL      ST       SR      EL      ET     ER     WL       WT       WR      TOTAL
+    TOTAL VOLUMES :      0       1134          0          0      1150       0       0       0      0     398       0       166      2848
+     APPROACH %'s :    0.00% 100.00%          0.00%      0.00% 100.00%    0.00% #DIV/0! #DIV/0! #DIV/0! 70.57%   0.00%    29.43%
+                     nb a      nb d                   sb a     sb d             eb a    eb d           wb a    nb d
+PEAK HR START TIME :       845 AM                                                                                                  TOTAL
+
+       PEAK HR VOL :       0        427        0         0      425       0         0       0        0    140      0        59       1051
+
+   PEAK HR FACTOR :                0.928                       0.799                       0.000                  0.790              0.845
+
+          CONTROL : 1-Way Stop (WB)
+                                    Intersection Turning Movement
+                                                               Prepared by:
+                                            National Data & Surveying Services
+          Project ID: CA12_5218_004                                                                                Day: THURSDAY
+
+                  City: City of Hollywood                                                                         Date: 05/24/2012
+                                                                               PM
+     NS/EW Streets:              Gower St                     Gower St              US-101 NB Off-ramp     US-101 NB Off-ramp
+                                NORTHBOUND                   SOUTHBOUND                  EASTBOUND             WESTBOUND
+
+                           NL        NT       NR        SL       ST       SR        EL      ET       ER   WL      WT       WR      TOTAL
+     LANES:                0          2        0        0         2        0        0        0        0   1        0        1
+
+           3:00   PM                171                          64                                       16               13        264
+           3:15   PM                200                          77                                       23               17        317
+           3:30   PM                156                          77                                       26               16        275
+           3:45   PM                170                          72                                       14               25        281
+           4:00   PM                169                          63                                       6                20        258
+           4:15   PM                207                          72                                       6                8         293
+           4:30   PM                241                          64                                       12               6         323
+           4:45   PM                207                          63                                       11               12        293
+           5:00   PM                221                          67                                       8                12        308
+           5:15   PM                224                          67                                       10               15        316
+           5:30   PM                247                          63                                       7                17        334
+           5:45   PM                256                          67                                       8                16        347
+
+                        NL        NT          NR          SL      ST       SR      EL      ET     ER     WL       WT       WR      TOTAL
+    TOTAL VOLUMES :      0       2469          0          0       816       0       0       0      0     147       0       177      3609
+     APPROACH %'s :    0.00% 100.00%          0.00%      0.00% 100.00%    0.00% #DIV/0! #DIV/0! #DIV/0! 45.37%   0.00%    54.63%
+                     nb a      nb d                   sb a     sb d             eb a    eb d           wb a    nb d
+PEAK HR START TIME :       500 PM                                                                                                  TOTAL
+
+       PEAK HR VOL :       0        948        0         0      264       0         0       0        0    33       0       60        1305
+
+   PEAK HR FACTOR :                0.926                       0.985                       0.000                 0.930               0.940
+
+          CONTROL : 1-Way Stop (WB)
+

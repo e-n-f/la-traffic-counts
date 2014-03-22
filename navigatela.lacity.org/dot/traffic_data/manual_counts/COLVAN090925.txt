@@ -1,0 +1,61 @@
+                       City Of Los Angeles
+                       Department Of Transportation
+                       MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South            COLUMBUS AV
+
+East/West              VANOWEN ST
+
+Day:        FRIDAY                      Date:       September 25, 2009 Weather:             SUNNY
+
+Hours:      7-10AM 2-5PM                                  Chekrs:   CERULLE
+
+School Day:            YES              District:         EAST VALLEY       I/S CODE 33467
+
+
+                        N/B                         S/B                     E/B                      W/B
+DUAL-
+WHEELED                  13                           0                      147                      146
+BIKES                     0                           0                       10                        6
+BUSES                     0                           0                       24                       25
+
+
+                        N/B TIME                    S/B TIME                E/B TIME                 W/B TIME
+
+AM PK 15 MIN             52      7.45                 0    7.00              306   8.15               350    7.15
+
+PM PK 15 MIN             32      2.15                 0    2.00              340   2.00               427    3.15
+
+AM PK HOUR              122      7.15                 0    7.00             1200   7.30              1240    7.00
+
+PM PK HOUR               91      2.15                 0    2.00             1234   2.00              1659    3.15
+
+
+
+NORTHBOUND Approach                                       SOUTHBOUND Approach                               TOTAL   XING S/L    XING N/L
+             COLUMBUS AV                                                     NONE
+Hours   Lt    Th   Rt Total                               Hours    Lt   Th    Rt Total                       N-S     Ped Sch     Ped   Sch
+7-8        2     0  93     95                             7-8         0    0    0                0             95     48 57        0     0
+8-9        4     0  63     67                             8-9         0    0    0                0             67     46   5       0     0
+9-10       4     0  23     27                             9-10        0    0    0                0             27     28   0       0     0
+2-3        8     0  73     81                             2-3         0    0    0                0             81    106 111       0     0
+3-4        7     0  65     72                             3-4         0    0    0                0             72     47 18        0     0
+4-5        9     0  69     78                             4-5         0    0    0                0             78     31 12        0     0
+
+TOTAL          34            0   386        420           TOTAL         0      0        0        0            420    306 203       0    0
+
+
+EASTBOUND Approach                                        WESTBOUND Approach                                TOTAL   XING W/L    XING E/L
+
+Hours         Lt        Th       Rt Total                 Hours      Lt     Th     Rt       Total           E-W      Ped Sch     Ped   Sch
+7-8                0    1051      48 1099                 7-8         53    1187        0     1240           2339     10   9       0     0
+8-9                0    1046      31 1077                 8-9         19     906        0      925           2002     18   0       0     0
+9-10               0    1087      32 1119                 9-10        20     826        0      846           1965     27   0       0     0
+2-3                0    1186      48 1234                 2-3         17    1349        0     1366           2600     28   5       1     0
+3-4                0    1045      62 1107                 3-4         33    1581        0     1614           2721     50   6       0     0
+4-5                0    1063      54 1117                 4-5         31    1616        0     1647           2764     48 12        0     0
+
+TOTAL              0 6478        275      6753            TOTAL      173 7465           0     7638          14391    181   32      1    0
+
+            (Rev Oct 06)
+

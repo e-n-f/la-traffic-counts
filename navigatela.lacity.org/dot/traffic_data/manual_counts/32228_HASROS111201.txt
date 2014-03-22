@@ -1,0 +1,183 @@
+                                                       TRAFFIC COUNT SUMMARY
+
+                                                                                                                                    City of Los Angeles
+STREET:                                                                                                                       Department of Transportation
+North/South                HASKELL AVENUE                                                                                  Count by: The Traffic Solution
+
+East/West                  ROSCOE BOULEVARD
+
+Day:     AM    THURSDAY                       Date: December 1, 2011                  Weather:         CLEAR
+         PM    THURSDAY                             December 1, 2011
+Hours:         7-10 AM 4-7 PM
+
+School Day:                YES                District:         VALLEY
+
+
+                            N/B                           S/B                           E/B                         W/B
+DUAL-
+WHEELED                     N/A                           N/A                           N/A                         N/A
+BIKES                       N/A                           N/A                           N/A                         N/A
+BUSES                       N/A                           N/A                           N/A                         N/A
+
+
+                            N/B TIME                      S/B TIME                      E/B TIME                    W/B     TIME
+
+AM PK 15 MIN                     2   8:00                 168 7:45                      344     8:30                635      7:30
+
+PM PK 15 MIN                     9   4:45                  96 5:00                      526     5:15                541      5:15
+
+AM PK HOUR                       5   8:00                 613 7:30                    1,304     7:45               2,497     7:30
+
+PM PK HOUR                   24      4:00                 330 4:30                    2,042     4:45               1,975     4:45
+
+
+
+NORTHBOUND Approach                                             SOUTHBOUND Approach                                        TOTAL       XING S/L       XING N/L
+
+Hours            Lt         Th       Rt       Total             Hours       Lt         Th       Rt        Total             N-S        Ped   Sch     Ped     Sch
+7-8                   0       0        1           1            7-8          269            5   263          537             538       N/A   N/A     N/A     N/A
+8-9                   2       0        3           5            8-9          255            5   196          456             461       N/A   N/A     N/A     N/A
+9 - 10                0       0        1           1            9 - 10       138            1    63          202             203       N/A   N/A     N/A     N/A
+4-5                   4      12        8          24            4-5          207            0    63          270             294       N/A   N/A     N/A     N/A
+5-6                   3       2       10          15            5-6          244            0    48          292             307       N/A   N/A     N/A     N/A
+6-7                   1       5        5          11            6-7          208            0    49          257             268       N/A   N/A     N/A     N/A
+
+TOTAL                 10     19       28          57            TOTAL      1,321         11      682       2,014            2,071      N/A N/A       N/A N/A
+
+
+EASTBOUND Approach                                              WESTBOUND Approach                                         TOTAL       XING W/L       XING E/L
+
+Hours            Lt         Th       Rt       Total             Hours       Lt         Th       Rt        Total             E-W        Ped   Sch     Ped     Sch
+7-8                24      1,124          0    1,148            7-8              17   2,099     188        2,304            3,452      N/A   N/A     N/A     N/A
+8-9                45      1,249          0    1,294            8-9               7   2,068     117        2,192            3,486      N/A   N/A     N/A     N/A
+9 - 10             52      1,098          0    1,150            9 - 10            3   1,611      90        1,704            2,854      N/A   N/A     N/A     N/A
+4-5               111      1,838          0    1,949            4-5               1   1,496     216        1,713            3,662      N/A   N/A     N/A     N/A
+5-6               138      1,900          1    2,039            5-6               4   1,680     280        1,964            4,003      N/A   N/A     N/A     N/A
+6-7               113      1,532          0    1,645            6-7               2   1,435     203        1,640            3,285      N/A   N/A     N/A     N/A
+
+TOTAL             483 8,741               1    9,225            TOTAL            34 ##### 1,094           11,517           20,742      N/A N/A       N/A N/A
+INTERSECTION TURNING MOVEMENT COUNT SUMMARY
+
+CLIENT:                    HIRSCH/GREEN TRANSPORTATION CONSULTING, INC.
+PROJECT:                   RESTAURANT DEPOT - VAN NUYS
+DATE:                      THURSDAY, DECEMBER 01, 2011
+PERIOD:                    07:00 AM TO 10:00 AM
+INTERSECTION:      N/S     HASKELL AVENUE
+                   E/W     ROSCOE BOULEVARD
+FILE NUMBER:               6-AM
+
+
+  15 MINUTE          1          2      3          4      5           6          7          8      9      10     11     12
+   TOTALS         SBRT         SBTH   SBLT     WBRT     WBTH        WBLT       NBRT       NBTH   NBLT   EBRT   EBTH   EBLT
+  0700-0715         52          1      47         38    451          2          1          0      0      0     244     6
+  0715-0730         60          1      50         40    515          4          0          0      0      0     250     4
+  0730-0745         78          1      79         52    576          7          0          0      0      0     305     6
+  0745-0800         73          2      93         58    557          4          0          0      0      0     325     8
+  0800-0815         63          4      84         41    580          3          2          0      0      0     303     13
+  0815-0830         63          0      73         31    586          2          1          0      1      0     301     10
+  0830-0845         41          0      58         24    462          2          0          0      0      0     333     11
+  0845-0900         29          1      40         21    440          0          0          0      1      0     312     11
+  0900-0915         20          0      31         24    432          0          0          0      0      0     270     12
+  0915-0930         20          0      36         25    431          1          0          0      0      0     253     13
+  0930-0945         11          0      41         23    382          1          0          0      0      0     304     17
+  0945-1000         12          1      30         18    366          1          1          0      0      0     271     10
+
+
+   1 HOUR            1          2      3          4      5           6          7          8      9      10     11     12
+   TOTALS         SBRT         SBTH   SBLT     WBRT     WBTH        WBLT       NBRT       NBTH   NBLT   EBRT   EBTH   EBLT   TOTALS
+  0700-0800        263          5     269         188   2099         17         1          0      0      0     1124    24     3990
+  0715-0815        274          8     306         191   2228         18         2          0      0      0     1183    31     4241
+  0730-0830        277          7     329         182   2299         16         3          0      1      0     1234    37     4385
+  0745-0845        240          6     308         154   2185         11         3          0      1      0     1262    42     4212
+  0800-0900        196          5     255         117   2068         7          3          0      2      0     1249    45     3947
+  0815-0915        153          1     202         100   1920         4          1          0      2      0     1216    44     3643
+  0830-0930        110          1     165         94    1765         3          0          0      1      0     1168    47     3354
+  0845-0945         80          1     148         93    1685         2          0          0      1      0     1139    53     3202
+  0900-1000         63          1     138         90    1611         3          1          0      0      0     1098    52     3057
+
+
+                                                                   HASKELL AVENUE
+
+
+   A.M. PEAK HOUR                                            277           7        329
+      0730-0830
+
+
+                                       37                                                               182
+
+                                      1234                                                              2299
+        ROSCOE BOULEVARD
+                                           0                                                            16
+
+
+
+
+                                                               1           0          3
+   THE TRAFFIC SOLUTION
+   329 DIAMOND STREET
+   ARCADIA, CALIFORNIA 91005                                   PRIVATE DRIVEWAY
+   626.446.7979 PHONE
+   626.446.2877 FAX
+INTERSECTION TURNING MOVEMENT COUNT SUMMARY
+
+CLIENT:                    HIRSCH/GREEN TRANSPORTATION CONSULTING, INC.
+PROJECT:                   RESTAURANT DEPOT - VAN NUYS
+DATE:                      THURSDAY, DECEMBER 01, 2011
+PERIOD:                    04:00 PM TO 07:00 PM
+INTERSECTION:      N/S     HASKELL AVENUE
+                   E/W     ROSCOE BOULEVARD
+FILE NUMBER:               6-PM
+
+
+  15 MINUTE          1          2      3          4      5           6          7          8      9      10      11     12
+   TOTALS         SBRT         SBTH   SBLT     WBRT     WBTH        WBLT       NBRT       NBTH   NBLT   EBRT    EBTH   EBLT
+  0300-0315         11          0      38         46    344          0          1          4      1         0   414     26
+  0315-0330         14          0      51         52    402          0          1          2      0         0   475     26
+  0330-0345         19          0      58         54    342          0          3          3      0         0   468     28
+  0345-0400         19          0      60         64    408          1          3          3      3         0   481     31
+  0400-0415         17          0      79         74    419          1          4          0      1         0   472     27
+  0415-0430         11          0      67         82    458          1          3          0      1         0   494     32
+  0430-0445          8          0      41         60    406          1          3          2      1         0   460     45
+  0445-0500         12          0      57         64    397          1          0          0      0         1   474     34
+  0500-0515          9          0      59         52    395          0          3          0      0         0   437     39
+  0515-0530         10          0      56         52    366          1          2          3      0         0   401     33
+  0530-0545         13          0      49         53    358          1          0          2      1         0   363     21
+  0545-0600         17          0      44         46    316          0          0          0      0         0   331     20
+
+
+   1 HOUR            1          2      3          4      5           6          7          8      9      10      11     12
+   TOTALS         SBRT         SBTH   SBLT     WBRT     WBTH        WBLT       NBRT       NBTH   NBLT   EBRT    EBTH   EBLT   TOTALS
+  0400-0500         63          0     207         216   1496         1          8          12     4         0   1838   111     3956
+  0415-0515         69          0     248         244   1571         2          11         8      4         0   1896   112     4165
+  0430-0530         66          0     264         274   1627         3          13         6      5         0   1915   118     4291
+  0445-0545         55          0     247         280   1691         4          13         5      6         0   1907   135     4343
+  0500-0600         48          0     244         280   1680         4          10         2      3         1   1900   138     4310
+  0515-0615         40          0     224         258   1656         3          9          2      2         1   1865   150     4210
+  0530-0630         39          0     213         228   1564         3          8          5      1         1   1772   151     3985
+  0545-0645         44          0     221         221   1516         3          5          5      1         1   1675   127     3819
+  0600-0700         49          0     208         203   1435         2          5          5      1         0   1532   113     3553
+
+
+                                                                   HASKELL AVENUE
+
+
+   P.M. PEAK HOUR                                             55           0        247
+      0445-0545
+
+
+                                      135                                                               280
+
+                                      1907                                                              1691
+        ROSCOE BOULEVARD
+                                           0                                                            4
+
+
+
+
+                                                               6           5         13
+   THE TRAFFIC SOLUTION
+   329 DIAMOND STREET
+   ARCADIA, CALIFORNIA 91005                                   PRIVATE DRIVEWAY
+   626.446.7979 PHONE
+   626.446.2877 FAX
+

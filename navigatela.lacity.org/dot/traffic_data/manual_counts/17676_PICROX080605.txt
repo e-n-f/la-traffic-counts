@@ -1,0 +1,297 @@
+                                                  TRAFFIC COUNT SUMMARY
+                                                                                                                             City of Los Angeles
+STREET:                                                                                                                Department of Transportation
+North/South           ROXBURY DRIVE
+
+East/West             PICO BOULEVARD
+
+Day:     AM    THURSDAY               Date:       JUNE 5, 2008                 Weather:         CLEAR
+         PM    THURSDAY                           JUNE 5, 2008
+Hours:         7-9 AM 4-6 PM
+
+School Day:           YES             District:           LOS ANGELES
+
+
+                        N/B                         S/B                          E/B                          W/B
+DUAL-
+WHEELED                 N/A                         N/A                          N/A                          N/A
+BIKES                   N/A                         N/A                          N/A                          N/A
+BUSES                   N/A                         N/A                          N/A                          N/A
+
+
+                        N/B TIME                    S/B TIME                     E/B TIME                     W/B     TIME
+
+AM PK 15 MIN            164 8:45                     55 8:00                     234 8:30                     608      7:45
+
+PM PK 15 MIN                53 4:00                 140 5:15                     612 5:30                     307      4:00
+
+AM PK HOUR              516 8:00                    200 8:00                     902 8:00                    2,323     7:30
+
+PM PK HOUR              172 4:00                    506 5:00                    2,243 5:00                   1,176     4:30
+
+
+
+NORTHBOUND Approach                                       SOUTHBOUND Approach                                        TOTAL      XING S/L       XING N/L
+
+Hours           Lt     Th      Rt     Total               Hours         Lt      Th        Rt       Total              N-S       Ped   Sch     Ped     Sch
+7-8             133      64     13        210             7-8             61      28       52          141              351     N/A   N/A     N/A     N/A
+8-9             395     106     15        516             8-9             74      39       87          200              716     N/A   N/A     N/A     N/A
+4-5              84      45     43        172             4-5            104     166       94          364              536     N/A   N/A     N/A     N/A
+5-6              59      39     63        161             5-6            156     283       67          506              667     N/A   N/A     N/A     N/A
+TOTAL           671     254    134      1,059             TOTAL          395     516      300        1,211            2,270     N/A   N/A     N/A     N/A
+
+
+EASTBOUND Approach                                        WESTBOUND Approach                                         TOTAL      XING W/L       XING E/L
+
+Hours           Lt     Th      Rt     Total               Hours         Lt       Th       Rt       Total              E-W       Ped   Sch     Ped     Sch
+7-8              38      575      9       622             7-8             9     1,935      78        2,022            2,644     N/A   N/A     N/A     N/A
+8-9              63      821     18       902             8-9            12     2,049      75        2,136            3,038     N/A   N/A     N/A     N/A
+4-5              69    1,792     29     1,890             4-5            29     1,034      80        1,143            3,033     N/A   N/A     N/A     N/A
+5-6              91    2,099     53     2,243             5-6            28     1,048      60        1,136            3,379     N/A   N/A     N/A     N/A
+TOTAL           261    5,287    109     5,657             TOTAL          78     6,066     293        6,437           12,094     N/A   N/A     N/A     N/A
+                                               City Traffic Counters
+                                                   626.256.4171
+                                                                                                  File Name       : RoxPico
+                                                                                                  Site Code       : 00000000
+                                                                                                  Start Date      : 6/5/2008
+                                                                                                  Page No         :1
+                                               Groups Printed- 1 - Unshifted
+                    Roxbury Dr                Pico Blvd                   Roxbury Dr                Pico Blvd
+                   Southbound                 Westbound                   Northbound                Eastbound
+ Start Time    Left     Thru     Right   Left     Thru    Right      Left      Thru    Right   Left     Thru    Right   Int. Total
+     Factor    1.0       1.0       1.0   1.0        1.0     1.0       1.0       1.0      1.0   1.0        1.0     1.0
+ 07:00 AM       11         4         8     0       348      15        10          5        3     9       113        0        526
+ 07:15 AM       14         8       13      5       446      12        15          7        4     7       126        0        657
+ 07:30 AM       19         9       14      3       561      24        38         14        3     8       149        4        846
+ 07:45 AM       17         7       17      1       580      27        70         38        3    14       187        5        966
+       Total    61        28       52      9     1935       78       133         64      13     38       575        9       2995
+
+ 08:00 AM       23       13        19      3      544       17        72       19         4     21      194        6         935
+ 08:15 AM       15       12        16      2      538       23       100       24         3     13      209        1         956
+ 08:30 AM       19        7        26      5      519       16        99       27         4     10      218        6         956
+ 08:45 AM       17        7        26      2      448       19       124       36         4     19      200        5         907
+     Total      74       39        87     12     2049       75       395      106        15     63      821       18        3754
+
+
+
+ 04:00 PM       28       36        27     12      260       35        24       13        16     17     425        16         909
+ 04:15 PM       19       43        28      2      230       19        23       12         8     22     448         5         859
+ 04:30 PM       19       36        25      4      266       18        18       11         9     11     487         4         908
+ 04:45 PM       38       51        14     11      278        8        19        9        10     19     432         4         893
+     Total     104      166        94     29     1034       80        84       45        43     69    1792        29        3569
+
+ 05:00 PM       45       75        13      6      287       12        20        8        21     25     509        10        1031
+ 05:15 PM       48       68        24     10      261       15        10       10        17     24     497        13         997
+ 05:30 PM       34       69        17      6      255       13        12        8        12     28     565        19        1038
+ 05:45 PM       29       71        13      6      245       20        17       13        13     14     528        11         980
+     Total     156      283        67     28     1048       60        59       39        63     91    2099        53        4046
+
+Grand Total    395     516       300     78      6066      293      671      254       134     261    5287       109      14364
+ Apprch %      32.6    42.6      24.8    1.2      94.2      4.6     63.4     24.0      12.7     4.6    93.5       1.9
+   Total %      2.7     3.6       2.1    0.5      42.2      2.0      4.7      1.8       0.9     1.8    36.8       0.8
+                                                    City Traffic Counters
+                                                        626.256.4171
+                                                                                                                        File Name              : RoxPico
+                                                                                                                        Site Code              : 00000000
+                                                                                                                        Start Date             : 6/5/2008
+                                                                                                                        Page No                :2
+
+                        Roxbury Dr               Pico Blvd                              Roxbury Dr                           Pico Blvd
+                        Southbound               Westbound                              Northbound                           Eastbound
+                                     App.                        App.                                App.                                      App.     Int.
+   Start Time   Left   Thru Right           Left Thru Right                   Left    Thru Right              Left          Thru Right
+                                    Total                        Total                               Total                                     Total   Total
+Peak Hour From 07:00 AM to 11:45 AM - Peak 1 of 1
+  Intersection 07:45 AM
+      Volume      74     39   78      191     11 2181   83       2275      341          108    14     463     58            808        18       884    3813
+      Percent 38.7 20.4 40.8                 0.5 95.9   3.6                73.7         23.3   3.0            6.6           91.4       2.0
+        07:45
+                  17      7   17       41      1   580  27        608          70        38     3     111      14           187            5    206     966
+      Volume
+ Peak Factor                                                                                                                                           0.987
+      High Int. 08:00 AM                   07:45 AM                        08:30 AM                          08:30 AM
+      Volume      23     13   19       55      1   580  27        608        99     27          4      130     10    218                   6     234
+ Peak Factor                       0.868                        0.935                                0.890                                     0.944
+
+                                                                 Roxbury Dr
+                                                         Out         In         Total
+                                                          249         191         440
+
+
+                                                             78    39            74
+                                                          Right Thru          Left
+                          3484
+                          Total
+
+
+
+
+                                                                                                                               Out
+                                                                                                                                896
+                                     58
+
+
+
+
+                                                                                                               Right Thru
+                                   Left
+
+
+
+
+                                                                   North
+                                                                                                                  83 2181
+
+
+
+
+                                                                                                                               Pico Blvd
+                       Pico Blvd
+
+                            884
+
+
+                                          808
+                                   Right Thru
+                            In
+
+
+
+
+                                                                                                                                  2275
+                                                                                                                                   In
+                                                         6/5/2008 7:45:00 AM
+                                                         6/5/2008 8:30:00 AM
+                                      18
+
+
+
+
+                                                                                                               Left
+                          2600
+
+
+
+
+                                                         1 - Unshifted
+                          Out
+
+
+
+
+                                                                                                                               Total
+                                                                                                                 11
+
+
+                                                                                                                               3171
+
+
+
+
+                                                              Left Thru Right
+                                                               341   108   14
+
+
+                                                           68         463         531
+                                                         Out         In         Total
+                                                                 Roxbury Dr
+                                                    City Traffic Counters
+                                                        626.256.4171
+                                                                                                                       File Name           : RoxPico
+                                                                                                                       Site Code           : 00000000
+                                                                                                                       Start Date          : 6/5/2008
+                                                                                                                       Page No             :3
+                        Roxbury Dr               Pico Blvd                             Roxbury Dr                           Pico Blvd
+                        Southbound               Westbound                             Northbound                           Eastbound
+                                     App.                        App.                                App.                                  App.     Int.
+   Start Time   Left   Thru Right           Left Thru Right                   Left   Thru Right              Left          Thru Right
+                                    Total                        Total                               Total                                 Total   Total
+Peak Hour From 12:00 PM to 05:45 PM - Peak 1 of 1
+  Intersection 05:00 PM
+      Volume     156    283   67      506     28 1048   60       1136       59          39     63     161    91 2099                 53    2243    4046
+      Percent 30.8 55.9 13.2                 2.5 92.3   5.3                36.6        24.2   39.1           4.1 93.6                2.4
+        05:30
+                  34     69   17      120      6   255  13        274          12        8     12      32     28           565       19     612    1038
+      Volume
+ Peak Factor                                                                                                                                       0.974
+      High Int. 05:15 PM                   05:00 PM                   05:00 PM                             05:30 PM
+      Volume      48     68   24      140      6   287  12        305   20     8               21       49   28    565               19      612
+ Peak Factor                       0.904                        0.931                                0.821                                 0.916
+
+                                                                 Roxbury Dr
+                                                         Out         In        Total
+                                                          190         506        696
+
+
+                                                             67   283          156
+                                                          Right Thru          Left
+                          3417
+                          Total
+
+
+
+
+                                                                                                                             2318
+                                                                                                                             Out
+                                     91
+
+
+
+
+                                                                                                              Right Thru
+                                   Left
+
+
+
+
+                                                                   North                                         60 1048
+
+
+
+
+                                                                                                                             Pico Blvd
+                       Pico Blvd
+
+                           2243
+
+
+                                      53 2099
+                                   Right Thru
+                            In
+
+
+
+
+                                                                                                                                1136
+                                                                                                                                 In
+                                                         6/5/2008 5:00:00 PM
+                                                         6/5/2008 5:45:00 PM
+                                                                                                              Left
+                          1174
+
+
+
+
+                                                         1 - Unshifted
+                          Out
+
+
+
+
+                                                                                                                             Total
+                                                                                                                28
+
+
+                                                                                                                             3454
+
+
+
+
+                                                              Left  Thru Right
+                                                                 59    39   63
+
+
+                                                          364         161        525
+                                                         Out         In        Total
+                                                                 Roxbury Dr
+

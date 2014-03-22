@@ -1,0 +1,40 @@
+                      Intersection Turning Movement
+                                               Prepared by:
+                             National Data & Surveying Services
+
+
+N-S STREET:    Lucas Ave                     DATE: 12/15/2010              LOCATION: City of Los Angeles
+
+
+E-W STREET: 3rd St                            DAY: WEDNESDAY               PROJECT#     10-5532-003
+
+
+                   NORTHBOUND            SOUTHBOUND               EASTBOUND            WESTBOUND
+
+                 NL     NT       NR    SL     ST     SR     EL       ET    ER     WL      WT     WR    TOTAL
+  LANES:         1       2        1    1       2      0     1         2     0     1        2      0
+
+   6:30   AM     6          22   10    20     83     11     8       106    7      8      150     14    445
+   6:45   AM     9          21   5     38     96     11     8       149    9      9      148     21    524
+   7:00   AM     10         29   8     31    104     18     12      152    8      13     159     23    567
+   7:15   AM     15         36   9     31    127     24     16      159    29     27     185     21    679
+   7:30   AM     25         41   15    30    142     18     28      227    18     21     188     32    785
+   7:45   AM     27         72   40    31    144     25     26      218    47     23     157     26    836
+   8:00   AM     30         87   42    50    165     33     13      212    45     13     180     19    889
+   8:15   AM     20         47   11    43    149     19     9       255    25     12     154     14    758
+
+TOTAL           NL      NT       NR     SL    ST     SR      EL      ET    ER     WL      WT     WR    TOTAL
+VOLUMES =       142     355      140   274   1010    159    120     1478   188    126    1321    170    5483
+
+            nb a nb d                 sb a  sb d           eb a eb d             wb a nb d
+               637     645              1443 1324            1786 1892            1617 1622
+      AM Peak Hr Begins at:       730 AM
+
+PEAK
+VOLUMES =       102    247       108   154   600     95     76      912    135    69     679     91    3268
+
+PEAK HR.
+FACTOR:                0.719                 0.856                 0.965                 0.870         0.919
+
+CONTROL:       Signalized
+

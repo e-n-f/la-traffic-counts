@@ -1,0 +1,61 @@
+ACCUTEK                          TRAFFIC COUNT SUMMARY
+
+STREET:
+North/South       BUNDY DR.
+
+East/West         WILSHIRE BLVD.
+
+Day:    WEDNESDAY                     Date:       11-27-1996                Weather:          SUNNY
+
+Hours: 7-10 AM 3-6 PM                 FILE:       AM008
+
+School Day:       YES                 District:           WEST L.A.
+
+
+                    N/B                             S/B                        E/B                     W/B
+DUAL-
+WHEELED              86                             50                        149                     128
+BIKES                 5                             10                          5                       3
+BUSES                43                             28                        128                     125
+
+
+                    N/B TIME                        S/B TIME                   E/B TIME                W/B     TIME
+
+AM PK 15 MIN        263   8:15                     214     8:15               381      8:30           384       8:30
+
+PM PK 15 MIN        345   5:00                     265     3:45               433      5:15           440       5:30
+
+AM PK HOUR          983   8:00                     739     8:00              1374      8:00           1440      8:00
+
+PM PK HOUR         1301   5:00                    1017     3:00              1633      5:00           1687      5:00
+
+
+
+NORTHBOUND Approach                                       SOUTHBOUND Approach                                TOTAL     XING S/L       XING N/L
+
+Hours       Lt     Th     Rt          Total               Hours       Lt      Th       Rt     Total           N-S      Ped   Sch      Ped   Sch
+7-8         138    432     95           665               7-8         125     292       20      437           1102      6     0       42     4
+8-9         233    640    110           983               8-9         169     533       37      739           1722      6     0       36     1
+9-10        229    510    101           840               9-10        161     442       67      670           1510     11     0       39     4
+3-4         173    745    166          1084               3-4         152     768       97     1017           2101     42     0       50     2
+4-5         242    771    127          1140               4-5         138     747      108      993           2133     29     0       48     1
+5-6         216    917    168          1301               5-6         124     653       97      874           2175      9     0       37     0
+
+TOTAL 1231         4015   767          6013               TOTAL       869    3435      426     4730           10743    103        0   252    12
+
+
+EASTBOUND Approach                                        WESTBOUND Approach                                 TOTAL     XING W/L       XING E/L
+
+Hours       Lt      Th    Rt          Total               Hours       Lt      Th       Rt     Total           E-W      Ped   Sch      Ped   Sch
+7-8          39    1037    48          1124               7-8          63     850       42      955            2079    32     2       17     4
+8-9          67    1234    73          1374               8-9          94    1278       68     1440            2814    33     0       32     1
+9-10         82    1121    75          1278               9-10         82    1110       55     1247            2525    29     0       31     0
+3-4          89    1304    99          1492               3-4         100    1334      102     1536            3028    71     0       47    11
+4-5          99    1386   112          1597               4-5         103    1468       95     1666            3263    50     0       39     0
+5-6         102    1403   128          1633               5-6         121    1466      100     1687            3320    49     0       29     0
+
+TOTAL       478    7485   535          8498               TOTAL       563    7506      462     8531           17029    264        2   195    16
+
+
+                                                                                                              27772
+

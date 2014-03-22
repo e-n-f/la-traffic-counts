@@ -1,0 +1,61 @@
+ACCUTEK                          TRAFFIC COUNT SUMMARY
+
+STREET:
+North/South       VETERAN AVE.
+
+East/West         PICO BLVD.
+
+Day:    TUESDAY                       Date:       11-26-1996              Weather:          CLEAR
+
+Hours: 7-10 AM 3-6 PM                 FILE:       AM049
+
+School Day:       YES                 District:           LOS ANGELES
+
+
+                    N/B                             S/B                      E/B                     W/B
+DUAL-
+WHEELED               4                              7                      157                      177
+BIKES                20                             12                       12                        5
+BUSES                 0                              0                       65                       63
+
+
+                    N/B TIME                        S/B TIME                 E/B TIME                W/B     TIME
+
+AM PK 15 MIN         25   7:45                      46     9:00             426      8:45            349      8:00
+
+PM PK 15 MIN         22   5:15                     126     5:30             446      5:45            126      5:30
+
+AM PK HOUR           69   8:00                     147     8:00            1616      8:00            147      8:00
+
+PM PK HOUR           71   4:00                     455     5:00            1601      5:00            455      5:00
+
+
+
+NORTHBOUND Approach                                       SOUTHBOUND Approach                              TOTAL     XING S/L       XING N/L
+
+Hours       Lt     Th     Rt          Total               Hours     Lt      Th       Rt     Total           N-S      Ped   Sch      Ped   Sch
+7-8          29       9    14             52              7-8        20       5       62        87           139     10     1       11     1
+8-9          14      23    32             69              8-9        51      28       68      147            216     27     1       20     2
+9-10         19      26    21             66              9-10       59      28       59      146            212     18     2       35     0
+3-4          19      21    29             69              3-4        60      74      126      260            329     11     4       13     4
+4-5          11      27    33             71              4-5        84     105      205      394            465     10     2       11    14
+5-6          29      22    19             70              5-6        88     125      242      455            525      8     2       10     8
+
+TOTAL       121     128   148            397              TOTAL     362     365      762     1489            1886     84    12      100    29
+
+
+EASTBOUND Approach                                        WESTBOUND Approach                               TOTAL     XING W/L       XING E/L
+
+Hours       Lt      Th    Rt          Total               Hours     Lt      Th       Rt     Total           E-W      Ped   Sch      Ped   Sch
+7-8          84     817     9           910               7-8         9     931       31      971            1881     4     1       20     2
+8-9         152    1451    13          1616               8-9        35    1212       40     1287            2903     6     0       32     5
+9-10         85    1259    23          1367               9-10       22    1154       31     1207            2574     8     0       49     8
+3-4          67    1254    28          1349               3-4        38    1438       35     1511            2860    10     3       17     6
+4-5          87    1339    30          1456               4-5        43    1508       31     1582            3038    10     1       23    15
+5-6          74    1493    34          1601               5-6        43    1786       41     1870            3471    11     3       15     5
+
+TOTAL       549    7613   137          8299               TOTAL     190    8029      209     8428           16727     49        8   156    41
+
+
+                                                                                                            18613
+

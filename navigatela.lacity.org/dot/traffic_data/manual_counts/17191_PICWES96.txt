@@ -1,0 +1,61 @@
+ACCUTEK                          TRAFFIC COUNT SUMMARY
+
+STREET:
+North/South       WESTWOOD BLVD.
+
+East/West         PICO BLVD.
+
+Day:    WEDNESDAY                     Date:       11-20-1996                Weather:          SUNNY
+
+Hours: 7-10 AM 3-6 PM                 FILE:       AM034
+
+School Day:       YES                 District:           WEST L.A.
+
+
+                    N/B                             S/B                        E/B                     W/B
+DUAL-
+WHEELED              73                             85                        205                      178
+BIKES                 6                              2                          9                       15
+BUSES                93                             69                         72                       92
+
+
+                    N/B TIME                        S/B TIME                   E/B TIME                W/B     TIME
+
+AM PK 15 MIN        330   7:45                     181     8:30               361      8:45            338      8:15
+
+PM PK 15 MIN        201   4:45                     372     5:00               373      5:30           496       5:45
+
+AM PK HOUR         1213   8:00                     620     8:00              1321      8:00           1276      8:00
+
+PM PK HOUR          752   5:00                    1402     5:00              1441      5:00           1801      5:00
+
+
+
+NORTHBOUND Approach                                       SOUTHBOUND Approach                                TOTAL     XING S/L       XING N/L
+
+Hours       Lt     Th     Rt          Total               Hours       Lt      Th       Rt     Total           N-S      Ped    Sch     Ped    Sch
+7-8         113    734     43           890               7-8         113     274       64      451           1341     14      0       55     8
+8-9         158    961     94          1213               8-9         152     402       66      620           1833      7      0       95     1
+9-10        103    663     91           857               9-10        157     364       82      603           1460      5      0      129     0
+3-4         141    499     88           728               3-4         198     808      130     1136           1864     22      0      182    17
+4-5         155    483     79           717               4-5         192    1058      121     1371           2088     23      0      155     3
+5-6         118    542     92           752               5-6         168    1116      118     1402           2154     21      0      168     0
+
+TOTAL       788    3882   487          5157               TOTAL       980    4022      581     5583           10740     92        0   784    29
+
+
+EASTBOUND Approach                                        WESTBOUND Approach                                 TOTAL     XING W/L       XING E/L
+
+Hours       Lt      Th    Rt          Total               Hours       Lt      Th       Rt     Total           E-W      Ped    Sch     Ped    Sch
+7-8          80     671    39           790               7-8          24     764      126      914            1704     74    19      15      1
+8-9         105    1146    70          1321               8-9          55    1032      189     1276            2597     46     4       6      0
+9-10        121     809    87          1017               9-10         74     891      169     1134            2151     90     0      15      0
+3-4          98     984   186          1268               3-4         140    1096      243     1479            2747     81     3      22      0
+4-5          90    1058   157          1305               4-5         163    1249      246     1658            2963    101     0      27      0
+5-6          89    1099   253          1441               5-6         157    1425      219     1801            3242     93     1      25      0
+
+TOTAL       583    5767   792          7142               TOTAL       613    6457    1192      8262           15404    485    27      110        1
+
+
+                                                                                                              26144
+

@@ -1,0 +1,40 @@
+                      Intersection Turning Movement
+                                             Prepared by:
+                            National Data & Surveying Services
+
+
+N-S STREET:    Beaudry Ave                 DATE: 12/15/2010                    LOCATION: City of Los Angeles
+
+
+E-W STREET: I-110 SB Off-Ramp               DAY: WEDNESDAY                     PROJECT#     10-5532-002
+
+
+                     NORTHBOUND          SOUTHBOUND             EASTBOUND                  WESTBOUND
+
+                 NL     NT     NR    SL     ST     SR      EL         ET       ER    WL       WT     WR    TOTAL
+  LANES:         0       2      0    0       2      0      0           1        0    1.5       1     1.5
+
+   6:30   AM     3       46                 169    9        0                  0     84       10     9     330
+   6:45   AM     9       67                 187    10       1                  0     90       4      16    384
+   7:00   AM     7       79                 216    11       0                  1     71       10     20    415
+   7:15   AM     8       78                 266    15       0                  1     87       12     15    482
+   7:30   AM     6      103                 268    14       0                  0     79       8      13    491
+   7:45   AM     5      102                 288    10       1                  1     95       14     17    533
+   8:00   AM     6      109                 261    24       0                  1     89       13     13    516
+   8:15   AM     4       82                 264    10       0                  1     88       6      17    472
+
+TOTAL            NL     NT     NR    SL     ST     SR      EL         ET       ER    WL       WT     WR    TOTAL
+VOLUMES =        48     666     0    0     1919    103     2           0        5    683      77     120    3623
+
+            nb a nb d               sb a  sb d           eb a       eb d            wb a nb d
+               714     788            2022 2607                 7          0          880   228
+      AM Peak Hr Begins at:     715 AM
+
+PEAK
+VOLUMES =       25     392     0     0     1083    63       1         0        3    350       47     58    2022
+
+PEAK HR.
+FACTOR:                0.907               0.961                    0.500                    0.903         0.948
+
+CONTROL:       Signalized
+

@@ -1,0 +1,63 @@
+                                                                                                                                     CITY OF LOS ANGELES
+
+
+
+
+                     24 Hours Traffic Volume
+                     City of Los Angeles                                                                       Counter               KENT
+
+                     Department of Transportation                                                              Date                  02/02/10
+                                                                                                               Start Time            12 AM
+
+
+Location             CAHUENGA BL AT CAMARILLO ST                       Day of Week             TUESDAY         Prepared              02/04/10
+Direction            N/S STREET                                        DOT District            EAST VALLEY     Counter Mode          Classifier
+Serial Number        RD97721 D                                         Weather                 CLOUDY
+
+
+                              NORTHBOUND or WESTBOUND                                 SOUTHBOUND or EASTBOUND
+                      1ST      2ND       3RD     4TH        HOUR         1ST           2ND      3RD   4TH          HOUR
+       Time           QTR      QTR       QTR     QTR        TOTAL        QTR           QTR      QTR   QTR          TOTAL                  TOTAL
+
+      12 AM            54        47       54     56          211          39           39        35    33             146                   357
+      1 AM             41        33       29     26          129          35           23        17    25             100                   229
+      2 AM             28        31       15     16          90           11           14        19    9               53                   143
+      3 AM             17        16       13      9          55            9           16        21    21              67                   122
+      4 AM             7         14       8      29          58           15           19        17    30              81                   139
+      5 AM             16        22       32     50          120          32           52        87   121             292                   412
+      6 AM             55        63       99     114         331          91           151      176   213             631                   962
+      7 AM            123        137     178     194         632          252          227      301   296             1076                 1708
+      8 AM            224        147     225     201         797          294          307      330   310             1241                 2038
+      9 AM            234        228     188     244         894          283          237      213   192             925                  1819
+      10 AM           244        186     185     221         836          192          244      225   203             864                  1700
+      11 AM           213        227     236     218         894          190          195      196   195             776                  1670
+      12 NN           261        267     289     265        1082          203          241      215   190             849                  1931
+      1 PM            260        255     294     332        1141          268          265      254   209             996                  2137
+      2 PM            265        283     296     305        1149          202          219      221   214             856                  2005
+      3 PM            278        337     339     323        1277          213          247      274   256             990                  2267
+      4 PM            338        304     349     376        1367          216          223      199   235             873                  2240
+      5 PM            368        460     431     393        1652          228          237      258   243             966                  2618
+      6 PM            405        391     363     383        1542          252          210      236   230             928                  2470
+      7 PM            367        365     284     314        1330          187          213      156   170             726                  2056
+      8 PM            225        226     204     181         836          156          146      124   136             562                  1398
+      9 PM            209        217     170     151         747          114          129      125   120             488                  1235
+      10 PM           175        146     152     123         596          130          90       102    96             418                  1014
+      11 PM           117        118      91     82          408          46           54        58    46             204                   612
+
+FIRST 12-HOURS PEAK QUARTER COUNT                 244       9 AM         4TH                           330         8 AM                  3RD
+LAST 12-HOURS PEAK QUARTER COUNT                  460       5 PM         2ND                           274         3 PM                  3RD
+24 HOUR VEHICLES TOTAL                                     18,174                                                 15,108                33,282
+TOTAL VEHICLES STANDARD DEVIATION (STD)           [+,-]    488.02                                      [+,-]      365.14                810.63
+
+                                                          PEAK HOURS VOLUME
+                            NORTH or WEST BOUND                    SOUTH or EAST BOUND                          BOTH DIRECTIONS
+                      PEAK             VEHICLE              PEAK                  VEHICLE             PEAK                              VEHICLE
+                      HOUR             VOLUME               HOUR                  VOLUME              HOUR                              VOLUME
+First 12H Peak        9 AM                 894              8 AM                       1,241          8 AM                                 2,038
+Last 12H Peak         5 PM               1,652              1 PM                        996           5 PM                                 2,618
+First 12H Peak STD                [+,-] 342.65                              [+,-] 425.58                                     [+,-]      749.95
+Last 12H Peak STD                 [+,-] 363.63                              [+,-] 248.96                                     [+,-]      596.22
+
+
+     CAHCAM100202.xls
+

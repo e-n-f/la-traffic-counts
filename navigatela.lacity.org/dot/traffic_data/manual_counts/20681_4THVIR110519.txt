@@ -1,0 +1,531 @@
+                                                   City Traffic Counters, LLC.
+                                                         626-256-4171
+                                                                                                               File Name       : Virgil4th
+                                                                                                               Site Code       : 00000000
+                                                                                                               Start Date      : 5/19/2011
+                                                                                                               Page No         :1
+                                                      Groups Printed- 1 - Unshifted
+                      Virgil Ave                    4th St                        Virgil Ave                      4th St
+                     Southbound                    Westbound                     Northbound                     Eastbound
+                                                                                                                                        Int.
+ Start Time   Left   Thru    Right   Peds   Left   Thru   Right   Peds    Left   Thru    Right   Peds   Left    Thru   Right   Peds
+                                                                                                                                       Total
+    Factor    1.0      1.0     1.0    1.0   1.0     1.0     1.0    1.0    1.0      1.0    1.0     1.0    1.0     1.0    1.0     1.0
+ 08:00 AM       6     140      44       0     2     12        8      0      5      72       3       0      4     12       9       0     317
+ 08:15 AM     12      179      35       0     5     19        7      0      8     105       3       0    11      17     20        0     421
+ 08:30 AM     17      215      41       0     1     13        9      0    11      120       6       0    18      26     14        0     491
+ 08:45 AM     27      205      40       0     5     21        9      0      7     145       6       0    20      22     26        0     533
+     Total    62      739     160       0   13      65      33       0    31      442     18        0    53      77     69        0    1762
+
+ 09:00 AM      13     222      46      0      2      19      9       0     10     114       3       1    27      22      14       0     502
+ 09:15 AM      18     205      49      0      3      19      5       0      3      95       1       0    16      20      19       0     453
+ 09:30 AM      11     233      41      0      1      19      7       0      7      99       1       0    18      22      10       1     470
+ 09:45 AM      11     231      43      0      5      22      5       0     10     107       4       0    10      20      20       0     488
+     Total     53     891     179      0     11      79     26       0     30     415       9       1    71      84      63       1    1913
+
+ 10:00 AM       7     197      45      0      1      17      1       0      5      89       2       0     7      17      10       0     398
+ 10:15 AM       5     203      25      0      0      12      8       0      5      99       2       0    15      11      14       0     399
+ 10:30 AM       2     162      32      0      2      17      9       0     29     102       2       1    20      28      36       0     442
+ 10:45 AM       5     177      29      0      5      34     17       0     36     105       1       0    43      36      45       1     534
+     Total     19     739     131      0      8      80     35       0     75     395       7       1    85      92     105       1    1773
+
+
+
+ 04:00 PM       3     121      10      6      0      17      6       0     11     133       5       9    22      12      11       0     366
+ 04:15 PM       2     154      12      6      2      16      8       3      4     125       0       6    24      24      12       5     403
+ 04:30 PM       4     143      18      3      4      20      9      10      4     140       0       6    30      22      14       0     427
+ 04:45 PM       8     148      14      8      2      13      6       6      8     136       2       5    28      31      23       1     439
+     Total     17     566      54     23      8      66     29      19     27     534       7      26   104      89      60       6    1635
+
+ 05:00 PM       8     156       9      2      2      19     12       5      8     134       1       5    45      40      10       1     457
+ 05:15 PM       5     153      15      1      0      21      8       3     10     142       3       4    36      29      12       1     443
+ 05:30 PM       3     144      11      3      3      17     12       0     13     150       3       2    49      46      11       0     467
+ 05:45 PM       7     162      10     15      4      14      6       0     15     146       4       6    61      39      11       6     506
+     Total     23     615      45     21      9      71     38       8     46     572      11      17   191     154      44       8    1873
+
+ 06:00 PM       1     199      11      6      2      22      4       4     12     157       4       5    45      65      13       0     550
+ 06:15 PM       3     160      24      0      2      25      7       2     12     152       2       0    43      64      10       0     506
+ 06:30 PM       7     161      19      1      2      29      4       0     12     143       1       0    45      54      17       0     495
+ 06:45 PM       8     184      14      0      4      29      3       2     11     136       5       6    38      60      13       1     514
+     Total     19     704      68      7     10     105     18       8     47     588      12      11   171     243      53       1    2065
+
+Grand Total   193    4254    637      51    59     466    179      35     256    2946     64      56    675     739    394      17    11021
+ Apprch %      3.8    82.8   12.4     1.0   8.0    63.1   24.2     4.7     7.7    88.7    1.9     1.7   37.0    40.5   21.6     0.9
+   Total %     1.8    38.6    5.8     0.5   0.5     4.2    1.6     0.3     2.3    26.7    0.6     0.5    6.1     6.7    3.6     0.2
+                                                  City Traffic Counters, LLC.
+                                                        626-256-4171
+                                                                                                                File Name    : Virgil4th
+                                                                                                                Site Code    : 00000000
+                                                                                                                Start Date   : 5/19/2011
+                                                                                                                Page No      :2
+
+                       Virgil Ave                     4th St                      Virgil Ave                    4th St
+                     Southbound                     Westbound                   Northbound                    Eastbound
+                   Thr Rig Ped App.              Thr Rig Ped App.            Thr Rig Ped App.              Thr Rig Ped App.         Int.
+ Start Time Left                           Left                        Left                          Left
+                     u      ht     s Total         u     ht    s Total         u       ht    s Total         u     ht    s Total   Total
+Peak Hour From 08:00 AM to 11:45 AM - Peak 1 of 1
+ Intersectio
+             08:30 AM
+           n
+    Volume    75 847 176           0 1098   11    72    32     0   115  31 474        16     1   522  81    90    73     0   244   1979
+                    77. 16.                       62. 27.                     90.                     33. 36. 29.
+    Percent 6.8                  0.0        9.6              0.0        5.9          3.1 0.2                           0.0
+                     1       0                     6     8                     8                        2    9     9
+      08:45
+              27 205       40      0   272    5   21     9     0    35    7 145         6    0   158  20    22    26     0    68    533
+    Volume
+       Peak                                                                                                                         0.928
+     Factor
+   High Int. 09:00 AM                      08:45 AM                    08:45 AM                      08:45 AM
+    Volume    13 222       46      0   281    5   21     9     0    35    7 145         6    0   158  20    22    26     0    68
+       Peak
+                                     0.977                       0.821                         0.826                       0.897
+     Factor
+
+                                                                   Virgil Ave
+                                                           Out         In         Total
+                                                            587       1098         1685
+
+
+                                                            176   847         75    0
+                                                          Right Thru       Left Peds
+                        523
+
+
+                                 81
+
+
+
+
+                                                                                                       Right Thru
+                       Total
+
+
+
+
+                               Left
+
+
+
+
+                                                                                                                    Out
+                                                                                                          32
+
+
+                                                                                                                     181
+
+
+
+                                                                     North
+                                            90
+                               Peds Right Thru
+                         244
+
+
+
+
+                                                                                                               72
+
+
+
+
+                                                                                                                    4th St
+                     4th St
+                        In
+
+
+
+
+                                                                                                                      In
+
+
+
+
+                                                           5/19/2011 8:30:00 AM
+                                                                                                                      115
+                                       73
+
+
+
+
+                                                           5/19/2011 9:15:00 AM
+                                                                                                       Left Peds
+                                                                                                         11
+                        279
+
+
+
+
+                                                           1 - Unshifted
+                       Out
+
+
+
+
+                                                                                                                    Total
+                                  0
+
+
+
+
+                                                                                                                     296
+                                                                                                               0
+
+
+
+
+                                                          Left  Thru Right Peds
+                                                             31   474   16     1
+
+
+                                                            931         522        1453
+                                                           Out         In         Total
+                                                                   Virgil Ave
+                                                  City Traffic Counters, LLC.
+                                                        626-256-4171
+                                                                                                                File Name    : Virgil4th
+                                                                                                                Site Code    : 00000000
+                                                                                                                Start Date   : 5/19/2011
+                                                                                                                Page No      :3
+                        Virgil Ave                    4th St                      Virgil Ave                     4th St
+                     Southbound                     Westbound                   Northbound                     Eastbound
+                   Thr Rig Ped App.              Thr Rig Ped App.            Thr Rig Ped App.               Thr Rig Ped App.         Int.
+ Start Time Left                           Left                        Left                           Left
+                     u       ht    s Total         u     ht    s Total         u       ht     s Total         u     ht    s Total   Total
+Peak Hour From 12:00 PM to 06:45 PM - Peak 1 of 1
+ Intersectio
+             06:00 PM
+           n
+    Volume    19 704        68     7   798  10 105      18     8   141  47 588        12     11   658 171 243      53     1   468   2065
+                    88.                           74. 12.                     89.                      36. 51. 11.
+    Percent 2.4            8.5 0.9          7.1              5.7        7.1          1.8 1.7                            0.2
+                     2                             5     8                     4                         5    9     3
+      06:00
+                1 199       11     6   217    2   22     4     4    32  12 157          4     5   178  45    65    13     0   123    550
+    Volume
+       Peak                                                                                                                          0.939
+     Factor
+   High Int. 06:00 PM                      06:45 PM                    06:00 PM                       06:00 PM
+    Volume      1 199       11     6   217    4   29     3     2    38  12 157          4     5   178  45    65    13     0   123
+       Peak
+                                     0.919                       0.928                          0.924                       0.951
+     Factor
+
+                                                                    Virgil Ave
+                                                            Out         In        Total
+                                                             777         798       1575
+
+
+                                                             68   704          19    7
+                                                          Right Thru        Left Peds
+                        688
+
+
+                                171
+
+
+
+
+                                                                                                       Right Thru
+                       Total
+
+
+
+
+                               Left
+
+
+
+
+                                                                                                                    Out
+                                                                                                          18
+
+
+                                                                                                                     274
+
+                                                                      North
+                                           243
+                               Peds Right Thru
+
+
+
+
+                                                                                                              105
+                         468
+
+
+
+
+                                                                                                                    4th St
+                     4th St
+                        In
+
+
+
+
+                                                                                                                      In
+
+
+                                                           5/19/2011 6:00:00 PM
+                                                                                                                      141
+                                       53
+
+
+
+
+                                                           5/19/2011 6:45:00 PM
+                                                                                                       Left Peds
+                                                                                                         10
+                        220
+
+
+
+
+                                                            1 - Unshifted
+                       Out
+
+
+
+
+                                                                                                                    Total
+                                  1
+
+
+
+
+                                                                                                                     415
+                                                                                                               8
+
+
+
+
+                                                           Left  Thru Right Peds
+                                                              47   588   12    11
+
+
+                                                             767         658       1425
+                                                            Out         In        Total
+                                                                    Virgil Ave
+                        City Traffic Counters, LLC.
+                              626-256-4171
+                                                                             File Name      : Virgil4th_Bike
+                                                                             Site Code      : 00000000
+                                                                             Start Date     : 5/19/2011
+                                                                             Page No        :1
+                                 Groups Printed- 2 - Bank 1
+                Virgil Ave             4th St              Virgil Ave         4th St
+               Southbound            Westbound            Northbound        Eastbound
+ Start Time               Thru                 Thru                  Thru            Thru           Int. Total
+     Factor                1.0                   1.0                  1.0             1.0
+ 08:00 AM                    3                     2                    0               1                  6
+ 08:15 AM                    6                     3                    2               4                 15
+ 08:30 AM                    4                     6                    5               4                 19
+ 08:45 AM                    4                     3                    3               4                 14
+       Total                17                    14                   10              13                 54
+
+ 09:00 AM                   3                     4                    8               1                  16
+ 09:15 AM                   3                     1                    2               1                   7
+ 09:30 AM                   2                     4                    3               3                  12
+ 09:45 AM                   5                     3                    3               2                  13
+     Total                 13                    12                   16               7                  48
+
+ 10:00 AM                   5                      1                   3               2                  11
+ 10:15 AM                   4                      0                  15               0                  19
+ 10:30 AM                   5                      3                  16               3                  27
+ 10:45 AM                   4                      2                   5               5                  16
+     Total                 18                      6                  39              10                  73
+
+
+
+ 04:15 PM                   1                      1                   0               1                    3
+
+ 04:45 PM                   0                      1                   0               1                    2
+     Total                  1                      2                   0               2                    5
+
+
+ 05:15 PM                   0                      0                   0               1                    1
+
+      Total                 0                      0                   0               1                    1
+
+
+
+Grand Total               49                    34                   65              33                  181
+ Apprch %               100.0                 100.0                100.0           100.0
+   Total %               27.1                  18.8                 35.9            18.2
+                                                     City Traffic Counters, LLC.
+                                                           626-256-4171
+                                                                                                          File Name          : Virgil4th_Bike
+                                                                                                          Site Code          : 00000000
+                                                                                                          Start Date         : 5/19/2011
+                                                                                                          Page No            :2
+
+                                Virgil Ave                  4th St                  Virgil Ave                  4th St
+                               Southbound                Westbound                 Northbound                 Eastbound
+             Start Time       Thru      App. Total      Thru      App. Total      Thru      App. Total      Thru      App. Total      Int. Total
+Peak Hour From 08:00 AM to 11:45 AM - Peak 1 of 1
+           Intersection 10:00 AM
+               Volume           18             18          6              6         39             39         10             10             73
+               Percent       100.0                     100.0                     100.0                     100.0
+        10:30 Volume             5              5          3              3         16             16          3              3             27
+          Peak Factor                                                                                                               0.676
+               High Int. 10:00 AM                  10:30 AM                  10:30 AM                  10:45 AM
+               Volume            5              5          3              3         16             16          5              5
+          Peak Factor                       0.900                     0.500                     0.609                     0.500
+
+                                                                      Virgil Ave
+                                                               Out        In       Total
+                                                                 39          18       57
+
+
+                                                                              18
+                                                                           Thru
+                           16
+                        Total
+
+
+
+
+                                                                                                                    Out
+                                                                                                                     10
+                                                                           North
+                           10
+
+
+                                    10
+
+
+
+
+                                                                                                                    4th St
+                      4th St
+
+
+
+
+                                                                                                            Thru
+                                  Thru
+                         In
+
+
+
+
+                                                                                                                      In
+                                                             5/19/2011 10:00:00 AM
+                                                             5/19/2011 10:45:00 AM
+                                                                                                                6
+
+
+                                                                                                                         6
+                              6
+
+
+
+
+                                                              2 - Bank 1
+                        Out
+
+
+
+
+                                                                                                                    Total
+                                                                                                                       16
+
+
+
+
+                                                                           Thru
+                                                                              39
+
+
+                                                                 18          39       57
+                                                               Out        In       Total
+                                                                      Virgil Ave
+                                                     City Traffic Counters, LLC.
+                                                           626-256-4171
+                                                                                                                    File Name           : Virgil4th_Bike
+                                                                                                                    Site Code           : 00000000
+                                                                                                                    Start Date          : 5/19/2011
+                                                                                                                    Page No             :3
+                                Virgil Ave                  4th St                           Virgil Ave                   4th St
+                               Southbound                Westbound                          Northbound                 Eastbound
+             Start Time       Thru      App. Total      Thru      App. Total               Thru      App. Total       Thru      App. Total        Int. Total
+Peak Hour From 12:00 PM to 06:45 PM - Peak 1 of 1
+           Intersection 04:00 PM
+               Volume            1              1          2              2                      0           0           2                 2              5
+               Percent       100.0                     100.0                                   0.0                   100.0
+        04:15 Volume             1              1          1              1                      0           0           1                 1              3
+          Peak Factor                                                                                                                           0.417
+               High Int. 04:15 PM                  04:15 PM                                                       04:15 PM
+               Volume            1              1          1              1                     0            0            1                 1
+          Peak Factor                       0.250                     0.500                                                             0.500
+
+                                                                         Virgil Ave
+                                                               Out           In       Total
+                                                                     0           1         1
+
+
+                                                                                1
+                                                                            Thru
+                             4
+                         Total
+
+
+
+
+                                                                                                                                  Out
+                                                                                                                              2
+                                                                            North
+                               2
+
+
+                                       2
+
+
+
+
+                                                                                                                              4th St
+                      4th St
+
+
+
+
+                                                                                                                      Thru
+                                   Thru
+                         In
+
+
+
+
+                                                                                                                                In
+                                                              5/19/2011 4:00:00 PM
+                                                              5/19/2011 4:45:00 PM
+                                                                                                                          2
+
+
+                                                                                                                                   2
+                               2
+
+
+
+
+                                                               2 - Bank 1
+                         Out
+
+
+
+
+                                                                                                                              Total
+                                                                                                                                  4
+
+
+
+
+                                                                            Thru
+                                                                                0
+
+
+                                                                     1           0         1
+                                                               Out           In       Total
+                                                                         Virgil Ave
+

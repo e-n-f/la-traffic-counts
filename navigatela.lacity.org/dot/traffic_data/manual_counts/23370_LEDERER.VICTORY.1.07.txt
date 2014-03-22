@@ -1,0 +1,61 @@
+                    City Of Los Angeles
+                    Department Of Transportation
+                    MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South         LEDERER AV
+
+East/West           VICTORY BL
+
+Day:        MONDAY                    Date:       AUGUST 6, 2007          Weather:          SUNNY
+
+Hours:      7-10AM 3-6PM
+
+School Day:         YES               District:          WV                 I/S CODE 23370
+
+
+                     N/B                           S/B                      E/B                      W/B
+DUAL-
+WHEELED                    1                         1                       49                       36
+BIKES                      0                         0                        7                        2
+BUSES                      0                         0                       23                       18
+
+
+                     N/B TIME                      S/B TIME                 E/B TIME                 W/B TIME
+
+AM PK 15 MIN           10      7.45                  9    8.00              202      7.45             97    7.45
+
+PM PK 15 MIN               9   3.30                 11    3.45              183      4.45            177    5.45
+
+AM PK HOUR             31      7.30                 29    7.15              734      7.45            343    7.45
+
+PM PK HOUR             24      3.30                 25    3.45              715      4.30            608    5.00
+
+
+
+NORTHBOUND Approach                                      SOUTHBOUND Approach                               TOTAL   XING S/L   XING N/L
+
+Hours         Lt     Th        Rt Total                  Hours     Lt      Th        Rt Total               N-S     Ped Sch    Ped   Sch
+7-8             6          2    13     21                7-8         6          3     18     27               48      3   0      7     3
+8-9             8          1    13     22                8-9         7          1     18     26               48      3   0      3     0
+9-10            7          1     5     13                9-10        3          1     11     15               28      3   0      1     0
+3-4            10          0    10     20                3-4         4          0     19     23               43      3   0      3     4
+4-5            11          0    10     21                4-5         4          0     16     20               41      5   0      4     0
+5-6             9          0    12     21                5-6        10          3      9     22               43      2   0      2     0
+
+TOTAL          51          4    63        118            TOTAL      34          8     91       133           251     19   0     20    7
+
+
+EASTBOUND Approach                                       WESTBOUND Approach                                TOTAL   XING W/L   XING E/L
+
+Hours         Lt     Th        Rt Total                  Hours     Lt      Th        Rt     Total          E-W      Ped Sch    Ped   Sch
+7-8            14     533       10   557                 7-8        15      245        7       267           824      0   0      2     0
+8-9            13     691        9   713                 8-9          9     293        4       306          1019      1   0      4     0
+9-10           12     654        7   673                 9-10         5     256        6       267           940      0   0      3     0
+3-4            16     623       20   659                 3-4          3     397        7       407          1066      1   0      0     5
+4-5            27     660       20   707                 4-5        12      416        9       437          1144      0   0      1     1
+5-6            37     641       20   698                 5-6        17      581       10       608          1306      0   0      4     0
+
+TOTAL         119 3802          86      4007             TOTAL      61 2188           43      2292          6299      2   0     14    6
+
+            (Rev Oct 06)
+

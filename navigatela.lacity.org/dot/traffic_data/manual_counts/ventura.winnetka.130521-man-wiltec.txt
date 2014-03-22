@@ -1,0 +1,66 @@
+                      City Of Los Angeles
+                      Department Of Transportation
+                      MANUAL TRAFFIC COUNT SUMMARY
+STREET:                                                                                                     I/S #      77
+North/South           VENTURA BOULEVARD                                                                     COUNT       1
+
+East/West             WINNETKA AVENUE
+
+Day:          TUESDAY                   Date:          MAY 21, 2013        Weather:          CLEAR
+
+Hours:        7-10AM 3-6PM
+
+School Day:           YES               District:              0             I/S CODE                   0
+
+
+                       N/B                           S/B                     E/B                     W/B
+DUAL-
+WHEELED                      0                         0                       0                        0
+BIKES                        0                         0                       0                        0
+BUSES                        0                         0                       0                        0
+
+
+                       N/B TIME                      S/B TIME                E/B TIME                W/B TIME
+
+AM PK 15 MIN            114      8.30                287    7.30             397      8.00            286      8.00
+
+PM PK 15 MIN            127      4.00                274    3.15             413      5.00            328      3.30
+
+AM PK HOUR              421      7.15               1124    7.15            1457      7.15           1102      7.30
+
+PM PK HOUR              461      3.15                894    3.00            1601      5.00           1167      3.15
+
+
+
+NORTHBOUND Approach                                        SOUTHBOUND Approach                              TOTAL           XING S/L        XING N/L
+
+Hours           Lt     Th        Rt Total                  Hours     Lt     Th        Rt Total               N-S             Ped Sch          Ped    Sch
+7-8              66     285       37   388                 7-8       468     357      234 1059               1447              0   0            0      0
+8-9              83     270       37   390                 8-9       421     213      328   962              1352              0   0            0      0
+9-10             66     218       56   340                 9-10      361     138      238   737              1077              0   0            0      0
+3-4              70     325       36   431                 3-4       347     337      210   894              1325              0   0            0      0
+4-5              90     294       56   440                 4-5       315     282      201   798              1238              0   0            0      0
+5-6              83     290       55   428                 5-6       312     230      202   744              1172              0   0            0      0
+
+TOTAL           458 1682         277      2417             TOTAL    2224 1557 1413            5194            7611             0     0           0    0
+
+
+EASTBOUND Approach                                         WESTBOUND Approach                               TOTAL           XING W/L        XING E/L
+
+Hours           Lt  Th           Rt Total                  Hours     Lt     Th        Rt Total               E-W             Ped Sch          Ped    Sch
+7-8             178 1039          42 1259                  7-8       106     577      152   835               2094             0   0            0      0
+8-9             156 1075          60 1291                  8-9        55     714      187   956               2247             0   0            0      0
+9-10            130 675           60   865                 9-10       35     517      147   699               1564             0   0            0      0
+3-4             280 957           92 1329                  3-4        57     773      335 1165                2494             0   0            0      0
+4-5             235 887           95 1217                  4-5        47     702      306 1055                2272             0   0            0      0
+5-6             307 1182         112 1601                  5-6        61     740      312 1113                2714             0   0            0      0
+
+TOTAL          1286 5815         461      7562             TOTAL      361 4023 1439           5823           13385             0     0           0    0
+
+              (Rev Oct 06)
+
+
+                                                                                                                      City of Los Angeles                  ****
+                                                                                                                      Department of Transportation         ****
+                                                                   FETSIM COUNT SHEET                                 (R 3-89)                             ****
+

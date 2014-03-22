@@ -1,0 +1,61 @@
+                       City Of Los Angeles
+                       Department Of Transportation
+                       MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South            FIGUEROA ST
+
+East/West              JAMES M WOOD BL
+
+Day:           WEDNESDAY              Date:        January 6, 2010                 Weather:            SUNNY
+
+Hours:      7-10AM 3-6PM                                        Chekrs:            THOMPSON
+
+School Day:            YES            District:         CENTRAL                      I/S CODE 8937
+
+
+                        N/B                       S/B                                E/B                           W/B
+DUAL-
+WHEELED                  236                       0                                  99                             0
+BIKES                     49                       0                                  20                             0
+BUSES                    278                       0                                 103                             0
+
+
+                        N/B TIME                  S/B TIME                           E/B TIME                      W/B TIME
+
+AM PK 15 MIN             425   8.15                0     7.00                        616      7.45                   0    7.00
+
+PM PK 15 MIN            429    5.30                0     3.00                        513      5.45                   0    3.00
+
+AM PK HOUR              1649   7.45                0     7.00                       2305      7.45                   0    7.00
+
+PM PK HOUR              1692   5.00                0     3.00                       1893      5.00                   0    3.00
+
+
+
+NORTHBOUND Approach                                     SOUTHBOUND Approach                                              TOTAL   XING S/L   XING N/L
+
+Hours         Lt        Th     Rt Total                 Hours             Lt        Th        Rt       Total              N-S     Ped Sch    Ped   Sch
+7-8                0    1192    91 1283                 7-8                    0         0         0           0          1283      0   0      0     0
+8-9                0    1520   123 1643                 8-9                    0         0         0           0          1643      0   0      0     0
+9-10               0    1308   113 1421                 9-10                   0         0         0           0          1421      0   0      0     0
+3-4                0    1229   110 1339                 3-4                    0         0         0           0          1339      0   0      0     0
+4-5                0    1399   106 1505                 4-5                    0         0         0           0          1505      0   0      0     0
+5-6                0    1549   143 1692                 5-6                    0         0         0           0          1692      0   0      0     0
+
+TOTAL              0 8197      686      8883            TOTAL                  0         0         0           0          8883     0    0      0    0
+
+
+EASTBOUND Approach                                      WESTBOUND Approach                                               TOTAL   XING W/L   XING E/L
+       JAMES M WOOD BL                                                                       9TH ST
+Hours    Lt   Th   Rt Total                             Hours             Lt        Th         Rt Total                  E-W      Ped Sch    Ped   Sch
+7-8      615 1140    0 1755                             7-8                    0         0       0             0          1755      0   0      0     0
+8-9      669 1543    0 2212                             8-9                    0         0       0             0          2212      0   0      0     0
+9-10     725 1166    0 1891                             9-10                   0         0       0             0          1891      0   0      0     0
+3-4      419 868     0 1287                             3-4                    0         0       0             0          1287      0   0      0     0
+4-5      447 959     0 1406                             4-5                    0         0       0             0          1406      0   0      0     0
+5-6      506 1387    0 1893                             5-6                    0         0       0             0          1893      0   0      0     0
+
+TOTAL         3381 7063          0 10444                TOTAL                  0         0         0           0         10444     0    0      0    0
+
+            (Rev Oct 06)
+

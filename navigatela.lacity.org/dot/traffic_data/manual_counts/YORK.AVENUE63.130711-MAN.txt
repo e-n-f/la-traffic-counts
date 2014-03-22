@@ -1,0 +1,61 @@
+                    City Of Los Angeles
+                    Department Of Transportation
+                    MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South         AVENUE 63
+
+East/West           YORK BL.
+
+Day:           THURSDAY               Date:             July 11, 2013          Weather:         SUNNY
+
+Hours:      7-10AM 3-6PM                                            Staff: KAM LEE
+
+School Day:         YES               District:         CENTRAL                 I/S CODE 15986
+
+
+                     N/B                          S/B                            E/B                     W/B
+DUAL-
+WHEELED                    1                      11                              85                       50
+BIKES                      1                       4                              23                       31
+BUSES                      0                       0                              11                       15
+
+
+                     N/B TIME                     S/B TIME                       E/B TIME                W/B TIME
+
+AM PK 15 MIN               7   9.30               13     7.30                    298     8.00             285    8.45
+
+PM PK 15 MIN               7   3.00               24     5.15                    255     5.30             449    5.30
+
+AM PK HOUR             15      7.30               43     7.30                   1068     7.30            1027    8.00
+
+PM PK HOUR             17      4.00               69     4.30                    958     5.00            1567    4.45
+
+
+
+NORTHBOUND Approach                                     SOUTHBOUND Approach                                     TOTAL   XING S/L    XING N/L
+
+Hours         Lt     Th        Rt     Total             Hours           Lt      Th       Rt Total                N-S     Ped Sch     Ped   Sch
+7-8             5          0     5         10           7-8               8          0    24     32                42     18   2      24     0
+8-9             4          0    10         14           8-9               9          1    29     39                53     27   1      26     0
+9-10            9          0     5         14           9-10              9          0    34     43                57     33   3      24     0
+3-4             4          0     9         13           3-4               8          1    32     41                54     41   5      51    14
+4-5            10          0     7         17           4-5              13          1    45     59                76     46   8      55    16
+5-6             1          0     8          9           5-6              14          0    54     68                77     54   2      57    28
+
+TOTAL          33          0    44         77           TOTAL            61          3    218      282            359    219   21    237   58
+
+
+EASTBOUND Approach                                      WESTBOUND Approach                                      TOTAL   XING W/L    XING E/L
+
+Hours         Lt  Th           Rt     Total             Hours           Lt      Th       Rt     Total           E-W      Ped Sch     Ped   Sch
+7-8            14 921            3       938            7-8              10      562       7       579           1517     13   2       0     0
+8-9            18 950            4       972            8-9              15     1000      12      1027           1999     12   3       0     0
+9-10           21 1018          25      1064            9-10               9     769      11       789           1853     24   3       0     0
+3-4            34 701            4       739            3-4              26     1022      15      1063           1802     17   1       0     0
+4-5            39 826            6       871            4-5              20     1186      23      1229           2100     16   0       0     0
+5-6            63 885           10       958            5-6              16     1500      31      1547           2505     18   2       0     1
+
+TOTAL         189 5301          52      5542            TOTAL            96 6039           99     6234          11776    100   11      0    1
+
+            (Rev Oct 06)
+

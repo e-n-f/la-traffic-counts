@@ -1,0 +1,52 @@
+WILTEC                                                                                                                                    Phone: (626) 564-1944      Fax: (626) 564-0969
+INTERSECTION TURNING MOVEMENT COUNT SUMMARY
+
+CLIENT:                            FEHR AND PEERS
+PROJECT:                           DOWNTOWN LOS ANGELES TRAFFIC COUNTS
+DATE:                              WEDNESDAY NOVEMBER 7, 2007
+PERIODS:                           7:00 AM TO 9:00 AM AND        4:00 PM TO 6:00 PM
+INTERSECTION:          N/S         BROADWAY
+                       E/W         COLLEGE STREET
+CITY:                              LOS ANGELES
+
+15 MIN COUNTS                                             7:00 AM TO 9:00 AM
+                   1          2         3      4      5          6        7       8      9     10     11     12
+PERIOD          SBRT    SBTH         SBLT   WBRT   WBTH     WBLT     NBRT      NBTH   NBLT   EBRT   EBTH   EBLT   TOTAL      AM PEAK HOUR
+700-715           59         393       16     17     32          9        5      58      3      7     40     17     656         800-900                                      68
+715-730           49         369       21     11     37         16        2      83      3     12     36     13     652
+730-745           54         368       25     27     82         25      11       91     11     12     48     20     774                   209       1474   95                260
+745-800           33         284       11     12     47         10        2      56      6      8     26     10     505
+800-815           44         398       22     18     55         18        6      74      6     15     48     13     717                                                      101
+815-830           60         397       29     16     81         37        8      88      9     19     52     15     811
+830-845           49         326       23     16     61         26        9      70     12     12     46     11     661
+845-900           56         353       21     18     63         20        9      76     16     22     36      9     699                        48
+HOUR TOTALS
+                   1          2         3      4      5          6        7       8      9     10     11     12           COLLEGE STREET 182                    43    308         32
+TIME            SBRT    SBTH         SBLT   WBRT   WBTH     WBLT     NBRT      NBTH   NBLT   EBRT   EBTH   EBLT   TOTAL
+700-800          195     1414          73     67    198         60      20      288     23     39    150     60    2587                        68
+715-815          180     1419          79     68    221         69      21      304     26     47    158     56    2648                                              BROADWAY
+730-830          191     1447          87     73    265         90      27      309     32     54    174     58    2807
+745-845          186     1405          85     62    244         91      25      288     33     54    172     49    2694
+800-900          209     1474          95     68    260        101      32      308     43     68    182     48    2888
+
+
+15 MIN COUNTS                                             4:00 PM TO 6:00 PM
+                   1          2         3      4      5          6        7       8      9     10     11     12
+PERIOD          SBRT    SBTH         SBLT   WBRT   WBTH     WBLT     NBRT      NBTH   NBLT   EBRT   EBTH   EBLT   TOTAL      PM PEAK HOUR
+400-415           24         105       20     26     49          5        9     226     19      7     56     22     568         500-600                                      204
+415-430           33         132        9     29     46         11        8     232     19     20     43     19     601
+430-445           30         127       25     36     46         10      21      282     18     17     55     30     697                   86        546    59                169
+445-500           29         104       10     47     46          5      11      296     12     19     52     21     652
+500-515           27         132       16     57     51          7      12      349      9     17     75     20     772                                                      27
+515-530           22         123       19     57     44          7      14      341     16     17     53     29     742
+530-545           15         139       13     46     36          3      16      380     16     18     51     40     773
+545-600           22         152       11     44     38         10      12      396     19     16     59     34     813                     123
+HOUR TOTALS
+                   1          2         3      4      5          6        7       8      9     10     11     12           COLLEGE STREET 238                    60    1466        54
+TIME            SBRT    SBTH         SBLT   WBRT   WBTH     WBLT     NBRT      NBTH   NBLT   EBRT   EBTH   EBLT   TOTAL
+400-500          116         468       64    138    187         31      49     1036     68     63    206     92    2518                        68
+415-515          119         495       60    169    189         33      52     1159     58     73    225     90    2722                                              BROADWAY
+430-530          108         486       70    197    187         29      58     1268     55     70    235    100    2863
+445-545           93         498       58    207    177         22      53     1366     53     71    231    110    2939
+500-600           86         546       59    204    169         27      54     1466     60     68    238    123    3100
+

@@ -1,0 +1,63 @@
+                      City Of Los Angeles
+                      Department Of Transportation
+                      MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South           COTNER AV
+
+East/West             OLYMPIC BL
+
+Day:        WEDNESDAY                    Date:       March 7, 2007             Weather:           CLEAR
+
+Hours:      7-9AM 4-6PM
+
+School Day:           YES                District:             WESTERN           I/S CODE            17187
+
+
+                       N/B                           S/B                        E/B                         W/B
+DUAL-
+WHEELED                      0                             0                          0                        0
+BIKES                        0                             0                          0                        0
+BUSES                        0                             0                          0                        0
+
+
+                      N/B        TIME                S/B       TIME            E/B        TIME              W/B TIME
+
+AM PK 15 MIN                55    8.15                 24 8.15                   602       8.00              591     7.45
+
+PM PK 15 MIN                66    5.00                 86 5.00                   499       4.45              548     5.30
+
+AM PK HOUR              197       8.00                 87 7.45                  2251       8.00             2289     7.30
+
+PM PK HOUR              245       4.30                318 5.00                  1908       4.00             2079     4.45
+
+
+
+
+NORTHBOUND Approach                                            SOUTHBOUND Approach                                 TOTAL    XING S/L   XING N/L
+
+Hours          Lt      Th         Rt      Total                Hours     Lt     Th         Rt      Total            N-S     Ped Sch    Ped Sch
+7-8              24      70         26      120                7-8         6      18         21        45             165      0   0      0   0
+8-9              25     139         33      197                8-9        13      32         38        83             280      0   0      0   0
+4-5              28     151         41      220                4-5        23     160         72      255              475      0   0      0   0
+5-6              37     144         40      221                5-6        42     221         55      318              539      0   0      0   0
+                                                                                                                               0   0      0   0
+                                                                                                                               0   0      0   0
+
+TOTAL          114      504        140       758               TOTAL      84     431        186      701             1459      0   0      0   0
+
+
+EASTBOUND Approach                                             WESTBOUND Approach                                  TOTAL    XING W/L   XING E/L
+
+Hours          Lt      Th         Rt      Total                Hours     Lt     Th         Rt      Total            E-W     Ped Sch    Ped Sch
+7-8              49    1178       104      1331                7-8       200    1671         28     1899             3230      0   0      0   0
+8-9              94    1985       172      2251                8-9       183    1906         39     2128             4379      0   0      0   0
+4-5            143     1484       281      1908                4-5       203    1673       106      1982             3890      0   0      0   0
+5-6              97    1369       282      1748                5-6       197    1717         80     1994             3742      0   0      0   0
+                                                                                                                               0   0      0   0
+                                                                                                                               0   0      0   0
+
+TOTAL          383     6016        839      7238               TOTAL     783    6967        253     8003            15241      0   0      0   0
+
+
+            (Rev Oct 06)
+

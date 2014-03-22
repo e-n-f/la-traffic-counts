@@ -1,0 +1,62 @@
+ACCUTEK                          TRAFFIC COUNT SUMMARY
+
+STREET:
+North/South       WESTWOOD BLVD.
+
+East/West         WEYBURN AVE.
+
+Day:    TUESDAY                       Date:       12-17-1996              Weather:          CLEAR
+
+Hours: 7-10 AM 3-6 PM                 FILE:       AM066
+
+School Day:       YES                 District:           LOS ANGELES
+
+
+                    N/B                             S/B                      E/B                    W/B
+DUAL-
+WHEELED             103                             69                       28                      16
+BIKES                 6                              2                       10                      27
+BUSES               239                            270                       28                       5
+
+
+                    N/B TIME                        S/B TIME                 E/B TIME               W/B     TIME
+
+AM PK 15 MIN        240   9:45                     111     9:45              63      9:45            55      8:15
+
+PM PK 15 MIN        234   4:45                     251     5:00              76      5:15           69       3:15
+
+AM PK HOUR          927   9:00                     408     9:00             190      9:00           163      8:00
+
+PM PK HOUR          834   3:00                     906     5:00             240      5:00           348      5:00
+
+
+
+
+NORTHBOUND Approach                                       SOUTHBOUND Approach                             TOTAL     XING S/L     XING N/L
+
+Hours       Lt     Th     Rt          Total               Hours     Lt      Th       Rt     Total          N-S       Ped   Sch   Ped   Sch
+7-8          33    619     22           674               7-8         7     199       16      222           896       42    1     23    3
+8-9          37    779     31           847               8-9         7     242       24      273          1120       81    2     48    1
+9-10         54    827     46           927               9-10       14     368       26      408          1335       81    0     75    2
+3-4         106    634     94           834               3-4        17     746       37      800          1634      136    6    143   15
+4-5         133    610     81           824               4-5        22     733       57      812          1636      135    9    186    4
+5-6         157    544    104           805               5-6        29     808       69      906          1711      142    2    171    3
+
+TOTAL       520    4013   378          4911               TOTAL      96    3096      229     3421           8332     617   20    646    28
+
+
+EASTBOUND Approach                                        WESTBOUND Approach                              TOTAL     XING W/L     XING E/L
+
+Hours       Lt     Th     Rt          Total               Hours     Lt      Th       Rt     Total          E-W      Ped    Sch   Ped   Sch
+7-8          54     50     22           126               7-8        31      37       37      105            231     65     5    32     5
+8-9          53     87     47           187               8-9        32      74       57      163            350     98     3    88     6
+9-10         46     88     56           190               9-10       30      65       34      129            319    181     1    83     0
+3-4          52     77    103           232               3-4        83     143       48      274            506    242    16    70     8
+4-5          44     77     84           205               4-5        96     169       52      317            522    243    12    86     5
+5-6          37    108     95           240               5-6       117     152       79      348            588    188    11    84     1
+
+TOTAL       286    487    407          1180               TOTAL     389     640      307     1336          2516     1017   48    443    25
+
+
+                                                                                                           10848
+

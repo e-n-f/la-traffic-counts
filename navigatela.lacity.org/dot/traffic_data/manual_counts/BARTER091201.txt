@@ -1,0 +1,61 @@
+                       City Of Los Angeles
+                       Department Of Transportation
+                       MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South            BARRINGTON AV
+
+East/West              TERRYHILL PL
+
+Day:               TUESDAY                Date:       December 1, 2009              Weather:            SUNNY
+
+Hours:      7-10AM 3-6PM                                            Chekrs:         THOMPSON
+
+School Day:            YES                District:         WESTERN                   I/S CODE 14349
+
+
+                        N/B                           S/B                             E/B                        W/B
+DUAL-
+WHEELED                   53                           43                               0                          3
+BIKES                      4                            0                               0                          5
+BUSES                     27                           23                               0                          0
+
+
+                        N/B TIME                      S/B TIME                        E/B TIME                   W/B TIME
+
+AM PK 15 MIN             232     8.45                 159    9.00                       0      7.00                8    7.45
+
+PM PK 15 MIN            285      5.15                 194    3.15                       0      3.00                9    3.15
+
+AM PK HOUR              846      7.30                 562    9.00                       0      7.00               24    7.30
+
+PM PK HOUR              1108     5.00                 696    3.00                       0      3.00               16    3.00
+
+
+
+NORTHBOUND Approach                                         SOUTHBOUND Approach                                        TOTAL   XING S/L   XING N/L
+
+Hours         Lt        Th       Rt       Total             Hours             Lt     Th        Rt       Total           N-S     Ped Sch    Ped   Sch
+7-8                0     790       3         793            7-8                 3     433           0      436          1229      1   0      1     0
+8-9                0     838       6         844            8-9                 6     517           0      523          1367      2   0      1     0
+9-10               0     734       4         738            9-10                4     558           0      562          1300      2   0      1     0
+3-4                0     966      10         976            3-4                 9     687           0      696          1672      1   0      0     0
+4-5                0    1049      14        1063            4-5                12     604           0      616          1679      2   0      2     0
+5-6                0    1095      13        1108            5-6                 2     663           0      665          1773      2   0      2     0
+
+TOTAL              0 5472         50        5522            TOTAL              36 3462              0     3498          9020     10   0      7    0
+
+
+EASTBOUND Approach                                          WESTBOUND Approach                                         TOTAL   XING W/L   XING E/L
+                   NONE                                                  TERRYHILL PL
+Hours   Lt    Th    Rt Total                                Hours   Lt    Th   Rt Total                                E-W      Ped Sch    Ped   Sch
+7-8        0     0    0                           0         7-8        7     0  11     18                                 18      0   0     18     0
+8-9        0     0    0                           0         8-9       12     0   5     17                                 17      0   0     34     1
+9-10       0     0    0                           0         9-10      11     0   2     13                                 13      0   0     30     0
+3-4        0     0    0                           0         3-4        5     0  11     16                                 16      0   0     18     8
+4-5        0     0    0                           0         4-5        6     0   3      9                                  9      0   0     27     0
+5-6        0     0    0                           0         5-6        5     0  11     16                                 16      0   0     25     0
+
+TOTAL              0         0        0           0         TOTAL              46       0       43          89            89     0    0    152    9
+
+            (Rev Oct 06)
+

@@ -1,0 +1,61 @@
+                       City Of Los Angeles
+                       Department Of Transportation
+                       MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South            SILVER LAKE BL
+
+East/West              DUANE ST
+
+Day:        TUESDAY                       Date:       SEPMTEMBER 11, 2007 Weather:                SUNNY
+
+Hours:      7-10AM 3-6PM
+
+School Day:            YES                District:           HW                I/S CODE 0
+
+
+                        N/B                             S/B                     E/B                        W/B
+DUAL-
+WHEELED                   35                             60                          0                       2
+BIKES                     11                              0                          0                      10
+BUSES                      1                              0                          0                       0
+
+
+                        N/B TIME                        S/B TIME                E/B TIME                   W/B TIME
+
+AM PK 15 MIN             175     8.30                   314    7.15                  0   7.00               23    9.15
+
+PM PK 15 MIN            369      5.15                   197    4.30                  0   3.00               25    3.30
+
+AM PK HOUR              601      7.45                  1078    7.00                  0   7.00               77    8.30
+
+PM PK HOUR              1364     5.00                   750    4.30                  0   3.00               68    3.00
+
+
+
+NORTHBOUND Approach                                           SOUTHBOUND Approach                                TOTAL   XING S/L   XING N/L
+
+Hours         Lt        Th       Rt Total                     Hours    Lt       Th       Rt       Total           N-S     Ped Sch    Ped   Sch
+7-8                0     502      10   512                    7-8           1   1077          0     1078          1590      8   0      9     0
+8-9                0     578      13   591                    8-9           3    921          0      924          1515     13   0     23     0
+9-10               0     511      11   522                    9-10          4    976          0      980          1502     10   0     22     0
+3-4                0     868      32   900                    3-4           9    534          0      543          1443      2   0      1     0
+4-5                0     994      23 1017                     4-5           7    666          0      673          1690      3   0      4     0
+5-6                0    1331      33 1364                     5-6           8    719          0      727          2091      9   0     18     0
+
+TOTAL              0 4784        122        4906              TOTAL      32 4893              0     4925          9831     45   0     77    0
+
+
+EASTBOUND Approach                        NONE                WESTBOUND Approach                                 TOTAL   XING W/L   XING E/L
+
+Hours         Lt        Th       Rt       Total               Hours    Lt       Th       Rt Total                E-W      Ped Sch    Ped   Sch
+7-8                0         0        0           0           7-8       19           0    23     42                 42      0   0     26     0
+8-9                0         0        0           0           8-9       37           0    20     57                 57      0   0     27     0
+9-10               0         0        0           0           9-10      50           0    19     69                 69      0   0     23     0
+3-4                0         0        0           0           3-4       54           0    14     68                 68      0   0     14     0
+4-5                0         0        0           0           4-5       27           0    12     39                 39      0   0     17     0
+5-6                0         0        0           0           5-6       26           0    14     40                 40      0   0     18     0
+
+TOTAL              0         0        0           0           TOTAL     213          0   102         315           315      0   0    125    0
+
+            (Rev Oct 06)
+

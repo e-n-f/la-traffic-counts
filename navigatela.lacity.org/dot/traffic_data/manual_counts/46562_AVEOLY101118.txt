@@ -1,0 +1,184 @@
+                                                      TRAFFIC COUNT SUMMARY
+                                                                                                                                City of Los Angeles
+STREET:                                                                                                                    Department of Transportation
+North/South               AVENUE OF THE STARS                                                                           Count by: Traffic Solution
+
+East/West                 OLYMPIC BOULEVARD (WESTBOUND) RAMPS/ST. REGIS DRIVE
+
+Day:     AM    THURSDAY                      Date: November 18, 2010              Weather:            CLEAR
+         PM    THURSDAY                            November 18, 2010
+Hours:         7-10 AM 3-6 PM
+
+School Day:               YES                District:          WESTERN
+
+
+                            N/B                           S/B                        E/B                          W/B
+DUAL-
+WHEELED                     N/A                           N/A                        N/A                          N/A
+BIKES                       N/A                           N/A                        N/A                          N/A
+BUSES                       N/A                           N/A                        N/A                          N/A
+
+
+                            N/B TIME                      S/B TIME                   E/B TIME                     W/B    TIME
+
+AM PK 15 MIN                309     8:45                  120 8:30                      1    7:00                 125     8:30
+
+PM PK 15 MIN                208     5:30                  323 5:30                      5    3:00                 115     5:30
+
+AM PK HOUR                 1,100    8:15                  406 8:15                      1    7:00                 454     8:30
+
+PM PK HOUR                  783     5:00                 1,099 5:00                   14     3:00                 382     5:00
+
+
+
+NORTHBOUND Approach                                             SOUTHBOUND Approach                                     TOTAL       XING S/L      XING N/L
+
+Hours            Lt         Th      Rt       Total              Hours       Lt     Th        Rt          Total           N-S        Ped   Sch     Ped     Sch
+7-8                   0      699     25         724             7-8          15     269           2         286          1,010      N/A   N/A     N/A     N/A
+8-9                   1    1,036     37       1,074             8-9          17     376           0         393          1,467      N/A   N/A     N/A     N/A
+9 - 10                0      851     33         884             9 - 10       20     346           2         368          1,252      N/A   N/A     N/A     N/A
+4-5                   2      601     78         681             3-4          68     574           3         645          1,326      N/A   N/A     N/A     N/A
+5-6                   3      602     82         687             4-5          77     735           0         812          1,499      N/A   N/A     N/A     N/A
+6-7                   3      692     88         783             5-6         121     978           0       1,099          1,882      N/A   N/A     N/A     N/A
+
+TOTAL                 9    4,481    343       4,833             TOTAL       318 3,278             7       3,603          8,436      N/A N/A       N/A N/A
+
+
+EASTBOUND Approach                                              WESTBOUND Approach                                      TOTAL       XING W/L       XING E/L
+
+Hours            Lt        Th       Rt       Total              Hours       Lt     Th        Rt          Total           E-W        Ped   Sch     Ped     Sch
+7-8                   0         0        1        1             7-8          42         2    193            237            238      N/A   N/A     N/A     N/A
+8-9                   1         0        0        1             8-9         113         1    288            402            403      N/A   N/A     N/A     N/A
+9 - 10                0         0        0        0             9 - 10      146         1    289            436            436      N/A   N/A     N/A     N/A
+4-5                   1         4        9       14             3-4          96         0    203            299            313      N/A   N/A     N/A     N/A
+5-6                   1         0        3        4             4-5          82         2    243            327            331      N/A   N/A     N/A     N/A
+6-7                   2         2        4        8             5-6          95         0    287            382            390      N/A   N/A     N/A     N/A
+
+TOTAL                 5         6    17          28             TOTAL       574         6 1,503           2,083          2,111      N/A N/A       N/A N/A
+INTERSECTION TURNING MOVEMENT COUNT SUMMARY
+
+CLIENT:                 HIRSCH/GREEN TRANSPORTATION CONSULTING, INC.
+PROJECT:                BELLWOOD SENIOR CARE/MEDICAL OFFICE
+DATE:                   THURSDAY, NOVEMBER 18, 2010
+PERIOD:                 07:00 AM TO 10:00 AM
+INTERSECTION      N/S   AVENUE OF THE STARS
+                  E/W   OLYMPIC BOULEVARD (WESTBOUND) RAMPS/ST. REGIS DRIVE
+FILE NUMBER:            6-AM-R
+
+
+  15 MINUTE        1         2      3          4      5          6          7          8      9      10     11     12
+   TOTALS        SBRT       SBTH   SBLT   WBRT       WBTH       WBLT       NBRT       NBTH   NBLT   EBRT   EBTH   EBLT
+  0700-0715        1         40     0          30     2          5          5         166     0      1      0      0
+  0715-0730        0         67     8          47     0          9          4         188     0      0      0      0
+  0730-0745        0         82     4          58     0          10         7         162     0      0      0      0
+  0745-0800        1         80     3          58     0          18         9         183     0      0      0      0
+  0800-0815        0         81     4          64     1          20         6         213     0      0      0      0
+  0815-0830        0         92     3          69     0          23         9         247     1      0      0      0
+  0830-0845        0        115     5          87     0          38         10        279     0      0      0      0
+  0845-0900        0         88     5          68     0          32         12        297     0      0      0      1
+  0900-0915        0         93     5          76     0          35         8         237     0      0      0      0
+  0915-0930        1         86     4          78     1          39         9         226     0      0      0      0
+  0930-0945        0         84     6          64     0          42         7         188     0      0      0      0
+  0945-1000        1         83     5          71     0          30         9         200     0      0      0      0
+
+
+   1 HOUR          1         2      3          4      5          6          7          8      9      10     11     12
+   TOTALS        SBRT       SBTH   SBLT   WBRT       WBTH       WBLT       NBRT       NBTH   NBLT   EBRT   EBTH   EBLT   TOTALS
+  0700-0800        2        269     15         193    2          42         25        699     0      1      0      0      1248
+  0715-0815        1        310     19         227    1          57         26        746     0      0      0      0      1387
+  0730-0830        1        335     14         249    1          71         31        805     1      0      0      0      1508
+  0745-0845        1        368     15         278    1          99         34        922     1      0      0      0      1719
+  0800-0900        0        376     17         288    1         113         37        1036    1      0      0      1      1870
+  0815-0915        0        388     18         300    0         128         39        1060    1      0      0      1      1935
+  0830-0930        1        382     19         309    1         144         39        1039    0      0      0      1      1935
+  0845-0945        1        351     20         286    1         148         36        948     0      0      0      1      1792
+  0900-1000        2        346     20         289    1         146         33        851     0      0      0      0      1688
+
+
+
+
+   A.M. PEAK HOUR                                           0        388         18
+      0815-0915
+
+
+                                    1                                                               300
+
+                                    0                                                                0
+          ST. REGIS DRIVE                                                                                  OLYMPIC BOULEVARD
+                                    0                                                               128    (WESTBOUND RAMPS)
+
+
+
+
+                                                            1    1060            39
+
+
+                                                          AVENUE OF THE STARS
+   THE TRAFFIC SOLUTION
+   329 DIAMOND STREET
+   ARCADIA, CALIFORNIA 91006
+   626.446.7978
+INTERSECTION TURNING MOVEMENT COUNT SUMMARY
+
+CLIENT:                 HIRSCH/GREEN TRANSPORTATION CONSULTING, INC.
+PROJECT:                BELLWOOD SENIOR CARE/MEDICAL OFFICE
+DATE:                   THURSDAY, NOVEMBER 18, 2010
+PERIOD:                 03:00 PM TO 06:00 PM
+INTERSECTION      N/S   AVENUE OF THE STARS
+                  E/W   OLYMPIC BOULEVARD (WESTBOUND) RAMPS/ST. REGIS DRIVE
+FILE NUMBER:            6-PM-R
+
+
+  15 MINUTE        1         2      3          4      5          6          7          8      9      10     11     12
+   TOTALS        SBRT       SBTH   SBLT   WBRT       WBTH       WBLT       NBRT       NBTH   NBLT   EBRT   EBTH   EBLT
+  0300-0315        1        124     21         53     0          24         21        139     0      3      2      0
+  0315-0330        1        131     17         43     0          20         19        149     2      2      2      0
+  0330-0345        0        161     15         60     0          27         18        160     0      3      0      1
+  0345-0400        1        158     15         47     0          25         20        153     0      1      0      0
+  0400-0415        0        171     19         69     0          20         23        120     0      0      0      1
+  0415-0430        0        183     17         67     1          17         21        141     0      0      0      0
+  0430-0445        0        192     20         62     1          22         22        159     2      3      0      0
+  0445-0500        0        189     21         45     0          23         16        182     1      0      0      0
+  0500-0515        0        228     23         59     0          24         21        178     0      0      0      0
+  0515-0530        0        226     26         75     0          20         21        151     1      3      1      0
+  0530-0545        0        284     39         86     0          29         26        180     2      1      1      1
+  0545-0600        0        240     33         67     0          22         20        183     0      0      0      1
+
+
+   1 HOUR          1         2      3          4      5          6          7          8      9      10     11     12
+   TOTALS        SBRT       SBTH   SBLT   WBRT       WBTH       WBLT       NBRT       NBTH   NBLT   EBRT   EBTH   EBLT   TOTALS
+  0300-0400        3        574     68         203    0          96         78        601     2      9      4      1      1639
+  0315-0415        2        621     66         219    0          92         80        582     2      6      2      2      1674
+  0330-0430        1        673     66         243    1          89         82        574     0      4      0      2      1735
+  0345-0445        1        704     71         245    2          84         86        573     2      4      0      1      1773
+  0400-0500        0        735     77         243    2          82         82        602     3      3      0      1      1830
+  0415-0515        0        792     81         233    2          86         80        660     3      3      0      0      1940
+  0430-0530        0        835     90         241    1          89         80        670     4      6      1      0      2017
+  0445-0545        0        927    109         265    0          96         84        691     4      4      2      1      2183
+  0500-0600        0        978    121         287    0          95         88        692     3      4      2      2      2272
+
+
+
+
+   P.M. PEAK HOUR                                           0        978        121
+      0500-0600
+
+
+                                    2                                                               287
+
+                                    2                                                                0
+          ST. REGIS DRIVE                                                                                  OLYMPIC BOULEVARD
+                                    4                                                                95    (WESTBOUND RAMPS)
+
+
+
+
+                                                            3        692         88
+
+
+                                                          AVENUE OF THE STARS
+   THE TRAFFIC SOLUTION
+   329 DIAMOND STREET
+   ARCADIA, CALIFORNIA 91006
+   626.446.7978
+

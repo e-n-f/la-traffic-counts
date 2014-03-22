@@ -1,0 +1,62 @@
+ACCUTEK                          TRAFFIC COUNT SUMMARY
+
+STREET:
+North/South       MILITARY AVE.
+
+East/West         NATIONAL BLVD.
+
+Day:    TUESDAY                       Date:       11-26-1996              Weather:          CLEAR
+
+Hours: 7-10 AM 3-6 PM                 FILE:       AM016
+
+School Day:       YES                 District:           LOS ANGELES
+
+
+                    N/B                             S/B                      E/B                     W/B
+DUAL-
+WHEELED               2                              4                       52                      47
+BIKES                13                             17                        6                       9
+BUSES                 6                              1                       52                      62
+
+
+                    N/B TIME                        S/B TIME                 E/B TIME                W/B     TIME
+
+AM PK 15 MIN         88 8:00                        53     7:45             328      7:45            236      7:45
+
+PM PK 15 MIN         38   5:15                      92     5:45             318      5:30           341       5:45
+
+AM PK HOUR          209   8:00                     124     7:00            1204      8:00           785       8:00
+
+PM PK HOUR          117   3:00                     338     5:00            1180      5:00           1275      5:00
+
+
+
+
+NORTHBOUND Approach                                       SOUTHBOUND Approach                              TOTAL     XING S/L       XING N/L
+
+Hours       Lt     Th     Rt          Total               Hours     Lt      Th       Rt     Total           N-S      Ped   Sch      Ped   Sch
+7-8          47     53     53           153               7-8        36      34       54      124            277      7     4        7     3
+8-9          75     59     75           209               8-9        27      27       64      118            327      4     1       11     3
+9-10         39     34     56           129               9-10       29      20       68      117            246      3     5       11     2
+3-4          48     40     29           117               3-4        49      38      103      190            307     10     2        8     1
+4-5          37     34     31           102               4-5        54      73      154      281            383      1     2        7     3
+5-6          41     37     37           115               5-6        69      95      174      338            453      3     1        5     4
+
+TOTAL       287     257   281            825              TOTAL     264     287      617     1168            1993     28    15       49    16
+
+
+EASTBOUND Approach                                        WESTBOUND Approach                               TOTAL     XING W/L       XING E/L
+
+Hours       Lt      Th    Rt          Total               Hours     Lt      Th       Rt     Total           E-W      Ped   Sch      Ped   Sch
+7-8          69     938    17          1024               7-8        23     608       25      656           1680      4     2       13     5
+8-9         123    1070    11          1204               8-9        41     723       21      785           1989      7     2        3     1
+9-10         69     983    15          1067               9-10       31     686       19      736           1803      8     2        5     2
+3-4          83     964    18          1065               3-4        43     916       24      983           2048      9     1       10     3
+4-5          81     983    14          1078               4-5        46     979       24     1049           2127      1     1        9     3
+5-6          82    1076    22          1180               5-6        63    1185       27     1275           2455      0     0        4     1
+
+TOTAL       507    6014    97          6618               TOTAL     247    5097      140     5484           12102     29        8    44    15
+
+
+                                                                                                            14095
+

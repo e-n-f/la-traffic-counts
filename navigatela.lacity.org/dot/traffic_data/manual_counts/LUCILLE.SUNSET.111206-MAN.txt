@@ -1,0 +1,366 @@
+                      City Of Los Angeles
+                      Department Of Transportation
+                      MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South           Lucille Avenue
+
+East/West             Sunset Boulevard
+
+Day:          Tuesday                 Date:         December 6, 2011     Weather:          CLEAR
+
+Hours:        7-10AM 3-6PM
+
+School Day:           YES             District:         LOS ANGELES        I/S CODE                    0
+
+
+                        N/B                       S/B                      E/B                      W/B
+DUAL-                     5                         2                      135                      120
+WHEELED
+BIKES                     32                       25                       60                        85
+BUSES                      0                        0                      105                       113
+
+
+                        N/B TIME                  S/B TIME                 E/B TIME                 W/B    TIME
+
+AM PK 15 MIN              35   7.30               126    8.00              373      7.45              19    8.00
+
+PM PK 15 MIN              49   5.00                64    3.45              402      4.30             405    5.45
+
+AM PK HOUR                94   7.45               396    7.45             1447      7.45              66    8.00
+
+PM PK HOUR               174   4.45               232    3.30             1535      4.30            1532    5.00
+
+
+
+NORTHBOUND Approach                                     SOUTHBOUND Approach                                TOTAL         XING S/L          XING N/L
+
+Hours           Lt      Th     Rt Total                 Hours      Lt     Th        Rt     Total            N-S           Ped Sch            Ped   Sch
+7-8              20      58     28   106                7-8        216     74         8       298            404           10   0             32     4
+8-9              27      29     22     78               8-9        273     70        11       354            432            5   0             31     2
+9-10             25      24     19     68               9-10       185     48        21       254            322            0   0             37     0
+3-4              30      55     37   122                3-4        128     55        38       221            343           75   1             99     5
+4-5              31      75     44   150                4-5        114     57        33       204            354          110   4            102     6
+5-6              34      95     40   169                5-6        133     48        34       215            384           86   2             70     3
+
+TOTAL           167      336   190        693           TOTAL     1049     352      145     1546            2239          286       7        371   20
+
+
+EASTBOUND Approach                                      WESTBOUND Approach                                 TOTAL         XING W/L          XING E/L
+
+Hours           Lt      Th     Rt Total                 Hours      Lt  Th           Rt Total               E-W             Ped Sch           Ped   Sch
+7-8               9     1147    15 1171                 7-8         26 842           10   878               2049            16   1            16     3
+8-9              18     1397    15 1430                 8-9         31 884            5   920               2350            19   2            11     1
+9-10             34     1095    14 1143                 9-10        12 795            7   814               1957            13   0            17     0
+3-4              60     1194    40 1294                 3-4         22 1096         130 1248                2542            38   1            40     0
+4-5              41     1394    35 1470                 4-5         15 1113         153 1281                2751            44   3            59     1
+5-6              44     1434    43 1521                 5-6         34 1262         236 1532                3053            38   1            59     1
+
+TOTAL           206 7661       162       8029                      140 5992         241     6673           14702          168       8        202    6
+
+              (Rev Oct 06)
+
+
+                                                                                                                   City of Los Angeles
+                                                                                                                   Department of Transportation
+                                                                      Counts Unlimited Inc.
+                                                                         PO Box 1178
+                                                                       Corona, CA 92878
+                                                                        (951) 268-6268
+City of Los Angeles                                                                                                                     File Name     : LOSLUSUAM
+N/S: Lucille Avenue                                                                                                                     Site Code     : 00000001
+E/W: Sunset Boulevard                                                                                                                   Start Date    : 12/7/2011
+Weather: Sunny                                                                                                                          Page No       :1
+
+
+                                                                   Groups Printed- Total Volume
+                         Lucille Avenue                    Sunset Boulevard                  Lucille Avenue                  Sunset Boulevard
+                          Southbound                          Westbound                       Northbound                        Eastbound
+   Start Time     Left    Thru Right      App. Total   Left Thru Right App. Total      Left Thru Right App. Total        Left Thru Right App. Total         Int. Total
+    07:00 AM       33        7       1          41       5    149       1       155       4      6       6   16            2    188       4    194              406
+    07:15 AM       41       18       4          63       4    176       2       182       6      8       7   21            4    255       2    261              527
+    07:30 AM       60       23       2          85       5    248       3       256       5     22       8   35            1    338       4    343              719
+    07:45 AM       82       26       1         109      12    269       4       285       5     22       7   34            2    366       5    373              801
+         Total    216       74       8         298      26    842      10       878      20     58     28   106            9 1147        15   1171             2453
+
+    08:00 AM      102       22      2          126      11    243       1     255       5       6      5          16       1     364        3         368       765
+    08:15 AM       54       20      2           76      10    206       0     216      12       9      5          26      10     338        4         352       670
+    08:30 AM       62       21      2           85       7    210       4     221       6       5      7          18       4     348        2         354       678
+    08:45 AM       55        7      5           67       3    225       0     228       4       9      5          18       3     347        6         356       669
+         Total    273       70     11          354      31    884       5     920      27      29     22          78      18    1397       15        1430      2782
+
+    09:00 AM       48       13      4           65       5    214       0     219       7       8      5          20       5     277        6         288       592
+    09:15 AM       51       15      7           73       0    205       4     209       7       6      5          18      12     282        2         296       596
+    09:30 AM       45       11      5           61       4    191       2     197       6       5      4          15       9     275        3         287       560
+    09:45 AM       41        9      5           55       3    185       1     189       5       5      5          15       8     261        3         272       531
+         Total    185       48     21          254      12    795       7     814      25      24     19          68      34    1095       14        1143      2279
+
+  Grand Total     674      192     40          906      69   2521      22    2612      72     111      69        252       61   3639        44       3744      7514
+    Apprch %     74.4     21.2    4.4                  2.6    96.5    0.8            28.6       44   27.4                 1.6    97.2      1.2
+      Total %       9       2.6   0.5         12.1     0.9    33.6    0.3     34.8      1      1.5    0.9         3.4     0.8    48.4      0.6       49.8
+
+
+
+
+                          Lucille Avenue                  Sunset Boulevard                Lucille Avenue                     Sunset Boulevard
+                           Southbound                        Westbound                     Northbound                           Eastbound
+   Start Time      Left Thru Right App. Total        Left Thru Right App. Total      Left Thru Right        App. Total   Left Thru Right App. Total         Int. Total
+Peak Hour Analysis From 07:00 AM to 09:45 AM - Peak 1 of 1
+Peak Hour for Entire Intersection Begins at 07:30 AM
+    07:30 AM        60       23        2       85       5    248        3    256        5      22       8          35      1     338        4         343       719
+    07:45 AM        82       26        1      109      12    269        4    285        5       22      7         34       2     366        5         373        801
+    08:00 AM       102       22        2      126      11    243        1    255        5        6      5         16       1      364        3        368       765
+    08:15 AM        54       20        2       76      10    206        0    216       12        9      5         26      10      338        4        352       670
+ Total Volume      298       91        7      396      38    966        8  1012        27       59     25        111       14   1406        16       1436      2955
+ % App. Total     75.3       23      1.8              3.8 95.5        0.8            24.3     53.2   22.5                   1    97.9      1.1
+          PHF     .730     .875    .875      .786   .792    .898    .500    .888     .563     .670   .781       .793     .350    .960    .800        .962       .922
+                                                                                               Counts Unlimited Inc.
+                                                                                                  PO Box 1178
+                                                                                                Corona, CA 92878
+                                                                                                 (951) 268-6268
+City of Los Angeles                                                                                                                                                             File Name       : LOSLUSUAM
+N/S: Lucille Avenue                                                                                                                                                             Site Code       : 00000001
+E/W: Sunset Boulevard                                                                                                                                                           Start Date      : 12/7/2011
+Weather: Sunny                                                                                                                                                                  Page No         :2
+
+                                                                                                    Lucille Avenue
+                                                                                                Out        In      Total
+                                                                                                  81        396      477
+
+
+                                                                                                     7    91        298
+                                                                                                 Right Thru        Left
+
+
+
+
+                                                                                             Peak Hour Data
+                                             2436
+                                             Total
+
+
+
+
+                                                                                                                                                                      1729
+                                                                                                                                                                      Out
+                                                         14
+
+
+
+
+                                                                                                                                                     Right Thru
+                                                       Left
+
+
+
+
+                                                                                                                                                                        Sunset Boulevard
+                            Sunset Boulevard
+
+
+
+
+                                                                                                          North
+
+
+
+
+                                                                                                                                                         8
+                                    1436
+
+
+                                                          16 1406
+                                                       Right Thru
+                                     In
+
+
+
+
+                                                                                                                                                                              1012
+                                                                                                                                                                               In
+                                                                                                                                                            966
+                                                                                             Peak Hour Begins at 07:30 AM
+
+                                                                                             Total Volume
+
+
+
+
+                                                                                                                                                     Left
+                           1000
+                           Out
+
+
+
+
+                                                                                                                                                                                       Total
+                                                                                                                                                       38
+
+
+                                                                                                                                                                                        2741
+                                                                                                     Left Thru Right
+                                                                                                       27   59    25
+
+
+                                                                                                 145        111      256
+                                                                                                Out        In      Total
+                                                                                                    Lucille Avenue
+
+Peak Hour Analysis From 07:00 AM to 09:45 AM - Peak 1 of 1
+Peak Hour for Each Approach Begins at:
+                07:30 AM                                                   07:30 AM                               07:30 AM                        07:45 AM
+    +0 mins.       60          23                        2           85         5      248       3       256          5        22      8    35         2            366                 5       373
+   +15 mins.       82          26                        1          109        12      269       4       285          5        22      7    34         1            364                 3       368
+   +30 mins.      102          22                        2          126        11      243       1       255          5         6      5    16        10            338                 4       352
+   +45 mins.       54          20                        2           76        10      206       0       216         12         9      5    26         4            348                 2       354
+ Total Volume     298          91                        7          396        38      966       8      1012         27        59     25   111        17          1416                 14      1447
+ % App. Total    75.3          23                      1.8                    3.8     95.5     0.8                 24.3      53.2   22.5             1.2           97.9                 1
+         PHF     .730        .875                    .875           .786    .792      .898   .500       .888       .563      .670   .781   .793    .425            .967              .700      .970
+                                                                       Counts Unlimited Inc.
+                                                                          PO Box 1178
+                                                                        Corona, CA 92878
+                                                                         (951) 268-6268
+City of Los Angeles                                                                                                                        File Name     : LOSLUSUPM
+N/S: Lucille Avenue                                                                                                                        Site Code     : 00000001
+E/W: Sunset Boulevard                                                                                                                      Start Date    : 12/6/2011
+Weather: Sunny                                                                                                                             Page No       :1
+
+
+                                                                   Groups Printed- Total Volume
+                         Lucille Avenue                    Sunset Boulevard                  Lucille Avenue                    Sunset Boulevard
+                          Southbound                          Westbound                       Northbound                          Eastbound
+   Start Time     Left    Thru Right      App. Total   Left Thru Right App. Total      Left Thru Right App. Total          Left Thru Right App. Total          Int. Total
+    03:00 PM       27       16     11           54       7    271      32       310       8     10     12    30             16    283       4    303               697
+    03:15 PM       22        8     12           42       8    277      25       310       9     18     11    38             12    310      12    334               724
+    03:30 PM       35       18       8          61       4    265      30       299       7     10     10    27             18    307      16    341               728
+    03:45 PM       44       13       7          64       3    283      43       329       6     17       4   27             14    294       8    316               736
+         Total    128       55     38          221      22 1096       130     1248       30     55     37   122             60 1194        40   1294              2885
+
+    04:00 PM       36       10     12           58       2    253     28      283      12       13      13          38       11     309        9         329       708
+    04:15 PM       25       12      9           46       4    274     28      306       4       20      10          34        8     348       12         368       754
+    04:30 PM       24       12      7           43       6    296     48      350       5       22      10          37       14     384        4         402       832
+    04:45 PM       29       23      5           57       3    290     49      342      10       20      11          41        8     353       10         371       811
+         Total    114       57     33          204      15   1113    153     1281      31       75      44         150       41    1394       35        1470      3105
+
+    05:00 PM       30       10     11           51      12    317     64      393      10       32       7          49        9     345       12         366       859
+    05:15 PM       32        5      5           42       8    298     49      355       6       22       8          36       17     370        9         396       829
+    05:30 PM       38       13      7           58      11    296     72      379      11       20      17          48        6     373        6         385       870
+    05:45 PM       33       20     11           64       3    351     51      405       7       21       8          36       12     346       16         374       879
+         Total    133       48     34          215      34   1262    236     1532      34       95      40         169       44    1434       43        1521      3437
+
+  Grand Total     375     160     105          640      71   3471     519    4061      95      225     121         441     145     4022      118        4285      9427
+    Apprch %     58.6       25   16.4                  1.7    85.5   12.8            21.5        51   27.4                  3.4     93.9      2.8
+      Total %       4      1.7     1.1          6.8    0.8    36.8     5.5    43.1      1       2.4     1.3         4.7     1.5     42.7      1.3       45.5
+
+
+
+
+                          Lucille Avenue                  Sunset Boulevard                 Lucille Avenue                      Sunset Boulevard
+                           Southbound                        Westbound                      Northbound                            Eastbound
+   Start Time      Left Thru Right App. Total        Left Thru Right App. Total       Left Thru Right         App. Total   Left Thru Right App. Total          Int. Total
+Peak Hour Analysis From 03:00 PM to 05:45 PM - Peak 1 of 1
+Peak Hour for Entire Intersection Begins at 05:00 PM
+    05:00 PM        30       10      11        51      12    317      64     393       10       32       7           49       9     345       12         366       859
+    05:15 PM        32         5      5        42       8    298      49     355        6        22      8          36       17     370        9         396       829
+    05:30 PM        38       13       7        58      11    296      72     379       11        20     17          48         6    373        6         385       870
+    05:45 PM        33       20      11         64      3    351      51     405        7        21      8          36        12     346      16         374        879
+ Total Volume      133       48      34       215      34 1262       236   1532        34        95     40         169        44   1434        43       1521      3437
+ % App. Total     61.9     22.3    15.8               2.2 82.4      15.4             20.1      56.2   23.7                   2.9    94.3      2.8
+          PHF     .875     .600    .773      .840   .708    .899    .819    .946     .773      .742   .588        .862     .647     .961    .672        .960       .978
+                                                                                                Counts Unlimited Inc.
+                                                                                                   PO Box 1178
+                                                                                                 Corona, CA 92878
+                                                                                                  (951) 268-6268
+City of Los Angeles                                                                                                                                                              File Name       : LOSLUSUPM
+N/S: Lucille Avenue                                                                                                                                                              Site Code       : 00000001
+E/W: Sunset Boulevard                                                                                                                                                            Start Date      : 12/6/2011
+Weather: Sunny                                                                                                                                                                   Page No         :2
+
+                                                                                                    Lucille Avenue
+                                                                                                Out        In      Total
+                                                                                                 375        215      590
+
+
+                                                                                                        34    48      133
+                                                                                                     Right Thru      Left
+
+
+
+
+                                                                                              Peak Hour Data
+                                             2851
+                                             Total
+
+
+
+
+                                                                                                                                                                       1607
+                                                                                                                                                                       Out
+                                                         44
+
+
+
+
+                                                                                                                                                      Right Thru
+                                                       Left
+
+
+
+
+                                                                                                                                                                         Sunset Boulevard
+                            Sunset Boulevard
+
+
+
+
+                                                                                                                                                        236 1262
+                                                                                                           North
+                                    1521
+
+
+                                                          43 1434
+                                                       Right Thru
+                                     In
+
+
+
+
+                                                                                                                                                                               1532
+                                                                                                                                                                                In
+                                                                                              Peak Hour Begins at 05:00 PM
+
+                                                                                              Total Volume
+
+
+
+
+                                                                                                                                                      Left
+                           1330
+                           Out
+
+
+
+
+                                                                                                                                                                                        Total
+                                                                                                                                                        34
+
+
+                                                                                                                                                                                         3139
+                                                                                                     Left Thru Right
+                                                                                                       34   95    40
+
+
+                                                                                                 125        169      294
+                                                                                                Out        In      Total
+                                                                                                    Lucille Avenue
+
+Peak Hour Analysis From 03:00 PM to 05:45 PM - Peak 1 of 1
+Peak Hour for Each Approach Begins at:
+                03:30 PM                                                   05:00 PM                                04:45 PM                        04:30 PM
+    +0 mins.       35          18                       8            61        12       317     64        393         10        20     11    41        14            384                  4      402
+   +15 mins.       44          13                       7            64         8       298     49        355         10        32      7    49         8            353                 10      371
+   +30 mins.       36          10                      12            58        11       296     72        379          6        22      8    36         9            345                 12      366
+   +45 mins.       25          12                       9            46         3       351     51        405         11        20     17    48        17            370                  9      396
+ Total Volume     140          53                      36           229        34     1262     236       1532         37        94     43   174        48          1452                  35     1535
+ % App. Total    61.1        23.1                    15.7                     2.2      82.4   15.4                  21.3        54   24.7             3.1           94.6                2.3
+         PHF     .795        .736                    .750           .895    .708       .899   .819        .946      .841      .734   .632   .888    .706            .945              .729      .955
+

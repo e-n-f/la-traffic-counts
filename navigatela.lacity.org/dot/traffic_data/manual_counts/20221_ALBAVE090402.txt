@@ -1,0 +1,52 @@
+WILTEC                                                                                                                                    Phone: (626) 564-1944    Fax: (626) 564-0969
+INTERSECTION TURNING MOVEMENT COUNT SUMMARY
+
+CLIENT:                            FEHR AND PEERS/ ARUP
+PROJECT:                           DOWNTOWN LOS ANGELES TRAFFIC COUNTS
+DATE:                              THURSDAY APRIL 2, 2009
+PERIODS:                           7:00 AM TO 9:00 AM  AND       4:00 PM TO 6:00 PM
+INTERSECTION:          N/S         AVENUE 20
+                       E/W         ALBION STREET
+CITY:                              LOS ANGELES
+
+15 MIN COUNTS                                             7:00 AM TO 9:00 AM
+                   1          2         3      4      5          6        7       8      9     10     11     12
+PERIOD          SBRT    SBTH         SBLT   WBRT   WBTH     WBLT     NBRT      NBTH   NBLT   EBRT   EBTH   EBLT   TOTAL      AM PEAK HOUR
+700-715            7         22         0      0      0          0        0      26      6      4      0      9      74         730-830                                   0
+715-730            4         34         0      0      0          0        0      30      2      4      0      9      83
+730-745            6         51         0      0      0          0        0      66      4      2      0      6     135                   58        208   0               0
+745-800           20         63         0      0      0          0        0      79     10      6      0     11     189
+800-815           17         54         0      0      0          0        0      58      6      6      0      6     147                                                   0
+815-830           15         40         0      0      0          0        0      47      4      6      0     14     126
+830-845            9         31         0      0      0          0        0      39      3      3      0      7      92
+845-900            3         25         0      0      0          0        0      45      3      4      0      7      87                        37
+HOUR TOTALS
+                   1          2         3      4      5          6        7       8      9     10     11     12           ALBION STREET        0              24    250        0
+TIME            SBRT    SBTH         SBLT   WBRT   WBTH     WBLT     NBRT      NBTH   NBLT   EBRT   EBTH   EBLT   TOTAL
+700-800           37         170        0      0      0          0        0     201     22     16      0     35     481                        20
+715-815           47         202        0      0      0          0        0     233     22     18      0     32     554                                            AVENUE 20
+730-830           58         208        0      0      0          0        0     250     24     20      0     37     597
+745-845           61         188        0      0      0          0        0     223     23     21      0     38     554
+800-900           44         150        0      0      0          0        0     189     16     19      0     34     452
+
+
+15 MIN COUNTS                                             4:00 PM TO 6:00 PM
+                   1          2         3      4      5          6        7       8      9     10     11     12
+PERIOD          SBRT    SBTH         SBLT   WBRT   WBTH     WBLT     NBRT      NBTH   NBLT   EBRT   EBTH   EBLT   TOTAL      PM PEAK HOUR
+400-415           12         43         0      0      0          0        0      63      3      8      0     12     141         445-545                                   0
+415-430            9         33         0      0      0          0        0      46      3      5      0     11     107
+430-445            4         35         0      0      0          0        0      61      1     12      0     14     127                   20        181   0               0
+445-500            3         49         0      0      0          0        0      61      3      7      0     17     140
+500-515            8         45         0      0      0          0        0      76      1      7      0     11     148                                                   0
+515-530            5         42         0      0      0          0        0      58      3      8      0     17     133
+530-545            4         45         0      0      0          0        0      61      6      8      0     25     149
+545-600            4         27         0      0      0          0        0      43      1     11      0      8      94                        70
+HOUR TOTALS
+                   1          2         3      4      5          6        7       8      9     10     11     12           ALBION STREET        0              13    256        0
+TIME            SBRT    SBTH         SBLT   WBRT   WBTH     WBLT     NBRT      NBTH   NBLT   EBRT   EBTH   EBLT   TOTAL
+400-500           28         160        0      0      0          0        0     231     10     32      0     54     515                        30
+415-515           24         162        0      0      0          0        0     244      8     31      0     53     522                                            AVENUE 20
+430-530           20         171        0      0      0          0        0     256      8     34      0     59     548
+445-545           20         181        0      0      0          0        0     256     13     30      0     70     570
+500-600           21         159        0      0      0          0        0     238     11     34      0     61     524
+

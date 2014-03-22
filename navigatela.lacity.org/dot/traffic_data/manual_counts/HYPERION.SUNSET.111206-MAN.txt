@@ -1,0 +1,373 @@
+                      City Of Los Angeles
+                      Department Of Transportation
+                      MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South           Hyperion Avenue
+
+East/West             Sunset Boulevard
+
+Day:          Tuesday                 Date:         December 6, 2011     Weather:          CLEAR
+
+Hours:        7-10AM 3-6PM
+
+School Day:           YES             District:         LOS ANGELES        I/S CODE                   0
+
+
+                        N/B                       S/B                      E/B                     W/B
+DUAL-                     7                        13                      105                     100
+WHEELED
+BIKES                     11                        9                       92                       72
+BUSES                      0                        1                      140                      112
+
+
+                        N/B TIME                  S/B TIME                 E/B TIME                W/B    TIME
+
+AM PK 15 MIN              39   7.45                89    7.45              346      7.45            269    7.45
+
+PM PK 15 MIN              46   4.15                47    7.30              402      4.30            345    5.30
+
+AM PK HOUR               118   7.15               161    7.15             1355      7.30            997    7.30
+
+PM PK HOUR               154   4.15               143    7.00             1546      5.00           1314    5.00
+
+
+
+NORTHBOUND Approach                                     SOUTHBOUND Approach                               TOTAL          XING S/L          XING N/L
+
+Hours           Lt      Th     Rt Total                 Hours      Lt     Th        Rt Total               N-S            Ped Sch            Ped   Sch
+7-8               9      61     29     99               7-8         87     96        42   225               324            30   2             32     2
+8-9              13      40     45     98               8-9         94     69        27   190               288            64   1             15     0
+9-10             13      44     19     76               9-10        75     31        23   129               205            46   0             46     0
+3-4              25      60     53   138                3-4         59     44        40   143               281           131   0             99     5
+4-5              15      85     46   146                4-5         64     42        34   140               286           172   4            105     0
+5-6              17      92     36   145                5-6         66     43        32   141               286           120   2             74     3
+
+TOTAL            92      382   228        702           TOTAL      445     325      198      968           1670           563       9        371   10
+
+
+EASTBOUND Approach                                      WESTBOUND Approach                                TOTAL          XING W/L          XING E/L
+
+Hours           Lt      Th     Rt Total                 Hours      Lt  Th           Rt Total              E-W             Ped Sch            Ped   Sch
+7-8              35     1078    11 1124                 7-8         16 817           42   875              1999            42   0              4     1
+8-9              35     1251    28 1314                 8-9         29 808           27   864              2178            30   0              9     1
+9-10             29     1017    20 1066                 9-10        27 790           23   840              1906            43   0             13     0
+3-4              57     1208    35 1300                 3-4         46 978           97 1121               2421            82   5             46     0
+4-5              64     1405    29 1498                 4-5         34 1037          78 1149               2647            66   1             55     4
+5-6              55     1451    40 1546                 5-6         37 1182          95 1314               2860            59   0             42     2
+
+TOTAL           275 7410       163       7848                      189 5612         362     6163          14011           322       6        169    8
+
+              (Rev Oct 06)
+
+
+                                                                                                                  City of Los Angeles
+                                                                                                                  Department of Transportation
+                                                                   Counts Unlimited Inc.
+                                                                      PO Box 1178
+                                                                    Corona, CA 92878
+                                                                     (951) 268-6268
+City of Los Angeles                                                                                                              File Name    : LOSHYSUAM
+N/S: Hyperion Avenue                                                                                                             Site Code    : 00000001
+E/W: Sunset Boulevard                                                                                                            Start Date   : 12/6/2011
+Weather: Sunny                                                                                                                   Page No      :1
+
+
+                                                              Groups Printed- Total Volume
+                     Hyperion Avenue                  Sunset Boulevard                 Hyperion Avenue               Sunset Boulevard
+                       Southbound                        Westbound                       Northbound                     Eastbound
+   Start Time    Left Thru Right App. Total       Left Thru Right App. Total      Left Thru Right App. Total     Left Thru Right App. Total          Int. Total
+    07:00 AM      14    13       5     32           1    131       7       139       1      4      4      9        9    177       0    186               366
+    07:15 AM      19    20      10     49           6    176       8       190       3     15      7    25        10    246       2    258               522
+    07:30 AM      18    24      16     58           6    259      12       277       4     20      2    26         7    320       7    334               695
+    07:45 AM      36    39      14     89           3    251      15       269       1     22     16    39         9    335       2    346               743
+         Total    87    96      45    228          16    817      42       875       9     61     29    99        35 1078        11   1124              2326
+
+    08:00 AM       24      27     14       65      11     217       5      233      6        12     10     28       4     318         9        331       657
+    08:15 AM       24      15      4       43       7     206       5      218      3        12      8     23      10     328         6        344       628
+    08:30 AM       26      18     10       54       3     181       9      193      3        12     14     29      11     286        10        307       583
+    08:45 AM       20       9      6       35       8     204       8      220      1         4     13     18      10     319         3        332       605
+         Total     94      69     34      197      29     808      27      864     13        40     45     98      35    1251        28       1314      2473
+
+    09:00 AM       19       6      5       30      12     191       9      212      3         9      6     18       8     249         5        262       522
+    09:15 AM       22       9      9       40       4     210       5      219      4        14      4     22       8     262         6        276       557
+    09:30 AM       18       8      7       33       5     194       5      204      3        12      5     20       7     258         5        270       527
+    09:45 AM       16       8      8       32       6     195       4      205      3         9      4     16       6     248         4        258       511
+         Total     75      31     29      135      27     790      23      840     13        44     19     76      29    1017        20       1066      2117
+
+ Grand Total      256    196     108      560       72   2415      92     2579      35      145      93   273      99    3346        59       3504      6916
+   Apprch %      45.7      35   19.3               2.8    93.6    3.6             12.8     53.1    34.1           2.8     95.5      1.7
+     Total %       3.7    2.8     1.6      8.1       1    34.9    1.3     37.3     0.5       2.1    1.3    3.9    1.4     48.4      0.9       50.7
+
+
+
+
+                        Hyperion Avenue                   Sunset Boulevard            Hyperion Avenue                Sunset Boulevard
+                           Southbound                        Westbound                  Northbound                      Eastbound
+   Start Time      Left Thru Right App. Total        Left Thru Right App. Total   Left Thru Right App. Total     Left Thru Right App. Total          Int. Total
+Peak Hour Analysis From 07:00 AM to 09:45 AM - Peak 1 of 1
+Peak Hour for Entire Intersection Begins at 07:30 AM
+    07:30 AM        18       24      16        58       6    259       12   277      4       20       2    26       7     320         7        334       695
+    07:45 AM        36       39      14         89      3    251       15   269      1       22     16      39      9     335         2        346        743
+    08:00 AM        24       27      14        65      11    217        5   233      6       12      10    28       4      318        9        331       657
+    08:15 AM        24       15       4        43       7    206        5   218      3       12       8    23      10      328         6       344       628
+ Total Volume      102      105      48       255      27    933       37   997     14       66      36   116       30   1301         24      1355      2723
+ % App. Total       40 41.2        18.8               2.7 93.6        3.7         12.1     56.9      31            2.2      96       1.8
+          PHF     .708     .673    .750      .716   .614    .901    .617   .900   .583     .750    .563   .744   .750     .971     .667       .979       .916
+                                                                                               Counts Unlimited Inc.
+                                                                                                  PO Box 1178
+                                                                                                Corona, CA 92878
+                                                                                                 (951) 268-6268
+City of Los Angeles                                                                                                                                                            File Name        : LOSHYSUAM
+N/S: Hyperion Avenue                                                                                                                                                           Site Code        : 00000001
+E/W: Sunset Boulevard                                                                                                                                                          Start Date       : 12/6/2011
+Weather: Sunny                                                                                                                                                                 Page No          :2
+
+                                                                                                   Hyperion Avenue
+                                                                                                Out       In     Total
+                                                                                                 133       255     388
+
+
+                                                                                                    48  105         102
+                                                                                                 Right Thru        Left
+
+
+
+
+                                                                                             Peak Hour Data
+                                             2350
+                                             Total
+
+
+
+
+                                                                                                                                                                      1439
+                                                                                                                                                                      Out
+                                                         30
+
+
+
+
+                                                                                                                                                     Right Thru
+                                                       Left
+
+
+
+
+                                                                                                                                                                        Sunset Boulevard
+                            Sunset Boulevard
+
+
+
+
+                                                                                                          North
+
+
+
+
+                                                                                                                                                        37
+                                    1355
+
+
+                                                          24 1301
+                                                       Right Thru
+                                     In
+
+
+
+
+                                                                                                                                                                               In
+                                                                                                                                                            933
+                                                                                             Peak Hour Begins at 07:30 AM
+
+
+
+
+                                                                                                                                                                                997
+                                                                                             Total Volume
+
+
+
+
+                                                                                                                                                     Left
+                            995
+                           Out
+
+
+
+
+                                                                                                                                                                                       Total
+                                                                                                                                                       27
+
+
+                                                                                                                                                                                        2436
+                                                                                                     Left Thru Right
+                                                                                                       14   66    36
+
+
+                                                                                                 156       116     272
+                                                                                                Out       In     Total
+                                                                                                   Hyperion Avenue
+
+Peak Hour Analysis From 07:00 AM to 09:45 AM - Peak 1 of 1
+Peak Hour for Each Approach Begins at:
+                07:15 AM                                                   07:30 AM                               07:45 AM                        07:30 AM
+    +0 mins.       19          20                      10            49         6      259      12       277          1        22     16    39         7            320                  7      334
+   +15 mins.       18          24                      16            58         3      251      15       269          6        12     10    28         9            335                  2      346
+   +30 mins.       36          39                      14            89        11      217       5       233          3        12      8    23         4            318                  9      331
+   +45 mins.       24          27                      14            65         7      206       5       218          3        12     14    29        10            328                  6      344
+ Total Volume      97         110                      54           261        27      933      37       997         13        58     48   119        30          1301                  24     1355
+ % App. Total    37.2        42.1                    20.7                     2.7     93.6     3.7                 10.9      48.7   40.3             2.2             96                1.8
+         PHF     .674        .705                    .844           .733    .614      .901   .617       .900       .542      .659   .750   .763    .750            .971              .667      .979
+                                                                    Counts Unlimited Inc.
+                                                                       PO Box 1178
+                                                                     Corona, CA 92878
+                                                                      (951) 268-6268
+City of Los ANgeles                                                                                                                File Name    : LOSHYSUPM
+N/S: Hyperion Avenue                                                                                                               Site Code    : 00000001
+E/W: Sunset Boulevard                                                                                                              Start Date   : 12/6/2011
+Weather: Sunny                                                                                                                     Page No      :1
+
+
+                                                               Groups Printed- Total Volume
+                      Hyperion Avenue                  Sunset Boulevard                 Hyperion Avenue                Sunset Boulevard
+                        Southbound                        Westbound                       Northbound                      Eastbound
+   Start Time     Left Thru Right App. Total       Left Thru Right App. Total      Left Thru Right App. Total      Left Thru Right App. Total          Int. Total
+    03:00 PM       13    15      12     40          14    242      24       280      11     15     13    39         11    288       7    306               665
+    03:15 PM       12      9      9     30          11    252      21       284       4     12     12    28         22    302      11    335               677
+    03:30 PM       19    15      13     47           9    239      21       269       5     22     16    43          8    306       6    320               679
+    03:45 PM       15      5      6     26          12    245      31       288       5     11     12    28         16    312      11    339               681
+         Total     59    44      40    143          46    978      97     1121       25     60     53   138         57 1208        35   1300              2702
+
+    04:00 PM       11      11       5       27      11     244      24      279      4        19      11     34      21     339         6        366       706
+    04:15 PM       13      12       7       32      10     254      23      287      4        27      15     46      16     329         7        352       717
+    04:30 PM       19      10      12       41       8     272      18      298      2        24       8     34      12     382         8        402       775
+    04:45 PM       21       9      10       40       5     267      13      285      5        15      12     32      15     355         8        378       735
+         Total     64      42      34      140      34    1037      78     1149     15        85      46    146      64    1405        29       1498      2933
+
+    05:00 PM       19      16      11       46       7     291      16      314      8        18      16     42      16     348        12        376       778
+    05:15 PM       19      15       6       40       8     285      24      317      6        24       6     36      13     366        10        389       782
+    05:30 PM       11       9       9       29      11     308      26      345      1        32       4     37      10     368         7        385       796
+    05:45 PM       17       3       6       26      11     298      29      338      2        18      10     30      16     369        11        396       790
+         Total     66      43      32      141      37    1182      95     1314     17        92      36    145      55    1451        40       1546      3146
+
+  Grand Total     189     129    106       424     117    3197    270      3584      57      237     135    429    176     4064      104        4344      8781
+    Apprch %     44.6    30.4      25               3.3    89.2    7.5             13.3     55.2    31.5            4.1     93.6      2.4
+      Total %      2.2     1.5    1.2       4.8     1.3    36.4    3.1     40.8     0.6       2.7     1.5    4.9      2     46.3      1.2       49.5
+
+
+
+
+                        Hyperion Avenue                   Sunset Boulevard             Hyperion Avenue                 Sunset Boulevard
+                           Southbound                        Westbound                   Northbound                       Eastbound
+   Start Time      Left Thru Right App. Total        Left Thru Right App. Total    Left Thru Right App. Total      Left Thru Right App. Total          Int. Total
+Peak Hour Analysis From 03:00 PM to 05:45 PM - Peak 1 of 1
+Peak Hour for Entire Intersection Begins at 05:00 PM
+    05:00 PM        19       16      11         46      7    291       16    314      8       18      16      42     16     348        12        376       778
+    05:15 PM        19       15       6        40       8    285       24    317      6       24       6     36       13    366         10       389       782
+    05:30 PM        11         9      9        29      11    308       26    345      1       32       4     37       10    368          7       385        796
+    05:45 PM        17         3      6        26      11    298       29    338      2       18      10     30       16    369         11       396       790
+ Total Volume       66       43      32       141      37 1182         95  1314      17       92      36    145       55   1451         40      1546      3146
+ % App. Total     46.8     30.5    22.7               2.8     90      7.2          11.7     63.4    24.8             3.6    93.9       2.6
+          PHF     .868     .672    .727      .766   .841    .959    .819    .952   .531     .719    .563    .863   .859     .983     .833       .976       .988
+                                                                                                Counts Unlimited Inc.
+                                                                                                   PO Box 1178
+                                                                                                 Corona, CA 92878
+                                                                                                  (951) 268-6268
+City of Los ANgeles                                                                                                                                                              File Name        : LOSHYSUPM
+N/S: Hyperion Avenue                                                                                                                                                             Site Code        : 00000001
+E/W: Sunset Boulevard                                                                                                                                                            Start Date       : 12/6/2011
+Weather: Sunny                                                                                                                                                                   Page No          :2
+
+                                                                                                    Hyperion Avenue
+                                                                                                 Out       In     Total
+                                                                                                  242       141     383
+
+
+                                                                                                         32    43       66
+                                                                                                      Right Thru      Left
+
+
+
+
+                                                                                              Peak Hour Data
+                                             2777
+                                             Total
+
+
+
+
+                                                                                                                                                                        1553
+                                                                                                                                                                        Out
+                                                         55
+
+
+
+
+                                                                                                                                                       Right Thru
+                                                       Left
+
+
+
+
+                                                                                                                                                                          Sunset Boulevard
+                            Sunset Boulevard
+
+
+
+
+                                                                                                            North
+
+
+
+
+                                                                                                                                                          95 1182
+                                    1546
+
+
+                                                          40 1451
+                                                       Right Thru
+                                     In
+
+
+
+
+                                                                                                                                                                                1314
+                                                                                                                                                                                 In
+                                                                                              Peak Hour Begins at 05:00 PM
+
+                                                                                              Total Volume
+
+
+
+
+                                                                                                                                                       Left
+                           1231
+                           Out
+
+
+
+
+                                                                                                                                                                                         Total
+                                                                                                                                                         37
+
+
+                                                                                                                                                                                          2867
+                                                                                                      Left Thru Right
+                                                                                                        17   92    36
+
+
+                                                                                                  120       145     265
+                                                                                                 Out       In     Total
+                                                                                                    Hyperion Avenue
+
+Peak Hour Analysis From 03:00 PM to 05:45 PM - Peak 1 of 1
+Peak Hour for Each Approach Begins at:
+                04:30 PM                                                   05:00 PM                                 04:15 PM                        05:00 PM
+    +0 mins.       19          10                      12            41         7       291      16        314          4        27     15    46        16            348                 12      376
+   +15 mins.       21           9                      10            40         8       285      24        317          2        24      8    34        13            366                 10      389
+   +30 mins.       19          16                      11            46        11       308      26        345          5        15     12    32        10            368                  7      385
+   +45 mins.       19          15                       6            40        11       298      29        338          8        18     16    42        16            369                 11      396
+ Total Volume      78          50                      39           167        37     1182       95       1314         19        84     51   154        55          1451                  40     1546
+ % App. Total    46.7        29.9                    23.4                     2.8        90     7.2                  12.3      54.5   33.1             3.6           93.9                2.6
+         PHF     .929        .781                    .813           .908    .841       .959   .819         .952      .594      .778   .797   .837    .859            .983              .833      .976
+

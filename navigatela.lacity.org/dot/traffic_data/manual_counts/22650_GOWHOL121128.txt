@@ -1,0 +1,341 @@
+                                   Intersection Turning Movement
+                                                         Prepared by:
+                                           National Data & Surveying Services
+         Project ID: CA12_5476_008                                                                                          Day: WEDNESDAY
+                                                                          CARS
+                 City: City of Hollywood                                                                                   Date: 11/28/2012
+                                                                          AM
+     NS/EW Streets:             Gower St                 Gower St                     Hollywood Blvd                  Hollywood Blvd
+                               NORTHBOUND               SOUTHBOUND                     EASTBOUND                       WESTBOUND
+
+                          NL        NT       NR    SL      ST        SR          EL        ET          ER        WL        WT          WR      TOTAL
+     LANES:               1          2        0    1        1         1          1          2           0        1          2           0
+
+          7:00   AM       3         28        8    7       126       35          1          68         3         6         126          2      413
+          7:15   AM       6         29        8    9       119       40          3          71         8         15        160          6      474
+          7:30   AM       4         51        10   7       144       55          7          94         7         21        213          5      618
+          7:45   AM       6         50        4    11      125       65          12         95         10        33        225          4      640
+          8:00   AM       2         52        10   9       161       65          13        141         16        30        215          7      721
+          8:15   AM       3         78        8    12      152       59          9         117         5         30        222          4      699
+          8:30   AM       7         76        17   5       161       74          17        117         10        23        183          9      699
+          8:45   AM       7         78        5    10      156       91          9          98         10        27        201          3      695
+          9:00   AM       5         48        10   12      157       90          15        104         13        25        218          3      700
+          9:15   AM       7         63        12   10      164       70          10        112         10        26        220          3      707
+          9:30   AM       4         53        10   13      152       53          8          86         6         23        192          9      609
+          9:45   AM       4         45        12   6       153       56          8          97         11        28        166          7      593
+
+                        NL       NT  NR        SL     ST     SR       EL    ET                          ER       WL      WT            WR      TOTAL
+   TOTAL VOLUMES :      58      651  114      111    1770   753      112   1200                        109       287    2341            62      7568
+    APPROACH %'s :     7.05% 79.10% 13.85%    4.21% 67.20% 28.59%   7.88% 84.45%                       7.67%    10.67% 87.03%          2.30%
+                     nb a     nb d         sb a    sb d           eb a   eb d                                  wb a   nb d
+PEAK HR START TIME :      800 AM                                                                                                               TOTAL
+
+      PEAK HR VOL :      19        284       40    36      630      289          48       473          41       110       821          23      2814
+
+   PEAK HR FACTOR :               0.858                   0.929                           0.826                           0.932                0.976
+
+         CONTROL : Signalized
+                                    Intersection Turning Movement
+                                                           Prepared by:
+                                            National Data & Surveying Services
+         Project ID: CA12_5476_008                                                                                           Day: WEDNESDAY
+                                                                           CARS
+                  City: City of Hollywood                                                                                   Date: 11/28/2012
+                                                                           PM
+     NS/EW Streets:              Gower St                 Gower St                     Hollywood Blvd                  Hollywood Blvd
+                                NORTHBOUND               SOUTHBOUND                     EASTBOUND                       WESTBOUND
+
+                           NL        NT       NR    SL      ST        SR          EL        ET          ER        WL        WT          WR      TOTAL
+     LANES:                1          2        0    1        1         1          1          2           0        1          2           0
+
+           3:00   PM       6        104       28    10      89        37          16        196         7         25        153         8       679
+           3:15   PM       14       122       19    14      98        32          20        197         6         16        102         6       646
+           3:30   PM       9        104       23    12      90        38          13        213         10        19        126         7       664
+           3:45   PM       14       129       27    10      97        33          19        165         11        24        145         5       679
+           4:00   PM       9        120       24    10      97        39          21        184         7         21        158         12      702
+           4:15   PM       15       125       22    12      96        25          24        190         11        27        175         14      736
+           4:30   PM       7        140       15    8       78        25          17        175         5         12        171         13      666
+           4:45   PM       14       124       20    13      93        37          20        180         13        17        177         18      726
+           5:00   PM       8        136       17    10      85        29          28        202         12        16        167         17      727
+           5:15   PM       17       135       17    19      95        36          16        188         10        15        173         11      732
+           5:30   PM       12       153       15    14      91        22          23        222         8         14        167         16      757
+           5:45   PM       13       158       22    20      77        36          14        215         13        13        184         13      778
+
+                        NL       NT  NR        SL     ST     SR       EL    ET                           ER       WL      WT            WR      TOTAL
+   TOTAL VOLUMES :     138      1550 249      152    1086   389      231   2327                         113       219    1898           140      8492
+    APPROACH %'s :     7.12% 80.02% 12.85%    9.34% 66.75% 23.91%   8.65% 87.12%                        4.23%     9.70% 84.09%          6.20%
+                     nb a     nb d         sb a    sb d           eb a   eb d                                   wb a   nb d
+PEAK HR START TIME :      500 PM                                                                                                                TOTAL
+
+      PEAK HR VOL :       50        582       71    63      348      123          81       827          43        58       691          57      2994
+
+   PEAK HR FACTOR :                0.911                   0.890                           0.940                           0.960                0.962
+
+         CONTROL : Signalized
+                                  PREPARED BY NATIONAL DATA & SURVEYING SERVICES
+PROJECT#:     CA12_5476_008
+N/S Street:   Gower St
+E/W Street:   Hollywood Blvd
+DATE:         11/28/2012                                      DAY:        11/28/2012
+CITY:         City of Hollywood
+    AM
+Adult Pedestrians                                             School-Aged Pedestrians
+              NORTH LEG SOUTH LEG       EAST LEG   WEST LEG               NORTH LEG SOUTH LEG   EAST LEG   WEST LEG
+  TIME                                                          TIME
+               EB   WB   EB   WB        NB    SB   NB    SB                EB   WB   EB   WB    NB    SB   NB    SB
+ 7:00 AM                                                       7:00 AM
+ 7:15 AM                                                       7:15 AM
+ 7:30 AM                                                       7:30 AM
+ 7:45 AM                                                       7:45 AM
+ 8:00 AM                                                       8:00 AM
+ 8:15 AM                                                       8:15 AM
+ 8:30 AM                                                       8:30 AM
+ 8:45 AM                                                       8:45 AM
+ 9:00 AM                                                       9:00 AM
+ 9:15 AM                                                       9:15 AM
+ 9:30 AM                                                       9:30 AM
+ 9:45 AM                                                       9:45 AM
+ TOTALS         0      0      0     0   0     0    0     0     TOTALS       0      0    0   0   0     0    0     0
+
+
+    PM
+Adult Pedestrians                                             School-Aged Pedestrians
+              NORTH LEG SOUTH LEG       EAST LEG   WEST LEG               NORTH LEG SOUTH LEG   EAST LEG   WEST LEG
+   TIME                                                          TIME
+               EB   WB   EB   WB        NB    SB   NB    SB                EB   WB   EB   WB    NB    SB   NB    SB
+ 3:00 PM                                                       3:00 PM
+ 3:15 PM                                                       3:15 PM
+ 3:30 PM                                                       3:30 PM
+ 3:45 PM                                                       3:45 PM
+ 4:00 PM                                                       4:00 PM
+ 4:15 PM                                                       4:15 PM
+ 4:30 PM                                                       4:30 PM
+ 4:45 PM                                                       4:45 PM
+ 5:00 PM                                                       5:00 PM
+ 5:15 PM                                                       5:15 PM
+ 5:30 PM                                                       5:30 PM
+ 5:45 PM                                                       5:45 PM
+ TOTALS         0      0      0     0   0     0    0     0     TOTALS       0      0    0   0   0     0    0     0
+                                   Intersection Turning Movement
+                                                         Prepared by:
+                                           National Data & Surveying Services
+         Project ID: CA12_5476_008                                                                                           Day: WEDNESDAY
+                                                                          BIKES
+                 City: City of Hollywood                                                                                    Date: 11/28/2012
+                                                                           AM
+     NS/EW Streets:             Gower St                 Gower St                      Hollywood Blvd                  Hollywood Blvd
+                               NORTHBOUND               SOUTHBOUND                      EASTBOUND                       WESTBOUND
+
+                          NL        NT       NR    SL      ST        SR           EL        ET          ER        WL        WT          WR      TOTAL
+     LANES:               1          2        0    1        1         1           1          2           0        1          2           0
+
+          7:00   AM       0         0         0     0       0        0                       0                    1          0                   1
+          7:15   AM       0         0         0     1       0        1                       0                    0          1                   3
+          7:30   AM       0         1         0     0       0        0                       1                    0          2                   4
+          7:45   AM       0         0         0     0       1        0                       1                    0          3                   5
+          8:00   AM       0         0         1     0       0        0                       1                    1          1                   4
+          8:15   AM       0         0         0     0       1        0                       1                    0          2                   4
+          8:30   AM       0         1         1     0       0        0                       0                    0          0                   2
+          8:45   AM       0         0         0     0       0        0                       1                    0          3                   4
+          9:00   AM       0         0         0     0       0        0                       0                    0          2                   2
+          9:15   AM       0         2         0     0       1        0                       0                    0          1                   4
+          9:30   AM       0         0         0     0       0        0                       0                    0          4                   4
+          9:45   AM       1         0         0     0       0        0                       0                    2          1                   4
+
+                        NL        NT NR      SL     ST     SR      EL      ET                            ER       WL      WT            WR      TOTAL
+   TOTAL VOLUMES :       1         4  2       1      3      1       0       5                             0        4      20             0        41
+    APPROACH %'s :    14.29% 57.14% 28.57% 20.00% 60.00% 20.00%   0.00% 100.00%                         0.00%    16.67% 83.33%          0.00%
+                     nb a      nb d       sb a   sb d           eb a    eb d                                    wb a   nb d
+PEAK HR START TIME :       800 AM                                                                                                               TOTAL
+
+      PEAK HR VOL :       0         1         2    0        1        0            0          3          0         1          6          0        14
+
+   PEAK HR FACTOR :               0.375                   0.250                            0.750                           0.583                0.875
+
+         CONTROL : Signalized
+                                    Intersection Turning Movement
+                                                           Prepared by:
+                                            National Data & Surveying Services
+         Project ID: CA12_5476_008                                                                                            Day: WEDNESDAY
+                                                                           BIKES
+                  City: City of Hollywood                                                                                    Date: 11/28/2012
+                                                                            PM
+     NS/EW Streets:              Gower St                 Gower St                      Hollywood Blvd                  Hollywood Blvd
+                                NORTHBOUND               SOUTHBOUND                      EASTBOUND                       WESTBOUND
+
+                           NL        NT       NR    SL      ST        SR           EL        ET          ER        WL        WT          WR      TOTAL
+     LANES:                1          2        0    1        1         1           1          2           0        1          2           0
+
+           3:00   PM       0         0         0    0        0                                2           0        0          2           1        5
+           3:15   PM       1         0         0    0        0                                3           0        0          1           0        5
+           3:30   PM       0         0         0    1        0                                5           0        1          2           0        9
+           3:45   PM       0         1         1    0        2                                3           0        0          4           0       11
+           4:00   PM       0         2         1    0        5                                1           0        0          2           0       11
+           4:15   PM       0         0         0    0        0                                4           1        0          2           0        7
+           4:30   PM       0         1         1    0        1                                2           0        0          5           0       10
+           4:45   PM       0         0         0    1        0                                0           0        0          1           0        2
+           5:00   PM       0         0         0    0        0                                2           0        1          2           0        5
+           5:15   PM       0         0         0    0        0                                2           0        0          2           0        4
+           5:30   PM       0         1         0    0        0                                1           0        0          0           0        2
+           5:45   PM       0         1         0    0        0                                1           0        1          3           0        6
+
+                        NL        NT NR      SL     ST                 SR        EL     ET                ER       WL      WT            WR      TOTAL
+   TOTAL VOLUMES :       1         6  3       2      8                  0         0     26                 1        3      26             1        77
+    APPROACH %'s :    10.00% 60.00% 30.00% 20.00% 80.00%              0.00%     0.00% 96.30%             3.70%    10.00% 86.67%          3.33%
+                     nb a      nb d       sb a   sb d                         eb a   eb d                        wb a   nb d
+PEAK HR START TIME :       500 PM                                                                                                                TOTAL
+
+      PEAK HR VOL :        0         2         0    0        0        0            0          6          0         2          7          0        17
+
+   PEAK HR FACTOR :                0.500                   0.000                            0.750                           0.563                0.708
+
+         CONTROL : Signalized
+                                   Intersection Turning Movement
+                                                         Prepared by:
+                                           National Data & Surveying Services
+         Project ID: CA12_5476_008                                                                                          Day: WEDNESDAY
+                                                                         BUSES
+                 City: City of Hollywood                                                                                   Date: 11/28/2012
+                                                                          AM
+     NS/EW Streets:             Gower St                 Gower St                     Hollywood Blvd                  Hollywood Blvd
+                               NORTHBOUND               SOUTHBOUND                     EASTBOUND                       WESTBOUND
+
+                          NL        NT       NR    SL      ST        SR          EL        ET          ER        WL        WT          WR      TOTAL
+     LANES:               1          2        0    1        1         1          1          2           0        1          2           0
+
+          7:00   AM                 0         1     0       1        1                      6                     0         2                   11
+          7:15   AM                 1         0     0       1        0                      4                     0         6                   12
+          7:30   AM                 0         0     0       0        0                      4                     0         3                    7
+          7:45   AM                 0         0     0       0        0                      6                     0         7                   13
+          8:00   AM                 0         1     0       1        0                      5                     0         5                   12
+          8:15   AM                 0         1     0       0        0                      4                     0         6                   11
+          8:30   AM                 0         0     0       0        0                      4                     0         4                    8
+          8:45   AM                 0         0     1       0        0                      2                     0         8                   11
+          9:00   AM                 0         1     0       0        1                      3                     0         5                   10
+          9:15   AM                 0         0     0       0        0                      3                     0         4                    7
+          9:30   AM                 0         0     0       0        0                      2                     0         4                    6
+          9:45   AM                 1         0     0       1        0                      3                     0         4                    9
+
+                        NL        NT NR      SL     ST     SR      EL      ET                           ER       WL       WT           WR      TOTAL
+   TOTAL VOLUMES :       0         2  4       1      4      2       0      46                            0        0       58            0       117
+    APPROACH %'s :     0.00% 33.33% 66.67% 14.29% 57.14% 28.57%   0.00% 100.00%                        0.00%     0.00% 100.00%         0.00%
+                     nb a      nb d       sb a   sb d           eb a    eb d                                   wb a    nb d
+PEAK HR START TIME :       800 AM                                                                                                              TOTAL
+
+      PEAK HR VOL :       0         0         2    1        1        0           0         15          0         0         23          0        42
+
+   PEAK HR FACTOR :               0.500                   0.500                           0.750                           0.719                0.875
+
+         CONTROL : Signalized
+                                    Intersection Turning Movement
+                                                           Prepared by:
+                                            National Data & Surveying Services
+         Project ID: CA12_5476_008                                                                                      Day: WEDNESDAY
+                                                                          BUSES
+                  City: City of Hollywood                                                                              Date: 11/28/2012
+                                                                           PM
+     NS/EW Streets:              Gower St                 Gower St                     Hollywood Blvd             Hollywood Blvd
+                                NORTHBOUND               SOUTHBOUND                     EASTBOUND                  WESTBOUND
+
+                           NL        NT       NR    SL      ST        SR          EL        ET          ER   WL        WT          WR      TOTAL
+     LANES:                1          2        0    1        1         1          1          2           0   1          2           0
+
+           3:00   PM       0         0         1             1        1           0          5          0    0          3           0       11
+           3:15   PM       0         0         0             3        0           1          9          0    0          4           0       17
+           3:30   PM       0         0         0             0        0           0          3          0    0          4           0        7
+           3:45   PM       0         1         0             0        1           1          3          2    1          2           0       11
+           4:00   PM       2         0         0             1        4           0          1          3    1          2           0       14
+           4:15   PM       0         1         0             1        1           0          1          2    1          1           0        8
+           4:30   PM       0         0         2             0        0           0          2          0    0          3           0        7
+           4:45   PM       0         0         0             0        0           0          7          0    0          1           0        8
+           5:00   PM       0         0         0             0        0           0          4          0    0          3           0        7
+           5:15   PM       0         0         0             1        0           0          3          0    0          3           0        7
+           5:30   PM       0         0         0             0        0           0          4          0    0          3           0        7
+           5:45   PM       0         0         0             0        0           0          4          0    0          6           1       11
+
+                        NL        NT NR        SL     ST     SR      EL     ET     ER     WL      WT                               WR      TOTAL
+   TOTAL VOLUMES :       2         2  3        0       7      7       2     46      7      3      35                                1       115
+    APPROACH %'s :    28.57% 28.57% 42.86%    0.00% 50.00% 50.00%   3.64% 83.64% 12.73%   7.69% 89.74%                             2.56%
+                     nb a      nb d        sb a    sb d           eb a   eb d           wb a   nb d
+PEAK HR START TIME :       500 PM                                                                                                          TOTAL
+
+      PEAK HR VOL :        0         0         0    0        1        0           0         15          0    0         15          1        32
+
+   PEAK HR FACTOR :                0.000                   0.250                           0.938                      0.571                0.727
+
+         CONTROL : Signalized
+                                   Intersection Turning Movement
+                                                         Prepared by:
+                                           National Data & Surveying Services
+         Project ID: CA12_5476_008                                                                                   Day: WEDNESDAY
+                                                                    HEAVY TRUCKS
+                 City: City of Hollywood                                                                            Date: 11/28/2012
+                                                                          AM
+     NS/EW Streets:             Gower St                 Gower St                   Hollywood Blvd             Hollywood Blvd
+                               NORTHBOUND               SOUTHBOUND                   EASTBOUND                  WESTBOUND
+
+                          NL        NT       NR    SL      ST        SR        EL        ET          ER   WL        WT          WR      TOTAL
+     LANES:               1          2        0    1        1         1        1          2           0   1          2           0
+
+          7:00   AM       0         1         0     0       0         0        0          3          0    0         5            0        9
+          7:15   AM       0         0         0     0       0         0        1          4          1    0         3            0        9
+          7:30   AM       0         3         0     0       0         0        0          2          0    0         5            0       10
+          7:45   AM       1         2         0     1       2         0        1          2          0    0         7            1       17
+          8:00   AM       0         1         0     0       1         0        0          3          2    0         3            0       10
+          8:15   AM       0         2         1     0       1         0        1          7          0    0         4            0       16
+          8:30   AM       0         1         1     0       3         0        0          1          0    0         7            0       13
+          8:45   AM       0         1         0     0       1         1        0          3          0    0         3            0        9
+          9:00   AM       0         1         0     0       0         1        0          1          1    1         10           0       15
+          9:15   AM       0         1         0     0       0         0        0          1          0    0         7            0        9
+          9:30   AM       0         1         0     0       1         0        0          1          0    0         7            0       10
+          9:45   AM       0         0         1     0       1         0        0          1          0    1         6            1       11
+
+                        NL        NT NR        SL     ST     SR      EL     ET     ER     WL      WT                            WR      TOTAL
+   TOTAL VOLUMES :       1        14  3        1      10      2       3     29      4      2      67                             2       138
+    APPROACH %'s :     5.56% 77.78% 16.67%    7.69% 76.92% 15.38%   8.33% 80.56% 11.11%   2.82% 94.37%                          2.82%
+                     nb a      nb d        sb a    sb d           eb a   eb d           wb a   nb d
+PEAK HR START TIME :       800 AM                                                                                                       TOTAL
+
+      PEAK HR VOL :       0         5         2    0        6        1         1         14          2    0         17          0        48
+
+   PEAK HR FACTOR :               0.583                   0.583                         0.531                      0.607                0.750
+
+         CONTROL : Signalized
+                                    Intersection Turning Movement
+                                                           Prepared by:
+                                            National Data & Surveying Services
+         Project ID: CA12_5476_008                                                                                         Day: WEDNESDAY
+                                                                     HEAVY TRUCKS
+                  City: City of Hollywood                                                                                 Date: 11/28/2012
+                                                                           PM
+     NS/EW Streets:              Gower St                 Gower St                   Hollywood Blvd                  Hollywood Blvd
+                                NORTHBOUND               SOUTHBOUND                   EASTBOUND                       WESTBOUND
+
+                           NL        NT       NR    SL      ST        SR        EL        ET          ER        WL        WT          WR      TOTAL
+     LANES:                1          2        0    1        1         1        1          2           0        1          2           0
+
+           3:00   PM       1         2         1    0        1                  0          6           0        0          2                   13
+           3:15   PM       0         1         0    0        1                  0          1           0        0          0                    3
+           3:30   PM       1         1         0    0        0                  0          2           0        0          0                    4
+           3:45   PM       0         2         0    0        3                  0          0           0        0          4                    9
+           4:00   PM       0         1         0    0        3                  0          0           1        0          3                    8
+           4:15   PM       0         1         0    0        2                  0          2           0        0          0                    5
+           4:30   PM       0         0         2    0        1                  1          4           0        2          1                   11
+           4:45   PM       0         0         0    1        1                  0          0           0        0          1                    3
+           5:00   PM       1         1         0    0        1                  0          2           0        0          2                    7
+           5:15   PM       0         1         0    0        1                  0          0           0        1          0                    3
+           5:30   PM       0         0         1    0        0                  0          0           0        0          1                    2
+           5:45   PM       0         1         0    0        2                  0          2           0        0          0                    5
+
+                        NL        NT NR        SL     ST               SR        EL     ET             ER       WL      WT            WR      TOTAL
+   TOTAL VOLUMES :       3        11  4        1      16                0         1     19              1        3      14             0        73
+    APPROACH %'s :    16.67% 61.11% 22.22%    5.88% 94.12%            0.00%     4.76% 90.48%          4.76%    17.65% 82.35%          0.00%
+                     nb a      nb d        sb a    sb d                       eb a   eb d                     wb a   nb d
+PEAK HR START TIME :       500 PM                                                                                                             TOTAL
+
+      PEAK HR VOL :        1         3         1    0        4        0         0          4          0         1          3          0        17
+
+   PEAK HR FACTOR :                0.625                   0.500                         0.500                           0.500                0.607
+
+         CONTROL : Signalized
+

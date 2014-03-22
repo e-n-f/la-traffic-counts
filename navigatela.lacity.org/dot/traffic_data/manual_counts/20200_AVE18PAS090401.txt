@@ -1,0 +1,53 @@
+WILTEC                                                                                                                                    Phone: (626) 564-1944   Fax: (626) 564-0969
+INTERSECTION TURNING MOVEMENT COUNT SUMMARY
+
+CLIENT:                           FEHR AND PEERS/ ARUP
+PROJECT:                          DOWNTOWN LOS ANGELES TRAFFIC COUNTS
+DATE:                             WEDNESDAY APRIL 1, 2009
+PERIODS:                          7:00 AM TO 9:00 AM AND        4:00 PM TO 6:00 PM
+INTERSECTION:          N/S        NORTH AVENUE 18
+                       E/W        PASADENA AVENUE
+CITY:                             LOS ANGELES
+
+15 MIN COUNTS                                             7:00 AM TO 9:00 AM
+                   1         2         3      4      5           6        7       8      9     10     11     12
+PERIOD          SBRT    SBTH        SBLT   WBRT   WBTH      WBLT     NBRT      NBTH   NBLT   EBRT   EBTH   EBLT   TOTAL      AM PEAK HOUR
+700-715           10         0         0      0    286          50        6       2      0      1     42      1     398         730-830                                 5
+715-730           25         2         0      1    301          72        8       0      0      1     46      0     456
+730-745           41         2         1      1    304          89        7       0      1      2     49      0     497                   148       10   1              1242
+745-800           45         1         0      1    285          81        4       0      0      0     52      0     469
+800-815           29         3         0      2    343         133      11        0      0      0     49      0     570                                                 382
+815-830           33         4         0      1    310          79      12        2      0      1     44      1     487
+830-845           16         1         4      0    291          66        9       1      4      1     44      1     438
+845-900            3         1         0      1    231          65        5       2      1      1     41      6     357                         1
+HOUR TOTALS
+                   1         2         3      4      5           6        7       8      9     10     11     12           PASADENA AVENUE 194                1      2        34
+TIME            SBRT    SBTH        SBLT   WBRT   WBTH      WBLT     NBRT      NBTH   NBLT   EBRT   EBTH   EBLT   TOTAL
+700-800          121         5         1      3    1176        292      25        2      1      4    189      1    1820                         3
+715-815          140         8         1      5    1233        375      30        0      1      3    196      0    1992                                           NORTH AVENUE 18
+730-830          148         10        1      5    1242        382      34        2      1      3    194      1    2023
+745-845          123         9         4      4    1229        359      36        3      4      2    189      2    1964
+800-900           81         9         4      4    1175        343      37        5      5      3    178      8    1852
+
+
+15 MIN COUNTS                                             4:00 PM TO 6:00 PM
+                   1         2         3      4      5           6        7       8      9     10     11     12
+PERIOD          SBRT    SBTH        SBLT   WBRT   WBTH      WBLT     NBRT      NBTH   NBLT   EBRT   EBTH   EBLT   TOTAL      PM PEAK HOUR
+400-415            2         4         0      0     71          17      20        2      0      2    174      2     294         500-600                                 3
+415-430            0         0         0      0     69          11      28        4      1      0    149      2     264
+430-445            3         0         0      1     64          13      21        1      0      0    167      1     271                   8         4    3              225
+445-500            7         1         1      0     55          10      33        0      1      0    221      4     333
+500-515            4         2         1      1     59          19      34        0      1      1    281      4     407                                                 66
+515-530            0         1         2      1     58          14      37        1      0      4    242      5     365
+530-545            1         0         0      1     65          19      32        3      0      2    267      4     394
+545-600            3         1         0      0     43          14      34        3      1      1    247      1     348                       14
+HOUR TOTALS
+                   1         2         3      4      5           6        7       8      9     10     11     12           PASADENA AVENUE
+                                                                                                                                        1037                 2      7       137
+TIME            SBRT    SBTH        SBLT   WBRT   WBTH      WBLT     NBRT      NBTH   NBLT   EBRT   EBTH   EBLT   TOTAL
+400-500           12         5         1      1    259          51     102        7      2      2    711      9    1162                         8
+415-515           14         3         2      2    247          53     116        5      3      1    818     11    1275                                           NORTH AVENUE 18
+430-530           14         4         4      3    236          56     125        2      2      5    911     14    1376
+445-545           12         4         4      3    237          62     136        4      2      7   1011     17    1499
+500-600            8         4         3      3    225          66     137        7      2      8   1037     14    1514
+

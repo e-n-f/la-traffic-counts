@@ -1,0 +1,61 @@
+                               24 Hours Traffic Volume                                                              RAW DATA         BONOLY0205S.rdf
+
+
+                               City of Los Angeles                                                                  COUNTER             ARMANDO
+
+                               Department of Transportation                                                         DATE              02/05/2008
+
+                                                                                                                    START TIME          12:00 AM
+LOCATION             BONNIE BRAE ST AT OLYMPIC BL                           DAY OF WEEK        TUESDAY              DATE PREPARED      14-Feb-08
+INTERSECTION         N/S STREET                                             DOT DISTRICT       CENTRAL              SENSOR LAYOUT                '11'
+DESCRIPTION          BONOLY                                                 WEATHER            CLEAR                SENSOR SPACING              '0.0'
+
+
+
+                        NORTH / WEST BOUND                                       SOUTH / EAST BOUND
+                        1ST       2ND        3RD      4TH        HOUR       1ST       2ND       3RD      4TH          HOUR
+     TIME               QTR      QTR         QTR      QTR        TOTAL      QTR       QTR       QTR      QTR          TOTAL             TOTAL
+
+     12 AM              0         0           0       0             0        2         4         1        2                 9              9
+     1 AM               0         2           0       3             5        5         2         4        0                11             16
+     2 AM               1         1           0       0             2        6         1         7        3                17             19
+     3 AM               0         0           2       0             2        6         2         3        2                13             15
+     4 AM               2         2           0       0             4        0         6         6        10               22             26
+     5 AM               0         3           1       5             9        8         6         6        5                25             34
+     6 AM               3         6           2       3            14       10        14        15        12               51             65
+     7 AM               2         0           9       1            12       13        18        20        19               70             82
+     8 AM               8         1           4       2            15       15        24        18        16               73             88
+     9 AM               7         6          15       10           38       33        29        22        22              106            144
+     10 AM              10        4           2       6            22       22        27        17        23               89            111
+     11 AM              4         9           0       3            16       27        14        17        33               91            107
+     12 NN              15        11          6       7            39       42        46        33        22              143            182
+     1 PM               10        8           8       12           38       19        25        14        34               92            130
+     2 PM               11        8           5       10           34       14        14        14        15               57             91
+     3 PM               8         4          10       4            26       20        24        17        26               87            113
+     4 PM               11        3          17       11           42       37        35        33        28              133            175
+     5 PM               23        10          5       9            47       31        26        24        42              123            170
+     6 PM               15        5           6       6            32       34        29        31        28              122            154
+     7 PM               8         11          3       1            23       27        22        25        9                83            106
+     8 PM               7         2           8       8            25       25        18        28        10               81            106
+     9 PM               3         9           4       5            21       20        19        18        15               72             93
+     10 PM              0         7           6       4            17       19        26        23        8                76             93
+     11 PM              0         0           5       0             5        7         4         7        3                21             26
+
+ FIRST 12-HOURS PEAK QUARTER COUNT                         15     9 AM      3RD                                33     9 AM               1ST
+ LAST 12-HOURS PEAK QUARTER COUNT                          23     5 PM      1ST                                46     12 NN              2ND
+ 24 HOUR VEHICLES TOTAL                                            488                                                1667              2155
+ TOTAL VEHICLES STANDARD DEVIATION (STD)               [+,-]      13.93                                    [+,-]      40.07             52.92
+
+
+                                                                PEAK HOURS VOLUME
+                       NORTH / WEST BOUND                            SOUTH / EAST BOUND                        BOTH DIRECTIONS
+
+                       PEAK                 VOLUME                 PEAK             VOLUME               PEAK                           VOLUME
+                       HOUR                VEHICLES               HOUR              VEHICLES             HOUR                           VEHICLES
+
+  FIRST 12H PEAK       9 AM                  38                   9 AM               106                 106                             144
+  LAST 12H PEAK        5 PM                  47                   12 NN              143                 143                             190
+FIRST 12H PEAK STD               [+,-]     38.00                            [+,-]    4.72                                               42.72
+LAST 12H PEAK STD                [+,-]      6.76                            [+,-]    9.23                                               15.99
+                                                                                                       PROGRAM BY LADOT
+

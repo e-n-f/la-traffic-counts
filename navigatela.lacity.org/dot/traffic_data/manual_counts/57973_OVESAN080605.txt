@@ -1,0 +1,306 @@
+                                                 TRAFFIC COUNT SUMMARY
+                                                                                                                             City of Los Angeles
+STREET:                                                                                                                Department of Transportation
+North/South           OVERLAND AVENUE
+
+East/West             NATIONAL BOULEVARD/10 FWY. WESTBOUND RAMPS
+
+Day:     AM    THURSDAY              Date:       JUNE 5, 2008                 Weather:         CLEAR
+         PM    THURSDAY                          JUNE 5, 2008
+Hours:         7-9 AM 4-6 PM
+
+School Day:           YES            District:           LOS ANGELES
+
+
+                        N/B                        S/B                          E/B                          W/B
+DUAL-
+WHEELED                 N/A                        N/A                          N/A                          N/A
+BIKES                   N/A                        N/A                          N/A                          N/A
+BUSES                   N/A                        N/A                          N/A                          N/A
+
+
+                        N/B TIME                   S/B TIME                     E/B TIME                     W/B     TIME
+
+AM PK 15 MIN            509 7:30                   368 8:15                     220 8:30                     241      8:30
+
+PM PK 15 MIN            363 5:00                   686 5:45                     176 5:30                     334      4:15
+
+AM PK HOUR             2,001 7:30                 1,434 7:45                    804 8:00                     871      8:00
+
+PM PK HOUR             1,415 4:30                 2,475 5:00                    653 5:00                    1,281     4:00
+
+
+
+NORTHBOUND Approach                                      SOUTHBOUND Approach                                        TOTAL       XING S/L       XING N/L
+
+Hours           Lt     Th      Rt    Total               Hours      Lt          Th       Rt       Total              N-S        Ped   Sch     Ped     Sch
+7-8              43      937 882       1,862             7-8         431         676      54        1,161            3,023      N/A   N/A     N/A     N/A
+8-9              35    1,044 900       1,979             8-9         470         860      84        1,414            3,393      N/A   N/A     N/A     N/A
+4-5              67      683 583       1,333             4-5         570       1,502     154        2,226            3,559      N/A   N/A     N/A     N/A
+5-6              58      775 568       1,401             5-6         727       1,655      93        2,475            3,876      N/A   N/A     N/A     N/A
+TOTAL           203    3,439 2,933     6,575             TOTAL     2,198       4,693     385        7,276           13,851      N/A   N/A     N/A     N/A
+
+
+EASTBOUND Approach                                       WESTBOUND Approach                                         TOTAL       XING W/L       XING E/L
+
+Hours           Lt     Th     Rt     Total               Hours         Lt       Th     Rt         Total              E-W        Ped   Sch     Ped     Sch
+7-8             177     157 325          659             7-8             80      279 408              767            1,426      N/A   N/A     N/A     N/A
+8-9             285     140 379          804             8-9             94      277 500              871            1,675      N/A   N/A     N/A     N/A
+4-5             178      91 352          621             4-5            189      384 708            1,281            1,902      N/A   N/A     N/A     N/A
+5-6             181     121 351          653             5-6            159      411 543            1,113            1,766      N/A   N/A     N/A     N/A
+TOTAL           821     509 1,407      2,737             TOTAL          522    1,351 2,159          4,032            6,769      N/A   N/A     N/A     N/A
+                                               City Traffic Counters
+                                                   626.256.4171
+                                                                                               File Name         : OverNat10WB
+                                                                                               Site Code         : 00000000
+                                                                                               Start Date        : 6/5/2008
+                                                                                               Page No           :1
+                                              Groups Printed- 1 - 1 - Unshifted
+                   Overland Ave           10 WB Ramps                     Overland Ave               National Blvd
+                    Southbound               Westbound                      Northbound                Eastbound
+ Start Time     Left    Thru    Right   Left     Thru     Right        Left      Thru  Right     Left     Thru     Right   Int. Total
+     Factor      1.0      1.0     1.0   1.0        1.0       1.0       1.0         1.0   1.0      1.0       1.0      1.0
+ 07:00 AM        71      104        7    23        69       102         11        202   172       20         31      70         882
+ 07:15 AM       110      169      17     17        66        94         14        220   229       32         31      78        1077
+ 07:30 AM       131      180      12     19        73       105         10        261   238       61         51      95        1236
+ 07:45 AM       119      223      18     21        71       107          8        254   243       64         44      82        1254
+       Total    431      676      54     80       279       408         43        937   882      177       157      325        4449
+
+ 08:00 AM       123     226       16     22       56        97         9      247       233       52       38        91        1210
+ 08:15 AM       122     218       28     26       67       123         7      243       248       69       35       104        1290
+ 08:30 AM       106     206       29     24       73       144        10      260       232       91       36        93        1304
+ 08:45 AM       119     210       11     22       81       136         9      294       187       73       31        91        1264
+     Total      470     860       84     94      277       500        35     1044       900      285      140       379        5068
+
+
+
+ 04:00 PM       124     340       25     61       98       170        14      164       145       50       23        92        1306
+ 04:15 PM       150     383       51     39       98       197        12      157       150       43       22        84        1386
+ 04:30 PM       138     376       48     34       93       171        19      172       162       43       23        89        1368
+ 04:45 PM       158     403       30     55       95       170        22      190       126       42       23        87        1401
+     Total      570    1502      154    189      384       708        67      683       583      178       91       352        5461
+
+ 05:00 PM       129     420       24     34      101       122        16      202       145       44       28        80        1345
+ 05:15 PM       170     410       27     30       96       152        16      186       159       46       35        90        1417
+ 05:30 PM       206     384       19     38      113       136        14      181       125       45       34        97        1392
+ 05:45 PM       222     441       23     57      101       133        12      206       139       46       24        84        1488
+     Total      727    1655       93    159      411       543        58      775       568      181      121       351        5642
+
+Grand Total    2198    4693      385    522     1351     2159       203      3439     2933      821       509      1407      20620
+ Apprch %       30.2    64.5      5.3   12.9     33.5     53.5       3.1      52.3     44.6     30.0      18.6      51.4
+   Total %      10.7    22.8      1.9    2.5      6.6     10.5       1.0      16.7     14.2      4.0       2.5       6.8
+                                                                  City Traffic Counters
+                                                                      626.256.4171
+                                                                                                                         File Name                            : OverNat10WB
+                                                                                                                         Site Code                            : 00000000
+                                                                                                                         Start Date                           : 6/5/2008
+                                                                                                                         Page No                              :2
+
+                       Overland Ave                           10 WB Ramps                         Overland Ave                          National Blvd
+                       Southbound                              Westbound                           Northbound                            Eastbound
+                                     App.                                      App.                              App.                                               App.     Int.
+   Start Time   Left    Thru Right           Left Thru Right                               Left   Thru Right              Left          Thru Right
+                                    Total                                      Total                             Total                                              Total   Total
+Peak Hour From 07:00 AM to 12:30 PM - Peak 1 of 1
+  Intersection 08:00 AM
+      Volume     470    860   84    1414      94   277  500                     871        35     1044    900    1979    285            140              379         804    5068
+      Percent 33.2 60.8       5.9           10.8 31.8 57.4                                 1.8     52.8   45.5           35.4           17.4             47.1
+        08:30
+                 106    206   29      341     24    73  144                     241         10     260    232     502      91             36                   93    220    1304
+      Volume
+ Peak Factor                                                                                                                                                                0.972
+      High Int. 08:15 AM                   08:30 AM                                 08:30 AM                           08:30 AM
+      Volume     122    218   28      368     24    73  144                     241   10    260           232      502   91     36                             93     220
+ Peak Factor                       0.961                                      0.904                              0.986                                              0.914
+
+                                                                              Overland Ave
+                                                                       Out         In      Total
+                                                                       1829        1414     3243
+
+
+                                                                           84   860         470
+                                                                        Right Thru         Left
+                                         1200
+                                         Total
+
+
+
+
+                                                                                                                                           1510
+                                                                                                                                           Out
+                                                  285
+
+
+
+
+                                                                                                                           Right Thru
+                                                 Left
+
+
+
+
+                                                                                                                             500
+                                                                                 North
+
+
+                                                                                                                                               10 WB Ramps
+                           National Blvd
+
+                                  804
+
+
+                                                        140
+                                                 Right Thru
+                                 In
+
+
+
+
+                                                                                                                                                    In
+                                                                     6/5/2008 8:00:00 AM
+                                                                                                                                  277
+
+
+                                                                                                                                                    871
+
+                                                                     6/5/2008 8:45:00 AM
+                                                   379
+
+
+
+
+                                                                                                                           Left
+                        396
+
+
+
+
+                                                                     1 - 1 - Unshifted
+                       Out
+
+
+
+
+                                                                                                                                                           Total
+                                                                                                                             94
+
+
+                                                                                                                                                           2381
+
+
+
+
+                                                                         Left  Thru Right
+                                                                            35 1044   900
+
+
+                                                                       1333        1979     3312
+                                                                       Out         In      Total
+                                                                              Overland Ave
+                                                                  City Traffic Counters
+                                                                      626.256.4171
+                                                                                                                         File Name                            : OverNat10WB
+                                                                                                                         Site Code                            : 00000000
+                                                                                                                         Start Date                           : 6/5/2008
+                                                                                                                         Page No                              :3
+                       Overland Ave                           10 WB Ramps                         Overland Ave                          National Blvd
+                       Southbound                              Westbound                           Northbound                            Eastbound
+                                     App.                                      App.                              App.                                               App.     Int.
+   Start Time   Left    Thru Right           Left Thru Right                               Left   Thru Right              Left          Thru Right
+                                    Total                                      Total                             Total                                              Total   Total
+Peak Hour From 12:45 PM to 05:45 PM - Peak 1 of 1
+  Intersection 05:00 PM
+      Volume     727 1655     93    2475    159    411  543                    1113        58      775    568    1401    181            121              351         653    5642
+      Percent 29.4 66.9       3.8           14.3 36.9 48.8                                 4.1     55.3   40.5           27.7           18.5             53.8
+        05:45
+                 222    441   23      686     57   101  133                     291         12     206    139     357      46             24                   84    154    1488
+      Volume
+ Peak Factor                                                                                                                                                                0.948
+      High Int. 05:45 PM                   05:45 PM                                 05:00 PM                           05:30 PM
+      Volume     222    441   23      686     57   101  133                     291   16    202           145      363   45     34                             97     176
+ Peak Factor                       0.902                                      0.956                              0.965                                              0.928
+
+                                                                              Overland Ave
+                                                                       Out         In      Total
+                                                                       1499        2475     3974
+
+
+                                                                           93 1655          727
+                                                                        Right Thru         Left
+                                         1215
+                                         Total
+
+
+
+
+                                                                                                                                           1416
+                                                                                                                                           Out
+                                                  181
+
+
+
+
+                                                                                                                           Right Thru
+                                                 Left
+
+
+
+
+                                                                                 North                                       543
+
+
+
+
+                                                                                                                                               10 WB Ramps
+                           National Blvd
+
+                                  653
+
+
+                                                        121
+                                                 Right Thru
+                                 In
+
+
+
+
+                                                                                                                                                   1113
+                                                                                                                                                    In
+                                                                     6/5/2008 5:00:00 PM
+                                                                                                                                  411
+
+
+
+                                                                     6/5/2008 5:45:00 PM
+                                                   351
+
+
+
+
+                                                                                                                           Left
+                        562
+
+
+
+
+                                                                     1 - 1 - Unshifted
+                                                                                                                            159
+                       Out
+
+
+
+
+                                                                                                                                                           Total
+                                                                                                                                                           2529
+
+
+
+
+                                                                         Left  Thru Right
+                                                                            58   775  568
+
+
+                                                                       2165        1401     3566
+                                                                       Out         In      Total
+                                                                              Overland Ave
+

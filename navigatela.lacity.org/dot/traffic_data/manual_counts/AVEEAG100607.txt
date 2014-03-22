@@ -1,0 +1,61 @@
+                     City Of Los Angeles
+                     Department Of Transportation
+                     MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South          EAGLE ROCK BL
+
+East/West            AVE 41
+
+Day:             MONDAY                  Date:          June 7, 2010                   Weather:          SUNNY
+
+Hours:      7-10AM 3-6PM                                            Chekrs:            LEE
+
+School Day:          YES                 District:          CENTRAL                      I/S CODE 44458
+
+
+                       N/B                           S/B                                 E/B                     W/B
+DUAL-
+WHEELED                250                           186                                     1                     0
+BIKES                   28                            23                                     2                     0
+BUSES                   44                            33                                     0                     0
+
+
+                       N/B TIME                      S/B TIME                            E/B TIME                W/B TIME
+
+AM PK 15 MIN           397      7.45                 516     7.45                         21      7.15             0    7.00
+
+PM PK 15 MIN           731      5.30                  446    5.45                         11      3.00             0    3.00
+
+AM PK HOUR            1385      7.30                 1903    7.15                         54      7.15             0    7.00
+
+PM PK HOUR            2860      5.00                 1601    5.00                         31      4.15             0    3.00
+
+
+
+NORTHBOUND Approach                                         SOUTHBOUND Approach                                        TOTAL   XING S/L    XING N/L
+
+Hours         Lt      Th        Rt       Total              Hours             Lt        Th        Rt Total              N-S     Ped Sch     Ped   Sch
+7-8            34     1173           0     1207             7-8                    0    1743       15 1758              2965      0   0       4     4
+8-9            49     1106           0     1155             8-9                    0    1559        5 1564              2719      0   0      11     0
+9-10           56     1077           0     1133             9-10                   0     916       11   927             2060      0   0      10     0
+3-4            92     2329           0     2421             3-4                    0    1259       17 1276              3697      1   0      14     0
+4-5           128     2373           0     2501             4-5                    0    1506       15 1521              4022      1   0       9     0
+5-6           128     2732           0     2860             5-6                    0    1582       19 1601              4461      0   0      13     0
+
+TOTAL         487 10790              0 11277                TOTAL                  0 8565          82     8647         19924      2    0     61    4
+
+
+EASTBOUND Approach                                          WESTBOUND Approach                                         TOTAL   XING W/L    XING E/L
+                               AVE 41                                                            NONE
+Hours         Lt      Th        Rt Total                    Hours             Lt        Th        Rt Total             E-W      Ped Sch     Ped   Sch
+7-8            12          0     40     52                  7-8                    0         0      0        0            52      6   4       0     0
+8-9              0         0     30     30                  8-9                    0         0      0        0            30      9   0       0     0
+9-10             1         0     15     16                  9-10                   0         0      0        0            16     12   0       0     0
+3-4              3         0     25     28                  3-4                    0         0      0        0            28      9   0       0     0
+4-5              4         0     24     28                  4-5                    0         0      0        0            28     15   7       0     0
+5-6              7         0     19     26                  5-6                    0         0      0        0            26     10   4       0     0
+
+TOTAL          27          0     153         180            TOTAL                  0         0      0        0           180     61   15      0    0
+
+            (Rev Oct 06)
+

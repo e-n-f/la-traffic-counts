@@ -1,0 +1,52 @@
+WILTEC                                                                                                                                     Phone: (626) 564-1944     Fax: (626) 564-0969
+INTERSECTION TURNING MOVEMENT COUNT SUMMARY
+
+CLIENT:                            FEHR AND PEERS/ ARUP
+PROJECT:                           DOWNTOWN LOS ANGELES TRAFFIC COUNTS
+DATE:                              WEDNESDAY APRIL 1, 2009
+PERIODS:                           7:00 AM TO 9:00 AM AND        4:00 PM TO 6:00 PM
+INTERSECTION:          N/S         NORTH SAN FERNANDO ROAD
+                       E/W         NORTH BROADWAY
+CITY:                              LOS ANGELES
+
+15 MIN COUNTS                                              7:00 AM TO 9:00 AM
+                   1          2         3      4      5           6        7       8      9     10     11     12
+PERIOD          SBRT    SBTH         SBLT   WBRT   WBTH      WBLT     NBRT      NBTH   NBLT   EBRT   EBTH   EBLT   TOTAL      AM PEAK HOUR
+700-715           24         14        13     29    318           8      14       22      5      5    116     13     581         730-830                                    140
+715-730           26         32        22     29    355          13      15       23      4      2    149     15     685
+730-745           23         47        27     39    415          15      23       44      5      4    175     18     835                   104       136   96               1725
+745-800           21         38        22     40    479          29      25       58      3      4    156      9     884
+800-815           29         26        19     40    416          24      26       38     12      1    170     15     816                                                    83
+815-830           31         25        28     21    415          15      19       39      6      5    158     19     781
+830-845           24         21        19     30    460           8      20       25     10      3    118     18     756
+845-900           36         20        20     27    373           7      18       36     19      3    154     25     738                        61
+HOUR TOTALS
+                   1          2         3      4      5           6        7       8      9     10     11     12           NORTH BROADWAY 659                   26    179        93
+TIME            SBRT    SBTH         SBLT   WBRT   WBTH      WBLT     NBRT      NBTH   NBLT   EBRT   EBTH   EBLT   TOTAL
+700-800           94         131       84    137    1567         65      77      147     17     15    596     55    2985                        14
+715-815           99         143       90    148    1665         81      89      163     24     11    650     57    3220                                             NORTH SAN FERNANDO ROAD
+730-830          104         136       96    140    1725         83      93      179     26     14    659     61    3316
+745-845          105         110       88    131    1770         76      90      160     31     13    602     61    3237
+800-900          120         92        86    118    1664         54      83      138     47     12    600     77    3091
+
+
+15 MIN COUNTS                                              4:00 PM TO 6:00 PM
+                   1          2         3      4      5           6        7       8      9     10     11     12
+PERIOD          SBRT    SBTH         SBLT   WBRT   WBTH      WBLT     NBRT      NBTH   NBLT   EBRT   EBTH   EBLT   TOTAL      PM PEAK HOUR
+400-415           14         17        38     29    139          12      17       41      8      2    327     45     689         500-600                                    189
+415-430           17         18        26     27    134           8      14       31      0      3    335     35     648
+430-445           14         21        26     35    122           8      21       42      5      3    325     43     665                   54        110   96               555
+445-500            5         41        28     39    140           5      16       49      5      5    340     37     710
+500-515           16         33        27     42    148          12      18       44      6     10    398     61     815                                                    47
+515-530           14         25        17     40    137          10      24       47      4      4    379     33     734
+530-545           14         30        20     48    142          12      20       48      3      4    365     37     743
+545-600           10         22        32     59    128          13      25       50      4      2    371     47     763                     178
+HOUR TOTALS
+                   1          2         3      4      5           6        7       8      9     10     11     12           NORTH BROADWAY1513                   17    189        87
+TIME            SBRT    SBTH         SBLT   WBRT   WBTH      WBLT     NBRT      NBTH   NBLT   EBRT   EBTH   EBLT   TOTAL
+400-500           50         97       118    130    535          33      68      163     18     13   1327    160    2712                        20
+415-515           52         113      107    143    544          33      69      166     16     21   1398    176    2838                                             NORTH SAN FERNANDO ROAD
+430-530           49         120       98    156    547          35      79      182     20     22   1442    174    2924
+445-545           49         129       92    169    567          39      78      188     18     23   1482    168    3002
+500-600           54         110       96    189    555          47      87      189     17     20   1513    178    3055
+

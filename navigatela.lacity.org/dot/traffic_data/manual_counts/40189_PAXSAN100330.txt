@@ -1,0 +1,128 @@
+·                          Intersection Turning Movement
+
+·                                                         Prepared by:
+                                   National Data &. Surveying Services
+
+
+·
+..    N-S STREET:
+
+      E-W STREET:
+                    San Fernando Rd
+
+                    Paxton St
+                                                        DATE: 3/30/2010
+
+                                                         DAY: TUESDAY
+                                                                                        LOCATION: City of Pacoima
+
+                                                                                        PROJECf#      10-5131-003
+
+
+
+
+..                    NL
+                           NORTHBOUND
+
+                                 NT     NR       SL
+                                                      SOUTHBOUND
+
+                                                         ST      SR      EL
+                                                                              EASTBOUND
+
+                                                                                 ET     ER    WL
+                                                                                                   WESTBOUND
+
+                                                                                                     WT     WR      TOTAL
+
+
+
+
+·
+         LANES:        1          2      1       1        2       1       1       2      1     1      2      0
+
+         6:00 AM
+         6:15 AM
+
+
+
+
+·
+         6:30 AM
+         6:45 AM
+         7:00 AM       6         140   82     18         101    28        7      54    26     19     52      44      577
+         7:15 AM       5         143   85     13         114    17       19     61     30     21     72      53      633
+
+
+
+
+·
+         7:30 AM       6         169   95 ·   22         115    27       22     89     37     12     81      5~      729
+         7:45 AM       7         221   111    14         94     30       15     79     32     21     70      46      740
+         8:00 AM       5         185   82     16         101    34       12     82     31     17     71      61      697
+         8:15 AM       5         154   84                112    25       16     59     28     23             41      634
+
+
+
+·
+                                              15                                                     72
+         8:30 AM       2         192   85     16         114    24       22     54     20     23     67      60      679
+         8:45AM        4         212   73     15         95     28       18     69     47     33     48      54      696
+         9:00 AM
+
+
+
+
+·
+         9:15 AM
+         9:30 AM
+
+         9:45AM
+
+        10:00 AM
+        10:15 AM
+
+II      10:30 AM
+        10:45 AM
+        11:00 AM
+        11:15 AM
+
+II      11:30 AM
+        11:45 AM
+
+      TOTAL           NL         NT    NR     SL         ST     SR    EL        ET     ER    WL      WT     WR      TOTAL
+II    VOLUMES =       40     1416      697    129        846    213   131       547    251   169     533    413      5385
+
+
+
+II           AM Peak Hr Be9ins at:      730 AM
+
+      PEAK
+
+I     VOLUMES =
+
+      PEAK HR.
+
+                      23     729       372    67        422     116   6S       309     128   73      294    202     2800
+
+
+
+
+·
+II
+
+      FACfOR:
+
+
+      CONTROL:
+                             0.829
+
+                    Signalized
+                                                        0.922                  0.848                0.955           0.946
+
+
+
+
+II
+
+

@@ -1,0 +1,122 @@
+                    HIRSCH/GREEN TRANSPORTATION CONSULTING, INC.
+                  INTERSECTION TURNING MOVEMENT VOLUME SUMMARY
+
+PROJECT:        WESTSIDE MEDICAL                  INT. NO.:     40
+                                                  N/S STREET:   SAWTELLE BLVD
+                                                  E/W STREET:   TENNESSEE AVE/I-405 SB OFF RAMP
+
+PEAK PERIOD: AM PEAK HOUR                         DATE: THU 3/2/06
+     TIME       NORTHBOUND          SOUTHBOUND        EASTBOUND        WESTBOUND
+ BEGINNING     LT THRU RT          LT THRU RT      LT THRU RT        LT THRU RT        TOTAL
+   7:00 - 7:15 20   107   0         0   64   1      0     0     4    75    21   88      380
+   7:15 - 7:30 15   140   0         0   72   4      1     0     7    62    20  101      422
+   7:30 - 7:45 28   184   0         0   118  4      6     0     7    88    27  111      573
+   7:45 - 8:00 38   161   0         0   126  4      5     0     5    110   35  112      596
+   8:00 - 8:15 30   168   0         0   128  7      3     0     5    102   36  113      592
+   8:15 - 8:30 33   177   0         0   116  6      4     0    14    82    40  131      603
+   8:30 - 8:45 29   197   0         0   109  6     15     0    14    99    34  128      631
+   8:45 - 9:00 36   187   0         0   161  7     12     0    18    82    47  143      693
+   9:00 - 9:15 27   183   0         0   130  8      8     0    21    74    30  115      596
+   9:15 - 9:30 23   139   0         0   116  2     10     0    13    82    29  135      549
+   9:30 - 9:45 29   166   0         0   167  7      8     0    21    70    31  122      621
+  9:45 - 10:00 38   157   0         0   147  5      8     0    19    68    16  121      579
+   HOUR           NORTHBOUND        SOUTHBOUND       EASTBOUND         WESTBOUND
+ BEGINNING       LT THRU RT        LT THRU RT      LT THRU RT        LT THRU RT        TOTAL
+  7:00 - 8:00    101  592  0        0   380  13    12    0    23     335  103  412     1,971
+  7:15 - 8:15    111  653  0        0   444  19    15    0    24     362  118  437     2,183
+  7:30 - 8:30    129  690  0        0   488  21    18    0    31     382  138  467     2,364
+  7:45 - 8:45    130  703  0        0   479  23    27    0    38     393  145  484     2,422
+  8:00 - 9:00    128  729  0        0   514  26    34    0    51     365  157  515     2,519
+  8:15 - 9:15    125  744  0        0   516  27    39    0    67     337  151  517     2,523 *
+  8:30 - 9:30    115  706  0        0   516  23    45    0    66     337  140  521     2,469
+  8:45 - 9:45    115  675  0        0   574  24    38    0    73     308  137  515     2,459
+ 9:00 - 10:00    117  645  0        0   560  22    34    0    74     294  106  493     2,345
+
+
+PEAK PERIOD: PM PEAK HOUR                         DATE: THU 3/2/06
+    TIME       NORTHBOUND           SOUTHBOUND       EASTBOUND         WESTBOUND
+ BEGINNING    LT THRU RT           LT THRU RT      LT THRU RT         LT THRU RT       TOTAL
+  3:00 - 3:15 21    125   0         0   244  14    40    0    43      61   6    32      586
+  3:15 - 3:30 12    165   0         0   257  4     30    1    53      64   6    26      618
+  3:30 - 3:45 12    124   0         0   262  6     38    0    73      62   12   20      609
+  3:45 - 4:00 20    116   0         0   293  4     44    1    54      87   11   24      654
+  4:00 - 4:15 20    124   0         0   252  11    43    0    44      65   20   21      600
+  4:15 - 4:30 18    115   0         0   258  7     34    0    62      62   9    33      598
+  4:30 - 4:45 25    131   0         0   258  8     40    0    62      59   6    9       598
+  4:45 - 5:00 17    145   0         0   261  4     37    0    58      48   8    13      591
+  5:00 - 5:15  8    149   0         0   243  5     47    0    52      68   10   21      603
+  5:15 - 5:30 12    116   0         0   267  5     50    0    48      84   13   24      619
+  5:30 - 5:45 12    143   0         0   270  6     48    0    46      86   9    24      644
+  5:45 - 6:00 13    130   0         0   254  8     47    0    42      83   10   29      616
+   HOUR           NORTHBOUND        SOUTHBOUND       EASTBOUND         WESTBOUND
+ BEGINNING       LT THRU RT        LT THRU RT      LT THRU RT        LT THRU RT        TOTAL
+  3:00 - 4:00    65   530  0        0  1,056 28    152   2   223     274   35  102     2,467
+  3:15 - 4:15    64   529  0        0  1,064 25    155   2   224     278   49   91     2,481
+  3:30 - 4:30    70   479  0        0  1,065 28    159   1   233     276   52   98     2,461
+  3:45 - 4:45    83   486  0        0  1,061 30    161   1   222     273   46   87     2,450
+  4:00 - 5:00    80   515  0        0  1,029 30    154   0   226     234   43   76     2,387
+  4:15 - 5:15    68   540  0        0  1,020 24    158   0   234     237   33   76     2,390
+  4:30 - 5:30    62   541  0        0  1,029 22    174   0   220     259   37   67     2,411
+  4:45 - 5:45    49   553  0        0  1,041 20    182   0   204     286   40   82     2,457
+  5:00 - 6:00    45   538  0        0  1,034 24    192   0   188     321   42   98     2,482 *
+                                                                                                                         ACCUTEK TRAFFIC DATA, INC.
+                                                                                                                               FILENAME: 356540.xls
+
+
+
+                                                                  TRAFFIC COUNT SUMMARY
+INTERSECTION:
+North/South SAWTELLE BLVD
+East/West           TENNESSEE AVE/I-405 SB OFF RAMP
+
+Day:     THU                          Date:       3/2/06                   Weather:          CLEAR
+
+Hours: 7-10 AM 3-6 PM
+
+School Day:         YES               District:            LOS ANGELES
+
+
+                      N/B                            S/B                      E/B                     W/B
+DUAL-                   0                              0                        0                       0
+WHEELED                 0                              0                        0                       0
+BIKES                   0                              0                        0                       0
+BUSES                   0                              0                        0                       0
+
+
+                      N/B      TIME                  S/B    TIME              E/B     TIME            W/B     TIME
+
+AM PK 15 MIN          226      8:30                  174     9:30              30     8:45            272      8:45
+
+PM PK 15 MIN          177      3:15                  297     3:45             111     3:30            122      3:45
+
+AM PK HOUR            869      8:15                  598     8:45             111     8:30            1037     8:00
+
+PM PK HOUR            608      4:15                 1093     3:30             394     4:30            461      5:00
+
+
+NORTHBOUND Approach                                        SOUTHBOUND Approach                               TOTAL    XING S/L           XING N/L
+
+ Hours         Lt         Th     Rt      Total              Hours     Lt       Th       Rt    Total            N-S      Ped      Sch        Ped       Sch
+7-8           101     592         0       693              7-8        0       380       13     393            1086         0       0          0         0
+8-9           128     729         0       857              8-9        0       514       26     540            1397         0       0          0         0
+9-10          117     645         0       762              9-10       0       560       22     582            1344         0       0          0         0
+3-4            65     530         0       595              3-4        0      1056       28    1084            1679         0       0          0         0
+4-5            80     515         0       595              4-5        0      1029       30    1059            1654         0       0          0         0
+5-6            45     538         0       583              5-6        0      1034       24    1058            1641         0       0          0         0
+
+
+TOTAL         536    3549         0      4085              TOTAL      0      4573      143    4716            8801         0       0          0         0
+
+EASTBOUND Approach                                         WESTBOUND Approach                                TOTAL    XING W/L           XING E/L
+
+ Hours         Lt         Th     Rt      Total              Hours     Lt       Th       Rt    Total            E-W      Ped      Sch        Ped       Sch
+7-8            12          0     23         35             7-8       335      103      412     850             885         0       0          0         0
+8-9            34          0     51         85             8-9       365      157      515    1037            1122         0       0          0         0
+9-10           34          0     74       108              9-10      294      106      493     893            1001         0       0          0         0
+3-4           152          2    223       377              3-4       274       35      102     411             788         0       0          0         0
+4-5           154          0    226       380              4-5       234       43       76     353             733         0       0          0         0
+5-6           192          0    188       380              5-6       321       42       98     461             841         0       0          0         0
+
+
+TOTAL         578          2    785      1365              TOTAL    1823      486     1696    4005            5370         0       0          0         0
+

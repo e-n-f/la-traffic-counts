@@ -1,0 +1,288 @@
+                                                    TRAFFIC COUNT SUMMARY
+                                                                                                                               City of Los Angeles
+STREET:                                                                                                                  Department of Transportation
+North/South            OVERLAND AVENUE
+
+East/West              PICO BOULEVARD
+
+Day:     AM    TUESDAY                  Date:       JUNE 3, 2008                 Weather:         CLEAR
+         PM    TUESDAY                              JUNE 3, 2008
+Hours:         7-9 AM 4-6 PM
+
+School Day:            YES              District:           LOS ANGELES
+
+
+                         N/B                          S/B                          E/B                          W/B
+DUAL-
+WHEELED                  N/A                          N/A                          N/A                          N/A
+BIKES                    N/A                          N/A                          N/A                          N/A
+BUSES                    N/A                          N/A                          N/A                          N/A
+
+
+                         N/B TIME                     S/B TIME                     E/B TIME                     W/B     TIME
+
+AM PK 15 MIN             382 8:00                     167 7:45                     488 8:45                     410      7:45
+
+PM PK 15 MIN             353 5:00                     239 5:30                     363 4:45                     558      5:15
+
+AM PK HOUR              1,485 7:45                    564 7:45                    1,632 8:00                   1,576     7:30
+
+PM PK HOUR              1,346 4:45                    755 4:00                    1,375 4:15                   2,186     5:00
+
+
+
+NORTHBOUND Approach                                         SOUTHBOUND Approach                                        TOTAL      XING S/L       XING N/L
+
+Hours            Lt     Th      Rt      Total               Hours         Lt       Th       Rt       Total              N-S       Ped   Sch     Ped     Sch
+7-8              206      439 557         1,202             7-8             19      440      10          469            1,671     N/A   N/A     N/A     N/A
+8-9              242      576 654         1,472             8-9             22      484      29          535            2,007     N/A   N/A     N/A     N/A
+4-5              348      517 434         1,299             4-5             66      658      31          755            2,054     N/A   N/A     N/A     N/A
+5-6              327      555 442         1,324             5-6             40      680      29          749            2,073     N/A   N/A     N/A     N/A
+TOTAL          1,123    2,087 2,087       5,297             TOTAL          147    2,262      99        2,508            7,805     N/A   N/A     N/A     N/A
+
+
+EASTBOUND Approach                                          WESTBOUND Approach                                         TOTAL      XING W/L       XING E/L
+
+Hours           Lt      Th      Rt      Total               Hours      Lt          Th       Rt       Total              E-W       Ped   Sch     Ped     Sch
+7-8              24       841    57         922             7-8         291       1,038      39        1,368            2,290     N/A   N/A     N/A     N/A
+8-9              80     1,456    96       1,632             8-9         374       1,096      36        1,506            3,138     N/A   N/A     N/A     N/A
+4-5              43     1,031   275       1,349             4-5         662       1,183      51        1,896            3,245     N/A   N/A     N/A     N/A
+5-6              35     1,054   253       1,342             5-6         768       1,381      37        2,186            3,528     N/A   N/A     N/A     N/A
+TOTAL           182     4,382   681       5,245             TOTAL     2,095       4,698     163        6,956           12,201     N/A   N/A     N/A     N/A
+                                               City Traffic Counters
+                                                   626.256.4171
+                                                                                                File Name       : OverPico
+                                                                                                Site Code       : 00000000
+                                                                                                Start Date      : 6/3/2008
+                                                                                                Page No         :1
+                                              Groups Printed- 1 - Unshifted
+                  Overland Ave               Pico Blvd                  Overland Ave              Pico Blvd
+                   Southbound                Westbound                   Northbound               Eastbound
+ Start Time    Left    Thru    Right    Left     Thru    Right      Left      Thru   Right   Left     Thru    Right   Int. Total
+     Factor    1.0       1.0     1.0     1.0       1.0     1.0       1.0        1.0    1.0   1.0        1.0     1.0
+ 07:00 AM        3       67        2     58       164        8       31         92     92      5       134        6        662
+ 07:15 AM        6      117        5     70       255      11        53        125    123      2       160      10         937
+ 07:30 AM        2       99        1     89       289      14        52        111    173      5       236      19        1090
+ 07:45 AM        8      157        2     74       330        6       70        111    169     12       311      22        1272
+       Total    19      440      10     291     1038       39       206        439    557     24       841      57        3961
+
+ 08:00 AM        2      97       10     118      269        8       76       130      176     17     303        25        1231
+ 08:15 AM        9     137        7     106      261       12       62       141      172     15     360        27        1309
+ 08:30 AM        4     126        5      79      295        6       61       150      167     25     349        23        1290
+ 08:45 AM        7     124        7      71      271       10       43       155      139     23     444        21        1315
+     Total      22     484       29     374     1096       36      242       576      654     80    1456        96        5145
+
+
+
+ 04:00 PM       21     191       10     155      263        6       86       130      125     10     219        64        1280
+ 04:15 PM       12     160        7     151      323       11       74       113      107      8     255        78        1299
+ 04:30 PM       14     167        8     173      272       15       96       145       89     12     280        60        1331
+ 04:45 PM       19     140        6     183      325       19       92       129      113     13     277        73        1389
+     Total      66     658       31     662     1183       51      348       517      434     43    1031       275        5299
+
+ 05:00 PM       11     144        8     177      355        8       96       138      119      8     251        60        1375
+ 05:15 PM       10     156        9     206      342       10       75       139      102      5     264        68        1386
+ 05:30 PM       10     224        5     196      330       14       76       157      110     11     269        60        1462
+ 05:45 PM        9     156        7     189      354        5       80       121      111     11     270        65        1378
+     Total      40     680       29     768     1381       37      327       555      442     35    1054       253        5601
+
+Grand Total    147    2262       99    2095     4698      163     1123     2087      2087    182    4382      681       20006
+ Apprch %       5.9    90.2      3.9    30.1     67.5      2.3     21.2     39.4      39.4    3.5    83.5     13.0
+   Total %      0.7    11.3      0.5    10.5     23.5      0.8      5.6     10.4      10.4    0.9    21.9      3.4
+                                                     City Traffic Counters
+                                                         626.256.4171
+                                                                                                                      File Name           : OverPico
+                                                                                                                      Site Code           : 00000000
+                                                                                                                      Start Date          : 6/3/2008
+                                                                                                                      Page No             :2
+
+                       Overland Ave               Pico Blvd                         Overland Ave                           Pico Blvd
+                       Southbound                 Westbound                          Northbound                            Eastbound
+                                     App.                         App.                              App.                                  App.     Int.
+   Start Time   Left   Thru Right            Left Thru Right                Left    Thru Right              Left          Thru Right
+                                    Total                         Total                             Total                                 Total   Total
+Peak Hour From 07:00 AM to 12:30 PM - Peak 1 of 1
+  Intersection 08:00 AM
+      Volume      22    484   29      535   374 1096     36       1506      242       576    654    1472    80 1456                 96    1632    5145
+      Percent     4.1 90.5    5.4           24.8 72.8    2.4                16.4      39.1   44.4           4.9 89.2                5.9
+        08:45
+                    7   124     7     138     71   271   10        352       43       155    139     337     23           444       21     488    1315
+      Volume
+ Peak Factor                                                                                                                                      0.978
+      High Int. 08:15 AM                   08:00 AM                    08:00 AM                           08:45 AM
+      Volume        9   137     7     153   118    269     8       395   76    130           176      382   23    444               21      488
+ Peak Factor                       0.874                         0.953                              0.963                                 0.836
+
+                                                                 Overland Ave
+                                                          Out         In      Total
+                                                           692         535     1227
+
+
+                                                              29   484         22
+                                                           Right Thru       Left
+                          2999
+                          Total
+
+
+
+
+                                                                                                                            2132
+                                                                                                                            Out
+                                     80
+
+
+
+
+                                                                                                             Right Thru
+                                   Left
+
+
+
+
+                                                                    North
+                                                                                                                36 1096
+
+
+
+
+                                                                                                                            Pico Blvd
+                       Pico Blvd
+
+                           1632
+
+
+                                      96 1456
+                                   Right Thru
+                            In
+
+
+
+
+                                                                                                                               1506
+                                                                                                                                In
+                                                          6/3/2008 8:00:00 AM
+                                                          6/3/2008 8:45:00 AM
+                                                                                                             Left
+                          1367
+
+
+
+
+                                                          1 - Unshifted
+                                                                                                              374
+                          Out
+
+
+
+
+                                                                                                                            Total
+                                                                                                                            3638
+
+
+
+
+                                                               Left Thru Right
+                                                                242   576  654
+
+
+                                                           954        1472     2426
+                                                          Out         In      Total
+                                                                 Overland Ave
+                                                     City Traffic Counters
+                                                         626.256.4171
+                                                                                                                      File Name            : OverPico
+                                                                                                                      Site Code            : 00000000
+                                                                                                                      Start Date           : 6/3/2008
+                                                                                                                      Page No              :3
+                       Overland Ave               Pico Blvd                         Overland Ave                           Pico Blvd
+                       Southbound                 Westbound                          Northbound                            Eastbound
+                                     App.                         App.                              App.                                   App.     Int.
+   Start Time   Left   Thru Right            Left Thru Right                Left    Thru Right              Left          Thru Right
+                                    Total                         Total                             Total                                  Total   Total
+Peak Hour From 12:45 PM to 05:45 PM - Peak 1 of 1
+  Intersection 04:45 PM
+      Volume      50    664   28      742   762 1352     51       2165      339       563    444    1346    37 1061                 261    1359    5612
+      Percent     6.7 89.5    3.8           35.2 62.4    2.4                25.2      41.8   33.0           2.7 78.1                19.2
+        05:30
+                  10    224     5     239   196    330   14        540       76       157    110     343     11           269        60     340    1462
+      Volume
+ Peak Factor                                                                                                                                       0.960
+      High Int. 05:30 PM                   05:15 PM                    05:00 PM                           04:45 PM
+      Volume      10    224     5     239   206    342   10        558   96    138           119      353   13    277                73      363
+ Peak Factor                       0.776                         0.970                              0.953                                  0.936
+
+                                                                 Overland Ave
+                                                          Out         In      Total
+                                                           651         742     1393
+
+
+                                                              28   664         50
+                                                           Right Thru       Left
+                          3078
+                          Total
+
+
+
+
+                                                                                                                            1555
+                                                                                                                            Out
+                                     37
+
+
+
+
+                                                                                                             Right Thru
+                                   Left
+
+
+
+
+                                                                    North                                       51 1352
+
+
+
+
+                                                                                                                            Pico Blvd
+                       Pico Blvd
+
+                           1359
+
+
+                                     261 1061
+                                   Right Thru
+                            In
+
+
+
+
+                                                                                                                               2165
+                                                                                                                                In
+                                                          6/3/2008 4:45:00 PM
+                                                          6/3/2008 5:30:00 PM
+                                                                                                             Left
+                          1719
+
+
+
+
+                                                          1 - Unshifted
+                                                                                                              762
+                          Out
+
+
+
+
+                                                                                                                            Total
+                                                                                                                            3720
+
+
+
+
+                                                               Left Thru Right
+                                                                339   563  444
+
+
+                                                          1687        1346     3033
+                                                          Out         In      Total
+                                                                 Overland Ave
+

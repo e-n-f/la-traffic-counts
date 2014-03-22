@@ -1,0 +1,313 @@
+                                                    TRAFFIC COUNT SUMMARY
+                                                                                                                              City of Los Angeles
+STREET:                                                                                                                 Department of Transportation
+North/South           OVERLAND AVENUE
+
+East/West             COVENTRY PLACE
+
+Day:     AM    THURSDAY                 Date:       JUNE 5, 2008                 Weather:         CLEAR
+         PM    THURSDAY                             JUNE 5, 2008
+Hours:         7-9 AM 4-6 PM
+
+School Day:           YES               District:           LOS ANGELES
+
+
+                        N/B                           S/B                          E/B                         W/B
+DUAL-
+WHEELED                 N/A                           N/A                          N/A                         N/A
+BIKES                   N/A                           N/A                          N/A                         N/A
+BUSES                   N/A                           N/A                          N/A                         N/A
+
+
+                        N/B TIME                      S/B TIME                     E/B TIME                    W/B    TIME
+
+AM PK 15 MIN            507 8:45                      359 8:15                     101 7:45                     20     7:45
+
+PM PK 15 MIN            395 4:45                      638 5:45                      59 5:45                     12     4:30
+
+AM PK HOUR             1,793 8:00                    1,286 8:00                    334 7:15                     48     7:15
+
+PM PK HOUR             1,528 4:00                    2,236 5:00                    226 5:00                     33     4:30
+
+
+
+NORTHBOUND Approach                                         SOUTHBOUND Approach                                      TOTAL       XING S/L       XING N/L
+
+Hours           Lt     Th        Rt     Total               Hours         Lt       Th       Rt       Total            N-S        Ped   Sch     Ped     Sch
+7-8              45    1,356      24      1,425             7-8             1       938       9          948          2,373      N/A   N/A     N/A     N/A
+8-9              22    1,768        3     1,793             8-9             7     1,258      21        1,286          3,079      N/A   N/A     N/A     N/A
+4-5              63    1,451      14      1,528             4-5             8     1,963      23        1,994          3,522      N/A   N/A     N/A     N/A
+5-6              64    1,398      22      1,484             5-6             7     2,209      20        2,236          3,720      N/A   N/A     N/A     N/A
+TOTAL           194    5,973      63      6,230             TOTAL          23     6,368      73        6,464         12,694      N/A   N/A     N/A     N/A
+
+
+EASTBOUND Approach                                          WESTBOUND Approach                                       TOTAL       XING W/L       XING E/L
+
+Hours           Lt     Th        Rt     Total               Hours         Lt      Th        Rt       Total            E-W        Ped   Sch     Ped     Sch
+7-8              58          3   203        264             7-8             31       3        8           42            306      N/A   N/A     N/A     N/A
+8-9              78          3   131        212             8-9             11       1       11           23            235      N/A   N/A     N/A     N/A
+4-5              31          5   174        210             4-5             17       4        9           30            240      N/A   N/A     N/A     N/A
+5-6              33          3   190        226             5-6             19       3        8           30            256      N/A   N/A     N/A     N/A
+TOTAL           200         14   698        912             TOTAL           78      11       36         125           1,037      N/A   N/A     N/A     N/A
+                                              City Traffic Counters
+                                                  626.256.4171
+                                                                                             File Name      : OverDunCoven
+                                                                                             Site Code      : 00000000
+                                                                                             Start Date     : 6/5/2008
+                                                                                             Page No        :1
+                                              Groups Printed- 1 - Unshifted
+                  Overland Ave              Dunleer Pl                  Overland Ave                Coventry Pl
+                   Southbound               Westbound                    Northbound                 Eastbound
+ Start Time    Left    Thru    Right   Left     Thru     Right      Left      Thru   Right     Left     Thru      Right   Int. Total
+     Factor    1.0       1.0     1.0   1.0       1.0       1.0       1.0        1.0    1.0     1.0       1.0        1.0
+ 07:00 AM        0      157        0     2         0         1       10        308       2       2          0       18         500
+ 07:15 AM        1      234        1     3         2         2         8       326       3       2          1       54         637
+ 07:30 AM        0      269        5     9         1         2       16        341       9      24          2       60         738
+ 07:45 AM        0      278        3    17         0         3       11        381     10       30          0       71         804
+       Total     1      938        9    31         3         8       45      1356      24       58          3      203        2679
+
+ 08:00 AM        1     291        5      3        0         6        5      376         1       23         3        64         778
+ 08:15 AM        1     349        9      5        0         0       10      414         1       13         0        18         820
+ 08:30 AM        3     312        6      1        0         3        4      475         0       15         0        25         844
+ 08:45 AM        2     306        1      2        1         2        3      503         1       27         0        24         872
+     Total       7    1258       21     11        1        11       22     1768         3       78         3       131        3314
+
+
+
+ 04:00 PM        3     433        5      2        1         3       13      364         1        9         1        34         869
+ 04:15 PM        1     528        3      2        1         1       18      359         3        6         2        48         972
+ 04:30 PM        3     492        4      8        1         3       16      354         5        8         0        44         938
+ 04:45 PM        1     510       11      5        1         2       16      374         5        8         2        48         983
+     Total       8    1963       23     17        4         9       63     1451        14       31         5       174        3762
+
+ 05:00 PM        1     499        3      5        0         1       15      335         7        8         0        50         924
+ 05:15 PM        1     549        3      6        0         1       22      362         6        7         0        47        1004
+ 05:30 PM        1     536        5      2        2         1       14      340         3        9         1        45         959
+ 05:45 PM        4     625        9      6        1         5       13      361         6        9         2        48        1089
+     Total       7    2209       20     19        3         8       64     1398        22       33         3       190        3976
+
+Grand Total    23     6368       73     78       11       36       194     5973       63       200       14       698       13731
+ Apprch %      0.4     98.5      1.1   62.4      8.8     28.8       3.1     95.9      1.0      21.9      1.5      76.5
+   Total %     0.2     46.4      0.5    0.6      0.1      0.3       1.4     43.5      0.5       1.5      0.1       5.1
+                                                          City Traffic Counters
+                                                              626.256.4171
+                                                                                                                    File Name                     : OverDunCoven
+                                                                                                                    Site Code                     : 00000000
+                                                                                                                    Start Date                    : 6/5/2008
+                                                                                                                    Page No                       :2
+
+                       Overland Ave                    Dunleer Pl                            Overland Ave                            Coventry Pl
+                       Southbound                      Westbound                              Northbound                             Eastbound
+                                     App.                              App.                                 App.                                           App.     Int.
+   Start Time   Left   Thru Right            Left Thru Right                      Left       Thru Right              Left            Thru Right
+                                    Total                              Total                                Total                                          Total   Total
+Peak Hour From 07:00 AM to 12:30 PM - Peak 1 of 1
+  Intersection 08:00 AM
+      Volume        7 1258    21    1286      11     1   11               23      22         1768      3    1793      78                3        131        212    3314
+      Percent     0.5 97.8    1.6           47.8   4.3 47.8                       1.2         98.6   0.2             36.8             1.4        61.8
+        08:45
+                    2   306     1     309      2     1    2                5         3        503     1      507      27               0              24     51     872
+      Volume
+ Peak Factor                                                                                                                                                       0.950
+      High Int. 08:15 AM                   08:00 AM                              08:45 AM                           08:00 AM
+      Volume        1   349     9     359      3     0    6               9          3   503          1       507     23     3                        64      90
+ Peak Factor                       0.896                              0.639                                 0.884                                          0.589
+
+                                                                      Overland Ave
+                                                               Out         In      Total
+                                                               1857        1286     3143
+
+
+                                                                   21 1258               7
+                                                                Right Thru        Left
+                             256
+                            Total
+
+
+
+
+                                                                                                                                       Out
+                                           78
+
+
+
+
+                                                                                                                       Right Thru
+
+
+
+                                                                                                                                        13
+                                         Left
+
+
+
+
+                                                                         North
+                                                                                                                          11
+                           Coventry Pl
+
+
+
+
+                                                                                                                                       Dunleer Pl
+                                212
+
+
+                                                   3
+                                         Right Thru
+                                In
+
+
+
+
+                                                                                                                                          In
+                                                               6/5/2008 8:00:00 AM
+                                                                                                                                            23
+
+                                                               6/5/2008 8:45:00 AM
+                                                                                                                                 1
+                                           131
+
+
+
+
+                                                                                                                       Left
+                        44
+
+
+
+
+                                                               1 - Unshifted
+                       Out
+
+
+
+
+                                                                                                                                                  Total
+                                                                                                                         11
+
+
+                                                                                                                                                     36
+
+
+
+
+                                                                    Left  Thru Right
+                                                                       22 1768     3
+
+
+                                                               1400        1793     3193
+                                                               Out         In      Total
+                                                                      Overland Ave
+                                                          City Traffic Counters
+                                                              626.256.4171
+                                                                                                                   File Name                     : OverDunCoven
+                                                                                                                   Site Code                     : 00000000
+                                                                                                                   Start Date                    : 6/5/2008
+                                                                                                                   Page No                       :3
+                       Overland Ave                    Dunleer Pl                           Overland Ave                            Coventry Pl
+                       Southbound                      Westbound                             Northbound                             Eastbound
+                                     App.                              App.                                App.                                           App.     Int.
+   Start Time   Left   Thru Right            Left Thru Right                     Left       Thru Right              Left            Thru Right
+                                    Total                              Total                               Total                                          Total   Total
+Peak Hour From 12:45 PM to 05:45 PM - Peak 1 of 1
+  Intersection 05:00 PM
+      Volume        7 2209    20    2236      19     3    8               30     64         1398    22     1484      33                3        190        226    3976
+      Percent     0.3 98.8    0.9           63.3 10.0 26.7                       4.3         94.2   1.5             14.6             1.3        84.1
+        05:45
+                    4   625     9     638      6     1    5               12      13         361     6      380         9             2              48     59    1089
+      Volume
+ Peak Factor                                                                                                                                                      0.913
+      High Int. 05:45 PM                   05:45 PM                         05:15 PM                             05:45 PM
+      Volume        4   625     9     638      6     1    5              12   22    362              6       390     9    2                          48      59
+ Peak Factor                       0.876                              0.625                                0.951                                          0.958
+
+                                                                      Overland Ave
+                                                               Out         In      Total
+                                                               1439        2236     3675
+
+
+                                                                   20 2209              7
+                                                                Right Thru       Left
+                             313
+                            Total
+
+
+
+
+                                                                                                                                      Out
+                                           33
+
+
+
+
+                                                                                                                      Right Thru
+
+
+
+                                                                                                                                       32
+                                         Left
+
+
+
+
+                                                                         North
+                           Coventry Pl
+
+
+
+
+                                                                                                                          8
+
+
+
+
+                                                                                                                                      Dunleer Pl
+                                226
+
+
+                                                   3
+                                         Right Thru
+                                In
+
+
+
+
+                                                                                                                                         In
+                                                               6/5/2008 5:00:00 PM                                                         30
+                                                               6/5/2008 5:45:00 PM
+                                                                                                                                3
+                                           190
+
+
+
+
+                                                                                                                      Left
+                        87
+
+
+
+
+                                                               1 - Unshifted
+                       Out
+
+
+
+
+                                                                                                                                                 Total
+                                                                                                                        19
+
+
+                                                                                                                                                    62
+
+
+
+
+                                                                    Left  Thru Right
+                                                                       64 1398    22
+
+
+                                                               2418        1484     3902
+                                                               Out         In      Total
+                                                                      Overland Ave
+

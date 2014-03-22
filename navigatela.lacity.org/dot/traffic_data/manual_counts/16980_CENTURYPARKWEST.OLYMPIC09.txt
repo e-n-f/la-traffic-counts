@@ -1,0 +1,61 @@
+                     City Of Los Angeles
+                     Department Of Transportation
+                     MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South          CENTURY PARK WEST
+
+East/West            OLYMPIC BL
+
+Day:           WEDNESDAY                Date:        February 18, 2009                Weather:          SUNNY
+
+Hours:      7-10AM 3-6PM                                           Chekrs:            LEE
+
+School Day:          YES                District:          WESTERN                      I/S CODE 16980
+
+
+                      N/B                           S/B                                 E/B                     W/B
+DUAL-
+WHEELED                    0                          40                                108                       80
+BIKES                      0                           3                                  1                        3
+BUSES                      0                          19                                 39                       30
+
+
+                      N/B TIME                       S/B TIME                           E/B TIME                W/B TIME
+
+AM PK 15 MIN               0   7.00                   56    9.45                        825      9.15            540    8.30
+
+PM PK 15 MIN               0   3.00                  422    5.30                        491      3.45            660    5.45
+
+AM PK HOUR                 0   7.00                  182    9.00                       2972      8.30           2092    8.00
+
+PM PK HOUR                 0   3.00                 1461    5.00                       1829      3.45           2497    5.00
+
+
+
+NORTHBOUND Approach                                        SOUTHBOUND Approach            TOTAL                                XING S/L   XING N/L
+                  NONE                                                  CENTURY PARK WEST
+Hours   Lt   Th    Rt Total                                Hours    Lt   Th    Rt Total    N-S                                  Ped Sch    Ped   Sch
+7-8        0    0    0                          0          7-8       25     0   77   102    102                                   0   0      9     1
+8-9        0    0    0                          0          8-9       32     0 107    139    139                                   0   0     17     0
+9-10       0    0    0                          0          9-10      46     0 136    182    182                                   0   0     16     0
+3-4        0    0    0                          0          3-4      162     0 507    669    669                                   0   0     12     1
+4-5        0    0    0                          0          4-5      204     0 594    798    798                                   0   0     70     0
+5-6        0    0    0                          0          5-6      266     0 1195 1461    1461                                   0   0     21     0
+
+TOTAL            0         0        0           0          TOTAL             735            0 2616       3351           3351      0   0    145    2
+
+
+EASTBOUND Approach                                         WESTBOUND Approach                                          TOTAL   XING W/L   XING E/L
+
+Hours         Lt      Th       Rt       Total              Hours             Lt        Th        Rt Total              E-W      Ped Sch    Ped   Sch
+7-8           296      961          0     1257             7-8                    0    1671       38 1709               2966     11   0      3     0
+8-9           684     2012          0     2696             8-9                    0    1998       94 2092               4788      1   0     10     0
+9-10          720     2045          0     2765             9-10                   0    1791      138 1929               4694      5   0     19     0
+3-4           250     1537          0     1787             3-4                    0    1891       62 1953               3740      8   0      8     0
+4-5           160     1627          0     1787             4-5                    0    2001       44 2045               3832     11   0     10     0
+5-6           151     1606          0     1757             5-6                    0    2448       49 2497               4254      7   0      8     0
+
+TOTAL         2261 9788             0 12049                TOTAL                  0 11800        425 12225             24274     43   0     58    0
+
+            (Rev Oct 06)
+

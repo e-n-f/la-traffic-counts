@@ -1,0 +1,105 @@
+                                    INTERSECTION TURNING MOVEMENT COUNTS
+                                                 PREPARED BY: PACIFIC TRAFFIC DATA SERVICES
+        DATE:          LOCATION:                   LOS ANGELES                                     PROJECT #:        CA10-1203-02
+       12/1/10         NORTH & SOUTH:              HILL                                            LOCATION #:       14
+      WEDNESDAY        EAST & WEST:                OLYMPIC                                         CONTROL:          SIGNAL
+     NOTES:                                                                                                  AM                 Y
+                                                                                                             PM                 N
+                                                                                                             MD       W                E
+                                                                                                            OTHER               S
+                                                                                                            OTHER               
+                              NORTHBOUND                   SOUTHBOUND                  EASTBOUND                   WESTBOUND                             U-TURNS
+                                  HILL                         HILL                      OLYMPIC                     OLYMPIC
+                         NL       NT       NR         SL        ST       SR      EL        ET        ER      WL        WT       WR     TOTAL   NB   SB     EB   WB   TTL
+              LANES:     1         2        0         1          2        1      1          2         0      1          2        0              X   X      X     X
+         7:00 AM         5         30     8           8        117       18      8         64        13       7       114        8      400                          0
+         7:15 AM         2         58     6           10       123       20      7         91        17       14      125        10     483                          0
+         7:30 AM         10        58     6           9        133       8       17       112        17       7       127        15     519                          0
+         7:45 AM         6         57     5           10       130       3       8        159        26       9       132        14     559                          0
+         8:00 AM         8         75     12          10       146       6       20       164        20       11      121        13     606                          0
+         8:15 AM         13        85     6           9        138       4       11       166        14       13      132        15     606                          0
+         8:30 AM         4         76     7           8        124       10      11       170        15       9       102        11     547                          0
+         8:45 AM         11       105     5           12       135       10      16       184        16       9       118        10     631                          0
+AM
+
+
+
+
+     VOLUMES             59       544     55          76      1,046      79      98      1,110      138       79      971        96    4,351   0    0      0    0    0
+     APPROACH %         9%        83%    8%          6%        87%      7%      7%        82%       10%      7%       85%       8%
+     APP/DEPART         658         /    738        1,201        /     1,263   1,346        /      1,241    1,146       /      1,109    0
+     BEGIN PEAK HR              8:00 AM
+     VOLUMES            36        341     30         39        543       30      58       684       65       42       473       49     2,390
+     APPROACH %         9%        84%    7%          6%        89%       5%      7%       85%       8%       7%       84%       9%
+     PEAK HR FACTOR              0.841                        0.944                      0.934                       0.881             0.947
+     APP/DEPART         407         /    448         612         /      650     807         /       753      564        /       539      0
+         4:00 PM         17        82     10          18       121       25      15       119        13       9       138        16     583                          0
+         4:15 PM         5         84     22          13       154       48      9        141        25       13      161        17     692                          0
+         4:30 PM         12        93     14          9        178       45      10       161        15       17      166        16     736                          0
+         4:45 PM         12        83     11          14       183       37      12       147        23       15      175        12     724                          0
+         5:00 PM         15       117     18          13       212       52      17       157        21       8       194        12     836                          0
+         5:15 PM         11       115     13          8        215       49      24       157        15       11      169        11     798                          0
+         5:30 PM         17       136     6           6        182       43      14       160        20       11      141        10     746                          0
+         5:45 PM         14       128     8           7        193       44      19       154        16       12      150        11     756                          0
+PM
+
+
+
+
+     VOLUMES            103       838    102          88      1,438     343     120      1,196      148       96     1,294      105    5,871   0    0      0    0    0
+     APPROACH %         10%       80%    10%         5%        77%      18%     8%        82%       10%      6%       87%       7%
+     APP/DEPART        1,043        /   1,063       1,869        /     1,682   1,464        /      1,386    1,495       /      1,740    0
+     BEGIN PEAK HR              5:00 PM
+     VOLUMES             57       496     45         34        802       188     74       628       72       42       654       44     3,136
+     APPROACH %         10%       83%    8%          3%        78%       18%    10%       81%       9%       6%       88%       6%
+     PEAK HR FACTOR              0.940                        0.924                      0.987                       0.864             0.938
+     APP/DEPART         598         /    614        1,024        /       916    774         /       707      740        /      899       0
+
+                                                              HILL
+
+                                                            NORTH SIDE
+
+
+                   OLYMPIC           WEST SIDE                                 EAST SIDE           OLYMPIC
+
+
+                                                            SOUTH SIDE
+
+                                                              HILL
+
+                                         PEDESTRIAN CROSSINGS                                   PEDESTRIAN ACTIVATIONS                          BICYCLE CROSSINGS
+                                N SIDE    S SIDE    E SIDE    W SIDE   TOTAL             N SIDE    S SIDE   E SIDE   W SIDE    TOTAL           NS   SS     ES   WS TOTAL
+        7:00 AM                   9         9         9         7         34                                                    0              1     5      0    3   9
+        7:15 AM                   7         12        16        5         40                                                    0              0     1      1    2   4
+        7:30 AM                   10        16        19        4         49                                                    0              1     2      2    0   5
+        7:45 AM                   19        19        21        28        87                                                    0              0     2      5    1   8
+AM
+
+
+
+
+        8:00 AM                   23        12        18        14        67                                                    0              2     4      0    4   10
+        8:15 AM                   18        17        20        12        67                                                    0              1     2      0    1   4
+        8:30 AM                   15        8         8         11        42                                                    0              0     4      1    2   7
+        8:45 AM                   13        22        16        7         58                                                    0              1     0      2    0   3
+         TOTAL                   114       115       127        88       444               0         0        0        0        0              6    20     11   13   50
+        4:00 PM                   17        40        13        21        91                                                    0              2     1      0    1   4
+        4:15 PM                   3         19        20        11        53                                                    0              1     3      0    1   5
+        4:30 PM                   11        24        8         11        54                                                    0              0     2      1    2   5
+        4:45 PM                   25        31        17        16        89                                                    0              0     1      3    0   4
+PM
+
+
+
+
+        5:00 PM                   23        23        12        17        75                                                    0              1     0      2    1   4
+P
+
+
+
+
+        5:15 PM                   20        17        15        9         61                                                    0              0     1      0    2   3
+        5:30 PM                   30        16        9         11        66                                                    0              0     2      2    0   4
+        5:45 PM                   18        18        11        10        57                                                    0              1     1      0    0   2
+         TOTAL                   147       188       105       106       546               0         0        0        0        0              5    11      8    7   31
+

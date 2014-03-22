@@ -1,0 +1,61 @@
+                    City Of Los Angeles
+                    Department Of Transportation
+                    MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South         FIGUEROA ST
+
+East/West           VENICE BL
+
+Day:          WEDNESDAY            Date:         April 21, 2010              Weather:          SUNNY
+
+Hours:      7-10AM 3-6PM                                     Chekrs:         YOUNG
+
+School Day:         YES            District:         CENTRAL                   I/S CODE 8888
+
+
+                     N/B                       S/B                             E/B                      W/B
+DUAL-
+WHEELED               182                       59                             100                       99
+BIKES                   0                        0                              26                        0
+BUSES                 190                      146                              72                       79
+
+
+                     N/B TIME                  S/B TIME                        E/B TIME                 W/B TIME
+
+AM PK 15 MIN          501   8.15                99    9.45                     234      8.15             99    7.45
+
+PM PK 15 MIN         391    4.45               197    4.45                     190      4.00            213    5.45
+
+AM PK HOUR           1916   7.45               342    9.00                     846      7.45            369    7.30
+
+PM PK HOUR           1471   4.45               750    4.45                     677      3.15            744    5.00
+
+
+
+NORTHBOUND Approach                                  SOUTHBOUND Approach                                      TOTAL   XING S/L   XING N/L
+
+Hours         Lt     Th     Rt Total                 Hours             Lt     Th        Rt     Total           N-S     Ped Sch    Ped   Sch
+7-8           159    1264    44 1467                 7-8                 9     272        4       285          1752      0   0      0     0
+8-9           136    1636   102 1874                 8-9                 9     273       29       311          2185      0   0      0     0
+9-10          110    1128    85 1323                 9-10               21     300       21       342          1665      0   0      0     0
+3-4           114     982    61 1157                 3-4                24     516       13       553          1710      0   0      0     0
+4-5           123    1208    40 1371                 4-5                 8     614       15       637          2008      0   0      0     0
+5-6           118    1282    35 1435                 5-6                27     657       43       727          2162      0   0      0     0
+
+TOTAL         760 7500      367      8627            TOTAL              98 2632         125      2855         11482     0    0      0    0
+
+
+EASTBOUND Approach                                   WESTBOUND Approach                                       TOTAL   XING W/L   XING E/L
+
+Hours         Lt     Th     Rt Total                 Hours             Lt     Th        Rt Total              E-W      Ped Sch    Ped   Sch
+7-8            70     298   201   569                7-8                45     275       41   361               930      0   6      0     0
+8-9           128     477   202   807                8-9                38     264       41   343              1150      0   4      0     0
+9-10           97     303   135   535                9-10               46     223       46   315               850      0   0      0     0
+3-4            78     335   227   640                3-4                76     281       52   409              1049      0 10       0     0
+4-5            60     331   236   627                4-5                96     333       61   490              1117      0   6      0     0
+5-6            58     319   237   614                5-6               114     564       66   744              1358      0   1      0     0
+
+TOTAL         491 2063 1238          3792            TOTAL             415 1940         307      2662          6454     0   27      0    0
+
+            (Rev Oct 06)
+

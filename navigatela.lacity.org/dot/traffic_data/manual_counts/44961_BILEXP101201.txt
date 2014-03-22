@@ -1,0 +1,80 @@
+                                        INTERSECTION TURNING MOVEMENT COUNTS
+                                                     PREPARED BY: PACIFIC TRAFFIC DATA SERVICES
+          DATE:        LOCATION:                       LOS ANGELES                                     PROJECT #:          CA11-0218-06                                                     BILL ROBERTSON
+         2/15/11       NORTH & SOUTH:                  BILL ROBERTSON                                  LOCATION #:         1                                                                     (NORTH LEG)
+        TUESDAY        EAST & WEST:                    EXPOSITION                                      CONTROL:            SIGNAL
+     NOTES:                                                                                                        AM                   Y                              EXPOSITION                                    EXPOSITION
+                                                                                                                   PM                   N                                (EAST LEG)                                  (WEST LEG)
+                                                                                                                   MD       W                  E
+                                                                                                                  OTHER                 S                                                        (SOUTH LEG)
+                                                                                                                  OTHER                                                                     BILL ROBERTSON
+                              NORTHBOUND                       SOUTHBOUND                    EASTBOUND                  WESTBOUND
+                              BILL ROBERTSON                   BILL ROBERTSON                EXPOSITION                   EXPOSITION                        PED + BIKE CROSS                PED CROSSINGS                   BIKE CROSSINGS
+                         NL        NT          NR         SL        ST          SR    EL        ET         ER      WL        WT         WR     TOTAL        LEG OF INTER                   LEG OF INTER                    LEG OF INTER
+              LANES:     1         0.5         0.5        0          1           0    0          2          0      1          2          0             N      S    E    W     TTL     N      S       E    W    TTL    N      S    E   W      TTL
+         5:30 AM                                                                                                                                 0     0      0    0    0     0                                0                             0
+         5:45 AM                                                                                                                                 0     0      0    0    0     0                                0                             0
+         6:00 AM                                                                                                                                 0     0      0    0    0     0                                0                             0
+         6:15 AM                                                                                                                                 0     0      0    0    0     0                                0                             0
+         6:30 AM                                                                                                                                 0     0      0    0    0     0                                0                             0
+         6:45 AM                                                                                                                                 0     0      0    0    0     0                                0                             0
+         7:00 AM        21          0      30             0          0          0     0        153         3       5        129         0       341    5      6    0    0    11       4      4       0    0    8      1      2    0   0      3
+         7:15 AM        44          0      55             0          0          0     0        200         6       2        114         1       422    6      7    0    0    13       3      4       0    0    7      3      3    0   0      6
+         7:30 AM        52          0      103            0          0          1     0        239         7       4        148         3       557    7      12   0    0    19       5      7       0    0    12     2      5    0   0      7
+         7:45 AM        46          0      105            0          0          2     1        246         9       6        155         2       572    6      4    0    2    12       3      4       0    1    8      3      0    0   1      4
+         8:00 AM        39          0      92             0          0          1     0        225         5       3        144         1       510    8      9    0    2    19       7      8       0    2    17     1      1    0   0      2
+         8:15 AM        32          0      59             0          0          1     0        251         5       14       119         1       482    8      7    0    2    17       6      5       0    2    13     2      2    0   0      4
+         8:30 AM        13          0      48             0          0          0     0        206         8       7        134         1       417    9      8    0    0    17       6      6       0    0    12     3      2    0   0      5
+         8:45 AM        5           0      15             0          0          0     0        216         6       14       128         0       384    15     7    0    2    24       12     6       0    1    19     3      1    0   1      5
+
+
+
+
+A
+AM
+         9:00 AM                                                                                                                                 0     0      0    0    0     0                                0                             0
+         9:15 AM                                                                                                                                 0     0      0    0    0     0                                0                             0
+         9:30 AM                                                                                                                                 0     0      0    0    0     0                                0                             0
+         9:45 AM                                                                                                                                 0     0      0    0    0     0                                0                             0
+        10:00 AM                                                                                                                                 0     0      0    0    0     0                                0                             0
+     VOLUMES            252         0      507            0          0       5         1       1,736        49      55     1,071         9     3,685   64     60   0    8    132      46    44       0    6    96     18    16    0   2      36
+     APPROACH %         33%        0%      67%           0%         0%     100%       0%        97%        3%      5%       94%         1%
+     APP/DEPART         759          /      10            5          /      104      1,786        /       2,243   1,135       /        1,328    0
+     BEGIN PEAK HR               7:30 AM
+     VOLUMES            169         0      359            0         0        5         1        961        26      27       566          7     2,121
+     APPROACH %         32%        0%      68%           0%        0%      100%       0%        97%        3%      5%       94%         1%
+     PEAK HR FACTOR               0.852                           0.625                        0.965                       0.920               0.927
+     APP/DEPART         528          /         8          5          /      53       988          /       1,320   600         /        740       0
+         2:30 PM                                                                                                                                 0     0      0    0    0     0                                 0                            0
+         2:45 PM                                                                                                                                 0     0      0    0    0     0                                 0                            0
+         3:00 PM                                                                                                                                 0     0      0    0    0     0                                 0                            0
+         3:15 PM                                                                                                                                 0     0      0    0    0     0                                 0                            0
+         3:30 PM                                                                                                                                 0     0      0    0    0     0                                 0                            0
+         3:45 PM                                                                                                                                 0     0      0    0    0     0                                 0                            0
+         4:00 PM        6           0      14             0          1          0     0        137         6       8        168         0       340    11     12   0    8    31       8      8       0    2    18     3      4    0   6      13
+         4:15 PM        8           0      13             0          0          1     0        146         12      4        167         1       352    8      4    1    3    16       6      4       1    1    12     2      0    0   2      4
+         4:30 PM        8           0      11             0          0          1     0        152         8       6        199         0       385    9      12   1    0    22       8     11       0    0    19     1      1    1   0      3
+         4:45 PM        8           0      16             0          1          0     0        171         16      5        214         1       432    8      5    0    8    21       7      4       0    6    17     1      1    0   2      4
+         5:00 PM        15          0      26             0          0          0     0        165         20      9        221         0       456    11     6    0    0    17       10     5       0    0    15     1      1    0   0      2
+         5:15 PM        26          0      36             0          0          0     0        187         18      14       255         0       536    11     8    0    7    26       9      8       0    6    23     2      0    0   1      3
+         5:30 PM        17          0      14             0          0          0     0        153         12      2        231         0       429    6      15   3    0    24       6     13       2    0    21     0      2    1   0      3
+         5:45 PM        19          0      14             0          0          0     0        161         22      5        223         0       444    13     5    0    3    21       9     4        0    3    16     4      1    0   0      5
+
+
+
+
+PM
+         6:00 PM                                                                                                                                 0     0      0    0    0     0                                 0                            0
+         6:15 PM                                                                                                                                 0     0      0    0    0     0                                 0                            0
+         6:30 PM                                                                                                                                 0     0      0    0    0     0                                 0                            0
+         6:45 PM                                                                                                                                 0     0      0    0    0     0                                 0                            0
+         4:45 PM                                                                                                                                 0     0      0    0    0     0                                 0                            0
+     VOLUMES            107         0      144            0         2        2         0       1,272       114      53     1,678         2     3,374   77     67   5    29   178      63    57       3    18   141    14    10    2   11     37
+     APPROACH %         43%        0%      57%           0%        50%      50%       0%        92%        8%      3%       97%         0%
+     APP/DEPART         251          /      2             4          /      169      1,386        /       1,416   1,733       /        1,787    0
+     BEGIN PEAK HR               5:00 PM
+     VOLUMES             77         0       90            0         0        0         0        666        72      30       930          0     1,865
+     APPROACH %         46%        0%      54%           0%        0%       0%        0%        90%       10%      3%       97%         0%
+     PEAK HR FACTOR               0.673                           0.000                        0.900                       0.892               0.870
+     APP/DEPART         167          /         0          0          /      102      738          /       756     960         /        1,007     0
+

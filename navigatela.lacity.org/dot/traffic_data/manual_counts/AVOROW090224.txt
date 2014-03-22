@@ -1,0 +1,61 @@
+                    City Of Los Angeles
+                    Department Of Transportation
+                    MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South         ROWENA AV
+
+East/West           AVOCADO ST
+
+Day:            TUESDAY                 Date:       February 24, 2009                Weather:          SUNNY
+
+Hours:      7-10AM 3-6PM                                          Chekrs:            LEE
+
+School Day:         YES                 District:         HOLLYWOOD                    I/S CODE 14645
+
+
+                     N/B                            S/B                                E/B                     W/B
+DUAL-
+WHEELED                    9                          1                                    8                     0
+BIKES                      3                          7                                    3                     0
+BUSES                      0                          0                                    0                     0
+
+
+                     N/B TIME                       S/B TIME                           E/B TIME                W/B TIME
+
+AM PK 15 MIN           59      7.15                  43    7.15                         50      9.00             0    7.00
+
+PM PK 15 MIN           62      3.15                  33    4.45                        116      5.15             0    3.00
+
+AM PK HOUR           207       7.15                 151    7.15                        177      8.15             0    7.00
+
+PM PK HOUR           197       3.00                 113    4.45                        424      5.00             0    3.00
+
+
+
+NORTHBOUND Approach                                       SOUTHBOUND Approach                                        TOTAL   XING S/L   XING N/L
+
+Hours         Lt     Th        Rt       Total             Hours             Lt        Th        Rt Total              N-S     Ped Sch    Ped   Sch
+7-8           186       3           0      189            7-8                    0     22       122   144              333      5   0      6     0
+8-9           185       8           0      193            8-9                    0     24       127   151              344      1   0      3     0
+9-10          100       8           0      108            9-10                   0     22        89   111              219      2   0      9     0
+3-4           185      12           0      197            3-4                    0     25        69     94             291      0   0      5     0
+4-5           149      17           0      166            4-5                    0     26        70     96             262      0   0      4     0
+5-6           146       7           0      153            5-6                    0     36        69   105              258      1   0      6     0
+
+TOTAL         951      55           0     1006            TOTAL                  0     155       546     701          1707      9   0     33    0
+
+
+EASTBOUND Approach                                        WESTBOUND Approach                                         TOTAL   XING W/L   XING E/L
+                  AVOCADO ST                                                                   NONE
+Hours   Lt    Th   Rt Total                               Hours             Lt        Th        Rt Total             E-W      Ped Sch    Ped   Sch
+7-8       30     0 105   135                              7-8                    0         0      0        0           135      7   0      0     0
+8-9       40     0 126   166                              8-9                    0         0      0        0           166      4   0      0     0
+9-10      45     0 126   171                              9-10                   0         0      0        0           171     14   0      0     0
+3-4       50     0 274   324                              3-4                    0         0      0        0           324     10   1      0     0
+4-5       50     0 296   346                              4-5                    0         0      0        0           346      6   0      0     0
+5-6       60     0 364   424                              5-6                    0         0      0        0           424     19   0      0     0
+
+TOTAL         275          0 1291         1566            TOTAL                  0         0       0       0          1566     60   1      0    0
+
+            (Rev Oct 06)
+

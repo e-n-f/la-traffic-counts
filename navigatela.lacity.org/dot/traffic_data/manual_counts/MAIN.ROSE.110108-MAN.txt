@@ -1,0 +1,61 @@
+                    City Of Los Angeles
+                    Department Of Transportation
+                    MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South         MAIN ST
+
+East/West           ROSE AV
+
+Day:        SATURDAY               Date:        January 8, 2011         Weather:          SUNNY
+
+Hours:      8-11 AM 2-5 PM
+
+School Day:         NO             District:         WESTERN              I/S CODE 12293
+
+
+                     N/B                       S/B                        E/B                      W/B
+DUAL-
+WHEELED               22                        12                         17                       11
+BIKES                186                       129                        154                      163
+BUSES                 62                        41                          0                        0
+
+
+                     N/B TIME                  S/B TIME                   E/B TIME                 W/B TIME
+
+AM PK 15 MIN         158 10.30                 103 10.45                   44 10.30                 89    10.45
+
+PM PK 15 MIN         170    3.30               156    4.00                 59      4.30             87     3.30
+
+AM PK HOUR           565 10.00                 357 10.00                  161 10.00                283    10.00
+
+PM PK HOUR           650    2.45               546    4.00                209      3.45            332     2.45
+
+
+
+NORTHBOUND Approach                                  SOUTHBOUND Approach                                 TOTAL    XING S/L   XING N/L
+
+Hours         Lt     Th     Rt Total                 Hours     Lt        Th        Rt     Total           N-S      Ped Sch    Ped   Sch
+8-9            30     261    28   319                8-9        13        181        8       202           521      40   0     43     0
+9-10           37     363    50   450                9-10       47        237       12       296           746      74   0     66     0
+10-11          49     450    66   565                10-11      87        240       30       357           922      81   0    141     0
+2-3            55     483    66   604                2-3        78        358       22       458          1062      94   2    124     0
+3-4            69     517    52   638                3-4        74        338       28       440          1078     112   4     91     0
+4-5            52     454    57   563                4-5        89        430       27       546          1109     121   1    114     0
+
+TOTAL         292 2528      319      3139            TOTAL        388 1784         127      2299          5438     522   7    579    0
+
+
+EASTBOUND Approach                                   WESTBOUND Approach                                  TOTAL    XING W/L   XING E/L
+
+Hours         Lt     Th     Rt Total                 Hours     Lt        Th        Rt Total              E-W       Ped Sch    Ped   Sch
+8-9             5      59    22     86               8-9        18         71       66   155               241      10   0     16     0
+9-10            7      83    13   103                9-10       28        107       75   210               313      22   0     31     0
+10-11          17     123    21   161                10-11      35        140      108   283               444      35   1     51     0
+2-3            17     129    23   169                2-3        34        174       69   277               446      68   3     56     0
+3-4            34     131    18   183                3-4        42        189       99   330               513      53   0     75     0
+4-5            35     145    27   207                4-5        53        168       89   310               517      72   0     70     0
+
+TOTAL         115    670    124        909           TOTAL        210     849      506      1565          2474     260   4    299    0
+
+            (Rev Oct 06)
+

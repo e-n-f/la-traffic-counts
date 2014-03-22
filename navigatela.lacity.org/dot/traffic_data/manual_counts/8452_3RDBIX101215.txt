@@ -1,0 +1,40 @@
+                      Intersection Turning Movement
+                                                 Prepared by:
+                            National Data & Surveying Services
+
+
+N-S STREET:    Bixel St                        DATE: 12/15/2010            LOCATION: City of Los Angeles
+
+
+E-W STREET: 3rd St                              DAY: WEDNESDAY             PROJECT#     10-5532-004
+
+
+                     NORTHBOUND              SOUTHBOUND           EASTBOUND            WESTBOUND
+
+                 NL        NT     NR     SL     ST     SR    EL      ET    ER     WL      WT     WR   TOTAL
+  LANES:         1          1      1     1       1      0    1        2     0     1        2      0
+
+   6:30   AM     10         0     4      2       2     8     7      101    29     21     159     1     344
+   6:45   AM     12         6     1      4       6     21    22     123    42     20     141     3     401
+   7:00   AM     17         2     13     7       6     10    9      144    42     16     166     2     434
+   7:15   AM     14         4     16     0       4     12    5      149    40     18     203     2     467
+   7:30   AM     21         4     19     1       3     8     8      205    61     13     223     4     570
+   7:45   AM     16         8     19     7       4     13    5      204    82     33     171     10    572
+   8:00   AM     19         5     16     1       5     11    9      202    94     39     183     9     593
+   8:15   AM     15         1     21     2       6     4     6      242    64     43     167     3     574
+
+TOTAL           NL         NT     NR     SL     ST     SR    EL      ET    ER     WL      WT     WR   TOTAL
+VOLUMES =       124        30     109    24     36     87    71     1370   454    203    1413    34    3955
+
+            nb a nb d                  sb a   sb d          eb a eb d            wb a nb d
+               263     135                147    693          1895 1503           1650 1624
+      AM Peak Hr Begins at:        730 AM
+
+PEAK
+VOLUMES =       71         18     75    11      18     36    28     853    301   128     744     26   2309
+
+PEAK HR.
+FACTOR:                   0.932                0.677               0.947                 0.935        0.973
+
+CONTROL:       Signalized
+

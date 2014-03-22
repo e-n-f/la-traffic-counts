@@ -1,0 +1,52 @@
+WILTEC                                                                                                                                     Phone: (626) 564-1944    Fax: (626) 564-0969
+INTERSECTION TURNING MOVEMENT COUNT SUMMARY
+
+CLIENT:                            FEHR AND PEERS/ ARUP
+PROJECT:                           DOWNTOWN LOS ANGELES TRAFFIC COUNTS
+DATE:                              THURSDAY MARCH 26, 2009
+PERIODS:                           7:00 AM TO 9:00 AM AND        4:00 PM TO 6:00 PM
+INTERSECTION:          N/S         W. AVENUE 26
+                       E/W         I-5 SB ON-RAMP
+CITY:                              LOS ANGELES
+
+15 MIN COUNTS                                             7:00 AM TO 9:00 AM
+                   1          2         3      4      5          6        7       8      9     10     11     12
+PERIOD          SBRT    SBTH         SBLT   WBRT   WBTH     WBLT     NBRT      NBTH   NBLT   EBRT   EBTH   EBLT   TOTAL      AM PEAK HOUR
+700-715          148         133        0      0      0          0        0     196     13      0      0      0     490          715-815                                   0
+715-730          160         194        0      0      0          0        0     230     14      0      0      0     598
+730-745          160         207        0      0      0          0        0     239     13      0      0      0     619                    624       789   0               0
+745-800          152         194        0      0      0          0        0     234     18      0      0      0     598
+800-815          152         194        0      0      0          0        0     206     14      0      0      0     566                                                    0
+815-830          146         179        0      0      0          0        0     195     17      0      0      0     537
+830-845          139         147        0      0      0          0        0     150     16      0      0      0     452
+845-900          117         176        0      0      0          0        0     124     15      0      0      0     432                          0
+HOUR TOTALS
+                   1          2         3      4      5          6        7       8      9     10     11     12           I-5 SB ON-RAMP         0             59    909       0
+TIME            SBRT    SBTH         SBLT   WBRT   WBTH     WBLT     NBRT      NBTH   NBLT   EBRT   EBTH   EBLT   TOTAL
+700-800          620         728        0      0      0          0        0     899     58      0      0      0    2305                          0
+715-815          624         789        0      0      0          0        0     909     59      0      0      0    2381                                             W. AVENUE 26
+730-830          610         774        0      0      0          0        0     874     62      0      0      0    2320
+745-845          589         714        0      0      0          0        0     785     65      0      0      0    2153
+800-900          554         696        0      0      0          0        0     675     62      0      0      0    1987
+
+
+15 MIN COUNTS                                             4:00 PM TO 6:00 PM
+                   1          2         3      4      5          6        7       8      9     10     11     12
+PERIOD          SBRT    SBTH         SBLT   WBRT   WBTH     WBLT     NBRT      NBTH   NBLT   EBRT   EBTH   EBLT   TOTAL      PM PEAK HOUR
+400-415          104         186        0      0      0          0        0     238     27      0      0      0     555          415-515                                   0
+415-430          113         203        0      0      0          0        0     247     11      0      0      0     574
+430-445           78         195        0      0      0          0        0     253     17      0      0      0     543                    345       845   0               0
+445-500           73         228        0      0      0          0        0     217      9      0      0      0     527
+500-515           81         219        0      0      0          0        0     281     14      0      0      0     595                                                    0
+515-530           70         178        0      0      0          0        0     279      8      0      0      0     535
+530-545           69         161        0      0      0          0        0     278     12      0      0      0     520
+545-600           86         177        0      0      0          0        0     264     11      0      0      0     538                          0
+HOUR TOTALS
+                   1          2         3      4      5          6        7       8      9     10     11     12           I-5 SB ON-RAMP         0             51    998       0
+TIME            SBRT    SBTH         SBLT   WBRT   WBTH     WBLT     NBRT      NBTH   NBLT   EBRT   EBTH   EBLT   TOTAL
+400-500          368         812        0      0      0          0        0     955     64      0      0      0    2199                          0
+415-515          345         845        0      0      0          0        0     998     51      0      0      0    2239                                             W. AVENUE 26
+430-530          302         820        0      0      0          0        0    1030     48      0      0      0    2200
+445-545          293         786        0      0      0          0        0    1055     43      0      0      0    2177
+500-600          306         735        0      0      0          0        0    1102     45      0      0      0    2188
+

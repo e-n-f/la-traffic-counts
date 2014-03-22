@@ -1,0 +1,61 @@
+                     City Of Los Angeles
+                     Department Of Transportation
+                     MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South          GLEN IRIS AV.
+
+East/West            COLORADO BL.
+
+Day:          THURSDAY                 Date:             May 9, 2013            Weather:            SUNNY
+
+Hours:        12PM-2PM
+
+School Day:          YES               District:         CENTRAL                  I/S CODE 47301
+
+
+                      N/B                          S/B                            E/B                           W/B
+DUAL-
+WHEELED                    2                        0                              19                             3
+BIKES                      0                        0                               6                             1
+BUSES                      0                        0                              13                             4
+
+
+                      N/B TIME                     S/B TIME                       E/B TIME                      W/B TIME
+
+AM PK 15 MIN           10      10.00                0 10.00                       315 11.30                     230    11.45
+
+PM PK 15 MIN               0    1.00                0     1.00                        0    1.00                   0     1.00
+
+AM PK HOUR             30      10.00                0 10.00                      1117 10.00                     619    11.00
+
+PM PK HOUR                 0    1.00                0     1.00                        0    1.00                   0     1.00
+
+
+
+NORTHBOUND Approach                                      SOUTHBOUND Approach                                          TOTAL    XING S/L       XING N/L
+
+Hours          Lt     Th       Rt Total                  Hours         Lt        Th        Rt       Total              N-S        Ped Sch       Ped   Sch
+12-1            12         0     18  30                  12-1               0         0         0           0            30        41   0         0     0
+1-2              5         0     10  15                  1-2                0         0         0           0            15        32   0         0     0
+                 0         0      0    0                                    0         0         0           0              0        0   0         0     0
+                 0         0      0    0                                    0         0         0           0              0        0   0         0     0
+                 0         0      0    0                                    0         0         0           0              0        0   0         0     0
+                 0         0      0    0                                    0         0         0           0              0        0   0         0     0
+
+TOTAL          17          0     28        45            TOTAL              0         0         0           0            45       73      0       0      0
+
+
+EASTBOUND Approach                                       WESTBOUND Approach                                           TOTAL    XING W/L       XING E/L
+
+Hours          Lt Th           Rt Total                  Hours         Lt        Th        Rt       Total             E-W         Ped Sch       Ped   Sch
+12-1             0 1098          19 1117                 12-1               4     573           0      577             1694        20   0         3     0
+1-2              0 1072          18 1090                 1-2                5     614           0      619             1709        12   0         0     0
+                 0    0           0    0                                    0       0           0         0               0         0   0         0     0
+                 0    0           0    0                                    0       0           0         0               0         0   0         0     0
+                 0    0           0    0                                    0       0           0         0               0         0   0         0     0
+                 0    0           0    0                                    0       0           0         0               0         0   0         0     0
+
+TOTAL            0 2170          37 2207                 TOTAL              9 1187              0     1196             3403       32      0       3      0
+
+              (Rev Oct 06)
+

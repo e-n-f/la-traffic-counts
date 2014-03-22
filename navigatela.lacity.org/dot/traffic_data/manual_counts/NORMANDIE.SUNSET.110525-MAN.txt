@@ -1,0 +1,485 @@
+                                        City Traffic Counters, LLC.
+                                              626-256-4171
+                                                                                           File Name         : SunsetNorm
+                                                                                           Site Code         : 00000000
+                                                                                           Start Date        : 5/25/2011
+                                                                                           Page No           :1
+                                             Groups Printed- 1 - Unshifted
+                 Normandie Ave             Sunset Blvd               Normandie Ave             Sunset Blvd
+                   Southbound               Westbound                   Northbound              Eastbound
+ Start Time    Left    Thru    Right   Left     Thru    Right      Left      Thru  Right   Left     Thru     Right   Int. Total
+     Factor    1.0       1.0     1.0   1.0        1.0     1.0       1.0        1.0   1.0   1.0        1.0      1.0
+ 07:00 AM        7       26        2     8        96        2       10         18      8     3       154         7        341
+ 07:15 AM       12       47        6     8       143        3       22         57    12      1       171       20         502
+ 07:30 AM       12       43      11      9       158        7       31         44    13      8       182       12         530
+ 07:45 AM       14       49      13      6       142      10        28         48    16      8       252       24         610
+       Total    45      165      32     31       539      22        91        167    49     20       759       63        1983
+
+ 08:00 AM        8      72       11     15      213       11       17       43       24      6      296        33         749
+ 08:15 AM       17      61       13     23      207       15       15       57       23      7      306        19         763
+ 08:30 AM       14      64       16     14      187       11       20       53       18     11      271        26         705
+ 08:45 AM       11      63       16     20      153        3       21       39       14     10      236        22         608
+     Total      50     260       56     72      760       40       73      192       79     34     1109       100        2825
+
+ 09:00 AM        8      51       20     14      152        3       13       61       17     10      260        16         625
+ 09:15 AM       10      59       17     15      169        5       22       46       20     11      232        23         629
+ 09:30 AM        9      45        8      9      165        8       16       41       16     10      220        16         563
+ 09:45 AM       12      50       11     11      175        8       24       49       24     20      205        27         616
+     Total      39     205       56     49      661       24       75      197       77     51      917        82        2433
+
+
+
+ 03:00 PM       10      56       14     18      208       16       28       58       24     19      273        25         749
+ 03:15 PM        7      73       15     16      211       13       14       51       18     11      277        41         747
+ 03:30 PM       14      53       17     27      271       34       13       60       29     17      291        31         857
+ 03:45 PM        8      63       13     25      267       19       19       76       19     17      319        27         872
+     Total      39     245       59     86      957       82       74      245       90     64     1160       124        3225
+
+ 04:00 PM       10      73       14     19     253        16       23      101       25     16      288        36         874
+ 04:15 PM        9      46       20     15     262         9       24       33       23     17      285        41         784
+ 04:30 PM       10      56       16     14     267         8       21       79       29     19      292        36         847
+ 04:45 PM        6      56       14     15     249        12       27       80       20     18      272        32         801
+     Total      35     231       64     63    1031        45       95      293       97     70     1137       145        3306
+
+ 05:00 PM       15      55       18      8     227        15       29       58       22     12      306        22         787
+ 05:15 PM       10      64       12     12     281        14       28       62       27     16      321        31         878
+ 05:30 PM       10      73       13     15     249         8       27       87       19     13      331        38         883
+ 05:45 PM        7      73       15     23     255        13       24       82       23     28      344        49         936
+     Total      42     265       58     58    1012        50      108      289       91     69     1302       140        3484
+
+Grand Total    250    1371      325    359    4960       263     516      1383     483     308     6384       654      17256
+ Apprch %      12.8    70.5     16.7    6.4    88.9       4.7    21.7      58.1    20.3     4.2     86.9       8.9
+   Total %      1.4     7.9      1.9    2.1    28.7       1.5     3.0       8.0     2.8     1.8     37.0       3.8
+                                                      City Traffic Counters, LLC.
+                                                            626-256-4171
+                                                                                                                   File Name                            : SunsetNorm
+                                                                                                                   Site Code                            : 00000000
+                                                                                                                   Start Date                           : 5/25/2011
+                                                                                                                   Page No                              :2
+
+                       Normandie Ave                  Sunset Blvd                        Normandie Ave                          Sunset Blvd
+                        Southbound                    Westbound                           Northbound                            Eastbound
+                                     App.                             App.                               App.                                             App.     Int.
+   Start Time   Left   Thru Right           Left Thru Right                      Left    Thru Right               Left          Thru Right
+                                    Total                             Total                              Total                                            Total   Total
+Peak Hour From 07:00 AM to 11:45 AM - Peak 1 of 1
+  Intersection 07:45 AM
+      Volume      53    246   53      352     58   749  47             854       80       201     81      362     32            1125            102       1259    2827
+      Percent 15.1 69.9 15.1                 6.8 87.7   5.5                     22.1      55.5   22.4             2.5            89.4            8.1
+        08:15
+                  17     61   13       91     23   207  15             245        15       57     23       95        7           306               19      332     763
+      Volume
+ Peak Factor                                                                                                                                                      0.926
+      High Int. 08:30 AM                   08:15 AM                             08:15 AM                         08:00 AM
+      Volume      14     64   16       94     23   207  15             245        15     57       23        95       6   296                       33      335
+ Peak Factor                       0.936                             0.871                               0.953                                           0.940
+
+                                                                   Normandie Ave
+                                                               Out      In       Total
+                                                                280      352       632
+
+
+                                                                   53   246         53
+                                                                Right Thru       Left
+                            2141
+                            Total
+
+
+
+
+                                                                                                                                   1259
+                                                                                                                                   Out
+                                           32
+
+
+
+
+                                                                                                                   Right Thru
+                                         Left
+
+
+
+
+                                                                        North
+                                                                                                                      47
+
+
+
+
+                                                                                                                                   Sunset Blvd
+                           Sunset Blvd
+
+                               1259
+
+
+                                           102 1125
+                                         Right Thru
+                                In
+
+
+
+
+                                                              5/25/2011 7:45:00 AM                                                     In
+                                                                                                                          749
+
+
+                                                                                                                                       854
+
+                                                              5/25/2011 8:30:00 AM
+                                                                                                                   Left
+                        882
+
+
+
+
+                                                              1 - Unshifted
+                       Out
+
+
+
+
+                                                                                                                                               Total
+                                                                                                                     58
+
+
+                                                                                                                                               2113
+
+
+
+
+                                                                 Left  Thru Right
+                                                                    80   201   81
+
+
+                                                                406      362       768
+                                                               Out      In       Total
+                                                                   Normandie Ave
+                                                      City Traffic Counters, LLC.
+                                                            626-256-4171
+                                                                                                                 File Name                            : SunsetNorm
+                                                                                                                 Site Code                            : 00000000
+                                                                                                                 Start Date                           : 5/25/2011
+                                                                                                                 Page No                              :3
+                       Normandie Ave                  Sunset Blvd                       Normandie Ave                         Sunset Blvd
+                        Southbound                    Westbound                          Northbound                           Eastbound
+                                     App.                             App.                              App.                                            App.     Int.
+   Start Time   Left   Thru Right           Left Thru Right                     Left    Thru Right              Left          Thru Right
+                                    Total                             Total                             Total                                           Total   Total
+Peak Hour From 12:00 PM to 05:45 PM - Peak 1 of 1
+  Intersection 05:00 PM
+      Volume      42    265   58      365     58 1012   50           1120       108      289     91      488    69            1302            140       1511    3484
+      Percent 11.5 72.6 15.9                 5.2 90.4   4.5                     22.1     59.2   18.6            4.6            86.2            9.3
+        05:45
+                    7    73   15       95     23   255  13             291       24       82     23      129     28            344               49      421     936
+      Volume
+ Peak Factor                                                                                                                                                    0.931
+      High Int. 05:30 PM                   05:15 PM                        05:30 PM                           05:45 PM
+      Volume      10     73   13       96     12   281  14             307   27     87           19       133   28    344                        49      421
+ Peak Factor                       0.951                             0.912                              0.917                                          0.897
+
+                                                                   Normandie Ave
+                                                               Out      In       Total
+                                                                408      365       773
+
+
+                                                                   58   265        42
+                                                                Right Thru      Left
+                            2689
+                            Total
+
+
+
+
+                                                                                                                                 1435
+                                                                                                                                 Out
+                                           69
+
+
+
+
+                                                                                                                 Right Thru
+                                         Left
+
+
+
+
+                                                                        North                                       50 1012
+
+
+
+
+                                                                                                                                 Sunset Blvd
+                           Sunset Blvd
+
+                               1511
+
+
+                                           140 1302
+                                         Right Thru
+                                In
+
+
+
+
+                                                                                                                                    1120
+                                                                                                                                     In
+                                                              5/25/2011 5:00:00 PM
+                                                              5/25/2011 5:45:00 PM
+                                                                                                                 Left
+                       1178
+
+
+
+
+                                                              1 - Unshifted
+                       Out
+
+
+
+
+                                                                                                                                             Total
+                                                                                                                   58
+
+
+                                                                                                                                             2555
+
+
+
+
+                                                                 Left Thru Right
+                                                                  108   289   91
+
+
+                                                                463      488       951
+                                                               Out      In       Total
+                                                                   Normandie Ave
+                            City Traffic Counters
+                                626.256.4171
+                                                                           File Name      : SunsetNorm_Bike
+                                                                           Site Code      : 00000000
+                                                                           Start Date     : 5/25/2011
+                                                                           Page No        :1
+                                 Groups Printed- 2 - Bank 1
+               Normandie Ave         Sunset Blvd        Normandie Ave        Sunset Blvd
+                Southbound           Westbound            Northbound         Eastbound
+ Start Time               Thru                 Thru                Thru                Thru          Int. Total
+     Factor                1.0                   1.0                 1.0                 1.0
+ 07:00 AM                    1                     0                   1                   3                 5
+ 07:15 AM                    1                     0                   0                   1                 2
+ 07:30 AM                    1                     1                   1                   0                 3
+ 07:45 AM                    0                     1                   1                   0                 2
+       Total                 3                     2                   3                   4                12
+
+ 08:00 AM                   1                     0                   3                   0                  4
+ 08:15 AM                   0                     0                   2                   1                  3
+ 08:30 AM                   3                     0                   0                   0                  3
+ 08:45 AM                   0                     1                   2                   1                  4
+     Total                  4                     1                   7                   2                 14
+
+ 09:00 AM                   0                     0                   1                   0                  1
+ 09:15 AM                   6                     2                   4                   1                 13
+ 09:30 AM                   0                     0                   6                   2                  8
+ 09:45 AM                   4                     1                   1                   1                  7
+     Total                 10                     3                  12                   4                 29
+
+
+
+ 03:00 PM                   0                     4                   1                   3                  8
+ 03:15 PM                   3                     4                   1                   0                  8
+ 03:30 PM                   3                     2                   0                   1                  6
+ 03:45 PM                   1                     1                   1                   0                  3
+     Total                  7                    11                   3                   4                 25
+
+ 04:00 PM                   4                     2                   2                   2                 10
+ 04:15 PM                   2                     1                   2                   0                  5
+ 04:30 PM                   4                     0                   2                   3                  9
+ 04:45 PM                   6                     3                   1                   0                 10
+     Total                 16                     6                   7                   5                 34
+
+ 05:00 PM                   4                     0                   4                   1                  9
+ 05:15 PM                   4                     1                   0                   1                  6
+ 05:30 PM                   5                     1                   4                   1                 11
+ 05:45 PM                   3                     0                   4                   1                  8
+     Total                 16                     2                  12                   4                 34
+
+Grand Total               56                    25                  44                  23                148
+ Apprch %               100.0                 100.0               100.0               100.0
+   Total %               37.8                  16.9                29.7                15.5
+                                                       City Traffic Counters
+                                                           626.256.4171
+                                                                                                 File Name       : SunsetNorm_Bike
+                                                                                                 Site Code       : 00000000
+                                                                                                 Start Date      : 5/25/2011
+                                                                                                 Page No         :2
+
+                              Normandie Ave             Sunset Blvd             Normandie Ave             Sunset Blvd
+                               Southbound               Westbound                Northbound                Eastbound
+             Start Time       Thru     App. Total      Thru     App. Total      Thru     App. Total      Thru     App. Total          Int. Total
+Peak Hour From 07:00 AM to 11:45 AM - Peak 1 of 1
+           Intersection 09:00 AM
+               Volume           10            10          3             3         12            12          4             4                  29
+               Percent       100.0                    100.0                    100.0                    100.0
+        09:15 Volume             6             6          2             2          4             4          1             1                  13
+          Peak Factor                                                                                                               0.558
+               High Int. 09:15 AM                 09:15 AM                 09:30 AM                 09:30 AM
+               Volume            6             6          2             2          6             6          2             2
+          Peak Factor                      0.417                    0.375                    0.500                    0.500
+
+                                                                Normandie Ave
+                                                            Out      In       Total
+                                                              12        10       22
+
+
+                                                                            10
+                                                                         Thru
+                              7
+                          Total
+
+
+
+
+                                                                                                                Out
+                                                                                                                   4
+                                                                         North
+
+
+
+
+                                                                                                                Sunset Blvd
+                         Sunset Blvd
+
+                                 4
+
+
+                                           4
+
+
+
+
+                                                                                                        Thru
+                                       Thru
+                              In
+
+
+
+
+                                                                                                                    In
+                                                            5/25/2011 9:00:00 AM
+                                                            5/25/2011 9:45:00 AM
+                                                                                                            3
+
+
+                                                                                                                       3
+                        3
+
+
+
+
+                                                            2 - Bank 1
+                     Out
+
+
+
+
+                                                                                                                            Total
+                                                                                                                                7
+
+
+
+
+                                                                         Thru
+                                                                            12
+
+
+                                                              10        12       22
+                                                            Out      In       Total
+                                                                Normandie Ave
+                                                       City Traffic Counters
+                                                           626.256.4171
+                                                                                                 File Name       : SunsetNorm_Bike
+                                                                                                 Site Code       : 00000000
+                                                                                                 Start Date      : 5/25/2011
+                                                                                                 Page No         :3
+                              Normandie Ave             Sunset Blvd             Normandie Ave             Sunset Blvd
+                               Southbound               Westbound                Northbound                Eastbound
+             Start Time       Thru     App. Total      Thru     App. Total      Thru     App. Total      Thru     App. Total          Int. Total
+Peak Hour From 12:00 PM to 05:45 PM - Peak 1 of 1
+           Intersection 04:45 PM
+               Volume           19            19          5             5          9             9          3             3                  36
+               Percent       100.0                    100.0                    100.0                    100.0
+        05:30 Volume             5             5          1             1          4             4          1             1                  11
+          Peak Factor                                                                                                               0.818
+               High Int. 04:45 PM                 04:45 PM                 05:00 PM                 05:00 PM
+               Volume            6             6          3             3          4             4          1             1
+          Peak Factor                      0.792                    0.417                    0.563                    0.750
+
+                                                                   Normandie Ave
+                                                            Out         In       Total
+                                                                  9        19       28
+
+
+                                                                            19
+                                                                         Thru
+                              8
+                          Total
+
+
+
+
+                                                                                                                Out
+                                                                                                                   3
+                                                                         North
+
+
+
+
+                                                                                                                Sunset Blvd
+                         Sunset Blvd
+
+                                 3
+
+
+                                           3
+
+
+
+
+                                                                                                        Thru
+                                       Thru
+                              In
+
+
+
+
+                                                                                                                    In
+                                                            5/25/2011 4:45:00 PM
+                                                            5/25/2011 5:30:00 PM
+                                                                                                            5
+
+
+                                                                                                                       5
+                        5
+
+
+
+
+                                                            2 - Bank 1
+                     Out
+
+
+
+
+                                                                                                                            Total
+                                                                                                                                8
+
+
+
+
+                                                                         Thru
+                                                                             9
+
+
+                                                              19        9        28
+                                                            Out      In       Total
+                                                                Normandie Ave
+

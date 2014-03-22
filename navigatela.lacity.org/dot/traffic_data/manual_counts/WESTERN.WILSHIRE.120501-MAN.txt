@@ -1,0 +1,286 @@
+                       City Of Los Angeles
+                       Department Of Transportation
+                       MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South            Western Ave
+
+East/West              Wilshire Blvd
+
+Day:                   Tuesday              Date:              May 1, 2012                Weather:             SUNNY
+
+Hours:        7-10AM 3-6PM                                               Chekrs:          NDS
+
+School Day:            YES                  District:                                       I/S CODE
+
+
+                          N/B                            S/B                                 E/B                         W/B
+DUAL-
+WHEELED                     73                            63                                  56                           50
+BIKES                       34                            47                                  76                           79
+BUSES                      123                           116                                 170                          296
+
+
+                          N/B    TIME                    S/B    TIME                         E/B     TIME                W/B     TIME
+
+AM PK 15 MIN               251    7.15                   271      7.45                       392       8.00               350     7.30
+
+PM PK 15 MIN               252   16.45                   265     17.45                       345     17.45                333    17.30
+
+AM PK HOUR                 892    7.15                  1016      7.30                      1402       8.00              1285     7.15
+
+PM PK HOUR                 939   16.30                   987     16.00                      1252     17.00               1251    17.00
+
+
+
+
+NORTHBOUND Approach                                            SOUTHBOUND Approach                                              TOTAL    XING S/L       XING N/L
+
+Hours           Lt       Th       Rt        Total              Hours               Lt       Th       Rt        Total             N-S      Ped   Sch      Ped   Sch
+7-8               85      729         77        891            7-8                  104      777          62       943            1834    126     2      598     0
+8-9               79      689        105        873            8-9                  150      767          72       989            1862    196     4      566     0
+9-10             107      601        145        853            9-10                 139      693          92       924            1777    191     1      462     0
+15-16             79      757         84        920            15-16                122      776          68       966            1886    281     1      523     0
+16-17             67      764         91        922            16-17                110      822          55       987            1909    321     0      617     0
+17-18             83      735         73        891            17-18                107      780          59       946            1837    308     9      564     0
+
+TOTAL            500     4275        575       5350            TOTAL                732     4615       408       5755            11105   1423   17      3330       0
+
+
+EASTBOUND Approach                                             WESTBOUND Approach                                               TOTAL    XING W/L       XING E/L
+
+Hours           Lt       Th       Rt        Total              Hours               Lt       Th       Rt        Total             E-W      Ped   Sch      Ped   Sch
+7-8               73      807          52       932            7-8                   79     1116        42        1237            2169    189     1      248     0
+8-9               98     1231          73      1402            8-9                   82     1097        49        1228            2630    194     1      267     3
+9-10              84      799          72       955            9-10                 117      876        78        1071            2026    207     0      237     3
+15-16            119      844          92      1055            15-16                128      824        87        1039            2094    242     0      597     3
+16-17            139      917          91      1147            16-17                135      868        81        1084            2231    348     0      678     1
+17-18            159     1015          78      1252            17-18                142     1001       108        1251            2503    308     1      675     5
+
+TOTAL            672     5613        458       6743            TOTAL                683     5782       445       6910            13653   1488       3   2702   15
+                                   Intersection Turning Movement
+                                                           Prepared by:
+                                           National Data & Surveying Services
+         Project ID: CA12_5161_004                                                                                          Day: TUESDAY
+                                                                            CARS
+                 City: City of Los Angeles                                                                                 Date: 05/01/2012
+                                                                            AM
+     NS/EW Streets:            Western Ave               Western Ave                    Wilshire Blvd                  Wilshire Blvd
+                               NORTHBOUND                SOUTHBOUND                     EASTBOUND                      WESTBOUND
+
+                          NL        NT       NR    SL        ST        SR          EL        ET         ER        WL       WT          WR      TOTAL
+     LANES:               1          2        0    1          2         0          1          3          0        1         3           0
+
+          7:00   AM       18       157        17   21       156        12          19       147         11        16       212         7        793
+          7:15   AM       28       204        10   18       190        15          14       161         13        13       272         7        945
+          7:30   AM       19       166        18   29       191        17          14       241         14        20       312         4       1045
+          7:45   AM       19       161        30   33       213        16          18       234         13        20       274         7       1038
+          8:00   AM       15       146        31   30       193        17          26       344         16        16       260         7       1101
+          8:15   AM       23       182        21   37       189        19          16       296         20        20       243         11      1077
+          8:30   AM       13       171        22   38       171        16          27       295         17        17       266         12      1065
+          8:45   AM       26       157        26   43       183        20          19       280         20        21       280         8       1083
+          9:00   AM       23       146        41   42       159        20          12       218         10        32       221         6        930
+          9:15   AM       38       139        29   35       148        17          19       166         21        25       203         16       856
+          9:30   AM       21       150        27   28       171        34          18       201         18        28       225         20       941
+          9:45   AM       24       138        43   33       185        19          24       194         21        27       186         20       914
+
+                        NL       NT  NR       SL    ST                  SR         EL    ET              ER       WL      WT           WR      TOTAL
+   TOTAL VOLUMES :     267      1917 315     387   2149                222        226   2777            194       255    2954          125     11788
+    APPROACH %'s :    10.68% 76.71% 12.61% 14.03% 77.92%               8.05%     7.07% 86.86%           6.07%     7.65% 88.60%         3.75%
+                     nb a     nb d        sb a   sb d                          eb a   eb d                      wb a   nb d
+PEAK HR START TIME :      800 AM                                                                                                               TOTAL
+
+      PEAK HR VOL :       77       656       100   148      736        72          88      1215         73        74      1049         38      4326
+
+   PEAK HR FACTOR :                0.921                    0.972                          0.891                          0.939                0.982
+
+         CONTROL : Signalized
+                                    Intersection Turning Movement
+                                                               Prepared by:
+                                            National Data & Surveying Services
+         Project ID: CA12_5161_004                                                                                              Day: TUESDAY
+                                                                                CARS
+                  City: City of Los Angeles                                                                                    Date: 05/01/2012
+                                                                                PM
+     NS/EW Streets:             Western Ave                  Western Ave                    Wilshire Blvd                  Wilshire Blvd
+                                NORTHBOUND                   SOUTHBOUND                     EASTBOUND                      WESTBOUND
+
+                           NL        NT       NR        SL       ST        SR          EL        ET         ER        WL       WT          WR      TOTAL
+     LANES:                1          2        0        1         2         0          1          3          0        1         3           0
+
+           3:00   PM       21       165       25        26      205        16          26       175         15        36       185         21       916
+           3:15   PM       16       183       18        36      192        22          23       213         29        26       200         16       974
+           3:30   PM       24       188       21        30      178        20          31       206         23        42       198         14       975
+           3:45   PM       18       195       17        29      171        9           28       217         24        23       200         21       952
+           4:00   PM       15       190       8         30      205        9           34       224         25        32       200         17       989
+           4:15   PM       18       177       23        33      186        18          29       205         22        34       213         19       977
+           4:30   PM       15       171       31        31      208        13          31       212         27        31       209         15       994
+           4:45   PM       19       203       27        16      194        13          34       241         16        36       215         21      1035
+           5:00   PM       23       169       22        25      178        11          37       237         18        37       249         18      1024
+           5:15   PM       21       187       23        20      200        11          34       238         11        36       235         24      1040
+           5:30   PM       19       156       16        25      181        16          30       250         25        33       262         25      1038
+           5:45   PM       19       203       9         37      203        21          49       257         24        33       229         25      1109
+
+                        NL       NT           NR          SL    ST          SR         EL    ET              ER       WL      WT           WR      TOTAL
+    TOTAL VOLUMES :    228      2187          240        338   2301        179        386   2675            259       399    2595          236     12023
+     APPROACH %'s :    8.59% 82.37%           9.04%    11.99% 81.65%       6.35%    11.63% 80.57%           7.80%    12.35% 80.34%         7.31%
+                     nb a     nb d                    sb a   sb d                  eb a   eb d                      wb a   nb d
+PEAK HR START TIME :      500 PM                                                                                                                   TOTAL
+
+      PEAK HR VOL :        82       715       70       107      762        59        150        982         78       139       975         92      4211
+
+   PEAK HR FACTOR :                 0.938                       0.889                          0.917                          0.942                0.949
+
+         CONTROL : Signalized
+                                   Intersection Turning Movement
+                                                          Prepared by:
+                                           National Data & Surveying Services
+         Project ID: CA12_5161_004                                                                                        Day: TUESDAY
+                                                                      HEAVY TRUCKS
+                 City: City of Los Angeles                                                                               Date: 05/01/2012
+                                                                            AM
+     NS/EW Streets:            Western Ave              Western Ave                   Wilshire Blvd                  Wilshire Blvd
+
+                               NORTHBOUND               SOUTHBOUND                    EASTBOUND                      WESTBOUND
+
+                          NL        NT       NR    SL       ST         SR        EL        ET         ER        WL       WT          WR   TOTAL
+     LANES:               1          2        0    1         2          0        1          3          0        1         3           0
+
+          7:00   AM        0         3        0     1       0           1        0         2           0        0         1          0       8
+          7:15   AM        0         3        0     1       0           1        0         2           0        0         2          0       9
+          7:30   AM        0         2        1     0       2           0        0         1           1        0         0          0       7
+          7:45   AM        0         4        1     1       1           0        1         1           0        0         2          0      11
+          8:00   AM        0         6        1     1       1           0        0         2           0        0         1          0      12
+          8:15   AM        0         1        1     1       3           0        0         0           0        0         2          0       8
+          8:30   AM        2         6        0     0       5           0        1         0           0        1         2          0      17
+          8:45   AM        0         2        0     0       4           0        1         0           0        0         2          0       9
+          9:00   AM        1         1        0     0       3           0        1         3           0        2         5          1      17
+          9:15   AM        0         3        4     1       2           1        1         3           0        0         0          3      18
+          9:30   AM        0         5        0     0       4           1        0         1           1        0         2          0      14
+          9:45   AM        0         4        1     0       7           0        0         3           0        0         2          3      20
+
+                        NL        NT NR      SL     ST                  SR        EL     ET            ER       WL      WT    WR    TOTAL
+   TOTAL VOLUMES :       3        40  9       6     32                   4         5     18             2        3      21     7     150
+    APPROACH %'s :     5.77% 76.92% 17.31% 14.29% 76.19%               9.52%    20.00% 72.00%         8.00%     9.68% 67.74% 22.58%
+                     nb a      nb d       sb a   sb d                          eb a   eb d                    wb a   nb d
+PEAK HR START TIME :       900 AM                                                                                                   TOTAL
+
+      PEAK HR VOL :       1         13        5    1        16         2         2        10          1         2         9          7      69
+
+   PEAK HR FACTOR :                0.679                   0.679                         0.813                          0.563               0.863
+
+         CONTROL : Signalized
+                                    Intersection Turning Movement
+                                                               Prepared by:
+                                            National Data & Surveying Services
+         Project ID: CA12_5161_004                                                                                             Day: TUESDAY
+                                                                           HEAVY TRUCKS
+                  City: City of Los Angeles                                                                                   Date: 05/01/2012
+                                                                                 PM
+     NS/EW Streets:             Western Ave                  Western Ave                   Wilshire Blvd                  Wilshire Blvd
+
+                                NORTHBOUND                   SOUTHBOUND                    EASTBOUND                      WESTBOUND
+
+                           NL        NT       NR        SL       ST         SR        EL        ET         ER        WL       WT          WR      TOTAL
+     LANES:                1          2        0        1         2          0        1          3          0        1         3           0
+
+           3:00   PM        0         1        1         0       2           0        0         3                    0         4           0       11
+           3:15   PM        0         0        0         0       1           0        0         2                    0         0           0        3
+           3:30   PM        0         3        0         1       1           0        1         4                    0         3           1       14
+           3:45   PM        0         3        0         0       1           1        0         1                    1         2           0        9
+           4:00   PM        0         3        0         0       4           1        0         0                    0         0           0        8
+           4:15   PM        0         2        0         0       1           0        1         1                    0         0           0        5
+           4:30   PM        0         2        0         0       4           0        1         6                    0         2           0       15
+           4:45   PM        0         0        0         0       1           0        0         3                    0         2           0        6
+           5:00   PM        1         2        0         0       3           0        2         2                    1         1           0       12
+           5:15   PM        0         2        0         0       0           0        0         0                    1         1           0        4
+           5:30   PM        0         1        0         0       0           0        0         2                    0         0           0        3
+           5:45   PM        0         0        0         0       0           0        0         2                    0         0           0        2
+
+                        NL        NT          NR          SL     ST          SR        EL     ET            ER       WL      WT           WR      TOTAL
+    TOTAL VOLUMES :      1        19           1          1      18           2         5     26             0        3      15            1        92
+     APPROACH %'s :    4.76% 90.48%           4.76%      4.76% 85.71%       9.52%    16.13% 83.87%         0.00%    15.79% 78.95%         5.26%
+                     nb a      nb d                   sb a    sb d                  eb a   eb d                    wb a   nb d
+PEAK HR START TIME :       415 PM                                                                                                                 TOTAL
+
+      PEAK HR VOL :        1         6         0        0        9          0         4        12          0         1         5          0        38
+
+   PEAK HR FACTOR :                 0.583                       0.563                         0.571                          0.750                0.633
+
+         CONTROL : Signalized
+                                     Intersection Turning Movement
+                                                               Prepared by:
+                                            National Data & Surveying Services
+         Project ID: CA12_5161_004                                                                                              Day: TUESDAY
+                                                                               BUSES
+                  City: City of Los Angeles                                                                                    Date: 05/01/2012
+                                                                                AM
+     NS/EW Streets:             Western Ave                  Western Ave                    Wilshire Blvd                  Wilshire Blvd
+
+                                NORTHBOUND                   SOUTHBOUND                     EASTBOUND                      WESTBOUND
+
+                           NL        NT       NR        SL       ST        SR          EL        ET         ER        WL       WT          WR   TOTAL
+     LANES:                1          2        0        1         2         0          1          3          0        1         3           0
+
+           7:00   AM        0         9        0                 7                     1         4           0        2         9          6      38
+           7:15   AM        1         5        0                 4                     2         4           0        4         11         4      35
+           7:30   AM        0         9        0                 6                     2         4           0        2         10         2      35
+           7:45   AM        0         6        0                 7                     2         6           0        2         11         5      39
+           8:00   AM        0         4        2                 3                     1         3           0        2         12         3      30
+           8:15   AM        0         6        0                 6                     3         3           0        2         11         3      34
+           8:30   AM        0         5        1                 5                     2         4           0        2         10         5      34
+           8:45   AM        0         3        0                 4                     2         4           0        1         8          0      22
+           9:00   AM        0         3        0                 4                     2         1           1        1         11         3      26
+           9:15   AM        0         5        0                 4                     3         4           0        0         8          1      25
+           9:30   AM        0         5        0                 4                     2         1           0        1         5          2      20
+           9:45   AM        0         2        0                 2                     2         4           0        1         8          3      22
+
+                        NL        NT          NR          SL      ST        SR        EL     ET              ER       WL      WT    WR    TOTAL
+    TOTAL VOLUMES :      1        62           3          0       56         0        24     42               1        20    114     37    360
+     APPROACH %'s :    1.52% 93.94%           4.55%      0.00% 100.00%     0.00%    35.82% 62.69%           1.49%    11.70% 66.67% 21.64%
+                     nb a      nb d                   sb a    sb d                 eb a   eb d                      wb a   nb d
+PEAK HR START TIME :       700 AM                                                                                                         TOTAL
+
+      PEAK HR VOL :        1         29       0         0        24        0           7        18          0         10       41          17     147
+
+   PEAK HR FACTOR :                 0.833                       0.857                          0.781                          0.895               0.942
+
+         CONTROL : Signalized
+                                    Intersection Turning Movement
+                                                           Prepared by:
+                                            National Data & Surveying Services
+         Project ID: CA12_5161_004                                                                                           Day: TUESDAY
+                                                                            BUSES
+                  City: City of Los Angeles                                                                                 Date: 05/01/2012
+                                                                             PM
+     NS/EW Streets:             Western Ave              Western Ave                     Wilshire Blvd                  Wilshire Blvd
+
+                                NORTHBOUND               SOUTHBOUND                      EASTBOUND                      WESTBOUND
+
+                           NL        NT       NR    SL       ST        SR           EL        ET         ER        WL       WT          WR   TOTAL
+     LANES:                1          2        0    1         2         0           1          3          0        1         3           0
+
+           3:00   PM                  3        1             6          0           4         5           0        0         10         5      34
+           3:15   PM                  5        0             5          0           2         4           0        0         5          4      25
+           3:30   PM                  5        0             6          0           2         6           1        0         5          3      28
+           3:45   PM                  6        1             8          0           2         8           0        0         12         2      39
+           4:00   PM                  4        0             4          1           2         6           0        0         9          1      27
+           4:15   PM                  3        1             4          0           1         8           0        0         6          2      25
+           4:30   PM                  7        0             5          0           3         5           1        1         5          5      32
+           4:45   PM                  2        1             6          0           3         6           0        1         7          1      27
+           5:00   PM                  4        1             4          0           1         4           0        0         6          2      22
+           5:15   PM                  5        1             3          0           3         5           0        0         5          4      26
+           5:30   PM                  4        1             4          0           2         6           0        1         5          7      30
+           5:45   PM                  2        0             4          0           1         12          0        0         8          3      30
+
+                        NL        NT NR        SL     ST                SR        EL     ET               ER       WL      WT    WR    TOTAL
+   TOTAL VOLUMES :       0        50  7        0      59                 1        26     75                2        3      83     39    345
+    APPROACH %'s :     0.00% 87.72% 12.28%    0.00% 98.33%             1.67%    25.24% 72.82%            1.94%     2.40% 66.40% 31.20%
+                     nb a      nb d        sb a    sb d                        eb a   eb d                       wb a   nb d
+PEAK HR START TIME :       300 PM                                                                                                      TOTAL
+
+      PEAK HR VOL :        0         19        2    0        25        0          10         23          1         0        32          14     126
+
+   PEAK HR FACTOR :                 0.750                   0.781                           0.850                          0.767               0.808
+
+         CONTROL : Signalized
+

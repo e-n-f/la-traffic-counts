@@ -1,0 +1,40 @@
+                      Intersection Turning Movement
+                                               Prepared by:
+                             National Data & Surveying Services
+
+
+N-S STREET:    Boylston St                   DATE: 12/15/2010              LOCATION: City of Los Angeles
+
+
+E-W STREET: 3rd St                            DAY: WEDNESDAY               PROJECT#      10-5532-005
+
+
+                     NORTHBOUND            SOUTHBOUND             EASTBOUND             WESTBOUND
+
+                 NL     NT      NR     SL     ST     SR    EL        ET    ER      WL      WT     WR   TOTAL
+  LANES:         0       2       0     0       2      0    0          2     0      1        2      0
+
+   6:30   AM     2          2   2      2      3      3              107       3    7      179     0    310
+   6:45   AM     1          1   0      8      6      5              135       1    7      156     0    320
+   7:00   AM     1          5   3      11     4      4              162       2    10     174     3    379
+   7:15   AM     0          1   11     13     10     4              167       3    14     221     1    445
+   7:30   AM     2          4   7      6      11     6              221       7    10     234     2    510
+   7:45   AM     0          1   8      14     15     5              235       5    10     221     3    517
+   8:00   AM     0          2   10     16     7      6              218       6    10     217     0    492
+   8:15   AM     1          1   1      16     11     7              260       3    13     202     0    515
+
+TOTAL            NL     NT      NR     SL     ST     SR    EL        ET    ER      WL      WT     WR   TOTAL
+VOLUMES =        7      17      42     86     67     40    0        1505   30      81     1604     9    3488
+
+            nb a nb d                sb a   sb d          eb a eb d               wb a nb d
+                 66     26              193    178          1535 1633              1694 1651
+      AM Peak Hr Begins at:      730 AM
+
+PEAK
+VOLUMES =        3          8   26    52      44     24       0     934    21      43     874     5    2034
+
+PEAK HR.
+FACTOR:                0.712                 0.882                 0.908                  0.937        0.984
+
+CONTROL:       Signalized
+

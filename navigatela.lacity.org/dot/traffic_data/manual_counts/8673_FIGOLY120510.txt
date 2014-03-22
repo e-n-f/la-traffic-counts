@@ -1,0 +1,505 @@
+                                                 City Traffic Counters
+                                                    626-447-4171
+                                                                                                    File Name      : FigOlympic
+                                                                                                    Site Code      : 00000000
+                                                                                                    Start Date     : 5/10/2012
+                                                                                                    Page No        :1
+                                                Groups Printed- 1 - Unshifted
+                    Figueroa St              Olympic Blvd                  Figueroa St                Olympic Blvd
+                   Southbound                  Westbound                   Northbound                  Eastbound
+ Start Time    Left     Thru      Right   Left     Thru    Right      Left      Thru     Right    Left     Thru    Right   Int. Total
+     Factor    1.0        1.0       1.0   1.0        1.0     1.0       1.0        1.0      1.0     1.0       1.0     1.0
+ 07:00 AM        0          0         0     5       153      29        38        251       30      37       109      13         665
+ 07:15 AM        0          0         0     4       169      24        56        318       34      33       141      12         791
+ 07:30 AM        0          0         0    11       170      38        50        350       40      44       157      11         871
+ 07:45 AM        0          0         0    12       175      38        65        411       41      57       222      13        1034
+       Total     0          0         0    32       667     129       209      1330       145     171       629      49        3361
+
+ 08:00 AM        0         0         0     19      181        54       65       460        52      59      271       23        1184
+ 08:15 AM        0         0         0     21      211        49       61       430        45      52      278       33        1180
+ 08:30 AM        0         0         0     14      203        59       64       450        47      69      261       24        1191
+ 08:45 AM        0         0         0     18      204        47       63       456        52      76      285       22        1223
+     Total       0         0         0     72      799       209      253      1796       196     256     1095      102        4778
+
+ 09:00 AM        0         0         0     22      175        48       42       374        53      69      226       22        1031
+ 09:15 AM        0         0         0     22      184        58       66       323        39      72      213       21         998
+ 09:30 AM        0         0         0     22      189        58       58       274        47      53      166       22         889
+ 09:45 AM        0         0         0     18      162        45       49       245        34      58      210       29         850
+     Total       0         0         0     84      710       209      215      1216       173     252      815       94        3768
+
+
+
+ 03:00 PM        0         0         0     13      214        76       58       319        35      47      177       43         982
+ 03:15 PM        0         0         0     20      205        46       56       326        43      75      157       34         962
+ 03:30 PM        0         0         0     30      221        33       53       343        49      46      206       38        1019
+ 03:45 PM        0         0         0     21      231        39       45       314        64      60      238       41        1053
+     Total       0         0         0     84      871       194      212      1302       191     228      778      156        4016
+
+ 04:00 PM        0         0         0     30      204        50       76       323        52      52      189       49        1025
+ 04:15 PM        0         0         0     26      235        39       59       321        57      46      234       50        1067
+ 04:30 PM        0         0         0     25      246        46       69       314        46      47      212       56        1061
+ 04:45 PM        0         0         0     14      305        55       57       283        54      40      194       56        1058
+     Total       0         0         0     95      990       190      261      1241       209     185      829      211        4211
+
+ 05:00 PM        0         0         0     25      317        47       63       335        47      44      246       53        1177
+ 05:15 PM        0         0         0     18      258        45       72       340        50      52      249       51        1135
+ 05:30 PM        0         0         0     23      293        60       85       344        50      66      210       57        1188
+ 05:45 PM        0         0         0     16      291        48       88       366        31      53      216       43        1152
+     Total       0         0         0     82     1159       200      308      1385       178     215      921      204        4652
+
+Grand Total      0         0         0    449     5196     1131      1458      8270      1092    1307     5067     816       24786
+ Apprch %      0.0       0.0       0.0     6.6     76.7     16.7      13.5      76.4      10.1    18.2     70.5    11.3
+   Total %     0.0       0.0       0.0     1.8     21.0      4.6       5.9      33.4       4.4     5.3     20.4     3.3
+                                                                 City Traffic Counters
+                                                                    626-447-4171
+                                                                                                                                   File Name                         : FigOlympic
+                                                                                                                                   Site Code                         : 00000000
+                                                                                                                                   Start Date                        : 5/10/2012
+                                                                                                                                   Page No                           :2
+
+                          Figueroa St                        Olympic Blvd                              Figueroa St                          Olympic Blvd
+                          Southbound                         Westbound                                 Northbound                            Eastbound
+                                     App.                                     App.                                   App.                                             App.     Int.
+   Start Time   Left    Thru Right          Left Thru Right                                Left       Thru Right             Left           Thru Right
+                                    Total                                     Total                                  Total                                            Total   Total
+Peak Hour From 07:00 AM to 11:45 AM - Peak 1 of 1
+  Intersection 08:00 AM
+      Volume        0      0    0       0     72   799 209                   1080       253           1796    196    2245    256            1095             102      1453    4778
+      Percent     0.0    0.0  0.0            6.7 74.0 19.4                              11.3           80.0    8.7           17.6            75.4             7.0
+        08:45
+                    0      0    0       0     18   204  47                     269          63         456     52     571     76             285                22     383    1223
+      Volume
+ Peak Factor                                                                                                                                                                  0.977
+      High Int. 6:45:00 AM                 08:15 AM                                08:00 AM                                08:45 AM
+      Volume        0      0    0       0     21   211  49                     281   65    460                 52      577   76    285                          22     383
+ Peak Factor                                                                 0.961                                   0.973                                           0.948
+
+                                                                             Figueroa St
+                                                                      Out        In          Total
+                                                                      2261          0         2261
+
+
+                                                                            0     0               0
+                                                                        Right Thru         Left
+                                        2505
+                                        Total
+
+
+
+
+                                                                                                                                               1291
+                                                                                                                                               Out
+                                                 256
+
+
+
+
+                                                                                                                               Right Thru
+                                                Left
+
+
+
+
+                                                                                                                                 209
+                                                                                North
+                           Olympic Blvd
+
+
+
+
+                                                                                                                                               Olympic Blvd
+                               1453
+
+
+                                                  102 1095
+                                                Right Thru
+                                 In
+
+
+
+
+                                                                                                                                                   1080
+                                                                     5/10/2012 8:00:00 AM                                                           In
+                                                                                                                                      799
+
+
+
+
+                                                                     5/10/2012 8:45:00 AM
+                                                                                                                               Left
+                       1052
+
+
+
+
+                                                                      1 - Unshifted
+                       Out
+
+
+
+
+                                                                                                                                                            Total
+                                                                                                                                 72
+
+
+                                                                                                                                                            2371
+
+
+
+
+                                                                         Left Thru Right
+                                                                          253 1796   196
+
+
+                                                                       174       2245         2419
+                                                                      Out        In          Total
+                                                                             Figueroa St
+                                                           City Traffic Counters
+                                                              626-447-4171
+                                                                                                                             File Name                         : FigOlympic
+                                                                                                                             Site Code                         : 00000000
+                                                                                                                             Start Date                        : 5/10/2012
+                                                                                                                             Page No                           :3
+                         Figueroa St                   Olympic Blvd                              Figueroa St                          Olympic Blvd
+                         Southbound                    Westbound                                 Northbound                            Eastbound
+                                     App.                               App.                                   App.                                             App.     Int.
+   Start Time   Left   Thru Right           Left Thru Right                          Left       Thru Right             Left           Thru Right
+                                    Total                               Total                                  Total                                            Total   Total
+Peak Hour From 12:00 PM to 05:45 PM - Peak 1 of 1
+  Intersection 05:00 PM
+      Volume       0     0      0       0     82 1159  200             1441       308           1385    178    1871    215            921            204        1340    4652
+      Percent    0.0   0.0    0.0            5.7 80.4 13.9                        16.5           74.0    9.5           16.0           68.7           15.2
+        05:30
+                   0     0      0       0     23   293  60               376          85         344     50     479     66            210                 57     333    1188
+      Volume
+ Peak Factor                                                                                                                                                            0.979
+      High Int.                            05:00 PM                          05:45 PM                                05:15 PM
+      Volume       0     0      0       0     25   317  47               389   88    366                 31      485   52    249                          51     352
+ Peak Factor                                                           0.926                                   0.964                                           0.952
+
+                                                                       Figueroa St
+                                                                Out        In          Total
+                                                                1800          0         1800
+
+
+                                                                      0     0               0
+                                                                  Right Thru         Left
+                            2807
+                            Total
+
+
+
+
+                                                                                                                                         1099
+                                                                                                                                         Out
+                                           215
+
+
+
+
+                                                                                                                         Right Thru
+                                          Left
+
+
+
+
+                                                                          North                                            200 1159
+
+
+
+
+                                                                                                                                         Olympic Blvd
+                           Olympic Blvd
+
+                               1340
+
+
+                                                 921
+                                          Right Thru
+                                 In
+
+
+
+
+                                                                                                                                             1441
+                                                                                                                                              In
+                                                               5/10/2012 5:00:00 PM
+                                                               5/10/2012 5:45:00 PM
+                                            204
+
+
+
+
+                                                                                                                         Left
+                       1467
+
+
+
+
+                                                                1 - Unshifted
+                       Out
+
+
+
+
+                                                                                                                                                      Total
+                                                                                                                           82
+
+
+                                                                                                                                                      2540
+
+
+
+
+                                                                   Left Thru Right
+                                                                    308 1385   178
+
+
+                                                                 286       1871         2157
+                                                                Out        In          Total
+                                                                       Figueroa St
+                                  City Traffic Counters
+                                     626-447-4171
+                                                                                File Name    : FigOlympic_B_P
+                                                                                Site Code    : 00000000
+                                                                                Start Date   : 5/10/2012
+                                                                                Page No      :1
+                                   Groups Printed- 2 - Bank 1
+               Figueroa St        Olympic Blvd              Figueroa St             Olympic Blvd
+               Southbound         Westbound                 Northbound               Eastbound
+ Start Time    Thru        Peds   Thru         Peds         Thru        Peds        Thru         Peds    Int. Total
+     Factor     1.0         1.0     1.0          1.0          1.0         1.0         1.0          1.0
+ 07:00 AM         8           9       8          25             4         21            2          17          94
+ 07:15 AM         2          30       2          32           15          50           20          43         194
+ 07:30 AM        23          25       0          52             5         28           18          42         193
+ 07:45 AM        10          34       7          51           11          20            2          30         165
+       Total     43          98      17         160           35         119           42         132         646
+
+ 08:00 AM        13         35       4           38           6           32           8           22         158
+ 08:15 AM         6         34       0           41           2           50           7           31         171
+ 08:30 AM        14         36       6           71           3           33          13           36         212
+ 08:45 AM        10         44       8           76           6           44           6           24         218
+     Total       43        149      18          226          17          159          34          113         759
+
+ 09:00 AM         3         52       0           83           5           28           5           51         227
+ 09:15 AM         0         19       7           70           0           37           2           23         158
+ 09:30 AM         4         36       5           54          10           35          18           26         188
+ 09:45 AM         5         44       2           61           0           21           9           44         186
+     Total       12        151      14          268          15          121          34          144         759
+
+
+
+ 03:00 PM        26        150      16           71           8           33          26          116         446
+ 03:15 PM         4         65      23          119           9           38          27           44         329
+ 03:30 PM         3         50       1           56           3           45           8           12         178
+ 03:45 PM         6         51       4           60           2           36           7           39         205
+     Total       39        316      44          306          22          152          68          211        1158
+
+ 04:00 PM         6         44       5           85           4           18           5           28         195
+ 04:15 PM         2         28       4           97           2           32           2           29         196
+ 04:30 PM         3         32       3           61           5           48           5           29         186
+ 04:45 PM         3         50       3          127           4           51          10           32         280
+     Total       14        154      15          370          15          149          22          118         857
+
+ 05:00 PM         3         75       2          109           7           60           5           40         301
+ 05:15 PM         5         62       6          138           5           83           6           47         352
+ 05:30 PM         9         33      11           90          14           61           8           43         269
+ 05:45 PM         4         60       3           88           5           67           8           52         287
+     Total       21        230      22          425          31          271          27          182        1209
+
+Grand Total    172        1098     130        1755          135         971          227         900         5388
+ Apprch %      13.5        86.5     6.9        93.1         12.2        87.8         20.1        79.9
+   Total %      3.2        20.4     2.4        32.6          2.5        18.0          4.2        16.7
+                                                       City Traffic Counters
+                                                          626-447-4171
+                                                                                                             File Name                 : FigOlympic_B_P
+                                                                                                             Site Code                 : 00000000
+                                                                                                             Start Date                : 5/10/2012
+                                                                                                             Page No                   :2
+
+                              Figueroa St            Olympic Blvd                          Figueroa St                      Olympic Blvd
+                              Southbound             Westbound                             Northbound                        Eastbound
+                                       App.                          App.                                App.                                        App.
+      Start Time   Thru                Peds     Thru  Peds                         Thru       Peds                 Thru         Peds                         Int. Total
+                                       Total                         Total                               Total                                       Total
+Peak Hour From 07:00 AM to 11:45 AM - Peak 1 of 1
+     Intersection 08:15 AM
+         Volume        33    166        199       14   271               285        16        155         171       31          142                   173         828
+         Percent     16.6   83.4                  4.9 95.1                          9.4       90.6                 17.9         82.1
+   09:00 Volume         3     52         55         0   83                83          5        28          33         5          51                    56        227
+     Peak Factor                                                                                                                                              0.912
+         High Int. 09:00 AM                  08:45 AM                            08:15 AM                        09:00 AM
+         Volume         3     52         55         8   76              84            2         50          52        5              51                 56
+     Peak Factor                      0.905                          0.848                               0.822                                       0.772
+
+                                                                    Figueroa St
+                                                             Out        In         Total
+                                                               16        199         215
+
+
+                                                                       33  166
+                                                                    Thru Peds
+                          187
+                         Total
+
+
+
+
+                                                                                                                                Out
+                                                                                                                                 31
+                                                                         North
+                                                31
+
+
+
+
+                                                                                                                                Olympic Blvd
+                        Olympic Blvd
+
+
+
+
+                                                                                                                    Thru Peds
+                                         Peds Thru
+                              173
+
+
+
+
+                                                                                                                      14
+                              In
+
+
+
+
+                                                                                                                                    In
+                                                            5/10/2012 8:15:00 AM                                                     285
+                                          142
+
+
+
+
+                                                            5/10/2012 9:00:00 AM
+                                                                                                                          271
+                     14
+
+
+
+
+                                                            2 - Bank 1
+                    Out
+
+
+
+
+                                                                                                                                             Total
+                                                                                                                                              316
+
+
+
+
+                                                                    Thru Peds
+                                                                       16  155
+
+
+                                                               33        171         204
+                                                             Out        In         Total
+                                                                    Figueroa St
+                                                             City Traffic Counters
+                                                                626-447-4171
+                                                                                                                   File Name                 : FigOlympic_B_P
+                                                                                                                   Site Code                 : 00000000
+                                                                                                                   Start Date                : 5/10/2012
+                                                                                                                   Page No                   :3
+                                  Figueroa St              Olympic Blvd                          Figueroa St                      Olympic Blvd
+                                  Southbound               Westbound                             Northbound                        Eastbound
+                                       App.                                App.                                App.                                        App.
+      Start Time   Thru                      Peds
+                                                Thru  Peds                               Thru       Peds                 Thru         Peds                         Int. Total
+                                       Total                               Total                               Total                                       Total
+Peak Hour From 12:00 PM to 05:45 PM - Peak 1 of 1
+     Intersection 05:00 PM
+         Volume        21    230        251       22   425                     447        31        271         302       27          182                   209        1209
+         Percent       8.4  91.6                  4.9 95.1                               10.3       89.7                 12.9         87.1
+   05:15 Volume          5    62         67         6  138                     144          5        83          88         6          47                    53        352
+     Peak Factor                                                                                                                                                    0.859
+         High Int. 05:00 PM                  05:15 PM                                  05:15 PM                        05:45 PM
+         Volume          3    75         78         6  138                   144            5         83          88        8              52                 60
+     Peak Factor                      0.804                                0.776                               0.858                                       0.871
+
+                                                                          Figueroa St
+                                                                   Out        In         Total
+                                                                     31        251         282
+
+
+                                                                             21  230
+                                                                          Thru Peds
+                                      231
+                                     Total
+
+
+
+
+                                                                                                                                      Out
+                                                                                                                                       27
+                                                                               North
+                                                      27
+
+
+
+
+                                                                                                                                      Olympic Blvd
+                        Olympic Blvd
+
+
+
+
+                                                                                                                          Thru Peds
+                                               Peds Thru
+                              209
+
+
+
+
+                                                                                                                            22
+                              In
+
+
+
+
+                                                                                                                                          In
+                                                                  5/10/2012 5:00:00 PM
+
+                                                                                                                                          447
+                                                182
+
+
+
+
+                                                                  5/10/2012 5:45:00 PM
+                                                                                                                                425
+                     22
+
+
+
+
+                                                                  2 - Bank 1
+                    Out
+
+
+
+
+                                                                                                                                                   Total
+                                                                                                                                                    474
+
+
+
+
+                                                                          Thru Peds
+                                                                             31  271
+
+
+                                                                     21        302         323
+                                                                   Out        In         Total
+                                                                          Figueroa St
+

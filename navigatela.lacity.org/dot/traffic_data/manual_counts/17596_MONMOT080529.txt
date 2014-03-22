@@ -1,0 +1,314 @@
+                                                      TRAFFIC COUNT SUMMARY
+                                                                                                                                  City of Los Angeles
+STREET:                                                                                                                     Department of Transportation
+North/South              MOTOR AVENUE
+
+East/West                MONTE MAR DRIVE
+
+Day:     AM    THURSDAY                   Date:       MAY 29, 2008                   Weather:         CLEAR
+         PM    THURSDAY                               MAY 29, 2008
+Hours:         7-9 AM 4-6 PM
+
+School Day:              YES              District:           LOS ANGELES
+
+
+                           N/B                          S/B                            E/B                         W/B
+DUAL-
+WHEELED                    N/A                          N/A                            N/A                         N/A
+BIKES                      N/A                          N/A                            N/A                         N/A
+BUSES                      N/A                          N/A                            N/A                         N/A
+
+
+                           N/B TIME                     S/B TIME                       E/B TIME                    W/B    TIME
+
+AM PK 15 MIN               191 8:30                      98 8:00                        11 7:30                     63     8:45
+
+PM PK 15 MIN               133 5:45                     165 4:45                        17 5:15                     23     5:45
+
+AM PK HOUR                 733 8:00                     335 8:00                        41 7:30                    156     8:00
+
+PM PK HOUR                 482 5:00                     646 4:45                        54 5:00                     73     4:30
+
+
+
+NORTHBOUND Approach                                           SOUTHBOUND Approach                                        TOTAL       XING S/L       XING N/L
+
+Hours           Lt        Th        Rt    Total               Hours         Lt         Th       Rt       Total            N-S        Ped   Sch     Ped     Sch
+7-8                  1      514       0       515             7-8             22        203      13          238            753      N/A   N/A     N/A     N/A
+8-9                  5      725       3       733             8-9             22        302      11          335          1,068      N/A   N/A     N/A     N/A
+4-5                  2      452       5       459             4-5             64        564      12          640          1,099      N/A   N/A     N/A     N/A
+5-6                  1      478       3       482             5-6             52        558      20          630          1,112      N/A   N/A     N/A     N/A
+TOTAL                9    2,169      11     2,189             TOTAL          160      1,627      56        1,843          4,032      N/A   N/A     N/A     N/A
+
+
+EASTBOUND Approach                                            WESTBOUND Approach                                         TOTAL       XING W/L       XING E/L
+
+Hours           Lt        Th        Rt    Total               Hours         Lt        Th        Rt       Total            E-W        Ped   Sch     Ped     Sch
+7-8              25             4     5        34             7-8                0       7       87           94            128      N/A   N/A     N/A     N/A
+8-9              29             6     0        35             8-9                2      19      135         156             191      N/A   N/A     N/A     N/A
+4-5              23            13     4        40             4-5                5      10       56           71            111      N/A   N/A     N/A     N/A
+5-6              28            24     2        54             5-6                0      12       61           73            127      N/A   N/A     N/A     N/A
+TOTAL           105            47    11       163             TOTAL              7      48      339         394             557      N/A   N/A     N/A     N/A
+                                              City Traffic Counters
+                                                  626.256.4171
+                                                                                               File Name      : MotMonteM
+                                                                                               Site Code      : 00000000
+                                                                                               Start Date     : 5/29/2008
+                                                                                               Page No        :1
+                                              Groups Printed- 1 - Unshifted
+                    Motor Ave              Monte Mar Dr                   Motor Ave              Monte Mar Dr
+                   Southbound                Westbound                   Northbound                Eastbound
+ Start Time    Left    Thru     Right   Left     Thru    Right      Left      Thru    Right   Left     Thru   Right   Int. Total
+     Factor    1.0       1.0      1.0   1.0       1.0      1.0       1.0        1.0     1.0   1.0       1.0     1.0
+ 07:00 AM        2        38        7     0         0      13          0        94        0     3         1       1        159
+ 07:15 AM        6        39        1     0         1      19          0       113        0     7         0       1        187
+ 07:30 AM        6        64        1     0         4      26          1       152        0     8         2       1        265
+ 07:45 AM        8        62        4     0         2      29          0       155        0     7         1       2        270
+       Total    22      203       13      0         7      87          1       514        0    25         4       5        881
+
+ 08:00 AM        8      84         6      1        3       27         1      167         1      6        4       0         308
+ 08:15 AM        3      80         2      0        2       30         1      180         2      9        1       0         310
+ 08:30 AM        4      68         2      1        2       27         2      189         0      5        1       0         301
+ 08:45 AM        7      70         1      0       12       51         1      189         0      9        0       0         340
+     Total      22     302        11      2       19      135         5      725         3     29        6       0        1259
+
+
+
+ 04:00 PM       15     136         3      1        1       16         0      111         0      7       3        0         293
+ 04:15 PM       13     145         2      0        4       11         1      115         0      5       3        0         299
+ 04:30 PM       20     140         1      2        4       15         0      121         1      5       5        3         317
+ 04:45 PM       16     143         6      2        1       14         1      105         4      6       2        1         301
+     Total      64     564        12      5       10       56         2      452         5     23      13        4        1210
+
+ 05:00 PM       16     138         2      0        4       14         1      114         2      9       2        1         303
+ 05:15 PM       14     142         6      0        3       14         0      112         0      7       9        1         308
+ 05:30 PM       12     145         6      0        2       13         0      120         0      6       8        0         312
+ 05:45 PM       10     133         6      0        3       20         0      132         1      6       5        0         316
+     Total      52     558        20      0       12       61         1      478         3     28      24        2        1239
+
+Grand Total    160    1627       56       7      48       339         9     2169       11     105      47       11        4589
+ Apprch %       8.7    88.3      3.0    1.8     12.2      86.0      0.4      99.1      0.5    64.4    28.8      6.7
+   Total %      3.5    35.5      1.2    0.2      1.0       7.4      0.2      47.3      0.2     2.3     1.0      0.2
+                                                                  City Traffic Counters
+                                                                      626.256.4171
+                                                                                                                                 File Name                              : MotMonteM
+                                                                                                                                 Site Code                              : 00000000
+                                                                                                                                 Start Date                             : 5/29/2008
+                                                                                                                                 Page No                                :2
+
+                           Motor Ave                          Monte Mar Dr                              Motor Ave                           Monte Mar Dr
+                          Southbound                           Westbound                                Northbound                           Eastbound
+                                     App.                                        App.                                App.                                                App.     Int.
+   Start Time   Left    Thru Right          Left Thru Right                                   Left    Thru Right              Left          Thru Right
+                                    Total                                        Total                               Total                                               Total   Total
+Peak Hour From 07:00 AM to 12:30 PM - Peak 1 of 1
+  Intersection 08:00 AM
+      Volume      22    302   11      335      2    19 135                           156        5       725      3    733     29               6                 0         35    1259
+      Percent     6.6 90.1    3.3            1.3 12.2 86.5                                    0.7       98.9   0.4           82.9           17.1               0.0
+        08:45
+                    7    70     1      78      0    12  51                            63        1       189     0     190        9             0                    0       9     340
+      Volume
+ Peak Factor                                                                                                                                                                     0.926
+      High Int. 08:00 AM                   08:45 AM                                          08:30 AM                        08:00 AM
+      Volume        8    84     6      98      0    12  51                          63           2   189        0      191       6    4                             0       10
+ Peak Factor                       0.855                                         0.619                               0.959                                               0.875
+
+                                                                                 Motor Ave
+                                                                       Out          In          Total
+                                                                        889          335         1224
+
+
+                                                                            11   302             22
+                                                                         Right Thru           Left
+                                           70
+                                        Total
+
+
+
+
+                                                                                                                                               Out
+                                                  29
+
+
+
+
+                                                                                                                               Right Thru
+
+
+
+                                                                                                                                                31
+                                                Left
+
+
+
+
+                                                                                                                                 135
+                                                                                     North
+                           Monte Mar Dr
+
+
+
+
+                                                                                                                                               Monte Mar Dr
+                                   35
+
+
+                                                          6
+                                                Right Thru
+                                 In
+
+
+
+
+                                                                                                                                                    In
+                                                                      5/29/2008 8:00:00 AM
+                                                                                                                                                    156
+                                                                                                                                       19
+
+
+
+
+                                                                      5/29/2008 8:45:00 AM
+                                                    0
+
+
+
+
+                                                                                                                               Left
+                        35
+
+
+
+
+                                                                       1 - Unshifted
+                       Out
+
+
+
+
+                                                                                                                                                            Total
+                                                                                                                                   2
+
+
+                                                                                                                                                             187
+
+
+
+
+                                                                          Left       Thru Right
+                                                                                 5     725    3
+
+
+                                                                        304          733         1037
+                                                                       Out          In          Total
+                                                                                 Motor Ave
+                                                                 City Traffic Counters
+                                                                     626.256.4171
+                                                                                                                               File Name                              : MotMonteM
+                                                                                                                               Site Code                              : 00000000
+                                                                                                                               Start Date                             : 5/29/2008
+                                                                                                                               Page No                                :3
+                           Motor Ave                         Monte Mar Dr                             Motor Ave                           Monte Mar Dr
+                          Southbound                          Westbound                               Northbound                           Eastbound
+                                     App.                                       App.                               App.                                                App.     Int.
+   Start Time   Left    Thru Right          Left Thru Right                                 Left    Thru Right             Left           Thru Right
+                                    Total                                       Total                              Total                                               Total   Total
+Peak Hour From 12:45 PM to 05:45 PM - Peak 1 of 1
+  Intersection 05:00 PM
+      Volume      52    558   20      630      0    12  61                          73        1       478      3    482     28             24                  2         54    1239
+      Percent     8.3 88.6    3.2            0.0 16.4 83.6                                  0.2       99.2   0.6           51.9           44.4               3.7
+        05:45
+                  10    133     6     149      0     3  20                          23        0       132     1     133        6             5                    0      11     316
+      Volume
+ Peak Factor                                                                                                                                                                   0.980
+      High Int. 05:30 PM                   05:45 PM                                   05:45 PM                           05:15 PM
+      Volume      12    145     6     163      0     3  20                         23     0   132             1      133     7    9                               1       17
+ Peak Factor                       0.966                                        0.793                              0.906                                               0.794
+
+                                                                                Motor Ave
+                                                                      Out          In         Total
+                                                                       567          630        1197
+
+
+                                                                           20   558            52
+                                                                        Right Thru          Left
+                                           87
+                                        Total
+
+
+
+
+                                                                                                                                             Out
+                                                  28
+
+
+
+
+                                                                                                                             Right Thru
+
+
+
+                                                                                                                                              79
+                                                Left
+
+
+
+
+                                                                                    North                                       61
+                           Monte Mar Dr
+
+
+
+
+                                                                                                                                             Monte Mar Dr
+                                   54
+
+
+                                                        24
+                                                Right Thru
+                                 In
+
+
+
+
+                                                                                                                                                  In
+                                                                     5/29/2008 5:00:00 PM
+                                                                                                                                     12
+
+
+                                                                                                                                                    73
+                                                                     5/29/2008 5:45:00 PM
+                                                    2
+
+
+
+
+                                                                                                                             Left
+                        33
+
+
+
+
+                                                                      1 - Unshifted
+                       Out
+
+
+
+
+                                                                                                                                                          Total
+                                                                                                                                 0
+
+
+                                                                                                                                                           152
+
+
+
+
+                                                                         Left       Thru Right
+                                                                                1     478    3
+
+
+                                                                       560          482        1042
+                                                                      Out          In         Total
+                                                                                Motor Ave
+

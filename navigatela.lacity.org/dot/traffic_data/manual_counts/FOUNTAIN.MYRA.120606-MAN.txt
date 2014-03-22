@@ -1,0 +1,61 @@
+                       City Of Los Angeles
+                       Department Of Transportation
+                       MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South            MYRA AV.
+
+East/West              FOUNTAIN AV.
+
+Day:        WEDNESDAY                   Date:             June 6, 2012            Weather:            SUNNY
+
+Hours:      7:00-10:00AM 2:30-5:30PM
+
+School Day:            YES              District:         HOLLYWOOD                 I/S CODE 20725
+
+
+                        N/B                         S/B                             E/B                           W/B
+DUAL-
+WHEELED                  47                          0                               47                             69
+BIKES                     4                          0                               14                              8
+BUSES                     0                          0                                1                              0
+
+
+                        N/B TIME                    S/B TIME                        E/B TIME                      W/B TIME
+
+AM PK 15 MIN            113      7.15                0     6.00                     168      7.15                  387    7.45
+
+PM PK 15 MIN            145      5.15                0     2.30                     285      4.00                  282    3.30
+
+AM PK HOUR              394      6.45                0     6.00                     557      7.00                 1376    7.30
+
+PM PK HOUR              502      4.30                0     2.30                    1052      3.45                 1045    3.15
+
+
+
+NORTHBOUND Approach                                       SOUTHBOUND Approach                                            TOTAL   XING S/L      XING N/L
+
+Hours         Lt        Th       Rt Total                 Hours          Lt        Th        Rt       Total               N-S     Ped   Sch     Ped   Sch
+7-8            37            0    98   135                7-8                 0         0         0           0            135      1    10       0     0
+8-9           137            0   227   364                8-9                 0         0         0           0            364      5   124       0     0
+9-10           26            0    80   106                9-10                0         0         0           0            106      1     1       0     0
+2:30-3:30      78            0   291   369                2:30-3:30           0         0         0           0            369      5    93       0     0
+3:30-4:30      71            0   327   398                3:30-4:30           0         0         0           0            398     14    37       0     0
+4:30-5:30      86            0   416   502                4:30-5:30           0         0         0           0            502      7    13       0     0
+
+TOTAL         435            0 1439       1874            TOTAL               0         0         0           0           1874     33    278      0     0
+
+
+EASTBOUND Approach                                        WESTBOUND Approach                                             TOTAL   XING W/L      XING E/L
+
+Hours         Lt        Th       Rt     Total             Hours          Lt  Th              Rt       Total              E-W      Ped   Sch     Ped   Sch
+7-8                0     125       9       134            7-8            141 359                  0      500               634      1    99       0    15
+8-9                0     487      70       557            8-9            274 1079                 0     1353              1910     18   460       4    90
+9-10               0     351      11       362            9-10           308 842                  0     1150              1512      8     3       1     1
+2:30-3:30          0     607      53       660            2:30-3:30      213 607                  0      820              1480     31   474       9    71
+3:30-4:30          0     991      27      1018            3:30-4:30      273 735                  0     1008              2026     13   130       4    17
+4:30-5:30          0     989      20      1009            4:30-5:30      288 741                  0     1029              2038      4    36       1    10
+
+TOTAL              0 3550        190      3740            TOTAL          1497 4363                0     5860              9600     75   1202     19   204
+
+            (Rev Oct 06)
+

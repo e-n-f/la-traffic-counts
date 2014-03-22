@@ -1,0 +1,183 @@
+                        City Of Los Angeles
+                        Department Of Transportation
+                        MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South             Western Ave
+
+East/West               Sunset Blvd
+
+Day:              WEDNESDAY                  Date:              03/14/2012                    Weather:            SUNNY
+
+Hours:        7-10AM 3-6PM                                                  Chekrs:           NDS
+
+School Day:             YES                  District:          0                               I/S CODE          0
+
+
+                           N/B                           S/B                                     E/B                         W/B
+DUAL-
+WHEELED                       56                           53                                       82                         66
+BIKES                         75                           71                                       59                        101
+BUSES                         90                           82                                       78                         62
+
+
+                           N/B     TIME                   S/B       TIME                         E/B     TIME                W/B     TIME
+
+AM PK 15 MIN                192       8.00                328        8.00                        321       8.15              268      7.30
+
+NOON PK 15 MIN                0       0.00                  0        0.00                           0      0.00                0      0.00
+
+PM PK 15 MIN                240    16.30                  269       15.30                        451     17.15                336    17.00
+
+AM PK HOUR                  729       8.00               1257        7.45                       1199       7.45              967      7.30
+
+NOON PK HOUR                  0       0.00                  0        0.00                           0      0.00                0      0.00
+
+PM PK HOUR                  921    17.00                  987       16.45                       1726     17.00               1267    16.45
+
+
+
+
+NORTHBOUND Approach                                             SOUTHBOUND Approach                                                 TOTAL    XING S/L       XING N/L
+
+Hours           Lt        Th       Rt        Total              Hours                 Lt        Th       Rt Total                    N-S      Ped   Sch      Ped   Sch
+7-8              116       429         81        626            7-8                    102       734      238  1074                   1700    154     2      193    11
+8-9              115       509        105        729            8-9                    106       835      312  1253                   1982    112     0      150     2
+9-10               97      418         93        608            9-10                     98      659      247  1004                   1612    125     0       99     3
+15-16            133       639        101        873            15-16                  131       636      170   937                   1810    309     0      222     4
+16-17            124       630        116        870            16-17                  130       640      185   955                   1825    203     1      177     9
+17-18            127       683        111        921            17-18                  133       639      191   963                   1884    206     0      202     3
+
+TOTAL            712      3308        607       4627            TOTAL                  700      4143     1343         6186           10813   1109       3   1043   32
+
+
+EASTBOUND Approach                                              WESTBOUND Approach                                                  TOTAL    XING W/L       XING E/L
+
+Hours           Lt        Th       Rt        Total              Hours                 Lt        Th       Rt       Total              E-W      Ped   Sch      Ped   Sch
+7-8              123       737         76        936            7-8                     69       699        58        826             1762    146     1      124     0
+8-9              130       928         82       1140            8-9                     88       726        63        877             2017     99     0      188     0
+9-10             139       782         92       1013            9-10                    91       686        51        828             1841     86     2      204     3
+15-16            246      1056         89       1391            15-16                  125       880       114       1119             2510    203     1      236     3
+16-17            265      1172        116       1553            16-17                  152       920        96       1168             2721    159     1      176     6
+17-18            287      1318        121       1726            17-18                  133       988       110       1231             2957    142     0      247     5
+
+TOTAL           1190      5993        576       7759            TOTAL                  658      4899       492        6049           13808    835       5   1175   17
+                                    Intersection Turning Movement
+                                                              Prepared by:
+                                            National Data & Surveying Services
+          Project ID: CA12_5086_002                                                                                       Day: WEDNESDAY
+
+                  City: City of Hollywood                                       CARS                                     Date: 03/14/2012
+                                                                                 AM
+     NS/EW Streets:             Western Ave                 Western Ave                     Sunset Blvd               Sunset Blvd
+
+                                NORTHBOUND                  SOUTHBOUND                      EASTBOUND                 WESTBOUND
+
+                           NL          NT     NR       SL       ST        SR           EL       ET        ER     WL      WT         WR   TOTAL
+     LANES:                1            2      1       1         2         0           1         3         0     1        3          0
+
+           7:00   AM       31        76        14      18      128        45           20      122        14     11      114        11       604
+           7:15   AM       17        94        20      21      174        63           20      156        11     15      137        11       739
+           7:30   AM       28       132        22      33      197        64           39      205        20     21      223        16      1000
+           7:45   AM       36       108        24      30      217        63           41      237        29     21      204        20      1030
+           8:00   AM       36       125        27      41      209        70           21      234        20     22      197        13      1015
+           8:15   AM       22       115        29      20      204        68           30      255        25     15      174        16       973
+           8:30   AM       28       124        25      25      200        82           40      220        14     19      165        18       960
+           8:45   AM       23       123        20      18      198        89           33      192        20     28      163        15       922
+           9:00   AM       21        98        27      23      176        77           38      188        19     13      197        16       893
+           9:15   AM       22        90        19      19      151        70           31      181        12     27      147        2        771
+           9:30   AM       24       108        20      26      167        51           31      185        22     19      170        12       835
+           9:45   AM       26       104        24      28      150        46           38      210        32     23      148        17       846
+
+                           NL          NT     NR       SL       ST        SR           EL       ET        ER     WL      WT         WR   TOTAL
+    TOTAL VOLUMES :   314   1297    271    302   2171    788    382   2385    238    234   2039    167                                   10588
+     APPROACH %'s : #NAME? #NAME? #NAME? #NAME? #NAME? #NAME? #NAME? #NAME? #NAME? #NAME? #NAME? #NAME?
+                       nb a      nb d               sb a     sb d                 eb a       eb d              wb a    nb d
+PEAK HR START TIME :          730 AM                                                                                                     TOTAL
+
+       PEAK HR VOL :      122       480       102     124      827        265       131        931        94     79      798        65      4018
+
+   PEAK HR FACTOR :                0.936                       0.950                          0.932                     0.906               0.975
+
+          CONTROL : Signalized
+                                    Intersection Turning Movement
+                                                              Prepared by:
+                                            National Data & Surveying Services
+          Project ID: CA12_5086_002                                                                                         Day: WEDNESDAY
+
+                  City: City of Hollywood                                       CARS                                       Date: 03/14/2012
+                                                                                 PM
+     NS/EW Streets:             Western Ave                 Western Ave                     Sunset Blvd                 Sunset Blvd
+
+                                NORTHBOUND                  SOUTHBOUND                      EASTBOUND                   WESTBOUND
+
+                           NL          NT     NR       SL       ST        SR           EL       ET        ER      WL       WT         WR    TOTAL
+     LANES:                1            2      1       1         2         0           1         3         0      1         3          0
+
+           3:00   PM       31       153       23       30      138        44           55      262        20      37       208        22      1023
+           3:15   PM       27       169       28       26      136        45           52      240        28      22       212        30      1015
+           3:30   PM       38       136       25       48      180        37           79      281        11      42       208        30      1115
+           3:45   PM       33       158       24       25      159        44           57      252        23      23       241        31      1070
+           4:00   PM       27       152       21       35      146        44           59      266        27      41       205        26      1049
+           4:15   PM       29       136       29       26      160        54           71      301        27      38       228        20      1119
+           4:30   PM       37       166       34       33      160        40           67      290        27      35       237        28      1154
+           4:45   PM       29       160       30       36      155        44           67      291        32      37       238        22      1141
+           5:00   PM       21       170       30       45      140        50           67      311        23      43       259        31      1190
+           5:15   PM       32       157       31       26      185        44           73      349        25      31       249        26      1228
+           5:30   PM       33       171       24       33      162        45           66      334        37      29       254        36      1224
+           5:45   PM       37       172       26       28      137        50           80      312        32      30       215        17      1136
+
+                           NL          NT     NR       SL       ST        SR           EL       ET        ER      WL       WT         WR    TOTAL
+    TOTAL VOLUMES :   374   1900    325    391   1858    541    793   3489    312    408   2754    319                                      13464
+     APPROACH %'s : #NAME? #NAME? #NAME? #NAME? #NAME? #NAME? #NAME? #NAME? #NAME? #NAME? #NAME? #NAME?
+                       nb a      nb d               sb a     sb d                 eb a       eb d               wb a     nb d
+PEAK HR START TIME :          445 PM                                                                                                        TOTAL
+
+       PEAK HR VOL :      115       658       115     140      642        183       273       1285        117     140     1000        115     4783
+
+   PEAK HR FACTOR :                0.974                       0.946                          0.937                       0.942               0.974
+
+          CONTROL : Signalized
+                                  PREPARED BY NATIONAL DATA & SURVEYING SERVICES
+PROJECT#:     12-5086-002
+N/S Street:   Western Ave
+E/W Street:   Sunset Blvd
+DATE:         03/14/2012                                           DAY:        03/14/2012
+CITY:         City of Hollywood
+    AM
+Adult Pedestrians                                                  School-Aged Pedestrians
+              NORTH LEG SOUTH LEG        EAST   LEG   WEST   LEG               NORTH LEG SOUTH LEG   EAST LEG   WEST LEG
+  TIME                                                               TIME
+               EB   WB   EB   WB         NB      SB   NB      SB                EB   WB   EB   WB    NB    SB   NB    SB
+ 7:00 AM        5   17    9   14         10      14    14     11    7:00 AM      0    0    1    0     0     0    0     1
+ 7:15 AM        8   50   10   31         20       8    24     16    7:15 AM      0    5    0    0     0     0    0     0
+ 7:30 AM        4   54   11   32         20      15    27     20    7:30 AM      0    3    0    1     0     0    0     0
+ 7:45 AM        7   48   19   28         12      25    19     15    7:45 AM      0    3    0    0     0     0    0     0
+ 8:00 AM        6   34   17   17         23      20    8      23    8:00 AM      0    0    0    0     0     0    0     0
+ 8:15 AM        9   21   13   11         22      19    12     14    8:15 AM      0    1    0    0     0     0    0     0
+ 8:30 AM        7   39    9   12         31      25    6      15    8:30 AM      0    1    0    0     0     0    0     0
+ 8:45 AM        9   25   17   16         16      32    13      8    8:45 AM      0    0    0    0     0     0    0     0
+ 9:00 AM        5   15    3   16         14      22    13     10    9:00 AM      0    0    0    0     0     0    0     0
+ 9:15 AM       10   15    7   10         22      15    11     10    9:15 AM      0    0    0    0     0     0    0     0
+ 9:30 AM        5   15   55   16         68      27    8      15    9:30 AM      0    3    0    0     1     2    0     2
+ 9:45 AM       15   19    9    9         18      18    7      12    9:45 AM      0    0    0    0     0     0    0     0
+ TOTALS        90  352 179 212          276     240   162    169    TOTALS      0    16   1     1     1     2    0    3
+
+    PM
+Adult Pedestrians                                                  School-Aged Pedestrians
+              NORTH LEG SOUTH LEG        EAST   LEG   WEST   LEG               NORTH LEG SOUTH LEG   EAST LEG   WEST   LEG
+   TIME                                                               TIME
+               EB   WB   EB   WB         NB      SB   NB      SB                EB   WB   EB   WB    NB    SB   NB      SB
+ 3:00 PM       47    1   32   52         33      27    29     24    3:00 PM      2    0    0    0     0     1    1       0
+ 3:15 PM       44   11   78   38         30      27    22     24    3:15 PM      0    0    0    0     0     0    0       0
+ 3:30 PM       30   42   19   46         32      48    26     30    3:30 PM      2    0    0    0     0     0    0       0
+ 3:45 PM       22   25   26   18         11      28    14     34    3:45 PM      0    0    0    0     1     1    0       0
+ 4:00 PM       36   16   27   20         18      23    8      30    4:00 PM      4    0    0    0     0     2    0       0
+ 4:15 PM       17   21   25   17         14      28    8      25    4:15 PM      1    0    1    0     0     2    0       0
+ 4:30 PM       23   24   32   21         27      14    21     22    4:30 PM      0    2    0    0     1     0    0       0
+ 4:45 PM       16   24   27   34         24      28    19     26    4:45 PM      0    2    0    0     0     1    0       1
+ 5:00 PM       33   16   24   31         34      38    16     12    5:00 PM      0    1    0    0     0     0    0       0
+ 5:15 PM       29   29   20   21         36      33    16     20    5:15 PM      0    0    0    0     0     0    0       0
+ 5:30 PM       22   25   25   42         34      29    21     22    5:30 PM      0    0    0    0     0     1    0       0
+ 5:45 PM       26   22   15   28         23      20    22     13    5:45 PM      1    1    0    0     4     0    0       0
+ TOTALS       345 256 350 368           316     343   222    282    TOTALS      10    6   1     0     6     8    1      1
+

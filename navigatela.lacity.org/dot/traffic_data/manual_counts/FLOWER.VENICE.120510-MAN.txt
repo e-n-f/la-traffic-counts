@@ -1,0 +1,519 @@
+                                               City Traffic Counters
+                                                  626-447-4171
+                                                                                                File Name        : FlowerVen
+                                                                                                Site Code        : 00000000
+                                                                                                Start Date       : 5/10/2012
+                                                                                                Page No          :1
+                                              Groups Printed- 1 - Unshifted
+                    Flower St               Venice Blvd                   Flower St               Venice Blvd
+                   Southbound                Westbound                   Northbound                Eastbound
+ Start Time    Left    Thru     Right   Left     Thru    Right      Left      Thru    Right   Left     Thru     Right   Int. Total
+     Factor    1.0       1.0      1.0   1.0        1.0     1.0       1.0       1.0      1.0   1.0        1.0      1.0
+ 07:00 AM        1       79         5     9        55        0         0         0        0     0        36         9        194
+ 07:15 AM        0       82         4    10        74        0         0         0        0     0        53       14         237
+ 07:30 AM        2      116         7    12        77        0         0         0        0     0        69       20         303
+ 07:45 AM        5      137       10     14        78        0         0         0        0     0       105       26         375
+       Total     8      414       26     45       284        0         0         0        0     0       263       69        1109
+
+ 08:00 AM        2     122         9     12       59         0        0        0         0      0      111        28         343
+ 08:15 AM        7     124         6     11       65         0        0        0         0      0      147        20         380
+ 08:30 AM        2     122        10      9       52         0        0        0         0      0      120        26         341
+ 08:45 AM        3      97         8      8       57         0        0        0         0      0      108        21         302
+     Total      14     465        33     40      233         0        0        0         0      0      486        95        1366
+
+ 09:00 AM       13      87         8      3       49         0        0        0         0      0       85        17         262
+ 09:15 AM        2      81        15     13       57         0        0        0         0      0       86        16         270
+ 09:30 AM        6      98         8     11       50         0        0        0         0      0       66        12         251
+ 09:45 AM        5      97        17      9       46         0        0        0         0      0       70         9         253
+     Total      26     363        48     36      202         0        0        0         0      0      307        54        1036
+
+
+
+ 03:00 PM        7     187        15     15       59         0        0        0         0      0       79        20         382
+ 03:15 PM        8     204        13      9       60         0        0        0         0      0       86        17         397
+ 03:30 PM        8     206        15     11       95         0        0        0         0      0      108        27         470
+ 03:45 PM        6     193        22      9       74         0        0        0         0      0      104        19         427
+     Total      29     790        65     44      288         0        0        0         0      0      377        83        1676
+
+ 04:00 PM       11     275        25     12       61         0        0        0         0      0       90        28         502
+ 04:15 PM       12     337        16     11       84         0        0        0         0      0       85        34         579
+ 04:30 PM       18     372        24     11      104         0        0        0         0      0       84        28         641
+ 04:45 PM        8     406        23     13      100         0        0        0         0      0      105        22         677
+     Total      49    1390        88     47      349         0        0        0         0      0      364       112        2399
+
+ 05:00 PM        9     392        30     15      125         0        0        0         0      0      103        23         697
+ 05:15 PM       17     402        20     13      139         0        0        0         0      0       99        23         713
+ 05:30 PM        9     412        31     30      169         0        0        0         0      0       86        20         757
+ 05:45 PM        5     401        42     16      156         0        0        0         0      0       99        14         733
+     Total      40    1607       123     74      589         0        0        0         0      0      387        80        2900
+
+Grand Total    166    5029       383    286     1945         0        0         0        0      0     2184      493       10486
+ Apprch %       3.0    90.2       6.9   12.8     87.2      0.0      0.0       0.0      0.0    0.0      81.6     18.4
+   Total %      1.6    48.0       3.7    2.7     18.5      0.0      0.0       0.0      0.0    0.0      20.8      4.7
+                                                         City Traffic Counters
+                                                            626-447-4171
+                                                                                                                             File Name                      : FlowerVen
+                                                                                                                             Site Code                      : 00000000
+                                                                                                                             Start Date                     : 5/10/2012
+                                                                                                                             Page No                        :2
+
+                          Flower St                   Venice Blvd                                Flower St                          Venice Blvd
+                         Southbound                   Westbound                                 Northbound                          Eastbound
+                                     App.                                App.                                App.                                           App.     Int.
+   Start Time   Left   Thru Right            Left Thru Right                          Left    Thru Right              Left          Thru Right
+                                    Total                                Total                               Total                                          Total   Total
+Peak Hour From 07:00 AM to 11:45 AM - Peak 1 of 1
+  Intersection 07:45 AM
+      Volume      16    505   35      556     46   254     0                 300        0         0     0       0       0           483           100        583    1439
+      Percent     2.9 90.8    6.3           15.3 84.7    0.0                          0.0       0.0   0.0             0.0           82.8          17.2
+        08:15
+                    7   124     6     137     11    65     0                  76        0         0     0       0        0          147                20    167     380
+      Volume
+ Peak Factor                                                                                                                                                        0.947
+      High Int. 07:45 AM                   07:45 AM                                  6:45:00 AM                      08:15 AM
+      Volume        5   137   10      152     14    78     0                92           0     0        0       0        0   147                       20     167
+ Peak Factor                       0.914                                 0.815                                                                              0.873
+
+                                                                         Flower St
+                                                               Out          In          Total
+                                                                     0       556          556
+
+
+                                                                   35   505              16
+                                                                Right Thru            Left
+                             872
+                            Total
+
+
+
+
+                                                                                                                                       Out
+                                                                                                                                        499
+                                             0
+
+
+
+
+                                                                                                                       Right Thru
+                                         Left
+
+
+
+
+                                                                             North
+
+
+                                                                                                                                       Venice Blvd
+                           Venice Blvd
+
+
+
+
+                                                                                                                           0
+                                 583
+
+
+                                                483
+                                         Right Thru
+                                In
+
+
+
+
+                                                              5/10/2012 7:45:00 AM                                                         In
+                                                                                                                              254
+
+
+                                                                                                                                            300
+
+                                                              5/10/2012 8:30:00 AM
+                                           100
+
+
+
+
+                                                                                                                       Left
+                        289
+
+
+
+
+                                                              1 - Unshifted
+                       Out
+
+
+
+
+                                                                                                                                                   Total
+                                                                                                                         46
+
+
+                                                                                                                                                    799
+
+
+
+
+                                                                 Left        Thru Right
+                                                                         0       0    0
+
+
+                                                                651            0          651
+                                                               Out          In          Total
+                                                                         Flower St
+                                                         City Traffic Counters
+                                                            626-447-4171
+                                                                                                                           File Name                      : FlowerVen
+                                                                                                                           Site Code                      : 00000000
+                                                                                                                           Start Date                     : 5/10/2012
+                                                                                                                           Page No                        :3
+                          Flower St                   Venice Blvd                               Flower St                         Venice Blvd
+                         Southbound                   Westbound                                Northbound                         Eastbound
+                                     App.                                App.                               App.                                          App.     Int.
+   Start Time   Left   Thru Right            Left Thru Right                         Left    Thru Right             Left          Thru Right
+                                    Total                                Total                              Total                                         Total   Total
+Peak Hour From 12:00 PM to 05:45 PM - Peak 1 of 1
+  Intersection 05:00 PM
+      Volume      40 1607    123    1770      74   589     0                 663       0         0     0       0      0           387            80        467    2900
+      Percent     2.3 90.8    6.9           11.2 88.8    0.0                         0.0       0.0   0.0            0.0           82.9          17.1
+        05:30
+                    9   412   31      452     30   169     0                 199       0         0     0       0       0           86                20    106     757
+      Volume
+ Peak Factor                                                                                                                                                      0.958
+      High Int. 05:30 PM                   05:30 PM                                                              05:00 PM
+      Volume        9   412   31      452     30   169     0               199         0         0     0       0     0   103                         23     126
+ Peak Factor                       0.979                                 0.833                                                                            0.927
+
+                                                                         Flower St
+                                                               Out          In         Total
+                                                                     0      1770        1770
+
+
+                                                                  123 1607              40
+                                                                Right Thru           Left
+                            1179
+                            Total
+
+
+
+
+                                                                                                                                     Out
+                                                                                                                                      427
+                                             0
+
+
+
+
+                                                                                                                     Right Thru
+                                         Left
+
+
+
+
+                                                                             North
+
+
+
+
+                                                                                                                                     Venice Blvd
+                           Venice Blvd
+
+
+
+
+                                                                                                                         0
+                                 467
+
+
+                                                387
+                                         Right Thru
+                                In
+
+
+
+
+                                                                                                                                         In
+                                                              5/10/2012 5:00:00 PM
+                                                                                                                            589
+
+
+                                                                                                                                          663
+                                                              5/10/2012 5:45:00 PM
+                                            80
+
+
+
+
+                                                                                                                     Left
+                        712
+
+
+
+
+                                                              1 - Unshifted
+                       Out
+
+
+
+
+                                                                                                                                                 Total
+                                                                                                                       74
+
+
+                                                                                                                                                 1090
+
+
+
+
+                                                                 Left        Thru Right
+                                                                         0       0    0
+
+
+                                                               1761            0        1761
+                                                               Out          In         Total
+                                                                         Flower St
+                                 City Traffic Counters
+                                    626-447-4171
+                                                                              File Name    : FlowerVen_B_P
+                                                                              Site Code    : 00000000
+                                                                              Start Date   : 5/10/2012
+                                                                              Page No      :1
+                                  Groups Printed- 2 - Bank 1
+                Flower St        Venice Blvd                 Flower St            Venice Blvd
+               Southbound        Westbound                 Northbound             Eastbound
+ Start Time    Thru       Peds   Thru        Peds          Thru        Peds       Thru        Peds   Int. Total
+     Factor     1.0        1.0    1.0          1.0           1.0        1.0        1.0         1.0
+ 07:00 AM         4          3      4            7             4          2          3           2         29
+ 07:15 AM         8          2      5            1             9          0          3           1         29
+ 07:30 AM        10          3      9            2            17          1         12           1         55
+ 07:45 AM        19          3      6            3            19          2          4           1         57
+       Total     41         11     24          13             49          5         22           5        170
+
+ 08:00 AM         9         1       2           0            5           1           9          1          28
+ 08:15 AM        11         4       2           2            7           7           7          1          41
+ 08:30 AM        11         4       3           2           13           2           5          2          42
+ 08:45 AM         6         2       2           1            9           1           4          0          25
+     Total       37        11       9           5           34          11          25          4         136
+
+ 09:00 AM         4         1       3           2            3           1           3          1          18
+ 09:15 AM         4         0       2           1            7           4           1          1          20
+ 09:30 AM         4         1       3           2            9           2           2          1          24
+ 09:45 AM        11         2       0           2            6           0           5          0          26
+     Total       23         4       8           7           25           7          11          3          88
+
+
+
+ 03:00 PM         5         0       1           1            8           0           0          2          17
+ 03:15 PM        13         1       2           1            5           3           0          0          25
+ 03:30 PM         9         2       2           0           11           3           7          3          37
+ 03:45 PM         5         1       3           1           10           2           1          0          23
+     Total       32         4       8           3           34           8           8          5         102
+
+ 04:00 PM         3         0       6           2           20           1           0          0          32
+ 04:15 PM         3         2       3           0            8           0           1          1          18
+ 04:30 PM         6         1       5           0           16           1           7          1          37
+ 04:45 PM         5         2       8           0           11           1           4          0          31
+     Total       17         5      22           2           55           3          12          2         118
+
+ 05:00 PM        14         1      10           0           17           3          14          1          60
+ 05:15 PM         1         6       3           6            7           3           5          2          33
+ 05:30 PM         8         2       9           3           14          12           8          1          57
+ 05:45 PM         4         1       7           4           16           2           5          2          41
+     Total       27        10      29          13           54          20          32          6         191
+
+Grand Total    177         45    100          43          251          54         110          25         805
+ Apprch %      79.7       20.3   69.9        30.1         82.3        17.7        81.5        18.5
+   Total %     22.0        5.6   12.4         5.3         31.2         6.7        13.7         3.1
+                                                      City Traffic Counters
+                                                         626-447-4171
+                                                                                                               File Name                   : FlowerVen_B_P
+                                                                                                               Site Code                   : 00000000
+                                                                                                               Start Date                  : 5/10/2012
+                                                                                                               Page No                     :2
+
+                              Flower St             Venice Blvd                            Flower St                           Venice Blvd
+                             Southbound             Westbound                             Northbound                           Eastbound
+                                       App.                        App.                                App.                                           App.
+      Start Time   Thru               Peds      Thru  Peds                        Thru      Peds                  Thru            Peds                        Int. Total
+                                       Total                       Total                               Total                                          Total
+Peak Hour From 07:00 AM to 11:45 AM - Peak 1 of 1
+     Intersection 07:30 AM
+         Volume        49     11         60       19     7               26        48         11         59        32                4                  36         181
+         Percent     81.7   18.3                 73.1 26.9                        81.4       18.6                 88.9            11.1
+   07:45 Volume        19      3         22         6    3                 9       19           2        21          4               1                   5         57
+     Peak Factor                                                                                                                                               0.794
+         High Int. 07:45 AM                  07:30 AM                           07:45 AM                        07:30 AM
+         Volume        19      3         22         9    2            11            19          2         21        12                    1              13
+     Peak Factor                      0.682                        0.591                               0.702                                          0.692
+
+                                                                   Flower St
+                                                           Out        In          Total
+                                                             48          60         108
+
+
+                                                                     49   11
+                                                                  Thru Peds
+                            55
+                         Total
+
+
+
+
+                                                                                                                                  Out
+                                                                                                                                   32
+                                                                        North
+                                               32
+
+
+
+
+                                                                                                                   Thru Peds
+                                        Peds Thru
+
+
+
+
+                                                                                                                                  Venice Blvd
+                        Venice Blvd
+
+                               36
+
+
+
+
+                                                                                                                     19
+                             In
+
+
+
+
+                                                                                                                                      In
+                                                          5/10/2012 7:30:00 AM                                                          26
+                                           4
+
+
+
+
+                                                          5/10/2012 8:15:00 AM
+                                                                                                                           7
+                     19
+
+
+
+
+                                                           2 - Bank 1
+                    Out
+
+
+
+
+                                                                                                                                              Total
+                                                                                                                                                 58
+
+
+
+
+                                                                  Thru Peds
+                                                                     48   11
+
+
+                                                             49          59         108
+                                                           Out        In          Total
+                                                                   Flower St
+                                                      City Traffic Counters
+                                                         626-447-4171
+                                                                                                               File Name                   : FlowerVen_B_P
+                                                                                                               Site Code                   : 00000000
+                                                                                                               Start Date                  : 5/10/2012
+                                                                                                               Page No                     :3
+                              Flower St             Venice Blvd                            Flower St                           Venice Blvd
+                             Southbound             Westbound                             Northbound                           Eastbound
+                                       App.                        App.                                App.                                           App.
+      Start Time   Thru               Peds      Thru  Peds                        Thru      Peds                  Thru            Peds                        Int. Total
+                                       Total                       Total                               Total                                          Total
+Peak Hour From 12:00 PM to 05:45 PM - Peak 1 of 1
+     Intersection 05:00 PM
+         Volume        27     10         37       29    13               42        54         20         74        32                6                  38         191
+         Percent     73.0   27.0                 69.0 31.0                        73.0       27.0                 84.2            15.8
+   05:00 Volume        14      1         15       10     0               10        17           3        20        14                1                  15         60
+     Peak Factor                                                                                                                                               0.796
+         High Int. 05:00 PM                  05:30 PM                           05:30 PM                        05:00 PM
+         Volume        14      1         15         9    3            12            14        12          26        14                    1              15
+     Peak Factor                      0.617                        0.875                               0.712                                          0.633
+
+                                                                   Flower St
+                                                           Out        In          Total
+                                                             54          37          91
+
+
+                                                                     27   10
+                                                                  Thru Peds
+                            67
+                         Total
+
+
+
+
+                                                                                                                                  Out
+                                                                                                                                   32
+                                                                        North
+                                               32
+
+
+
+
+                                                                                                                   Thru Peds
+                                        Peds Thru
+
+
+
+
+                                                                                                                                  Venice Blvd
+                        Venice Blvd
+
+                                38
+
+
+
+
+                                                                                                                     29
+                              In
+
+
+
+
+                                                                                                                                      In
+                                                          5/10/2012 5:00:00 PM
+
+                                                                                                                                        42
+                                           6
+
+
+
+
+                                                          5/10/2012 5:45:00 PM
+                                                                                                                          13
+                     29
+
+
+
+
+                                                           2 - Bank 1
+                    Out
+
+
+
+
+                                                                                                                                              Total
+                                                                                                                                                 74
+
+
+
+
+                                                                  Thru Peds
+                                                                     54   20
+
+
+                                                             27          74         101
+                                                           Out        In          Total
+                                                                   Flower St
+

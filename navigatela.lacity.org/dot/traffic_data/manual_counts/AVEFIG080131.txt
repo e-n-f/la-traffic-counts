@@ -1,0 +1,61 @@
+                     City Of Los Angeles
+                     Department Of Transportation
+                     MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South          AVENUE 55 - E(I/S)
+
+East/West            FIGUEROA ST
+
+Day:          THURSDAY                  Date: JANUARY 31, 2008                 Weather:          SUNNY
+
+Hours:        10AM-1PM 3-6PM                                        Chekrs:              JCJ
+
+School Day:          YES                District:         CENTRAL                I/S CODE 15561
+
+
+                      N/B                           S/B                          E/B                     W/B
+DUAL-
+WHEELED                    0                        10                           147                      92
+BIKES                      0                         0                             8                       3
+BUSES                      0                         0                            55                      32
+
+
+                      N/B TIME                      S/B TIME                     E/B TIME                W/B TIME
+
+AM PK 15 MIN               0   10.00                20     0.45                  189      0.45           178    10.45
+
+PM PK 15 MIN               0    2.00                16     4.45                  281      4.45           240     4.45
+
+AM PK HOUR                 0   10.00                49 12.00                     735 12.00               637    10.00
+
+PM PK HOUR                 0    2.00                57     4.00                 1056      4.00           895     4.00
+
+
+
+NORTHBOUND Approach                     NONE              SOUTHBOUND Approach                                  TOTAL    XING S/L       XING N/L
+
+Hours          Lt     Th       Rt       Total             Hours       Lt        Th        Rt Total              N-S        Ped Sch       Ped   Sch
+10-11            0         0        0        0            10-11        11            0     16     27              27         0   0        57     7
+11-12            0         0        0        0            11-12        16            0     26     42              42         0   0        65    12
+12-1             0         0        0        0            12-1         21            0     28     49              49         0   0       101    10
+2-3              0         0        0        0            2-3          12            0     19     31              31         0   0        63     2
+3-4              0         0        0        0            3-4          13            0     19     32              32         0   0        94    38
+4-5              0         0        0        0            4-5          19            0     38     57              57         0   0        72    11
+
+TOTAL            0         0        0        0            TOTAL        92            0     146     238           238        0      0     452      80
+
+
+EASTBOUND Approach                                        WESTBOUND Approach                                   TOTAL    XING W/L       XING E/L
+
+Hours          Lt     Th       Rt    Total                Hours       Lt        Th        Rt Total             E-W         Ped Sch       Ped   Sch
+10-11           37    530           0 567                 10-11            0     607       30   637             1204         2   0        13     0
+11-12           35    561           0 596                 11-12            0     456       24   480             1076         0   0         6     0
+12-1            39    696           0 735                 12-1             0     540       39   579             1314         0   0        16     0
+2-3             40    759           0 799                 2-3              0     720       45   765             1564         0   0        33     8
+3-4             57    841           0 898                 3-4              0     732       71   803             1701         0   0        19    10
+4-5             65    991           0 1056                4-5              0     841       54   895             1951         0   0        31     7
+
+TOTAL         273 4378              0 4651                TOTAL            0 3896          263    4159          8810        2      0     118      25
+
+              (Rev Oct 06)
+

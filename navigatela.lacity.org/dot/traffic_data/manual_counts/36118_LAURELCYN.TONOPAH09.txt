@@ -1,0 +1,61 @@
+                    City Of Los Angeles
+                    Department Of Transportation
+                    MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South         LAUREL CANYON BL
+
+East/West           TONOPAH ST
+
+Day:               TUESDAY              Date:             July 7, 2009               Weather:          SUNNY
+
+Hours:      7-10AM 3-6PM                                          Chekrs:            THOMPSON
+
+School Day:         YES                 District:         EAST VALLEY                  I/S CODE 36118
+
+
+                     N/B                            S/B                                E/B                     W/B
+DUAL-
+WHEELED               112                            91                                    0                     0
+BIKES                   7                             6                                    2                     0
+BUSES                  25                            20                                    0                     0
+
+
+                     N/B TIME                       S/B TIME                           E/B TIME                W/B TIME
+
+AM PK 15 MIN          123      7.15                 156    7.30                         14      7.30             0    7.00
+
+PM PK 15 MIN          351      5.15                 150    5.15                         11      4.00             0    3.00
+
+AM PK HOUR            474      7.15                 576    7.00                         41      7.00             0    7.00
+
+PM PK HOUR           1335      5.00                 574    4.30                         35      3.15             0    3.00
+
+
+
+NORTHBOUND Approach                                       SOUTHBOUND Approach                                        TOTAL   XING S/L   XING N/L
+
+Hours         Lt     Th        Rt       Total             Hours             Lt        Th        Rt Total              N-S     Ped Sch    Ped   Sch
+7-8             7     453           0      460            7-8                    0     563       13   576             1036      4   0      0     0
+8-9            12     386           0      398            8-9                    0     471       10   481              879      0   0      2     0
+9-10            8     355           0      363            9-10                   0     363       10   373              736      2   0      0     0
+3-4            20    1055           0     1075            3-4                    0     531       17   548             1623      1   0      0     0
+4-5            28    1175           0     1203            4-5                    0     548       17   565             1768      0   0      0     0
+5-6            36    1299           0     1335            5-6                    0     545       17   562             1897      4   0      2     0
+
+TOTAL         111 4723              0     4834            TOTAL                  0 3021          84     3105          7939     11   0      4    0
+
+
+EASTBOUND Approach                                        WESTBOUND Approach                                         TOTAL   XING W/L   XING E/L
+             TONOPAH ST                                                                        NONE
+Hours   Lt    Th   Rt Total                               Hours             Lt        Th        Rt Total             E-W      Ped Sch    Ped   Sch
+7-8       16     0  25     41                             7-8                    0         0      0        0            41      2   1      0     0
+8-9       11     0  19     30                             8-9                    0         0      0        0            30      6   0      0     0
+9-10       6     0  11     17                             9-10                   0         0      0        0            17      4   0      0     0
+3-4       12     0  20     32                             3-4                    0         0      0        0            32      4   2      0     0
+4-5        9     0  19     28                             4-5                    0         0      0        0            28      6   0      0     0
+5-6        9     0  18     27                             5-6                    0         0      0        0            27      5   0      0     0
+
+TOTAL          63          0   112          175           TOTAL                  0         0      0        0           175     27   3      0    0
+
+            (Rev Oct 06)
+

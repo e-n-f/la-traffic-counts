@@ -1,0 +1,120 @@
+INTERSECTION TURNING MOVEMENT COUNT SUMMARY
+
+CLIENT:                HIRSCH/GREEN TRANSPORTATION CONSULTING, INC.
+PROJECT:               PICO/SEPULVEDA MIXED-USE PROJECT
+DATE:                  THURSDAY, DECEMBER 13, 2007
+PERIOD:                07:00 AM TO 10:00 AM AND 03:00 PM TO 06:00 PM
+INTERSECTION:   N/S    COTNER AVENUE
+                E/W    TENNESSEE AVENUE / I-405 NB ON-RAMP
+FILE NUMBER:           UNSIGNALIZED INTERSECTION "A" - CAMUTCD SIGNAL WARRANT ANALYSIS VOLUMES
+
+
+  15 MINUTE      1        2        3        4        5        6         7      8      9      10     11     12
+   TOTALS       SBRT    SBTH     SBLT     WBRT     WBTH     WBLT       NBRT   NBTH   NBLT   EBRT   EBTH   EBLT
+  0700-0715      45       10       2        2        0        0         1      23    141     0      0      0
+  0715-0730      50       12       3        4        2        1         1      27    163     0      0      0
+  0730-0745      43       18       2        6        3        0         0      35    157     0      0      0
+  0745-0800      54       20       5        8        5        2         1      33    154     0      0      0
+  0800-0815      54       30       2        7        7        2         1      44    176     0      0      0
+  0815-0830      54       22       4        7        3        0         1      46    155     0      0      0
+  0830-0845      73       31       2       11        6        0         2      42    168     0      0      0
+  0845-0900      60       20       3        5        6        2         1      45    143     0      0      0
+  0900-0915      60       30       7        8        3        2         0      52    159     0      0      0
+  0915-0930      52       28       2        6        4        3         2      40    135     0      0      0
+  0930-0945      69       32       3        4        4        0         2      32    142     0      0      0
+  0945-1000      63       26       3        2        3        2         2      40    131     0      0      0
+
+  0300-0315      95       52       7        9        4        1         8      38    144     0      0      0
+  0315-0330      98       50       4        6        2        2         6      32    119     0      0      0
+  0330-0345      93       73       4        7        4        3         8      45    109     0      0      0
+  0345-0400      78       80       6        7        4        4         5      42    143     0      0      0
+  0400-0415     118       78       7       13        7        3         3      37    131     0      0      0
+  0415-0430     112       80       7       11       11        3         3      39    143     0      0      0
+  0430-0445     121       67       4        7        5        1         5      48    157     0      0      0
+  0445-0500     100       70       6        9        4        2         6      40    141     0      0      0
+  0500-0515     103      100       3       11        8        2         7      32    103     0      0      0
+  0515-0530     125      113       3       16        6        3         3      32    123     0      0      0
+  0530-0545     111      107       2       18        6        1         4      37    147     0      0      0
+  0545-0600     116       90       4       12        5        0         2      28    140     0      0      0
+
+
+
+   1 HOUR        1        2        3        4        5        6         7      8      9      10     11     12
+   TOTALS       SBRT    SBTH     SBLT     WBRT     WBTH     WBLT       NBRT   NBTH   NBLT   EBRT   EBTH   EBLT   TOTALS
+  0700-0800     192       60       12      20       10        3         3     118    615     0      0      0      1033
+  0715-0815     201       80       12      25       17        5         3     139    650     0      0      0      1132
+  0730-0830     205       90       13      28       18        4         3     158    642     0      0      0      1161
+  0745-0845     235      103       13      33       21        4         5     165    653     0      0      0      1232
+  0800-0900     241      103       11      30       22        4         5     177    642     0      0      0      1235
+  0815-0915     247      103       16      31       18        4         4     185    625     0      0      0      1233
+  0830-0930     245      109       14      30       19        7         5     179    605     0      0      0      1213
+  0845-0945     241      110       15      23       17        7         5     169    579     0      0      0      1166
+  0900-1000     244      116       15      20       14        7         6     164    567     0      0      0      1153
+
+  0300-0400     364      255       21      29       14       10         27    157    515     0      0      0      1392
+  0315-0415     387      281       21      33       17       12         22    156    502     0      0      0      1431
+  0330-0430     401      311       24      38       26       13         19    163    526     0      0      0      1521
+  0345-0445     429      305       24      38       27       11         16    166    574     0      0      0      1590
+  0400-0500     451      295       24      40       27        9         17    164    572     0      0      0      1599
+  0415-0515     436      317       20      38       28        8         21    159    544     0      0      0      1571
+  0430-0530     449      350       16      43       23        8         21    152    524     0      0      0      1586
+  0445-0545     439      390       14      54       24        8         20    141    514     0      0      0      1604
+  0500-0600     455      410       12      57       25        6         16    129    513     0      0      0      1623
+                                                         TRAFFIC COUNT SUMMARY
+                                                                                                                                     City of Los Angeles
+STREET:                                                                                                                         Department of Transportation
+North/South               COTNER AVENUE                                                                                      Count by: Traffic Solution
+
+East/West                 TENNESSEE AVENUE/I-405 NB ON-RAMP
+
+Day:     AM    THURSDAY                      Date: December 13, 2007                   Weather:          CLEAR
+         PM    THURSDAY                            December 13, 2007
+Hours:         7-10 AM 3-6 PM
+
+School Day:               YES                District:           WEST LOS ANGELES
+
+
+                            N/B                            S/B                           E/B                           W/B
+DUAL-
+WHEELED                     N/A                            N/A                           N/A                           N/A
+BIKES                       N/A                            N/A                           N/A                           N/A
+BUSES                       N/A                            N/A                           N/A                           N/A
+
+
+                            N/B TIME                       S/B TIME                      E/B TIME                      W/B    TIME
+
+AM PK 15 MIN                221     8:00                   106 8:30                        0      7:00                  17     8:30
+
+PM PK 15 MIN                210     4:30                   241 5:15                        0      3:00                  25     4:15
+
+AM PK HOUR                  824     8:00                   375 9:00                        0      7:00                  58     7:45
+
+PM PK HOUR                  756     3:45                   877 5:00                        0      3:00                  88     5:00
+
+
+
+NORTHBOUND Approach                                              SOUTHBOUND Approach                                         TOTAL       XING S/L      XING N/L
+
+Hours            Lt        Th       Rt       Total               Hours       Lt         Th        Rt        Total             N-S        Ped   Sch     Ped     Sch
+7-8               615       118       3         736              7-8              12      60      192          264            1,000      N/A   N/A     N/A     N/A
+8-9               642       177       5         824              8-9              11     103      241          355            1,179      N/A   N/A     N/A     N/A
+9 - 10            567       164       6         737              9 - 10           15     116      244          375            1,112      N/A   N/A     N/A     N/A
+3-4               515       157      27         699              3-4              21     255      364          640            1,339      N/A   N/A     N/A     N/A
+4-5               572       164      17         753              4-5              24     295      451          770            1,523      N/A   N/A     N/A     N/A
+5-6               513       129      16         658              5-6              12     410      455          877            1,535      N/A   N/A     N/A     N/A
+
+TOTAL           3,424       909      74       4,407              TOTAL            95    1,239 1,947          3,281            7,688      N/A N/A       N/A N/A
+
+
+EASTBOUND Approach                                               WESTBOUND Approach                                          TOTAL       XING W/L       XING E/L
+
+Hours            Lt        Th       Rt       Total               Hours       Lt         Th        Rt        Total             E-W        Ped   Sch     Ped     Sch
+7-8                   0         0        0           0           7-8               3      10       20           33              33       N/A   N/A     N/A     N/A
+8-9                   0         0        0           0           8-9               4      22       30           56              56       N/A   N/A     N/A     N/A
+9 - 10                0         0        0           0           9 - 10            7      14       20           41              41       N/A   N/A     N/A     N/A
+3-4                   0         0        0           0           3-4              10      14       29           53              53       N/A   N/A     N/A     N/A
+4-5                   0         0        0           0           4-5               9      27       40           76              76       N/A   N/A     N/A     N/A
+5-6                   0         0        0           0           5-6               6      25       57           88              88       N/A   N/A     N/A     N/A
+
+TOTAL                 0         0        0           0           TOTAL            39     112      196            347           347       N/A N/A       N/A N/A
+

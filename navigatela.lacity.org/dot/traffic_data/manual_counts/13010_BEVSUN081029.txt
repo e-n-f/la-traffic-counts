@@ -1,0 +1,186 @@
+                                                 TRAFFIC COUNT SUMMARY
+                                                                                                                             City of Los Angeles
+STREET:                                                                                                                 Department of Transportation
+North/South           BEL AIR ROAD/BEVERLY GLEN BOULEVARD (SOUTH)
+
+East/West             SUNSET BOULEVARD
+
+Day:     AM    WEDNESDAY             Date:       OCTOBER 29, 2008              Weather:         CLEAR
+         PM    WEDNESDAY                         OCTOBER 29, 2008
+Hours:         7-10 AM 3-6 PM
+
+School Day:           YES            District:           LOS ANGELES
+
+
+                        N/B                        S/B                           E/B                         W/B
+DUAL-
+WHEELED                 N/A                        N/A                           N/A                          N/A
+BIKES                   N/A                        N/A                           N/A                          N/A
+BUSES                   N/A                        N/A                           N/A                          N/A
+
+
+                        N/B TIME                   S/B TIME                      E/B TIME                    W/B      TIME
+
+AM PK 15 MIN            162 7:45                    67    9:00                   330 9:00                     555     7:45
+
+PM PK 15 MIN            249 5:45                    83    3:00                   426 5:15                     384     5:45
+
+AM PK HOUR              540 7:45                   217    8:45                  1,247 8:45                   2,069    7:30
+
+PM PK HOUR              960 5:00                   289    3:00                  1,598 4:45                   1,439    3:00
+
+
+
+NORTHBOUND Approach                                      SOUTHBOUND Approach                                         TOTAL      XING S/L       XING N/L
+
+Hours           Lt     Th     Rt     Total               Hours         Lt       Th        Rt       Total             N-S        Ped   Sch     Ped   Sch
+7-8              75      98 258          431             7-8             54       36       17          107             538      N/A   N/A     N/A   N/A
+8-9              89      82 341          512             8-9             74       80       13          167             679      N/A   N/A     N/A   N/A
+9 - 10           84      62 296          442             9 - 10          92       92       19          203             645      N/A   N/A     N/A   N/A
+3-4             118      79 587          784             3-4            157       97       35          289           1,073      N/A   N/A     N/A   N/A
+4-5             147      84 634          865             4-5            132       96       24          252           1,117      N/A   N/A     N/A   N/A
+5-6             199     150 611          960             5-6             98       84       24          206           1,166      N/A   N/A     N/A   N/A
+TOTAL           712     555 2,727      3,994             TOTAL          607      485      132        1,224           5,218      N/A   N/A     N/A   N/A
+
+
+EASTBOUND Approach                                       WESTBOUND Approach                                          TOTAL      XING W/L       XING E/L
+
+Hours           Lt     Th      Rt    Total               Hours          Lt       Th       Rt       Total             E-W        Ped   Sch     Ped   Sch
+7-8              32      739    75       846             7-8             542    1,311      91        1,944           2,790      N/A   N/A     N/A   N/A
+8-9              20    1,004   116     1,140             8-9             586    1,268     104        1,958           3,098      N/A   N/A     N/A   N/A
+9 - 10           25    1,098   121     1,244             9 - 10          611    1,277      82        1,970           3,214      N/A   N/A     N/A   N/A
+3-4              20    1,299    95     1,414             3-4             333    1,042      64        1,439           2,853      N/A   N/A     N/A   N/A
+4-5              14    1,342   102     1,458             4-5             312      998      63        1,373           2,831      N/A   N/A     N/A   N/A
+5-6              14    1,474    88     1,576             5-6             358    1,014      64        1,436           3,012      N/A   N/A     N/A   N/A
+TOTAL           125    6,956   597     7,678             TOTAL         2,742    6,910     468       10,120           17,798     N/A   N/A     N/A   N/A
+INTERSECTION TURNING MOVEMENT COUNT SUMMARY
+
+CLIENT:                       CRAIN & ASSOCIATES
+PROJECT:                      CENTURY CITY
+DATE:                         WEDNESDAY, OCTOBER 29, 2008
+PERIOD:                       07:00 AM TO 10:00 AM
+INTERSECTION:      N/S        BEVERLY GLEN BOULEVARD (S)
+                   E/W        SUNSET BOULEVARD
+FILE NUMBER:                   2-AM
+
+
+  15 MINUTE         1            2         3          4          5          6          7          8          9         10         11      12
+   TOTALS         SBRT         SBTH       SBLT       WBRT       WBTH       WBLT       NBRT       NBTH       NBLT      EBRT       EBTH    EBLT
+
+
+  0700-0715              2            4          6        14         281        121        30         15         14          8     120          5
+  0715-0730              4            9         10        24         327        145        57         22         11         13     153         10
+  0730-0745              6           13         18        28         318        131        74         26         20         23     237         10
+  0745-0800              5           10         20        25         385        145        97         35         30         31     229          7
+  0800-0815              2           19         18        31         358        143        79         20         22         26     237          6
+  0815-0830              3           18         14        27         328        150        83         25         25         30     251          5
+  0830-0845              3           20         18        26         294        146        88         15         21         28     260          5
+  0845-0900              5           23         24        20         288        147        91         22         21         32     256          4
+  0900-0915              7           29         31        20         320        152        71         18         19         34     289          7
+  0915-0930              4           19         25        21         304        159        71         18         18         39     281          6
+  0930-0945              3           27         20        16         343        164        85         10         25         25     269          5
+  0940-1000              5           17         16        25         310        136        69         16         22         23     259          7
+
+
+   1 HOUR           1            2         3          4          5          6          7          8          9         10         11      12
+   TOTALS         SBRT         SBTH       SBLT       WBRT       WBTH       WBLT       NBRT       NBTH       NBLT      EBRT       EBTH    EBLT       TOTALS
+
+
+  0700-0800              17          36         54        91     1311           542        258        98         75         75     739         32     3328
+  0715-0815              17          51         66        108    1388           564        307        103        83         93     856         33     3669
+  0730-0830              16          60         70        111    1389           569        333        106        97     110        954         28     3843
+  0745-0845              13          67         70        109    1365           584        347        95         98     115        977         23     3863
+  0800-0900              13          80         74        104    1268           586        341        82         89     116       1004         20     3777
+  0815-0915              18          90         87        93     1230           595        333        80         86     124       1056         21     3813
+  0830-0930              19          91         98        87     1206           604        321        73         79     133       1086         22     3819
+  0845-0945              19          98        100        77     1255           622        318        68         83     130       1095         22     3887
+  0900-1000              19          92         92        82     1277           611        296        62         84     121       1098         25     3859
+
+   A.M. PEAK HOUR                                                    19         98         100
+      0845-0945
+
+
+                                           22                                                                          77
+
+                                          1095                                                                        1255
+          SUNSET BOULEVARD
+                                          130                                                                         622
+
+
+
+
+                                                                     83         68         318
+
+
+                                                                  BEVERLY GLEN BOULEVARD (S)
+
+   THE TRAFFIC SOLUTION
+   329 DIAMOND STREET
+   ARCADIA, CALIFORNIA 91006
+   626.446.7978
+INTERSECTION TURNING MOVEMENT COUNT SUMMARY
+
+CLIENT:                       CRAIN & ASSOCIATES
+PROJECT:                      CENTURY CITY
+DATE:                         WEDNESDAY, OCTOBER 29, 2008
+PERIOD:                       03:00 PM TO 06:00 PM
+INTERSECTION:      N/S        BEVERLY GLEN BOULEVARD (S)
+                   E/W        SUNSET BOULEVARD
+FILE NUMBER:                   2-PM
+
+
+  15 MINUTE         1            2         3          4         5          6          7          8          9          10         11      12
+   TOTALS         SBRT         SBTH       SBLT       WBRT      WBTH       WBLT       NBRT       NBTH       NBLT       EBRT       EBTH    EBLT
+
+
+  0300-0315              11          26         46        15        282        73         133        19         26          22     330          5
+  0315-0330              7           27         34        15        261        91         151        16         28          32     298          6
+  0330-0345              9           20         39        15        244        89         131        24         37          21     324          4
+  0345-0400              8           24         38        19        255        80         172        20         27          20     347          5
+  0400-0415              4           22         32        20        251        72         154        22         39          27     303          3
+  0415-0430              8           32         33        19        253        70         159        18         30          28     361          4
+  0430-0445              7           20         34        13        239        81         162        20         44          26     301          5
+  0445-0500              5           22         33        11        255        89         159        24         34          21     377          2
+  0500-0515              5           25         24        19        242        79         157        35         43          20     359          2
+  0515-0530              3           25         33        13        245        89         146        45         50          25     398          3
+  0530-0545              6           20         23        15        259        91         139        37         59          21     364          6
+  0545-0600              10          14         18        17        268        99         169        33         47          22     353          3
+
+
+   1 HOUR           1            2         3          4         5          6          7          8          9          10         11      12
+   TOTALS         SBRT         SBTH       SBLT       WBRT      WBTH       WBLT       NBRT       NBTH       NBLT       EBRT       EBTH    EBLT       TOTALS
+
+
+  0300-0400              35          97        157        64    1042           333        587        79         118         95    1299         20     3926
+  0315-0415              28          93        143        69    1011           332        608        82         131     100       1272         18     3887
+  0330-0430              29          98        142        73    1003           311        616        84         133         96    1335         16     3936
+  0345-0445              27          98        137        71        998        303        647        80         140     101       1312         17     3931
+  0400-0500              24          96        132        63        998        312        634        84         147     102       1342         14     3948
+  0415-0515              25          99        124        62        989        319        637        97         151         95    1398         13     4009
+  0430-0530              20          92        124        56        981        338        624        124        171         92    1435         12     4069
+  0445-0545              19          92        113        58    1001           348        601        141        186         87    1498         13     4157
+  0500-0600              24          84         98        64    1014           358        611        150        199         88    1474         14     4178
+
+   P.M. PEAK HOUR                                                   24         84         98
+      0500-0600
+
+
+                                           14                                                                          64
+
+                                          1474                                                                        1014
+          SUNSET BOULEVARD
+                                           88                                                                         358
+
+
+
+
+                                                                    199        150        611
+
+
+                                                                 BEVERLY GLEN BOULEVARD (S)
+
+   THE TRAFFIC SOLUTION
+   329 DIAMOND STREET
+   ARCADIA, CALIFORNIA 91006
+   626.446.7978
+

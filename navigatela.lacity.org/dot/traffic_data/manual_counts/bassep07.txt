@@ -1,0 +1,61 @@
+                       City Of Los Angeles
+                       Department Of Transportation
+                       MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South            SEPULVEDA BL
+
+East/West              BASSETT ST
+
+Day:        WEDNESDAY                     Date:       AUGUST 15, 2007         Weather:            SUNNY
+
+Hours:      7-10AM 3-6PM
+
+School Day:            YES                District:           EV                I/S CODE 32518
+
+
+                        N/B                            S/B                      E/B                        W/B
+DUAL-
+WHEELED                  117                            127                         0                        1
+BIKES                     14                              2                         0                        0
+BUSES                     41                             52                         0                        4
+
+
+                        N/B TIME                       S/B TIME                 E/B TIME                   W/B TIME
+
+AM PK 15 MIN             215     9.30                   423    7.15                 0    7.00               25    7.30
+
+PM PK 15 MIN            475      5.30                   335    5.00                 0    3.00               40    4.30
+
+AM PK HOUR              735      9.00                  1651    7.00                 0    7.00               56    7.30
+
+PM PK HOUR              1831     4.45                  1231    4.15                 0    3.00              133    4.30
+
+
+
+NORTHBOUND Approach                                           SOUTHBOUND Approach                                TOTAL   XING S/L   XING N/L
+
+Hours         Lt        Th       Rt       Total               Hours     Lt     Th        Rt       Total           N-S     Ped Sch    Ped   Sch
+7-8                0     315       7         322              7-8       127    1524           0     1651          1973      0   0      0     0
+8-9                0     589      13         602              8-9       123    1281           0     1404          2006      0   0      0     0
+9-10               0     713      22         735              9-10       83    1255           0     1338          2073      1   0      0     0
+3-4                0    1364      26        1390              3-4        46    1023           0     1069          2459      0   0      0     0
+4-5                0    1563      27        1590              4-5        54    1117           0     1171          2761      0   0      2     0
+5-6                0    1787      31        1818              5-6        43    1149           0     1192          3010      1   0      1     0
+
+TOTAL              0 6331        126        6457              TOTAL     476 7349              0     7825         14282     2    0      3    0
+
+
+EASTBOUND Approach                        NONE                WESTBOUND Approach                                 TOTAL   XING W/L   XING E/L
+
+Hours         Lt        Th       Rt       Total               Hours     Lt     Th        Rt Total                E-W      Ped Sch    Ped   Sch
+7-8                0         0        0           0           7-8         5         0     40     45                 45      0   0      9     0
+8-9                0         0        0           0           8-9         4         0     31     35                 35      0   0     11     0
+9-10               0         0        0           0           9-10        9         0     35     44                 44      0   0      7     0
+3-4                0         0        0           0           3-4        15         2     57     74                 74      0   0     10     0
+4-5                0         0        0           0           4-5        14         2     82     98                 98      0   0      8     0
+5-6                0         0        0           0           5-6        14         0    117   131                 131      0   0     11     0
+
+TOTAL              0         0        0           0           TOTAL      61         4    362         427           427     0    0     56    0
+
+            (Rev Oct 06)
+

@@ -1,0 +1,63 @@
+                       City Of Los Angeles
+                       Department Of Transportation
+                       MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South            CORBIN AV
+
+East/West              INGOMAR ST
+
+Day:          TUESDAY                         Date:       June 19, 2007              Weather:              SUNNY
+
+Hours:        7-10AM 3-6PM
+
+School Day:            YES                    District:          WEST VALLEY           I/S CODE             30930
+
+
+                       N/B                                S/B                        E/B                                W/B
+DUAL-
+WHEELED                      25                             14                             0                                  1
+BIKES                         0                              0                             8                                  0
+BUSES                         6                              8                             0                                  9
+
+
+                       N/B        TIME                    S/B    TIME                E/B       TIME                     W/B TIME
+
+AM PK 15 MIN                257        7.45                388 7.30                        0        7.00                  22        7.30
+
+PM PK 15 MIN                319        5.15                289 5.15                        0        3.00                  12        5.00
+
+AM PK HOUR                  900        7.15               1306 7.15                        0        7.00                  72        7.15
+
+PM PK HOUR              1222           4.45               1014 4.45                        0        3.00                  32        4.30
+
+
+
+
+NORTHBOUND Approach                                              SOUTHBOUND Approach                                              TOTAL      XING S/L            XING N/L
+
+Hours         Lt       Th         Rt          Total              Hours    Lt         Th     Rt             Total                  N-S        Ped       Sch       Ped       Sch
+7-8                0     819            45        864            7-8            31    1253            0       1284                  2148           0         0         0         0
+8-9                0     685            13        698            8-9             7      949           0        956                  1654           0         0         0         0
+9-10               0     540             4        544            9-10            9      715           0        724                  1268           0         0         1         0
+3-4                0     831            18        849            3-4            17      793           0        810                  1659           1         0         0         0
+4-5                0    1012            23       1035            4-5            22      891           0        913                  1948           0         0         0         0
+5-6                0    1157            24       1181            5-6            21      981           0       1002                  2183           1         0         0         0
+
+TOTAL              0    5044           127       5171            TOTAL         107    5582            0       5689                 10860           2         0         1         0
+
+
+EASTBOUND Approach                            NONE               WESTBOUND Approach                                               TOTAL      XING W/L            XING E/L
+
+Hours         Lt       Th         Rt          Total              Hours    Lt         Th        Rt          Total                  E-W        Ped       Sch       Ped       Sch
+7-8                0          0          0            0          7-8            17         0         48            65                   65         2         0         0         0
+8-9                0          0          0            0          8-9            10         0         23            33                   33         3         0         0         0
+9-10               0          0          0            0          9-10            8         0         15            23                   23         0         0         0         0
+3-4                0          0          0            0          3-4             8         0         14            22                   22         0         0         0         0
+4-5                0          0          0            0          4-5            10         0         13            23                   23         0         0         0         0
+5-6                0          0          0            0          5-6             8         0         24            32                   32         2         0         0         0
+
+TOTAL              0          0          0            0          TOTAL          61         0        137        198                   198           7         0         0         0
+
+
+              (Rev Oct 06)
+

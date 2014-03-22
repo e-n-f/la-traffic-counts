@@ -1,0 +1,61 @@
+                    City Of Los Angeles
+                    Department Of Transportation
+                    MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South         BRONSON AV
+
+East/West           FRANKLIN AV
+
+Day:              FRIDAY           Date:        January 29, 2010             Weather:          SUNNY
+
+Hours:      7-10AM 3-6PM                                     Chekrs:         THOMPSON
+
+School Day:         YES            District:         HOLLYWOOD                 I/S CODE 22235
+
+
+                     N/B                       S/B                             E/B                     W/B
+DUAL-
+WHEELED                30                       18                              96                       45
+BIKES                  10                        0                              13                        2
+BUSES                   0                        0                              90                       10
+
+
+                     N/B TIME                  S/B TIME                        E/B TIME                W/B TIME
+
+AM PK 15 MIN           53   8.00                85    8.45                     236      8.15            287    8.30
+
+PM PK 15 MIN         118    4.30               100    5.45                     404      4.15            291    3.15
+
+AM PK HOUR           183    7.30               280    8.00                     896      8.00           1126    8.15
+
+PM PK HOUR           421    4.30               335    5.00                    1537      3.45           1018    3.00
+
+
+
+NORTHBOUND Approach                                  SOUTHBOUND Approach                                      TOTAL   XING S/L    XING N/L
+
+Hours         Lt     Th     Rt Total                 Hours             Lt     Th        Rt Total               N-S     Ped Sch     Ped   Sch
+7-8            32      49    64   145                7-8                64      57       25   146               291     20   2      15     2
+8-9            30      56    78   164                8-9                94     114       72   280               444     22   0      10     0
+9-10           33      63    65   161                9-10               60      84       33   177               338     18   0      20     0
+3-4            53     102   144   299                3-4               127      69       72   268               567     30   2      62     0
+4-5            72     125   167   364                4-5               119      67       71   257               621     25   1      30     2
+5-6            83     130   187   400                5-6               126     103      106   335               735     43   0      54     2
+
+TOTAL         303    525    705      1533            TOTAL             590     494      379     1463           2996    158   5     191    6
+
+
+EASTBOUND Approach                                   WESTBOUND Approach                                       TOTAL   XING W/L    XING E/L
+
+Hours         Lt  Th        Rt Total                 Hours             Lt     Th        Rt Total              E-W      Ped Sch     Ped   Sch
+7-8            48 596        38   682                7-8                73     756       24   853              1535     20 10        7     0
+8-9            77 749        70   896                8-9               111     960       21 1092               1988     22   2       7     0
+9-10           61 694        50   805                9-10               65     904       12   981              1786     14   0       9     0
+3-4           125 1183       62 1370                 3-4                77     911       30 1018               2388     43   2      18     0
+4-5           107 1307       58 1472                 4-5                51     804       18   873              2345     70   1      10     0
+5-6           112 1199       43 1354                 5-6                91     809       18   918              2272     56   0      36     0
+
+TOTAL         530 5728      321      6579            TOTAL             468 5144         123     5735          12314    225   15     87    0
+
+            (Rev Oct 06)
+

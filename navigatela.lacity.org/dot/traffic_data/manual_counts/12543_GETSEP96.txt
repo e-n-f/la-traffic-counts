@@ -1,0 +1,58 @@
+ACCUTEK                             TRAFFIC COUNT SUMMARY
+
+STREET:
+North/South        SEPULVEDA BLVD.
+
+East/West          GETTY CENTER DR.
+
+Day:    WEDNESDAY                        Date:       12-18-1996                Weather:          CLEAR
+
+Hours: 7-10 AM 3-6 PM                    FILE:       AM041
+
+School Day:        YES                   District:           WEST L.A.
+
+
+                     N/B                               S/B                        E/B                     W/B
+DUAL-
+WHEELED               78                               33                         28                       2
+BIKES                  0                                0                          1                       1
+BUSES                 21                               13                          0                       1
+
+
+                     N/B TIME                          S/B TIME                   E/B TIME                W/B     TIME
+
+AM PK 15 MIN         445     9:00                     622     7:15                11      7:00            31       8:15
+
+PM PK 15 MIN         704     5:45                     455     5:45               177      3:15            53       3:00
+
+AM PK HOUR          1226     9:00                    2289     7:00                41      7:00            79       8:00
+
+PM PK HOUR          2597     5:00                    1530     5:00               510      3:00            83       3:00
+
+
+
+NORTHBOUND Approach                                          SOUTHBOUND Approach                                TOTAL     XING S/L       XING N/L
+
+Hours       Lt       Th      Rt          Total               Hours       Lt      Th       Rt     Total           N-S      Ped   Sch      Ped   Sch
+7-8         121      201      25           347               7-8           8    2192       89     2289           2636      0     0        2     0
+8-9         135      438      98           671               8-9          21    2045       70     2136           2807      0     0        4     0
+9-10         95     1102      29          1226               9-10         13    1769       38     1820           3046      0     0        0     0
+3-4          19     1702      21          1742               3-4          10     342        6      358           2100      1     0        1     0
+4-5          20     2387      26          2433               4-5           4     736        5      745           3178      0     0        0     0
+5-6            8    2584       5          2597               5-6           3    1526        1     1530           4127      0     0        1     0
+
+TOTAL       398     8414     204          9016               TOTAL        59    8610      209     8878           17894      1        0     8        0
+
+
+EASTBOUND Approach                                           WESTBOUND Approach                                 TOTAL     XING W/L       XING E/L
+
+Hours       Lt      Th       Rt          Total               Hours       Lt      Th       Rt     Total           E-W      Ped   Sch      Ped   Sch
+7-8           5          0    36             41              7-8           9          0     1        10             51     0     0        0     0
+8-9           6          0    17             23              8-9          77          0     2        79            102     1     0        1     0
+9-10         10          0    22             32              9-10         28          0     7        35             67     0     0        0     0
+3-4         238          0   272           510               3-4          75          0     8        83            593     0     0        1     0
+4-5          64          0   152           216               4-5          32          0    13        45            261     0     0        1     0
+5-6         109          0   215           324               5-6           8          0     3        11            335     0     0        2     0
+
+TOTAL       432          0   714          1146               TOTAL       229          0   34       263           1409       1        0     5        0
+

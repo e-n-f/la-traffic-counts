@@ -1,0 +1,61 @@
+                                                                                                                          ACCUTEK TRAFFIC DATA, INC.
+                                                                                                                                     FILENAME: INT3
+
+
+
+                                                                   TRAFFIC COUNT SUMMARY
+INTERSECTION:
+North/South GORHAM AVENUE
+East/West           SAN VICENTE BOULEVARD
+
+Day:     TUE                          Date:       3/15/05                   Weather:          CLEAR
+
+Hours: 7-10 AM 3-6 PM
+
+School Day:         YES               District:             LOS ANGELES
+
+
+                      N/B                            S/B                       E/B                     W/B
+DUAL-                   0                              0                         0                       0
+WHEELED                 0                              0                         0                       0
+BIKES                   0                              0                         0                       0
+BUSES                   0                              0                         0                       0
+
+
+                      N/B      TIME                  S/B     TIME              E/B     TIME            W/B     TIME
+
+AM PK 15 MIN              94   8:30                   44      9:00             297     7:45             262     7:30
+
+PM PK 15 MIN          117      4:00                   39      5:45             323     4:15             249     3:00
+
+AM PK HOUR            347      8:15                  156      8:45            1180     7:45            1026     7:30
+
+PM PK HOUR            423      5:00                  134      5:00            1209     3:30            917      3:00
+
+
+NORTHBOUND Approach                                         SOUTHBOUND Approach                               TOTAL    XING S/L           XING N/L
+
+ Hours         Lt         Th     Rt      Total               Hours     Lt       Th       Rt    Total            N-S      Ped      Sch        Ped       Sch
+7-8            52         90    120       262               7-8       24        34       37      95             357         0       0          0         0
+8-9            85     105       156       346               8-9       37        40       58     135             481         0       0          0         0
+9-10           65     125       132       322               9-10      41        32       80     153             475         0       0          0         0
+3-4            52         87    177       316               3-4        7        21       74     102             418         0       0          0         0
+4-5            85     144       182       411               4-5       12        33       86     131             542         0       0          0         0
+5-6           103     150       170       423               5-6       10        40       84     134             557         0       0          0         0
+
+
+TOTAL         442     701       937      2080               TOTAL     131      200      419     750            2830         0       0          0         0
+
+EASTBOUND Approach                                          WESTBOUND Approach                                TOTAL    XING W/L           XING E/L
+
+ Hours         Lt         Th     Rt      Total               Hours     Lt       Th       Rt    Total            E-W      Ped      Sch        Ped       Sch
+7-8            1      914         3       918               7-8       25       911        0     936            1854         0       0          0         0
+8-9            1     1117        17      1135               8-9       66       902        2     970            2105         0       0          0         0
+9-10           0      939        25       964               9-10      51       779        2     832            1796         0       0          0         0
+3-4            85    1049        34      1168               3-4       45       872        0     917            2085         0       0          0         0
+4-5            78    1068        22      1168               4-5       27       803       13     843            2011         0       0          0         0
+5-6            89    1060        28      1177               5-6       57       841       18     916            2093         0       0          0         0
+
+
+TOTAL         254    6147       129      6530               TOTAL     271     5108       35    5414           11944         0       0          0         0
+

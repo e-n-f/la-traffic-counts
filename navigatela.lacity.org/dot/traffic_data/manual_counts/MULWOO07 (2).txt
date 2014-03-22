@@ -1,0 +1,63 @@
+                        City Of Los Angeles
+                        Department Of Transportation
+                        MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South             WOODCLIFF RD
+
+East/West               MULLHOLLAND DR
+
+Day:        MONDAY                            Date:        February 26, 2007            Weather:           CLEAR
+
+Hours:      7-10AM 3-6PM
+
+School Day:             YES                   District:             EAST VALLEY           I/S CODE 5275080340
+
+
+                         N/B                               S/B                           E/B                         W/B
+DUAL-
+WHEELED                        0                             10                               41                       22
+BIKES                          0                              0                                0                        2
+BUSES                          0                              0                                0                        0
+
+
+                        N/B        TIME                    S/B    TIME                  E/B        TIME              W/B TIME
+
+AM PK 15 MIN                   0    7.00                    108 8.30                      218       8.00              209     7.45
+
+PM PK 15 MIN                   0    3.00                     24 4.00                      139       3.45              248     5.45
+
+AM PK HOUR                     0    7.00                    392 8.15                      757       7.30              624     7.30
+
+PM PK HOUR                     0    3.00                     65 4.00                      469       3.00              925     5.00
+
+
+
+
+NORTHBOUND Approach                           NONE                SOUTHBOUND Approach                                       TOTAL    XING S/L   XING N/L
+
+Hours          Lt        Th         Rt         Total              Hours        Lt        Th         Rt      Total            N-S     Ped Sch    Ped Sch
+7-8                 0          0          0            0          7-8          201             0      91      292              292      0   0      0   0
+8-9                 0          0          0            0          8-9          246             0    137       383              383      0   0      0   0
+9-10                0          0          0            0          9-10         216             0    119       335              335      0   0      0   0
+3-4                 0          0          0            0          3-4            25            0      30        55              55      0   0      0   0
+4-5                 0          0          0            0          4-5            36            0      29        65              65      0   0      0   0
+5-6                 0          0          0            0          5-6            24            0      22        46              46      0   0      0   0
+
+TOTAL               0          0          0            0          TOTAL        748             0     428     1176             1176      0   0      0   0
+
+
+EASTBOUND Approach                                                WESTBOUND Approach                                        TOTAL    XING W/L   XING E/L
+
+Hours          Lt        Th         Rt         Total              Hours        Lt        Th         Rt      Total            E-W     Ped Sch    Ped Sch
+7-8              7        567             0      574              7-8               0     434         15      449             1023      0   0      0   0
+8-9             39        696             0      735              8-9               0     433         38      471             1206      0   0      0   0
+9-10            29        444             0      473              9-10              0     207         32      239              712      0   0      0   0
+3-4             47        422             0      469              3-4               0     541         88      629             1098      0   0      0   0
+4-5             58        345             0      403              4-5               0     609       197       806             1209      0   0      1   0
+5-6             94        362             0      456              5-6               0     653       272       925             1381      0   0      0   0
+
+TOTAL          274       2836             0      3110             TOTAL             0    2877        642     3519             6629      0   0      1   0
+
+
+            (Rev Oct 06)
+

@@ -1,0 +1,63 @@
+                        City Of Los Angeles
+                        Department Of Transportation
+                        MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South             PERSHING DR
+
+East/West               CABORA DR / PERSHING DR
+
+Day:        WEDNESDAY                         Date:       August 16, 2006              Weather:              CLEAR
+
+Hours:      7-10AM 3-6PM
+
+School Day:             YES                   District:             WESTERN              I/S CODE 1123059050
+
+
+                         N/B                              S/B                           E/B                               W/B
+DUAL-
+WHEELED                       43                                0                             5                             38
+BIKES                         11                                0                            22                              4
+BUSES                          7                                0                             7                              0
+
+
+                        N/B        TIME                   S/B       TIME               E/B        TIME                    W/B TIME
+
+AM PK 15 MIN              430             8                     0      7                     25     9.30                    78        9
+
+PM PK 15 MIN              182             5                     0      3                     30     4.15                   243     5.30
+
+AM PK HOUR               1512             8                     0      7                     82     9.00                   272     8.15
+
+PM PK HOUR                676        4.45                       0 3.00                   106        4.00                   929     5.00
+
+
+
+
+NORTHBOUND Approach                                                 SOUTHBOUND Approach                      NONE                TOTAL    XING S/L   XING N/L
+
+Hours          Lt        Th         Rt         Total                Hours     Lt        Th          Rt        Total               N-S     Ped Sch    Ped Sch
+7-8              19            0    1223        1242                7-8            0          0          0            0            1242      1   0      0   0
+8-9              37            0    1475        1512                8-9            0          0          0            0            1512      0   0      0   0
+9-10             43            0    1111        1154                9-10           0          0          0            0            1154      0   0      0   0
+3-4              37            0     505         542                3-4            0          0          0            0             542      0   0      0   0
+4-5              57            0     544         601                4-5            0          0          0            0             601      1   0      0   0
+5-6              47            0     625         672                5-6            0          0          0            0             672      0   0      0   0
+
+TOTAL          240             0    5483         5723               TOTAL          0          0          0            0            5723      2   0      0   0
+
+
+EASTBOUND Approach                                                  WESTBOUND Approach                                           TOTAL    XING W/L   XING E/L
+                                   PERSHING DR                                                    CABORA DR
+Hours          Lt        Th          Rt        Total                Hours     Lt        Th          Rt        Total               E-W     Ped Sch    Ped Sch
+7-8                 0          0       41          41               7-8       193             9          0      202                 243      0   0      0   0
+8-9                 0          0       52          52               8-9       249             5          0      254                 306      1   0      0   0
+9-10                0          0       82          82               9-10      261             8          0      269                 351      0   0      0   0
+3-4                 0          0       68          68               3-4       486            14          0      500                 568      0   0      0   0
+4-5                 0          0     106         106                4-5       695            15          0      710                 816      0   0      0   0
+5-6                 0          0       70          70               5-6       909            20          0      929                 999      0   0      0   0
+
+TOTAL               0          0     419          419               TOTAL     2793           71          0     2864               3283       1   0      0   0
+
+
+            (Rev Apr 06)
+

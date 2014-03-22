@@ -1,0 +1,418 @@
+                                     INTERSECTION TURNING MOVEMENT COUNTS
+                                                PREPARED BY: PACIFIC TRAFFIC DATA SERVICES
+        DATE:         LOCATION:                    LOS ANGELES                                      PROJECT #:        CA10-0910-01
+        9/8/10        NORTH & SOUTH:               FIGUEROA                                         LOCATION #:       1
+      WEDNESDAY       EAST & WEST:                 32ND                                             CONTROL:          SIGNAL
+                      NOTES:                                                                                  AM                Y
+         ALL                                                                                                  PM                N
+       CLASSES                                                                                                MD       W               E
+                                                                                                             OTHER              S
+                                                                                                             OTHER              
+                             NORTHBOUND                   SOUTHBOUND                   EASTBOUND                   WESTBOUND                            U-TURNS
+                               FIGUEROA                      FIGUEROA                       32ND                       32ND
+                        NL       NT        NR        SL        ST        SR       EL        ET        ER      WL        WT      WR     TOTAL   NB   SB    EB   WB   TTL
+            LANES:      1         4         0        0          2         1       0          1         0      0          0       0
+         7:00 AM        7        290        0        0         95         11      1          0        4        0         0      0       408    0    0     0    0    0
+         7:15 AM        12       399        0        0        109         7       1          0        4        0         0      0       532    0    0     0    0    0
+         7:30 AM        13       521        0        0        156         10      2          0        6        0         0      0       708    0    0     0    0    0
+         7:45 AM        16       525        0        0        189         13      3          0        6        0         0      0       752    0    0     0    0    0
+         8:00 AM        19       478        0        0        186         18      6          0        11       0         0      0       718    0    0     0    0    0
+         8:15 AM        20       464        0        0        186         13      2          0        8        0         0      0       693    0    0     0    0    0
+         8:30 AM        12       468        0        0        175         9       4          0        10       0         0      0       678    0    0     0    0    0
+         8:45 AM        12       413        0        0        161         9       1          0        3        0         0      0       599    0    0     0    0    0
+AM
+
+
+
+
+     VOLUMES           111      3,558       0        0       1,257        90      20         0        52       0         0      0      5,088   0    0     0    0    0
+     APPROACH %        3%        97%       0%       0%        93%        7%      28%        0%       72%      0%        0%     0%
+     APP/DEPART       3,669        /      3,578    1,347        /       1,309     72          /       0        0          /    201      0
+     BEGIN PEAK HR             7:30 AM
+     VOLUMES           68       1,988       0        0        717        54       13       0          31       0        0        0     2,871
+     APPROACH %        3%        97%       0%       0%        93%        7%      30%      0%         70%      0%       0%       0%
+     PEAK HR FACTOR             0.950                        0.945                       0.647                        0.000            0.954
+     APP/DEPART       2,056        /      2,001     771         /        748      44        /         0        0         /     122       0
+         4:00 PM        13       359        0        0        233         13      11       0          28       0        0       0       657    0    0     0    0    0
+         4:15 PM        19       334        0        0        232         15      5        0          23       0        0       0       628    0    0     0    0    0
+         4:30 PM        21       349        0        0        289         10      7        0          20       0        0       0       696    0    0     0    0    0
+         4:45 PM        23       353        0        0        322         12      12       0          25       0        0       0       747    0    0     0    0    0
+         5:00 PM        14       412        0        0        301         11      20       0          18       0        0       0       776    0    0     0    0    0
+         5:15 PM        19       422        0        0        292         9       21       0          16       0        0       0       779    0    0     0    0    0
+         5:30 PM        11       389        0        0        297         12      13       0          21       0        0       0       743    0    0     0    0    0
+         5:45 PM        10       352        0        0        306         14      6        0          14       0        0       0       702    0    0     0    0    0
+PM
+
+
+
+
+     VOLUMES           130      2,970       0        0       2,272        96      95       0         165       0        0       0      5,728   0    0     0    0    0
+     APPROACH %        4%        96%       0%       0%        96%        4%      37%      0%         63%      0%       0%      0%
+     APP/DEPART       3,100        /      3,065    2,368        /       2,437    260        /         0        0         /     226      0
+     BEGIN PEAK HR             4:45 PM
+     VOLUMES           67       1,576       0        0       1,212       44       66       0          80       0        0        0     3,045
+     APPROACH %        4%        96%       0%       0%        96%        4%      45%      0%         55%      0%       0%       0%
+     PEAK HR FACTOR             0.931                        0.940                       0.961                        0.000            0.977
+     APP/DEPART       1,643        /      1,642    1,256        /       1,292    146        /         0       0          /     111       0
+
+                                                           FIGUEROA
+
+                                                           NORTH SIDE
+
+
+                       32ND          WEST SIDE                                  EAST SIDE           32ND
+
+
+                                                           SOUTH SIDE
+
+                                                           FIGUEROA
+
+                                 PEDESTRIAN + BIKE CROSSINGS                                       PEDESTRIAN CROSSINGS                         BICYCLE CROSSINGS
+                               N SIDE     S SIDE   E SIDE    W SIDE     TOTAL            N SIDE     S SIDE   E SIDE   W SIDE   TOTAL           NS   SS    ES   WS TOTAL
+        7:00 AM                  0         0         0         1         1                  0         0       0         0       0              0    0     0     1   1
+        7:15 AM                  0         0         0         2         2                  0         0       0         0       0              0    0     0     2   2
+        7:30 AM                  1         0         0         2         3                  0         0       0         0       0              1    0     0     2   3
+        7:45 AM                  0         0         0         1         1                  0         0       0         0       0              0    0     0     1   1
+AM
+
+
+
+
+        8:00 AM                  0         0         0         5         5                  0         0       0         0       0              0    0     0     5   5
+        8:15 AM                  1         0         0         2         3                  0         0       0         0       0              1    0     0     2   3
+        8:30 AM                  0         0         0         2         2                  0         0       0         0       0              0    0     0     2   2
+        8:45 AM                  0         0         0         4         4                  0         0       0         0       0              0    0     0     4   4
+         TOTAL                   2         0         0         19        21                 0         0       0         0       0              2    0     0    19   21
+        4:00 PM                  0         0         0         7         7                  0         0       0         0       0              0    0     0     7   7
+        4:15 PM                  1         0         0         8         9                  0         0       0         0       0              1    0     0     8   9
+        4:30 PM                  1         1         0         5         7                  0         0       0         0       0              1    1     0     5   7
+        4:45 PM                  1         0         0         6         7                  0         0       0         0       0              1    0     0     6   7
+PM
+
+
+
+
+        5:00 PM                  0         0         0         5         5                  0         0       0         0       0              0    0     0     5   5
+P
+
+
+
+
+        5:15 PM                  0         0         0         4         4                  0         0       0         0       0              0    0     0     4   4
+        5:30 PM                  2         0         0         14        16                 0         0       0         0       0              2    0     0    14   16
+        5:45 PM                  1         0         0         5         6                  0         0       0         0       0              1    0     0     5   6
+         TOTAL                   6         1         0         54        61                 0         0       0         0       0              6    1     0    54   61
+                                           PACIFIC TRAFFIC DATA SERVICES
+                                              TURNING MOVEMENT COUNTS
+
+                                                      FIGUEROA
+                           3,715   186       3,529     0      TOTAL               6,643
+                           2,368    96       2,272     0        PM                3,065
+                           1,347    90       1,257     0        AM                3,578
+
+
+
+
+                                                                                                  0
+                                                                                                       0
+
+                                                                                                            0
+       427
+
+               226
+                     201
+
+
+
+
+                                                                                                  0
+                                                                                                       0
+
+                                                                                                            0
+                                                     LOS ANGELES
+
+
+
+
+                                                                                                  0
+                                                                                                       0
+
+                                                                                                            0
+       TOTAL
+
+
+
+                     AM
+               PM
+
+
+
+
+                                                     CA10-0910-01
+
+
+
+
+                                                                                                  0
+                                                                                                       0
+
+                                                                                                            0
+32ND
+
+
+
+
+                                                                                                                    32ND
+                                                                                                            TOTAL
+       115
+
+
+
+
+                                                      ALL HOURS
+
+
+
+
+                                                                                                  AM
+                                                                                                       PM
+               95
+                     20
+       0
+
+               0
+                     0
+       217
+
+               165
+                     52
+
+
+
+
+                                                                                                  0
+                                                                                                       0
+
+                                                                                                            0
+       332
+
+               260
+                     72
+
+
+
+
+                                   1,309              AM       111      3,558      0      3,669
+                                   2,437              PM       130      2,970      0      3,100
+                                   3,746             TOTAL     241      6,528      0      6,769
+
+                                                      FIGUEROA
+
+                                                      FIGUEROA
+                           2,027    98       1,929     0      TOTAL               3,643
+                           1,256    44       1,212     0        PM                1,642
+                            771     54        717      0        AM                2,001
+                                                                                                  0
+                                                                                                       0
+
+                                                                                                            0
+       233
+
+               111
+                     122
+
+
+
+
+                                                                                                  0
+                                                                                                       0
+
+                                                                                                            0
+
+
+
+
+                                                     PEAK HOUR
+                                                                                                  0
+                                                                                                       0
+
+                                                                                                            0
+       TOTAL
+
+
+
+                     AM
+               PM
+
+
+
+
+                                                      AM      7:30 AM
+                                                                                                  0
+                                                                                                       0
+
+                                                                                                            0
+32ND
+
+
+
+
+                                                                                                                    32ND
+
+
+
+
+                                                                        8:45 AM
+                                                                                                            TOTAL
+                                                                                                  AM
+                                                                                                       PM
+       79
+
+               66
+                     13
+
+
+
+
+                                                                        #REF!
+
+                                                      PM      4:45 PM
+       0
+
+               0
+                     0
+
+
+
+
+                                                                        5:45 PM
+       111
+
+               80
+                     31
+
+
+
+
+                                                                                                  0
+                                                                                                       0
+
+                                                                                                            0
+       190
+
+               146
+                     44
+
+
+
+
+                                    748               AM        68      1,988      0      2,056
+                                   1,292              PM        67      1,576      0      1,643
+                                   2,040              Total    135      3,564      0      3,699
+
+                                                      FIGUEROA
+                                     INTERSECTION TURNING MOVEMENT COUNTS
+                                                PREPARED BY: PACIFIC TRAFFIC DATA SERVICES
+        DATE:         LOCATION:                    LOS ANGELES                                      PROJECT #:         CA10-0910-01
+        9/8/10        NORTH & SOUTH:               FIGUEROA                                         LOCATION #:        1
+      WEDNESDAY       EAST & WEST:                 32ND                                             CONTROL:           SIGNAL
+        CLASS 1:      NOTES:                                                                                   AM                Y
+       PASSENGER                                                                                               PM                N
+        VEHICLES                                                                                               MD       W               E
+                                                                                                              OTHER              S
+                                                                                                              OTHER              
+                             NORTHBOUND                   SOUTHBOUND                   EASTBOUND                    WESTBOUND                               U-TURNS
+                               FIGUEROA                      FIGUEROA                       32ND                         32ND
+                        NL       NT        NR        SL        ST        SR       EL        ET        ER       WL        WT      WR     TOTAL   NB     SB     EB   WB   TTL
+             LANES:     1         4         0        0          2         1       0          1         0       0          0       0
+         7:00 AM        7        274                           83        10        1                    4                                379                            0
+         7:15 AM       11        382                           95          7       1                    4                                500                            0
+         7:30 AM       12        501                          140        10        2                    6                                671                            0
+         7:45 AM       16        507                          179        11        3                    6                                722                            0
+         8:00 AM       19        460                          167        16        5                   10                                677                            0
+         8:15 AM       20        438                          169        12        2                    8                                649                            0
+         8:30 AM       12        447                          163          9       4                   10                                645                            0
+         8:45 AM       12        393                          148          9       1                    3                                566                            0
+AM
+
+
+
+
+     VOLUMES           109      3,402       0        0       1,144        84      19         0         51       0         0      0      4,809   0      0      0    0    0
+     APPROACH %        3%        97%       0%       0%        93%        7%      27%        0%        73%      0%        0%     0%
+     APP/DEPART       3,511        /      3,421    1,228        /       1,195     70         /          0       0         /     193      0
+     BEGIN PEAK HR             7:30 AM
+     VOLUMES           67       1,906       0        0        655        49       12       0           30       0        0        0     2,719
+     APPROACH %        3%        97%       0%       0%        93%        7%      29%      0%          71%      0%       0%       0%
+     PEAK HR FACTOR             0.943                        0.926                       0.700                         0.000            0.941
+     APP/DEPART       1,973        /      1,918     704         /        685      42        /           0       0         /     116       0
+         4:00 PM       13        347                          216        13       11                   26                                626                            0
+         4:15 PM       19        317                          213        15        5                   23                                592                            0
+         4:30 PM       21        335                          264        10        7                   20                                657                            0
+         4:45 PM       23        341                          304        12       12                   25                                717                            0
+         5:00 PM       14        393                          283        11       20                   18                                739                            0
+         5:15 PM       19        406                          270          9      21                   16                                741                            0
+         5:30 PM       11        374                          273        12       13                   19                                702                            0
+         5:45 PM       10        344                          290        14        6                   14                                678                            0
+PM
+
+
+
+
+     VOLUMES           130      2,857       0        0       2,113        96      95         0        161       0         0      0      5,452   0      0      0    0    0
+     APPROACH %        4%        96%       0%       0%        96%        4%      37%        0%        63%      0%        0%     0%
+     APP/DEPART       2,987        /      2,952    2,209        /       2,274    256         /          0       0         /     226      0
+     BEGIN PEAK HR             4:45 PM
+     VOLUMES           67       1,514       0        0       1,130       44       66       0           78       0        0        0     2,899
+     APPROACH %        4%        96%       0%       0%        96%        4%      46%      0%          54%      0%       0%       0%
+     PEAK HR FACTOR             0.930                        0.929                       0.947                         0.000            0.978
+     APP/DEPART       1,581        /      1,580    1,174        /       1,208    144        /          0        0         /     111       0
+
+                                                           FIGUEROA
+
+                                                           NORTH SIDE
+
+
+                       32ND           WEST SIDE                                 EAST SIDE           32ND
+
+
+                                                           SOUTH SIDE
+
+                                                           FIGUEROA
+
+                                        PEDESTRIAN CROSSINGS                                       PEDESTRIAN ACTIVATIONS                           BICYCLE CROSSINGS
+                               N SIDE     S SIDE   E SIDE    W SIDE     TOTAL            N SIDE      S SIDE   E SIDE   W SIDE   TOTAL           NS     SS     ES   WS TOTAL
+        7:00 AM                                                          0                                                       0                                      0
+        7:15 AM                                                          0                                                       0                                      0
+        7:30 AM                                                          0                                                       0                                      0
+        7:45 AM                                                          0                                                       0                                      0
+AM
+
+
+
+
+        8:00 AM                                                          0                                                       0                                      0
+A
+
+
+
+
+        8:15 AM                                                          0                                                       0                                      0
+        8:30 AM                                                          0                                                       0                                      0
+        8:45 AM                                                          0                                                       0                                      0
+         TOTAL                   0          0        0         0         0                  0          0        0        0       0              0      0      0    0    0
+        4:00 PM                                                          0                                                       0                                      0
+        4:15 PM                                                          0                                                       0                                      0
+        4:30 PM                                                          0                                                       0                                      0
+        4:45 PM                                                          0                                                       0                                      0
+PM
+
+
+
+
+        5:00 PM                                                          0                                                       0                                      0
+        5:15 PM                                                          0                                                       0                                      0
+        5:30 PM                                                          0                                                       0                                      0
+        5:45 PM                                                          0                                                       0                                      0
+         TOTAL                   0          0        0         0         0                  0          0        0        0       0              0      0      0    0    0
+

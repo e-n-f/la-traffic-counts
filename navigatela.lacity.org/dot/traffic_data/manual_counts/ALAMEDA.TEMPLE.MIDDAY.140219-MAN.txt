@@ -1,0 +1,61 @@
+                    City Of Los Angeles
+                    Department Of Transportation
+                    MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South         ALAMEDA ST.
+
+East/West           TEMPLE ST.
+
+Day:          WEDNESDAY               Date:       February 19, 2014        Weather:          SUNNY
+
+Hours:        10AM-3PM
+
+School Day:         YES               District:         CENTRAL              I/S CODE 8955
+
+
+                     N/B                          S/B                        E/B                     W/B
+DUAL-
+WHEELED              192                          247                         40                      24
+BIKES                 15                            7                          1                       0
+BUSES                  2                           39                         69                      84
+
+
+                     N/B TIME                     S/B TIME                   E/B TIME                W/B TIME
+
+AM PK 15 MIN         279     10.30                337 11.30                  107 12.15                47    11.30
+
+PM PK 15 MIN         316      2.15                360    1.15                116      2.45            44     2.45
+
+AM PK HOUR           960     10.15            1258 11.15                     401 12.00               152    11.15
+
+PM PK HOUR          1112      2.00            1268       1.00                414      2.00           149     2.00
+
+
+
+NORTHBOUND Approach                                     SOUTHBOUND Approach                                TOTAL    XING S/L       XING N/L
+
+Hours          Lt Th         Rt       Total             Hours     Lt        Th        Rt Total              N-S        Ped Sch       Ped   Sch
+10-11           68 857            0     925             10-11      14        875      160 1049              1974        39   0        23     0
+11-12           37 867            0     904             11-12      37        952      195 1184              2088        21   0        26     0
+12-1            48 781            0     829             12-1       37        985      190 1212              2041        29   0        40     0
+1-2             62 743            0     805             1-2        49        989      230 1268              2073        41   0        46     0
+2-3             64 1048           0    1112             2-3        24        919      159 1102              2214        34   0        24     0
+
+
+TOTAL         279 4296            0 4575                TOTAL     161 4720            934     5815         10390       164     0     159      0
+
+
+EASTBOUND Approach                                      WESTBOUND Approach                                 TOTAL    XING W/L       XING E/L
+
+Hours         Lt     Th      Rt Total                   Hours     Lt        Th        Rt Total             E-W         Ped Sch       Ped   Sch
+10-11          57    112      105 274                   10-11      16         86       12   114              388        28   0        22     0
+11-12          88    105      110 303                   11-12      18        101       29   148              451        57   0        31     0
+12-1          105    140      156 401                   12-1       16         90       23   129              530        77   1        25     0
+1-2            85    145      139 369                   1-2        12         81       17   110              479        49   0        26     0
+2-3           167    149       98 414                   2-3        10        109       30   149              563        18   0        29     0
+
+
+TOTAL         502    651      608 1761                  TOTAL         72     467      111      650          2411       229     1     133      0
+
+              (Rev Oct 06)
+

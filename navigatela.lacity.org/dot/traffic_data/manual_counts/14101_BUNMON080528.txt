@@ -1,0 +1,176 @@
+INTERSECTION TURNING MOVEMENT COUNT SUMMARY
+
+CLIENT:                HIRSCH/GREEN TRANSPORTATION CONSULTING, INC.
+PROJECT:               BRENTWOOD TOWN GREEN
+DATE:                  WEDNESDAY, MAY 28, 2008
+PERIOD:                07:00 AM TO 10:00 AM
+INTERSECTION    N/S    BUNDY DRIVE
+                E/W    MONTANA AVENUE
+FILE NUMBER:           7-AM
+
+
+  15 MINUTE      1        2        3          4     5          6          7          8      9      10     11     12
+   TOTALS       SBRT    SBTH     SBLT    WBRT      WBTH       WBLT       NBRT       NBTH   NBLT   EBRT   EBTH   EBLT
+  0700-0715      5        23       4          12    51         9          5          32     2      1      24     1
+  0715-0730      6        20       7          13    67         11         6          44     1      4      38     0
+  0730-0745      3        41      11          15    59         16         6          65     10     4      45     2
+  0745-0800      3        35      18          19    96         10         4          68     11     3      42     0
+  0800-0815      7        57      19          15    94         12         8          74     9      13     51     3
+  0815-0830      8        48      16          13    96         28         7          86     8      7      77     2
+  0830-0845      8        49      17          15   105         18         7          99     7      6      81     2
+  0845-0900      7        56      22          20   100         23         4          97     16     14    102     3
+  0900-0915      23       56      28          21   121         26         7         111     19     19    114     6
+  0915-0930      12       67      33          15    86         18         11         94     11     17     96     2
+  0930-0945      14       47      21          19   108         30         13         85     6      12    107     2
+  0945-1000      14       72      33          13    84         15         13         82     8      15     99     2
+
+
+   1 HOUR        1        2        3          4     5          6          7          8      9      10     11     12
+   TOTALS       SBRT    SBTH     SBLT    WBRT      WBTH       WBLT       NBRT       NBTH   NBLT   EBRT   EBTH   EBLT   TOTALS
+  0700-0800      17      119      40          59   273         46         21        209     24     12    149     3      972
+  0715-0815      19      153      55          62   316         49         24        251     31     24    176     5      1165
+  0730-0830      21      181      64          62   345         66         25        293     38     27    215     7      1344
+  0745-0845      26      189      70          62   391         68         26        327     35     29    251     7      1481
+  0800-0900      30      210      74          63   395         81         26        356     40     40    311     10     1636
+  0815-0915      46      209      83          69   422         95         25        393     50     46    374     13     1825
+  0830-0930      50      228      100         71   412         85         29        401     53     56    393     13     1891
+  0845-0945      56      226      104         75   415         97         35        387     52     62    419     13     1941
+  0900-1000      63      242      115         68   399         89         44        372     44     63    416     12     1927
+
+
+
+
+   A.M. PEAK HOUR                                        56        226        104
+      0845-0945
+
+
+                                  13                                                               75
+
+                                  419                                                             415
+           MONTANA AVENUE
+                                  62                                                               97
+
+
+
+
+                                                         52        387         35
+
+
+                                                              BUNDY DRIVE
+INTERSECTION TURNING MOVEMENT COUNT SUMMARY
+
+CLIENT:                HIRSCH/GREEN TRANSPORTATION CONSULTING, INC.
+PROJECT:               BRENTWOOD TOWN GREEN
+DATE:                  THURSDAY, MAY 29, 2008
+PERIOD:                03:00 PM TO 06:00 PM
+INTERSECTION    N/S    BUNDY DRIVE
+                E/W    MONTANA AVENUE
+FILE NUMBER:           7-PM
+
+
+  15 MINUTE      1        2        3          4      5          6          7          8      9      10     11     12
+   TOTALS       SBRT    SBTH     SBLT    WBRT       WBTH       WBLT       NBRT       NBTH   NBLT   EBRT   EBTH   EBLT
+  1500-1515      9        56      20          15    105         15         6         102     18     11    159     12
+  1515-1530      11       63      19          13    102         22         9         104     17     15    166     13
+  1530-1545      15       51      18          19    121         17         6         140     20     8     155     10
+  1545-1600      9        46      31          27    111         21         8         105     16     12    120     9
+  1600-1615      8        41      24          31    118         17         11        114     15     9     159     6
+  1615-1630      6        55      21          42    106         15         6         117     15     7     106     4
+  1630-1645      5        53      25          23     97         27         11        116     16     15     94     2
+  1645-1700      3        65      15          25    139         17         12        121     17     10    104     0
+  1700-1715      2        53      21          33    124         28         12        136     22     9     106     20
+  1715-1730      4        70      13          33    111         34         14        140     23     10     99     3
+  1730-1745      4        53      13          35    130         20         13        137     13     10     87     4
+  1745-1800      7        59      27          54    141         24         11        116     15     5      79     3
+
+
+   1 HOUR        1        2        3          4      5          6          7          8      9      10     11     12
+   TOTALS       SBRT    SBTH     SBLT    WBRT       WBTH       WBLT       NBRT       NBTH   NBLT   EBRT   EBTH   EBLT   TOTALS
+  1500-1600      44      216      88          74    439         75         29        451     71     46    600     44     2177
+  1515-1615      43      201      92          90    452         77         34        463     68     44    600     38     2202
+  1530-1630      38      193      94          119   456         70         31        476     66     36    540     29     2148
+  1545-1645      28      195      101         123   432         80         36        452     62     43    479     21     2052
+  1600-1700      22      214      85          121   460         76         40        468     63     41    463     12     2065
+  1615-1715      16      226      82          123   466         87         41        490     70     41    410     26     2078
+  1630-1730      14      241      74          114   471        106         49        513     78     44    403     25     2132
+  1645-1745      13      241      62          126   504         99         51        534     75     39    396     27     2167
+  1700-1800      17      235      74          155   506        106         50        529     73     34    371     30     2180
+
+
+
+
+   P.M. PEAK HOUR                                         43        201         92
+      1515-1615
+
+
+                                  38                                                                90
+
+                                  600                                                              452
+           MONTANA AVENUE
+                                  44                                                                77
+
+
+
+
+                                                          68        463         34
+
+
+                                                               BUNDY DRIVE
+                                                    TRAFFIC COUNT SUMMARY
+                                                                                                                          City of Los Angeles
+STREET:                                                                                                              Department of Transportation
+North/South                BUNDY DRIVE                                                                            Count by:
+
+East/West                  MONTANA AVENUE
+
+Day:     AM    WEDNESDAY                  Date: May 28, 2008                  Weather:          CLEAR
+         PM    THURSDAY                         May 29, 2008
+Hours:         7-10 AM 3-6 PM
+
+School Day:                YES            District:         WEST LOS ANGELES
+
+
+                             N/B                      S/B                        E/B                        W/B
+DUAL-
+WHEELED                      N/A                      N/A                        N/A                        N/A
+BIKES                        N/A                      N/A                        N/A                        N/A
+BUSES                        N/A                      N/A                        N/A                        N/A
+
+
+                             N/B TIME                 S/B TIME                   E/B TIME                   W/B    TIME
+
+AM PK 15 MIN                 137   9:00               119 9:45                   139     9:00               168     9:00
+
+PM PK 15 MIN                 177   5:15                93 3:15                   194     3:15               219     5:45
+
+AM PK HOUR                   483   8:30               420 9:00                   494     8:45               587     8:45
+
+PM PK HOUR                   660   4:45               348 3:00                   690     3:00               767     5:00
+
+
+
+NORTHBOUND Approach                                         SOUTHBOUND Approach                                   TOTAL       XING S/L      XING N/L
+
+Hours            Lt         Th     Rt     Total             Hours       Lt     Th        Rt        Total           N-S        Ped   Sch     Ped     Sch
+7-8                   24     209    21       254            7-8          40     119       17          176           430       N/A   N/A     N/A     N/A
+8-9                   40     356    26       422            8-9          74     210       30          314           736       N/A   N/A     N/A     N/A
+9 - 10                44     372    44       460            9 - 10      115     242       63          420           880       N/A   N/A     N/A     N/A
+3-4                   71     451    29       551            3-4          88     216       44          348           899       N/A   N/A     N/A     N/A
+4-5                   63     468    40       571            4-5          85     214       22          321           892       N/A   N/A     N/A     N/A
+5-6                   73     529    50       652            5-6          74     235       17          326           978       N/A   N/A     N/A     N/A
+
+TOTAL             315 2,385        210      2,910           TOTAL       476 1,236        193        1,905          4,815      N/A N/A       N/A N/A
+
+
+EASTBOUND Approach                                          WESTBOUND Approach                                    TOTAL       XING W/L       XING E/L
+
+Hours            Lt         Th     Rt     Total             Hours       Lt     Th        Rt        Total           E-W        Ped   Sch     Ped     Sch
+7-8                    3     149    12       164            7-8          46     273       59          378            542      N/A   N/A     N/A     N/A
+8-9                   10     311    40       361            8-9          81     395       63          539            900      N/A   N/A     N/A     N/A
+9 - 10                12     416    63       491            9 - 10       89     399       68          556          1,047      N/A   N/A     N/A     N/A
+3-4                   44     600    46       690            3-4          75     439       74          588          1,278      N/A   N/A     N/A     N/A
+4-5                   12     463    41       516            4-5          76     460      121          657          1,173      N/A   N/A     N/A     N/A
+5-6                   30     371    34       435            5-6         106     506      155          767          1,202      N/A   N/A     N/A     N/A
+
+TOTAL             111 2,310        236      2,657           TOTAL       473 2,472        540        3,485          6,142      N/A N/A       N/A N/A
+

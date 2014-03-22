@@ -1,0 +1,61 @@
+                       City Of Los Angeles
+                       Department Of Transportation
+                       MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South            4TH AV
+
+East/West              ADAMS BL
+
+Day:        WEDNESDAY                   Date:        March 24, 2010         Weather:          SUNNY
+
+Hours:      6:30-9:30AM 2:30-5:30PM
+
+School Day:            YES              District:         HOLLYWOOD           I/S CODE 7848
+
+
+                        N/B                         S/B                       E/B                      W/B
+DUAL-
+WHEELED                      8                       7                         94                       109
+BIKES                        0                       0                          0                         8
+BUSES                        0                       0                         56                        57
+
+
+                        N/B TIME                    S/B TIME                  E/B TIME                 W/B TIME
+
+AM PK 15 MIN                 4   7.45               11     8.30               263      8.15             444    8.30
+
+PM PK 15 MIN             13      3.15               16     4.00               259      5.00             334    5.15
+
+AM PK HOUR                   6   7.45               28     7.45               894      8.00            1661    8.00
+
+PM PK HOUR               26      3.00               40     3.30               973      4.30            1205    4.30
+
+
+
+NORTHBOUND Approach                                       SOUTHBOUND Approach                                 TOTAL   XING S/L   XING N/L
+
+Hours         Lt        Th       Rt     Total             Hours       Lt     Th        Rt     Total            N-S     Ped Sch    Ped   Sch
+6:30-7:30       0            0     0          0           6:30-7:30     4         0      5         9              9      0   0      8     0
+7:30-8:30       4            0     1          5           7:30-8:30     5         0     21        26             31      0   0     30     4
+8:30-9:30       1            0     4          5           8:30-9:30    13         0      9        22             27      0   0     12     0
+2:30-3:30       5            0    19         24           2:30-3:30     5         0      6        11             35      0   0     23     9
+3:30-4:30       1            0     7          8           3:30-4:30    13         0     27        40             48      0   0     45    10
+4:30-5:30      10            1    11         22           4:30-5:30     5         0      9        14             36      0   0     22     5
+
+TOTAL          21            1    42         64           TOTAL        45         0     77       122            186     0    0    140   28
+
+
+EASTBOUND Approach                                        WESTBOUND Approach                                  TOTAL   XING W/L   XING E/L
+
+Hours         Lt        Th       Rt Total                 Hours       Lt     Th        Rt     Total           E-W      Ped Sch    Ped   Sch
+6:30-7:30          5     172      12   189                6:30-7:30        1 461         3       465            654      1   0      2     2
+7:30-8:30          8     751      44   803                7:30-8:30        1 1504        4      1509           2312      1   0     28    18
+8:30-9:30          6     745      10   761                8:30-9:30        0 1579       10      1589           2350      0   0      7     1
+2:30-3:30          4     639      10   653                2:30-3:30        0 834         7       841           1494      0   0     16     4
+3:30-4:30          6     751      15   772                3:30-4:30        0 997        11      1008           1780      1   0     12     2
+4:30-5:30          9     923      41   973                4:30-5:30        0 1194       11      1205           2178      0   0     75    20
+
+TOTAL          38 3981           132      4151            TOTAL            2 6569       46      6617          10768     3    0    140   47
+
+            (Rev Oct 06)
+

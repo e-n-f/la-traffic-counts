@@ -1,0 +1,322 @@
+                                                           TRAFFIC COUNT SUMMARY
+                                                                                                                                                           City of Los Angeles
+STREET                                                                                                                                      Department of Transportation
+North/South    10 Fwy. Eastbound Off-Ramp                                                                                                                         (Rev Apr 92)
+East/West      National Boulevard
+Day:           Thursday                       Date: June 5 2008                                Weather:               Clear & Sunny
+Hours:         7 - 9am & 4 - 6pm
+School Day: Yes                               DistrictLOS ANGELES
+
+
+               N/B                            S/B                         E/B                             W/B
+DUAL-
+WHEELED              0                                0                         0                                 0
+BIKES                0                                0                         0                                 0
+BUSES                0                                0                         0                                 0
+
+
+
+               S/B        TIME                W/B         TIME            N/B       TIME                  E/B         TIME
+
+
+AM PK 15 MIN        294    8:45                  224       7:45                                                 85      8:45
+
+
+PM PK 15 MIN        347    5:30                  117       5:15                                              177        5:45
+
+
+AM PK HOUR      1048       8:00                  843       7:45                                              276        8:00
+
+
+PM PK HOUR      1310       5:00                  436       5:00                                              651        5:00
+
+
+
+NORTHBOUND Approach                                               SOUTHBOUND Approach                                          TOTAL   XIN S/L                   XIN N/L
+
+
+Hours          Lt         Th         Rt       Total               Hours Lt          Th         Rt         Total                N-S     Pd        Sch             Pd       Sch
+7-8                  0           0        0           0           7-8        230           0        459      689                689          0         0              0         0
+8-9                  0           0        0           0           8-9        413           0        635    1048                1048          0         0              0         0
+4-5                  0           0        0           0           4-5        475           0        490      965                965          0         0              0         0
+5-6                  0           0        0           0           5-6        748           0        562    1310                1310          0         0              0         0
+
+
+TOTAL                0           0        0           0           TOTAL    1866            0    2146       4012                4012          0         0              0         0
+
+
+
+EASTBOUND Approach                                                WESTBOUND Approach                                           TOTAL   XIN W/L                   XIN E/L
+
+
+Hours          Lt         Th         Rt       Total               Hours Lt          Th         Rt         Total                E-W     Pd        Sch             Pd       Sch
+7-8                  0         114        0      114              7-8           0        735         0       735                849          0         0              0         0
+8-9                  0         276        0      276              8-9           0        822         0       822               1098          0         0              0         0
+4-5                  0         507        0      507              4-5           0        409         0       409                916          0         0              0         0
+5-6                  0         651        0      651              5-6           0        436         0       436               1087          0         0              0         0
+
+TOTAL                0     1548           0    1548               TOTAL         0    2402            0     2402                3950          0         0              0         0
+                                               City Traffic Counters
+                                                   626.256.4171
+                                                                                                 File Name       : 10EBnat
+                                                                                                 Site Code       : 00000000
+                                                                                                 Start Date      : 6/5/2008
+                                                                                                 Page No         :1
+                                               Groups Printed- 1 - Unshifted
+                  10 EB Off-Ramp            National Blvd              10 EB Off-Ramp            National Blvd
+                    Southbound                Westbound                   Northbound               Eastbound
+ Start Time     Left    Thru     Right   Left     Thru    Right      Left      Thru   Right   Left     Thru    Right   Int. Total
+     Factor      1.0      1.0      1.0   1.0        1.0     1.0       1.0       1.0     1.0   1.0        1.0     1.0
+ 07:00 AM        41         0      98      0       141        0         0         0       0     0        18        0        298
+ 07:15 AM        52         0     111      0       186        0         0         0       0     0        25        0        374
+ 07:30 AM        56         0     119      0       184        0         0         0       0     0        38        0        397
+ 07:45 AM        81         0     131      0       224        0         0         0       0     0        33        0        469
+       Total    230         0     459      0       735        0         0         0       0     0       114        0       1538
+
+ 08:00 AM        73        0      139      0      209        0         0        0        0      0       59        0         480
+ 08:15 AM        97        0      172      0      200        0         0        0        0      0       63        0         532
+ 08:30 AM       104        0      169      0      210        0         0        0        0      0       69        0         552
+ 08:45 AM       139        0      155      0      203        0         0        0        0      0       85        0         582
+     Total      413        0      635      0      822        0         0        0        0      0      276        0        2146
+
+
+
+ 04:00 PM        94        0      108      0      101        0         0        0        0      0      123        0         426
+ 04:15 PM       105        0      120      0      104        0         0        0        0      0      129        0         458
+ 04:30 PM       132        0      120      0      103        0         0        0        0      0      120        0         475
+ 04:45 PM       144        0      142      0      101        0         0        0        0      0      135        0         522
+     Total      475        0      490      0      409        0         0        0        0      0      507        0        1881
+
+ 05:00 PM       145        0      133      0      101        0         0        0        0      0      155        0         534
+ 05:15 PM       212        0      132      0      117        0         0        0        0      0      152        0         613
+ 05:30 PM       198        0      149      0      106        0         0        0        0      0      167        0         620
+ 05:45 PM       193        0      148      0      112        0         0        0        0      0      177        0         630
+     Total      748        0      562      0      436        0         0        0        0      0      651        0        2397
+
+Grand Total    1866        0     2146      0    2402          0        0        0        0      0    1548          0       7962
+ Apprch %       46.5     0.0      53.5   0.0    100.0       0.0      0.0      0.0      0.0    0.0    100.0       0.0
+   Total %      23.4     0.0      27.0   0.0     30.2       0.0      0.0      0.0      0.0    0.0     19.4       0.0
+                                                                                      City Traffic Counters
+                                                                                          626.256.4171
+                                                                                                                                                           File Name                        : 10EBnat
+                                                                                                                                                           Site Code                        : 00000000
+                                                                                                                                                           Start Date                       : 6/5/2008
+                                                                                                                                                           Page No                          :2
+
+                       10 EB Off-Ramp                                          National Blvd                            10 EB Off-Ramp                         National Blvd
+                         Southbound                                             Westbound                                 Northbound                            Eastbound
+                                     App.                                                            App.                                App.                                               App.     Int.
+   Start Time   Left     Thru Right         Left                               Thru Right                        Left    Thru Right              Left          Thru Right
+                                    Total                                                            Total                               Total                                              Total   Total
+Peak Hour From 07:00 AM to 12:30 PM - Peak 1 of 1
+  Intersection 08:00 AM
+      Volume    413     0    635    1048       0                               822        0              822       0        0     0         0       0          276                      0    276    2146
+                                                                               100.                                                                            100.
+     Percent    39.4           0.0                60.6                   0.0            0.0                      0.0      0.0   0.0              0.0                              0.0
+                                                                                 0                                                                               0
+      08:45
+               139     0                          155             294     0    203        0              203       0        0     0         0       0            85                     0     85     582
+    Volume
+ Peak Factor                                                                                                                                                                                        0.922
+    High Int. 08:45 AM                                                 08:30 AM                            6:45:00 AM                         08:45 AM
+    Volume     139     0                          155              294     0   210        0            210     0     0            0         0     0    85                               0      85
+ Peak Factor                                                     0.891                               0.979                                                                                  0.812
+
+                                                                                               10 EB Off-Ramp
+                                                                                         Out         In       Total
+                                                                                               0     1048      1048
+
+
+                                                                                             635     0            413
+                                                                                           Right Thru            Left
+                                          1733
+                                          Total
+
+
+
+
+                                                                                                                                                                  Out
+                                                                                                                                                                   689
+                                                        0
+
+
+
+
+                                                                                                                                                  Right Thru
+                                                    Left
+
+
+
+
+                                                                                                         North
+
+                                                                                                                                                                  National Blvd
+                            National Blvd
+
+
+
+
+                                                                                                                                                      0
+                                   276
+
+
+                                                           276
+                                                    Right Thru
+                                  In
+
+
+
+
+                                                                                                                                                                       In
+
+                                                                                         6/5/2008 8:00:00 AM
+                                                                                                                                                         822
+
+
+                                                                                                                                                                        822
+
+
+
+                                                                                         6/5/2008 8:45:00 AM
+                                                        0
+
+
+
+
+                                                                                                                                                  Left
+                        1457
+
+
+
+
+                                                                                          1 - Unshifted
+                        Out
+
+
+
+
+                                                                                                                                                                                Total
+                                                                                                                                                                                1511
+                                                                                                                                                      0
+
+
+
+
+                                                                                              Left       Thru Right
+                                                                                                     0       0    0
+
+
+                                                                                               0         0         0
+                                                                                         Out         In       Total
+                                                                                               10 EB Off-Ramp
+                                                                                       City Traffic Counters
+                                                                                           626.256.4171
+                                                                                                                                                             File Name                        : 10EBnat
+                                                                                                                                                             Site Code                        : 00000000
+                                                                                                                                                             Start Date                       : 6/5/2008
+                                                                                                                                                             Page No                          :3
+                       10 EB Off-Ramp                                           National Blvd                            10 EB Off-Ramp                          National Blvd
+                         Southbound                                              Westbound                                 Northbound                             Eastbound
+                                     App.                                                             App.                                App.                                                App.     Int.
+   Start Time   Left     Thru Right         Left                                Thru Right                        Left    Thru Right               Left          Thru Right
+                                    Total                                                             Total                               Total                                               Total   Total
+Peak Hour From 12:45 PM to 05:45 PM - Peak 1 of 1
+  Intersection 05:00 PM
+      Volume    748     0    562    1310       0                                436        0              436       0        0     0         0        0          651                      0    651    2397
+                                                                                100.                                                                             100.
+     Percent    57.1           0.0                42.9                    0.0            0.0                      0.0      0.0   0.0               0.0                              0.0
+                                                                                  0                                                                                0
+      05:45
+               193     0                          148             341       0   112        0              112       0        0     0         0        0          177                      0    177     630
+    Volume
+ Peak Factor                                                                                                                                                                                          0.951
+    High Int. 05:30 PM                                                   05:15 PM                                                                 05:45 PM
+    Volume     198     0                          149              347       0   117       0            117         0        0     0         0        0   177                             0     177
+ Peak Factor                                                     0.944                                0.932                                                                                   0.919
+
+                                                                                                10 EB Off-Ramp
+                                                                                          Out         In       Total
+                                                                                                0     1310      1310
+
+
+                                                                                              562     0            748
+                                                                                            Right Thru            Left
+                                          1649
+                                          Total
+
+
+
+
+                                                                                                                                                                    1399
+                                                                                                                                                                    Out
+                                                        0
+
+
+
+
+                                                                                                                                                    Right Thru
+                                                    Left
+
+
+
+
+                                                                                                          North
+
+
+
+                                                                                                                                                                    National Blvd
+                            National Blvd
+
+
+
+
+                                                                                                                                                        0
+                                   651
+
+
+                                                           651
+                                                    Right Thru
+                                  In
+
+
+
+
+                                                                                          6/5/2008 5:00:00 PM                                                            In
+                                                                                                                                                           436
+
+
+                                                                                                                                                                          436
+
+                                                                                          6/5/2008 5:45:00 PM
+                                                        0
+
+
+
+
+                                                                                                                                                    Left
+                         998
+
+
+
+
+                                                                                           1 - Unshifted
+                        Out
+
+
+
+
+                                                                                                                                                                                  Total
+                                                                                                                                                                                  1835
+                                                                                                                                                        0
+
+
+
+
+                                                                                               Left       Thru Right
+                                                                                                      0       0    0
+
+
+                                                                                                0         0         0
+                                                                                          Out         In       Total
+                                                                                                10 EB Off-Ramp
+

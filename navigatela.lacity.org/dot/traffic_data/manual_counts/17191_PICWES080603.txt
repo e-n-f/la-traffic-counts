@@ -1,0 +1,288 @@
+                                                 TRAFFIC COUNT SUMMARY
+                                                                                                                               City of Los Angeles
+STREET:                                                                                                                  Department of Transportation
+North/South           WESTWOOD BOULEVARD
+
+East/West             PICO BOULEVARD
+
+Day:     AM    Tuesday               Date:       June 3, 2008                  Weather:          CLEAR
+         PM    Tuesday                           June 3, 2008
+Hours:         7-9 AM 4-6 PM
+
+School Day:           YES            District:            LOS ANGELES
+
+
+                        N/B                         S/B                           E/B                          W/B
+DUAL-
+WHEELED                 N/A                        N/A                           N/A                           N/A
+BIKES                   N/A                        N/A                           N/A                           N/A
+BUSES                   N/A                        N/A                           N/A                           N/A
+
+
+                        N/B TIME                    S/B TIME                      E/B TIME                     W/B     TIME
+
+AM PK 15 MIN            298 8:15                   203     8:30                  464      8:45                 395      7:45
+
+PM PK 15 MIN            208 5:15                   372     4:45                  354      4:15                 467      5:45
+
+AM PK HOUR             1,082 7:30                  746     8:00                 1,636     8:00                1,478     7:45
+
+PM PK HOUR              784 5:00                  1,393    4:45                 1,369     5:00                1,794     5:00
+
+
+
+NORTHBOUND Approach                                       SOUTHBOUND Approach                                         TOTAL       XING S/L      XING N/L
+
+Hours           Lt     Th      Rt    Total                Hours         Lt       Th       Rt        Total              N-S       Ped   Sch      Ped     Sch
+7-8             113      639    32       784              7-8            120      333      58           511            1,295     N/A   N/A      N/A     N/A
+8-9             155      839    88     1,082              8-9            178      478      90           746            1,828     N/A   N/A      N/A     N/A
+4-5             120      512   104       736              4-5            204      978     152         1,334            2,070     N/A   N/A      N/A     N/A
+5-6             144      531    88       763              5-6            217    1,025     151         1,393            2,156     N/A   N/A      N/A     N/A
+TOTAL           532    2,521   312     3,365              TOTAL          719    2,814     451         3,984            7,349     N/A   N/A      N/A     N/A
+
+
+EASTBOUND Approach                                        WESTBOUND Approach                                          TOTAL       XING W/L      XING E/L
+
+Hours           Lt     Th      Rt    Total                Hours         Lt       Th       Rt        Total              E-W       Ped   Sch      Ped     Sch
+7-8             110      790    53       953              7-8             18    1,013     179         1,210            2,163     N/A   N/A      N/A     N/A
+8-9             156    1,408    72     1,636              8-9             34    1,205     190         1,429            3,065     N/A   N/A      N/A     N/A
+4-5             105      955   234     1,294              4-5            184    1,212     231         1,627            2,921     N/A   N/A      N/A     N/A
+5-6              87    1,060   185     1,332              5-6            153    1,400     241         1,794            3,126     N/A   N/A      N/A     N/A
+TOTAL           458    4,213   544     5,215              TOTAL          389    4,830     841         6,060           11,275     N/A   N/A      N/A     N/A
+                                              City Traffic Counters
+                                                  626.256.4171
+                                                                                              File Name       : WestPico
+                                                                                              Site Code       : 00000000
+                                                                                              Start Date      : 6/3/2008
+                                                                                              Page No         :1
+                                             Groups Printed- 1 - Unshifted
+                 Westwood Blvd              Pico Blvd                Westwood Blvd              Pico Blvd
+                   Southbound               Westbound                   Northbound              Eastbound
+ Start Time    Left    Thru    Right   Left     Thru    Right      Left      Thru  Right   Left     Thru    Right   Int. Total
+     Factor     1.0      1.0     1.0   1.0        1.0     1.0       1.0        1.0   1.0    1.0       1.0     1.0
+ 07:00 AM       18       53      12      2       154      32        13        101      3    21       132      16         557
+ 07:15 AM       24       65      18      9       233      53        23        151    11     22       155        7        771
+ 07:30 AM       39       91      16      3       279      50        30        183      9    29       229      18         976
+ 07:45 AM       39      124      12      4       347      44        47        204      9    38       274      12        1154
+       Total   120      333      58     18     1013      179       113        639    32    110       790      53        3458
+
+ 08:00 AM       34     119       15      9      318       46       34      172       17     30     317        16        1127
+ 08:15 AM       40     120       24     10      275       51       32      210       25     36     350        21        1194
+ 08:30 AM       51     126       26      8      314       52       44      228       26     43     339        20        1277
+ 08:45 AM       53     113       25      7      298       41       45      229       20     47     402        15        1295
+     Total     178     478       90     34     1205      190      155      839       88    156    1408        72        4893
+
+
+
+ 04:00 PM       50     223       35     56      279       52       35      121       23     27      221       40        1162
+ 04:15 PM       51     285       36     53      312       63       27      122       28     23      255       57        1312
+ 04:30 PM       43     228       43     43      296       57       28      132       25     33      235       65        1228
+ 04:45 PM       60     242       38     32      325       59       30      137       28     22      244       72        1289
+     Total     204     978      152    184     1212      231      120      512      104    105      955      234        4991
+
+ 05:00 PM       47     278       31     40      335       92       37      154       17     19     275        60        1385
+ 05:15 PM       59     239       40     31      360       41       32      119       27     28     268        48        1292
+ 05:30 PM       52     256       34     46      359       42       41      143       19     18     257        41        1308
+ 05:45 PM       59     252       46     36      346       66       34      115       25     22     260        36        1297
+     Total     217    1025      151    153     1400      241      144      531       88     87    1060       185        5282
+
+Grand Total    719    2814      451    389     4830     841      532      2521      312    458    4213      544       18624
+ Apprch %      18.0    70.6     11.3    6.4     79.7    13.9     15.8      74.9      9.3    8.8    80.8     10.4
+   Total %      3.9    15.1      2.4    2.1     25.9     4.5      2.9      13.5      1.7    2.5    22.6      2.9
+                                                    City Traffic Counters
+                                                        626.256.4171
+                                                                                                                    File Name           : WestPico
+                                                                                                                    Site Code           : 00000000
+                                                                                                                    Start Date          : 6/3/2008
+                                                                                                                    Page No             :2
+
+                       Westwood Blvd             Pico Blvd                        Westwood Blvd                          Pico Blvd
+                        Southbound               Westbound                         Northbound                            Eastbound
+                                     App.                        App.                             App.                                  App.     Int.
+   Start Time   Left   Thru Right           Left Thru Right                Left   Thru Right              Left          Thru Right
+                                    Total                        Total                            Total                                 Total   Total
+Peak Hour From 07:00 AM to 12:30 PM - Peak 1 of 1
+  Intersection 08:00 AM
+      Volume     178    478   90      746     34 1205  190       1429      155     839    88      1082    156 1408                72    1636    4893
+      Percent 23.9 64.1 12.1                 2.4 84.3 13.3                 14.3    77.5   8.1              9.5 86.1               4.4
+        08:45
+                  53    113   25      191      7   298  41        346       45     229    20       294     47           402       15     464    1295
+      Volume
+ Peak Factor                                                                                                                                    0.945
+      High Int. 08:30 AM                   08:30 AM                   08:30 AM                          08:45 AM
+      Volume      51    126   26      203      8   314  52        374   44    228         26        298   47    402               15      464
+ Peak Factor                       0.919                        0.955                             0.908                                 0.881
+
+                                                             Westwood Blvd
+                                                         Out      In       Total
+                                                         1185      746      1931
+
+
+                                                             90   478       178
+                                                          Right Thru       Left
+                          3086
+                          Total
+
+
+
+
+                                                                                                                          1674
+                                                                                                                          Out
+                                    156
+
+
+
+
+                                                                                                           Right Thru
+                                   Left
+
+
+
+
+                                                                                                             190 1205
+                                                                   North
+
+
+                                                                                                                          Pico Blvd
+                       Pico Blvd
+
+                           1636
+
+
+                                      72 1408
+                                   Right Thru
+                            In
+
+
+
+
+                                                                                                                             1429
+                                                                                                                              In
+                                                         6/3/2008 8:00:00 AM
+                                                         6/3/2008 8:45:00 AM
+                                                                                                           Left
+                          1450
+
+
+
+
+                                                         1 - Unshifted
+                          Out
+
+
+
+
+                                                                                                                          Total
+                                                                                                             34
+
+
+                                                                                                                          3103
+
+
+
+
+                                                              Left Thru Right
+                                                               155   839   88
+
+
+                                                          584     1082      1666
+                                                         Out      In       Total
+                                                             Westwood Blvd
+                                                    City Traffic Counters
+                                                        626.256.4171
+                                                                                                                    File Name            : WestPico
+                                                                                                                    Site Code            : 00000000
+                                                                                                                    Start Date           : 6/3/2008
+                                                                                                                    Page No              :3
+                       Westwood Blvd             Pico Blvd                        Westwood Blvd                          Pico Blvd
+                        Southbound               Westbound                         Northbound                            Eastbound
+                                     App.                        App.                             App.                                   App.     Int.
+   Start Time   Left   Thru Right           Left Thru Right                Left   Thru Right              Left          Thru Right
+                                    Total                        Total                            Total                                  Total   Total
+Peak Hour From 12:45 PM to 05:45 PM - Peak 1 of 1
+  Intersection 05:00 PM
+      Volume     217 1025    151    1393    153 1400   241       1794      144     531     88      763    87 1060                 185    1332    5282
+      Percent 15.6 73.6 10.8                 8.5 78.0 13.4                 18.9    69.6   11.5            6.5 79.6                13.9
+        05:00
+                  47    278   31      356     40   335  92        467       37     154     17      208     19           275        60     354    1385
+      Volume
+ Peak Factor                                                                                                                                     0.953
+      High Int. 05:45 PM                   05:00 PM                   05:00 PM                          05:00 PM
+      Volume      59    252   46      357     40   335  92        467   37    154          17       208   19    275                60      354
+ Peak Factor                       0.975                        0.960                             0.917                                  0.941
+
+                                                             Westwood Blvd
+                                                         Out      In       Total
+                                                          859     1393      2252
+
+
+                                                            151 1025        217
+                                                          Right Thru       Left
+                          3027
+                          Total
+
+
+
+
+                                                                                                                          1365
+                                                                                                                          Out
+                                     87
+
+
+
+
+                                                                                                           Right Thru
+                                   Left
+
+
+
+
+                                                                   North                                     241 1400
+
+
+
+
+                                                                                                                          Pico Blvd
+                       Pico Blvd
+
+                           1332
+
+
+                                     185 1060
+                                   Right Thru
+                            In
+
+
+
+
+                                                                                                                             1794
+                                                                                                                              In
+                                                         6/3/2008 5:00:00 PM
+                                                         6/3/2008 5:45:00 PM
+                                                                                                           Left
+                          1695
+
+
+
+
+                                                         1 - Unshifted
+                                                                                                            153
+                          Out
+
+
+
+
+                                                                                                                          Total
+                                                                                                                          3159
+
+
+
+
+                                                              Left Thru Right
+                                                               144   531   88
+
+
+                                                         1363      763      2126
+                                                         Out      In       Total
+                                                             Westwood Blvd
+

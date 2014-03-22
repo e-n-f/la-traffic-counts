@@ -1,0 +1,60 @@
+                     24 Hours Traffic Volume
+                     City of Los Angeles                                                                        Counter               ARMANDO
+
+                     Department of Transportation                                                               Date                  11/06/12
+                                                                                                                Start Time            12 AM
+
+
+Location             DE SOTO AV S/O SHERMAN WAY                         Day of Week             TUESDAY         Prepared              11/15/12
+Direction            N/S STREET                                         DOT District            WEST VALLEY             By            AMS
+Serial Number        RD97619 D                                          Weather                 CLEAR
+
+
+                               NORTHBOUND or WESTBOUND                                 SOUTHBOUND or EASTBOUND
+                      1ST       2ND     3RD      4TH         HOUR         1ST           2ND      3RD   4TH          HOUR
+       Time           QTR       QTR     QTR      QTR         TOTAL        QTR           QTR      QTR   QTR          TOTAL                TOTAL
+
+      12 AM            40        40      24      31           135           24          21       22    17               84                  219
+      1 AM             11        19      21      14           65            16           9        8     9               42                  107
+      2 AM             25        21      19      14           79            15          19       12    12               58                  137
+      3 AM              9        14       7      10           40            13           6       12    15               46                   86
+      4 AM              8        20      16      28           72            13          25       47    51              136                  208
+      5 AM             30        46      72      92           240           57          69       125   193             444                  684
+      6 AM             70        113     153     197          533          175          236      264   261             936                  1469
+      7 AM             213       229     310     352         1104          302          370      425   370             1467                 2571
+      8 AM             305       277     224     215         1021          338          356      352   344             1390                 2411
+      9 AM             219       222     214     244          899          310          302      298   279             1189                 2088
+      10 AM            244       214     190     202          850          279          243      223   227             972                  1822
+      11 AM            233       246     219     259          957          236          258      215   245             954                  1911
+      12 NN            246       264     244     289         1043          201          262      250   255             968                  2011
+      1 PM             278       257     275     311         1121          284          274      273   265             1096                 2217
+      2 PM             306       279     311     343         1239          291          239      298   303             1131                 2370
+      3 PM             329       325     362     329         1345          257          265      272   294             1088                 2433
+      4 PM             370       398     398     391         1557          297          265      270   276             1108                 2665
+      5 PM             427       464     401     447         1739          294          293      314   308             1209                 2948
+      6 PM             453       405     374     357         1589          303          252      247   214             1016                 2605
+      7 PM             319       263     225     217         1024          199          187      168   152             706                  1730
+      8 PM             183       183     132     144          642          120          128      111   119             478                  1120
+      9 PM             175       163     170     117          625          117          105      96    90              408                  1033
+      10 PM            161       118     98      65           442           63          75       64    60              262                  704
+      11 PM            94        71      68      44           277           47          50       36    43              176                  453
+
+FIRST 12-HOURS PEAK QUARTER COUNT                  352       7 AM         4TH                           425         7 AM                 3RD
+LAST 12-HOURS PEAK QUARTER COUNT                   464       5 PM         2ND                           314         5 PM                 3RD
+24 HOUR VEHICLES TOTAL                                      18,638                                                 17,364               36,002
+TOTAL VEHICLES STANDARD DEVIATION (STD)            [+,-]    516.25                                      [+,-]      466.00               948.52
+
+                                                           PEAK HOURS VOLUME
+                             NORTH or WEST BOUND                    SOUTH or EAST BOUND                          BOTH DIRECTIONS
+                      PEAK             VEHICLE               PEAK                  VEHICLE             PEAK                             VEHICLE
+                      HOUR             VOLUME                HOUR                  VOLUME              HOUR                             VOLUME
+First 12H Peak        7 AM               1,104               7 AM                       1,467          7 AM                                2,571
+Last 12H Peak         5 PM               1,739               5 PM                   1,209              5 PM                                2,948
+First 12H Peak STD                [+,-] 417.33                               [+,-] 539.67                                     [+,-]     950.37
+Last 12H Peak STD                 [+,-] 453.22                               [+,-] 360.78                                     [+,-]     800.51
+
+
+
+
+     DESSHE121106S
+

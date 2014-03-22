@@ -1,0 +1,61 @@
+                       City Of Los Angeles
+                       Department Of Transportation
+                       MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South            BENTLEY AV. (WEST JOG)
+
+East/West              SUNSET BL.
+
+Day:               TUESDAY                Date:         January 28, 2013               Weather:          SUNNY
+
+Hours:      7-10AM 3-6PM                                            Chekrs:            JC & YT
+
+School Day:            YES                District:         WESTERN                      I/S CODE 12791
+
+
+                        N/B                           S/B                                E/B                      W/B
+DUAL-
+WHEELED                      0                         1                                 108                       120
+BIKES                        0                         0                                   0                         0
+BUSES                        0                         0                                  19                        31
+
+
+                        N/B TIME                      S/B TIME                           E/B TIME                 W/B TIME
+
+AM PK 15 MIN                 0   7.00                  7     9.30                        378      8.45             352    7.45
+
+PM PK 15 MIN                 0   3.00                  5     3.30                        268      3.30             466    5.45
+
+AM PK HOUR                   0   7.00                 19     9.00                       1441      8.15            1379    7.45
+
+PM PK HOUR                   0   3.00                 16     4.45                       1012      3.00            1803    5.00
+
+
+
+NORTHBOUND Approach                                         SOUTHBOUND Approach                                          TOTAL   XING S/L   XING N/L
+
+Hours         Lt        Th       Rt       Total             Hours             Lt        Th        Rt     Total            N-S     Ped Sch    Ped   Sch
+7-8                0         0        0           0         7-8                    2         0      7         9              9      0   0      2     0
+8-9                0         0        0           0         8-9                    5         0      9        14             14      0   0      1     0
+9-10               0         0        0           0         9-10                   3         0     16        19             19      0   0      0     0
+3-4                0         0        0           0         3-4                    7         0      7        14             14      0   0      0     0
+4-5                0         0        0           0         4-5                    4         0      8        12             12      0   0      0     0
+5-6                0         0        0           0         5-6                    3         0     11        14             14      0   0      2     0
+
+TOTAL              0         0        0           0         TOTAL              24            0     58        82             82     0    0      5    0
+
+
+EASTBOUND Approach                                          WESTBOUND Approach                                           TOTAL   XING W/L   XING E/L
+
+Hours         Lt  Th             Rt       Total             Hours             Lt        Th        Rt Total               E-W      Ped Sch    Ped   Sch
+7-8             5 1003                0     1008            7-8                    0    1155       10 1165                2173      0   0      0     0
+8-9            12 1379                0     1391            8-9                    0    1353        6 1359                2750      0   0      0     0
+9-10           13 1358                0     1371            9-10                   0    1108       10 1118                2489      0   0      0     0
+3-4            18 994                 0     1012            3-4                    0    1586       10 1596                2608      0   0      0     0
+4-5             8 764                 0      772            4-5                    0    1722       11 1733                2505      0   0      0     0
+5-6            13 933                 0      946            5-6                    0    1793       10 1803                2749      0   0      0     0
+
+TOTAL          69 6431                0     6500            TOTAL                  0 8717          57      8774          15274     0    0      0    0
+
+            (Rev Oct 06)
+

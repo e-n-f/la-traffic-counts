@@ -1,0 +1,503 @@
+                                       City Traffic Counters, LLC.
+                                             626-256-4171
+                                                                                              File Name       : HollyEdge
+                                                                                              Site Code       : 00000000
+                                                                                              Start Date      : 5/25/2011
+                                                                                              Page No         :1
+                                             Groups Printed- 1 - Unshifted
+                  Edgemont St           Hollywood Blvd                 Edgemont St           Hollywood Blvd
+                   Southbound              Westbound                    Northbound              Eastbound
+ Start Time    Left    Thru   Right   Left     Thru     Right      Left      Thru  Right   Left     Thru    Right   Int. Total
+     Factor    1.0       1.0    1.0    1.0       1.0      1.0       1.0       1.0    1.0   1.0        1.0     1.0
+ 07:00 AM       14       36       8    31        56         6         5         6      7     1        89      17         276
+ 07:15 AM       13       37       3    33        85         5         6         6    18      7       111      22         346
+ 07:30 AM        6       37     12     25       132         7       11         16    14      6       143      25         434
+ 07:45 AM       15       45       8    24       158         6         6        14    21      8       195      20         520
+       Total    48      155     31    113       431       24        28         42    60     22       538      84        1576
+
+ 08:00 AM       14      37      19     19      217        8         8       12       19     14      174       27         568
+ 08:15 AM       16      41      33     23      141        5        17        9       13     18      181       26         523
+ 08:30 AM       10      49      11     21      143        3         9       14       19     14      168       29         490
+ 08:45 AM        7      36       9     20      119        5        12        9       15     13      146       39         430
+     Total      47     163      72     83      620       21        46       44       66     59      669      121        2011
+
+ 09:00 AM       12      33      10     10      132        5         8       10       19     10      128       18         395
+ 09:15 AM        7      38       1     13      128        3         7       18       11      5      137       14         382
+ 09:30 AM        8      24       1     10      125        8        13       20        6      9      136       17         377
+ 09:45 AM       10      25       1     10      131       10         5       21       12     12      147       11         395
+     Total      37     120      13     43      516       26        33       69       48     36      548       60        1549
+
+
+
+ 03:00 PM       10      22       5     11      113        5        13       16       14      6      131       10         356
+ 03:15 PM        4      29      16      8      178        4        13       29       14     14      193       16         518
+ 03:30 PM        7      21       8     18      154        8        13       20       15     20      173       15         472
+ 03:45 PM       11      18       6      6      141       27        13       32       26     29      202       14         525
+     Total      32      90      35     43      586       44        52       97       69     69      699       55        1871
+
+ 04:00 PM        6      23       2      7      127        9        11       19       13     13      159        6         395
+ 04:15 PM        5      27       2      4       92        7         9       37       26     29      170        7         415
+ 04:30 PM        9      12       2      8      124        7        11       27       15     24      177       12         428
+ 04:45 PM        8      26       5     10      171       11        18       38       33     25      213       14         572
+     Total      28      88      11     29      514       34        49      121       87     91      719       39        1810
+
+ 05:00 PM       11      16       5     11      180       12        10       33       15     18      203       10         524
+ 05:15 PM       10      24       5     17      201       17        21       28       18     19      217        9         586
+ 05:30 PM        4      22       2     19      195        9        13       29       15     19      256       19         602
+ 05:45 PM        7      18       5     16      180       11        14       25       17     17      240       14         564
+     Total      32      80      17     63      756       49        58      115       65     73      916       52        2276
+
+Grand Total    224    696      179    374     3423      198      266      488      395     350    4089       411      11093
+ Apprch %      20.4   63.3     16.3    9.4     85.7      5.0     23.2     42.5     34.4     7.2    84.3       8.5
+   Total %      2.0    6.3      1.6    3.4     30.9      1.8      2.4      4.4      3.6     3.2    36.9       3.7
+                                                              City Traffic Counters, LLC.
+                                                                    626-256-4171
+                                                                                                                                  File Name                          : HollyEdge
+                                                                                                                                  Site Code                          : 00000000
+                                                                                                                                  Start Date                         : 5/25/2011
+                                                                                                                                  Page No                            :2
+
+                         Edgemont St                         Hollywood Blvd                       Edgemont St                      Hollywood Blvd
+                         Southbound                           Westbound                           Northbound                        Eastbound
+                                     App.                                      App.                             App.                                                 App.     Int.
+   Start Time   Left    Thru Right           Left Thru Right                              Left    Thru Right             Left          Thru Right
+                                    Total                                      Total                            Total                                                Total   Total
+Peak Hour From 07:00 AM to 11:45 AM - Peak 1 of 1
+  Intersection 07:45 AM
+      Volume      55    172   71      298     87   659   22                     768       40       49     72     161     54            718               102          874    2101
+      Percent 18.5 57.7 23.8                11.3 85.8    2.9                             24.8     30.4   44.7            6.2           82.2              11.7
+        08:00
+                  14     37   19       70     19   217     8                    244          8     12     19      39      14           174                      27    215     568
+      Volume
+ Peak Factor                                                                                                                                                                 0.925
+      High Int. 08:15 AM                   08:00 AM                                      08:30 AM                       08:15 AM
+      Volume      16     41   33       90     19   217     8                    244          9    14      19       42     18    181                             26     225
+ Peak Factor                       0.828                                      0.787                             0.958                                                0.971
+
+                                                                              Edgemont St
+                                                                       Out        In      Total
+                                                                        125        298      423
+
+
+                                                                            71   172         55
+                                                                         Right Thru       Left
+                                        1644
+                                        Total
+
+
+
+
+                                                                                                                                          Out
+                                                                                                                                           845
+                                                  54
+
+
+
+
+                                                                                                                          Right Thru
+                                                Left
+
+
+
+
+                                                                                 North
+
+
+                                                                                                                                              Hollywood Blvd
+                         Hollywood Blvd
+
+
+
+
+                                                                                                                             22
+                                874
+
+
+                                                       718
+                                                Right Thru
+                                In
+
+
+
+
+                                                                      5/25/2011 7:45:00 AM                                                          In
+                                                                                                                                 659
+
+
+                                                                                                                                                    768
+
+                                                                      5/25/2011 8:30:00 AM
+                                                  102
+
+
+
+
+                                                                                                                          Left
+                        770
+
+
+
+
+                                                                       1 - Unshifted
+                       Out
+
+
+
+
+                                                                                                                                                            Total
+                                                                                                                            87
+
+
+                                                                                                                                                             1613
+
+
+
+
+                                                                          Left  Thru Right
+                                                                             40    49   72
+
+
+                                                                        361        161      522
+                                                                       Out        In      Total
+                                                                              Edgemont St
+                                                              City Traffic Counters, LLC.
+                                                                    626-256-4171
+                                                                                                                                 File Name                          : HollyEdge
+                                                                                                                                 Site Code                          : 00000000
+                                                                                                                                 Start Date                         : 5/25/2011
+                                                                                                                                 Page No                            :3
+                         Edgemont St                         Hollywood Blvd                       Edgemont St                     Hollywood Blvd
+                         Southbound                           Westbound                           Northbound                       Eastbound
+                                     App.                                      App.                             App.                                                App.     Int.
+   Start Time   Left    Thru Right          Left Thru Right                              Left    Thru Right             Left          Thru Right
+                                    Total                                      Total                            Total                                               Total   Total
+Peak Hour From 12:00 PM to 05:45 PM - Peak 1 of 1
+  Intersection 04:45 PM
+      Volume      33     88   17      138     57   747  49                      853       62      128     81     271    81            889                    52     1022    2284
+      Percent 23.9 63.8 12.3                 6.7 87.6   5.7                              22.9     47.2   29.9           7.9           87.0                   5.1
+        05:30
+                    4    22    2       28     19   195    9                     223       13       29     15      57     19           256                      19    294     602
+      Volume
+ Peak Factor                                                                                                                                                                0.949
+      High Int. 04:45 PM                   05:15 PM                                 04:45 PM                          05:30 PM
+      Volume        8    26    5       39     17   201  17                      235   18     38           33       89   19    256                              19     294
+ Peak Factor                       0.885                                      0.907                             0.761                                               0.869
+
+                                                                              Edgemont St
+                                                                       Out        In      Total
+                                                                        258        138      396
+
+
+                                                                            17    88        33
+                                                                         Right Thru      Left
+                                        1848
+                                        Total
+
+
+
+
+                                                                                                                                         1003
+                                                                                                                                         Out
+                                                  81
+
+
+
+
+                                                                                                                         Right Thru
+                                                Left
+
+
+
+
+                                                                                 North
+
+
+
+
+                                                                                                                                             Hollywood Blvd
+                         Hollywood Blvd
+
+
+
+
+                                                                                                                            49
+                               1022
+
+
+                                                       889
+                                                Right Thru
+                                In
+
+
+
+
+                                                                                                                                                   In
+                                                                      5/25/2011 4:45:00 PM
+                                                                                                                                747
+
+
+                                                                                                                                                   853
+                                                                      5/25/2011 5:30:00 PM
+                                                   52
+
+
+
+
+                                                                                                                         Left
+                        826
+
+
+
+
+                                                                       1 - Unshifted
+                       Out
+
+
+
+
+                                                                                                                                                           Total
+                                                                                                                           57
+
+
+                                                                                                                                                            1856
+
+
+
+
+                                                                          Left  Thru Right
+                                                                             62   128   81
+
+
+                                                                        197        271      468
+                                                                       Out        In      Total
+                                                                              Edgemont St
+                           City Traffic Counters
+                               626.256.4171
+                                                                           File Name         : HollyEdge_Bike
+                                                                           Site Code         : 00000000
+                                                                           Start Date        : 5/25/2011
+                                                                           Page No           :1
+                                Groups Printed- 2 - Bank 1
+               Edgemont St        Hollywood Blvd        Edgemont St       Hollywood Blvd
+               Southbound           Westbound            Northbound        Eastbound
+ Start Time             Thru                  Thru                Thru               Thru             Int. Total
+     Factor               1.0                   1.0                 1.0                1.0
+ 07:00 AM                   4                     4                   1                  4                   13
+ 07:15 AM                   1                     1                   0                  0                    2
+ 07:30 AM                   3                     1                   1                  2                    7
+ 07:45 AM                   1                     0                   2                  0                    3
+       Total                9                     6                   4                  6                   25
+
+ 08:00 AM                  1                     0                   0                  2                     3
+ 08:15 AM                  1                     0                   2                  3                     6
+ 08:30 AM                  3                     1                   0                  0                     4
+ 08:45 AM                  1                     2                   2                  0                     5
+     Total                 6                     3                   4                  5                    18
+
+ 09:00 AM                  3                     0                   0                  0                     3
+ 09:15 AM                  2                     0                   1                  0                     3
+ 09:30 AM                  1                     0                   0                  1                     2
+ 09:45 AM                  1                     1                   4                  2                     8
+     Total                 7                     1                   5                  3                    16
+
+
+
+ 03:00 PM                  1                     0                   0                  3                     4
+ 03:15 PM                  1                     1                   2                  1                     5
+
+ 03:45 PM                  0                     0                   3                  0                     3
+     Total                 2                     1                   5                  4                    12
+
+ 04:00 PM                  2                     0                   2                  0                     4
+ 04:15 PM                  2                     0                   1                  1                     4
+ 04:30 PM                  0                     0                   3                  1                     4
+ 04:45 PM                  1                     1                   2                  1                     5
+     Total                 5                     1                   8                  3                    17
+
+ 05:00 PM                  2                     1                   3                  2                     8
+ 05:15 PM                  4                     0                   1                  0                     5
+ 05:30 PM                  3                     0                   1                  0                     4
+
+      Total                9                     1                   5                  2                    17
+
+Grand Total              38                    13                  31                 23                   105
+ Apprch %              100.0                 100.0               100.0              100.0
+   Total %              36.2                  12.4                29.5               21.9
+                                                       City Traffic Counters
+                                                           626.256.4171
+                                                                                                   File Name                 : HollyEdge_Bike
+                                                                                                   Site Code                 : 00000000
+                                                                                                   Start Date                : 5/25/2011
+                                                                                                   Page No                   :2
+
+                               Edgemont St             Hollywood Blvd            Edgemont St            Hollywood Blvd
+                               Southbound               Westbound                Northbound               Eastbound
+             Start Time       Thru    App. Total       Thru     App. Total      Thru    App. Total      Thru     App. Total                 Int. Total
+Peak Hour From 07:00 AM to 11:45 AM - Peak 1 of 1
+           Intersection 07:00 AM
+               Volume            9             9           6             6         4             4          6             6                        25
+               Percent       100.0                    100.0                    100.0                   100.0
+        07:00 Volume             4             4           4             4         1             1          4             4                        13
+          Peak Factor                                                                                                                     0.481
+               High Int. 07:00 AM                 07:00 AM                 07:45 AM                07:00 AM
+               Volume            4             4           4             4         2             2          4             4
+          Peak Factor                      0.563                     0.375                   0.500                    0.375
+
+                                                                      Edgemont St
+                                                            Out           In      Total
+                                                                  4          9       13
+
+
+                                                                             9
+                                                                         Thru
+                                         12
+                                      Total
+
+
+
+
+                                                                                                                Out
+                                                                                                                   6
+                                                                         North
+
+
+
+
+                                                                                                                    Hollywood Blvd
+                       Hollywood Blvd
+
+                                 6
+
+
+                                                  6
+
+
+
+
+                                                                                                        Thru
+                                              Thru
+                              In
+
+
+
+
+                                                                                                                          In
+                                                           5/25/2011 7:00:00 AM
+                                                           5/25/2011 7:45:00 AM
+                                                                                                            6
+
+
+                                                                                                                             6
+                        6
+
+
+
+
+                                                            2 - Bank 1
+                     Out
+
+
+
+
+                                                                                                                                  Total
+                                                                                                                                     12
+
+
+
+
+                                                                         Thru
+                                                                             4
+
+
+                                                                  9          4       13
+                                                            Out           In      Total
+                                                                      Edgemont St
+                                                       City Traffic Counters
+                                                           626.256.4171
+                                                                                                   File Name                 : HollyEdge_Bike
+                                                                                                   Site Code                 : 00000000
+                                                                                                   Start Date                : 5/25/2011
+                                                                                                   Page No                   :3
+                               Edgemont St             Hollywood Blvd            Edgemont St            Hollywood Blvd
+                               Southbound               Westbound                Northbound               Eastbound
+             Start Time       Thru    App. Total       Thru     App. Total      Thru    App. Total      Thru     App. Total                 Int. Total
+Peak Hour From 12:00 PM to 05:45 PM - Peak 1 of 1
+           Intersection 04:30 PM
+               Volume            7             7           2             2         9             9          4             4                        22
+               Percent       100.0                    100.0                    100.0                   100.0
+        05:00 Volume             2             2           1             1         3             3          2             2                         8
+          Peak Factor                                                                                                                     0.688
+               High Int. 05:15 PM                 04:45 PM                 04:30 PM                05:00 PM
+               Volume            4             4           1             1         3             3          2             2
+          Peak Factor                      0.438                     0.500                   0.750                    0.500
+
+                                                                    Edgemont St
+                                                            Out         In      Total
+                                                                  9        7       16
+
+
+                                                                             7
+                                                                         Thru
+                                          6
+                                      Total
+
+
+
+
+                                                                                                                Out
+                                                                                                                   4
+                                                                         North
+
+
+
+
+                                                                                                                    Hollywood Blvd
+                       Hollywood Blvd
+
+                                 4
+
+
+                                                  4
+
+
+
+
+                                                                                                        Thru
+                                              Thru
+                              In
+
+
+
+
+                                                                                                                          In
+                                                           5/25/2011 4:30:00 PM
+                                                           5/25/2011 5:15:00 PM
+                                                                                                            2
+
+
+                                                                                                                             2
+                        2
+
+
+
+
+                                                            2 - Bank 1
+                     Out
+
+
+
+
+                                                                                                                                  Total
+                                                                                                                                      6
+
+
+
+
+                                                                         Thru
+                                                                             9
+
+
+                                                                  7          9       16
+                                                            Out           In      Total
+                                                                      Edgemont St
+

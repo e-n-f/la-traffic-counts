@@ -1,0 +1,58 @@
+ACCUTEK                           TRAFFIC COUNT SUMMARY
+
+STREET:
+North/South       HAYVENHURST
+
+East/West         VENTURA BLVD.
+
+Day:    TUESDAY                        Date:       2-23-99                 Weather:          CLEAR
+
+Hours: 7-10 AM 3-6 PM                  FILE:       #####
+
+School Day:       YES                  District:           LOS ANGELES
+
+
+                    N/B                              S/B                      E/B                     W/B
+DUAL-
+WHEELED                 0                             0                         0                      0
+BIKES                   0                             0                         0                      0
+BUSES                   0                             0                         0                      0
+
+
+                    N/B TIME                         S/B TIME                 E/B TIME                W/B     TIME
+
+AM PK 15 MIN        147      9:45                   367      8:30            611      8:00           312       9:45
+
+PM PK 15 MIN        227      5:00                   190      3:15            366      5:45           626       5:00
+
+AM PK HOUR          489      9:00                  1386      8:00           2234      8:00           1152      9:00
+
+PM PK HOUR          778      5:00                   721      3:00           1420      5:00           2481      5:00
+
+
+
+NORTHBOUND Approach                                        SOUTHBOUND Approach                              TOTAL     XING S/L       XING N/L
+
+Hours       Lt     Th       Rt         Total               Hours     Lt      Th       Rt     Total           N-S      Ped   Sch      Ped   Sch
+7-8          79    221       37          337               7-8       650     425       69     1144           1481      0     0        0     0
+8-9         132    273       80          485               8-9       838     439      109     1386           1871      0     0        0     0
+9-10        137    254       98          489               9-10      553     308      163     1024           1513      0     0        0     0
+3-4         208    321       84          613               3-4       265     223      233      721           1334      0     0        0     0
+4-5         208    386       55          649               4-5       237     176      233      646           1295      0     0        0     0
+5-6         294    401       83          778               5-6       208     154      221      583           1361      0     0        0     0
+
+TOTAL 1058         1856     437          3351              TOTAL    2751    1725 1028         5504            8855      0        0     0        0
+
+
+EASTBOUND Approach                                         WESTBOUND Approach                               TOTAL     XING W/L       XING E/L
+
+Hours       Lt      Th      Rt         Total               Hours     Lt      Th       Rt     Total           E-W      Ped   Sch      Ped   Sch
+7-8         125    1912     175         2212               7-8        28     511      100      639            2851     0     0        0     0
+8-9         112    1916     206         2234               8-9        60     763      154      977            3211     0     0        0     0
+9-10        128    1300     134         1562               9-10       63     894      195     1152            2714     0     0        0     0
+3-4         158    1059     133         1350               3-4        91    1512      455     2058            3408     0     0        0     0
+4-5         170    1037     140         1347               4-5        84    1567      582     2233            3580     0     0        0     0
+5-6         184    1138      98         1420               5-6        60    1742      679     2481            3901     0     0        0     0
+
+TOTAL       877    8362     886         10125              TOTAL     386    6989 2165         9540           19665      0        0     0        0
+

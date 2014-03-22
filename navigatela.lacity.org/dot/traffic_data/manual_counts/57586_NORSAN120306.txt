@@ -1,0 +1,177 @@
+                         City Of Los Angeles
+                         Department Of Transportation
+                         MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South              I-405 SB Ramps
+
+East/West                Nordhoff St
+
+Day:                 TUESDAY                    Date:              03/06/2012                   Weather:             SUNNY
+
+Hours:        7-10AM 3-6PM                                                     Chekrs:          NDS
+
+School Day:              YES                    District:          0                              I/S CODE           0
+
+
+                            N/B                              S/B                                   E/B                          W/B
+DUAL-
+WHEELED                         0                            173                                   198                           129
+BIKES                           1                              5                                    32                            64
+BUSES                           0                             24                                    71                            51
+
+
+                            N/B     TIME                     S/B       TIME                        E/B      TIME                W/B     TIME
+
+AM PK 15 MIN                    0      0.00                  333        7.45                       400       8.00                441     7.15
+
+PM PK 15 MIN                    0      0.00                  290       16.45                       540      17.15                383    15.45
+
+AM PK HOUR                      0      0.00                 1198        7.30                      1428       7.15               1584     7.15
+
+PM PK HOUR                      0      0.00                 1039       16.15                      1928      16.45               1438    15.30
+
+
+
+
+NORTHBOUND Approach                                                SOUTHBOUND Approach                                                 TOTAL    XING S/L       XING N/L
+
+Hours           Lt         Th          Rt       Total              Hours                 Lt       Th        Rt Total                    N-S      Ped   Sch      Ped
+7-8                  0          0           0           0          7-8                    355           2    695  1052                   1052     11   171       10
+8-9                  0          0           0           0          8-9                    334           2    732  1068                   1068      6    29        7
+9-10                 0          0           0           0          9-10                   282           4    567   853                    853      6     7       12
+15-16                0          0           0           0          15-16                  403           5    494   902                    902      3    39        9
+16-17                0          0           0           0          16-17                  440           1    549   990                    990     15    17       10
+17-18                0          0           0           0          17-18                  450           4    524   978                    978     21    15       16
+
+TOTAL                0          0           0           0          TOTAL                 2264          18   3561         5843            5843     62   278       64
+
+
+EASTBOUND Approach                                                 WESTBOUND Approach                                                  TOTAL    XING W/L       XING E/L
+
+Hours           Lt         Th          Rt Total                    Hours                 Lt       Th        Rt       Total              E-W      Ped   Sch      Ped
+7-8                  0     1091         221  1312                  7-8                    187     1344           0      1531             2843      0     0        1
+8-9                  0     1090         245  1335                  8-9                    139     1347           0      1486             2821      0     0        0
+9-10                 0      833         289  1122                  9-10                   189     1166           0      1355             2477      0     0        0
+15-16                0     1104         778  1882                  15-16                  242     1179           0      1421             3303      0     0        0
+16-17                0     1132         694  1826                  16-17                  227     1144           0      1371             3197      1     0        0
+17-18                0     1202         718  1920                  17-18                  224     1208           0      1432             3352      0     0        0
+
+TOTAL                0     6452        2945        9397            TOTAL                 1208     7388           0       8596           17993      1       0      1
+                                     Intersection Turning Movement
+                                                                 Prepared by:
+                                             National Data & Surveying Services
+          Project ID: CA12_5076_002                                                                                            Day: TUESDAY
+
+                  City: City of Los Angeles                                          CARS                                     Date: 03/06/2012
+                                                                                      AM
+     NS/EW Streets:             I-405 SB Ramps                I-405 SB Ramps                     Nordhoff St               Nordhoff St
+                                 NORTHBOUND                    SOUTHBOUND                        EASTBOUND                 WESTBOUND
+
+                           NL           NT       NR     SL         ST          SR           EL       ET        ER    WL       WT         WR      TOTAL
+     LANES:                0             0        0     0.5        0.5          1           0         3         1    2         2          0
+
+           7:00   AM                                     57         0          109                  214        60    47       260                 747
+           7:15   AM                                     86         1          154                  301        49    54       375                1020
+           7:30   AM                                     89         1          203                  279        57    48       370                1047
+           7:45   AM                                    114         0          208                  258        47    33       298                 958
+           8:00   AM                                     93         1          188                  319        66    39       315                1021
+           8:15   AM                                     83         0          180                  291        53    27       336                 970
+           8:30   AM                                     70         0          170                  211        63    32       314                 860
+           8:45   AM                                     74         1          172                  213        56    33       352                 901
+           9:00   AM                                     58         1          176                  214        59    40       355                 903
+           9:15   AM                                     62         0          156                  196        72    55       290                 831
+           9:30   AM                                     75         1          106                  206        82    52       249                 771
+           9:45   AM                                     69         2          107                  175        69    38       243                 703
+
+                           NL           NT       NR       SL      ST        SR            EL     ET     ER    WL      WT                 WR      TOTAL
+    TOTAL VOLUMES :        0             0        0      930       8       1929            0    2877   733    498    3757                 0      10732
+     APPROACH %'s :                                    32.44%    0.28%    67.28%         0.00% 79.70% 20.30% 11.70% 88.30%               0.00%
+                        nb a      nb d                sb a    sb d                     eb a   eb d          wb a   nb d
+PEAK HR START TIME :           715 AM                                                                                                            TOTAL
+
+       PEAK HR VOL :       0            0        0      382         3      753              0      1157        219   174     1358        0       4046
+
+   PEAK HR FACTOR :                 0.000                         0.884                            0.894                     0.893               0.966
+
+          CONTROL : Signalized
+                                     Intersection Turning Movement
+                                                                 Prepared by:
+                                             National Data & Surveying Services
+          Project ID: CA12_5076_002                                                                                            Day: TUESDAY
+
+                  City: City of Los Angeles                                          CARS                                     Date: 03/06/2012
+                                                                                      PM
+     NS/EW Streets:             I-405 SB Ramps                I-405 SB Ramps                     Nordhoff St               Nordhoff St
+                                 NORTHBOUND                    SOUTHBOUND                        EASTBOUND                 WESTBOUND
+
+                           NL           NT       NR     SL         ST          SR           EL       ET        ER    WL       WT         WR      TOTAL
+     LANES:                0             0        0     0.5        0.5          1           0         3         1    2         2          0
+
+           3:00   PM                                     77         0          109                  240        144   69       284                 923
+           3:15   PM                                     96         1          123                  279        193   45       253                 990
+           3:30   PM                                     99         3          126                  246        213   67       298                1052
+           3:45   PM                                    119         1          113                  309        216   56       321                1135
+           4:00   PM                                    106         0          116                  254        167   51       286                 980
+           4:15   PM                                    103         0          143                  285        185   55       279                1050
+           4:30   PM                                     94         0          113                  267        191   62       306                1033
+           4:45   PM                                    131         1          150                  289        145   55       257                1028
+           5:00   PM                                    127         2          143                  270        177   54       321                1094
+           5:15   PM                                    116         1          115                  339        195   63       293                1122
+           5:30   PM                                     92         0          118                  306        175   51       294                1036
+           5:45   PM                                    110         1          130                  265        168   54       287                1015
+
+                           NL           NT       NR      SL       ST        SR            EL     ET     ER    WL      WT                 WR      TOTAL
+    TOTAL VOLUMES :        0             0        0     1270      10       1499            0    3349   2169   682    3479                 0      12458
+     APPROACH %'s :                                    45.70%    0.36%    53.94%         0.00% 60.69% 39.31% 16.39% 83.61%               0.00%
+                        nb a      nb d                sb a    sb d                     eb a   eb d          wb a   nb d
+PEAK HR START TIME :           445 PM                                                                                                            TOTAL
+
+       PEAK HR VOL :       0            0        0      466         4      526              0      1204        692   223     1165        0       4280
+
+   PEAK HR FACTOR :                 0.000                         0.883                            0.888                     0.925               0.954
+
+          CONTROL : Signalized
+                                PREPARED BY NATIONAL DATA & SURVEYING SERVICES
+PROJECT#:     12-5076-002
+N/S Street:   I-405 SB Ramps
+E/W Street:   Nordhoff St
+DATE:         03/06/2012                                    DAY:        03/06/2012
+CITY:         City of Los Angeles
+    AM
+Adult Pedestrians                                           School-Aged Pedestrians
+              NORTH LEG SOUTH LEG     EAST LEG   WEST LEG               NORTH LEG SOUTH LEG   EAST LEG   WEST LEG
+  TIME                                                        TIME
+               EB   WB   EB   WB      NB    SB   NB    SB                EB   WB   EB   WB    NB    SB   NB    SB
+ 7:00 AM        1    1    0    5       0     0    0     0    7:00 AM      1   16    0    5     0     0    0     0
+ 7:15 AM        0    3    0    3       0     0    0     0    7:15 AM      2   49    0   11     0     0    0     0
+ 7:30 AM        0    0    1    0       0     0    0     0    7:30 AM      2  147    2   43     0     0    0     0
+ 7:45 AM        0    5    2    0       1     0    0     0    7:45 AM      2  291    0  110     0     0    0     0
+ 8:00 AM        1    1    2    0       0     0    0     0    8:00 AM      3   56    0   15     0     0    0     0
+ 8:15 AM        2    2    0    0       0     0    0     0    8:15 AM      1   13    0   11     0     0    0     0
+ 8:30 AM        0    1    1    1       0     0    0     0    8:30 AM      0   11    0    2     0     0    0     0
+ 8:45 AM        0    0    0    2       0     0    0     0    8:45 AM      0    3    0    1     0     0    0     0
+ 9:00 AM        0    1    0    1       0     0    0     0    9:00 AM      0    3    2    0     0     0    0     0
+ 9:15 AM        1    3    1    0       0     0    0     0    9:15 AM      0    8    0    3     0     0    0     0
+ 9:30 AM        1    4    0    2       0     0    0     0    9:30 AM      1    2    0    0     0     0    0     0
+ 9:45 AM        0    2    0    2       0     0    0     0    9:45 AM      1    0    1    1     0     0    0     0
+ TOTALS        6    23   7    16       1     0    0    0     TOTALS      13  599   5   202     0     0    0    0
+
+    PM
+Adult Pedestrians                                           School-Aged Pedestrians
+              NORTH LEG SOUTH LEG     EAST LEG   WEST LEG               NORTH LEG SOUTH LEG   EAST LEG   WEST LEG
+   TIME                                                        TIME
+               EB   WB   EB   WB      NB    SB   NB    SB                EB   WB   EB   WB    NB    SB   NB    SB
+ 3:00 PM        1    4    0    1       0     0    0     0    3:00 PM     35    8    7    4     0     0    0     0
+ 3:15 PM        0    0    0    0       0     0    0     0    3:15 PM     36   11   13    0     0     0    0     0
+ 3:30 PM        0    3    2    0       0     0    0     0    3:30 PM     13    7    7    5     0     0    0     0
+ 3:45 PM        1    0    0    0       0     0    0     0    3:45 PM      6    4    3    0     0     0    0     0
+ 4:00 PM        1    1    1    2       0     0    0     0    4:00 PM      8    4    6    0     0     0    0     0
+ 4:15 PM        1    3    3    3       0     0    1     0    4:15 PM      8    1    6    0     0     0    0     0
+ 4:30 PM        0    1    3    2       0     0    0     0    4:30 PM     10    3    3    1     0     0    0     0
+ 4:45 PM        2    1    0    1       0     0    0     0    4:45 PM     10    4    1    0     0     0    0     0
+ 5:00 PM        0    3    3    3       0     0    0     0    5:00 PM     12    3    7    1     0     0    0     0
+ 5:15 PM        3    1    5    1       0     0    0     0    5:15 PM      8    3    4    0     0     0    0     0
+ 5:30 PM        2    1    1    0       0     0    0     0    5:30 PM      6    1    0    2     0     0    0     0
+ 5:45 PM        3    3    1    7       0     0    0     0    5:45 PM      9    3    0    1     0     0    0     0
+ TOTALS        14   21   19   20       0     0    1    0     TOTALS     161 52     57   14     0     0    0    0
+

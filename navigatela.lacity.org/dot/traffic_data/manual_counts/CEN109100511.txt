@@ -1,0 +1,61 @@
+                       City Of Los Angeles
+                       Department Of Transportation
+                       MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South            CENTRAL AV
+
+East/West              109TH ST
+
+Day:               TUESDAY              Date:          May 11, 2010                Weather:            SUNNY
+
+Hours:      7-10AM 3-6PM                                           Chekrs:         LEE
+
+School Day:            YES              District:          SOUTHERN                  I/S CODE 2205
+
+
+                        N/B                         S/B                              E/B                        W/B
+DUAL-
+WHEELED                  150                         123                                 0                        9
+BIKES                     25                           0                                 0                       10
+BUSES                     65                          54                                 0                        0
+
+
+                        N/B TIME                    S/B TIME                         E/B TIME                   W/B TIME
+
+AM PK 15 MIN             318     7.30                251    7.15                         0    7.00               37    7.45
+
+PM PK 15 MIN             514     4.30               329     3.15                         0    3.00               24    3.00
+
+AM PK HOUR              1208     7.30                926    7.00                         0    7.00              105    7.15
+
+PM PK HOUR              1980     3.45               1157    3.00                         0    3.00               64    3.30
+
+
+
+NORTHBOUND Approach                                        SOUTHBOUND Approach                                        TOTAL   XING S/L   XING N/L
+
+Hours         Lt        Th       Rt Total                  Hours             Lt  Th           Rt       Total           N-S     Ped Sch    Ped   Sch
+7-8                0    1162      28 1190                  7-8                27 899               0      926          2116      2   1      0     0
+8-9                0    1092      21 1113                  8-9                26 691               0      717          1830      2   0      0     0
+9-10               0     991      23 1014                  9-10               26 562               0      588          1602      2   0      0     0
+3-4                0    1653      32 1685                  3-4                53 1104              0     1157          2842      1   0      0     0
+4-5                0    1926      40 1966                  4-5                35 953               0      988          2954      0   0      0     0
+5-6                0    1864      39 1903                  5-6                58 1029              0     1087          2990      1   0      0     0
+
+TOTAL              0 8688        183      8871             TOTAL             225 5238              0     5463         14334     8    1      0    0
+
+
+EASTBOUND Approach                                         WESTBOUND Approach                                         TOTAL   XING W/L   XING E/L
+                   NONE                                                                      109TH ST
+Hours   Lt    Th    Rt Total                               Hours             Lt     Th         Rt Total               E-W      Ped Sch    Ped   Sch
+7-8        0     0    0                         0          7-8                29         0      73    102               102      0   0     13    10
+8-9        0     0    0                         0          8-9                23         0      50     73                73      0   0     46     2
+9-10       0     0    0                         0          9-10               22         0      43     65                65      0   0     34     1
+3-4        0     0    0                         0          3-4                16         0      43     59                59      0   0     26    16
+4-5        0     0    0                         0          4-5                14         0      46     60                60      0   0     18     4
+5-6        0     0    0                         0          5-6                12         0      19     31                31      0   0     13     0
+
+TOTAL              0         0     0            0          TOTAL             116         0     274        390           390     0    0    150   33
+
+            (Rev Oct 06)
+

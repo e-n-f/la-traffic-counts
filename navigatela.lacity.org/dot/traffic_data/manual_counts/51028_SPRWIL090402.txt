@@ -1,0 +1,54 @@
+WILTEC                                                                                                                                   Phone: (626) 564-1944   Fax: (626) 564-0969
+INTERSECTION TURNING MOVEMENT COUNT SUMMARY
+
+CLIENT:                          FEHR AND PEERS/ ARUP
+PROJECT:                         DOWNTOWN LOS ANGELES TRAFFIC COUNTS
+DATE:                            THURSDAY APRIL 2, 2009
+PERIODS:                         7:00 AM TO 9:00 AM  AND       4:00 PM TO 6:00 PM
+INTERSECTION:          N/S       WILHARDT STREET
+                       E/W       NORTH SPRING STREET
+CITY:                            LOS ANGELES
+
+15 MIN COUNTS                                            7:00 AM TO 9:00 AM
+                   1         2        3      4      5           6        7       8      9     10     11     12
+PERIOD          SBRT    SBTH       SBLT   WBRT   WBTH      WBLT     NBRT      NBTH   NBLT   EBRT   EBTH   EBLT   TOTAL      AM PEAK HOUR
+700-715            0         0        0      0    234           5      14        0      1      0     48      0     302         745-845                                 0
+715-730            0         0        0      0    297           5        7       0      1      2     63      0     375
+730-745            0         0        0      0    328           6        5       0      0      0     63      0     402                   0        0   0                1480
+745-800            0         0        0      0    389           8      15        0      1      2     57      0     472
+800-815            0         0        0      0    360          13        9       0      3      5     64      0     454                                                 44
+815-830            0         0        0      0    359          15      10        0      3      8     78      0     473
+830-845            0         0        0      0    372           8        9       0      4      3     52      0     448
+845-900            0         0        0      0    350          12      11        0      2      2     74      0     451                       0
+HOUR TOTALS
+                   1         2        3      4      5           6        7       8      9     10     11     12           NORTH SPRING STREET
+                                                                                                                                         251                11     0        43
+TIME            SBRT    SBTH       SBLT   WBRT   WBTH      WBLT     NBRT      NBTH   NBLT   EBRT   EBTH   EBLT   TOTAL
+700-800            0         0        0      0    1248         24      41        0      3      4    231      0    1551                       18
+715-815            0         0        0      0    1374         32      36        0      5      9    247      0    1703                                           WILHARDT STREET
+730-830            0         0        0      0    1436         42      39        0      7     15    262      0    1801
+745-845            0         0        0      0    1480         44      43        0     11     18    251      0    1847
+800-900            0         0        0      0    1441         48      39        0     12     18    268      0    1826
+
+
+15 MIN COUNTS                                            4:00 PM TO 6:00 PM
+                   1         2        3      4      5           6        7       8      9     10     11     12
+PERIOD          SBRT    SBTH       SBLT   WBRT   WBTH      WBLT     NBRT      NBTH   NBLT   EBRT   EBTH   EBLT   TOTAL      PM PEAK HOUR
+400-415            0         0        0      0     89           7      40        0      3     10    246      0     395         500-600                                 0
+415-430            0         0        0      0     84           6      29        0      1      3    252      0     375
+430-445            0         0        0      0     87           5      23        0      0      4    274      0     393                   0        0   0                324
+445-500            0         0        0      0     79           3      23        0      4      7    319      0     435
+500-515            0         0        0      0     75           3      23        0      1      3    356      0     461                                                 12
+515-530            0         0        0      0     81           5      19        0      1      2    366      0     474
+530-545            0         0        0      0     81           2      12        0      1      8    366      0     470
+545-600            0         0        0      0     87           2        9       0      2      1    351      0     452                       0
+HOUR TOTALS
+                   1         2        3      4      5           6        7       8      9     10     11     12           NORTH SPRING STREET
+                                                                                                                                        1439                5      0        63
+TIME            SBRT    SBTH       SBLT   WBRT   WBTH      WBLT     NBRT      NBTH   NBLT   EBRT   EBTH   EBLT   TOTAL
+400-500            0         0        0      0    339          21     115        0      8     24   1091      0    1598                       14
+415-515            0         0        0      0    325          17      98        0      6     17   1201      0    1664                                           WILHARDT STREET
+430-530            0         0        0      0    322          16      88        0      6     16   1315      0    1763
+445-545            0         0        0      0    316          13      77        0      7     20   1407      0    1840
+500-600            0         0        0      0    324          12      63        0      5     14   1439      0    1857
+

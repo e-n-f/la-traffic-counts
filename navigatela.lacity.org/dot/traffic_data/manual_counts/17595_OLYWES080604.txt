@@ -1,0 +1,290 @@
+                                                 TRAFFIC COUNT SUMMARY
+                                                                                                                            City of Los Angeles
+STREET:                                                                                                               Department of Transportation
+North/South           WESTWOOD BOULEVARD
+
+East/West             OLYMPIC BOULEVARD
+
+Day:     AM    WEDNESDAY             Date:       JUNE 4, 2008                 Weather:         CLEAR
+         PM    WEDNESDAY                         JUNE 4, 2008
+Hours:         7-9 AM 4-6 PM
+
+School Day:           YES            District:           LOS ANGELES
+
+
+                        N/B                        S/B                          E/B                          W/B
+DUAL-
+WHEELED                 N/A                        N/A                          N/A                          N/A
+BIKES                   N/A                        N/A                          N/A                          N/A
+BUSES                   N/A                        N/A                          N/A                          N/A
+
+
+                        N/B TIME                   S/B TIME                     E/B TIME                     W/B     TIME
+
+AM PK 15 MIN            275 7:45                   220 8:15                     623 8:30                     585      8:15
+
+PM PK 15 MIN            270 5:15                   423 5:45                     492 4:45                     668      5:30
+
+AM PK HOUR              963 7:45                   735 8:00                    2,078 8:00                   2,191     8:00
+
+PM PK HOUR             1,026 4:30                 1,598 4:15                   1,689 4:45                   2,542     5:00
+
+
+
+NORTHBOUND Approach                                      SOUTHBOUND Approach                                        TOTAL      XING S/L       XING N/L
+
+Hours           Lt     Th      Rt    Total               Hours         Lt       Th       Rt       Total              N-S       Ped   Sch     Ped     Sch
+7-8              72      697    72       841             7-8             79      317      53          449            1,290     N/A   N/A     N/A     N/A
+8-9              70      747   115       932             8-9            143      509      83          735            1,667     N/A   N/A     N/A     N/A
+4-5              69      762    90       921             4-5            193    1,206     105        1,504            2,425     N/A   N/A     N/A     N/A
+5-6              56      770    98       924             5-6            226    1,230     141        1,597            2,521     N/A   N/A     N/A     N/A
+TOTAL           267    2,976   375     3,618             TOTAL          641    3,262     382        4,285            7,903     N/A   N/A     N/A     N/A
+
+
+EASTBOUND Approach                                       WESTBOUND Approach                                         TOTAL      XING W/L       XING E/L
+
+Hours           Lt     Th      Rt    Total               Hours         Lt       Th       Rt       Total              E-W       Ped   Sch     Ped     Sch
+7-8              46    1,150    52     1,248             7-8             54    1,404     149        1,607            2,855     N/A   N/A     N/A     N/A
+8-9              56    1,964    58     2,078             8-9             95    1,963     133        2,191            4,269     N/A   N/A     N/A     N/A
+4-5              69    1,374    90     1,533             4-5             78    1,764     124        1,966            3,499     N/A   N/A     N/A     N/A
+5-6              49    1,450    82     1,581             5-6             83    2,316     143        2,542            4,123     N/A   N/A     N/A     N/A
+TOTAL           220    5,938   282     6,440             TOTAL          310    7,447     549        8,306           14,746     N/A   N/A     N/A     N/A
+                                              City Traffic Counters
+                                                  626.256.4171
+                                                                                              File Name      : WestOlym
+                                                                                              Site Code      : 00000000
+                                                                                              Start Date     : 6/4/2008
+                                                                                              Page No        :1
+                                             Groups Printed- 1 - Unshifted
+                 Westwood Blvd            Olympic Blvd               Westwood Blvd            Olympic Blvd
+                   Southbound               Westbound                   Northbound              Eastbound
+ Start Time    Left    Thru    Right   Left     Thru    Right      Left      Thru  Right   Left     Thru   Right   Int. Total
+     Factor    1.0       1.0     1.0   1.0        1.0     1.0       1.0        1.0   1.0   1.0        1.0    1.0
+ 07:00 AM       14       49        5    17       214      30        14        127    10      7       182       7        676
+ 07:15 AM       21       65      14      9       312      36        21        158    18     11       208     14         887
+ 07:30 AM       21       80      18     11       437      47        16        180    22     13       340     15        1200
+ 07:45 AM       23      123      16     17       441      36        21        232    22     15       420     16        1382
+       Total    79      317      53     54     1404      149        72        697    72     46     1150      52        4145
+
+ 08:00 AM       25     114       16     22      498       28       11      158       21     13     393       11        1310
+ 08:15 AM       44     147       29     24      518       43       21      215       23     14     460       12        1550
+ 08:30 AM       39     123       16     30      507       25       16      191       32     12     590       21        1602
+ 08:45 AM       35     125       22     19      440       37       22      183       39     17     521       14        1474
+     Total     143     509       83     95     1963      133       70      747      115     56    1964       58        5936
+
+
+
+ 04:00 PM       32     267       21     20      334       27       18      156       21     18     255       22        1191
+ 04:15 PM       46     340       22     14      485       29       14      194       29     19     351       20        1563
+ 04:30 PM       53     270       33     20      423       34       23      184       27     10     326       20        1423
+ 04:45 PM       62     329       29     24      522       34       14      228       13     22     442       28        1747
+     Total     193    1206      105     78     1764      124       69      762       90     69    1374       90        5924
+
+ 05:00 PM       73     306       35     22      553       44       19      214       34     13     368       24        1705
+ 05:15 PM       36     313       30     17      591       41       14      226       30      8     368       19        1693
+ 05:30 PM       49     299       33     24      617       27       12      188       19     17     358       22        1665
+ 05:45 PM       68     312       43     20      555       31       11      142       15     11     356       17        1581
+     Total     226    1230      141     83     2316      143       56      770       98     49    1450       82        6644
+
+Grand Total    641    3262      382    310     7447      549      267     2976     375     220    5938      282      22649
+ Apprch %      15.0    76.1      8.9    3.7     89.7      6.6      7.4     82.3    10.4     3.4    92.2      4.4
+   Total %      2.8    14.4      1.7    1.4     32.9      2.4      1.2     13.1     1.7     1.0    26.2      1.2
+                                                                 City Traffic Counters
+                                                                     626.256.4171
+                                                                                                                              File Name                      : WestOlym
+                                                                                                                              Site Code                      : 00000000
+                                                                                                                              Start Date                     : 6/4/2008
+                                                                                                                              Page No                        :2
+
+                       Westwood Blvd                         Olympic Blvd                     Westwood Blvd                         Olympic Blvd
+                        Southbound                           Westbound                         Northbound                            Eastbound
+                                     App.                                    App.                             App.                                           App.     Int.
+   Start Time   Left    Thru Right          Left Thru Right                            Left   Thru Right              Left          Thru Right
+                                    Total                                    Total                            Total                                          Total   Total
+Peak Hour From 07:00 AM to 12:30 PM - Peak 1 of 1
+  Intersection 08:00 AM
+      Volume     143    509   83      735     95 1963  133                   2191       70      747    115     932    56 1964                          58    2078    5936
+      Percent 19.5 69.3 11.3                 4.3 89.6   6.1                             7.5     80.2   12.3           2.7 94.5                         2.8
+        08:30
+                  39    123   16      178     30   507  25                    562       16      191     32     239     12           590                 21    623    1602
+      Volume
+ Peak Factor                                                                                                                                                         0.926
+      High Int. 08:15 AM                   08:15 AM                               08:15 AM                          08:30 AM
+      Volume      44    147   29      220     24   518  43                    585   21    215           23      259   12    590                         21     623
+ Peak Factor                       0.835                                    0.936                             0.900                                          0.834
+
+                                                                          Westwood Blvd
+                                                                      Out      In       Total
+                                                                       936      735      1671
+
+
+                                                                          83   509      143
+                                                                       Right Thru      Left
+                                        4194
+                                        Total
+
+
+
+
+                                                                                                                                       2222
+                                                                                                                                       Out
+                                                  56
+
+
+
+
+                                                                                                                       Right Thru
+                                                Left
+
+
+
+
+                                                                                                                         133 1963
+                                                                               North
+
+
+                                                                                                                                       Olympic Blvd
+                           Olympic Blvd
+
+                               2078
+
+
+                                                   58 1964
+                                                Right Thru
+                                 In
+
+
+
+
+                                                                                                                                           2191
+                                                                                                                                            In
+                                                                      6/4/2008 8:00:00 AM
+                                                                      6/4/2008 8:45:00 AM
+                                                                                                                       Left
+                       2116
+
+
+
+
+                                                                      1 - Unshifted
+                       Out
+
+
+
+
+                                                                                                                                                    Total
+                                                                                                                         95
+
+
+                                                                                                                                                    4413
+
+
+
+
+                                                                        Left  Thru Right
+                                                                           70   747  115
+
+
+                                                                       662      932      1594
+                                                                      Out      In       Total
+                                                                          Westwood Blvd
+                                                                 City Traffic Counters
+                                                                     626.256.4171
+                                                                                                                              File Name                      : WestOlym
+                                                                                                                              Site Code                      : 00000000
+                                                                                                                              Start Date                     : 6/4/2008
+                                                                                                                              Page No                        :3
+                       Westwood Blvd                         Olympic Blvd                     Westwood Blvd                         Olympic Blvd
+                        Southbound                           Westbound                         Northbound                            Eastbound
+                                     App.                                    App.                             App.                                           App.     Int.
+   Start Time   Left    Thru Right          Left Thru Right                            Left   Thru Right              Left          Thru Right
+                                    Total                                    Total                            Total                                          Total   Total
+Peak Hour From 12:45 PM to 05:45 PM - Peak 1 of 1
+  Intersection 04:45 PM
+      Volume     220 1247    127    1594      87 2283  146                   2516       59      856    96     1011    60 1536                          93    1689    6810
+      Percent 13.8 78.2       8.0            3.5 90.7   5.8                             5.8     84.7   9.5            3.6 90.9                         5.5
+        04:45
+                  62    329   29      420     24   522  34                    580       14      228    13      255     22           442                 28    492    1747
+      Volume
+ Peak Factor                                                                                                                                                         0.975
+      High Int. 04:45 PM                   05:30 PM                               05:15 PM                          04:45 PM
+      Volume      62    329   29      420     24   617  27                    668   14    226          30       270   22    442                         28     492
+ Peak Factor                       0.949                                    0.942                             0.936                                          0.858
+
+                                                                          Westwood Blvd
+                                                                      Out      In       Total
+                                                                      1062     1594      2656
+
+
+                                                                         127 1247       220
+                                                                       Right Thru      Left
+                                        4158
+                                        Total
+
+
+
+
+                                                                                                                                       1852
+                                                                                                                                       Out
+                                                  60
+
+
+
+
+                                                                                                                       Right Thru
+                                                Left
+
+
+
+
+                                                                               North                                     146 2283
+
+
+
+
+                                                                                                                                       Olympic Blvd
+                           Olympic Blvd
+
+                               1689
+
+
+                                                   93 1536
+                                                Right Thru
+                                 In
+
+
+
+
+                                                                                                                                           2516
+                                                                                                                                            In
+                                                                      6/4/2008 4:45:00 PM
+                                                                      6/4/2008 5:30:00 PM
+                                                                                                                       Left
+                       2469
+
+
+
+
+                                                                      1 - Unshifted
+                       Out
+
+
+
+
+                                                                                                                                                    Total
+                                                                                                                         87
+
+
+                                                                                                                                                    4368
+
+
+
+
+                                                                        Left  Thru Right
+                                                                           59   856   96
+
+
+                                                                      1427     1011      2438
+                                                                      Out      In       Total
+                                                                          Westwood Blvd
+

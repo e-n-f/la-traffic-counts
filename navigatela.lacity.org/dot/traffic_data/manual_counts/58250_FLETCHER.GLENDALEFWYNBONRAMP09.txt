@@ -1,0 +1,61 @@
+                       City Of Los Angeles
+                       Department Of Transportation
+                       MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South            FLECHER DR
+
+East/West              GLENDALE FWY NB ON RAMP
+
+Day:           THURSDAY                 Date:       September 17, 2009                Weather:            SUNNY
+
+Hours:      7-10AM 3-6PM                                           Chekrs:            LEE
+
+School Day:            YES              District:          HOLLYWOOD                    I/S CODE          58250
+
+
+                        N/B                          S/B                                 E/B                          W/B
+DUAL-
+WHEELED                  131                         230                                    0                           0
+BIKES                      4                          15                                    0                           0
+BUSES                     36                          43                                    0                           0
+
+
+                        N/B TIME                     S/B TIME                            E/B TIME                     W/B TIME
+
+AM PK 15 MIN             311     7.45                567    8.15                            0    7.00                   0    7.00
+
+PM PK 15 MIN            480      5.00               443     5.15                            0    3.00                   0    3.00
+
+AM PK HOUR              1172     7.30               2170    8.15                            0    7.00                   0    7.00
+
+PM PK HOUR              1862     5.00               1658    5.00                            0    3.00                   0    3.00
+
+
+
+NORTHBOUND Approach                                        SOUTHBOUND Approach                                              TOTAL     XING S/L   XING N/L
+
+Hours         Lt        Th   Rt Total                      Hours             Lt         Th       Rt       Total              N-S       Ped Sch    Ped   Sch
+7-8                0     414 597 1011                      7-8                    0     1862          0     1862             2873        0   0      0     0
+8-9                0     330 742 1072                      8-9                    0     2137          0     2137             3209        0   0      0     1
+9-10               0     345 499   844                     9-10                   0     1978          0     1978             2822        0   0      0     0
+3-4                0     530 1012 1542                     3-4                    0     1284          0     1284             2826        2   0      0     0
+4-5                0     557 1159 1716                     4-5                    0     1472          0     1472             3188        0   0      0     0
+5-6                0     599 1263 1862                     5-6                    0     1658          0     1658             3520        0   0      0     0
+
+TOTAL              0 2775 5272            8047             TOTAL                  0 10391             0 10391               18438       2    0      0    1
+
+
+EASTBOUND Approach                                         WESTBOUND Approach                                               TOTAL     XING W/L   XING E/L
+                   NONE                                          GLENDALE FWY NB ON RAMP
+Hours   Lt    Th    Rt Total                               Hours      Lt   Th   Rt Total                                    E-W        Ped Sch    Ped   Sch
+7-8        0     0    0                         0          7-8           0    0   0      0                                        0      0   0      4     0
+8-9        0     0    0                         0          8-9           0    0   0      0                                        0      0   0      5     0
+9-10       0     0    0                         0          9-10          0    0   0      0                                        0      0   0      2     0
+3-4        0     0    0                         0          3-4           0    0   0      0                                        0      0   0     13    12
+4-5        0     0    0                         0          4-5           0    0   0      0                                        0      0   0      6     3
+5-6        0     0    0                         0          5-6           0    0   0      0                                        0      0   0      6     0
+
+TOTAL              0         0     0            0          TOTAL                  0         0         0           0               0     0    0     36   15
+
+            (Rev Oct 06)
+

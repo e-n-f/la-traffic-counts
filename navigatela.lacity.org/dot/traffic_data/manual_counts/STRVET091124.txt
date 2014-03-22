@@ -1,0 +1,61 @@
+                       City Of Los Angeles
+                       Department Of Transportation
+                       MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South            VETERAN AV
+
+East/West              STRATHMORE DR
+
+Day:               TUESDAY              Date:       November 24, 2009 Weather:                     SUNNY
+
+Hours:      7-10AM 3-6PM                                          Chekrs:         THOMPSON
+
+School Day:            YES              District:         WESTERN                  I/S CODE 12672
+
+
+                        N/B                         S/B                            E/B                      W/B
+DUAL-
+WHEELED                  23                          14                              0                        3
+BIKES                    12                           0                              0                       21
+BUSES                     0                           1                              0                        0
+
+
+                        N/B TIME                    S/B TIME                       E/B TIME                 W/B TIME
+
+AM PK 15 MIN             99      8.30               164    8.45                      0    7.00               21    7.30
+
+PM PK 15 MIN            240      5.15               133    4.30                      0    3.00               35    5.15
+
+AM PK HOUR              377      8.30               608    8.00                      0    7.00               68    8.45
+
+PM PK HOUR              914      5.00               505    4.30                      0    3.00               98    3.15
+
+
+
+NORTHBOUND Approach                                       SOUTHBOUND Approach                                     TOTAL   XING S/L   XING N/L
+
+Hours         Lt        Th       Rt Total                 Hours             Lt     Th     Rt       Total           N-S     Ped Sch    Ped   Sch
+7-8                0     195      55   250                7-8                17     430        0      447           697      0   0      0     0
+8-9                0     277      65   342                8-9                15     593        0      608           950      0   0      2     0
+9-10               0     308      54   362                9-10               15     486        0      501           863      1   0      0     0
+3-4                0     593      74   667                3-4                16     409        0      425          1092      3   0      0     0
+4-5                0     665      90   755                4-5                28     426        0      454          1209      1   0      0     0
+5-6                0     827      87   914                5-6                19     401        0      420          1334      1   0      0     0
+
+TOTAL              0 2865        425      3290            TOTAL             110 2745           0     2855          6145     6    0      2    0
+
+
+EASTBOUND Approach                                        WESTBOUND Approach                                      TOTAL   XING W/L   XING E/L
+                   NONE                                                STRATHMORE DR
+Hours   Lt    Th    Rt Total                              Hours   Lt    Th   Rt Total                             E-W      Ped Sch    Ped   Sch
+7-8        0     0    0                         0         7-8       53     0  10     63                              63      0   0     44     0
+8-9        0     0    0                         0         8-9       45     0   5     50                              50      0   0     65     0
+9-10       0     0    0                         0         9-10      44     0  15     59                              59      0   0     66     0
+3-4        0     0    0                         0         3-4       74     0  21     95                              95      0   0     77     0
+4-5        0     0    0                         0         4-5       52     0  17     69                              69      0   0     58     0
+5-6        0     0    0                         0         5-6       65     0  22     87                              87      0   0     52     0
+
+TOTAL              0         0     0            0         TOTAL             333      0     90         423           423     0    0    362    0
+
+            (Rev Oct 06)
+

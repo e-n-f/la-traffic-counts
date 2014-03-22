@@ -1,0 +1,61 @@
+                    City Of Los Angeles
+                    Department Of Transportation
+                    MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South         CENTRAL AV
+
+East/West           14TH ST
+
+Day:             MONDAY              Date:         August 4, 2008               Weather:          SUNNY
+
+Hours:      7-10AM 3-6PM                                        Chekrs:         YOUNG
+
+School Day:         YES              District:          CENTRAL                   I/S CODE 9617
+
+
+                     N/B                         S/B                              E/B                     W/B
+DUAL-
+WHEELED               149                         317                              68                      32
+BIKES                   5                          14                               1                      17
+BUSES                  54                          64                               0                       0
+
+
+                     N/B TIME                     S/B TIME                        E/B TIME                W/B TIME
+
+AM PK 15 MIN          180     7.45                197    8.45                      34      9.30            28    7.30
+
+PM PK 15 MIN          134     3.45                304    5.15                      82      5.45            34    3.30
+
+AM PK HOUR            634     7.00                746    8.00                      97      9.00            98    7.30
+
+PM PK HOUR            479     4.45               1162    5.00                     294      5.00            95    4.30
+
+
+
+NORTHBOUND Approach                                     SOUTHBOUND Approach                                     TOTAL   XING S/L   XING N/L
+
+Hours         Lt     Th       Rt Total                  Hours             Lt  Th           Rt Total              N-S     Ped Sch    Ped   Sch
+7-8            25     587      22   634                 7-8                24 568           30   622             1256      3   0      4     0
+8-9            29     547      16   592                 8-9                33 667           46   746             1338      3   0      7     0
+9-10           20     421      14   455                 9-10               24 621           27   672             1127      2   0      6     0
+3-4            33     405      14   452                 3-4                57 822           18   897             1349      3   0      2     0
+4-5            14     392       7   413                 4-5                77 992           29 1098              1511      2   0      7     0
+5-6            18     433      10   461                 5-6               100 1039          23 1162              1623     10   0      6     0
+
+TOTAL         139 2785         83      3007             TOTAL             315 4709         173     5197          8204     23   0     32    0
+
+
+EASTBOUND Approach                                      WESTBOUND Approach                                      TOTAL   XING W/L   XING E/L
+
+Hours         Lt     Th       Rt     Total              Hours             Lt     Th        Rt Total             E-W      Ped Sch    Ped   Sch
+7-8            24      26       9         59            7-8                12     36        20     68             127      5   0     23     0
+8-9            31      29      26         86            8-9                19     48        28     95             181      7   1     10     0
+9-10           27      35      35         97            9-10               12     45        19     76             173      6   0     10     0
+3-4            30      60      70       160             3-4                24     42        24     90             250     15   0      0     1
+4-5            74      85      71       230             4-5                16     38        21     75             305     13   0      3     0
+5-6            69     105     120       294             5-6                11     36        18     65             359     25   0     15     0
+
+TOTAL         255     340     331        926            TOTAL              94     245      130      469          1395     71   1     61    1
+
+            (Rev Oct 06)
+

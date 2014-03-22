@@ -1,0 +1,61 @@
+                       City Of Los Angeles
+                       Department Of Transportation
+                       MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South            WOODMAN AV
+
+East/West              BRANFORD ST
+
+Day:        MONDAY                        Date:          May 19, 2008          Weather:            SUNNY
+
+Hours:      7:00-10:00AM 4:00-7:00PM
+
+School Day:            YES                District:          EAST VALLEY         I/S CODE 41669
+
+
+                        N/B                           S/B                        E/B                        W/B
+DUAL-
+WHEELED                  144                            59                           0                       64
+BIKES                      8                            16                           0                        0
+BUSES                     23                             5                           0                        9
+
+
+                        N/B TIME                      S/B TIME                   E/B TIME                   W/B TIME
+
+AM PK 15 MIN             309     7.45                  410    7.45                   0    7.00              174    8.00
+
+PM PK 15 MIN            495      5.30                 324     4.30                   0    4.00              146    5.30
+
+AM PK HOUR              1137     7.30                 1447    7.00                   0    7.00              650    7.15
+
+PM PK HOUR              1928     5.00                 1236    4.30                   0    4.00              551    5.00
+
+
+
+NORTHBOUND Approach                                          SOUTHBOUND Approach                                  TOTAL   XING S/L   XING N/L
+
+Hours         Lt        Th       Rt Total                    Hours      Lt      Th        Rt       Total           N-S     Ped Sch    Ped   Sch
+7-8                0     782     292 1074                    7-8        145     1302           0     1447          2521      0   1      2     0
+8-9                0     720     241   961                   8-9         86     1139           0     1225          2186      0   0      0     0
+9-10               0     607     158   765                   9-10        76      940           0     1016          1781      0   0      1     1
+4-5                0    1440     316 1756                    4-5        102     1019           0     1121          2877      0   0      4     0
+5-6                0    1528     400 1928                    5-6        133     1035           0     1168          3096      0   0      0     0
+6-7                0    1391     375 1766                    6-7        176     1004           0     1180          2946      0   0     11     0
+
+TOTAL              0 6468 1782              8250             TOTAL      718 6439               0     7157         15407     0    1     18    1
+
+
+EASTBOUND Approach                                           WESTBOUND Approach                                   TOTAL   XING W/L   XING E/L
+                                          NONE                                           BRANFORD ST
+Hours         Lt        Th       Rt       Total              Hours      Lt      Th        Rt Total                E-W      Ped Sch    Ped   Sch
+7-8                0         0        0         0            7-8        451          0     140  591                 591      0   0      7     4
+8-9                0         0        0         0            8-9        414          0     147  561                 561      0   0      6     0
+9-10               0         0        0         0            9-10       224          0     120  344                 344      0   0      9     0
+4-5                0         0        0         0            4-5        277          0     224  501                 501      0   0     11     3
+5-6                0         0        0         0            5-6        322          0     229  551                 551      0   0      3     0
+6-7                0         0        0         0            6-7        267          0     212  479                 479      0   0      5     1
+
+TOTAL              0         0        0           0          TOTAL      1955         0 1072          3027          3027     0    0     41    8
+
+            (Rev Oct 06)
+

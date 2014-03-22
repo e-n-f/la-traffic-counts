@@ -1,0 +1,546 @@
+                                                    City Traffic Counters, LLC.
+                                                          626-256-4171
+                                                                                                            File Name            : VermontBev
+                                                                                                            Site Code            : 00000000
+                                                                                                            Start Date           : 5/19/2011
+                                                                                                            Page No              :1
+                                                        Groups Printed- 1 - Unshifted
+                     Vermont Ave                    Beverly Blvd                  Vermont Ave                     Beverly Blvd
+                     Southbound                     Westbound                      Northbound                      Eastbound
+                                                                                                                                            Int.
+ Start Time   Left   Thru    Right   Peds    Left   Thru    Right   Peds    Left   Thru    Right   Peds    Left   Thru    Right   Peds
+                                                                                                                                           Total
+    Factor     1.0     1.0     1.0     1.0   1.0      1.0     1.0     1.0    1.0     1.0     1.0     1.0   1.0      1.0     1.0     1.0
+ 07:00 AM      22     360      52      27      0     190      18      42     12     251      18      51      0     131      25      43     1242
+ 07:15 AM      24     361      43      52      0     233      36      69     26     326      29      78      0     177      23      89     1566
+ 07:30 AM      50     326      53      78      0     262      42      92     31     284      39      93      0     218      35      69     1672
+ 07:45 AM      40     374      35     118      0     257      34      88     36     330      47     134      0     214      36      78     1821
+     Total    136    1421     183     275      0     942     130     291    105    1191     133     356      0     740     119     279     6301
+
+ 08:00 AM      40     430      49      23      0     271      24      49     24     271      23      65      0     277      26      39     1611
+ 08:15 AM      50     400      41      47      0     289      32      58     16     289      16      68      0     255      20      37     1618
+ 08:30 AM      31     400      48      21      0     269      29      32     22     270      24      46      0     236      24      41     1493
+ 08:45 AM      31     374      43      36      0     272      38      46     18     314      17      66      0     252      17      37     1561
+     Total    152    1604     181     127      0    1101     123     185     80    1144      80     245      0    1020      87     154     6283
+
+ 09:00 AM      46     363      46      16      0     272      28      24     17     290      19      37      0     198      22      20     1398
+ 09:15 AM      31     337      41      27      0     259      43      50     16     200      15      43      0     204      22      31     1319
+ 09:30 AM      26     352      47      21      0     239      48      28     14     179      11      41      0     176      24      44     1250
+ 09:45 AM      29     272      49      17      0     211      47      36     18     157       5      43      0     193      19      22     1118
+     Total    132    1324     183      81      0     981     166     138     65     826      50     164      0     771      87     117     5085
+
+
+
+ 03:00 PM      32     302      55      33      0     178      27      53     18     303      30      80      0     248      26      37     1422
+ 03:15 PM      39     288      49     170      0     158      39     140     22     308      37     133      0     232      18     111     1744
+ 03:30 PM      25     308      40      74      0     182      56      97     20     307      49     111      0     234      26      53     1582
+ 03:45 PM      38     288      41      44      0     195      38     111     28     302      31      97      0     219      23      32     1487
+     Total    134    1186     185     321      0     713     160     401     88    1220     147     421      0     933      93     233     6235
+
+ 04:00 PM      42     322      38      33      0     182      43      65     28     353      35      36      0     235      18      21     1451
+ 04:15 PM      52     265      44      29      0     206      46      40     30     308      44      56      0     276      13      49     1458
+ 04:30 PM      37     273      41      24      0     203      48      53     21     328      34      45      0     233      11      42     1393
+ 04:45 PM      30     307      30      34      0     225      44      61     19     337      30      52      0     280      17      31     1497
+     Total    161    1167     153     120      0     816     181     219     98    1326     143     189      0    1024      59     143     5799
+
+ 05:00 PM      34     322      39      35      0     219      42      42     26     381      23      72      0     259      13      36     1543
+ 05:15 PM      46     294      29      17      0     258      34      42     22     352      27      43      0     280      20      33     1497
+ 05:30 PM      41     278      30      60      0     242      40      50     26     372      26      81      0     252      21      45     1564
+ 05:45 PM      48     300      37      28      0     260      57      79     27     349      24      48      0     265      23      26     1571
+     Total    169    1194     135     140      0     979     173     213    101    1454     100     244      0    1056      77     140     6175
+
+Grand Total   884    7896    1020    1064      0    5532    933     1447    537    7161     653    1619      0    5544     522    1066    35878
+ Apprch %      8.1    72.7     9.4     9.8   0.0     69.9   11.8     18.3    5.4    71.8     6.5    16.2   0.0     77.7     7.3    14.9
+   Total %     2.5    22.0     2.8     3.0   0.0     15.4    2.6      4.0    1.5    20.0     1.8     4.5   0.0     15.5     1.5     3.0
+                                                          City Traffic Counters, LLC.
+                                                                626-256-4171
+                                                                                                       File Name                         : VermontBev
+                                                                                                       Site Code                         : 00000000
+                                                                                                       Start Date                        : 5/19/2011
+                                                                                                       Page No                           :2
+
+                     Vermont Ave                   Beverly Blvd                 Vermont Ave                 Beverly Blvd
+                     Southbound                    Westbound                     Northbound                  Eastbound
+                   Thr Rig Ped App.              Thr Rig Ped App.             Thr Rig Ped App.            Thr Rig Ped App.                       Int.
+ Start Time Left                         Left                           Left                        Left
+                     u    ht    s Total            u    ht      s Total         u     ht    s Total         u    ht      s Total                Total
+Peak Hour From 07:00 AM to 11:45 AM - Peak 1 of 1
+ Intersectio
+             07:30 AM
+           n
+                   153                          107                           117
+    Volume 180          178 266 2154        0         132 287 1498 107              125 360 1766       0 964 117 223 1304                       6722
+                     0                             9                            4
+                    71.       12.                72.         19.               66.        20.              73.        17.
+    Percent 8.4          8.3              0.0          8.8               6.1         7.1             0.0        9.0
+                     0          3                  0           2                5           4               9           1
+      07:45
+              40 374     35 118     567     0 257      34     88    379  36 330      47 134     547    0 214    36     78    328                1821
+    Volume
+       Peak                                                                                                                                      0.923
+     Factor
+   High Int. 07:45 AM                    07:30 AM                       07:45 AM                    08:00 AM
+    Volume    40 374     35 118     567     0 262      42     92    396  36 330      47 134     547    0 277    26     39    342
+       Peak
+                                  0.950                           0.946                       0.807                        0.953
+     Factor
+
+                                                                        Vermont Ave
+                                                                 Out        In      Total
+                                                                 1306       2154     3460
+
+
+                                                                 178 1530        180   266
+                                                               Right Thru       Left Peds
+                          2668
+
+
+                                            0
+
+
+
+
+                                                                                                       Right Thru
+                          Total
+
+
+
+
+                                        Left
+
+
+
+
+                                                                                                         132 1079
+
+
+                                                                                                                    1269
+                                                                                                                    Out
+
+
+
+                                                                          North
+                                                    964
+
+
+
+
+                                                                                                                    Beverly Blvd
+                         Beverly Blvd
+
+
+
+
+                                        Peds Right Thru
+                              1304
+                               In
+
+
+
+
+                                                                                                                       1498
+                                                                                                                        In
+
+
+
+
+                                                                5/19/2011 7:30:00 AM
+                                               117
+
+
+
+
+                                                                5/19/2011 8:15:00 AM
+                                                                                                       Left Peds
+                                                                                                           0
+                     1364
+
+
+
+
+                                                                1 - Unshifted
+                     Out
+
+
+
+
+                                                                                                                                 Total
+                                                                                                                                 2767
+                                         223
+
+
+
+
+                                                                                                             287
+
+
+
+
+                                                                Left Thru Right Peds
+                                                                 107 1174   125   360
+
+
+                                                                 1647       1766     3413
+                                                                 Out        In      Total
+                                                                        Vermont Ave
+                                                          City Traffic Counters, LLC.
+                                                                626-256-4171
+                                                                                                       File Name                         : VermontBev
+                                                                                                       Site Code                         : 00000000
+                                                                                                       Start Date                        : 5/19/2011
+                                                                                                       Page No                           :3
+                     Vermont Ave                   Beverly Blvd                 Vermont Ave                 Beverly Blvd
+                     Southbound                    Westbound                     Northbound                  Eastbound
+                   Thr Rig Ped App.              Thr Rig Ped App.             Thr Rig Ped App.            Thr Rig Ped App.                       Int.
+ Start Time Left                         Left                           Left                        Left
+                     u    ht    s Total            u    ht      s Total         u     ht    s Total         u    ht      s Total                Total
+Peak Hour From 12:00 PM to 05:45 PM - Peak 1 of 1
+ Intersectio
+             03:15 PM
+           n
+                   120                                                        127
+    Volume 144          168 321 1839        0 717 176 413 1306           98         152 377 1897       0 920    85 217 1222                     6264
+                     6                                                          0
+                    65.       17.                54. 13. 31.                   66.        19.              75.        17.
+    Percent 7.8          9.1              0.0                            5.2         8.0             0.0        7.0
+                     6          5                  9     5     6                9           9               3           8
+      03:15
+              39 288     49 170     546     0 158      39 140       337  22 308      37 133     500    0 232    18 111       361                1744
+    Volume
+       Peak                                                                                                                                      0.898
+     Factor
+   High Int. 03:15 PM                    03:45 PM                       03:15 PM                    03:15 PM
+    Volume    39 288     49 170     546     0 195      38 111       344  22 308      37 133     500    0 232    18 111       361
+       Peak
+                                  0.842                           0.949                       0.949                        0.846
+     Factor
+
+                                                                        Vermont Ave
+                                                                 Out        In      Total
+                                                                 1446       1839     3285
+
+
+                                                                 168 1206        144   321
+                                                               Right Thru       Left Peds
+                          2205
+
+
+                                            0
+
+
+
+
+                                                                                                       Right Thru
+                          Total
+
+
+
+
+                                        Left
+
+
+
+
+                                                                                                         176
+
+
+                                                                                                                    1216
+                                                                                                                    Out
+
+                                                                          North
+                                                    920
+
+
+
+
+                                                                                                                    Beverly Blvd
+                         Beverly Blvd
+
+
+
+
+                                        Peds Right Thru
+
+
+
+
+                                                                                                              717
+                             1222
+                               In
+
+
+
+
+                                                                                                                       1306
+                                                                                                                        In
+
+
+
+
+                                                                5/19/2011 3:15:00 PM
+                                                85
+
+
+
+
+                                                                5/19/2011 4:00:00 PM
+                                                                                                       Left Peds
+                                                                                                           0
+                      983
+
+
+
+
+                                                                1 - Unshifted
+                     Out
+
+
+
+
+                                                                                                                                 Total
+                                                                                                                                 2522
+                                         217
+
+
+
+
+                                                                                                             413
+
+
+
+
+                                                                Left  Thru Right Peds
+                                                                   98 1270   152   377
+
+
+                                                                 1291       1897     3188
+                                                                 Out        In      Total
+                                                                        Vermont Ave
+                       City Traffic Counters, LLC.
+                             626-256-4171
+                                                                          File Name     : VermontBev_Bike
+                                                                          Site Code     : 00000000
+                                                                          Start Date    : 5/19/2011
+                                                                          Page No       :1
+                                Groups Printed- 2 - Bank 1
+               Vermont Ave         Beverly Blvd         Vermont Ave        Beverly Blvd
+               Southbound           Westbound            Northbound         Eastbound
+ Start Time              Thru                 Thru                Thru                Thru         Int. Total
+     Factor               1.0                   1.0                 1.0                1.0
+ 07:00 AM                   0                     2                   1                  2                5
+ 07:15 AM                   5                     5                   2                  3               15
+ 07:30 AM                   3                     7                   9                  4               23
+ 07:45 AM                   2                     3                   1                  0                6
+       Total               10                    17                 13                   9               49
+
+ 08:00 AM                  5                     3                   3                  1                12
+ 08:15 AM                  4                     4                   3                  3                14
+ 08:30 AM                  1                     3                   1                  3                 8
+ 08:45 AM                  0                     3                   7                  5                15
+     Total                10                    13                  14                 12                49
+
+ 09:00 AM                  1                     4                   1                  1                 7
+ 09:15 AM                  0                     3                   5                  2                10
+ 09:30 AM                  1                     2                   2                  2                 7
+ 09:45 AM                  1                     6                   3                  1                11
+     Total                 3                    15                  11                  6                35
+
+
+
+ 03:00 PM                  2                     2                   7                  5                16
+ 03:15 PM                  2                     5                   1                  2                10
+ 03:30 PM                  1                     6                   1                  2                10
+ 03:45 PM                  1                     8                   2                  3                14
+     Total                 6                    21                  11                 12                50
+
+ 04:00 PM                  1                     2                   4                  0                 7
+ 04:15 PM                  2                     6                   5                  6                19
+ 04:30 PM                  2                     4                   5                  4                15
+ 04:45 PM                  3                     7                   1                  4                15
+     Total                 8                    19                  15                 14                56
+
+ 05:00 PM                  2                     7                   3                  2                14
+ 05:15 PM                  2                     6                   2                  4                14
+ 05:30 PM                  3                     9                   6                  3                21
+ 05:45 PM                  1                     3                   2                  3                 9
+     Total                 8                    25                  13                 12                58
+
+Grand Total              45                   110                  77                 65                297
+ Apprch %              100.0                 100.0               100.0              100.0
+   Total %              15.2                  37.0                25.9               21.9
+                                                    City Traffic Counters, LLC.
+                                                          626-256-4171
+                                                                                                  File Name         : VermontBev_Bike
+                                                                                                  Site Code         : 00000000
+                                                                                                  Start Date        : 5/19/2011
+                                                                                                  Page No           :3
+                               Vermont Ave              Beverly Blvd              Vermont Ave              Beverly Blvd
+                               Southbound               Westbound                 Northbound                Eastbound
+             Start Time       Thru     App. Total      Thru      App. Total      Thru     App. Total      Thru      App. Total           Int. Total
+Peak Hour From 12:00 PM to 05:45 PM - Peak 1 of 1
+           Intersection 04:45 PM
+               Volume           10            10         29             29         12            12         13             13                  64
+               Percent       100.0                    100.0                     100.0                    100.0
+        05:30 Volume             3             3          9              9          6             6          3              3                  21
+          Peak Factor                                                                                                                  0.762
+               High Int. 04:45 PM                 05:30 PM                  05:30 PM                 04:45 PM
+               Volume            3             3          9              9          6             6          4              4
+          Peak Factor                      0.833                     0.806                    0.500                     0.813
+
+                                                                    Vermont Ave
+                                                             Out        In      Total
+                                                               12          10      22
+
+
+                                                                             10
+                                                                          Thru
+                              42
+                           Total
+
+
+
+
+                                                                                                                  Out
+                                                                                                                   13
+                                                                          North
+
+
+
+
+                                                                                                                  Beverly Blvd
+                          Beverly Blvd
+
+                                  13
+
+
+                                           13
+
+
+
+
+                                                                                                          Thru
+                                         Thru
+                                In
+
+
+
+
+                                                                                                                      In
+                                                             5/19/2011 4:45:00 PM                           29
+
+
+                                                                                                                        29
+                                                             5/19/2011 5:30:00 PM
+                       29
+
+
+
+
+                                                             2 - Bank 1
+                      Out
+
+
+
+
+                                                                                                                               Total
+                                                                                                                                  42
+
+
+
+
+                                                                          Thru
+                                                                             12
+
+
+                                                               10          12      22
+                                                             Out        In      Total
+                                                                    Vermont Ave
+                                                    City Traffic Counters, LLC.
+                                                          626-256-4171
+                                                                                                  File Name         : VermontBev_Bike
+                                                                                                  Site Code         : 00000000
+                                                                                                  Start Date        : 5/19/2011
+                                                                                                  Page No           :2
+
+                               Vermont Ave              Beverly Blvd              Vermont Ave              Beverly Blvd
+                               Southbound               Westbound                 Northbound                Eastbound
+             Start Time       Thru     App. Total      Thru      App. Total      Thru     App. Total      Thru      App. Total           Int. Total
+Peak Hour From 07:00 AM to 11:45 AM - Peak 1 of 1
+           Intersection 07:15 AM
+               Volume           15            15         18             18         15            15          8              8                  56
+               Percent       100.0                    100.0                     100.0                    100.0
+        07:30 Volume             3             3          7              7          9             9          4              4                  23
+          Peak Factor                                                                                                                  0.609
+               High Int. 07:15 AM                 07:30 AM                  07:30 AM                 07:30 AM
+               Volume            5             5          7              7          9             9          4              4
+          Peak Factor                      0.750                     0.643                    0.417                     0.500
+
+                                                                    Vermont Ave
+                                                             Out        In      Total
+                                                               15          15      30
+
+
+                                                                             15
+                                                                          Thru
+                              26
+                           Total
+
+
+
+
+                                                                                                                        Out
+                                                                                                                  8
+                                                                          North
+
+
+
+
+                                                                                                                  Beverly Blvd
+                          Beverly Blvd
+
+                                   8
+
+
+                                             8
+
+
+
+
+                                                                                                          Thru
+                                         Thru
+                                In
+
+
+
+
+                                                                                                                      In
+                                                             5/19/2011 7:15:00 AM
+                                                                                                            18
+
+
+                                                             5/19/2011 8:00:00 AM                                       18
+                       18
+
+
+
+
+                                                             2 - Bank 1
+                      Out
+
+
+
+
+                                                                                                                               Total
+                                                                                                                                  26
+
+
+
+
+                                                                          Thru
+                                                                             15
+
+
+                                                               15          15      30
+                                                             Out        In      Total
+                                                                    Vermont Ave
+

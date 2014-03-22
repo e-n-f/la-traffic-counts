@@ -1,0 +1,52 @@
+WILTEC                                                                                                                                    Phone: (626) 564-1944    Fax: (626) 564-0969
+INTERSECTION TURNING MOVEMENT COUNT SUMMARY
+
+CLIENT:                            FEHR AND PEERS/ ARUP
+PROJECT:                           DOWNTOWN LOS ANGELES TRAFFIC COUNTS
+DATE:                              THURSDAY MARCH 26, 2009
+PERIODS:                           7:00 AM TO 9:00 AM AND        4:00 PM TO 6:00 PM
+INTERSECTION:          N/S         N. SAN FERNANDO ROAD
+                       E/W         W. AVENUE 26
+CITY:                              LOS ANGELES
+
+15 MIN COUNTS                                             7:00 AM TO 9:00 AM
+                   1          2         3      4      5          6        7       8      9     10     11     12
+PERIOD          SBRT    SBTH         SBLT   WBRT   WBTH     WBLT     NBRT      NBTH   NBLT   EBRT   EBTH   EBLT   TOTAL      AM PEAK HOUR
+700-715            0         205      125     91      0         12      11       43      0      0      0      0     487         730-830                                    448
+715-730            0         299      128     91      0         21        7      36      0      0      0      0     582
+730-745            0         397      125    109      0         40        7      56      0      0      0      0     734                   0       1434   499               0
+745-800            0         389      145    126      0         64      16       62      0      0      0      0     802
+800-815            0         347      116    110      0         24      10       54      0      0      0      0     661                                                    147
+815-830            0         301      113    103      0         19        4      47      0      0      0      0     587
+830-845            0         276      167    104      0         12        5      55      0      0      0      0     619
+845-900            0         208       99     90      0         10        1      31      0      0      0      0     439                       0
+HOUR TOTALS
+                   1          2         3      4      5          6        7       8      9     10     11     12           W. AVENUE 26        0                0    219         37
+TIME            SBRT    SBTH         SBLT   WBRT   WBTH     WBLT     NBRT      NBTH   NBLT   EBRT   EBTH   EBLT   TOTAL
+700-800            0     1290         523    417      0        137      41      197      0      0      0      0    2605                       0
+715-815            0     1432         514    436      0        149      40      208      0      0      0      0    2779                                            N. SAN FERNANDO ROAD
+730-830            0     1434         499    448      0        147      37      219      0      0      0      0    2784
+745-845            0     1313         541    443      0        119      35      218      0      0      0      0    2669
+800-900            0     1132         495    407      0         65      20      187      0      0      0      0    2306
+
+
+15 MIN COUNTS                                             4:00 PM TO 6:00 PM
+                   1          2         3      4      5          6        7       8      9     10     11     12
+PERIOD          SBRT    SBTH         SBLT   WBRT   WBTH     WBLT     NBRT      NBTH   NBLT   EBRT   EBTH   EBLT   TOTAL      PM PEAK HOUR
+400-415            0         82       142    149      0          4        3     145      0      0      0      0     525         500-600                                    785
+415-430            0         63       133    158      0          3        7     165      0      0      0      0     529
+430-445            0         70       122    194      0          6        3     200      0      0      0      0     595                   0       266    456               0
+445-500            0         72       128    182      0          6        4     222      0      0      0      0     614
+500-515            0         73       122    204      0          5        9     274      0      0      0      0     687                                                    21
+515-530            0         61       105    202      0          3        9     286      0      0      0      0     666
+530-545            0         67       113    216      0          3      11      250      0      0      0      0     660
+545-600            0         65       116    163      0         10      10      260      0      0      0      0     624                       0
+HOUR TOTALS
+                   1          2         3      4      5          6        7       8      9     10     11     12           W. AVENUE 26        0                0    1070        39
+TIME            SBRT    SBTH         SBLT   WBRT   WBTH     WBLT     NBRT      NBTH   NBLT   EBRT   EBTH   EBLT   TOTAL
+400-500            0         287      525    683      0         19      17      732      0      0      0      0    2263                       0
+415-515            0         278      505    738      0         20      23      861      0      0      0      0    2425                                            N. SAN FERNANDO ROAD
+430-530            0         276      477    782      0         20      25      982      0      0      0      0    2562
+445-545            0         273      468    804      0         17      33     1032      0      0      0      0    2627
+500-600            0         266      456    785      0         21      39     1070      0      0      0      0    2637
+

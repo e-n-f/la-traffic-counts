@@ -1,0 +1,63 @@
+                        City Of Los Angeles
+                        Department Of Transportation
+                        MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South             ST CLAIR AV
+
+East/West               CALVERT ST
+
+Day:        TUESDAY                           Date:         October 3, 2006                 Weather:              CLEAR
+
+Hours:      7-10AM 3-6PM
+
+School Day:             YES                   District:              EAST VALLEY              I/S CODE 1177065270
+
+
+                         N/B                               S/B                               E/B                               W/B
+DUAL-
+WHEELED                        1                                 1                                 0                              0
+BIKES                          0                                 0                                 0                              0
+BUSES                          0                                 0                                 0                              0
+
+
+                        N/B        TIME                    S/B       TIME                   E/B        TIME                    W/B TIME
+
+AM PK 15 MIN                   3    7.30                         3 7.15                            1    9.30                      5     9.00
+
+PM PK 15 MIN                   6    4.30                         3 4.00                            3    5.00                      5     3.45
+
+AM PK HOUR                    11    7.30                         9 7.00                            1    8.45                      9     8.15
+
+PM PK HOUR                    19    4.30                         9 3.30                            6    4.15                     15     3.30
+
+
+
+
+NORTHBOUND Approach                                                  SOUTHBOUND Approach                                              TOTAL    XING S/L   XING N/L
+
+Hours          Lt        Th         Rt         Total                 Hours         Lt        Th         Rt         Total               N-S     Ped Sch    Ped Sch
+7-8                 0          8          1         9                7-8                0          8          1            9              18      0   0      0   0
+8-9                 1          3          1         5                8-9                0          7          2            9              14      0   0      0   0
+9-10                0          5          1         6                9-10               0          7          1            8              14      0   0      0   0
+3-4                 1          8          2        11                3-4                1          5          0            6              17      0   0      0   0
+4-5                 0         15          2        17                4-5                0          8          1            9              26      0   0      1   0
+5-6                 0         16          3        19                5-6                0          9          0            9              28      0   0      0   0
+
+TOTAL               2         55      10           67                TOTAL              1         44          5       50                117       0   0      1   0
+
+
+EASTBOUND Approach                                                   WESTBOUND Approach                                               TOTAL    XING W/L   XING E/L
+
+Hours          Lt        Th         Rt         Total                 Hours         Lt        Th         Rt         Total               E-W     Ped Sch    Ped Sch
+7-8                 0          0          0            0             7-8                1          0          1        2                   2      0   0      1   0
+8-9                 0          0          0            0             8-9                1          4          0        5                   5      0   0      0   0
+9-10                0          0          1            1             9-10               5          3          0        8                   9      1   0      0   0
+3-4                 0          1          0            1             3-4                3          6          2       11                  12      0   0      1   0
+4-5                 0          2          1            3             4-5                4          4          2       10                  13      0   0      0   0
+5-6                 0          2          3            5             5-6                0          4          1        5                  10      0   0      0   0
+
+TOTAL               0          5          5        10                TOTAL          14            21          6       41                  51      1   0      2   0
+
+
+            (Rev Apr 06)
+

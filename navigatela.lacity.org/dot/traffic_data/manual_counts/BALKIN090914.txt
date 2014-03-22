@@ -1,0 +1,61 @@
+                    City Of Los Angeles
+                    Department Of Transportation
+                    MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South         BALBOA BL
+
+East/West           KINGSBURY ST
+
+Day:             MONDAY                 Date:       September 14, 2009                Weather:          SUNNY
+
+Hours:      7-10AM 3-6PM                                           Chekrs:            THOMPSON
+
+School Day:         YES                 District:          WEST VALLEY                  I/S CODE 38935
+
+
+                     N/B                             S/B                                E/B                     W/B
+DUAL-
+WHEELED               123                            143                                    4                     0
+BIKES                   1                              7                                    0                     0
+BUSES                  19                             20                                    0                     0
+
+
+                     N/B TIME                        S/B TIME                           E/B TIME                W/B TIME
+
+AM PK 15 MIN          263      8.00                  479    8.30                            9    9.15             0    7.00
+
+PM PK 15 MIN         443       3.45                 324     3.45                         40      5.00             0    3.00
+
+AM PK HOUR           1005      7.30                 1810    8.00                         27      9.00             0    7.00
+
+PM PK HOUR           1671      3.45                 1265    3.00                         99      5.00             0    3.00
+
+
+
+NORTHBOUND Approach                                        SOUTHBOUND Approach                                        TOTAL   XING S/L   XING N/L
+
+Hours         Lt  Th           Rt       Total              Hours             Lt        Th        Rt Total              N-S     Ped Sch    Ped   Sch
+7-8            21 830               0      851             7-8                    0    1425       22 1447              2298      0   0      0     0
+8-9            50 907               0      957             8-9                    0    1750       60 1810              2767      1   0      0     0
+9-10           25 742               0      767             9-10                   0    1362       22 1384              2151      0   0      3     0
+3-4            85 1420              0     1505             3-4                    0    1245       20 1265              2770      0   0      0     0
+4-5            69 1584              0     1653             4-5                    0    1157       21 1178              2831      0   0      1     0
+5-6            97 1213              0     1310             5-6                    0    1150       27 1177              2487      0   0      0     0
+
+TOTAL         347 6696              0     7043             TOTAL                  0 8089          172    8261         15304      1   0      4    0
+
+
+EASTBOUND Approach                                         WESTBOUND Approach                                         TOTAL   XING W/L   XING E/L
+             KINGSBURY ST                                                                       NONE
+Hours   Lt    Th   Rt Total                                Hours             Lt        Th        Rt Total             E-W      Ped Sch    Ped   Sch
+7-8        2     0  15     17                              7-8                    0         0      0        0            17      7   1      0     0
+8-9        2     0  15     17                              8-9                    0         0      0        0            17      9   0      0     0
+9-10       2     0  25     27                              9-10                   0         0      0        0            27     11   0      0     0
+3-4        3     0  50     53                              3-4                    0         0      0        0            53      9   0      0     0
+4-5        5     0  45     50                              4-5                    0         0      0        0            50     11   0      0     0
+5-6       11     0  88     99                              5-6                    0         0      0        0            99      8   0      0     0
+
+TOTAL          25          0   238          263            TOTAL                  0         0       0       0           263     55   1      0    0
+
+            (Rev Oct 06)
+

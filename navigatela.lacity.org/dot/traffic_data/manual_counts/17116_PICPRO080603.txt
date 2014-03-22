@@ -1,0 +1,292 @@
+                                                  TRAFFIC COUNT SUMMARY
+                                                                                                                             City of Los Angeles
+STREET:                                                                                                                Department of Transportation
+North/South           PROSSER AVENUE
+
+East/West             PICO BOULEVARD
+
+Day:     AM    TUESDAY                Date:       JUNE 3, 2008                 Weather:         CLEAR
+         PM    TUESDAY                            JUNE 3, 2008
+Hours:         7-9 AM 4-6 PM
+
+School Day:           YES             District:           LOS ANGELES
+
+
+                        N/B                         S/B                          E/B                          W/B
+DUAL-
+WHEELED                 N/A                         N/A                          N/A                          N/A
+BIKES                   N/A                         N/A                          N/A                          N/A
+BUSES                   N/A                         N/A                          N/A                          N/A
+
+
+                        N/B TIME                    S/B TIME                     E/B TIME                     W/B     TIME
+
+AM PK 15 MIN                45 8:45                  37 8:00                     601 8:45                     409      7:45
+
+PM PK 15 MIN                92 4:00                 100 4:00                     399 5:00                     551      5:15
+
+AM PK HOUR              153 8:00                    131 7:45                    2,144 8:00                   1,549     7:30
+
+PM PK HOUR              190 4:00                    267 4:00                    1,551 4:45                   2,095     5:00
+
+
+
+NORTHBOUND Approach                                       SOUTHBOUND Approach                                        TOTAL      XING S/L       XING N/L
+
+Hours           Lt     Th      Rt     Total               Hours         Lt      Th        Rt       Total              N-S       Ped   Sch     Ped     Sch
+7-8              31      33     30         94             7-8             15      27       37           79              173     N/A   N/A     N/A     N/A
+8-9              46      60     47        153             8-9             29      52       46         127               280     N/A   N/A     N/A     N/A
+4-5              47     108     35        190             4-5             59     143       65         267               457     N/A   N/A     N/A     N/A
+5-6              29      58     11         98             5-6             42     132       62         236               334     N/A   N/A     N/A     N/A
+TOTAL           153     259    123        535             TOTAL          145     354      210         709             1,244     N/A   N/A     N/A     N/A
+
+
+EASTBOUND Approach                                        WESTBOUND Approach                                         TOTAL      XING W/L       XING E/L
+
+Hours           Lt     Th      Rt     Total               Hours         Lt       Th       Rt       Total              E-W       Ped   Sch     Ped     Sch
+7-8              27    1,391    20      1,438             7-8             10    1,336      15        1,361            2,799     N/A   N/A     N/A     N/A
+8-9             114    1,994    36      2,144             8-9             25    1,402      21        1,448            3,592     N/A   N/A     N/A     N/A
+4-5              36    1,415    37      1,488             4-5             43    1,743      44        1,830            3,318     N/A   N/A     N/A     N/A
+5-6              43    1,434    34      1,511             5-6             53    2,017      25        2,095            3,606     N/A   N/A     N/A     N/A
+TOTAL           220    6,234   127      6,581             TOTAL          131    6,498     105        6,734           13,315     N/A   N/A     N/A     N/A
+                                                 City Traffic Counters
+                                                     626.256.4171
+                                                                                                          File Name      : PossPico
+                                                                                                          Site Code      : 00000000
+                                                                                                          Start Date     : 6/3/2008
+                                                                                                          Page No        :1
+                                                 Groups Printed- 1 - Unshifted
+                    Prosser Ave                Pico Blvd                     Prosser Ave                  Pico Blvd
+                    Southbound                 Westbound                     Northbound                   Eastbound
+ Start Time    Left      Thru     Right   Left     Thru     Right       Left      Thru     Right   Left       Thru    Right   Int. Total
+     Factor    1.0        1.0       1.0   1.0        1.0      1.0       1.0        1.0       1.0   1.0          1.0     1.0
+ 07:00 AM        4          6         3     1       241         4          8         4         6     5         247        2        531
+ 07:15 AM        1          2         3     4       299         6          6        10         6     8         321        5        671
+ 07:30 AM        6          4       17      2       394         1          6         8         9    10         374        5        836
+ 07:45 AM        4         15       14      3       402         4        11         11         9     4         449        8        934
+       Total    15         27       37     10      1336        15        31         33       30     27        1391      20        2972
+
+ 08:00 AM        9        15        13      7      372          7        11        10        10     12        467        7         940
+ 08:15 AM        4        11         9      7      348          2         8        14        13     60        469       13         958
+ 08:30 AM       10        12        15      5      361          4        12        17        13     31        475        9         964
+ 08:45 AM        6        14         9      6      321          8        15        19        11     11        583        7        1010
+     Total      29        52        46     25     1402         21        46        60        47    114       1994       36        3872
+
+
+
+ 04:00 PM       14        68        18     17      388         21        15        64        13     11        337       12         978
+ 04:15 PM       19        26        14      8      457          6         8        14         6      8        352        9         927
+ 04:30 PM       11        23        17     13      443          8         8        14        11      8        345       10         911
+ 04:45 PM       15        26        16      5      455          9        16        16         5      9        381        6         959
+     Total      59       143        65     43     1743         44        47       108        35     36       1415       37        3775
+
+ 05:00 PM        6        26        19      7      516         10         2        11         4     10        376       13        1000
+ 05:15 PM       11        41        14     20      522          9         8        16         4     11        349        5        1010
+ 05:30 PM       11        30        15     10      483          2        10        11         2     10        372        9         965
+ 05:45 PM       14        35        14     16      496          4         9        20         1     12        337        7         965
+     Total      42       132        62     53     2017         25        29        58        11     43       1434       34        3940
+
+Grand Total    145      354       210     131     6498        105      153       259       123     220       6234      127      14559
+ Apprch %      20.5     49.9      29.6     1.9     96.5        1.6     28.6      48.4      23.0     3.3       94.7      1.9
+   Total %      1.0      2.4       1.4     0.9     44.6        0.7      1.1       1.8       0.8     1.5       42.8      0.9
+                                                             City Traffic Counters
+                                                                 626.256.4171
+                                                                                                                                 File Name           : PossPico
+                                                                                                                                 Site Code           : 00000000
+                                                                                                                                 Start Date          : 6/3/2008
+                                                                                                                                 Page No             :2
+
+                        Prosser Ave                    Pico Blvd                             Prosser Ave                          Pico Blvd
+                        Southbound                     Westbound                             Northbound                           Eastbound
+                                        App.                              App.                              App.                                     App.     Int.
+    Start Time   Left   Thru      Right          Left Thru    Right                  Left    Thru   Right              Left      Thru        Right
+                                        Total                             Total                             Total                                    Total   Total
+Peak Hour From 07:00 AM to 11:45 AM - Peak 1 of 1
+  Intersection 08:00 AM
+      Volume       29    52      46      127      25 1402      21         1448        46      60     47      153       114       1994         36     2144    3872
+      Percent    22.8   40.9   36.2               1.7 96.8     1.5                   30.1    39.2   30.7                5.3       93.0        1.7
+        08:45
+                    6    14       9       29        6  321       8         335         15     19      11      45          11      583           7     601    1010
+      Volume
+  Peak Factor                                                                                                                                                0.958
+      High Int. 08:00 AM                      08:00 AM                              08:45 AM                        08:45 AM
+      Volume        9    15      13       37        7  372       7         386         15    19       11       45      11    583                7      601
+  Peak Factor                          0.858                             0.938                              0.850                                    0.892
+
+                                                                         Prosser Ave
+                                                                 Out          In     Total
+                                                                  195          127     322
+
+
+                                                                         46    52       29
+                                                                      Right Thru     Left
+                               3638
+                               Total
+
+
+
+
+                                                                                                                                 2070
+                                                                                                                                 Out
+                                           114
+
+
+
+
+                                                                                                                    Right Thru
+                                          Left
+
+
+
+
+                                                                            North
+                                                                                                                       21 1402
+
+
+
+
+                                                                                                                                 Pico Blvd
+                          Pico Blvd
+
+                              2144
+
+
+                                             36 1994
+                                          Right Thru
+                               In
+
+
+
+
+                                                                                                                                    1448
+                                                                                                                                     In
+                                                                 6/3/2008 8:00:00 AM
+                                                                 6/3/2008 8:45:00 AM
+                                                                                                                    Left
+                               1494
+
+
+
+
+                                                                  1 - Unshifted
+                               Out
+
+
+
+
+                                                                                                                                 Total
+                                                                                                                      25
+
+
+                                                                                                                                 3518
+
+
+
+
+                                                                      Left  Thru Right
+                                                                         46    60   47
+
+
+                                                                  113          153     266
+                                                                 Out          In     Total
+                                                                         Prosser Ave
+                                                             City Traffic Counters
+                                                                 626.256.4171
+                                                                                                                                 File Name           : PossPico
+                                                                                                                                 Site Code           : 00000000
+                                                                                                                                 Start Date          : 6/3/2008
+                                                                                                                                 Page No             :3
+                        Prosser Ave                    Pico Blvd                             Prosser Ave                          Pico Blvd
+                        Southbound                     Westbound                             Northbound                           Eastbound
+                                        App.                              App.                              App.                                     App.     Int.
+    Start Time   Left   Thru      Right          Left Thru    Right                 Left     Thru   Right              Left      Thru        Right
+                                        Total                             Total                             Total                                    Total   Total
+Peak Hour From 12:00 PM to 05:45 PM - Peak 1 of 1
+  Intersection 05:00 PM
+      Volume       42    132     62      236      53 2017      25         2095       29       58     11       98        43       1434         34     1511    3940
+      Percent    17.8   55.9   26.3               2.5 96.3     1.2                  29.6     59.2   11.2                2.8       94.9        2.3
+        05:15
+                   11     41     14       66      20   522       9         551         8      16       4      28          11      349           5     365    1010
+      Volume
+  Peak Factor                                                                                                                                                0.975
+      High Int. 05:15 PM                      05:15 PM                         05:45 PM                           05:00 PM
+      Volume       11     41     14       66      20   522       9         551     9    20             1       30    10    376                 13      399
+  Peak Factor                          0.894                             0.951                              0.817                                    0.947
+
+                                                                         Prosser Ave
+                                                                 Out          In     Total
+                                                                  126          236     362
+
+
+                                                                         62   132      42
+                                                                      Right Thru    Left
+                               3619
+                               Total
+
+
+
+
+                                                                                                                                 1487
+                                                                                                                                 Out
+                                            43
+
+
+
+
+                                                                                                                    Right Thru
+                                          Left
+
+
+
+
+                                                                            North                                      25 2017
+
+
+
+
+                                                                                                                                 Pico Blvd
+                          Pico Blvd
+
+                              1511
+
+
+                                             34 1434
+                                          Right Thru
+                               In
+
+
+
+
+                                                                                                                                    2095
+                                                                                                                                     In
+                                                                 6/3/2008 5:00:00 PM
+                                                                 6/3/2008 5:45:00 PM
+                                                                                                                    Left
+                               2108
+
+
+
+
+                                                                  1 - Unshifted
+                               Out
+
+
+
+
+                                                                                                                                 Total
+                                                                                                                      53
+
+
+                                                                                                                                 3582
+
+
+
+
+                                                                      Left  Thru Right
+                                                                         29    58   11
+
+
+                                                                  219            98    317
+                                                                 Out          In     Total
+                                                                         Prosser Ave
+

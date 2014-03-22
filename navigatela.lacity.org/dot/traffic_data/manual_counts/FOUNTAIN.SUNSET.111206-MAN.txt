@@ -1,0 +1,536 @@
+                      City Of Los Angeles
+                      Department Of Transportation
+                      MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South           Sunset Boulevard/Hoover Street
+
+East/West             Fountain Avenue
+
+Day:          Tuesday                 Date:         December 6, 2011     Weather:          CLEAR
+
+Hours:        7-10AM 3-6PM
+
+School Day:           YES             District:         LOS ANGELES        I/S CODE                   0
+
+
+                        N/B                       S/B                      E/B                     W/B
+DUAL-                    79                        88                       54                      32
+WHEELED
+BIKES                    40                         5                       35                       16
+BUSES                    44                        53                       12                        8
+
+
+                        N/B TIME                  S/B TIME                 E/B TIME                W/B    TIME
+
+AM PK 15 MIN            223    9.45               258    8.45              190      7.45            278    8.00
+
+PM PK 15 MIN            260    5.45               323    5.15              228      5.15            184    5.45
+
+AM PK HOUR              740    9.00               958    9.00              620      7.15           1070    8.00
+
+PM PK HOUR              983    5.00               701    5.00              857      4.45            701    5.00
+
+
+
+NORTHBOUND Approach                                     SOUTHBOUND Approach                               TOTAL           XING S/L           XING N/L
+
+Hours           Lt      Th     Rt Total                 Hours      Lt     Th        Rt Total               N-S               Ped Sch             Ped   Sch
+7-8              77     467     42   586                7-8         80    581        22   663              1249               24 26               28    58
+8-9             113     546     32   691                8-9        118    814        26   958              1649               19   2              34     4
+9-10             86     617     37   740                9-10       133    645        23   801              1541               12   0              23     2
+3-4             115     654     63   832                3-4        219    817        31 1067               1899               39   4              57    13
+4-5              85     706     53   844                4-5        240    922        27 1189               2033               32   2              38     6
+5-6             117     799     67   983                5-6        223    952        29 1204               2187               28   1              46     1
+
+TOTAL           593 3789       297      4676            TOTAL     1013 4711         158     5882          10558              154     35          226   84
+
+
+EASTBOUND Approach                                      WESTBOUND Approach                                TOTAL           XING W/L           XING E/L
+
+Hours           Lt      Th     Rt Total                 Hours      Lt     Th        Rt Total              E-W                Ped Sch             Ped   Sch
+7-8              36     482     72   590                7-8         92    501       284   877              1467               24 11               29    15
+8-9              19     349     75   443                8-9        104    631       335 1070               1513               18   1              11     2
+9-10             24     317     78   419                9-10        90    534       246   870              1289               17   0              15     0
+3-4              19     465    110   594                3-4         71    375       195   641              1235               68 10               54    14
+4-5              13     659    146   818                4-5         84    384       188   656              1474               27   5              39     0
+5-6              25     688    130   843                5-6         79    427       195   701              1544               41   0              24     3
+
+TOTAL           136 2960       611      3707                       520 2852 1443            4815           8522              195     27          172   34
+
+              (Rev Oct 06)
+
+
+                                                                                                                  City of Los Angeles
+                                                                                                                  Department of Transportation
+NB SB       EB     WB            SOUTHWESTBOUND Approach
+Veer Hard Veer Hard                      Hard Veer Veer    Hard
+ Rt   Lft    Lft    Rt Total     Hours     Lt    Lt  Rt     Rt Total
+  27      0      5    0     32   7-8          11 101    35      2 149
+  33      2      9    2     46   8-9           2  77    32      9 120
+    8     2      2    0     12   9-10          4  39    17      6  66
+  19      4      7    0     30   3-4           6  28     7      4  45
+  26      2      6    4     38   4-5           5  38    12      5  60
+  29      3      6    3     41   5-6           6  40    18      3  67
+
+ 142    13    35     9    199    TOTAL        34   323   121   29   507
+                                                                                                                                Counts Unlimited Inc.
+                                                                                                                                   PO Box 1178
+                                                                                                                                 Corona, CA 92878
+                                                                                                                                  (951) 268-6268
+City of Los Angeles                                                                                                                                                                                                                                           File Name              : LOSSUFOHOAM
+N/S: Sunset Boulevard/Hoover Street                                                                                                                                                                                                                           Site Code              : 00000001
+E/W: Fountain Avenue                                                                                                                                                                                                                                          Start Date             : 12/6/2011
+Weather: Sunny                                                                                                                                                                                                                                                Page No                :1
+
+
+                                                                                                                  Groups Printed- Total Volume
+                       Sunset Boulevard                               Fountain Avenue                                 Sunset Boulevard                                                          Fountain Avenue                                                   Hoover Street
+                         Southbound                                     Westbound                                        Northbound                                                                Eastbound                                                     Southwestbound
+                Hard                                 App.                                  Hard           App.                                 Bear                        App.                 Bear                                            App.     Hard       Bear      Bear    Hard      App.
+ Start Time               Left    Thru    Right                Left     Thru     Right                                   Left        Thru                  Right                      Left                    Thru     Right     Peds                                                                   Int. Total
+                 Left                               Total                                  Right         Total                                 Right                       Total                    Left                                       Total      Left       Left    Right    Right     Total
+
+ 07:00 AM         0        12     118      8       138         15       109      52          0          176              17          95         0              11      123             5             0        65       14         13         97          0         14         6         0      20        554
+ 07:15 AM         0        11     128      2       141         21       111      65          0          197              21          97         4               8      130            14             1       113       14         17        159          1         20         8         0      29        656
+ 07:30 AM         0        25     169      6       200         26       150      77          0          253              15          135       10               9      169            10             2       160       20         12        204          0         42         7         2      51        877
+ 07:45 AM         0        32     166      6       204         30       131      90          0          251              24          140       13              14      191             7             2       144       24          8        185         10         25        14         0      49        880
+     Total       0        80      581     22       683         92       501      284         0          877              77          467       27              42      613            36             5       482       72         50        645         11        101        35         2     149       2967
+
+ 08:00 AM         1        29     193      9       232         22       166      90          0 278                       30          154        9               7      200             7             0        87       20          3        117            0       20         9         2      31        858
+ 08:15 AM         0        38     198      5       241         30       154      70          0 254                       28          124       10               6      168             6             1        78       19          9        113            2       22         8         4      36        812
+ 08:30 AM         0        22     200      6       228         23       152      86          0 261                       27          118        8              11      164             4             2        95       18          4        123            0       12         8         1      21        797
+ 08:45 AM         1        29     223      6       259         29       159      89          2 279                       28          150        6               8      192             2             6        89       18          7        122            0       23         7         2      32        884
+     Total       2        118     814     26       960         104      631      335         2 1072                      113         546       33              32      724            19             9       349       75         23        475            2       77        32         9     120       3351
+
+ 09:00 AM         1        37     170      5       213         24       166      68          0          258              25          141         3             13      182             6             0        69       18          1         94            1       12         7         1      21        768
+ 09:15 AM         1        33     161      7       202         28       136      72          0          236              20          142         2              9      173             6             0        89       24          4        123            1       13         6         2      22        756
+ 09:30 AM         0        27     161      9       197         22       129      61          0          212              19          144         0              4      167             5             0        89       19          1        114            0        6         3         2      11        701
+ 09:45 AM         0        36     153      2       191         16       103      45          0          164              22          190         3             11      226             7             2        70       17          9        105            2        8         1         1      12        698
+     Total       2        133     645     23       803         90       534      246         0          870              86          617         8             37      748            24             2       317       78         15        436            4       39        17         6      66       2923
+
+ Grand Total     4        331     2040    71       2446        286      1666     865         2 2819                      276         1630      68          111         2085           79        16           1148      225        88        1556        17        217        84       17      335       9241
+ Apprch %       0.2       13.5    83.4    2.9                  10.1     59.1     30.7      0.1                           13.2        78.2      3.3         5.3                        5.1        1           73.8      14.5      5.7                    5.1        64.8     25.1     5.1
+ Total %         0        3.6     22.1    0.8      26.5        3.1      18       9.4         0          30.5               3         17.6      0.7         1.2         22.6           0.9      0.2           12.4      2.4             1    16.8        0.2        2.3      0.9      0.2       3.6
+
+
+
+
+                         Sunset Boulevard                               Fountain Avenue                                              Sunset Boulevard                                                Fountain Avenue                                              Hoover Street
+                           Southbound                                     Westbound                                                     Northbound                                                      Eastbound                                                Southwestbound
+                 Hard                                  App.                                      Hard            App.                                   Bear                        App.                    Bear                             App.      Hard        Bear      Bear    Hard       App.
+ Start Time               Left     Thru    Right                Left      Thru     Right                                    Left        Thru                     Right                       Left                    Thru      Right                                                                    Int. Total
+                  Left                                 Total                                   Right             Total                                 Right                       Total                    Left                             Total      Left       Left     Right    Right      Total
+
+Peak Hour Analysis From 07:00 AM to 09:45 AM - Peak 1 of 1
+Peak Hour for Entire Intersection Begins at 07:30 AM
+ 07:30 AM     0 25 169          6   200    26 150    77 0   253                                                                 15      135             10            9            169       10              2       160        20         192           0        42          7        2       51        865
+ 07:45 AM     0 32 166          6   204   30 131 90     0 251                                                                   24      140            13           14        191              7             2 144              24         177         10         25        14         0       49        872
+ 08:00 AM     1 29 193         9 232 22 166          90 0  278                                                                  30      154              9            7        200             7             0 87              20          114           0        20          9        2       31        855
+ 08:15 AM     0 38 198          5  241 30 154        70 0   254                                                                 28      124             10            6            168         6              1       78        19          104          2         22         8        4       36        803
+ Total Volume 1 124 726 26          877 108 601 327     0 1036                                                                  97      553             42           36            728        30              5      469        83          587         12        109        38         8      167      3395
+ % App. Total   0.1        14.1    82.8                          10.4               31.6                                    13.3                   5.8           4.9                         5.1           0.9       79.9      14.1                    7.2        65.3      22.8     4.8
+      PHF       .250       .816    .917    .722     .910         .900     .905      .908      .000        .932              .808        .898           .808         .643     .910            .750          .625      .733      .865        .764        .300       .649      .679     .500     .819      .973
+                                                                                                                    Counts Unlimited Inc.
+                                                                                                                       PO Box 1178
+                                                                                                                     Corona, CA 92878
+                                                                                                                      (951) 268-6268
+City of Los Angeles                                                                                                                                                                                                    File Name                         : LOSSUFOHOAM
+N/S: Sunset Boulevard/Hoover Street                                                                                                                                                                                    Site Code                         : 00000001
+E/W: Fountain Avenue                                                                                                                                                                                                   Start Date                        : 12/6/2011
+Weather: Sunny                                                                                                                                                                                                         Page No                           :2
+
+                                                                                                                         Sunset Boulevard                                                                  Hoover Street
+                                                                                                                      Out       In      Total
+
+
+
+
+                                                                                                                                                                                          O 48
+                                                                                                                       918       877     1795
+
+
+
+
+                                                                                                                                                                                           ut
+
+                                                                                                                                                                               In 67
+                                                                                                                                                                               H igh
+                                                                                                                                                                                8
+                                                                                                                     26  726                  124      1
+
+
+
+
+                                                                                                                                                                                 ar t
+                                                                                                                                                                                  R
+
+
+
+
+                                                                                                                                                                                  1
+                                                                                                                                                                                   d
+                                                                                                                  Right Thru                 Left Hard
+
+
+
+
+                                                                                                                                                                                     38 r
+                                                                                                                                                                                     Be igh
+                                                                                                                                                  Left
+
+
+
+
+                                                                                                                                                                                      To 215
+                                                                                                                                                                                       R
+                                                                                                                                                                                       a t
+
+
+
+
+                                                                                                                                                                                        ta
+                                                                                                                                                                                          l
+                                                                                                                                                                                            10 r
+                                                                                                                                                                                             Be eft
+                                                                                                                                                                                              9
+                                                                                                                                                                                                a
+                                                                                                                                                                                                L
+
+
+
+                                                                                                                                                                                                    12 d
+                                                                                                                                                                                                    H eft
+                                                                                                                                                                                                      ar
+                                                                                                                                                                                                       L
+                                                                                                                  Peak Hour Data
+                                                       1349
+
+
+                                                                   30
+
+
+
+
+                                                                                                                                                                                              Right
+                                                                                                                                                                                              Hard Right Thru
+                                                       Total
+
+
+
+
+                                                                 Left
+
+
+
+
+                                                                                                                                                                                                                           Out
+                                                                                                                                                                                                                            641
+                                                                                                                                                                                                  0
+
+
+
+
+                                                                                                                                                                                                                              Fountain Avenue
+                                       Fountain Avenue
+
+
+
+
+                                                                                                                                     North
+                                                                                 5
+                                                                 Right Thru Bear
+                                                                            Left
+
+
+
+
+                                                                                                                                                                                                     327
+                                                587
+                                               In
+
+
+
+
+                                                                                                                                                                                                                                    1036
+                                                                                                                                                                                                                                     In
+                                                                                                                  Peak Hour Begins at 07:30 AM
+                                                                        469
+
+
+
+
+                                                                                                                                                                                                          601
+                                                                                                                  Total Volume
+                                      762
+                                     Out
+
+
+
+
+                                                                                                                                                                                                                                            Total
+                                                                                                                                                                                                                                             1677
+                                                                    83
+
+
+
+
+                                                                                                                                                                                                   Left
+                                                                                                                                                                                                    108
+                                                                                                                             Bear
+                                                                                                                   Left Thru Right Right
+                                                                                                                     97  553    42    36
+
+
+                                                                                                                      1026       728     1754
+                                                                                                                      Out       In      Total
+                                                                                                                         Sunset Boulevard
+
+Peak Hour Analysis From 07:00 AM to 09:45 AM - Peak 1 of 1
+Peak Hour for Each Approach Begins at:
+                08:00 AM                                                   08:00 AM                                09:00 AM                                  07:15 AM                                           07:30 AM
+
+      +0
+                   1       29     193                 9        232          22        166    90       0    278     25         141       3      13     182    14           1 113         14      142                0           42                    7     2     51
+    mins.
+     +15
+                   0       38     198                  5        241         30        154     70      0     254     20        142       2        9     173    10          2 160         20    192               10             25                   14     0     49
+    mins.
+     +30
+                   0       22     200                  6        228          23       152     86      0     261     19        144       0        4     167      7         2     144    24     177                  0           20                    9     2     31
+    mins.
+     +45
+                   1       29     223                  6       259          29        159     89      2    279      22        190       3       11    226       7         0      87    20     114                  2           22                    8     4     36
+    mins.
+ Total Volume      2 118          814              26           960        104        631    335      2    1072     86        617       8       37     748    38          5     504     78      625              12          109                    38     8     167
+% App. Total    0.2        12.3   84.8         2.7                         9.7        58.9   31.2   0.2            11.5       82.5    1.1      4.9           6.1        0.8     80.6   12.5                     7.2           65.3              22.8     4.8
+      PHF       .500       .776   .913          .722           .927        .867       .950   .931   .250   .961    .860       .812    .667     .712   .827   .679       .625    .788   .813   .814              .300          .649              .679     .500   .819
+                                                                                                   Counts Unlimited Inc.
+                                                                                                      PO Box 1178
+                                                                                                    Corona, CA 92878
+                                                                                                     (951) 268-6268
+City of Los Angeles                                                                                                                                                                         File Name         : LOSSUFOHOPM
+N/S: Sunset Boulevard/Hoover Street                                                                                                                                                         Site Code         : 00000001
+E/W: Fountain Avenue                                                                                                                                                                        Start Date        : 12/6/2011
+Weather: Sunny                                                                                                                                                                              Page No           :1
+
+
+                                                                                            Groups Printed- Total Volume
+                        Sunset Boulevard                         Fountain Avenue                  Sunset Boulevard                                 Fountain Avenue                            Hoover Street
+                          Southbound                               Westbound                          Northbound                                      Eastbound                              Southwestbound
+                Hard                              App.                           Hard      App.                    Bear             App.             Bear                    App.    Hard      Bear    Bear   Hard      App.
+ Start Time              Left    Thru   Right             Left    Thru   Right                     Left    Thru           Right             Left            Thru   Right                                                        Int. Total
+                 Left                             Total                          Right     Total                  Right             Total            Left                    Total    Left     Left   Right   Right     Total
+
+ 03:00 PM         0       40     199      7      246       19      99     49        0     167       30     178      9      10      227        4        0    116     26      146        1        6        0       1       8       794
+ 03:15 PM         1       59     196      6      262       21      80     49        0     150       25     164      2      17      208        5        1    111     32      149        0       12        4       1      17       786
+ 03:30 PM         2       67     224      7      300       13     107     49        0     169       22     165      4      20      211        3        2    117     23      145        3        5        2       1      11       836
+ 03:45 PM         1       53     198     11      263       18      89     48        0     155       38     147      4      16      205        7        4    121     29      161        2        5        1       1       9       793
+      Total       4      219     817     31     1071       71     375    195        0     641      115     654     19      63      851       19        7    465    110      601        6       28        7       4      45      3209
+
+ 04:00 PM         0       59     232     10      301       16     101     52        0     169       21     163      2      18      204        2        1    144     35      182        0       14       2        0      16       872
+ 04:15 PM         1       60     232      7      300       27      86     52        0     165       21     180      6      10      217        7        4    159     41      211        4        9       2        2      17       910
+ 04:30 PM         0       63     219      6      288       23      79     45        0     147       25     169     13      11      218        1        1    157     45      204        1        6       2        3      12       869
+ 04:45 PM         1       58     239      4      302       18     118     39        4     179       18     194      5      14      231        3        0    199     25      227        0        9       6        0      15       954
+      Total       2      240     922     27     1191       84     384    188        4     660       85     706     26      53      870       13        6    659    146      824        5       38      12        5      60      3605
+
+ 05:00 PM         0       59     228      7      294       27     106     46        0     179       37     177      6      18      238        5        1    163     32      201        1       14       6        1      22       934
+ 05:15 PM         2       67     252      4      325       20     103     55        1     179       34     208      5      13      260        8        1    187     33      229        3        6       4        1      14      1007
+ 05:30 PM         0       50     215      8      273       13     105     42        1     161       24     201     14      11      250        7        3    160     35      205        1       10       6        1      18       907
+ 05:45 PM         1       47     257     10      315       19     113     52        1     185       22     213      4      25      264        5        1    178     30      214        1       10       2        0      13       991
+      Total       3      223     952     29     1207       79     427    195        3     704      117     799     29      67     1012       25        6    688    130      849        6       40      18        3      67      3839
+
+ Grand Total             682     2691           3469      234     1186   578        7    2005      317     2159           183     2733       57      19     1812   386     2274      17       106      37      12      172      10653
+ Apprch %                 19.7   77.6                     11.7    59.2   28.8                      11.6                                                     79.7                              61.6    21.5
+                                 25.3                             11.1                                     20.3
+
+
+
+
+                        Sunset Boulevard                         Fountain Avenue                          Sunset Boulevard                         Fountain Avenue                            Hoover Street
+                          Southbound                               Westbound                                 Northbound                               Eastbound                              Southwestbound
+                Hard                              App.                           Hard      App.                    Bear             App.             Bear                    App.    Hard      Bear    Bear   Hard      App.
+ Start Time              Left    Thru   Right             Left    Thru   Right                     Left    Thru           Right             Left            Thru   Right                                                        Int. Total
+                 Left                             Total                          Right     Total                  Right             Total            Left                    Total    Left     Left   Right   Right     Total
+
+Peak Hour Analysis From 03:00 PM to 05:45 PM - Peak 1 of 1
+Peak Hour for Entire Intersection Begins at 05:00 PM
+ 05:00 PM    0 59 228           7   294   27 106     46 0  179                                     37      177       6     18      238        5        1    163     32      201        1      14        6       1      22        934
+ 05:15 PM    2 67 252           4  325 20 103 55        1 179                                      34      208       5     13      260        8       1 187         33     229         3        6       4       1      14       1007
+ 05:30 PM                        215       8     273       13     105     42        1     161       24     201    14                                  3     160     35
+ 05:45 PM         1       47     257     10     315       19      113     52        1    185       22      213      4      25     264         5       1 178         30      214        1       10       2        0      13        991
+ Total Volume            223     952     29     1207       79     427    195        3     704      117     799     29      67     1012       25        6    688    130      849        6       40      18        3      67      3839
+ % App. Total   0.2       18.5   78.9   2.4               11.2    60.7   27.7    0.4               11.6           2.9     6.6               2.9     0.7            15.3                       59.7    26.9    4.5
+      PHF       .375      .832   .926   .725    .928      .731    .945   .886    .750    .951      .791    .938   .518    .670    .958      .781    .500    .920   .929    .927      .500     .714    .750    .750    .761      .953
+                                                                                                                     Counts Unlimited Inc.
+                                                                                                                        PO Box 1178
+                                                                                                                      Corona, CA 92878
+                                                                                                                       (951) 268-6268
+City of Los Angeles                                                                                                                                                                                                     File Name                        : LOSSUFOHOPM
+N/S: Sunset Boulevard/Hoover Street                                                                                                                                                                                     Site Code                        : 00000001
+E/W: Fountain Avenue                                                                                                                                                                                                    Start Date                       : 12/6/2011
+Weather: Sunny                                                                                                                                                                                                          Page No                          :2
+
+                                                                                                                         Sunset Boulevard                                                                  Hoover Street
+                                                                                                                      Out       In      Total
+
+
+
+
+                                                                                                                                                                                          O 41
+                                                                                                                      1022     1207      2229
+
+
+
+
+                                                                                                                                                                                           ut
+
+                                                                                                                                                                               In 67
+                                                                                                                                                                               H igh
+                                                                                                                                                                                3
+                                                                                                                     29  952                  223      3
+
+
+
+
+                                                                                                                                                                                 ar t
+                                                                                                                                                                                  R
+                                                                                                                                                                                   d
+                                                                                                                  Right Thru                 Left Hard
+
+
+
+
+                                                                                                                                                                                     18 r
+                                                                                                                                                                                     Be igh
+                                                                                                                                                  Left
+
+
+
+
+                                                                                                                                                                                      To 108
+                                                                                                                                                                                       R
+                                                                                                                                                                                       a t
+
+
+
+
+                                                                                                                                                                                        ta
+                                                                                                                                                                                          l
+                                                                                                                                                                                            40
+                                                                                                                                                                                            Be eft
+                                                                                                                                                                                               ar
+                                                                                                                                                                                               L
+
+
+                                                                                                                                                                                                   H eft
+                                                                                                                                                                                                   6
+                                                                                                                                                                                                    ar
+                                                                                                                                                                                                     L
+                                                                                                                                                                                                       d
+                                                                                                                  Peak Hour Data
+                                                       1440
+
+
+                                                                   25
+
+
+
+
+                                                                                                                                                                                              Right
+                                                                                                                                                                                              Hard Right Thru
+                                                       Total
+
+
+
+
+                                                                 Left
+
+
+
+
+                                                                                                                                                                                                                           Out
+                                                                                                                                                                                                                            984
+                                                                                                                                                                                                  3
+
+
+
+
+                                                                                                                                                                                                                              Fountain Avenue
+                                       Fountain Avenue
+
+
+
+
+                                                                                                                                     North
+                                                                                 6
+                                                                 Right Thru Bear
+                                                                            Left
+
+
+
+
+                                                                                                                                                                                                     195
+                                                849
+                                               In
+
+
+
+
+                                                                                                                                                                                                                                     In
+                                                                                                                  Peak Hour Begins at 05:00 PM
+
+
+
+
+                                                                                                                                                                                                                                     704
+                                                                        688
+
+
+
+
+                                                                                                                                                                                                          427
+                                                                                                                  Total Volume
+                                      591
+                                     Out
+
+
+
+
+                                                                                                                                                                                                                                            Total
+                                                                                                                                                                                                                                             1688
+                                                                   130
+
+
+
+
+                                                                                                                                                                                                   Left
+                                                                                                                                                                                                     79
+                                                                                                                             Bear
+                                                                                                                   Left Thru Right Right
+                                                                                                                    117  799    29    67
+
+
+                                                                                                                      1201     1012      2213
+                                                                                                                      Out       In      Total
+                                                                                                                         Sunset Boulevard
+
+Peak Hour Analysis From 03:00 PM to 05:45 PM - Peak 1 of 1
+Peak Hour for Each Approach Begins at:
+                04:30 PM                                                   05:00 PM                                05:00 PM                                  04:45 PM                                           04:45 PM
+
+      +0
+                   0       63     219                  6        288         27        106     46      0     179     37        177       6       18     238       3        0     199     25      227                 0               9               6      0     15
+    mins.
+     +15
+                   1       58     239                  4        302          20       103    55       1    179      34        208       5       13     260       5        1     163     32      201                 1          14                   6      1     22
+    mins.
+     +30
+                   0       59     228                 7        294          13        105     42      1     161      24       201     14       11     250       8         1 187         33    229                  3                6               4      1     14
+    mins.
+     +45
+                   2       67     252                  4       325          19        113     52      1    185      22        213       4      25     264       7         3 160        35     205                  1           10                   6      1     18
+    mins.
+ Total Volume      3 247          938              21          1209          79       427    195      3     704    117        799      29       67    1012    23          5     709    125      862                 5            39                 22     3      69
+% App. Total    0.2        20.4   77.6         1.7                         11.2       60.7   27.7   0.4            11.6               2.9      6.6           2.7        0.6     82.3   14.5                     7.2           56.5              31.9     4.3
+      PHF       .375       .922   .931          .750           .930        .731       .945   .886   .750   .951    .791       .938    .518     .670   .958   .719       .417    .891   .893   .941              .417          .696              .917     .750   .784
+

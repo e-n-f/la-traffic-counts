@@ -1,0 +1,61 @@
+                    City Of Los Angeles
+                    Department Of Transportation
+                    MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South         THE GROVE DR
+
+East/West           CARUSO PL
+
+Day:            TUESDAY                 Date:        October 7, 2008                 Weather:          SUNNY
+
+Hours:      11-2PM 3-6PM                                          Chekrs:            LEE
+
+School Day:         YES                 District:         HOLLYWOOD                    I/S CODE 54174
+
+
+                     N/B                            S/B                                E/B                     W/B
+DUAL-
+WHEELED                29                            47                                    0                     0
+BIKES                   6                            11                                    2                     0
+BUSES                   0                             0                                    0                     0
+
+
+                     N/B TIME                       S/B TIME                           E/B TIME                W/B TIME
+
+AM PK 15 MIN         109       1.00                 114    0.45                         69      1.45             0    11.00
+
+PM PK 15 MIN         100       5.45                 136    5.15                         79      5.30             0     3.00
+
+AM PK HOUR           368       0.45                 421    0.45                        225      1.00             0    11.00
+
+PM PK HOUR           373       5.00                 470    3.00                        272      3.30             0     3.00
+
+
+
+NORTHBOUND Approach                                       SOUTHBOUND Approach                                        TOTAL    XING S/L   XING N/L
+
+Hours         Lt     Th        Rt       Total             Hours             Lt        Th        Rt Total              N-S      Ped Sch    Ped   Sch
+11-12         127     143           0      270            11-12                  0     243       99   342              612       0   0      1     0
+12-1          123     182           0      305            12-1                   0     282      115   397              702       0   0      1     0
+1-2           154     209           0      363            1-2                    0     271      144   415              778       0   0      1     0
+3-4            94     224           0      318            3-4                    0     385       85   470              788       0   0      3     0
+4-5           102     227           0      329            4-5                    0     324      104   428              757       0   0      1     0
+5-6           122     251           0      373            5-6                    0     373       75   448              821       0   0      0     0
+
+TOTAL         722 1236              0     1958            TOTAL                  0 1878          622    2500          4458       0   0      7    0
+
+
+EASTBOUND Approach                                        WESTBOUND Approach                                         TOTAL    XING W/L   XING E/L
+                   CARUSO PL                                                                   NONE
+Hours   Lt    Th    Rt Total                              Hours             Lt        Th        Rt Total             E-W       Ped Sch    Ped   Sch
+11-12     25     0   44     69                            11-12                  0         0      0        0            69     102   0      0     0
+12-1      47     0   79   126                             12-1                   0         0      0        0           126     129   0      0     0
+1-2      107     0 118    225                             1-2                    0         0      0        0           225     198   0      0     0
+3-4      121     0 141    262                             3-4                    0         0      0        0           262     119   0      0     0
+4-5      120     0 126    246                             4-5                    0         0      0        0           246     102   0      0     0
+5-6      123     0 140    263                             5-6                    0         0      0        0           263     103   0      0     0
+
+TOTAL         543          0   648        1191            TOTAL                  0         0       0       0          1191     753   0      0    0
+
+            (Rev Oct 06)
+

@@ -1,0 +1,61 @@
+                       City Of Los Angeles
+                       Department Of Transportation
+                       MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South            CENTINELA AV
+
+East/West              CHARNOCK RD
+
+Day:          WEDNESDAY                 Date:         January 27, 2010             Weather:            SUNNY
+
+Hours:      7-10AM 3-6PM                                           Chekrs:         YOUNG
+
+School Day:            YES              District:          WESTERN                   I/S CODE 12189
+
+
+                        N/B                         S/B                              E/B                        W/B
+DUAL-
+WHEELED                  112                         121                               0                          4
+BIKES                      0                          11                               0                         12
+BUSES                     27                          33                               0                          0
+
+
+                        N/B TIME                     S/B TIME                        E/B TIME                   W/B TIME
+
+AM PK 15 MIN             482     8.30                264    8.30                       0      7.00               29    8.00
+
+PM PK 15 MIN            329      5.45               536     5.30                       0      3.00               23    3.45
+
+AM PK HOUR              1818     7.45                996    8.15                       0      7.00               95    7.15
+
+PM PK HOUR              1201     5.00               2049    5.00                       0      3.00               81    3.30
+
+
+
+NORTHBOUND Approach                                        SOUTHBOUND Approach                                        TOTAL   XING S/L   XING N/L
+
+Hours         Lt        Th       Rt Total                  Hours             Lt  Th           Rt       Total           N-S     Ped Sch    Ped   Sch
+7-8                0    1608      28 1636                  7-8                52 524               0      576          2212      0   0      3     0
+8-9                0    1736      33 1769                  8-9                67 919               0      986          2755      0   0      5     0
+9-10               0    1568      27 1595                  9-10               46 882               0      928          2523      0   0      6     0
+3-4                0    1102      41 1143                  3-4                93 1443              0     1536          2679      0   0     16     0
+4-5                0     975      32 1007                  4-5               100 1604              0     1704          2711      1   0     16     0
+5-6                0    1146      55 1201                  5-6               130 1919              0     2049          3250      0   0     11     0
+
+TOTAL              0 8135        216      8351             TOTAL             488 7291              0     7779         16130     1    0     57    0
+
+
+EASTBOUND Approach                                         WESTBOUND Approach                                         TOTAL   XING W/L   XING E/L
+                   NONE                                                 CHARNOCK RD
+Hours   Lt    Th    Rt Total                               Hours   Lt    Th   Rt Total                                E-W      Ped Sch    Ped   Sch
+7-8        0     0    0                         0          7-8       14     0  59     73                                 73      0   0      8     0
+8-9        0     0    0                         0          8-9       20     0  66     86                                 86      0   0      8     0
+9-10       0     0    0                         0          9-10      21     0  52     73                                 73      0   0      5     0
+3-4        0     0    0                         0          3-4       15     0  53     68                                 68      0   0      5     0
+4-5        0     0    0                         0          4-5       18     0  56     74                                 74      0   0     11     0
+5-6        0     0    0                         0          5-6       17     0  51     68                                 68      0   0      5     0
+
+TOTAL              0         0     0            0          TOTAL             105       0      337         442           442     0    0     42    0
+
+            (Rev Oct 06)
+

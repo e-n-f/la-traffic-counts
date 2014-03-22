@@ -1,0 +1,184 @@
+                                                    TRAFFIC COUNT SUMMARY
+                                                                                                                                 City of Los Angeles
+STREET:                                                                                                                     Department of Transportation
+North/South                OVERLAND AVENUE                                                                               Count by: Traffic Solution
+
+East/West                  OLYMPIC BOULEVARD
+
+Day:     AM    WEDNESDAY                   Date: November 17, 2010                 Weather:          CLEAR
+         PM    WEDNESDAY                         November 17, 2010
+Hours:         7-10 AM 3-6 PM
+
+School Day:                YES             District:         WESTERN
+
+
+                             N/B                       S/B                           E/B                          W/B
+DUAL-
+WHEELED                      N/A                       N/A                           N/A                          N/A
+BIKES                        N/A                       N/A                           N/A                          N/A
+BUSES                        N/A                       N/A                           N/A                          N/A
+
+
+                             N/B TIME                  S/B TIME                      E/B TIME                     W/B     TIME
+
+AM PK 15 MIN                 153    9:15                79 8:45                      634      8:45                621      8:15
+
+PM PK 15 MIN                 194    3:00               176 5:00                      525      3:45                775      5:15
+
+AM PK HOUR                   545    9:00               282 8:30                     2,445     8:30               2,425     8:00
+
+PM PK HOUR                   718    3:00               580 4:45                     1,953     4:15               2,911     5:00
+
+
+
+NORTHBOUND Approach                                          SOUTHBOUND Approach                                         TOTAL       XING S/L      XING N/L
+
+Hours            Lt         Th      Rt     Total             Hours       Lt         Th        Rt        Total             N-S        Ped   Sch     Ped     Sch
+7-8                89        241    134       464            7-8              40     157       15          212              676      N/A   N/A     N/A     N/A
+8-9               100        237    153       490            8-9              40     203       21          264              754      N/A   N/A     N/A     N/A
+9 - 10            109        229    207       545            9 - 10           42     177       16          235              780      N/A   N/A     N/A     N/A
+4-5               172        356    190       718            3-4              46     312       21          379            1,097      N/A   N/A     N/A     N/A
+5-6               119        370    142       631            4-5              48     384       14          446            1,077      N/A   N/A     N/A     N/A
+6-7               138        379    145       662            5-6              32     520       17          569            1,231      N/A   N/A     N/A     N/A
+
+TOTAL             727 1,812         971     3,510            TOTAL       248 1,753            104        2,105            5,615      N/A N/A       N/A N/A
+
+
+EASTBOUND Approach                                           WESTBOUND Approach                                          TOTAL       XING W/L       XING E/L
+
+Hours            Lt          Th     Rt     Total             Hours       Lt          Th       Rt        Total             E-W        Ped   Sch     Ped     Sch
+7-8                   18    1,148    45     1,211            7-8          154       1,734      26        1,914            3,125      N/A   N/A     N/A     N/A
+8-9                   14    2,294    30     2,338            8-9          113       2,297      15        2,425            4,763      N/A   N/A     N/A     N/A
+9 - 10                28    2,198    39     2,265            9 - 10       135       1,979      12        2,126            4,391      N/A   N/A     N/A     N/A
+4-5                   29    1,722   101     1,852            3-4          215       1,927      13        2,155            4,007      N/A   N/A     N/A     N/A
+5-6                   25    1,811    97     1,933            4-5          190       2,276      15        2,481            4,414      N/A   N/A     N/A     N/A
+6-7                   18    1,746   115     1,879            5-6          213       2,686      12        2,911            4,790      N/A   N/A     N/A     N/A
+
+TOTAL             132 10,919        427    11,478            TOTAL      1,020 12,899           93       14,012           25,490      N/A N/A       N/A N/A
+INTERSECTION TURNING MOVEMENT COUNT SUMMARY
+
+CLIENT:               HIRSCH/GREEN TRANSPORTATION CONSULTING, INC.
+PROJECT:              BELLWOOD SENIOR CARE/MEDICAL OFFICE
+DATE:                 WEDNESDAY, NOVEMBER 17, 2010
+PERIOD:               07:00 AM TO 10:00 AM
+INTERSECTION   N/S    OVERLAND AVENUE
+               E/W    OLYMPIC BOULEVARD
+FILE NUMBER:          3-AM-R
+
+
+  15 MINUTE     1        2        3          4     5          6          7          8      9      10     11     12
+   TOTALS      SBRT    SBTH     SBLT    WBRT      WBTH       WBLT       NBRT       NBTH   NBLT   EBRT   EBTH   EBLT
+  0700-0715     0        22       7          3    309         43         19         42     13     13    184     3
+  0715-0730     3        32       7          6    424         40         30         69     18     12    249     6
+  0730-0745     4        56      10          9    487         38         45         61     24     8     310     3
+  0745-0800     8        47      16          8    514         33         40         69     34     12    405     6
+  0800-0815     7        49      10          5    554         32         41         47     32     5     483     3
+  0815-0830     4        42       8          3    583         35         43         73     25     8     579     3
+  0830-0845     6        47      12          4    574         25         33         52     22     8     612     3
+  0845-0900     4        65      10          3    586         21         36         65     21     9     620     5
+  0900-0915     3        56      14          4    522         27         48         58     26     5     581     6
+  0915-0930     2        50      13          2    470         24         52         66     35     9     577     10
+  0930-0945     4        40      10          4    508         37         49         60     22     11    523     5
+  0945-1000     7        31       5          2    479         47         58         45     26     14    517     7
+
+
+   1 HOUR       1        2        3          4     5          6          7          8      9      10     11     12
+   TOTALS      SBRT    SBTH     SBLT    WBRT      WBTH       WBLT       NBRT       NBTH   NBLT   EBRT   EBTH   EBLT   TOTALS
+  0700-0800     15      157      40          26   1734       154        134        241     89     45    1148    18     3801
+  0715-0815     22      184      43          28   1979       143        156        246    108     37    1447    18     4411
+  0730-0830     23      194      44          25   2138       138        169        250    115     33    1777    15     4921
+  0745-0845     25      185      46          20   2225       125        157        241    113     33    2079    15     5264
+  0800-0900     21      203      40          15   2297       113        153        237    100     30    2294    14     5517
+  0815-0915     17      210      44          14   2265       108        160        248     94     30    2392    17     5599
+  0830-0930     15      218      49          13   2152        97        169        241    104     31    2390    24     5503
+  0845-0945     13      211      47          13   2086       109        185        249    104     34    2301    26     5378
+  0900-1000     16      177      42          12   1979       135        207        229    109     39    2198    28     5171
+
+
+
+
+   A.M. PEAK HOUR                                       17        210         44
+      0815-0915
+
+
+                                 17                                                               14
+
+                                2392                                                             2265
+     OLYMPIC BOULEVARD
+                                 30                                                              108
+
+
+
+
+                                                        94        248        160
+
+
+                                                         OVERLAND AVENUE
+   THE TRAFFIC SOLUTION
+   329 DIAMOND STREET
+   ARCADIA, CALIFORNIA 91006
+   626.446.7978
+INTERSECTION TURNING MOVEMENT COUNT SUMMARY
+
+CLIENT:               HIRSCH/GREEN TRANSPORTATION CONSULTING, INC.
+PROJECT:              BELLWOOD SENIOR CARE/MEDICAL OFFICE
+DATE:                 WEDNESDAY, NOVEMBER 17, 2010
+PERIOD:               03:00 PM TO 06:00 PM
+INTERSECTION   N/S    OVERLAND AVENUE
+               E/W    OLYMPIC BOULEVARD
+FILE NUMBER:          3-PM-R
+
+
+  15 MINUTE     1        2        3          4     5          6          7          8      9      10     11     12
+   TOTALS      SBRT    SBTH     SBLT    WBRT      WBTH       WBLT       NBRT       NBTH   NBLT   EBRT   EBTH   EBLT
+  0300-0315     5        68      12          4    473         58         49         86     59     26    370     9
+  0315-0330     3        73      12          2    467         53         46         93     40     29    418     6
+  0330-0345     6        73      12          3    509         49         43         72     41     26    438     5
+  0345-0400     7        98      10          4    478         55         52        105     32     20    496     9
+  0400-0415     3       109      15          2    484         46         30         84     27     18    429     8
+  0415-0430     5        78      14          4    575         37         35         83     37     24    444     5
+  0430-0445     4        92      11          6    662         44         45        117     30     27    451     7
+  0445-0500     2       105       8          3    555         63         32         86     25     28    487     5
+  0500-0515     4       163       9          2    651         54         37         96     26     25    447     3
+  0515-0530     4       158       8          3    713         59         46         98     33     31    404     3
+  0530-0545     6       105       8          2    688         57         31        101     39     31    439     5
+  0545-0600     3        94       7          5    634         43         31         84     40     28    456     7
+
+
+   1 HOUR       1        2        3          4     5          6          7          8      9      10     11     12
+   TOTALS      SBRT    SBTH     SBLT    WBRT      WBTH       WBLT       NBRT       NBTH   NBLT   EBRT   EBTH   EBLT   TOTALS
+  0300-0400     21      312      46          13   1927       215        190        356    172    101    1722    29     5104
+  0315-0415     19      353      49          11   1938       203        171        354    140     93    1781    28     5140
+  0330-0430     21      358      51          13   2046       187        160        344    137     88    1807    27     5239
+  0345-0445     19      377      50          16   2199       182        162        389    126     89    1820    29     5458
+  0400-0500     14      384      48          15   2276       190        142        370    119     97    1811    25     5491
+  0415-0515     15      438      42          15   2443       198        149        382    118    104    1829    20     5753
+  0430-0530     14      518      36          14   2581       220        160        397    114    111    1789    18     5972
+  0445-0545     16      531      33          10   2607       233        146        381    123    115    1777    16     5988
+  0500-0600     17      520      32          12   2686       213        145        379    138    115    1746    18     6021
+
+
+
+
+   P.M. PEAK HOUR                                       17        520         32
+       0500-600
+
+
+                                 16                                                               12
+
+                                1746                                                             2686
+     OLYMPIC BOULEVARD
+                                 115                                                             213
+
+
+
+
+                                                       138        379        145
+
+
+                                                         OVERLAND AVENUE
+   THE TRAFFIC SOLUTION
+   329 DIAMOND STREET
+   ARCADIA, CALIFORNIA 91006
+   626.446.7978
+

@@ -1,0 +1,61 @@
+                               24 Hours Traffic Volume                                                             RAW DATA                    0
+
+
+                               City of Los Angeles                                                                 COUNTER          ARMANDO
+
+                               Department of Transportation                                                        DATE            05/31/2007
+
+                                                                                                                  START TIME        12:00 AM
+LOCATION             VERMONT AV AT 177TH ST                               DAY OF WEEK        THURSDAY              DATE PREPARED    06-Jun-07
+INTERSECTION         N/S STREET                                           DOT DISTRICT       SOUTHERN              SENSOR LAYOUT             '11'
+DESCRIPTION          VER177                                               WEATHER            CLOUDY               SENSOR SPACING             '60'
+
+
+
+                        NORTH / WEST BOUND                                     SOUTH / EAST BOUND
+                        1ST       2ND        3RD      4TH       HOUR      1ST       2ND       3RD       4TH         HOUR
+     TIME               QTR       QTR        QTR      QTR       TOTAL     QTR       QTR       QTR       QTR         TOTAL           TOTAL
+
+     12 AM              15        18         13       16          62      16        13         9         12               50         112
+     1 AM                9        12          7       11          39      10        15         5         5                35          74
+     2 AM                9        10          3        8          30       8         4         6         8                26          56
+     3 AM                6          6         5        6          23       7         8         8         16               39          62
+     4 AM                6        12         11       18          47      16        30        40         52              138         185
+     5 AM               16        25         60       65         166      57        74        110       137              378         544
+     6 AM               92       112        100       131        435      138       126       166       208              638         1073
+     7 AM               144      154        181       210        689      226       268       402       438              1334        2023
+     8 AM               222      186        146       146        700      367       332       325       307              1331        2031
+     9 AM               150      146        142       147        585      258       207       191       165              821         1406
+     10 AM              147      140        165       139        591      165       185       176       178              704         1295
+     11 AM              188      152        174       196        710      161       196       188       170              715         1425
+     12 NN              204      229        190       187        810      187       215       214       250              866         1676
+     1 PM               220      195        227       222        864      248       348       390       352              1338        2202
+     2 PM               253      243        247       258        1001     400       358       387       402              1547        2548
+     3 PM               254      282        274       289        1099     396       380       322       348              1446        2545
+     4 PM               254      264        292       292        1102     316       236       246       264              1062        2164
+     5 PM               286      279        243       247        1055     252       301       294       264              1111        2166
+     6 PM               226      240        198       171        835      240       240       204       168              852         1687
+     7 PM               151      142        110       95         498      158       145       140        96              539         1037
+     8 PM               105      100         97       82         384      104       83        84         91              362         746
+     9 PM               89       122         82       49         342      59        74        60         68              261         603
+     10 PM              66        63         48       31         208      47        52        35         46              180         388
+     11 PM              30        25         30       26         111      26        24        13         21               84         195
+
+ FIRST 12-HOURS PEAK QUARTER COUNT                     222       8 AM     1ST                             438        7 AM            4TH
+ LAST 12-HOURS PEAK QUARTER COUNT                      292       4 PM     3RD                             402        2 PM            4TH
+ 24 HOUR VEHICLES TOTAL                                         12386                                               15857           28243
+ TOTAL VEHICLES STANDARD DEVIATION (STD)               [+,-]    365.09                                    [+,-]     498.81          846.66
+
+
+                                                               PEAK HOURS VOLUME
+                       NORTH / WEST BOUND                          SOUTH / EAST BOUND                         BOTH DIRECTIONS
+
+                        PEAK                VOLUME               PEAK             VOLUME                PEAK                        VOLUME
+                       HOUR                VEHICLES              HOUR             VEHICLES             HOUR                         VEHICLES
+
+  FIRST 12H PEAK       11 AM                710                  7 AM             1334                 1334                          2044
+  LAST 12H PEAK         4 PM                1102                 2 PM             1547                 1547                          2649
+FIRST 12H PEAK STD               [+,-]     710.00                         [+,-]   88.68                                             798.68
+LAST 12H PEAK STD                [+,-]     16.87                          [+,-]   17.57                                             34.44
+                                                                                                      PROGRAM BY LADOT
+

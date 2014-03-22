@@ -1,0 +1,513 @@
+                                               City Traffic Counters
+                                                  626-447-4171
+                                                                                               File Name        : FlowerPico
+                                                                                               Site Code        : 00000000
+                                                                                               Start Date       : 5/10/2012
+                                                                                               Page No          :1
+                                              Groups Printed- 1 - Unshifted
+                    Flower St                Pico Blvd                    Flower St                Pico Blvd
+                   Southbound                Westbound                   Northbound                Eastbound
+ Start Time    Left    Thru     Right   Left     Thru    Right      Left      Thru    Right   Left     Thru    Right   Int. Total
+     Factor    1.0       1.0      1.0   1.0        1.0     1.0       1.0       1.0      1.0   1.0        1.0     1.0
+ 07:00 AM        0       74         7     4        56        0         0         0        0     0        82      12         235
+ 07:15 AM        0       89         6     4        66        0         0         0        0     0       108      13         286
+ 07:30 AM        0      111         9     8        84        0         0         0        0     0       127      23         362
+ 07:45 AM        0      119       15     14        60        0         0         0        0     0       179      22         409
+       Total     0      393       37     30       266        0         0         0        0     0       496      70        1292
+
+ 08:00 AM        0      96        13      8       99         0        0        0         0      0      157       21         394
+ 08:15 AM        0     129         6      9       73         0        0        0         0      0      195       26         438
+ 08:30 AM        0     100        14      5       73         0        0        0         0      0      159       11         362
+ 08:45 AM        0      91        15      2       71         0        0        0         0      0      181       12         372
+     Total       0     416        48     24      316         0        0        0         0      0      692       70        1566
+
+ 09:00 AM        0      80        12      4       79         0        0        0         0      0      136       19         330
+ 09:15 AM        0      84        15     10       87         0        0        0         0      0      126       18         340
+ 09:30 AM        0      79        11     12       81         0        0        0         0      0      121       16         320
+ 09:45 AM        0      81        18      6       87         0        0        0         0      0      130       14         336
+     Total       0     324        56     32      334         0        0        0         0      0      513       67        1326
+
+
+
+ 03:00 PM        0     153        21      8       74         0        0        0         0      0      101       27         384
+ 03:15 PM        0     164        21     13       92         0        0        0         0      0       12       27         329
+ 03:30 PM        0     189        22     10       83         0        0        0         0      0      143       27         474
+ 03:45 PM        0     181        33     10       88         0        0        0         0      0      151       26         489
+     Total       0     687        97     41      337         0        0        0         0      0      407      107        1676
+
+ 04:00 PM        0     276        27     22       99         0        0        0         0      0      131       20         575
+ 04:15 PM        0     316        25     14       95         0        0        0         0      0      140       24         614
+ 04:30 PM        0     337        21     26       99         0        0        0         0      0      129       24         636
+ 04:45 PM        0     370        19     22      104         0        0        0         0      0      151       22         688
+     Total       0    1299        92     84      397         0        0        0         0      0      551       90        2513
+
+ 05:00 PM        0     405        27     13      133         0        0        0         0      0      150       19         747
+ 05:15 PM        0     385        31     16      164         0        0        0         0      0      153       23         772
+ 05:30 PM        0     376        32     15      161         0        0        0         0      0      140       24         748
+ 05:45 PM        0     371        32     16      211         0        0        0         0      0      133       36         799
+     Total       0    1537       122     60      669         0        0        0         0      0      576      102        3066
+
+Grand Total      0    4656       452    271     2319         0        0         0        0      0    3235      506       11439
+ Apprch %      0.0     91.2       8.8   10.5     89.5      0.0      0.0       0.0      0.0    0.0     86.5     13.5
+   Total %     0.0     40.7       4.0    2.4     20.3      0.0      0.0       0.0      0.0    0.0     28.3      4.4
+                                                     City Traffic Counters
+                                                        626-447-4171
+                                                                                                                          File Name                 : FlowerPico
+                                                                                                                          Site Code                 : 00000000
+                                                                                                                          Start Date                : 5/10/2012
+                                                                                                                          Page No                   :2
+
+                         Flower St                Pico Blvd                                    Flower St                           Pico Blvd
+                        Southbound                Westbound                                   Northbound                           Eastbound
+                                     App.                             App.                                 App.                                      App.     Int.
+   Start Time   Left   Thru Right            Left Thru Right                       Left       Thru Right            Left          Thru Right
+                                    Total                             Total                                Total                                     Total   Total
+Peak Hour From 07:00 AM to 11:45 AM - Peak 1 of 1
+  Intersection 07:30 AM
+      Volume        0   455   43      498     39   316     0              355        0           0     0      0       0           658         92      750    1603
+      Percent     0.0 91.4    8.6           11.0 89.0    0.0                       0.0         0.0   0.0            0.0           87.7       12.3
+        08:15
+                    0   129     6     135      9    73     0               82         0         0     0       0        0          195         26      221     438
+      Volume
+ Peak Factor                                                                                                                                                 0.915
+      High Int. 08:15 AM                   08:00 AM                               6:45:00 AM                       08:15 AM
+      Volume        0   129     6     135      8    99     0            107           0     0         0       0        0   195                26      221
+ Peak Factor                       0.922                              0.829                                                                         0.848
+
+                                                                      Flower St
+                                                          Out            In          Total
+                                                                0         498          498
+
+
+                                                               43   455                   0
+                                                            Right Thru             Left
+                          1109
+                          Total
+
+
+
+
+                                                                                                                                     Out
+                                                                                                                                      658
+                                       0
+
+
+
+
+                                                                                                                     Right Thru
+                                   Left
+
+
+
+
+                                                                          North
+                                                                                                                         0
+
+
+
+
+                                                                                                                                     Pico Blvd
+                       Pico Blvd
+
+                            750
+
+
+                                          658
+                                   Right Thru
+                            In
+
+
+
+
+                                                         5/10/2012 7:30:00 AM                                                            In
+                                                                                                                            316
+
+
+                                                                                                                                         355
+
+                                                         5/10/2012 8:15:00 AM
+                                      92
+
+
+
+
+                                                                                                                     Left
+                           359
+
+
+
+
+                                                          1 - Unshifted
+                          Out
+
+
+
+
+                                                                                                                                     Total
+                                                                                                                       39
+
+
+                                                                                                                                     1013
+
+
+
+
+                                                               Left       Thru Right
+                                                                      0       0    0
+
+
+                                                           586              0          586
+                                                          Out            In          Total
+                                                                      Flower St
+                                                    City Traffic Counters
+                                                       626-447-4171
+                                                                                                                       File Name                 : FlowerPico
+                                                                                                                       Site Code                 : 00000000
+                                                                                                                       Start Date                : 5/10/2012
+                                                                                                                       Page No                   :3
+                         Flower St               Pico Blvd                                   Flower St                          Pico Blvd
+                        Southbound               Westbound                                  Northbound                          Eastbound
+                                     App.                            App.                                App.                                     App.     Int.
+   Start Time   Left   Thru Right           Left Thru Right                      Left       Thru Right           Left          Thru Right
+                                    Total                            Total                               Total                                    Total   Total
+Peak Hour From 12:00 PM to 05:45 PM - Peak 1 of 1
+  Intersection 05:00 PM
+      Volume        0 1537   122    1659      60   669    0              729       0           0     0      0      0           576        102      678    3066
+      Percent     0.0 92.6    7.4            8.2 91.8   0.0                      0.0         0.0   0.0           0.0           85.0       15.0
+        05:45
+                    0   371   32      403     16   211    0              227        0         0     0       0       0          133         36      169     799
+      Volume
+ Peak Factor                                                                                                                                              0.959
+      High Int. 05:00 PM                   05:45 PM                                                           05:15 PM
+      Volume        0   405   27      432     16   211    0            227          0         0     0       0     0   153                  23      176
+ Peak Factor                       0.960                             0.803                                                                       0.963
+
+                                                                     Flower St
+                                                         Out            In         Total
+                                                               0        1659        1659
+
+
+                                                             122 1537                   0
+                                                           Right Thru            Left
+                          1469
+                          Total
+
+
+
+
+                                                                                                                                  Out
+                                                                                                                                   576
+                                       0
+
+
+
+
+                                                                                                                  Right Thru
+                                   Left
+
+
+
+
+                                                                         North                                        0
+
+
+
+
+                                                                                                                                  Pico Blvd
+                       Pico Blvd
+
+                            678
+
+
+                                          576
+                                   Right Thru
+                            In
+
+
+
+
+                                                                                                                                     In
+                                                        5/10/2012 5:00:00 PM
+                                                                                                                         669
+
+
+                                                                                                                                      729
+                                                        5/10/2012 5:45:00 PM
+                                     102
+
+
+
+
+                                                                                                                  Left
+                           791
+
+
+
+
+                                                         1 - Unshifted
+                          Out
+
+
+
+
+                                                                                                                                  Total
+                                                                                                                    60
+
+
+                                                                                                                                  1305
+
+
+
+
+                                                              Left       Thru Right
+                                                                     0       0    0
+
+
+                                                         1699              0        1699
+                                                         Out            In         Total
+                                                                     Flower St
+                                 City Traffic Counters
+                                    626-447-4171
+                                                                               File Name    : FlowerPico_B_P
+                                                                               Site Code    : 00000000
+                                                                               Start Date   : 5/10/2012
+                                                                               Page No      :1
+                                  Groups Printed- 2 - Bank 1
+                Flower St         Pico Blvd                  Flower St              Pico Blvd
+               Southbound        Westbound                 Northbound              Eastbound
+ Start Time    Thru       Peds   Thru        Peds          Thru        Peds        Thru       Peds   Int. Total
+     Factor     1.0        1.0    1.0          1.0           1.0         1.0        1.0        1.0
+ 07:00 AM         4         27      1          31              1         22           0         15        101
+ 07:15 AM         3         17      3          33              1         43           3         22        125
+ 07:30 AM         4         25      7          14              1         42           1         37        131
+ 07:45 AM         4         17      4            9             3         31           2         21         91
+       Total     15         86     15          87              6        138           6         95        448
+
+ 08:00 AM         7        20       4          11            4           26           0        22          94
+ 08:15 AM         3        11       3           8            0           21           0        34          80
+ 08:30 AM         3        27       2          19            3           12           2        17          85
+ 08:45 AM         4        13       5           5            4           28           1        19          79
+     Total       17        71      14          43           11           87           3        92         338
+
+ 09:00 AM         3        11       1           5            2           18           1        15          56
+ 09:15 AM         0         8       2          20            1           22           1        21          75
+ 09:30 AM         0         8       1           7            2           21           1        15          55
+ 09:45 AM         1        15       4          13            0           27           0        12          72
+     Total        4        42       8          45            5           88           3        63         258
+
+
+
+ 03:00 PM         1        21       4          19            5           24           0        22          96
+ 03:15 PM         6        21       2           9            4           26           3        10          81
+ 03:30 PM         0        25       1          20            3           41           2        23         115
+ 03:45 PM         0        20       1           8            5           26           0        24          84
+     Total        7        87       8          56           17          117           5        79         376
+
+ 04:00 PM         0        28       1          18            3           43           0        33         126
+ 04:15 PM         4        24       2           6            3           39           2        30         110
+ 04:30 PM         2        26       1          12            4           34           0        42         121
+ 04:45 PM         1        52       1          20            4           41           0        30         149
+     Total        7       130       5          56           14          157           2       135         506
+
+ 05:00 PM         0        19       0          32            3           56           1        23         134
+ 05:15 PM         0        30       1          22            0           42           0        27         122
+ 05:30 PM         0        33       3          16            3           62           5        32         154
+ 05:45 PM         1        27       0          19            5           48           2        32         134
+     Total        1       109       4          89           11          208           8       114         544
+
+Grand Total     51        525     54          376           64         795          27        578        2470
+ Apprch %       8.9       91.1   12.6         87.4          7.5        92.5         4.5       95.5
+   Total %      2.1       21.3    2.2         15.2          2.6        32.2         1.1       23.4
+                                                    City Traffic Counters
+                                                       626-447-4171
+                                                                                                           File Name               : FlowerPico_B_P
+                                                                                                           Site Code               : 00000000
+                                                                                                           Start Date              : 5/10/2012
+                                                                                                           Page No                 :2
+
+                           Flower St              Pico Blvd                                Flower St                          Pico Blvd
+                          Southbound              Westbound                               Northbound                          Eastbound
+                                       App.                         App.                               App.                                 App.
+      Start Time   Thru         Peds            Thru  Peds                        Thru      Peds                 Thru           Peds                Int. Total
+                                       Total                        Total                              Total                                Total
+Peak Hour From 07:00 AM to 11:45 AM - Peak 1 of 1
+     Intersection 07:00 AM
+         Volume        15     86        101       15    87            102            6       138        144         6            95          101         448
+         Percent     14.9   85.1                 14.7 85.3                         4.2       95.8                 5.9           94.1
+   07:30 Volume         4     25         29         7   14             21            1        42         43         1            37           38        131
+     Peak Factor                                                                                                                                     0.855
+         High Int. 07:00 AM                  07:15 AM                           07:15 AM                       07:30 AM
+         Volume         4     27         31         3   33             36            1        43          44        1             37           38
+     Peak Factor                      0.815                         0.708                              0.818                                0.664
+
+                                                                    Flower St
+                                                         Out           In         Total
+                                                               6        101         107
+
+
+                                                                      15   86
+                                                                   Thru Peds
+                        116
+                       Total
+
+
+
+
+                                                                                                                                Out
+                                                                                                                                   6
+                                                                      North
+                                           6
+
+
+
+
+                                                                                                                  Thru Peds
+                                  Peds Thru
+
+
+
+
+                                                                                                                                Pico Blvd
+                    Pico Blvd
+
+                         101
+
+
+
+
+                                                                                                                    15
+                         In
+
+
+
+
+                                                                                                                                    In
+                                                         5/10/2012 7:00:00 AM                                                       102
+                                    95
+
+
+
+
+                                                         5/10/2012 7:45:00 AM
+                                                                                                                         87
+                        15
+
+
+
+
+                                                         2 - Bank 1
+                       Out
+
+
+
+
+                                                                                                                                Total
+                                                                                                                                 108
+
+
+
+
+                                                                   Thru Peds
+                                                                       6  138
+
+
+                                                           15           144         159
+                                                         Out           In         Total
+                                                                    Flower St
+                                                    City Traffic Counters
+                                                       626-447-4171
+                                                                                                           File Name                : FlowerPico_B_P
+                                                                                                           Site Code                : 00000000
+                                                                                                           Start Date               : 5/10/2012
+                                                                                                           Page No                  :3
+                              Flower St           Pico Blvd                                Flower St                          Pico Blvd
+                             Southbound           Westbound                               Northbound                          Eastbound
+                                       App.                         App.                               App.                                 App.
+      Start Time   Thru          Peds           Thru  Peds                        Thru      Peds                 Thru           Peds                Int. Total
+                                       Total                        Total                              Total                                Total
+Peak Hour From 12:00 PM to 05:45 PM - Peak 1 of 1
+     Intersection 04:45 PM
+         Volume          1   134        135         5   90             95          10        201        211         6           112          118         559
+         Percent       0.7  99.3                  5.3 94.7                         4.7       95.3                 5.1           94.9
+   05:30 Volume          0    33         33         3   16             19            3        62         65         5            32           37        154
+     Peak Factor                                                                                                                                     0.907
+         High Int. 04:45 PM                  05:00 PM                           05:30 PM                       05:30 PM
+         Volume          1    52         53         0   32             32            3        62          65        5               32         37
+     Peak Factor                      0.637                         0.742                              0.812                                0.797
+
+                                                                    Flower St
+                                                         Out           In         Total
+                                                           10           135         145
+
+
+                                                                       1  134
+                                                                   Thru Peds
+                        123
+                       Total
+
+
+
+
+                                                                                                                                    Out
+                                                                                                                                6
+                                                                      North
+                                            6
+
+
+
+
+                                                                                                                  Thru Peds
+                                   Peds Thru
+
+
+
+
+                                                                                                                                Pico Blvd
+                    Pico Blvd
+
+                         118
+                         In
+
+
+
+
+                                                                                                                      5
+
+
+
+                                                                                                                                    In
+                                                         5/10/2012 4:45:00 PM
+
+                                                                                                                                      95
+                                    112
+
+
+
+
+                                                         5/10/2012 5:30:00 PM
+                                                                                                                         90
+                             5
+
+
+
+
+                                                         2 - Bank 1
+                       Out
+
+
+
+
+                                                                                                                                Total
+                                                                                                                                 101
+
+
+
+
+                                                                   Thru Peds
+                                                                      10  201
+
+
+                                                               1        211         212
+                                                         Out           In         Total
+                                                                    Flower St
+

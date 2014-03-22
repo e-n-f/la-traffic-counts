@@ -1,0 +1,61 @@
+                    City Of Los Angeles
+                    Department Of Transportation
+                    MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South         VERMONT AV
+
+East/West           149TH ST
+
+Day:        MONDAY                      Date:       December 14, 2009 Weather:                 SUNNY
+
+Hours:      7-10AM 2-5PM                                  Chekrs:   ALAS
+
+School Day:         YES                 District:         SOUTHERN            I/S CODE 44863
+
+
+                     N/B                            S/B                       E/B                      W/B
+DUAL-
+WHEELED               129                           105                        22                        0
+BIKES                   1                             4                         1                        0
+BUSES                  44                            38                         0                        0
+
+
+                     N/B TIME                       S/B TIME                  E/B TIME                 W/B TIME
+
+AM PK 15 MIN          317      7.45                 292    7.45                58       8.00             0    7.00
+
+PM PK 15 MIN          363      4.45                 201    2.45                36       2.30             0    2.00
+
+AM PK HOUR           1136      7.30                 870    7.15               162       7.15             0    7.00
+
+PM PK HOUR           1298      4.00                 769    2.15                87       2.15             0    2.00
+
+
+
+NORTHBOUND Approach                                       SOUTHBOUND Approach                                TOTAL   XING S/L    XING N/L
+
+Hours         Lt  Th           Rt       Total             Hours      Lt       Th        Rt Total              N-S     Ped Sch     Ped   Sch
+7-8            50 822               0      872            7-8             0    705       75   780             1652     70 27        1     2
+8-9            21 910               0      931            8-9             0    561       27   588             1519     28   1       2     0
+9-10           45 625               0      670            9-10            0    332       11   343             1013      8   0       1     0
+2-3            25 729               0      754            2-3             0    665       65   730             1484     17 11        1     0
+3-4            28 1136              0     1164            3-4             0    649       32   681             1845     21 18        2     0
+4-5            22 1276              0     1298            4-5             0    707       33   740             2038     13 10        1     0
+
+TOTAL         191 5498              0     5689            TOTAL           0 3619         243    3862          9551    157   67      8    2
+
+
+EASTBOUND Approach                                        WESTBOUND Approach                                 TOTAL   XING W/L    XING E/L
+                   149TH ST                                                            NONE
+Hours   Lt    Th     Rt Total                             Hours      Lt       Th        Rt Total             E-W      Ped Sch     Ped   Sch
+7-8       46     0    79    125                           7-8             0        0      0        0           125     40 29        0     0
+8-9       44     0    43     87                           8-9             0        0      0        0            87     59   4       0     0
+9-10      17     0    25     42                           9-10            0        0      0        0            42     23   1       0     0
+2-3       24     0    53     77                           2-3             0        0      0        0            77     31 28        0     0
+3-4       29     0    20     49                           3-4             0        0      0        0            49     19   5       0     0
+4-5       30     0    34     64                           4-5             0        0      0        0            64     22   6       0     0
+
+TOTAL         190          0   254          444           TOTAL           0        0       0       0           444    194   73      0    0
+
+            (Rev Oct 06)
+

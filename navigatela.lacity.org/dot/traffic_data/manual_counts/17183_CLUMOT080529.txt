@@ -1,0 +1,309 @@
+                                                     TRAFFIC COUNT SUMMARY
+                                                                                                                                    City of Los Angeles
+STREET:                                                                                                                       Department of Transportation
+North/South            CLUB DRIVE
+
+East/West              MOTOR AVENUE
+
+Day:     AM    THURSDAY                  Date:       MAY 29, 2008                   Weather:            CLEAR
+         PM    THURSDAY                              MAY 29, 2008
+Hours:         7-9 AM 4-6 PM
+
+School Day:            YES               District:           LOS ANGELES
+
+
+                         N/B                           S/B                            E/B                            W/B
+DUAL-
+WHEELED                  N/A                           N/A                            N/A                            N/A
+BIKES                    N/A                           N/A                            N/A                            N/A
+BUSES                    N/A                           N/A                            N/A                            N/A
+
+
+                         N/B TIME                      S/B TIME                       E/B TIME                       W/B    TIME
+
+AM PK 15 MIN                 30 8:15                     6 7:45                       185 8:45                        82     8:15
+
+PM PK 15 MIN                 19 5:30                     9 5:45                       125 4:00                       150     5:30
+
+AM PK HOUR               104 7:45                       17 7:30                       698 8:00                       273     8:00
+
+PM PK HOUR                   62 4:45                    25 5:00                       469 5:00                       572     4:45
+
+
+
+NORTHBOUND Approach                                          SOUTHBOUND Approach                                           TOTAL       XING S/L       XING N/L
+
+Hours           Lt      Th        Rt     Total               Hours         Lt        Th        Rt          Total            N-S        Ped   Sch     Ped     Sch
+7-8              15           7    43         65             7-8                0       8        7              15             80      N/A   N/A     N/A     N/A
+8-9              33          16    53        102             8-9                1       2        8              11            113      N/A   N/A     N/A     N/A
+4-5                8         14    17         39             4-5                1       9        2              12             51      N/A   N/A     N/A     N/A
+5-6              17          15    30         62             5-6                1      10       14              25             87      N/A   N/A     N/A     N/A
+TOTAL            73          52   143        268             TOTAL              3      29       31              63            331      N/A   N/A     N/A     N/A
+
+
+EASTBOUND Approach                                           WESTBOUND Approach                                            TOTAL       XING W/L       XING E/L
+
+Hours           Lt      Th        Rt     Total               Hours         Lt         Th       Rt          Total            E-W        Ped   Sch     Ped     Sch
+7-8               0       419      10        429             7-8             11        189          1          201            630      N/A   N/A     N/A     N/A
+8-9               9       685        4       698             8-9             17        255          1          273            971      N/A   N/A     N/A     N/A
+4-5               7       416      13        436             4-5             23        529          3          555            991      N/A   N/A     N/A     N/A
+5-6               7       456        6       469             5-6             26        540          0          566          1,035      N/A   N/A     N/A     N/A
+TOTAL            23     1,976      33      2,032             TOTAL           77      1,513          5        1,595          3,627      N/A   N/A     N/A     N/A
+                                               City Traffic Counters
+                                                   626.256.4171
+                                                                                                        File Name      : ClubMot
+                                                                                                        Site Code      : 00000000
+                                                                                                        Start Date     : 5/29/2008
+                                                                                                        Page No        :1
+                                                Groups Printed- 1 - Unshifted
+                      Club Dr                 Motor Ave                       Club Dr                   Motor Ave
+                    Southbound                Westbound                     Northbound                  Eastbound
+ Start Time    Left      Thru    Right   Left     Thru     Right       Left      Thru    Right   Left       Thru    Right   Int. Total
+     Factor    1.0        1.0      1.0   1.0        1.0      1.0       1.0        1.0      1.0   1.0          1.0     1.0
+ 07:00 AM        0          1        2     1        31         0          0         1        5     0          67        1        109
+ 07:15 AM        0          0        1     3        53         1          4         0      13      0          94        1        170
+ 07:30 AM        0          3        2     2        51         0          3         1      10      0         126        5        203
+ 07:45 AM        0          4        2     5        54         0          8         5      15      0         132        3        228
+       Total     0          8        7    11       189         1        15          7      43      0         419      10         710
+
+ 08:00 AM        0         1        3      5       54          0         8        5         9      2        156        2         245
+ 08:15 AM        1         0        1      3       79          0        11        5        14      3        178        0         295
+ 08:30 AM        0         0        2      3       62          0         8        4        12      3        168        1         263
+ 08:45 AM        0         1        2      6       60          1         6        2        18      1        183        1         281
+     Total       1         2        8     17      255          1        33       16        53      9        685        4        1084
+
+
+
+ 04:00 PM        0         4        0      6      131          0         1        1         6      2        118        5         274
+ 04:15 PM        0         2        1      5      131          1         2        4         3      3         86        3         241
+ 04:30 PM        1         1        1      5      137          0         3        5         4      1        109        3         270
+ 04:45 PM        0         2        0      7      130          2         2        4         4      1        103        2         257
+     Total       1         9        2     23      529          3         8       14        17      7        416       13        1042
+
+ 05:00 PM        0        3         2      5      138          0         5        6         7      0        113        1         280
+ 05:15 PM        0        2         3      3      137          0         4        3         8      3        118        2         283
+ 05:30 PM        0        2         4      7      143          0         3        6        10      2        105        0         282
+ 05:45 PM        1        3         5     11      122          0         5        0         5      2        120        3         277
+     Total       1       10        14     26      540          0        17       15        30      7        456        6        1122
+
+Grand Total      3       29       31     77      1513          5       73        52      143     23        1976      33         3958
+ Apprch %      4.8      46.0     49.2    4.8      94.9       0.3      27.2      19.4     53.4    1.1        97.2     1.6
+   Total %     0.1       0.7      0.8    1.9      38.2       0.1       1.8       1.3      3.6    0.6        49.9     0.8
+                                                             City Traffic Counters
+                                                                 626.256.4171
+                                                                                                                                      File Name           : ClubMot
+                                                                                                                                      Site Code           : 00000000
+                                                                                                                                      Start Date          : 5/29/2008
+                                                                                                                                      Page No             :2
+
+                          Club Dr                      Motor Ave                                   Club Dr                             Motor Ave
+                        Southbound                     Westbound                                  Northbound                           Eastbound
+                                        App.                              App.                                   App.                                     App.     Int.
+    Start Time   Left   Thru      Right          Left Thru    Right                    Left       Thru   Right              Left      Thru        Right
+                                        Total                             Total                                  Total                                    Total   Total
+Peak Hour From 07:00 AM to 11:45 AM - Peak 1 of 1
+  Intersection 08:00 AM
+      Volume        1      2      8       11      17   255       1         273          33         16     53      102          9      685            4     698    1084
+      Percent     9.1   18.2   72.7               6.2 93.4     0.4                     32.4       15.7   52.0                1.3      98.1         0.6
+        08:15
+                    1      0      1        2        3   79       0           82          11         5      14      30             3    178           0     181     295
+      Volume
+  Peak Factor                                                                                                                                                     0.919
+      High Int. 08:00 AM                      08:15 AM                                08:15 AM                           08:45 AM
+      Volume        0      1      3        4        3   79       0          82           11         5      14       30       1    183                1      185
+  Peak Factor                          0.688                             0.832                                   0.850                                    0.943
+
+                                                                           Club Dr
+                                                                 Out          In         Total
+                                                                   26            11         37
+
+
+                                                                          8     2             1
+                                                                      Right Thru       Left
+                                994
+                               Total
+
+
+
+
+                                                                                                                                      Out
+                                                                                                                                       739
+                                              9
+
+
+
+
+                                                                                                                         Right Thru
+                                          Left
+
+
+
+
+                                                                            North
+                                                                                                                             1
+
+
+
+
+                                                                                                                                      Motor Ave
+                          Motor Ave
+
+                               698
+
+
+                                                 685
+                                          Right Thru
+                               In
+
+
+
+
+                                                                                                                                         In
+                                                                 5/29/2008 8:00:00 AM
+                                                                                                                                255
+
+
+                                                                                                                                          273
+
+                                                                 5/29/2008 8:45:00 AM
+                                              4
+
+
+
+
+                                                                                                                         Left
+                                296
+
+
+
+
+                                                                 1 - Unshifted
+                               Out
+
+
+
+
+                                                                                                                                      Total
+                                                                                                                           17
+
+
+                                                                                                                                      1012
+
+
+
+
+                                                                      Left  Thru Right
+                                                                         33    16   53
+
+
+                                                                   23          102         125
+                                                                 Out          In         Total
+                                                                           Club Dr
+                                                             City Traffic Counters
+                                                                 626.256.4171
+                                                                                                                                     File Name           : ClubMot
+                                                                                                                                     Site Code           : 00000000
+                                                                                                                                     Start Date          : 5/29/2008
+                                                                                                                                     Page No             :3
+                          Club Dr                      Motor Ave                                  Club Dr                             Motor Ave
+                        Southbound                     Westbound                                 Northbound                           Eastbound
+                                        App.                              App.                                  App.                                     App.     Int.
+    Start Time   Left   Thru      Right          Left Thru    Right                   Left       Thru   Right              Left      Thru        Right
+                                        Total                             Total                                 Total                                    Total   Total
+Peak Hour From 12:00 PM to 05:45 PM - Peak 1 of 1
+  Intersection 05:00 PM
+      Volume        1    10      14       25      26   540       0         566         17         15     30       62          7      456            6     469    1122
+      Percent     4.0   40.0   56.0               4.6 95.4     0.0                    27.4       24.2   48.4                1.5      97.2         1.3
+        05:15
+                    0      2      3        5        3  137       0         140               4     3       8      15             3    118           2     123     283
+      Volume
+  Peak Factor                                                                                                                                                    0.991
+      High Int. 05:45 PM                      05:30 PM                         05:30 PM                               05:45 PM
+      Volume        1      3      5        9        7  143       0         150     3               6      10       19     2    120                  3      125
+  Peak Factor                          0.694                             0.943                                  0.816                                    0.938
+
+                                                                           Club Dr
+                                                                 Out          In        Total
+                                                                   22            25        47
+
+
+                                                                         14    10            1
+                                                                      Right Thru      Left
+                               1040
+                               Total
+
+
+
+
+                                                                                                                                     Out
+                                                                                                                                      487
+                                              7
+
+
+
+
+                                                                                                                        Right Thru
+                                          Left
+
+
+
+
+                                                                            North                                           0
+
+
+
+
+                                                                                                                                     Motor Ave
+                          Motor Ave
+
+                               469
+
+
+                                                 456
+                                          Right Thru
+                               In
+
+
+
+
+                                                                                                                                        In
+                                                                 5/29/2008 5:00:00 PM
+                                                                                                                               540
+
+
+                                                                                                                                         566
+                                                                 5/29/2008 5:45:00 PM
+                                              6
+
+
+
+
+                                                                                                                        Left
+                                571
+
+
+
+
+                                                                 1 - Unshifted
+                               Out
+
+
+
+
+                                                                                                                                     Total
+                                                                                                                          26
+
+
+                                                                                                                                     1053
+
+
+
+
+                                                                      Left  Thru Right
+                                                                         17    15   30
+
+
+                                                                   42            62       104
+                                                                 Out          In        Total
+                                                                           Club Dr
+

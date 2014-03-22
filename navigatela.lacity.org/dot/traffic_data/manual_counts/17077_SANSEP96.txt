@@ -1,0 +1,62 @@
+ACCUTEK                          TRAFFIC COUNT SUMMARY
+
+STREET:
+North/South       SEPULVEDA BLVD.
+
+East/West         SANTA MONICA BLVD.
+
+Day:    TUESDAY                       Date:       11-26-1996              Weather:          CLEAR
+
+Hours: 7-10 AM 3-6 PM                 FILE:       AM045
+
+School Day:       YES                 District:           LOS ANGELES
+
+
+                    N/B                             S/B                      E/B                     W/B
+DUAL-
+WHEELED              96                             57                      129                      110
+BIKES                12                             12                       14                        9
+BUSES                25                             23                       82                       60
+
+
+                    N/B TIME                        S/B TIME                 E/B TIME                W/B     TIME
+
+AM PK 15 MIN        348   7:45                     253     9:00             761      8:00           540       8:30
+
+PM PK 15 MIN        389   4:00                     422     5:30             655      4:00           550       4:45
+
+AM PK HOUR         1274   8:00                     947     9:00            2894      8:00           1981      8:00
+
+PM PK HOUR         1216   3:00                    1375     4:00            2368      4:00           1989      4:00
+
+
+
+
+NORTHBOUND Approach                                       SOUTHBOUND Approach                              TOTAL     XING S/L       XING N/L
+
+Hours       Lt     Th     Rt          Total               Hours     Lt      Th       Rt     Total           N-S      Ped   Sch      Ped   Sch
+7-8         147    737    119          1003               7-8       123     527      109      759           1762     41     1       40     0
+8-9         146    973    155          1274               8-9       180     650       88      918           2192     42     0       56     3
+9-10        163    903    156          1222               9-10      170     640      137      947           2169     19     0       53     0
+3-4         150    883    183          1216               3-4       146     946      178     1270           2486     44     1       53     2
+4-5         123    864    186          1173               4-5       147    1083      145     1375           2548     39     2       69     2
+5-6         123    866    159          1148               5-6       152    1072      110     1334           2482     61     0       61     0
+
+TOTAL       852    5226   958          7036               TOTAL     918    4918      767     6603           13639    246        4   332        7
+
+
+EASTBOUND Approach                                        WESTBOUND Approach                               TOTAL     XING W/L       XING E/L
+
+Hours       Lt      Th    Rt          Total               Hours     Lt      Th       Rt     Total           E-W      Ped   Sch      Ped   Sch
+7-8          72    1701   314          2087               7-8        68    1557       50     1675           3762     71     5       39     1
+8-9          84    2482   349          2915               8-9        70    1843       68     1981           4896     95     5       48     0
+9-10        106    2173   482          2761               9-10       88    1564       51     1703           4464     68     0       51     0
+3-4         103    1940   301          2344               3-4        63    1782       55     1900           4244     72     8       23     1
+4-5         105    1935   328          2368               4-5        84    1834       71     1989           4357     82     3       29     2
+5-6          94    1945   241          2280               5-6        93    1795       75     1963           4243     78     0       47     0
+
+TOTAL       564 12176 2015            14755               TOTAL     466 10375        370    11211           25966    466    21      237        4
+
+
+                                                                                                            39605
+

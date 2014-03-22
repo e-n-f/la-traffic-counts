@@ -1,0 +1,61 @@
+                       City Of Los Angeles
+                       Department Of Transportation
+                       MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South            VERMONT AV
+
+East/West              105TH ST
+
+Day:        MONDAY                        Date:       November 2, 2009          Weather:            SUNNY
+
+Hours:      7-10AM 2-5PM                                    Chekrs:   ALAS
+
+School Day:            YES                District:         SOUTHERN              I/S CODE 44825
+
+
+                        N/B                           S/B                         E/B                           W/B
+DUAL-
+WHEELED                  113                           0                              0                           0
+BIKES                      0                           0                              0                           0
+BUSES                     60                           0                              0                           0
+
+
+                        N/B TIME                      S/B TIME                    E/B TIME                      W/B TIME
+
+AM PK 15 MIN             485     7.45                  0     7.00                     0    7.00                   0    7.00
+
+PM PK 15 MIN             327     2.30                  0     2.00                     0    2.00                   0    2.00
+
+AM PK HOUR              1786     7.15                  0     7.00                     0    7.00                   0    7.00
+
+PM PK HOUR              1233     3.45                  0     2.00                     0    2.00                   0    2.00
+
+
+
+NORTHBOUND Approach                                         SOUTHBOUND Approach                                       TOTAL     XING S/L    XING N/L
+
+Hours         Lt        Th       Rt       Total             Hours      Lt        Th        Rt       Total              N-S       Ped Sch     Ped   Sch
+7-8                0    1602          0     1602            7-8             0         0         0           0          1602       32   0       0     0
+8-9                0    1469          0     1469            8-9             0         0         0           0          1469       21   0       0     0
+9-10               0    1008          0     1008            9-10            0         0         0           0          1008       22   2       0     0
+2-3                0    1020          0     1020            2-3             0         0         0           0          1020       14   2       0     0
+3-4                0    1037          0     1037            3-4             0         0         0           0          1037       40   3       0     0
+4-5                0    1223          0     1223            4-5             0         0         0           0          1223       39   6       0     0
+
+TOTAL              0 7359             0     7359            TOTAL           0         0         0           0          7359      168   13      0    0
+
+
+EASTBOUND Approach                                          WESTBOUND Approach                                        TOTAL     XING W/L    XING E/L
+
+Hours         Lt        Th       Rt       Total             Hours      Lt        Th        Rt       Total             E-W        Ped Sch     Ped   Sch
+7-8                0         0        0           0         7-8             0         0         0           0               0      0   0       0     0
+8-9                0         0        0           0         8-9             0         0         0           0               0      0   0       0     0
+9-10               0         0        0           0         9-10            0         0         0           0               0      0   0       0     0
+2-3                0         0        0           0         2-3             0         0         0           0               0      0   0       0     0
+3-4                0         0        0           0         3-4             0         0         0           0               0      0   0       0     0
+4-5                0         0        0           0         4-5             0         0         0           0               0      0   0       0     0
+
+TOTAL              0         0        0           0         TOTAL           0         0         0           0               0     0    0       0    0
+
+            (Rev Oct 06)
+

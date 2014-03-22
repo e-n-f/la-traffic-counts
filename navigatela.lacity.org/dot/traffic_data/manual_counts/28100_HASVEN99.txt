@@ -1,0 +1,58 @@
+ACCUTEK                            TRAFFIC COUNT SUMMARY
+
+STREET:
+North/South       HASKELL AV
+
+East/West         VENTURA BL
+
+Day:    MONDAY                          Date:       2-22-99                 Weather:           CLEAR
+
+Hours: 7-10 AM 3-6 PM                   FILE:       254302
+
+School Day:       YES                   District:           LOS ANGELES
+
+
+                    N/B                               S/B                      E/B                      W/B
+DUAL-
+WHEELED                 0                              0                         0                       0
+BIKES                   0                              0                         0                       0
+BUSES                   0                              0                         0                       0
+
+
+                    N/B TIME                          S/B TIME                 E/B TIME                 W/B     TIME
+
+AM PK 15 MIN         16      9:15                    234      9:45            525       7:15           420      8:00
+
+PM PK 15 MIN         19      3:45                    144      3:45            549       5:15           508         5:30
+
+AM PK HOUR           50     8:00                     797      9:00           1902       7:00           1569     8:00
+
+PM PK HOUR           57     5:00                      463     3:00           2137       5:00           1896        5:00
+
+
+
+NORTHBOUND Approach                                         SOUTHBOUND Approach                               TOTAL       XING S/L       XING N/L
+
+Hours       Lt     Th       Rt          Total               Hours     Lt      Th       Rt      Total           N-S        Ped   Sch      Ped   Sch
+7-8          9          1    24             34              7-8       418      18      131       567            601        0     0        0     0
+8-9         16          6    28             50              8-9       470      18      200       688            738        0     0        0     0
+9-10        17          3    24             44              9-10      471      16      310       797            841        0     0        0     0
+3-4         26          6    22             54              3-4       195      15      253       463            518        0     0        0     0
+4-5         17          9    24             50              4-5       188      12      187       387            537        0     0        0     0
+5-6         26          7    24             57              5-6       158        9     183       350            407        0     0        0     0
+
+TOTAL       111      32     146            289              TOTAL    1900      88 1264          3252           3541         0        0     0        0
+
+
+EASTBOUND Approach                                          WESTBOUND Approach                                TOTAL       XING W/L       XING E/L
+
+Hours       Lt      Th      Rt          Total               Hours     Lt      Th       Rt      Total           E-W        Ped   Sch      Ped   Sch
+7-8          25    1869       8          1902               7-8        20     833      135       169             404       0     0        0     0
+8-9          30    1692      10          1732               8-9        33    1395      141       251             529       0     0        0     0
+9-10         43    1315      13          1371               9-10       23    1146      101       349             482       0     0        0     0
+3-4          50    1579       8          1637               3-4        19    1384      161       287             602       0     0        0     0
+4-5          64    1820      10          1894               4-5        26    1606      180       225             606       0     0        0     0
+5-6          94    2039       4          2137               5-6        34    1664      198       226             544       0     0        0     0
+
+TOTAL       306 10314       53           10673              TOTAL     155    8028      916      9099           3167         0        0     0        0
+

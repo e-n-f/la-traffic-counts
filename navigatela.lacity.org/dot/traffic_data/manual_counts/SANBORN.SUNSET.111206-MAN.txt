@@ -1,0 +1,559 @@
+                      City Of Los Angeles
+                      Department Of Transportation
+                      MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South           Sanborn Avenue
+
+East/West             Sunset Boulevard/Santa Monica Boulevard
+
+Day:          Tuesday                   Date:          December 6, 2011     Weather:          CLEAR
+
+Hours:        7-10AM 3-6PM
+
+School Day:           YES               District:          LOS ANGELES        I/S CODE                   0
+
+
+                        N/B                          S/B                      E/B                     W/B
+DUAL-                     7                           12                       71                      95
+WHEELED
+BIKES                        7                         6                       38                       35
+BUSES                        0                         0                       52                      128
+
+
+                        N/B TIME                     S/B TIME                 E/B TIME                W/B    TIME
+
+AM PK 15 MIN             20      9.00                 64    7.45              266      7.45            268    7.45
+
+PM PK 15 MIN             28      3.45                 28    4.15              311      4.30            301    5.00
+
+AM PK HOUR               62      9.00                176    7.15              978      7.45            896    9.00
+
+PM PK HOUR               76      3.00               1156    4.30             1148      4.30           1239    5.00
+
+
+                                                                                               1148      8
+NORTHBOUND Approach                                        SOUTHBOUND Approach                               TOTAL          XING S/L            XING N/L
+
+Hours           Lt      Th       Rt Total                  Hours      Lt     Th        Rt Total               N-S             Ped Sch               Ped   Sch
+7-8               9      22       12     43                7-8         56     43        63   162               205             40   7                38     4
+8-9              14      13       21     48                8-9         26     34        37     97              145             29   6                33     4
+9-10             21      17       24     62                9-10        17     19        27     63              125             46   8                33     6
+3-4              22      22       32     76                3-4         30     21        13     64              140             98   4                84     6
+4-5              15      18       22     55                4-5         36     19        33     88              143             98   4                67     3
+5-6              21      18       21     60                5-6         27     23        21     71              131            107   2                92     6
+
+TOTAL           102     110      132        344            TOTAL      192     159      194      545            889            418     31         347      29
+
+
+EASTBOUND Approach                                         WESTBOUND Approach                                TOTAL          XING W/L            XING E/L
+
+Hours           Lt  Th           Rt Total                  Hours      Lt  Th           Rt Total              E-W              Ped Sch               Ped   Sch
+7-8               9 844           10   863                 7-8         17 835           30   882              1745             25   3       6        46     6
+8-9              17 946            6   969                 8-9         23 819           20   862              1831             12   3                32     4
+9-10             17 750           15   782                 9-10        31 843           22   896              1678             18   5                19     4
+3-4              29 914           22   965                 3-4         43 981           45 1069               2034             41   5                59     2
+4-5              39 1034          22 1095                  4-5         23 1031          31 1085               2180             48   4                65     5
+5-6              25 1055          27 1107                  5-6         31 1175          33 1239               2346             59   0                53     5
+
+TOTAL           136 5543         102      5781                        168 5684         181     6033          11814            203     20         274      26
+
+              (Rev Oct 06)
+
+
+                                                                                                                     City of Los Angeles
+                                                                                                                     Department of Transportation
+EASTBOUND Approach
+Santa Monica Boulevard
+           Veer Hard
+Hours        Rt     Rt Total
+7-8           234      3 237
+8-9           254      5 259
+9-10          210      3 213
+3-4           323     10 333
+4-5           364      5 369
+5-6           422      5 427
+
+TOTAL      1807    31 1838
+                                                                                                   Counts Unlimited Inc.
+                                                                                                      PO Box 1178
+                                                                                                    Corona, CA 92878
+                                                                                                     (951) 268-6268
+City of Los Angeles                                                                                                                                                                           File Name         : LOSSASUSMAM
+N/S: Sanborn Avenue                                                                                                                                                                           Site Code         : 00000001
+E/W: Sunset Boulevard/Santa Monica Blvd                                                                                                                                                       Start Date        : 12/6/2011
+Weather: Sunny                                                                                                                                                                                Page No           :1
+
+
+                                                                                            Groups Printed- Total Volume
+                                                                                                                                                                                               Santa Monica
+                       Sanborn Avenue                           Sunset Boulevard                           Sanborn Avenue                          Sunset Boulevard
+                                                                                                                                                                                                 Boulevard
+                         Southbound                                Westbound                                 Northbound                               Eastbound
+                                                                                                                                                                                              Northeastbound
+                                Bear             App.              Bear                    App.    Hard                             App.                             Hard     App.    Hard       Bear    Bear   Hard      App.
+ Start Time     Left    Thru           Right             Left             Thru   Right                      Left   Thru   Right             Left    Thru    Right                                                                 Int. Total
+                               Right             Total             Left                    Total    Left                            Total                           Right     Total    Left      Left   Right   Right     Total
+
+ 07:00 AM         8       8      0        3     19         5        0 133          7      145        0        0      4      3        7        2     138       1        0     141        0          0     45        1      46       358
+ 07:15 AM        10       5       0      9       24        7         0    178      9      194        0        5      7      7       19        1     197       2        0     200        0          0     50        2      52       489
+ 07:30 AM        19      14       0     22       55        2         0    262     11      275        0        3      5      2       10        4     249       3        0     256        0          0     58        0      58       654
+ 07:45 AM        19      16       0     29       64        3         0    262      3      268        0        1      6      0        7        2     260       4        0     266        0          0     81        0      81       686
+      Total      56      43       0     63      162       17         0    835     30      882        0        9     22     12       43        9     844      10        0     863        0          0    234        3     237      2187
+
+ 08:00 AM         8      15       0     10       33        5         0    231      6      242        0        0      4      5        9        2     245        3       0     250        0          0     58        2      60       594
+ 08:15 AM         2       4       0      9       15        7         0    185      4      196        0        3      4      7       14        8     223        1       0     232        0          0     70        2      72       529
+ 08:30 AM        12      10       0     10       32        4         0    212      4      220        0        4      5      6       15        4     226        0       0     230        0          0     63        0      63       560
+ 08:45 AM         4       5       0      8       17        7         0    191      6      204        0        7      0      3       10        3     252        2       0     257        0          0     63        1      64       552
+      Total      26      34       0     37       97       23         0    819     20      862        0       14     13     21       48       17     946        6       0     969        0          0    254        5     259      2235
+
+ 09:00 AM         2       6       0      7       15        8         0    190      5      203        0        7      5      8       20        2     197       4        0     203        0          0     53        0      53       494
+ 09:15 AM         2       8       0      5       15        4         0    218      7      229        0        6      3      4       13        7     210       5        0     222        0          0     64        1      65       544
+ 09:30 AM         7       4       0      6       17        8         0    223      7      238        0        3      5      3       11        5     186       2        0     193        0          0     49        0      49       508
+ 09:45 AM         6       1       0      9       16       11         0    212      3      226        0        5      4      9       18        3     157       4        0     164        0          0     44        2      46       470
+      Total      17      19       0     27       63       31         0    843     22      896        0       21     17     24       62       17     750      15        0     782        0          0    210        3     213      2016
+
+ Grand Total                           127      322       71         0    2497           2640        0       44     52     57      153       43     2540                    2614        0          0    698      11      709      6438
+ Apprch %       30.7    29.8           39.4                               94.6                              28.8          37.3                       97.2                                               98.4
+                                                                          38.8                                                                       39.5                                               10.8
+
+
+
+
+                       Sanborn Avenue                           Sunset Boulevard                           Sanborn Avenue                          Sunset Boulevard                   Santa Monica Boulevard
+                         Southbound                                Westbound                                 Northbound                               Eastbound                           Northeastbound
+                                Bear             App.              Bear                    App.    Hard                             App.                             Hard     App.    Hard       Bear    Bear   Hard      App.
+ Start Time     Left    Thru           Right             Left             Thru   Right                      Left   Thru   Right             Left    Thru    Right                                                                 Int. Total
+                               Right             Total             Left                    Total    Left                            Total                           Right     Total    Left      Left   Right   Right     Total
+
+Peak Hour Analysis From 07:00 AM to 09:45 AM - Peak 1 of 1
+Peak Hour for Entire Intersection Begins at 07:30 AM
+ 07:30 AM   19 14        0 22       55      2    0 262 11 275                                        0        3      5       2     10         4 249            3       0     256        0          0     58        0      58        654
+ 07:45 AM               16              29      64                        262      3      268        0        1      6                              260        4            266                         81               81        686
+ 08:00 AM         8     15       0     10       33         5        0     231      6      242        0        0      4       5         9      2     245       3        0     250        0          0     58       2      60        594
+ 08:15 AM         2      4       0      9       15         7        0     185      4      196        0        3      4       7     14         8     223       1        0     232        0          0     70        2      72        529
+ Total Volume                                                             940     24      981        0        7     19     14       40       16     977      11        0    1004        0          0    267        4     271      2463
+% App. Total    28.7    29.3           41.9              1.7              95.8   2.4                        17.5   47.5                     1.6      97.3   1.1                                         98.5    1.5
+      PHF       .632    .766   .000    .603    .652      .607     .000    .897   .545    .892      .000     .583   .792   .500    .714      .500     .939   .688    .000    .944      .000      .000    .824    .500    .836      .898
+                                                                                                                   Counts Unlimited Inc.
+                                                                                                                      PO Box 1178
+                                                                                                                    Corona, CA 92878
+                                                                                                                     (951) 268-6268
+City of Los Angeles                                                                                                                                                                                                      File Name                         : LOSSASUSMAM
+N/S: Sanborn Avenue                                                                                                                                                                                                      Site Code                         : 00000001
+E/W: Sunset Boulevard/Santa Monica Blvd                                                                                                                                                                                  Start Date                        : 12/6/2011
+Weather: Sunny                                                                                                                                                                                                           Page No                           :2
+
+                                                                                                                         Sanborn Avenue
+                                                                                                                     Out       In     Total
+                                                                                                                       59       167     226
+
+
+                                                                                                                    70     0  49                        48
+                                                                                                                 Right Bear Thru                      Left
+                                                                                                                       Right
+
+
+
+
+                                                                                                                 Peak Hour Data
+                                                       2021
+
+
+                                                                    16
+
+
+
+
+                                                                                                                                                                                              Right Thru Bear
+                                                       Total
+
+
+
+
+                                                                  Left
+
+
+
+
+                                                                                                                                                                                                                             1306
+                                                                                                                                                                                                                             Out
+                                                                                                                                                                                                 24
+
+
+
+
+                                                                                                                                                                                                                               Sunset Boulevard
+                                      Sunset Boulevard
+
+
+
+
+                                                                                                                                    North
+                                                                              977
+                                                                  Hard Right Thru
+
+
+
+
+                                                                                                                                                                                                     940
+                                              1004
+                                               In
+
+
+
+
+                                                                                                                                                                                                                                      In
+                                                                                                                 Peak Hour Begins at 07:30 AM
+
+
+
+
+                                                                                                                                                                                                                                       981
+                                                                          11
+
+
+
+
+                                                                                                                                                                                                         Left
+                                                                                                                 Total Volume
+
+
+
+
+                                                                                                                                                                                                              0
+                                     1017
+                                     Out
+
+
+
+
+                                                                                                                                                                                                                                              Total
+                                                                                                                                                                                                                                               2287
+                                                                      0
+
+                                                                  Right
+
+
+
+
+                                                                                                                                                                                                   Left
+                                                                                                                                                                                                     17
+                                                               H eft
+                                                                ar
+                                                                 L 0
+                                                                   d
+                                                                      Be eft
+                                                                        ar
+                                                                        L 0
+
+
+                                                                             Be igh 7
+
+
+
+
+                                                                                                                  Hard
+                                      O
+                                                 0
+
+
+
+
+                                                                               R 26
+                                                                               ar t
+                                          ut
+
+
+
+
+                                                                                                                  Left         Left        Thru Right
+                                                                                   H igh
+
+
+
+
+                                                                                                                       0              7      19    14
+                                                                                    ar t
+                                                                                     R 4
+                                                               27
+
+
+
+
+                                                                                      d
+                                                                 In
+                                                                 1
+
+
+
+
+                                                                                                                       81        40     121
+                                                                       27 tal
+                                                                        To
+
+
+
+
+                                                                                                                     Out       In     Total
+                                                                         1
+
+
+
+
+                                     Santa Monica Boulevard                                                              Sanborn Avenue
+
+Peak Hour Analysis From 07:00 AM to 09:45 AM - Peak 1 of 1
+Peak Hour for Each Approach Begins at:
+                07:15 AM                                                  07:30 AM                                09:00 AM                                    07:30 AM                                            07:45 AM
+
+      +0
+                 10          5      0                 9          24            2       0 262       11     275        0         7          5      8      20       4 249            3      0      256                  0                0               81     0     81
+    mins.
+     +15
+                19         14       0            22              55            3       0 262         3     268       0         6           3     4       13      2       260      4      0    266                    0                0               58     2     60
+    mins.
+     +30
+                 19        16       0            29              64            5       0 231         6     242       0         3           5     3       11      2       245      3      0      250                  0                0               70     2      72
+    mins.
+ +45 mins.         8        15      0              10             33           7       0 185         4     196       0         5           4     9      18       8 223            1      0      232                  0                0            63        0      63
+ Total Volume                                                                               940     24     981       0        21          17    24       62    16        977     11      0    1004                   0                0           272        4     276
+% App. Total    31.8       28.4                 39.8                      1.7               95.8   2.4                       33.9     27.4     38.7           1.6        97.3   1.1                                                               98.6     1.4
+      PHF       .737       .781   .000          .603            .688       .607      .000   .897   .545   .892    .000       .750     .850     .667    .775   .500       .939   .688   .000   .944                .000          .000              .840     .500   .852
+                                                                                                      Counts Unlimited Inc.
+                                                                                                         PO Box 1178
+                                                                                                       Corona, CA 92878
+                                                                                                        (951) 268-6268
+City of Los Angeles                                                                                                                                                                              File Name         : LOSSASUSMPM
+N/S: Sanborn Avenue                                                                                                                                                                              Site Code         : 00000001
+E/W: Sunset Boulevard/Santa Monica Blvd                                                                                                                                                          Start Date        : 12/6/2011
+Weather: Sunny                                                                                                                                                                                   Page No           :1
+
+
+                                                                                             Groups Printed- Total Volumve
+                                                                                                                                                                                                  Santa Monica
+                         Sanborn Avenue                           Sunset Boulevard                            Sanborn Avenue                          Sunset Boulevard
+                                                                                                                                                                                                    Boulevard
+                           Southbound                                Westbound                                  Northbound                               Eastbound
+                                                                                                                                                                                                 Northeastbound
+                                  Bear             App.              Bear                     App.    Hard                             App.                             Hard     App.    Hard       Bear    Bear   Hard      App.
+ Start Time       Left    Thru           Right             Left             Thru    Right                      Left   Thru   Right             Left    Thru    Right                                                                 Int. Total
+                                 Right             Total             Left                     Total    Left                            Total                           Right     Total    Left      Left   Right   Right     Total
+
+ 03:00 PM           5       3      0        6     14       10         0 256          14      280        0        5      5      8       18        6     226       9        0     241        0          0     57       1       58       611
+ 03:15 PM          11       3       0      1       15       15         0    250      13      278        0        3      7      6       16       11     223       3        0     237        0          0    100       1      101       647
+ 03:30 PM           8       5       0      3       16        8         0    243      11      262        0        6      3      5       14        8     226       5        0     239        0          0     85       6       91       622
+ 03:45 PM           6      10       0      3       19       10         0    232       7      249        0        8      7     13       28        4     239       5        0     248        0          0     81       2       83       627
+      Total        30      21       0     13       64       43         0    981      45     1069        0       22     22     32       76       29     914      22        0     965        0          0    323      10      333      2507
+
+ 04:00 PM           7       4       0     10       21        4         0    248        6     258        0        2      0       9      11        4     231        4       0     239        0          0     70        0      70        599
+ 04:15 PM          10       7       0     11       28        6         0    248        8     262        0        1      4       5      10       10     260        2       0     272        0          0     92        1      93        665
+ 04:30 PM          11       3       0      3       17        7         0    264        9     280        0        9      5       3      17       11     292        8       0     311        0          0     93        1      94        719
+ 04:45 PM           8       5       0      9       22        6         0    271        8     285        0        3      9       5      17       14     251        8       0     273        0          0    109        3     112        709
+                                                                                            108                                                                                109
+      Total       36      19       0      33      88       23         0      1031   31                  0      15     18     22       55       39       1034   22        0                 0         0      364      5     369       2692
+                                                                                              5                                                                                  5
+
+       05:00 PM                                                               280                                                                      265        9       0     278        0          0     94        0      94        708
+ 05:15 PM           5       8       0       6      19        7         0    278       5      290        0        8      6       6      20       12     271        3       0     286        0          0    110        1     111        726
+ 05:30 PM           7       6       0       3      16        7         0    305       7      319        0        4      5       2      11        4     264        7       0     275        0          0    117        2     119        740
+ 05:45 PM           6       5       0       7      18        4         0    312      13      329        0        2      4       6      12        5     255        8       0     268        0          0    100        2     102        729
+                                                                                            123                                                                                110
+      Total       27      23       0      21      71       31         0      1175   33                  0      21     18     21       60       25       1055   27        0                 0         0      421      5     426       2903
+                                                                                              9                                                                                  7
+
+ Grand Total                                                                3187    109     3393        0       58     58     75      191       93     3003                    3167        0          0    1108            1128      8102
+ Apprch %         41.7    28.3                                              93.9                               30.4   30.4   39.3                       94.8                                               98.2
+                                                                            39.3                                                                        37.1                                               13.7
+
+
+
+
+                         Sanborn Avenue                           Sunset Boulevard                            Sanborn Avenue                          Sunset Boulevard                   Santa Monica Boulevard
+                           Southbound                                Westbound                                  Northbound                               Eastbound                           Northeastbound
+                                  Bear             App.              Bear                     App.    Hard                             App.                             Hard     App.    Hard       Bear    Bear   Hard      App.
+ Start Time       Left    Thru           Right             Left             Thru    Right                      Left   Thru   Right             Left    Thru    Right                                                                 Int. Total
+                                 Right             Total             Left                     Total    Left                            Total                           Right     Total    Left      Left   Right   Right     Total
+
+Peak Hour Analysis From 03:00 PM to 05:45 PM - Peak 1 of 1
+Peak Hour for Entire Intersection Begins at 05:00 PM
+ 05:00 PM    9     4     0     5    18 13        0 280  8                                    301        0        7      3       7     17         4 265            9      0     278         0         0 94            0      94        708
+ 05:15 PM    5     8     0     6    19      7    0 278  5                                    290        0        8      6       6     20       12      271        3       0    286         0         0 110            1     111        726
+ 05:30 PM                                                                   305        7     319        0        4      5       2      11        4     264        7       0     275        0          0    117       2     119        740
+ 05:45 PM           6       5      0        7     18         4        0     312      13     329         0        2      4       6     12         5     255        8       0     268        0          0    100        2     102        729
+ Total Volume                                                               1175            1239        0       21     18     21       60       25     1055                    1107        0          0    421        5     426      2903
+ % App. Total      38     32.4           29.6              2.5              94.8    2.7                                                        2.3      95.3   2.4                                         98.8    1.2
+      PHF         .750    .719   .000    .750    .934      .596     .000    .942    .635    .941      .000     .656   .750   .750    .750      .521     .973   .750    .000    .968      .000      .000    .900    .625    .895      .981
+                                                                                                                    Counts Unlimited Inc.
+                                                                                                                       PO Box 1178
+                                                                                                                     Corona, CA 92878
+                                                                                                                      (951) 268-6268
+City of Los Angeles                                                                                                                                                                                                    File Name                        : LOSSASUSMPM
+N/S: Sanborn Avenue                                                                                                                                                                                                    Site Code                        : 00000001
+E/W: Sunset Boulevard/Santa Monica Blvd                                                                                                                                                                                Start Date                       : 12/6/2011
+Weather: Sunny                                                                                                                                                                                                         Page No                          :2
+
+                                                                                                                         Sanborn Avenue
+                                                                                                                     Out       In     Total
+                                                                                                                       76        71     147
+
+
+                                                                                                                    21     0  23                     27
+                                                                                                                 Right Bear Thru                   Left
+                                                                                                                       Right
+
+
+
+
+                                                                                                                 Peak Hour Data
+                                                       2324
+
+
+                                                                    25
+
+
+
+
+                                                                                                                                                                                           Right Thru Bear
+                                                       Total
+
+
+
+
+                                                                  Left
+
+
+
+
+                                                                                                                                                                                                                          1524
+                                                                                                                                                                                                                          Out
+                                                                                                                                                                                              33 1175
+
+
+
+
+                                                                                                                                                                                                                            Sunset Boulevard
+                                      Sunset Boulevard
+
+
+
+
+                                                                                                                                    North
+                                                                          27 1055
+                                                                  Hard Right Thru
+                                              1107
+                                               In
+
+
+
+
+                                                                                                                                                                                                                                  1239
+                                                                                                                                                                                                                                   In
+                                                                                                                 Peak Hour Begins at 05:00 PM
+
+
+
+
+                                                                                                                                                                                                      Left
+                                                                                                                 Total Volumve
+
+
+
+
+                                                                                                                                                                                                           0
+                                     1217
+                                     Out
+
+
+
+
+                                                                                                                                                                                                                                           Total
+                                                                                                                                                                                                                                            2763
+                                                                      0
+
+                                                                  Right
+
+
+
+
+                                                                                                                                                                                                Left
+                                                                                                                                                                                                  31
+                                                               H eft
+                                                                ar
+                                                                 L 0
+                                                                   d
+                                                                      Be eft
+                                                                        ar
+                                                                        L 0
+
+
+                                                                             Be igh 1
+
+
+
+
+                                                                                                                  Hard
+                                      O
+                                                 0
+
+
+
+
+                                                                               R 42
+                                                                               ar t
+                                          ut
+
+
+
+
+                                                                                                                  Left         Left Thru Right
+                                                                                   H igh
+
+
+
+
+                                                                                                                       0         21   18    21
+                                                                                    ar t
+                                                                                     R 5
+                                                               42
+
+
+
+
+                                                                                      d
+                                                                 In
+                                                                 6
+
+
+
+
+                                                                                                                       86        60     146
+                                                                       42 tal
+                                                                        To
+
+
+
+
+                                                                                                                     Out       In     Total
+                                                                         6
+
+
+
+
+                                     Santa Monica Boulevard                                                              Sanborn Avenue
+
+Peak Hour Analysis From 03:00 PM to 05:45 PM - Peak 1 of 1
+Peak Hour for Each Approach Begins at:
+                04:00 PM                                                  05:00 PM                                03:00 PM                                 04:30 PM                                            04:45 PM
+
+      +0
+                   7         4      0            10              21         13         0 280         8     301        0        5       5      8       18     11       292      8      0    311                    0                0 109                  3    112
+    mins.
+     +15
+                 10          7      0            11              28            7       0 278         5     290        0        3       7      6      16     14        251      8      0      273                   0               0               94     0      94
+    mins.
+ +30 mins.       11          3      0                 3          17            7       0 305         7     319        0        6       3      5       14       4      265      9      0    278                    0                0 110                  1     111
+ +45 mins.          8        5      0                  9          22           4       0    312    13     329        0         8       7    13       28     12 271             3      0      286                   0               0           117        2    119
+ Total Volume    36        19       0            33              88         31         0    1175   33     1239       0       22       22    32        76    41        1079   28       0 1148                       0               0           430        6     436
+% App. Total    40.9       21.6                 37.5                      2.5               94.8   2.7                       28.9    28.9   42.1           3.6               2.4                                                               98.6     1.4
+      PHF       .818       .679   .000          .750            .786       .596      .000   .942   .635   .941    .000       .688    .786   .615    .679   .732       .924   .778   .000   .923                .000          .000              .919     .500   .916
+

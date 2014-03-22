@@ -1,0 +1,61 @@
+                       City Of Los Angeles
+                       Department Of Transportation
+                       MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South            VISTA DEL MAR
+
+East/West              WATERVIEW ST
+
+Day:        TUESDAY                       Date:       NOVEMBER 6, 2007        Weather:            SUNNY
+
+Hours:      7-10AM 3-6PM
+
+School Day:            YES                District:          WR                 I/S CODE 16
+
+
+                        N/B                            S/B                      E/B                        W/B
+DUAL-
+WHEELED                   31                            30                          0                        1
+BIKES                      3                             2                          0                        0
+BUSES                      0                             0                          0                        0
+
+
+                        N/B TIME                       S/B TIME                 E/B TIME                   W/B TIME
+
+AM PK 15 MIN             403     7.15                  137    8.15                  0    7.00               16    7.15
+
+PM PK 15 MIN            175      5.15                  301    5.45                  0    3.00               13    5.00
+
+AM PK HOUR              1450     7.00                  510    7.45                  0    7.00               45    7.15
+
+PM PK HOUR              628      5.00                 1133    5.00                  0    3.00               38    4.45
+
+
+
+NORTHBOUND Approach                                          SOUTHBOUND Approach                                 TOTAL   XING S/L   XING N/L
+
+Hours         Lt        Th       Rt       Total              Hours    Lt  Th             Rt       Total           N-S     Ped Sch    Ped   Sch
+7-8                0    1444       6        1450             7-8       24 361                 0      385          1835     13   0      0     0
+8-9                0    1186      15        1201             8-9       36 471                 0      507          1708     22   0      1     0
+9-10               0     977      16         993             9-10      14 360                 0      374          1367     29   0      0     0
+3-4                0     388       7         395             3-4       22 592                 0      614          1009      5   0      0     0
+4-5                0     490      11         501             4-5       25 939                 0      964          1465     13   1      0     0
+5-6                0     616      12         628             5-6       32 1101                0     1133          1761     17   0      0     0
+
+TOTAL              0 5101         67        5168             TOTAL       153 3824             0     3977          9145     99   1      1    0
+
+
+EASTBOUND Approach                        NONE               WESTBOUND Approach                                  TOTAL   XING W/L   XING E/L
+
+Hours         Lt        Th       Rt       Total              Hours    Lt       Th        Rt Total                E-W      Ped Sch    Ped   Sch
+7-8                0         0        0           0          7-8       28           0     14     42                 42      0   0     16     0
+8-9                0         0        0           0          8-9       24           0     16     40                 40      0   0     14     1
+9-10               0         0        0           0          9-10      16           0     10     26                 26      0   0      3     0
+3-4                0         0        0           0          3-4         7          0     14     21                 21      0   0      5     0
+4-5                0         0        0           0          4-5       10           0     12     22                 22      0   0      5     0
+5-6                0         0        0           0          5-6       10           0     24     34                 34      0   0     14     0
+
+TOTAL              0         0        0           0          TOTAL       95         0     90         185           185      0   0     57    1
+
+            (Rev Oct 06)
+

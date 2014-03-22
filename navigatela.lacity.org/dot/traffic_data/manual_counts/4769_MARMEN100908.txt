@@ -1,0 +1,421 @@
+                                     INTERSECTION TURNING MOVEMENT COUNTS
+                                               PREPARED BY: PACIFIC TRAFFIC DATA SERVICES
+        DATE:         LOCATION:                   LOS ANGELES                                  PROJECT #:          CA10-0910-01
+        9/8/10        NORTH & SOUTH:              MENLO                                        LOCATION #:         7
+      WEDNESDAY       EAST & WEST:                MARTIN LUTHER KING JR                        CONTROL:            SIGNAL
+                      NOTES:                                                                              AM                     Y
+         ALL                                                                                              PM                     N
+       CLASSES                                                                                            MD         W                 E
+                                                                                                         OTHER                   S
+                                                                                                         OTHER                   
+                             NORTHBOUND                  SOUTHBOUND                 EASTBOUND                   WESTBOUND                               U-TURNS
+                                MENLO                       MENLO              MARTIN LUTHER KING JR          MARTIN LUTHER KING JR
+                        NL       NT       NR        SL       ST       SR      EL        ET        ER      WL          WT         WR    TOTAL   NB   SB    EB   WB   TTL
+            LANES:      0         1        0        0         1        0      1          3         0      1            3          0
+         7:00 AM        5         7       12        1        1         2      13       319        5        5         281         19     670    0    0     0    0    0
+         7:15 AM        14        16      20        4        4         2      25       348        4        4         289         35     765    0    0     0    0    0
+         7:30 AM        8         15      12        6        2         0      22       392        8        3         277         41     786    0    0     0    0    0
+         7:45 AM        11        13      9         4        3         1      19       378        7        3         296         37     781    0    0     0    0    0
+         8:00 AM        2         5       8         4        3         3      19       351        8        1         248         24     676    0    0     0    0    0
+         8:15 AM        7         9       10        5        4         2      16       349        7        2         251         29     691    0    0     0    0    0
+         8:30 AM        4         5       5         2        2         4      13       304        5        3         232         25     604    0    0     0    0    0
+         8:45 AM        5         6       7         5        3         3      12       319        8        2         249         21     640    0    0     0    0    0
+AM
+
+
+
+
+     VOLUMES            56        76      83        31       22        17    139      2,760       52       23       2,123       231    5,613   0    0     0    0    0
+     APPROACH %        26%       35%     39%       44%      31%       24%    5%        94%       2%       1%         89%        10%
+     APP/DEPART        215         /     446        70        /        97   2,951        /      2,874    2,377         /       2,196    0
+     BEGIN PEAK HR             7:15 AM
+     VOLUMES            35        49      49        18       12        6      85      1,469       27      11        1,110       137    3,008
+     APPROACH %        26%       37%     37%       50%      33%       17%     5%       93%        2%      1%         88%        11%
+     PEAK HR FACTOR             0.665                      0.900                      0.937                         0.936              0.957
+     APP/DEPART        133         /     271        36        /        50   1,581        /      1,536    1,258         /       1,151     0
+         4:00 PM        3         2       8         18       2         6      5        257        6        6         309         15     637    0    0     0    0    0
+         4:15 PM        2         5       9         13       2         6      4        274        9        6         317         8      655    0    0     0    0    0
+         4:30 PM        4         7       9         19       3         7      8        308        10       4         345         11     735    0    0     0    0    0
+         4:45 PM        3         6       7         16       4         8      5        288        11       5         331         18     702    0    0     0    0    0
+         5:00 PM        6         8       11        15       4         9      7        315        13       7         332         16     743    0    0     0    0    0
+         5:15 PM        4         5       8         11       5         9      9        313        11       8         323         12     718    0    0     0    0    0
+         5:30 PM        5         6       5         16       5         8      9        323        8        8         316         14     723    0    0     0    0    0
+         5:45 PM        4         6       8         12       3         6      6        295        12       6         298         13     669    0    0     0    0    0
+PM
+
+
+
+
+     VOLUMES            31        45      65       120       28        59     53      2,373       80       50       2,571       107    5,582   0    0     0    0    0
+     APPROACH %        22%       32%     46%       58%      14%       29%    2%        95%       3%       2%         94%        4%
+     APP/DEPART        141         /     205       207        /       158   2,506        /      2,558    2,728         /       2,661    0
+     BEGIN PEAK HR             4:30 PM
+     VOLUMES            17        26      35        61       16        33     29      1,224       45      24        1,331        57    2,898
+     APPROACH %        22%       33%     45%       55%      15%       30%     2%       94%        3%      2%         94%         4%
+     PEAK HR FACTOR             0.780                      0.948                      0.969                         0.981              0.975
+     APP/DEPART        78          /     112       110        /       85    1,298        /      1,320    1,412         /       1,381     0
+
+                                                           MENLO
+
+                                                         NORTH SIDE
+
+
+ MARTIN LUTHER KING JR               WEST SIDE                              EAST SIDE          MARTIN LUTHER KING JR
+
+
+                                                         SOUTH SIDE
+
+                                                           MENLO
+
+                                 PEDESTRIAN + BIKE CROSSINGS                                  PEDESTRIAN CROSSINGS                              BICYCLE CROSSINGS
+                               N SIDE    S SIDE   E SIDE   W SIDE   TOTAL             N SIDE    S SIDE   E SIDE     W SIDE     TOTAL           NS   SS    ES   WS TOTAL
+        7:00 AM                  0        0         0        0        0                 0         0       0            0         0             0    0     0    0    0
+        7:15 AM                  0        0         0        0        0                 0         0       0            0         0             0    0     0    0    0
+        7:30 AM                  0        0         0        0        0                 0         0       0            0         0             0    0     0    0    0
+        7:45 AM                  0        0         0        0        0                 0         0       0            0         0             0    0     0    0    0
+AM
+
+
+
+
+        8:00 AM                  0        0         0        0        0                 0         0       0            0         0             0    0     0    0    0
+        8:15 AM                  0        0         0        0        0                 0         0       0            0         0             0    0     0    0    0
+        8:30 AM                  0        0         0        0        0                 0         0       0            0         0             0    0     0    0    0
+        8:45 AM                  0        0         0        0        0                 0         0       0            0         0             0    0     0    0    0
+         TOTAL                   0        0         0        0        0                 0         0       0            0         0             0    0     0    0    0
+        4:00 PM                  0        0         0        0        0                 0         0       0            0         0             0    0     0    0    0
+        4:15 PM                  0        0         0        0        0                 0         0       0            0         0             0    0     0    0    0
+        4:30 PM                  0        0         0        0        0                 0         0       0            0         0             0    0     0    0    0
+        4:45 PM                  0        0         0        0        0                 0         0       0            0         0             0    0     0    0    0
+PM
+
+
+
+
+        5:00 PM                  0        0         0        0        0                 0         0       0            0         0             0    0     0    0    0
+P
+
+
+
+
+        5:15 PM                  0        0         0        0        0                 0         0       0            0         0             0    0     0    0    0
+        5:30 PM                  0        0         0        0        0                 0         0       0            0         0             0    0     0    0    0
+        5:45 PM                  0        0         0        0        0                 0         0       0            0         0             0    0     0    0    0
+         TOTAL                   0        0         0        0        0                 0         0       0            0         0             0    0     0    0    0
+                                                              PACIFIC TRAFFIC DATA SERVICES
+                                                                 TURNING MOVEMENT COUNTS
+
+                                                                         MENLO
+                                                  277   76       50    151     TOTAL               651
+                                                  207   59       28    120       PM                205
+                                                   70   17       22     31       AM                446
+
+
+
+
+                                                                                                               2,377
+                                                                                                                       2,728
+
+                                                                                                                               5,105
+                        4,857
+
+                                 2,661
+                                          2,196
+
+
+
+
+                                                                                                               231
+                                                                                                                       107
+
+                                                                                                                               338
+
+                                                                                                                                       MARTIN LUTHER KING JR
+MARTIN LUTHER KING JR
+
+
+
+
+                                                                                                               2,123
+                                                                                                                       2,571
+
+                                                                                                                               4,694
+                                                                      LOS ANGELES
+                        TOTAL
+
+
+
+                                         AM
+                                PM
+
+
+
+
+                                                                       CA10-0910-01
+
+
+
+
+                                                                                                               23
+                                                                                                                       50
+
+                                                                                                                               73
+                                                                                                                               TOTAL
+                        192
+
+
+
+                                          139
+
+
+
+
+                                                                       ALL HOURS
+
+
+
+
+                                                                                                               AM
+                                                                                                                       PM
+                                 53
+                        5,133
+
+                                 2,373
+                                          2,760
+
+
+
+
+                                                                                                               2,874
+                                                                                                                       2,558
+
+                                                                                                                               5,432
+                        132
+
+                                 80
+                                          52
+                        5,457
+
+                                2,506
+                                         2,951
+
+
+
+
+                                                         97             AM       56       76       83    215
+                                                        158             PM       31       45       65    141
+                                                        255           TOTAL      87       121      148   356
+
+                                                                         MENLO
+
+                                                                         MENLO
+                                                  146   39       28     79     TOTAL               383
+                                                  110   33       16     61       PM                112
+                                                   36   6        12     18       AM                271
+                                                                                                               1,258
+                                                                                                                       1,412
+
+                                                                                                                               2,670
+                        2,532
+
+                                 1,381
+                                          1,151
+
+
+
+
+                                                                                                               137
+
+
+
+                                                                                                                               194
+                                                                                                                       57
+
+
+
+                                                                                                                                       MARTIN LUTHER KING JR
+MARTIN LUTHER KING JR
+
+
+
+
+                                                                                                               1,110
+                                                                                                                       1,331
+
+                                                                                                                               2,441
+
+
+
+
+                                                                       PEAK HOUR
+                        TOTAL
+
+
+
+                                         AM
+                                PM
+
+
+
+
+                                                                                                               11
+                                                                                                                       24
+
+                                                                                                                               35
+
+
+
+
+                                                                        AM     7:15 AM
+                                                                                         8:45 AM
+                                                                                                                               TOTAL
+                        114
+
+
+
+
+                                                                                                               AM
+                                                                                                                       PM
+                                 29
+                                          85
+
+
+
+
+                                                                                         #REF!
+                        2,693
+
+                                 1,224
+                                          1,469
+
+
+
+
+                                                                        PM     4:30 PM
+                                                                                         5:45 PM
+                                                                                                               1,536
+                                                                                                                       1,320
+
+                                                                                                                               2,856
+                        72
+
+                                 45
+                                          27
+                        2,879
+
+                                1,298
+                                         1,581
+
+
+
+
+                                                        50              AM       35       49       49    133
+                                                        85              PM       17       26       35     78
+                                                        135            Total     52       75       84    211
+
+                                                                         MENLO
+                                      INTERSECTION TURNING MOVEMENT COUNTS
+                                                PREPARED BY: PACIFIC TRAFFIC DATA SERVICES
+         DATE:        LOCATION:                   LOS ANGELES                                   PROJECT #:           CA10-0910-01
+         9/8/10       NORTH & SOUTH:              MENLO                                         LOCATION #:          7
+       WEDNESDAY      EAST & WEST:                MARTIN LUTHER KING JR                         CONTROL:             SIGNAL
+        CLASS 1:      NOTES:                                                                               AM                       Y
+       PASSENGER                                                                                           PM                       N
+        VEHICLES                                                                                           MD          W                 E
+                                                                                                          OTHER                     S
+                                                                                                          OTHER                     
+                             NORTHBOUND                   SOUTHBOUND                 EASTBOUND                    WESTBOUND                                  U-TURNS
+                                MENLO                        MENLO              MARTIN LUTHER KING JR           MARTIN LUTHER KING JR
+                        NL       NT       NR         SL       ST       SR      EL        ET        ER      WL           WT         WR    TOTAL   NB     SB     EB   WB   TTL
+             LANES:     0         1        0         0         1        0      1          3         0      1             3          0
+         7:00 AM         5         7       12         1        1         2    13        308         5        5         267         19     645                            0
+         7:15 AM        13        16       19         4        4         2    25        342         4        3         273         35     740                            0
+         7:30 AM         7        15       12         6        2         0    22        378         8        3         264         41     758                            0
+         7:45 AM        11        13        9         4        3         1    19        371         7        3         285         36     762                            0
+         8:00 AM         2         4        8         4        3         3    19        340         8        1         235         24     651                            0
+         8:15 AM         7         9       10         5        4         2    16        339         7        2         235         29     665                            0
+         8:30 AM         4         5        4         2        2         3    12        289         5        3         220         24     573                            0
+         8:45 AM         5         6        7         4        3         3    12        306         7        2         238         21     614                            0
+AM
+
+
+
+
+     VOLUMES            54        75       81        30       22        16    138      2,673       51       22        2,017       229    5,408   0      0      0    0    0
+     APPROACH %        26%       36%      39%       44%      32%       24%    5%        93%       2%       1%          89%        10%
+     APP/DEPART        210         /      442        68        /        95   2,862        /      2,784    2,268          /       2,087    0
+     BEGIN PEAK HR             7:15 AM
+     VOLUMES            33        48       48        18       12        6      85      1,431       27      10         1,057       136    2,911
+     APPROACH %        26%       37%      37%       50%      33%       17%     6%       93%        2%      1%          88%        11%
+     PEAK HR FACTOR             0.672                       0.900                      0.945                          0.928              0.955
+     APP/DEPART        129         /      269        36        /        49   1,543        /      1,497    1,203          /       1,096     0
+         4:00 PM         3         2        8        14        2         6      5       244         5        4         302         15     610                            0
+         4:15 PM         2         5        9        11        2         6      4       261         9        6         304          8     627                            0
+         4:30 PM         4         7        9        19        3         7      8       296        10        4         336         11     714                            0
+         4:45 PM         3         6        7        16        4         8      5       279        11        5         326         17     687                            0
+         5:00 PM         6         8       11        15        4         9      7       298        13        7         321         15     714                            0
+         5:15 PM         4         5        8        11        5         9      9       305       11         8         311        12      698                            0
+         5:30 PM         5         6        5        15        5         8      9       314         8        8         309         14     706                            0
+         5:45 PM         4         6        8        12        3         6      6       290        12        6         293         12     658                            0
+PM
+
+
+
+
+     VOLUMES            31        45       65       113       28        59     53      2,287       79       48        2,502       104    5,414   0      0      0    0    0
+     APPROACH %        22%       32%      46%       57%      14%       30%    2%        95%       3%       2%          94%        4%
+     APP/DEPART        141         /      202       200        /       155   2,419        /      2,465    2,654          /       2,592    0
+     BEGIN PEAK HR             4:30 PM
+     VOLUMES            17        26       35        61       16        33     29      1,178       45      24         1,294        55    2,813
+     APPROACH %        22%       33%      45%       55%      15%       30%     2%       94%        4%      2%          94%         4%
+     PEAK HR FACTOR             0.780                       0.948                      0.963                          0.978              0.985
+     APP/DEPART        78          /      110       110        /       85    1,252        /      1,274    1,373          /       1,344     0
+
+                                                            MENLO
+
+                                                          NORTH SIDE
+
+
+     MARTIN LUTHER KING JR            WEST SIDE                              EAST SIDE          MARTIN LUTHER KING JR
+
+
+                                                          SOUTH SIDE
+
+                                                            MENLO
+
+                                        PEDESTRIAN CROSSINGS                                  PEDESTRIAN ACTIVATIONS                                 BICYCLE CROSSINGS
+                               N SIDE    S SIDE    E SIDE   W SIDE   TOTAL             N SIDE    S SIDE   E SIDE      W SIDE     TOTAL           NS     SS     ES   WS TOTAL
+         7:00 AM                 14       19         0        0        33                                                           0            0      0      0    0    0
+         7:15 AM                 11        6         2        3        22                                                           0            0      0      0    0    0
+         7:30 AM                 14        7         1        0        22                                                           0            0      0      0    0    0
+         7:45 AM                  4        7         3        0        14                                                           0            0      0      0    0    0
+AM
+
+
+
+
+         8:00 AM                  9        4         2        0        15                                                           0            0      0      0    0    0
+A
+
+
+
+
+         8:15 AM                  4       10         2        4        20                                                           0            0      0      0    0    0
+         8:30 AM                  6       10         0        2        18                                                           0            0      0      0    0    0
+         8:45 AM                  9        8         4        4        25                                                           0            0      0      0    0    0
+          TOTAL                  71       71        14       13        169               0          0       0            0          0            0      0      0    0    0
+         4:00 PM                  6        4         3        5        18                                                           0            0      0      0    0    0
+         4:15 PM                  7       16         4       12        39                                                           0            0      0      0    0    0
+         4:30 PM                 12       15        11        8        46                                                           0            0      0      0    0    0
+         4:45 PM                  6       18         2        5        31                                                           0            0      0      0    0    0
+PM
+
+
+
+
+         5:00 PM                  4       17         5        8        34                                                           0            0      0      0    0    0
+         5:15 PM                  3       10         3        5        21                                                           0            0      0      0    0    0
+         5:30 PM                  4       18         6        1        29                                                           0            0      0      0    0    0
+         5:45 PM                  4       12         7        6        29                                                           0            0      0      0    0    0
+          TOTAL                  46       110       41       50        247               0          0       0            0          0            0      0      0    0    0
+

@@ -1,0 +1,61 @@
+ACCUTEK                            TRAFFIC COUNT SUMMARY
+
+STREET:
+North/South       MANNING AVE.
+
+East/West         PICO BLVD.
+
+Day:    WEDNESDAY                       Date:       11-20-1996                 Weather:          SUNNY
+
+Hours: 7-10 AM 3-6 PM                   FILE:       AM015
+
+School Day:       YES                   District:           LOS ANGELES
+
+
+                    N/B                               S/B                         E/B                      W/B
+DUAL-
+WHEELED                 8                              3                          70                       159
+BIKES                   1                              1                           1                         1
+BUSES                   2                              1                          27                        46
+
+
+                    N/B TIME                          S/B TIME                    E/B TIME                 W/B     TIME
+
+AM PK 15 MIN         50     8:45                      31     9:15                528      9:00             383      8:15
+
+PM PK 15 MIN         60     3:15                      62     5:45                440      3:30            557       5:45
+
+AM PK HOUR          192     8:00                     115     9:00               1988      8:00            1442      8:00
+
+PM PK HOUR          208     4:00                     216     5:00               1630      3:00            2114      5:00
+
+
+
+NORTHBOUND Approach                                         SOUTHBOUND Approach                                  TOTAL     XING S/L       XING N/L
+
+Hours       Lt     Th       Rt          Total               Hours     Lt         Th       Rt     Total            N-S      Ped    Sch     Ped    Sch
+7-8          37     44       28           109               7-8            9      52       28        89            198     11      0       7      0
+8-9          60     58       74           192               8-9           11      43       52      106             298     13      0       7      0
+9-10         53     38       81           172               9-10          19      37       59      115             287     26      0       3      0
+3-4          72     46       84           202               3-4           25      81       55      161             363     36      0      26      0
+4-5          79     61       68           208               4-5           27     101       55      183             391     29      0      34      0
+5-6          72     55       51           178               5-6           19     124       73      216             394     11      0      23      0
+
+TOTAL       373     302     386          1061               TOTAL     110        438      322      870             1931    126        0   100        0
+
+
+EASTBOUND Approach                                          WESTBOUND Approach                                   TOTAL     XING W/L       XING E/L
+
+Hours       Lt      Th      Rt          Total               Hours     Lt         Th       Rt     Total            E-W      Ped    Sch     Ped    Sch
+7-8          16    1046      22          1084               7-8        39       1066       21     1126             2210     7      0       8      0
+8-9          14    1940      34          1988               8-9        66       1334       42     1442             3430    11      0       9      0
+9-10         33    1692      57          1382               9-10       61       1288       50     1399             2781    10      0       9      0
+3-4          43    1528      59          1630               3-4       104       1549       47     1700             3330    29      0      11      0
+4-5          41    1364      65          1470               4-5        96       1580       28     1704             3174    37      0      21      0
+5-6          40    1388      59          1487               5-6       145       1931       38     2114             3601    11      0      18      0
+
+TOTAL       187    8558     296          9041               TOTAL     511       8748      226     9485            18526    105        0    76        0
+
+
+                                                                                                                  20457
+

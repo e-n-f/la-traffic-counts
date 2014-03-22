@@ -1,0 +1,62 @@
+ACCUTEK                          TRAFFIC COUNT SUMMARY
+
+STREET:
+North/South       CHURCH LN.
+
+East/West         SUNSET BLVD.
+
+Day:    TUESDAY                       Date:       12-17-1996              Weather:          CLEAR
+
+Hours: 7-10 AM 3-6 PM                 FILE:       AM009
+
+School Day:       YES                 District:           LOS ANGELES
+
+
+                    N/B                             S/B                      E/B                     W/B
+DUAL-
+WHEELED              11                            129                      147                      114
+BIKES                 3                              1                        2                        1
+BUSES                 3                             67                       66                       44
+
+
+                    N/B TIME                        S/B TIME                 E/B TIME                W/B     TIME
+
+AM PK 15 MIN         32   8:15                     434     9:15             708      8:15           394       9:00
+
+PM PK 15 MIN         65   5:30                     385     3:30             662      5:45           435       3:15
+
+AM PK HOUR          114   8:00                    1668     9:00            2734      8:00           1435      9:00
+
+PM PK HOUR          225   5:00                    1378     3:00            2476      5:00           1538      3:00
+
+
+
+
+NORTHBOUND Approach                                       SOUTHBOUND Approach                              TOTAL     XING S/L       XING N/L
+
+Hours       Lt     Th     Rt          Total               Hours     Lt      Th       Rt     Total           N-S      Ped   Sch      Ped   Sch
+7-8          43       4    53           100               7-8       485     144      694     1323           1423      0     0        1     1
+8-9          56       2    56           114               8-9       490     127      968     1585           1699      2     1        4     0
+9-10         57       5    32             94              9-10      521     153      994     1668           1762     12     0        8     0
+3-4          90       5    24           119               3-4       446     102      830     1378           1497      0     0        4     0
+4-5         124      12    29           165               4-5       423      79      768     1270           1435      3     0        6     0
+5-6         176      10    39           225               5-6       431      93      786     1310           1535      0     0        2     0
+
+TOTAL       546      38   233            817              TOTAL    2796     698 5040         8534            9351     17        1    25        1
+
+
+EASTBOUND Approach                                        WESTBOUND Approach                               TOTAL     XING W/L       XING E/L
+
+Hours       Lt      Th    Rt          Total               Hours     Lt      Th       Rt     Total           E-W      Ped   Sch      Ped   Sch
+7-8          77    1975   111          2163               7-8        18     839      304     1161           3324      1     0        0     0
+8-9         161    2443   130          2734               8-9        29     996      342     1367           4101      0     0        2     1
+9-10        133    1931   127          2191               9-10       15    1044      376     1435           3626      0     1        4     0
+3-4         314    1897    82          2293               3-4        21     993      524     1538           3831      0     0        7    18
+4-5         393    1715   104          2212               4-5        12     965      403     1380           3592      0     0        5     8
+5-6         581    1802    93          2476               5-6        28    1022      402     1452           3928      0     0        0     1
+
+TOTAL 1659 11763          647         14069               TOTAL     123    5859 2351         8333           22402      1        1    18    28
+
+
+                                                                                                            31753
+

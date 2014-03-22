@@ -1,0 +1,537 @@
+                      City Of Los Angeles
+                      Department Of Transportation
+                      MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South           Vermont Avenue
+
+East/West             Fountain Avenue
+
+Day:          Wednesday              Date:          December 7, 2011     Weather:          CLEAR
+
+Hours:        7-10AM 3-6PM
+
+School Day:           YES            District:          LOS ANGELES        I/S CODE                   0
+
+
+                        N/B                       S/B                      E/B                     W/B
+DUAL-                    83                        89                       24                      34
+WHEELED
+BIKES                    16                        44                       25                       22
+BUSES                   134                       132                       13                       40
+
+
+                        N/B TIME                  S/B TIME                 E/B TIME                W/B    TIME
+
+AM PK 15 MIN            305   8.00                253    8.15              131      8.30            174    8.45
+
+PM PK 15 MIN            327   3.00                351    5.00              176      5.30            351    5.00
+
+AM PK HOUR             1117   8.00                951    7.45              471      7.45            668    8.00
+
+PM PK HOUR             1228   3.00               1264    4.15              667      4.45           1281    5.00
+
+
+
+NORTHBOUND Approach                                     SOUTHBOUND Approach                               TOTAL             XING S/L             XING N/L
+
+Hours           Lt     Th     Rt Total                  Hours      Lt     Th        Rt Total               N-S                Ped Sch             Ped   Sch
+7-8             115    825    138 1078                  7-8         60    653        37   750              1828                21   3              19     5
+8-9             125    828    154 1107                  8-9         75    818        53   946              2053                37   0              30     1
+9-10             99    855    158 1112                  9-10        60    703        66   829              1941                31   2              34     5
+3-4             151    936    141 1228                  3-4        123    980       102 1205               2433                81 10               82     9
+4-5             117    925    158 1200                  4-5        140    994        81 1215               2415                46   2              74     9
+5-6             111    934    136 1181                  5-6        147    969        88 1204               2385                62   0              61     2
+
+TOTAL           732 5368      892       6906            TOTAL      605 4415         427     5447          12439               278     17          300   31
+
+
+EASTBOUND Approach                                      WESTBOUND Approach                                TOTAL             XING W/L             XING E/L
+
+Hours           Lt     Th     Rt Total                  Hours      Lt     Th        Rt Total              E-W                 Ped Sch             Ped   Sch
+7-8              42    295     77   414                 7-8        117    366        67   550               964                33   6              54    16
+8-9              63    330     75   468                 8-9        114    492        62   668              1136                58   3              67     1
+9-10             52    270     85   407                 9-10       104    374        88   566               973                52   7              54     3
+3-4              73    424    125   622                 3-4        107    384        87   578              1200               129 12               93     1
+4-5              67    482    101   650                 4-5         96    423       105   624              1274               120 11              103     0
+5-6              80    485     99   664                 5-6         86    414        98   598              1262                95   6              81     0
+
+TOTAL           377 2286      562       3225                       624 2453         507     3584           6809               487     45          452   21
+
+              (Rev Oct 06)                                                                                10969
+
+
+                                                                                                                  City of Los Angeles
+                                                                                                                  Department of Transportation
+                                                                    Counts Unlimited Inc.
+                                                                       PO Box 1178
+                                                                     Corona, CA 92878
+                                                                      (951) 268-6268
+City of Los Angeles                                                                                                               File Name    : LOSVEFOAM
+N/S: Vermont Avenue                                                                                                               Site Code    : 00000001
+E/W: Fountain Avenue                                                                                                              Start Date   : 12/7/2011
+Weather: Sunny                                                                                                                    Page No      :1
+
+
+                                                             Groups Printed- Total Volume
+                         Vermont Avenue               Fountain Avenue                 Vermont Avenue                   Fountain Avenue
+                           Southbound                   Westbound                       Northbound                        Eastbound
+   Start Time    Left     Thru Right App. Total   Left Thru Right App. Total     Left Thru Right App. Total        Left Thru Right App. Total         Int. Total
+    07:00 AM       6       127      5     138      16     86     16       118      23   188     25    236            7     53     14     74               566
+    07:15 AM      10       145      7     162      31     95     15       141      24   206     38    268            9     80     19    108               679
+    07:30 AM      18       201     14     233      39     98     16       153      36   221     46    303           11     93     19    123               812
+    07:45 AM      26       180     11     217      31     87     20       138      32   210     29    271           15     69     25    109               735
+         Total    60       653     37     750     117    366     67       550    115    825    138   1078           42    295     77    414              2792
+
+    08:00 AM       26      201      16     243     31      126      17     174      33       229     43      305     13     91       17         121       843
+    08:15 AM       20      222      11     253     24      127      15     166      40       203     37      280     16     76       18         110       809
+    08:30 AM       14      213      11     238     30      112      12     154      20       178     34      232     23     91       17         131       755
+    08:45 AM       15      182      15     212     29      127      18     174      32       218     44      294     11     72       23         106       786
+         Total     75      818      53     946    114      492      62     668     125       828    158     1111     63    330       75         468      3193
+
+    09:00 AM       19      170      12     201     24      128      13     165      18       218     55      291     17     67       14          98       755
+    09:15 AM       16      191      12     219     28       70      23     121      18       207     42      267     15     72       22         109       716
+    09:30 AM        8      160      27     195     23      102      25     150      35       205     33      273      6     63       25          94       712
+    09:45 AM       17      182      15     214     29       74      27     130      28       225     28      281     14     68       24         106       731
+         Total     60      703      66     829    104      374      88     566      99       855    158     1112     52    270       85         407      2914
+
+ Grand Total      195     2174    156     2525     335    1232     217    1784     339      2508     454    3301    157     895     237        1289      8899
+   Apprch %        7.7     86.1    6.2            18.8     69.1   12.2            10.3         76   13.8           12.2    69.4    18.4
+     Total %       2.2     24.4    1.8     28.4     3.8    13.8     2.4      20     3.8      28.2     5.1   37.1     1.8   10.1      2.7       14.5
+
+
+
+
+                        Vermont Avenue                   Fountain Avenue               Vermont Avenue                  Fountain Avenue
+                           Southbound                       Westbound                    Northbound                       Eastbound
+   Start Time      Left Thru Right App. Total        Left Thru Right App. Total    Left Thru Right App. Total      Left Thru Right App. Total         Int. Total
+Peak Hour Analysis From 07:00 AM to 07:45 AM - Peak 1 of 1
+Peak Hour for Entire Intersection Begins at 07:00 AM
+    07:00 AM          6     127        5      138     16     86      16   118       23       188      25     236      7     53       14          74       566
+    07:15 AM        10      145        7      162     31     95      15   141       24       206      38     268      9     80       19         108       679
+    07:30 AM        18      201       14      233     39     98      16   153       36       221      46     303     11     93       19         123        812
+    07:45 AM        26      180       11      217     31     87      20   138       32       210      29     271     15      69      25         109       735
+ Total Volume       60      653       37      750    117    366      67   550      115       825     138    1078     42     295      77         414      2792
+ % App. Total         8 87.1         4.9            21.3   66.5    12.2           10.7      76.5    12.8           10.1    71.3    18.6
+          PHF     .577     .812    .661      .805   .750   .934    .838  .899     .799      .933    .750    .889   .700    .793    .770        .841       .860
+                                                                                               Counts Unlimited Inc.
+                                                                                                  PO Box 1178
+                                                                                                Corona, CA 92878
+                                                                                                 (951) 268-6268
+City of Los Angeles                                                                                                                                                          File Name        : LOSVEFOAM
+N/S: Vermont Avenue                                                                                                                                                          Site Code        : 00000001
+E/W: Fountain Avenue                                                                                                                                                         Start Date       : 12/7/2011
+Weather: Sunny                                                                                                                                                               Page No          :2
+
+                                                                                                   Vermont Avenue
+                                                                                               Out       In     Total
+                                                                                                934       750    1684
+
+
+                                                                                                       37  653      60
+                                                                                                    Right Thru    Left
+
+
+
+
+                                                                                             Peak Hour Data
+                                              932
+                                             Total
+
+
+
+
+                                                                                                                                                                    Out
+                                                                                                                                                                     493
+                                                         42
+
+
+
+
+                                                                                                                                                    Right Thru
+                                                       Left
+
+
+
+
+                                                                                                                                                                       Fountain Avenue
+                             Fountain Avenue
+
+
+
+
+                                                                                                         North
+
+
+
+
+                                                                                                                                                       67
+                                      414
+
+
+                                                              295
+                                                       Right Thru
+                                     In
+
+
+
+
+                                                                                                                                                                              In
+                                                                                                                                                           366
+                                                                                             Peak Hour Begins at 07:00 AM
+
+
+
+
+                                                                                                                                                                              550
+                                                                                             Total Volume
+                                                          77
+
+
+
+
+                                                                                                                                                    Left
+                            518
+
+
+
+
+                                                                                                                                                     117
+                           Out
+
+
+
+
+                                                                                                                                                                                     Total
+                                                                                                                                                                                      1043
+                                                                                                    Left Thru Right
+                                                                                                     115  825   138
+
+
+                                                                                                847     1078     1925
+                                                                                               Out       In     Total
+                                                                                                   Vermont Avenue
+
+Peak Hour Analysis From 07:00 AM to 07:45 AM - Peak 1 of 1
+Peak Hour for Each Approach Begins at:
+                07:00 AM                                                   07:00 AM                              07:00 AM                        07:00 AM
+    +0 mins.        6         127                        5          138       16        86     16        118        23       188     25    236       7             53                14       74
+   +15 mins.       10         145                        7          162       31        95     15        141        24       206     38    268       9             80                19      108
+   +30 mins.       18         201                       14          233       39        98     16        153        36       221     46    303      11             93                19      123
+   +45 mins.       26         180                       11          217       31        87     20        138        32       210     29    271      15             69                25      109
+ Total Volume      60         653                       37          750      117       366     67        550       115       825    138   1078      42            295                77      414
+ % App. Total       8        87.1                      4.9                  21.3      66.5   12.2                 10.7      76.5   12.8           10.1           71.3              18.6
+         PHF     .577        .812                    .661           .805    .750      .934   .838       .899      .799      .933   .750   .889    .700           .793              .770      .841
+                                                                 Counts Unlimited Inc.
+                                                                    PO Box 1178
+                                                                  Corona, CA 92878
+                                                                   (951) 268-6268
+City of Los Angeles                                                                                                File Name        : LOSVEFOAM
+N/S: Vermont Avenue                                                                                                Site Code        : 00000001
+E/W: Fountain Avenue                                                                                               Start Date       : 12/7/2011
+Weather: Sunny                                                                                                     Page No          :3
+
+                                                                      Vermont Avenue
+                                                                 In - Peak Hour: 07:00 AM
+                                                                             750
+
+
+                                                                      37  653       60
+                                                                   Right Thru     Left
+
+
+
+
+                                                               Peak Hour Data
+                       In - Peak Hour: 07:00 AM
+
+
+
+
+                                                                                                         In - Peak Hour: 07:00 AM
+                                                    42
+
+
+
+
+                                                                                            Right Thru
+                                                  Left
+
+
+
+
+                                                                                                              Fountain Avenue
+                           Fountain Avenue
+
+
+
+
+                                                                          North
+
+
+
+
+                                                                                               67
+                                    414
+
+
+                                                         295
+                                                  Right Thru
+
+
+
+
+                                                                                                   366
+                                                               Total Volume
+
+
+
+
+                                                                                                                     550
+                                                     77
+
+
+
+
+                                                                                            Left
+                                                                                             117
+                                                                   Left Thru Right
+                                                                    115  825   138
+
+
+                                                                            1078
+                                                                 In - Peak Hour: 07:00 AM
+                                                                      Vermont Avenue
+                                                                    Counts Unlimited Inc.
+                                                                       PO Box 1178
+                                                                     Corona, CA 92878
+                                                                      (951) 268-6268
+City of Los Angeles                                                                                                              File Name    : LOSVEFOPM
+N/S: Vermont Avenue                                                                                                              Site Code    : 00000001
+E/W: Fountain Avenue                                                                                                             Start Date   : 12/7/2011
+Weather: Sunny                                                                                                                   Page No      :1
+
+
+                                                             Groups Printed- Total Volume
+                         Vermont Avenue               Fountain Avenue                 Vermont Avenue                  Fountain Avenue
+                           Southbound                   Westbound                       Northbound                       Eastbound
+   Start Time    Left     Thru Right App. Total   Left Thru Right App. Total     Left Thru Right App. Total       Left Thru Right App. Total         Int. Total
+    03:00 PM      34       226     23     283      25     81     16       122      37   247     43    327          22    114     31    167               899
+    03:15 PM      29       253     26     308      25     96     21       142      38   244     29    311          21     96     35    152               913
+    03:30 PM      29       280     23     332      30    112     23       165      31   217     27    275          12    108     33    153               925
+    03:45 PM      31       221     30     282      27     95     27       149      45   228     42    315          18    106     26    150               896
+         Total   123       980    102   1205      107    384     87       578    151    936    141   1228          73    424    125    622              3633
+
+    04:00 PM       32      245      25     302      31     105     29      165      23       214     48     285    17     117       24         158       910
+    04:15 PM       34      258      24     316      19      93     20      132      36       234     32     302    17     114       29         160       910
+    04:30 PM       37      261      21     319      26     105     27      158      19       232     41     292    16     121       21         158       927
+    04:45 PM       37      230      11     278      20     120     29      169      39       245     37     321    17     130       27         174       942
+         Total    140      994      81    1215      96     423    105      624     117       925    158    1200    67     482      101         650      3689
+
+    05:00 PM       41      282      28     351      16      94      13     123      18       216     29     263    23     108       18         149       886
+    05:15 PM       36      243      20     299      22     105      18     145      23       271     36     330    18     129       21         168       942
+    05:30 PM       32      254      20     306      24      98      38     160      27       206     32     265    18     121       37         176       907
+    05:45 PM       38      190      20     248      24     117      29     170      43       241     39     323    21     127       23         171       912
+         Total    147      969      88    1204      86     414      98     598     111       934    136    1181    80     485       99         664      3647
+
+ Grand Total      410     2943    271     3624     289    1221     290    1800     379      2795     435   3609    220   1391      325        1936    10969
+   Apprch %      11.3      81.2    7.5            16.1     67.8   16.1            10.5       77.4   12.1          11.4    71.8    16.8
+     Total %       3.7     26.8    2.5      33      2.6    11.1     2.6    16.4     3.5      25.5      4   32.9      2    12.7       3        17.6
+
+
+
+
+                        Vermont Avenue                   Fountain Avenue               Vermont Avenue                 Fountain Avenue
+                           Southbound                       Westbound                    Northbound                      Eastbound
+   Start Time      Left Thru Right App. Total        Left Thru Right App. Total    Left Thru Right App. Total     Left Thru Right App. Total         Int. Total
+Peak Hour Analysis From 03:00 PM to 05:45 PM - Peak 1 of 1
+Peak Hour for Entire Intersection Begins at 04:30 PM
+    04:30 PM        37      261       21       319    26    105      27   158       19       232     41     292    16     121       21         158       927
+    04:45 PM        37      230       11       278    20    120      29   169       39       245      37    321    17     130       27         174        942
+    05:00 PM        41      282       28       351    16     94      13   123        18      216      29    263    23     108       18         149       886
+    05:15 PM        36      243       20       299    22    105      18   145        23      271      36    330     18    129       21         168       942
+ Total Volume      151 1016           80     1247     84    424      87   595        99      964     143   1206     74    488       87         649      3697
+ % App. Total     12.1     81.5      6.4            14.1   71.3    14.6             8.2     79.9    11.9          11.4   75.2     13.4
+          PHF     .921     .901    .714       .888  .808   .883    .750  .880     .635      .889    .872   .914   .804   .938     .806        .932       .981
+                                                                                                Counts Unlimited Inc.
+                                                                                                   PO Box 1178
+                                                                                                 Corona, CA 92878
+                                                                                                  (951) 268-6268
+City of Los Angeles                                                                                                                                                           File Name        : LOSVEFOPM
+N/S: Vermont Avenue                                                                                                                                                           Site Code        : 00000001
+E/W: Fountain Avenue                                                                                                                                                          Start Date       : 12/7/2011
+Weather: Sunny                                                                                                                                                                Page No          :2
+
+                                                                                                    Vermont Avenue
+                                                                                                Out       In     Total
+                                                                                                1125     1247     2372
+
+
+                                                                                                        80 1016      151
+                                                                                                     Right Thru     Left
+
+
+
+
+                                                                                              Peak Hour Data
+                                             1252
+                                             Total
+
+
+
+
+                                                                                                                                                                     Out
+                                                                                                                                                                      782
+                                                          74
+
+
+
+
+                                                                                                                                                     Right Thru
+                                                        Left
+
+
+
+
+                                                                                                                                                                        Fountain Avenue
+                             Fountain Avenue
+
+
+
+
+                                                                                                          North
+
+
+
+
+                                                                                                                                                        87
+                                      649
+
+
+                                                               488
+                                                        Right Thru
+                                     In
+
+
+
+
+                                                                                                                                                                               In
+                                                                                                                                                            424
+                                                                                              Peak Hour Begins at 04:30 PM
+
+
+
+
+                                                                                                                                                                               595
+                                                                                              Total Volume
+                                                           87
+
+
+
+
+                                                                                                                                                     Left
+                            603
+                           Out
+
+
+
+
+                                                                                                                                                                                      Total
+                                                                                                                                                       84
+
+
+                                                                                                                                                                                       1377
+                                                                                                     Left Thru Right
+                                                                                                       99  964   143
+
+
+                                                                                                1187     1206     2393
+                                                                                                Out       In     Total
+                                                                                                    Vermont Avenue
+
+Peak Hour Analysis From 03:00 PM to 05:45 PM - Peak 1 of 1
+Peak Hour for Each Approach Begins at:
+                04:15 PM                                                    04:00 PM                              03:00 PM                        04:45 PM
+    +0 mins.       34        258                        24            316      31       105     29        165        37       247     43    327      17            130                27      174
+   +15 mins.       37        261                        21            319      19        93     20        132        38       244     29    311      23            108                18      149
+   +30 mins.       37        230                        11            278      26       105     27        158        31       217     27    275      18            129                21      168
+   +45 mins.       41        282                        28            351      20       120     29        169        45       228     42    315      18            121                37      176
+ Total Volume     149      1031                         84           1264      96       423    105        624       151       936    141   1228      76            488               103      667
+ % App. Total    11.8       81.6                       6.6                   15.4      67.8   16.8                 12.3      76.2   11.5           11.4           73.2              15.4
+         PHF     .909       .914                     .750            .900    .774      .881   .905       .923      .839      .947   .820   .939    .826           .938              .696      .947
+                                                                 Counts Unlimited Inc.
+                                                                    PO Box 1178
+                                                                  Corona, CA 92878
+                                                                   (951) 268-6268
+City of Los Angeles                                                                                                File Name        : LOSVEFOPM
+N/S: Vermont Avenue                                                                                                Site Code        : 00000001
+E/W: Fountain Avenue                                                                                               Start Date       : 12/7/2011
+Weather: Sunny                                                                                                     Page No          :3
+
+                                                                      Vermont Avenue
+                                                                 In - Peak Hour: 04:15 PM
+                                                                            1264
+
+
+                                                                      84 1031      149
+                                                                   Right Thru     Left
+
+
+
+
+                                                               Peak Hour Data
+                       In - Peak Hour: 04:45 PM
+
+
+
+
+                                                                                                         In - Peak Hour: 04:00 PM
+                                                    76
+
+
+
+
+                                                                                            Right Thru
+                                                  Left
+
+
+
+
+                                                                                                              Fountain Avenue
+                           Fountain Avenue
+
+
+
+
+                                                                                              105
+                                                                          North
+                                    667
+
+
+                                                         488
+                                                  Right Thru
+
+
+
+
+                                                                                                   423
+                                                               Total Volume
+
+
+
+
+                                                                                                                     624
+                                                    103
+
+
+
+
+                                                                                            Left
+                                                                                              96
+                                                                   Left Thru Right
+                                                                    151  936   141
+
+
+                                                                            1228
+                                                                 In - Peak Hour: 03:00 PM
+                                                                      Vermont Avenue
+

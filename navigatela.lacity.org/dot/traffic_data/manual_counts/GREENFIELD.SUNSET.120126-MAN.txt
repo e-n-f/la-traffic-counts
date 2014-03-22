@@ -1,0 +1,61 @@
+                       City Of Los Angeles
+                       Department Of Transportation
+                       MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South            GREENFIELD AV.
+
+East/West              SUNSET BL.
+
+Day:           THURSDAY                 Date:         January 26, 2012               Weather:            SUNNY
+
+Hours:      7-10AM 3-6PM                                          Chekrs:            BD
+
+School Day:            YES              District:         WESTERN                      I/S CODE 12790
+
+
+                        N/B                         S/B                                E/B                           W/B
+DUAL-
+WHEELED                      1                       0                                 112                           117
+BIKES                        0                       0                                   0                             0
+BUSES                        0                       0                                  31                            25
+
+
+                        N/B TIME                    S/B TIME                           E/B TIME                      W/B TIME
+
+AM PK 15 MIN                 7   8.00                0     7.00                        445      8.15                 297      8.30
+
+PM PK 15 MIN                 9   5.45                0     3.00                        240      3.00                 413      4.15
+
+AM PK HOUR               23      7.30                0     7.00                       1622      8.00                 1111     8.30
+
+PM PK HOUR               26      5.00                0     3.00                        904      3.00                 1617     4.45
+
+
+
+NORTHBOUND Approach                                       SOUTHBOUND Approach                                               TOTAL    XING S/L   XING N/L
+
+Hours         Lt        Th       Rt Total                 Hours             Lt        Th        Rt       Total               N-S      Ped Sch    Ped   Sch
+7-8                1         0    13     14               7-8                    0         0         0           0             14       5   0      0     0
+8-9                2         0    18     20               8-9                    0         0         0           0             20       7   0      0     0
+9-10               0         0    10     10               9-10                   0         0         0           0             10       3   0      0     0
+3-4                0         0     7      7               3-4                    0         0         0           0               7      2   0      0     0
+4-5                1         0     7      8               4-5                    0         0         0           0               8     10   0      0     0
+5-6                2         0    24     26               5-6                    0         0         0           0             26       7   0      0     0
+
+TOTAL              6         0    79         85           TOTAL                  0         0         0           0             85      34   0     0     0
+
+
+EASTBOUND Approach                                        WESTBOUND Approach                                                TOTAL    XING W/L   XING E/L
+
+Hours         Lt     Th          Rt     Total             Hours             Lt        Th        Rt       Total              E-W       Ped Sch    Ped   Sch
+7-8                0 1278          1      1279            7-8                 5        913           0      918              2197       0   0      0     0
+8-9                0 1617          5      1622            8-9                13       1035           0     1048              2670       0   0      0     0
+9-10               0 1488         12      1500            9-10               24        966           0      990              2490       0   0      0     0
+3-4                0 885          19       904            3-4                46       1316           0     1362              2266       0   0      0     0
+4-5                0 783          25       808            4-5                47       1488           0     1535              2343       0   0      0     0
+5-6                0 818          15       833            5-6                12       1561           0     1573              2406       0   0      0     0
+
+TOTAL              0 6869         77      6946            TOTAL             147 7279                 0     7426             14372      0    0     0     0
+
+            (Rev Oct 06)
+

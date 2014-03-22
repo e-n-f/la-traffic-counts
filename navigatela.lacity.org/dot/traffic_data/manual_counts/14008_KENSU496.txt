@@ -1,0 +1,61 @@
+ACCUTEK                          TRAFFIC COUNT SUMMARY
+
+STREET:
+North/South       KENTER AVE.
+
+East/West         SUNSET BLVD.
+
+Day:    THURSDAY                      Date:       12-19-1996                 Weather:          CLEAR
+
+Hours: 7-10 AM 3-6 PM                 FILE:       AM014
+
+School Day:       YES                 District:           WEST L.A.
+
+
+                    N/B                             S/B                         E/B                     W/B
+DUAL-
+WHEELED              13                             21                          18                      58
+BIKES                 1                              1                           1                       0
+BUSES                 1                              5                          30                      27
+
+
+                    N/B TIME                        S/B TIME                    E/B TIME                W/B     TIME
+
+AM PK 15 MIN         98   8:15                     226     8:15                391      7:45           416       8:15
+
+PM PK 15 MIN        132   4:45                     143     3:00                346      3:15           404       3:30
+
+AM PK HOUR          331   8:00                     634     8:00               1343      8:00           1442      8:00
+
+PM PK HOUR          499   5:00                     499     3:00               1273      3:00           1562      3:00
+
+
+
+NORTHBOUND Approach                                       SOUTHBOUND Approach                                 TOTAL     XING S/L       XING N/L
+
+Hours       Lt     Th     Rt          Total               Hours        Lt      Th       Rt     Total           N-S      Ped   Sch      Ped   Sch
+7-8          70     84     67           221               7-8          193     205       25      423            644     10     4        3     0
+8-9         100    172     59           331               8-9          247     335       52      634            965     17     0        4     0
+9-10         91    147     70           308               9-10         244     224       49      517            825      6     0        4     0
+3-4         114    243    109           466               3-4          202     215       82      499            965     14     3        5     0
+4-5         127    224    127           478               4-5          163     205       64      432            910      1     0        4     0
+5-6         135    210    154           499               5-6          143     126       36      305            804      5     0        0     1
+
+TOTAL       637    1080   586          2303               TOTAL       1192    1310      308     2810            5113     53        7    20        1
+
+
+EASTBOUND Approach                                        WESTBOUND Approach                                  TOTAL     XING W/L       XING E/L
+
+Hours       Lt      Th    Rt          Total               Hours       Lt       Th       Rt     Total           E-W      Ped   Sch      Ped   Sch
+7-8          46    1163    60          1269               7-8         130      937       97     1164            2433     2     0        3     0
+8-9          65    1197    81          1343               8-9         202     1029      211     1442            2785     1     0        7     0
+9-10         43    1020    66          1129               9-10        154      907      156     1217            2346     3     0       17     0
+3-4          77    1096   100          1273               3-4         204     1163      195     1562            2835     0     0       18     4
+4-5          54     963    74          1091               4-5         200      912      144     1256            2347     0     0       17     1
+5-6          48     939    95          1082               5-6         229     1106      151     1486            2568     0     0        6     0
+
+TOTAL       333    6378   476          7187               TOTAL       1119    6054      954     8127           15314      6        0    68        5
+
+
+                                                                                                               20427
+

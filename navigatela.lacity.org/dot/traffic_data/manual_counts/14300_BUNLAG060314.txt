@@ -1,0 +1,158 @@
+INTERSECTION TURNING MOVEMENT COUNT SUMMARY
+
+CLIENT:                    HIRSCH / GREEN TRANSPORTATION CONSULTING, INC.
+PROJECT:                   WESTSIDE MEDICAL GROUP PROJECT - LOS ANGELES
+DATE:                      TUESDAY, MARCH 14, 2006
+PERIOD:                    07:00 AM TO 10:00 AM
+INTERSECTION:    N/S       BUNDY DRIVE
+                E/W        LA GRANGE AVENUE
+FILE NUMBER:               25-AM
+
+
+  15 MINUTE      1            2          3          4          5          6         7         8          9          10         11         12
+   TOTALS       SBRT        SBTH        SBLT       WBRT       WBTH       WBLT      NBRT      NBTH       NBLT       EBRT       EBTH       EBLT
+
+
+   700-715             2          297          9          4          0        12        10        232          2          1          0          1
+   715-730             3          302        10           6          1        17        15        258          4          0          0          0
+   730-745             2          314        11           9          1        15        14        272          5          0          0          2
+   745-800             2          327        15         13           2        11        15        272          6          0          0          0
+   800-815             4          322        20         10           4        17        22        288          6          0          0          0
+   815-830             3          339        25         11           6        19        19        285          8          0          0          0
+   830-845             6          330        39         12           3        17        26        275        14           1          0          0
+   845-900             4          325        37         10           6        16        20        261        12           0          0          0
+   900-915             4          306        22         11           7        20        26        289        16           3          0          1
+   915-930             4          298        26         10           4        14        18        300        11           2          0          1
+   930-945             2          290        31         13           3        17        16        281          8          0          1          0
+   945-1000            4          296        31           8          2        23        11        274        11           1          0          1
+
+
+   1 HOUR        1            2          3          4          5          6         7         8          9          10         11         12
+   TOTALS       SBRT        SBTH        SBLT       WBRT       WBTH       WBLT      NBRT      NBTH       NBLT       EBRT       EBTH       EBLT       TOTALS
+
+
+                       9      1240           45         32           4        55        54    1034           17           1          0          3     2494
+   715-815            11      1265           56         38           8        60        66    1090           21           0          0          2     2617
+   730-830            11      1302           71         43         13         62        70    1117           25           0          0          2     2716
+   745-845            15      1318           99         46         15         64        82    1120           34           1          0          0     2794
+   800-900            17      1316           121        43         19         69        87    1109           40           1          0          0     2822
+   815-915            17      1300           123        44         22         72        91    1110           50           4          0          1     2834
+   830-930            18      1259           124        43         20         67        90    1125           53           6          0          2     2807
+   845-945            14      1219           116        44         20         67        80    1131           47           5          1          2     2746
+   900-1000           14      1190           110        42         16         74        71    1144           46           6          1          3     2717
+
+
+
+
+   THE TRAFFIC SOLUTION
+   329 DIAMOND STREET
+   ARCADIA, CALIFORNIA 91006
+   626.446.7978
+INTERSECTION TURNING MOVEMENT COUNT SUMMARY
+
+CLIENT:                    HIRSCH / GREEN TRANSPORTATION CONSULTING, INC.
+PROJECT:                   WESTSIDE MEDICAL GROUP PROJECT - LOS ANGELES
+DATE:                      TUESDAY, MARCH 14, 2006
+PERIOD:                    03:00 PM TO 06:00 PM
+INTERSECTION:    N/S       BUNDY DRIVE
+                E/W        LA GRANGE AVENUE
+FILE NUMBER:               25-PM
+
+
+  15 MINUTE      1            2          3          4         5          6          7         8          9          10         11         12
+   TOTALS       SBRT        SBTH        SBLT       WBRT      WBTH       WBLT       NBRT      NBTH       NBLT       EBRT       EBTH       EBLT
+
+
+   300-315             4          240        21         15          3        24         21        239          7          2          2          3
+   315-330             2          275        18         13          5        18         24        262        13           2          2          1
+   330-345             3          308        14         17          2        24         16        279        11           2          2          0
+   345-400             2          305        17         20          5        35         14        271          5          5          3          3
+   400-415             2          301        14         23          3        28         15        282          2          7          2          0
+   415-430             3          298        10         16          0        23         30        274          5          4          1          2
+   430-445             5          281          9        17          2        34         18        297          5          2          3          3
+   445-500             4          282        14         11          4        20         26        255          3          2          4          4
+   500-515             2          297        16         19          3        29         15        261          4          4          5          0
+   515-530             0          277        16         27          0        19         18        273          0          4          7          3
+   530-545             0          257        10         17          2        31         26        261          3          6          5          7
+   545-600             3          264          9        16          0        22         22        274          2          9          8          9
+
+
+   1 HOUR        1            2          3          4         5          6          7         8          9          10         11         12
+   TOTALS       SBRT        SBTH        SBLT       WBRT      WBTH       WBLT       NBRT      NBTH       NBLT       EBRT       EBTH       EBLT       TOTALS
+
+
+   300-400            11      1128           70         65        15         101        75    1051           36          11          9          7     2579
+   315-415             9      1189           63         73        15         105        69    1094           31          16          9          4     2677
+   330-430            10      1212           55         76        10         110        75    1106           23          18          8          5     2708
+   345-445            12      1185           50         76        10         120        77    1124           17          18          9          8     2706
+   400-500            14      1162           47         67          9        105        89    1108           15          15         10          9     2650
+   415-515            14      1158           49         63          9        106        89    1087           17          12         13          9     2626
+   430-530            11      1137           55         74          9        102        77    1086           12          12         19         10     2604
+   445-545             6      1113           56         74          9        99         85    1050           10          16         21         14     2553
+   500-600             5      1095           51         79          5        101        81    1069             9         23         25         19     2562
+
+
+
+
+   THE TRAFFIC SOLUTION
+   329 DIAMOND STREET
+   ARCADIA, CALIFORNIA 91006
+   626.446.7978
+                                                   TRAFFIC COUNT SUMMARY
+                                                                                                                               City of Los Angeles
+STREET:                                                                                                                   Department of Transportation
+North/South                BUNDY DRIVE                                                                                 Count by:
+
+East/West                  LA GRANGE AVENUE
+
+Day:     AM    TUESDAY                    Date: March 14, 2006                    Weather:         CLEAR
+         PM    TUESDAY                          March 14, 2006
+Hours:         7-10 AM 3-6 PM
+
+School Day:                YES            District:          MID WILSHIRE
+
+
+                            N/B                        S/B                          E/B                          W/B
+DUAL-
+WHEELED                     N/A                        N/A                          N/A                          N/A
+BIKES                       N/A                        N/A                          N/A                          N/A
+BUSES                       N/A                        N/A                          N/A                          N/A
+
+
+                            N/B TIME                   S/B TIME                     E/B TIME                     W/B    TIME
+
+AM PK 15 MIN                331    9:00                375 8:30                         4   9:00                  38     9:00
+
+PM PK 15 MIN                320    4:30                325 3:30                      26     5:45                  60     3:45
+
+AM PK HOUR                 1,268   8:30               1,454 8:00                     10     9:00                 138     8:15
+
+PM PK HOUR                 1,218   3:45               1,277 3:30                     67     5:00                 206     3:45
+
+
+
+NORTHBOUND Approach                                          SOUTHBOUND Approach                                       TOTAL       XING S/L      XING N/L
+
+Hours            Lt         Th     Rt     Total              Hours          Lt     Th       Rt        Total             N-S        Ped   Sch     Ped     Sch
+7-8                   17   1,034    54     1,105             7-8             45   1,240       9        1,294            2,399      N/A   N/A     N/A     N/A
+8-9                   40   1,109    87     1,236             8-9            121   1,316      17        1,454            2,690      N/A   N/A     N/A     N/A
+9 - 10                46   1,144    71     1,261             9 - 10         110   1,190      14        1,314            2,575      N/A   N/A     N/A     N/A
+3-4                   36   1,051    75     1,162             3-4             70   1,128      11        1,209            2,371      N/A   N/A     N/A     N/A
+4-5                   15   1,108    89     1,212             4-5             47   1,162      14        1,223            2,435      N/A   N/A     N/A     N/A
+5-6                    9   1,069    81     1,159             5-6             51   1,095       5        1,151            2,310      N/A   N/A     N/A     N/A
+
+TOTAL             163 6,515        457    7,135              TOTAL          444 7,131        70        7,645           14,780      N/A N/A       N/A N/A
+
+
+EASTBOUND Approach                                           WESTBOUND Approach                                        TOTAL       XING W/L       XING E/L
+
+Hours            Lt         Th     Rt     Total              Hours          Lt     Th       Rt        Total             E-W        Ped   Sch     Ped     Sch
+7-8                    3      0      1         4             7-8             55       4      32          91                95      N/A   N/A     N/A     N/A
+8-9                    0      0      1         1             8-9             69      19      43         131               132      N/A   N/A     N/A     N/A
+9 - 10                 3      1      6       10              9 - 10          74      16      42         132               142      N/A   N/A     N/A     N/A
+3-4                    7      9     11       27              3-4            101      15      65         181               208      N/A   N/A     N/A     N/A
+4-5                    9     10     15       34              4-5            105       9      67         181               215      N/A   N/A     N/A     N/A
+5-6                   19     25     23       67              5-6            101       5      79         185               252      N/A   N/A     N/A     N/A
+
+TOTAL                 41     45     57      143              TOTAL          505      68      328           901          1,044      N/A N/A       N/A N/A
+

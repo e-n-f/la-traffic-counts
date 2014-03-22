@@ -1,0 +1,62 @@
+                         City Of Los Angeles
+                         Department Of Transportation
+                         MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South              La Brea Blvd                                                                                       I/S #      87
+                                                                                                                            COUNT       1
+East/West                Wilshire Blvd
+
+Day:                  TUESDAY               Date:                  4/16/2013                Weather:             SUNNY
+
+Hours:         7-10AM 3-6PM                                                Chekrs:          0
+
+School Day:              YES                District:          0                                I/S CODE         0
+
+
+                              N/B                        S/B                                     E/B                         W/B
+DUAL-
+WHEELED                         0                          0                                       0                            0
+BIKES                           0                          0                                       0                            0
+BUSES                           0                          0                                       0                            0
+
+
+                              N/B   TIME                 S/B       TIME                          E/B   TIME                  W/B     TIME
+
+AM PK 15 MIN                  399    8.45                433        8.15                         275    7.45                  485     8.00
+
+PM PK 15 MIN                  441    5.45                410        5.15                         377    5.15                  369     5.45
+
+AM PK HOUR                 1540      8.30               1615        8.00                        1043    7.45                 1772     7.45
+
+PM PK HOUR                 1672      5.00               1535        4.45                        1468    4.45                 1402     5.00
+
+
+
+
+NORTHBOUND Approach                                            SOUTHBOUND Approach                                                  TOTAL    XING S/L         XING N/L
+
+Hours            Lt        Th       Rt      Total              Hours                 Lt         Th     Rt Total                      N-S       Ped      Sch     Ped      Sch
+7-8                 95     1038       81      1214             7-8                     66       1154    140 1360                     2574        0        0       0        0   4934
+8-9                136     1230      110      1476             8-9                     81       1337    197 1615                     3091        0        0       0        0   5888
+9-10               160     1228       97      1485             9-10                    79        968    213 1260                     2745        0        0       0        0   5182
+3-4                117     1196      121      1434             3-4                    102       1133    150 1385                     2819        0        0       0        0   5319
+4-5                115     1238      105      1458             4-5                    110       1205    147 1462                     2920        0        0       0        0   5372
+5-6                106     1436      130      1672             5-6                    103       1284    148 1535                     3207        0        0       0        0   6072
+
+TOTAL              729     7366      644       8739            TOTAL                  541       7081       995       8617           17356        0        0       0        0
+
+
+EASTBOUND Approach                                             WESTBOUND Approach                                                   TOTAL    XING W/L         XING E/L
+
+Hours            Lt        Th       Rt      Total              Hours                 Lt         Th     Rt        Total               E-W       Ped      Sch     Ped      Sch
+7-8                 66      686       75       827             7-8                    192       1266        75     1533               2360       0        0       0        0
+8-9                 97      834       94      1025             8-9                    174       1502        96     1772               2797       0        0       0        0
+9-10                83      695       94       872             9-10                   190       1268       107     1565               2437       0        0       0        0
+3-4                144      970      125      1239             3-4                    206        930       125     1261               2500       0        0       0        0
+4-5                161     1104      122      1387             4-5                    196        753       116     1065               2452       0        0       0        0
+5-6                175     1182      106      1463             5-6                    260       1004       138     1402               2865       0        0       0        0
+
+TOTAL              726     5471      616       6813            TOTAL                 1218       6723       657       8598           15411        0        0       0        0
+
+               (Rev Oct 06)
+

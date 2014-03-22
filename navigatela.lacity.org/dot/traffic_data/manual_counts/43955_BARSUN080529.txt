@@ -1,0 +1,176 @@
+INTERSECTION TURNING MOVEMENT COUNT SUMMARY
+
+CLIENT:                HIRSCH/GREEN TRANSPORTATION CONSULTING, INC.
+PROJECT:               BRENTWOOD TOWN GREEN
+DATE:                  THURSDAY, MAY 29, 2008
+PERIOD:                07:00 AM TO 10:00 AM
+INTERSECTION     N/S   BARRINGTON AVENUE
+                 E/W   SUNSET BOULEVARD
+FILE NUMBER:           3-AM
+
+
+  15 MINUTE       1       2        3          4      5          6          7          8      9      10     11     12
+   TOTALS       SBRT    SBTH     SBLT    WBRT       WBTH       WBLT       NBRT       NBTH   NBLT   EBRT   EBTH   EBLT
+  0700-0715       1       5        8          10    256         21         34         4      9      15    152     0
+  0715-0730       3       6       15          11    298         26         36         8      15     16    179     0
+  0730-0745       2       8       19          19    356         31         38         7      22     30    237     1
+  0745-0800       1       13      42          24    366         39         68         11     33     45    305     1
+  0800-0815       4       17      52          32    384         58         80         13     34     54    298     2
+  0815-0830       1       12      41          24    398         50         77         18     33     53    324     1
+  0830-0845       1       10      27          21    389         62         89         7      25     48    315     0
+  0845-0900       1       8       23          11    358         52         60         7      16     40    302     0
+  0900-0915       2       11      34          15    341         51         65         5      16     37    287     1
+  0915-0930       1       11      40          19    350         56         74         13     27     44    271     0
+  0930-0945       1       11      24          18    316         58         73         8      14     21    289     1
+  0945-1000       1       14      23          19    323         74         58         11     21     26    267     0
+
+
+   1 HOUR         1       2        3          4      5          6          7          8      9      10     11     12
+   TOTALS       SBRT    SBTH     SBLT    WBRT       WBTH       WBLT       NBRT       NBTH   NBLT   EBRT   EBTH   EBLT   TOTALS
+  0700-0800       7       32      84          64    1276       117        176         30     79    106    873     2      2846
+  0715-0815       10      44      128         86    1404       154        222         39    104    145    1019    4      3359
+  0730-0830       8       50      154         99    1504       178        263         49    122    182    1164    5      3778
+  0745-0845       7       52      162         101   1537       209        314         49    125    200    1242    4      4002
+  0800-0900       7       47      143         88    1529       222        306         45    108    195    1239    3      3932
+  0815-0915       5       41      125         71    1486       215        291         37     90    178    1228    2      3769
+  0830-0930       5       40      124         66    1438       221        288         32     84    169    1175    1      3643
+  0845-0945       5       41      121         63    1365       217        272         33     73    142    1149    2      3483
+  0900-1000       5       47      121         71    1330       239        270         37     78    128    1114    2      3442
+
+
+
+
+   A.M. PEAK HOUR                                          7         52        162
+      0745-0845
+
+
+                                   4                                                               101
+
+                                 1242                                                              1537
+          SUNSET BOULEVARD
+                                  200                                                              209
+
+
+
+
+                                                         125         49        314
+
+
+                                                           BARRINGTON AVENUE
+INTERSECTION TURNING MOVEMENT COUNT SUMMARY
+
+CLIENT:                HIRSCH/GREEN TRANSPORTATION CONSULTING, INC.
+PROJECT:               BRENTWOOD TOWN GREEN
+DATE:                  THURSDAY, MAY 29, 2008
+PERIOD:                03:00 PM TO 06:00 PM
+INTERSECTION     N/S   BARRINGTON AVENUE
+                 E/W   SUNSET BOULEVARD
+FILE NUMBER:           3-PM
+
+
+  15 MINUTE       1       2        3          4     5          6          7          8      9      10     11     12
+   TOTALS       SBRT    SBTH     SBLT    WBRT      WBTH       WBLT       NBRT       NBTH   NBLT   EBRT   EBTH   EBLT
+  1500-1515       1       13      51          5    268         64         51         11     28     26    324     0
+  1515-1530       2       24      62          8    291         78         52         8      32     31    350     0
+  1530-1545       2       12      46          16   326         75         43         16     28     37    373     2
+  1545-1600       3       21      82          7    300         65         39         17     30     20    239     0
+  1600-1615       5       16      64          9    314         66         42         13     26     31    286     1
+  1615-1630       2       13      56          13   302         67         27         14     31     34    228     0
+  1630-1645       1       13      61          11   298         55         48         11     24     11    187     2
+  1645-1700       1       12      52          8    305         64         72         13     28     18    207     0
+  1700-1715       2       11      55          11   321         60         61         12     22     23    186     0
+  1715-1730       1       17      69          7    315         69         54         7      31     20    187     1
+  1730-1745       0       11      38          17   336         88         83         11     24     20    168     3
+  1745-1800       2       13      70          9    309         62         43         4      27     12    144     0
+
+
+   1 HOUR         1       2        3          4     5          6          7          8      9      10     11     12
+   TOTALS       SBRT    SBTH     SBLT    WBRT      WBTH       WBLT       NBRT       NBTH   NBLT   EBRT   EBTH   EBLT   TOTALS
+  1500-1600       8       70      241         36   1185       282        185         52    118    114    1286    2      3579
+  1515-1615       12      73      254         40   1231       284        176         54    116    119    1248    3      3610
+  1530-1630       12      62      248         45   1242       273        151         60    115    122    1126    3      3459
+  1545-1645       11      63      263         40   1214       253        156         55    111     96    940     3      3205
+  1600-1700       9       54      233         41   1219       252        189         51    109     94    908     3      3162
+  1615-1715       6       49      224         43   1226       246        208         50    105     86    808     2      3053
+  1630-1730       5       53      237         37   1239       248        235         43    105     72    767     3      3044
+  1645-1745       4       51      214         43   1277       281        270         43    105     81    748     4      3121
+  1700-1800       5       52      232         44   1281       279        241         34    104     75    685     4      3036
+
+
+
+
+   P.M. PEAK HOUR                                        12         73        254
+      1515-1615
+
+
+                                   3                                                               40
+
+                                 1248                                                             1231
+          SUNSET BOULEVARD
+                                  119                                                             284
+
+
+
+
+                                                        116         54        176
+
+
+                                                          BARRINGTON AVENUE
+                                                 TRAFFIC COUNT SUMMARY
+                                                                                                                             City of Los Angeles
+STREET:                                                                                                                 Department of Transportation
+North/South             BARRINGTON AVENUE                                                                            Count by:
+
+East/West               SUNSET BOULEVARD
+
+Day:     AM    THURSDAY                 Date: May 29, 2008                   Weather:            CLEAR
+         PM    THURSDAY                       May 29, 2008
+Hours:         7-10 AM 3-6 PM
+
+School Day:             YES             District:         WEST LOS ANGELES
+
+
+                          N/B                       S/B                        E/B                            W/B
+DUAL-
+WHEELED                   N/A                       N/A                        N/A                            N/A
+BIKES                     N/A                       N/A                        N/A                            N/A
+BUSES                     N/A                       N/A                        N/A                            N/A
+
+
+                          N/B TIME                  S/B TIME                   E/B TIME                       W/B     TIME
+
+AM PK 15 MIN               128   8:15                73 8:00                   378      8:15                  474      8:00
+
+PM PK 15 MIN               118   5:30               106 3:45                   412      3:30                  441      5:30
+
+AM PK HOUR                 488   7:45               221 7:45                  1,446     7:45                 1,847     7:45
+
+PM PK HOUR                 418   4:45               339 3:15                  1,402     3:00                 1,604     5:00
+
+
+
+NORTHBOUND Approach                                       SOUTHBOUND Approach                                        TOTAL       XING S/L      XING N/L
+
+Hours            Lt       Th     Rt     Total             Hours       Lt      Th        Rt          Total             N-S        Ped   Sch     Ped     Sch
+7-8                79       30   176       285            7-8          84       32           7         123             408       N/A   N/A     N/A     N/A
+8-9               108       45   306       459            8-9         143       47           7         197             656       N/A   N/A     N/A     N/A
+9 - 10             78       37   270       385            9 - 10      121       47           5         173             558       N/A   N/A     N/A     N/A
+3-4               118       52   185       355            3-4         241       70           8         319             674       N/A   N/A     N/A     N/A
+4-5               109       51   189       349            4-5         233       54           9         296             645       N/A   N/A     N/A     N/A
+5-6               104       34   241       379            5-6         232       52           5         289             668       N/A   N/A     N/A     N/A
+
+TOTAL             596      249 1,367     2,212            TOTAL      1,054     302       41          1,397            3,609      N/A N/A       N/A N/A
+
+
+EASTBOUND Approach                                        WESTBOUND Approach                                         TOTAL       XING W/L       XING E/L
+
+Hours            Lt      Th      Rt     Total             Hours       Lt       Th       Rt          Total             E-W        Ped   Sch     Ped     Sch
+7-8                   2   873    106       981            7-8          117    1,276      64          1,457            2,438      N/A   N/A     N/A     N/A
+8-9                   3 1,239    195     1,437            8-9          222    1,529      88          1,839            3,276      N/A   N/A     N/A     N/A
+9 - 10                2 1,114    128     1,244            9 - 10       239    1,330      71          1,640            2,884      N/A   N/A     N/A     N/A
+3-4                   2 1,286    114     1,402            3-4          282    1,185      36          1,503            2,905      N/A   N/A     N/A     N/A
+4-5                   3   908     94     1,005            4-5          252    1,219      41          1,512            2,517      N/A   N/A     N/A     N/A
+5-6                   4   685     75       764            5-6          279    1,281      44          1,604            2,368      N/A   N/A     N/A     N/A
+
+TOTAL                 16 6,105   712     6,833            TOTAL      1,391 7,820        344          9,555           16,388      N/A N/A       N/A N/A
+

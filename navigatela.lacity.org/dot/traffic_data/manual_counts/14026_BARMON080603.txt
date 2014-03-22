@@ -1,0 +1,176 @@
+INTERSECTION TURNING MOVEMENT COUNT SUMMARY
+
+CLIENT:                HIRSCH/GREEN TRANSPORTATION CONSULTING, INC.
+PROJECT:               BRENTWOOD TOWN GREEN
+DATE:                  TUESDAY, JUNE 3, 2008
+PERIOD:                07:00 AM TO 10:00 AM
+INTERSECTION    N/S    BARRINGTON AVENUE
+                E/W    MONTANA AVENUE
+FILE NUMBER:           6-AM
+
+
+  15 MINUTE      1        2        3          4     5          6          7          8      9      10     11     12
+   TOTALS       SBRT    SBTH     SBLT    WBRT      WBTH       WBLT       NBRT       NBTH   NBLT   EBRT   EBTH   EBLT
+  0700-0715      50       76      16          18    11         1          2          79     5      2      11     51
+  0715-0730      57       88      22          23    12         2          1          92     4      3      12     58
+  0730-0745      46       83      17          16    17         2          5         108     9      7      19     72
+  0745-0800      56       95      22          12    9          3          4          78     8      11     17     64
+  0800-0815      67       95      24          7     11         3          11         87     5      2      26     64
+  0815-0830      54       95      27          8     5          6          12        130     13     4      30    100
+  0830-0845      90      118      20          6     8          9          16        113     15     9      38     90
+  0845-0900      69      136      23          5     8          2          10        113     11     5      28     79
+  0900-0915      71       81      15          3     6          3          19        107     9      4      29     74
+  0915-0930      61      114      13          2     9          5          10        109     10     14     16     86
+  0930-0945      69       96      15          8     4          1          6         103     13     5      29     80
+  0945-1000      72      102      12          7     5          3          11        108     12     4      19     78
+
+
+   1 HOUR        1        2        3          4     5          6          7          8      9      10     11     12
+   TOTALS       SBRT    SBTH     SBLT    WBRT      WBTH       WBLT       NBRT       NBTH   NBLT   EBRT   EBTH   EBLT   TOTALS
+  0700-0800     209      342      77          69    49         8          12        357     26     23     59    245     1476
+  0715-0815     226      361      85          58    49         10         21        365     26     23     74    258     1556
+  0730-0830     223      368      90          43    42         14         32        403     35     24     92    300     1666
+  0745-0845     267      403      93          33    33         21         43        408     41     26    111    318     1797
+  0800-0900     280      444      94          26    32         20         49        443     44     20    122    333     1907
+  0815-0915     284      430      85          22    27         20         57        463     48     22    125    343     1926
+  0830-0930     291      449      71          16    31         19         55        442     45     32    111    329     1891
+  0845-0945     270      427      66          18    27         11         45        432     43     28    102    319     1788
+  0900-1000     273      393      55          20    24         12         46        427     44     27     93    318     1732
+
+
+
+
+   A.M. PEAK HOUR                                       284        430         85
+      0815-0915
+
+
+                                  343                                                              22
+
+                                  125                                                              27
+           MONTANA AVENUE
+                                  22                                                               20
+
+
+
+
+                                                         48        463         57
+
+
+                                                         BARRINGTON AVENUE
+INTERSECTION TURNING MOVEMENT COUNT SUMMARY
+
+CLIENT:                HIRSCH/GREEN TRANSPORTATION CONSULTING, INC.
+PROJECT:               BRENTWOOD TOWN GREEN
+DATE:                  TUESDAY, JUNE 3, 2008
+PERIOD:                03:00 PM TO 06:00 PM
+INTERSECTION    N/S    BARRINGTON AVENUE
+                E/W    MONTANA AVENUE
+FILE NUMBER:           6-PM
+
+
+  15 MINUTE      1        2        3          4      5          6          7          8      9      10     11     12
+   TOTALS       SBRT    SBTH     SBLT    WBRT       WBTH       WBLT       NBRT       NBTH   NBLT   EBRT   EBTH   EBLT
+  1500-1515      43      103      12          15     2          3          9         109     15     13     41     83
+  1515-1530      64      112      18          20     19         2          5         104     14     14     27     98
+  1530-1545      46      128      22          31     11         1          21         97     6      8      28    103
+  1545-1600      35      117      12          36     13         1          6         116     8      9      38     93
+  1600-1615      53      108      12          34     18         4          7         155     11     7      43    106
+  1615-1630      57      106      15          36     17         0          13        132     6      4      40     90
+  1630-1645      58      125      15          46     21         4          21        138     6      6      39    100
+  1645-1700      71      123      12          47     14         3          10        181     3      9      55     93
+  1700-1715      71      122      13          54     7          0          13        150     5      12     60     88
+  1715-1730      65      115      19          39     20         6          5         167     5      15     59     85
+  1730-1745      54      105      16          59     25         0          8         133     2      7      69     91
+  1745-1800      62      113      15          46     15         0          8         145     2      6      58     89
+
+
+   1 HOUR        1        2        3          4      5          6          7          8      9      10     11     12
+   TOTALS       SBRT    SBTH     SBLT    WBRT       WBTH       WBLT       NBRT       NBTH   NBLT   EBRT   EBTH   EBLT   TOTALS
+  1500-1600     188      460      64          102    45         7          41        426     43     44    134    377     1931
+  1515-1615     198      465      64          121    61         8          39        472     39     38    136    400     2041
+  1530-1630     191      459      61          137    59         6          47        500     31     28    149    392     2060
+  1545-1645     203      456      54          152    69         9          47        541     31     26    160    389     2137
+  1600-1700     239      462      54          163    70         11         51        606     26     26    177    389     2274
+  1615-1715     257      476      55          183    59         7          57        601     20     31    194    371     2311
+  1630-1730     265      485      59          186    62         13         49        636     19     42    213    366     2395
+  1645-1745     261      465      60          199    66         9          36        631     15     43    243    357     2385
+  1700-1800     252      455      63          198    67         6          34        595     14     40    246    353     2323
+
+
+
+
+   P.M. PEAK HOUR                                        265        485         59
+      1630-1730
+
+
+                                  366                                                              186
+
+                                  213                                                               62
+           MONTANA AVENUE
+                                  42                                                                13
+
+
+
+
+                                                          19        636         49
+
+
+                                                          BARRINGTON AVENUE
+                                                    TRAFFIC COUNT SUMMARY
+                                                                                                                                City of Los Angeles
+STREET:                                                                                                                    Department of Transportation
+North/South                BARRINGTON AVENUE                                                                            Count by:
+
+East/West                  MONTANA AVENUE
+
+Day:     AM    TUESDAY                    Date: June 3, 2008                      Weather:          CLEAR
+         PM    TUESDAY                          June 3, 2008
+Hours:         7-10 AM 3-6 PM
+
+School Day:                YES            District:         WEST LOS ANGELES
+
+
+                             N/B                      S/B                           E/B                           W/B
+DUAL-
+WHEELED                      N/A                      N/A                           N/A                           N/A
+BIKES                        N/A                      N/A                           N/A                           N/A
+BUSES                        N/A                      N/A                           N/A                           N/A
+
+
+                             N/B TIME                 S/B TIME                      E/B TIME                      W/B    TIME
+
+AM PK 15 MIN                 155   8:15               228 8:30                      137      8:30                  37     7:15
+
+PM PK 15 MIN                 194   4:45               206 4:45                      167      5:30                  84     5:30
+
+AM PK HOUR                   568   8:15               818 8:00                      490      8:15                 126     7:00
+
+PM PK HOUR                   704   4:30               809 4:30                      643      4:45                 274     4:45
+
+
+
+NORTHBOUND Approach                                         SOUTHBOUND Approach                                         TOTAL       XING S/L      XING N/L
+
+Hours            Lt         Th     Rt     Total             Hours       Lt         Th        Rt        Total             N-S        Ped   Sch     Ped     Sch
+7-8                   26     357    12       395            7-8              77     342      209          628            1,023      N/A   N/A     N/A     N/A
+8-9                   44     443    49       536            8-9              94     444      280          818            1,354      N/A   N/A     N/A     N/A
+9 - 10                44     427    46       517            9 - 10           55     393      273          721            1,238      N/A   N/A     N/A     N/A
+3-4                   43     426    41       510            3-4              64     460      188          712            1,222      N/A   N/A     N/A     N/A
+4-5                   26     606    51       683            4-5              54     462      239          755            1,438      N/A   N/A     N/A     N/A
+5-6                   14     595    34       643            5-6              63     455      252          770            1,413      N/A   N/A     N/A     N/A
+
+TOTAL             197 2,854        233      3,284           TOTAL       407 2,556 1,441                 4,404            7,688      N/A N/A       N/A N/A
+
+
+EASTBOUND Approach                                          WESTBOUND Approach                                          TOTAL       XING W/L       XING E/L
+
+Hours            Lt         Th     Rt     Total             Hours       Lt         Th        Rt        Total             E-W        Ped   Sch     Ped     Sch
+7-8               245         59    23       327            7-8               8      49       69          126              453      N/A   N/A     N/A     N/A
+8-9               333        122    20       475            8-9              20      32       26           78              553      N/A   N/A     N/A     N/A
+9 - 10            318         93    27       438            9 - 10           12      24       20           56              494      N/A   N/A     N/A     N/A
+3-4               377        134    44       555            3-4               7      45      102          154              709      N/A   N/A     N/A     N/A
+4-5               389        177    26       592            4-5              11      70      163          244              836      N/A   N/A     N/A     N/A
+5-6               353        246    40       639            5-6               6      67      198          271              910      N/A   N/A     N/A     N/A
+
+TOTAL           2,015        831   180      3,026           TOTAL            64     287      578            929          3,955      N/A N/A       N/A N/A
+

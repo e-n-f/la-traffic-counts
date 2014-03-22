@@ -1,0 +1,61 @@
+ACCUTEK                          TRAFFIC COUNT SUMMARY
+
+STREET:
+North/South       OVERLAND AVE.
+
+East/West         PALMS BLVD.
+
+Day:    WEDNESDAY                     Date:       11-13-1996                Weather:          SUNNY
+
+Hours: 7-10 AM 3-6 PM                 FILE:       AM028
+
+School Day:       YES                 District:           WEST L.A.
+
+
+                    N/B                             S/B                        E/B                     W/B
+DUAL-
+WHEELED              29                             18                         17                      54
+BIKES                 6                              4                          3                       3
+BUSES                 1                              6                         37                      42
+
+
+                    N/B TIME                        S/B TIME                   E/B TIME                W/B     TIME
+
+AM PK 15 MIN        265   7:45                     232     7:45               292      7:45           333       7:45
+
+PM PK 15 MIN        237   4:30                     324     5:00               316      5:15           269       4:30
+
+AM PK HOUR          942   8:00                     806     8:00               997      8:00           907       7:00
+
+PM PK HOUR          857   5:00                    1222     5:00              1117      5:00           1025      5:00
+
+
+
+NORTHBOUND Approach                                       SOUTHBOUND Approach                                TOTAL     XING S/L    XING N/L
+
+Hours       Lt     Th     Rt          Total               Hours       Lt      Th       Rt     Total           N-S      Ped   Sch   Ped    Sch
+7-8          93    709     37           839               7-8          75     403       64      542           1381     50    24    13     21
+8-9          82    784     76           942               8-9         121     594       91      806           1748     26     7    20      9
+9-10         64    635     43           742               9-10         73     477       75      625           1367     18     1    10      0
+3-4          72    631     66           769               3-4         125     745      193     1063           1832     54    98    45    103
+4-5          74    686     69           829               4-5         147     824      204     1175           2004     24     8     8      9
+5-6          89    717     51           857               5-6         142     866      214     1222           2079     13     0    24      0
+
+TOTAL       474    4162   342          4978               TOTAL       683    3909      841     5433           10411    185   138   120   142
+
+
+EASTBOUND Approach                                        WESTBOUND Approach                                 TOTAL     XING W/L    XING E/L
+
+Hours       Lt     Th     Rt          Total               Hours       Lt      Th       Rt     Total           E-W      Ped   Sch   Ped   Sch
+7-8         144    626     21           791               7-8          66     695      146      907            1698    24    10    10     6
+8-9         194    773     30           997               8-9         104     631      150      885            1882    23     2    20     4
+9-10        181    513     40           734               9-10         88     396      120      604            1338    12     0     4     0
+3-4         152    727     63           942               3-4         118     626       81      825            1767    32    32    53    28
+4-5         125    724     61           910               4-5         118     789       83      990            1900    21     8    25     5
+5-6         147    900     70          1117               5-6          90     835      100     1025            2142    26     0    34     0
+
+TOTAL       943    4263   285          5491               TOTAL       584    3972      680     5236           10727    138    52   146    43
+
+
+                                                                                                              21138
+

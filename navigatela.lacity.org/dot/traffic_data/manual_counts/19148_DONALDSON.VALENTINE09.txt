@@ -1,0 +1,61 @@
+                       City Of Los Angeles
+                       Department Of Transportation
+                       MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South            VALENTINE ST
+
+East/West              DONALDSON ST
+
+Day:          WEDNESDAY                   Date:             July 1, 2009               Weather:            SUNNY
+
+Hours:      7-10AM 3-6PM                                            Chekrs:            LEE
+
+School Day:            YES                District:         HOLLYWOOD                    I/S CODE 19148
+
+
+                        N/B                           S/B                                E/B                           W/B
+DUAL-
+WHEELED                      2                         1                                     0                           2
+BIKES                        4                         0                                     0                           1
+BUSES                        0                         0                                     0                           0
+
+
+                        N/B TIME                      S/B TIME                           E/B TIME                      W/B TIME
+
+AM PK 15 MIN                 6   9.15                  3     8.00                            0    7.00                   9    8.30
+
+PM PK 15 MIN                 8   3.30                  3     4.45                            0    3.00                   7    4.15
+
+AM PK HOUR               15      8.30                  5     7.30                            0    7.00                  30    9.00
+
+PM PK HOUR               21      3.30                  7     4.00                            0    3.00                  18    3.45
+
+
+
+NORTHBOUND Approach                                         SOUTHBOUND Approach                                              TOTAL   XING S/L    XING N/L
+
+Hours         Lt        Th       Rt       Total             Hours             Lt        Th        Rt       Total              N-S     Ped Sch     Ped   Sch
+7-8                0         1     5            6           7-8                    0         1         0           1             7      1   0       2     0
+8-9                0         1     8            9           8-9                    1         4         0           5            14      3   2       1     0
+9-10               0         2    10           12           9-10                   0         1         0           1            13      7   6       0     0
+3-4                0         4    13           17           3-4                    0         1         0           1            18      1   0       0     0
+4-5                0         0    19           19           4-5                    0         7         0           7            26      2   2       1     0
+5-6                0         5    11           16           5-6                    0         2         0           2            18      1   0       0     0
+
+TOTAL              0     13       66           79           TOTAL                  1      16           0       17               96     15   10      4    0
+
+
+EASTBOUND Approach                                          WESTBOUND Approach                                               TOTAL   XING W/L    XING E/L
+                   NONE                                                  DONALDSON ST
+Hours   Lt    Th    Rt Total                                Hours   Lt    Th   Rt Total                                      E-W      Ped Sch     Ped   Sch
+7-8        0     0    0                           0         7-8       15     0   0     15                                       15      0   0       6     0
+8-9        0     0    0                           0         8-9       23     0   1     24                                       24      0   0       2     0
+9-10       0     0    0                           0         9-10      29     0   1     30                                       30      0   0       6     0
+3-4        0     0    0                           0         3-4       14     0   1     15                                       15      0   0       2     0
+4-5        0     0    0                           0         4-5       14     0   1     15                                       15      0   0       1     0
+5-6        0     0    0                           0         5-6       17     0   1     18                                       18      0   0       2     0
+
+TOTAL              0         0        0           0         TOTAL             112            0         5      117              117     0    0      19    0
+
+            (Rev Oct 06)
+

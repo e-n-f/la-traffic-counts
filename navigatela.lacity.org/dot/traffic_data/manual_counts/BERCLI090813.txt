@@ -1,0 +1,61 @@
+                       City Of Los Angeles
+                       Department Of Transportation
+                       MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South            BERENDO ST
+
+East/West              CLINTON ST
+
+Day:           THURSDAY                   Date:        August 13, 2009                 Weather:          SUNNY
+
+Hours:      7-10AM 3-6PM                                            Chekrs:            ALAS
+
+School Day:            YES                District:         HOLLYWOOD                    I/S CODE 18799
+
+
+                        N/B                           S/B                                E/B                     W/B
+DUAL-
+WHEELED                      0                         2                                  41                       8
+BIKES                        0                         1                                   0                       3
+BUSES                        0                         0                                   0                       0
+
+
+                        N/B TIME                      S/B TIME                           E/B TIME                W/B TIME
+
+AM PK 15 MIN                 0   7.00                  8     7.00                         43      7.30            32    7.45
+
+PM PK 15 MIN                 0   3.00                  8     5.15                         40      5.30            41    5.45
+
+AM PK HOUR                   0   7.00                 21     7.00                        127      7.30           104    7.30
+
+PM PK HOUR                   0   3.00                 21     3.00                        130      5.00           138    4.00
+
+
+
+NORTHBOUND Approach                                         SOUTHBOUND Approach                                        TOTAL   XING S/L   XING N/L
+                  NONE                                                    BERENDO ST
+Hours   Lt   Th    Rt Total                                 Hours    Lt    Th   Rt Total                                N-S     Ped Sch    Ped   Sch
+7-8        0    0    0                            0         7-8         5     0  16     21                                21      0   0      8     0
+8-9        0    0    0                            0         8-9         9     0  10     19                                19      0   0      5     0
+9-10       0    0    0                            0         9-10        7     0   7     14                                14      0   0      8     0
+3-4        0    0    0                            0         3-4         7     0  14     21                                21      0   0      0     0
+4-5        0    0    0                            0         4-5         6     0   9     15                                15      0   0     10     3
+5-6        0    0    0                            0         5-6         7     0  11     18                                18      0   0      4     0
+
+TOTAL              0         0        0           0         TOTAL              41          0       67      108           108     0    0     35    3
+
+
+EASTBOUND Approach                                          WESTBOUND Approach                                         TOTAL   XING W/L   XING E/L
+
+Hours         Lt        Th       Rt       Total             Hours             Lt        Th        Rt Total             E-W      Ped Sch    Ped   Sch
+7-8             5        116          0      121            7-8                    0      82       11     93             214      4   0      0     0
+8-9             2         86          0        88           8-9                    0      78        7     85             173      0   0      0     0
+9-10            4         52          0        56           9-10                   0      59       13     72             128      0   0      0     0
+3-4             5         79          0        84           3-4                    0      89        7     96             180      0   0      0     0
+4-5             9         98          0      107            4-5                    0     129        9   138              245      0   0      0     0
+5-6            13        117          0      130            5-6                    0     104       17   121              251      0   0      0     0
+
+TOTAL          38       548           0       586           TOTAL                  0     541       64      605          1191     4    0      0    0
+
+            (Rev Oct 06)
+

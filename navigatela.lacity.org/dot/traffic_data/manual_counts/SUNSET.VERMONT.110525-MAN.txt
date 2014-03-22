@@ -1,0 +1,494 @@
+                                       City Traffic Counters, LLC.
+                                             626-256-4171
+                                                                                          File Name     : VermontSunset
+                                                                                          Site Code     : 00000000
+                                                                                          Start Date    : 5/25/2011
+                                                                                          Page No       :1
+                                            Groups Printed- 1 - Unshifted
+                  Vermont Ave             Sunset Blvd                 Vermont Ave               Sunset Blvd
+                   Southbound              Westbound                   Northbound                Eastbound
+ Start Time    Left    Thru   Right   Left     Thru    Right      Left      Thru  Right     Left     Thru     Right   Int. Total
+     Factor    1.0       1.0    1.0   1.0        1.0     1.0       1.0        1.0   1.0      1.0       1.0      1.0
+ 07:00 AM       11      111     42     12        76        4       60        122    37       20        55       34         584
+ 07:15 AM       14      140     37     11       132      13        79        124    30       25        86       36         727
+ 07:30 AM        6      169     39     28       108        8       56        127    34       25        90       51         741
+ 07:45 AM       19      170     51     31       121        8       43        153    39       38       111       56         840
+       Total    50      590    169     82       437      33       238        526   140      108       342      177        2892
+
+ 08:00 AM        9     208      57     13      106       11       60      149       43       36      116        62         870
+ 08:15 AM       11     191      47     18      110       11       61      118       41       44      123        76         851
+ 08:30 AM       11     171      61     13      118       13       54      124       36       42      123        63         829
+ 08:45 AM       11     193      69     20      136        8       54      121       49       34      118        61         874
+     Total      42     763     234     64      470       43      229      512      169      156      480       262        3424
+
+ 09:00 AM       11     198      53     13       91       10       68      157       43       47      126        44         861
+ 09:15 AM       16     139      63     16      122       13       59      137       34       43      111        76         829
+ 09:30 AM       18     165      52     18      106       11       56      137       35       52      123        58         831
+ 09:45 AM       14     137      50     26       91       10       60      144       41       52      116        62         803
+     Total      59     639     218     73      410       44      243      575      153      194      476       240        3324
+
+
+
+ 03:00 PM       10     160      59     24      111       13       57      200       24       51      149        69         927
+ 03:15 PM       15     180      57     22      118       13       70      190       24       62      148        55         954
+ 03:30 PM       10     206      48     29      122       22       65      199       33       61      160        74        1029
+ 03:45 PM       17     222      57     32      129       18       51      177       39       69      171        60        1042
+     Total      52     768     221    107      480       66      243      766      120      243      628       258        3952
+
+ 04:00 PM       19     213      48     47      131       16       64      225       33       68      175        65        1104
+ 04:15 PM       17     245      50     40      136       18       50      234       45       67      208        73        1183
+ 04:30 PM       20     241      58     25      136       22       58      206       37       66      205        78        1152
+ 04:45 PM       17     226      52     29      137       21       51      224       43       66      170        77        1113
+     Total      73     925     208    141      540       77      223      889      158      267      758       293        4552
+
+ 05:00 PM       27     219      61     30      124       10       54      203       29       76      189        68        1090
+ 05:15 PM       15     224      64     37      164       12       50      222       33       73      188        70        1152
+ 05:30 PM       20     215      49     30      114       17       39      204       21       64      191        72        1036
+ 05:45 PM       14     224      59     36      111       20       48      222       39       60      200        65        1098
+     Total      76     882     233    133      513       59      191      851      122      273      768       275        4376
+
+Grand Total    352    4567    1283    600    2850       322     1367     4119     862      1241     3452      1505      22520
+ Apprch %       5.7    73.6    20.7   15.9    75.6       8.5     21.5     64.9    13.6      20.0     55.7      24.3
+   Total %      1.6    20.3     5.7    2.7    12.7       1.4      6.1     18.3     3.8       5.5     15.3       6.7
+                                                      City Traffic Counters, LLC.
+                                                            626-256-4171
+                                                                                                                File Name                      : VermontSunset
+                                                                                                                Site Code                      : 00000000
+                                                                                                                Start Date                     : 5/25/2011
+                                                                                                                Page No                        :2
+
+                        Vermont Ave                   Sunset Blvd                         Vermont Ave                           Sunset Blvd
+                        Southbound                    Westbound                           Northbound                            Eastbound
+                                     App.                              App.                             App.                                            App.     Int.
+   Start Time   Left   Thru Right            Left Thru Right                     Left    Thru Right              Left           Thru Right
+                                    Total                              Total                            Total                                           Total   Total
+Peak Hour From 07:00 AM to 11:45 AM - Peak 1 of 1
+  Intersection 08:00 AM
+      Volume      42    763  234    1039      64   470   43             577     229       512    169     910     156            480           262        898    3424
+      Percent     4.0 73.4 22.5             11.1 81.5    7.5                    25.2      56.3   18.6            17.4           53.5          29.2
+        08:45
+                  11    193   69      273     20   136     8            164       54      121     49     224      34            118                61    213     874
+      Volume
+ Peak Factor                                                                                                                                                    0.979
+      High Int. 08:00 AM                   08:45 AM                             08:00 AM                        08:15 AM
+      Volume        9   208   57      274     20   136     8            164       60    149       43      252     44    123                        76     243
+ Peak Factor                       0.948                              0.880                             0.903                                           0.924
+
+                                                                      Vermont Ave
+                                                               Out        In      Total
+                                                                711       1039     1750
+
+
+                                                                  234   763         42
+                                                                Right Thru       Left
+                            1831
+                            Total
+
+
+
+
+                                                                                                                                   Out
+                                                                                                                                    691
+                                          156
+
+
+
+
+                                                                                                                   Right Thru
+                                         Left
+
+
+
+
+                                                                        North
+                                                                                                                      43
+
+
+
+
+                                                                                                                                   Sunset Blvd
+                           Sunset Blvd
+
+                                898
+
+
+                                                480
+                                         Right Thru
+                                In
+
+
+
+
+                                                              5/25/2011 8:00:00 AM                                                     In
+                                                                                                                          470
+
+
+                                                                                                                                       577
+
+                                                              5/25/2011 8:45:00 AM
+                                           262
+
+
+
+
+                                                                                                                   Left
+                        933
+
+
+
+
+                                                              1 - Unshifted
+                       Out
+
+
+
+
+                                                                                                                                               Total
+                                                                                                                     64
+
+
+                                                                                                                                               1268
+
+
+
+
+                                                                 Left Thru Right
+                                                                  229   512  169
+
+
+                                                               1089        910     1999
+                                                               Out        In      Total
+                                                                      Vermont Ave
+                                                      City Traffic Counters, LLC.
+                                                            626-256-4171
+                                                                                                                File Name                      : VermontSunset
+                                                                                                                Site Code                      : 00000000
+                                                                                                                Start Date                     : 5/25/2011
+                                                                                                                Page No                        :3
+                        Vermont Ave                   Sunset Blvd                         Vermont Ave                           Sunset Blvd
+                        Southbound                    Westbound                           Northbound                            Eastbound
+                                     App.                              App.                             App.                                            App.     Int.
+   Start Time   Left   Thru Right            Left Thru Right                    Left    Thru Right               Left           Thru Right
+                                    Total                              Total                            Total                                           Total   Total
+Peak Hour From 12:00 PM to 05:45 PM - Peak 1 of 1
+  Intersection 04:00 PM
+      Volume      73    925  208    1206    141    540   77             758     223       889    158    1270     267            758           293       1318    4552
+      Percent     6.1 76.7 17.2             18.6 71.2 10.2                      17.6      70.0   12.4            20.3           57.5          22.2
+        04:15
+                  17    245   50      312     40   136   18             194      50       234     45     329      67            208                73    348    1183
+      Volume
+ Peak Factor                                                                                                                                                    0.962
+      High Int. 04:30 PM                   04:00 PM                         04:15 PM                          04:30 PM
+      Volume      20    241   58      319     47   131   16             194   50    234           45      329   66    205                          78     349
+ Peak Factor                       0.945                              0.977                             0.965                                           0.944
+
+                                                                      Vermont Ave
+                                                               Out        In      Total
+                                                               1233       1206     2439
+
+
+                                                                  208   925        73
+                                                                Right Thru      Left
+                            2289
+                            Total
+
+
+
+
+                                                                                                                                   Out
+                                                                                                                                    989
+                                          267
+
+
+
+
+                                                                                                                   Right Thru
+                                         Left
+
+
+
+
+                                                                        North                                         77
+
+
+
+
+                                                                                                                                   Sunset Blvd
+                           Sunset Blvd
+
+                               1318
+
+
+                                                758
+                                         Right Thru
+                                In
+
+
+
+
+                                                                                                                                       In
+                                                              5/25/2011 4:00:00 PM
+                                                                                                                          540
+
+
+                                                                                                                                       758
+                                                              5/25/2011 4:45:00 PM
+                                           293
+
+
+
+
+                                                                                                                   Left
+                        971
+
+
+
+
+                                                              1 - Unshifted
+                                                                                                                    141
+                       Out
+
+
+
+
+                                                                                                                                               Total
+                                                                                                                                               1747
+
+
+
+
+                                                                 Left Thru Right
+                                                                  223   889  158
+
+
+                                                               1359       1270     2629
+                                                               Out        In      Total
+                                                                      Vermont Ave
+                           City Traffic Counters
+                               626.256.4171
+                                                                    File Name      : VermontSunset_Bike
+                                                                    Site Code      : 00000000
+                                                                    Start Date     : 5/25/2011
+                                                                    Page No        :1
+                                Groups Printed- 2 - Bank 1
+               Vermont Ave          Sunset Blvd         Vermont Ave       Sunset Blvd
+               Southbound           Westbound            Northbound       Eastbound
+ Start Time              Thru                 Thru                Thru              Thru        Int. Total
+     Factor               1.0                   1.0                 1.0               1.0
+ 07:00 AM                   0                     0                   2                 2               4
+ 07:15 AM                   0                     1                   1                 0               2
+ 07:30 AM                   2                     1                   1                 0               4
+ 07:45 AM                   1                     4                   1                 1               7
+       Total                3                     6                   5                 3              17
+
+ 08:00 AM                  1                     2                   1                 1                5
+ 08:15 AM                  1                     0                   3                 0                4
+ 08:30 AM                  2                     2                   2                 0                6
+ 08:45 AM                  0                     1                   1                 0                2
+     Total                 4                     5                   7                 1               17
+
+ 09:00 AM                  1                     2                   1                 0                4
+ 09:15 AM                  0                     4                   5                 1               10
+ 09:30 AM                  3                     2                   1                 0                6
+ 09:45 AM                  1                     3                   1                 1                6
+     Total                 5                    11                   8                 2               26
+
+
+
+ 03:00 PM                  1                     1                   1                 1                4
+ 03:15 PM                  2                     3                   3                 1                9
+ 03:30 PM                  1                     4                   2                 2                9
+ 03:45 PM                  0                     6                   0                 0                6
+     Total                 4                    14                   6                 4               28
+
+ 04:00 PM                  2                     7                   0                 3               12
+ 04:15 PM                  2                     1                   1                 0                4
+ 04:30 PM                  4                     2                   0                 1                7
+ 04:45 PM                  6                     2                   4                 1               13
+     Total                14                    12                   5                 5               36
+
+ 05:00 PM                  1                    10                   2                 4               17
+ 05:15 PM                  8                     6                   3                 8               25
+ 05:30 PM                  1                     3                   1                 4                9
+ 05:45 PM                  2                     4                   7                 2               15
+     Total                12                    23                  13                18               66
+
+Grand Total              42                    71                  44                33              190
+ Apprch %              100.0                 100.0               100.0             100.0
+   Total %              22.1                  37.4                23.2              17.4
+                                                       City Traffic Counters
+                                                           626.256.4171
+                                                                                            File Name          : VermontSunset_Bike
+                                                                                            Site Code          : 00000000
+                                                                                            Start Date         : 5/25/2011
+                                                                                            Page No            :2
+
+                               Vermont Ave              Sunset Blvd              Vermont Ave              Sunset Blvd
+                               Southbound               Westbound                Northbound                Eastbound
+             Start Time       Thru     App. Total      Thru     App. Total      Thru     App. Total      Thru     App. Total           Int. Total
+Peak Hour From 07:00 AM to 11:45 AM - Peak 1 of 1
+           Intersection 09:00 AM
+               Volume            5             5         11            11          8             8          2             2                   26
+               Percent       100.0                    100.0                    100.0                    100.0
+        09:15 Volume             0             0          4             4          5             5          1             1                   10
+          Peak Factor                                                                                                                0.650
+               High Int. 09:30 AM                 09:15 AM                 09:15 AM                 09:15 AM
+               Volume            3             3          4             4          5             5          1             1
+          Peak Factor                      0.417                    0.688                    0.400                    0.500
+
+                                                                      Vermont Ave
+                                                            Out           In      Total
+                                                                  8          5       13
+
+
+                                                                             5
+                                                                         Thru
+                             13
+                          Total
+
+
+
+
+                                                                                                                 Out
+                                                                                                                    2
+                                                                         North
+
+
+
+
+                                                                                                                 Sunset Blvd
+                         Sunset Blvd
+
+                                 2
+
+
+                                           2
+
+
+
+
+                                                                                                        Thru
+                                       Thru
+                              In
+
+
+
+
+                                                                                                                     In
+                                                            5/25/2011 9:00:00 AM
+                                                                                                          11
+
+
+                                                            5/25/2011 9:45:00 AM                                       11
+                      11
+
+
+
+
+                                                            2 - Bank 1
+                     Out
+
+
+
+
+                                                                                                                             Total
+                                                                                                                                13
+
+
+
+
+                                                                         Thru
+                                                                             8
+
+
+                                                                  5          8       13
+                                                            Out           In      Total
+                                                                      Vermont Ave
+                                                       City Traffic Counters
+                                                           626.256.4171
+                                                                                            File Name          : VermontSunset_Bike
+                                                                                            Site Code          : 00000000
+                                                                                            Start Date         : 5/25/2011
+                                                                                            Page No            :3
+                               Vermont Ave              Sunset Blvd              Vermont Ave              Sunset Blvd
+                               Southbound               Westbound                Northbound                Eastbound
+             Start Time       Thru     App. Total      Thru     App. Total      Thru     App. Total      Thru     App. Total           Int. Total
+Peak Hour From 12:00 PM to 05:45 PM - Peak 1 of 1
+           Intersection 05:00 PM
+               Volume           12            12         23            23         13            13         18            18                   66
+               Percent       100.0                    100.0                    100.0                    100.0
+        05:15 Volume             8             8          6             6          3             3          8             8                   25
+          Peak Factor                                                                                                                0.660
+               High Int. 05:15 PM                 05:00 PM                 05:45 PM                 05:15 PM
+               Volume            8             8         10            10          7             7          8             8
+          Peak Factor                      0.375                    0.575                    0.464                    0.563
+
+                                                                   Vermont Ave
+                                                            Out        In      Total
+                                                              13          12      25
+
+
+                                                                            12
+                                                                         Thru
+                             41
+                          Total
+
+
+
+
+                                                                                                                 Out
+                                                                                                                  18
+                                                                         North
+
+
+
+
+                                                                                                                 Sunset Blvd
+                         Sunset Blvd
+
+                                18
+
+
+                                         18
+
+
+
+
+                                                                                                        Thru
+                                       Thru
+                              In
+
+
+
+
+                                                                                                                     In
+                                                            5/25/2011 5:00:00 PM                          23
+
+
+                                                                                                                       23
+                                                            5/25/2011 5:45:00 PM
+                      23
+
+
+
+
+                                                            2 - Bank 1
+                     Out
+
+
+
+
+                                                                                                                             Total
+                                                                                                                                41
+
+
+
+
+                                                                         Thru
+                                                                            13
+
+
+                                                              12          13      25
+                                                            Out        In      Total
+                                                                   Vermont Ave
+

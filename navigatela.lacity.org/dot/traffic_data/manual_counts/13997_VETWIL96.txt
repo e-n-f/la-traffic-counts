@@ -1,0 +1,61 @@
+ACCUTEK                          TRAFFIC COUNT SUMMARY
+
+STREET:
+North/South       VETERAN AVE.
+
+East/West         WILSHIRE BLVD.
+
+Day:    THURSDAY                      Date:       12-5-1996               Weather:          CLEAR
+
+Hours: 7-10 AM 3-6 PM                 FILE:       AM054
+
+School Day:       YES                 District:           LOS ANGELES
+
+
+                    N/B                             S/B                      E/B                     W/B
+DUAL-
+WHEELED              35                             35                      237                      176
+BIKES                12                              3                        7                       42
+BUSES                13                              8                      247                      234
+
+
+                    N/B TIME                        S/B TIME                 E/B TIME                W/B     TIME
+
+AM PK 15 MIN        177   7:45                     165     8:45            1074      8:15            591      7:45
+
+PM PK 15 MIN        178   4:15                     458     5:45             739      3:30            802      3:15
+
+AM PK HOUR          639   8:00                     592     8:00            4117      8:00           2315      9:00
+
+PM PK HOUR          677   5:00                    1668     5:00            2900      3:00           2936      3:00
+
+
+
+NORTHBOUND Approach                                       SOUTHBOUND Approach                              TOTAL     XING S/L       XING N/L
+
+Hours       Lt     Th     Rt          Total               Hours     Lt      Th      Rt      Total           N-S      Ped    Sch     Ped    Sch
+7-8         128    294     71           493               7-8        56     154     344       554           1047      2      0       3     15
+8-9         142    389    108           639               8-9        95     263     234       592           1231      7      0      15      5
+9-10        139    339    108           586               9-10      105     217     233       555           1141      1      0      11      4
+3-4         154    358     40           552               3-4        33     277     725      1035           1587     10      3       3      0
+4-5         104    480     49           633               4-5        31     366     842      1239           1872      3      4       4      0
+5-6          86    557     34           677               5-6        55     506    1107      1668           2345      3      1       0      0
+
+TOTAL       753    2417   410           3580              TOTAL     375    1783    3485      5643            9223     26        8    36    24
+
+
+EASTBOUND Approach                                        WESTBOUND Approach                               TOTAL     XING W/L       XING E/L
+
+Hours       Lt      Th    Rt          Total               Hours     Lt      Th       Rt     Total           E-W      Ped    Sch     Ped    Sch
+7-8         523    3075   127          3725               7-8        82    1808       33     1923           5648      0     20       9      4
+8-9         466    3480   171          4117               8-9       100    2068       43     2211           6328      2     14      12      3
+9-10        404    3142   224          3770               9-10       86    2196       33     2315           6085     11     24       8      0
+3-4         284    2496   120          2900               3-4        55    2859       22     2936           5836     19     14       3      2
+4-5         281    1972   130          2383               4-5        73    2441         8    2522           4905     28     14       7      5
+5-6         309    2003   127          2439               5-6        72    2673       12     2757           5196     22     12       4      0
+
+TOTAL   2267 16168        899          19334              TOTAL     468 14045        151    14664           33998     82    98       43    14
+
+
+                                                                                                            43221
+

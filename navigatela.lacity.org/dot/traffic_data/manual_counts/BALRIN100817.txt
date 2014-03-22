@@ -1,0 +1,60 @@
+                     24 Hours Traffic Volume
+                     City of Los Angeles                                                                       Counter               HUGO/LAVEDIA
+
+                     Department of Transportation                                                              Date                  08/17/10
+                                                                                                               Start Time            12 AM
+
+
+Location             BALBOA BL AT RINALDI ST                           Day of Week             TUESDAY         Prepared              09/13/10
+Direction            N/S STREET                                        DOT District            WEST VALLEY             By            KL
+Serial Number        RD97581 D                                         Weather                 CLEAR
+
+
+                              NORTHBOUND or WESTBOUND                                 SOUTHBOUND or EASTBOUND
+                      1ST      2ND       3RD     4TH        HOUR         1ST           2ND      3RD   4TH          HOUR
+       Time           QTR      QTR       QTR     QTR        TOTAL        QTR           QTR      QTR   QTR          TOTAL                  TOTAL
+
+      12 AM            70        69       62     50          251          35           32       42    64              173                   424
+      1 AM             40        43       40     36          159          36           46       26    21              129                   288
+      2 AM             21        31       16     13          81           13           21       12    14               60                   141
+      3 AM             17        23       25     13          78           13           17       17    17               64                   142
+      4 AM             22        25       32     33          112          22           28       45    91              186                   298
+      5 AM             44        69       82     108         303          102          155      236   273             766                  1069
+      6 AM             94        122     174     196         586          355          474      588   563             1980                 2566
+      7 AM            177        224     268     294         963          554          629      585   545             2313                 3276
+      8 AM            246        240     272     289        1047          483          567      499   411             1960                 3007
+      9 AM            237        258     222     242         959          346          326      313   245             1230                 2189
+      10 AM           242        259     249     281        1031          245          272      265   249             1031                 2062
+      11 AM           258        266     304     284        1112          260          272      258   239             1029                 2141
+      12 NN           277        274     308     329        1188          242          285      247   225             999                  2187
+      1 PM            305        321     321     304        1251          238          229      215   241             923                  2174
+      2 PM            335        367     406     421        1529          230          226      233   216             905                  2434
+      3 PM            446        459     516     566        1987          239          218      301   248             1006                 2993
+      4 PM            489        622     577     604        2292          218          255      255   295             1023                 3315
+      5 PM            575        633     575     645        2428          299          309      251   306             1165                 3593
+      6 PM            600        581     546     515        2242          249          278      239   216             982                  3224
+      7 PM            492        432     438     351        1713          203          203      189   201             796                  2509
+      8 PM            351        325     349     290        1315          202          192      140   137             671                  1986
+      9 PM            292        337     235     213        1077          123          118      89    88              418                  1495
+      10 PM           212        223     167     155         757          89           79       67    60              295                  1052
+      11 PM           147        138     111     101         497          68           47       63    46              224                   721
+
+FIRST 12-HOURS PEAK QUARTER COUNT                 304      11 AM         3RD                           629         7 AM                  2ND
+LAST 12-HOURS PEAK QUARTER COUNT                  645       5 PM         4TH                           309         5 PM                  2ND
+24 HOUR VEHICLES TOTAL                                     24,958                                                 20,328                45,286
+TOTAL VEHICLES STANDARD DEVIATION (STD)           [+,-]    704.69                                      [+,-]      600.32               1096.49
+
+                                                          PEAK HOURS VOLUME
+                            NORTH or WEST BOUND                    SOUTH or EAST BOUND                          BOTH DIRECTIONS
+                      PEAK             VEHICLE              PEAK                  VEHICLE             PEAK                                VEHICLE
+                      HOUR             VOLUME               HOUR                  VOLUME              HOUR                                VOLUME
+First 12H Peak       11 AM               1,112              7 AM                       2,313          7 AM                                3,276
+Last 12H Peak         5 PM               2,428              5 PM                       1,165          5 PM                                3,593
+First 12H Peak STD                [+,-] 415.40                              [+,-] 789.69                                     [+,-]     1143.76
+Last 12H Peak STD                 [+,-] 594.88                              [+,-] 298.68                                     [+,-]     862.32
+
+
+
+
+     BALRIN100817
+

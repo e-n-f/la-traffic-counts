@@ -1,0 +1,61 @@
+                     City Of Los Angeles
+                     Department Of Transportation
+                     MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South          WOODLEY AV
+
+East/West            BURBANK BL
+
+Day:           THURSDAY                 Date:         March 12, 2009                  Weather:          SUNNY
+
+Hours:      7-10AM 3-6PM                                           Chekrs:            CERULLE
+
+School Day:          YES                District:          WEST VALLEY                  I/S CODE 47635
+
+
+                      N/B                           S/B                                 E/B                     W/B
+DUAL-
+WHEELED                    0                         128                                160                      135
+BIKES                      0                          14                                  1                        6
+BUSES                      0                           1                                  8                        6
+
+
+                      N/B TIME                      S/B TIME                            E/B TIME                W/B TIME
+
+AM PK 15 MIN               0   7.00                  425    7.45                        290      7.45            349    8.00
+
+PM PK 15 MIN               0   3.00                  152    3.30                        402      5.45            614    5.30
+
+AM PK HOUR                 0   7.00                 1522    7.15                       1146      7.45           1327    7.15
+
+PM PK HOUR                 0   3.00                  560    3.00                       1541      5.00           2344    5.00
+
+
+
+NORTHBOUND Approach                                        SOUTHBOUND Approach                                         TOTAL   XING S/L   XING N/L
+                  NONE                                                  WOODLEY AV
+Hours   Lt   Th    Rt Total                                Hours    Lt   Th    Rt Total                                 N-S     Ped Sch    Ped   Sch
+7-8        0    0    0                          0          7-8      987     0 425 1412                                  1412      0   0      0     0
+8-9        0    0    0                          0          8-9      809     0 604 1413                                  1413      0   0      5     0
+9-10       0    0    0                          0          9-10     442     0 348    790                                 790      0   0      5     0
+3-4        0    0    0                          0          3-4      273     0 287    560                                 560      0   0      3     0
+4-5        0    0    0                          0          4-5      201     0 305    506                                 506      0   0      5     0
+5-6        0    0    0                          0          5-6      199     0 293    492                                 492      0   0     15     0
+
+TOTAL            0         0        0           0          TOTAL         2911             0 2262         5173           5173      0   0     33    0
+
+
+EASTBOUND Approach                                         WESTBOUND Approach                                          TOTAL   XING W/L   XING E/L
+
+Hours         Lt  Th           Rt       Total              Hours             Lt        Th        Rt Total              E-W      Ped Sch    Ped   Sch
+7-8           108 834               0      942             7-8                    0    1140      108 1248               2190      0   0      0     0
+8-9           135 977               0     1112             8-9                    0    1066      100 1166               2278      4   0      0     0
+9-10          114 825               0      939             9-10                   0     886       82   968              1907      1   0      0     0
+3-4           269 928               0     1197             3-4                    0    1187      214 1401               2598      0   0      0     0
+4-5           353 1013              0     1366             4-5                    0    1456      471 1927               3293      6   0      0     1
+5-6           383 1158              0     1541             5-6                    0    1732      612 2344               3885      5   0      0     0
+
+TOTAL         1362 5735             0     7097             TOTAL                  0 7467 1587            9054          16151     16   0      0    1
+
+            (Rev Oct 06)
+

@@ -1,0 +1,181 @@
+                                                 TRAFFIC COUNT SUMMARY
+
+                                                                                                                             City of Los Angeles
+STREET:                                                                                                                Department of Transportation
+North/South              HAYVENHURST AVENUE                                                                         Count by: The Traffic Solution
+
+East/West                PARTHENIA AVENUE
+
+Day:     AM    WEDNESDAY                Date: November 30, 2011                Weather:         CLEAR
+         PM    WEDNESDAY                      November 30, 2011
+Hours:         7-10 AM 4-7 PM
+
+School Day:              YES            District:          VALLEY
+
+
+                          N/B                        S/B                         E/B                         W/B
+DUAL-
+WHEELED                   N/A                        N/A                         N/A                         N/A
+BIKES                     N/A                        N/A                         N/A                         N/A
+BUSES                     N/A                        N/A                         N/A                         N/A
+
+
+                          N/B TIME                   S/B TIME                    E/B TIME                    W/B     TIME
+
+AM PK 15 MIN              150    7:45                342 7:45                    389   8:00                  417      7:30
+
+PM PK 15 MIN              168    5:15                106 4:30                    489   5:30                  315      4:15
+
+AM PK HOUR                493    7:15               1,137 7:15                 1,459   7:30                 1,475     7:00
+
+PM PK HOUR                629    4:30                385 4:30                  1,852   5:00                 1,137     4:15
+
+
+
+NORTHBOUND Approach                                        SOUTHBOUND Approach                                      TOTAL       XING S/L       XING N/L
+
+Hours            Lt       Th     Rt     Total              Hours       Lt       Th     Rt          Total             N-S        Ped   Sch     Ped     Sch
+7-8               158      245    36       439             7-8          119      561   346          1,026            1,465      N/A   N/A     N/A     N/A
+8-9               130      208    44       382             8-9            84     422   279            785            1,167      N/A   N/A     N/A     N/A
+9 - 10              83     107    27       217             9 - 10         31     166   122            319              536      N/A   N/A     N/A     N/A
+4-5               139      328    71       538             4-5            59     175   141            375              913      N/A   N/A     N/A     N/A
+5-6               117      435    66       618             5-6            53     196   117            366              984      N/A   N/A     N/A     N/A
+6-7                 86     245    51       382             6-7            44     115    92            251              633      N/A   N/A     N/A     N/A
+
+TOTAL             713 1,568      295     2,576             TOTAL        390 1,635 1,097             3,122            5,698      N/A N/A       N/A N/A
+
+
+EASTBOUND Approach                                         WESTBOUND Approach                                       TOTAL       XING W/L       XING E/L
+
+Hours            Lt       Th     Rt     Total              Hours       Lt       Th     Rt          Total             E-W        Ped   Sch     Ped     Sch
+7-8               110    1,042    79     1,231             7-8              59 1,371    45          1,475            2,706      N/A   N/A     N/A     N/A
+8-9               115    1,065    83     1,263             8-9              43   955    30          1,028            2,291      N/A   N/A     N/A     N/A
+9 - 10              58     715    50       823             9 - 10           23   735    17            775            1,598      N/A   N/A     N/A     N/A
+4-5               188    1,378    68     1,634             4-5              27   997    71          1,095            2,729      N/A   N/A     N/A     N/A
+5-6               238    1,526    88     1,852             5-6              18 1,031    49          1,098            2,950      N/A   N/A     N/A     N/A
+6-7               159    1,218    52     1,429             6-7              21   843    37            901            2,330      N/A   N/A     N/A     N/A
+
+TOTAL             868 6,944      420     8,232             TOTAL        191 5,932         249       6,372           14,604      N/A N/A       N/A N/A
+INTERSECTION TURNING MOVEMENT COUNT SUMMARY
+
+CLIENT:                    HIRSCH/GREEN TRANSPORTATION CONSULTING, INC.
+PROJECT:                   RESTAURANT DEPOT - VAN NUYS
+DATE:                      WEDNESDAY, NOVEMBER 30, 2011
+PERIOD:                    07:00 AM TO 10:00 AM
+INTERSECTION:      N/S     HAYVENHURST AVENUE
+                   E/W     PARTHENIA AVENUE
+FILE NUMBER:               1-AM
+
+
+  15 MINUTE          1          2      3          4     5          6          7          8      9      10     11     12
+   TOTALS         SBRT         SBTH   SBLT    WBRT     WBTH       WBLT       NBRT       NBTH   NBLT   EBRT   EBTH   EBLT
+  0700-0715         60         104     10         8    312         16         6          30     20     22    217     20
+  0715-0730         90         127     21         10   340         10         9          57     31     16    215     29
+  0730-0745         85         146     41         14   389         14         10         74     52     17    291     29
+  0745-0800        111         184     47         13   330         19         11         84     55     24    319     32
+  0800-0815         85         170     30         12   275         18         14         57     39     20    339     30
+  0815-0830         87         112     25         5    241         12         9          56     30     25    301     32
+  0830-0845         58          76     14         6    239         6          10         40     24     23    228     33
+  0845-0900         49          64     15         7    200         7          11         55     37     15    197     20
+  0900-0915         33          53     10         5    197         5          5          39     27     14    187     14
+  0915-0930         31          45     10         4    206         9          9          30     23     11    190     12
+  0930-0945         38          38     7          5    187         5          5          22     20     12    175     13
+  0945-1000         20          30     4          3    145         4          8          16     13     13    163     19
+
+
+   1 HOUR            1          2      3          4     5          6          7          8      9      10     11     12
+   TOTALS         SBRT         SBTH   SBLT    WBRT     WBTH       WBLT       NBRT       NBTH   NBLT   EBRT   EBTH   EBLT   TOTALS
+  0700-0800        346         561    119         45   1371        59         36        245    158     79    1042   110     4171
+  0715-0815        371         627    139         49   1334        61         44        272    177     77    1164   120     4435
+  0730-0830        368         612    143         44   1235        63         44        271    176     86    1250   123     4415
+  0745-0845        341         542    116         36   1085        55         44        237    148     92    1187   127     4010
+  0800-0900        279         422     84         30   955         43         44        208    130     83    1065   115     3458
+  0815-0915        227         305     64         23   877         30         35        190    118     77    913     99     2958
+  0830-0930        171         238     49         22   842         27         35        164    111     63    802     79     2603
+  0845-0945        151         200     42         21   790         26         30        146    107     52    749     59     2373
+  0900-1000        122         166     31         17   735         23         27        107     83     50    715     58     2134
+
+
+
+
+   A.M. PEAK HOUR                                           371        627        139
+      0715-0815
+
+
+                                      120                                                             49
+
+                                      1164                                                            1334
+        PARTHENIA AVENUE
+                                       77                                                             61
+
+
+
+
+                                                            177        272         44
+   THE TRAFFIC SOLUTION
+   329 DIAMOND STREET
+   ARCADIA, CALIFORNIA 91005                                 HAYVENHURST AVENUE
+   626.446.7979 PHONE
+   626.446.2877 FAX
+INTERSECTION TURNING MOVEMENT COUNT SUMMARY
+
+CLIENT:                    HIRSCH/GREEN TRANSPORTATION CONSULTING, INC.
+PROJECT:                   RESTAURANT DEPOT - VAN NUYS
+DATE:                      WEDNESDAY, NOVEMBER 30, 2011
+PERIOD:                    04:00 PM TO 07:00 PM
+INTERSECTION:      N/S     HAYVENHURST AVENUE
+                   E/W     PARTHENIA AVENUE
+FILE NUMBER:               1-PM
+
+
+  15 MINUTE          1          2      3          4     5          6          7          8      9      10     11     12
+   TOTALS         SBRT         SBTH   SBLT    WBRT     WBTH       WBLT       NBRT       NBTH   NBLT   EBRT   EBTH   EBLT
+  0400-0415         22          46     14         19   223         5          19         65     27     18    321     52
+  0415-0430         32          42     16         19   290         6          15         71     36     19    353     58
+  0430-0445         49          39     18         18   243         8          19         95     40     17    354     33
+  0445-0500         38          48     11         15   241         8          18         97     36     14    350     45
+  0500-0515         30          49     11         18   265         6          19        105     32     18    362     63
+  0515-0530         29          48     15         10   281         4          19        113     36     23    384     75
+  0530-0545         26          56     10         9    257         5          18        108     26     26    409     54
+  0545-0600         32          43     17         12   228         3          10        109     23     21    371     46
+  0600-0615         27          37     10         9    240         5          14         74     28     14    347     52
+  0615-0630         29          29     13         10   214         7          17         74     18     15    333     46
+  0630-0645         20          27     11         9    192         6          10         55     21     13    281     37
+  0645-0700         16          22     10         9    197         3          10         42     19     10    257     24
+
+
+   1 HOUR            1          2      3          4     5          6          7          8      9      10     11     12
+   TOTALS         SBRT         SBTH   SBLT    WBRT     WBTH       WBLT       NBRT       NBTH   NBLT   EBRT   EBTH   EBLT   TOTALS
+  0400-0500        141         175     59         71   997         27         71        328    139     68    1378   188     3642
+  0415-0515        149         178     56         70   1039        28         71        368    144     68    1419   199     3789
+  0430-0530        146         184     55         61   1030        26         75        410    144     72    1450   216     3869
+  0445-0545        123         201     47         52   1044        23         74        423    130     81    1505   237     3940
+  0500-0600        117         196     53         49   1031        18         66        435    117     88    1526   238     3934
+  0515-0615        114         184     52         40   1006        17         61        404    113     84    1511   227     3813
+  0530-0630        114         165     50         40   939         20         59        365     95     76    1460   198     3581
+  0545-0645        108         136     51         40   874         21         51        312     90     63    1332   181     3259
+  0600-0700         92         115     44         37   843         21         51        245     86     52    1218   159     2963
+
+
+
+
+   P.M. PEAK HOUR                                           123        201         47
+      0445-0545
+
+
+                                      237                                                             52
+
+                                      1505                                                            1044
+        PARTHENIA AVENUE
+                                       81                                                             23
+
+
+
+
+                                                            130        423         74
+   THE TRAFFIC SOLUTION
+   329 DIAMOND STREET
+   ARCADIA, CALIFORNIA 91005                                 HAYVENHURST AVENUE
+   626.446.7979 PHONE
+   626.446.2877 FAX
+

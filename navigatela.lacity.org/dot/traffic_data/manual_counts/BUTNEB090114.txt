@@ -1,0 +1,60 @@
+                                                                                                                                        LOS ANGLES
+
+
+
+
+                     24 Hours Traffic Volume
+                     City of Los Angeles                                                                           Counter              HUGO
+
+                     Department of Transportation                                                                  Date                 01/14/09
+                                                                                                                   Start Time           12 AM
+
+
+Location             BUTLER AV AT NEBRASKA AV                           Day of Week               WEDNESDAY        Prepared             01/15/09
+Direction            N/S STREET                                         DOT District              WESTERN          Counter Mode         Classifier
+Serial Number        RD97581 D                                          Weather                   SUNNY
+
+
+                              NORTHBOUND or WESTBOUND                                  SOUTHBOUND or EASTBOUND
+                      1ST      2ND     3RD        4TH         HOUR        1ST           2ND        3RD   4TH           HOUR
+       Time           QTR      QTR     QTR        QTR         TOTAL       QTR           QTR        QTR   QTR           TOTAL                TOTAL
+
+      12 AM            3         3       0         3            9           3            4          3     3               13                   22
+      1 AM             0         0       0         0            0           2            0          0     0                2                    2
+      2 AM             0         0       1         0            1           0            0          3     1                4                    5
+      3 AM             0         0       0         0            0           1            0          0     0                1                    1
+      4 AM             0         0       1         0            1           1            1          0     0                2                    3
+      5 AM             0         1       1         1            3           0            0          0     4                4                    7
+      6 AM             5         4       7        10           26           0            0          4     6               10                   36
+      7 AM             7         15     12        18           52           6            7          9    15               37                   89
+      8 AM             16        20     17        16           69          29           12         16    25               82                  151
+      9 AM             17        11     21        11           60          10           18          6    10               44                  104
+      10 AM            11        16     21        19           67          10           18         27    15               70                  137
+      11 AM            17        13      7        15           52          18           21         17    23               79                  131
+      12 NN            12        16     14        13           55          18           25         23    22               88                  143
+      1 PM             13        15     15        12           55          30           24         17    22               93                  148
+      2 PM             15        16     10        12           53          28           20         19    29               96                  149
+      3 PM             12        15     19        27           73          27           34         22    35               118                 191
+      4 PM             14        15     19        21           69          25           32         29    31               117                 186
+      5 PM             16        18     19        25           78          31           26         40    48               145                 223
+      6 PM             19        16     27        23           85          31           32         19    26               108                 193
+      7 PM             14        17     14        10           55          22           26         15    19               82                  137
+      8 PM             6         2       7         2           17          19           17          3    10               49                   66
+      9 PM             6         6      12         4           28          11            9         10    17               47                   75
+      10 PM            5         3       1         4           13          15           12          4     6               37                   50
+      11 PM            3         7       3         1           14           6            7          8     6               27                   41
+
+FIRST 12-HOURS PEAK QUARTER COUNT                      21     9 AM        3RD                                 29       8 AM                  1ST
+LAST 12-HOURS PEAK QUARTER COUNT                       27     3 PM        4TH                                 48       5 PM                  4TH
+24 HOUR VEHICLES TOTAL                                         935                                                     1,355                2,290
+TOTAL VEHICLES STANDARD DEVIATION (STD)            [+,-]      28.37                                       [+,-]        42.97                69.63
+
+                                                            PEAK HOURS VOLUME
+                            NORTH or WEST BOUND                     SOUTH or EAST BOUND                             BOTH DIRECTIONS
+                      PEAK            VEHICLE                 PEAK                   VEHICLE             PEAK                              VEHICLE
+                      HOUR            VOLUME                  HOUR                   VOLUME              HOUR                              VOLUME
+First 12H Peak        8 AM                   69               8 AM                           82          8 AM                                   151
+Last 12H Peak         6 PM                   85               5 PM                       145             5 PM                                   223
+First 12H Peak STD               [+,-] 27.98                                 [+,-]     30.81                                    [+,-]       57.66
+Last 12H Peak STD                [+,-] 24.53                                 [+,-]     35.16                                    [+,-]       58.93
+

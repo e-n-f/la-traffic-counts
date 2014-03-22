@@ -1,0 +1,64 @@
+                        City Of Los Angeles
+                        Department Of Transportation
+                        MANUAL TRAFFIC COUNT SUMMARY                                                                                     1      NR from PCH to Chautauqua
+                                                                                                                                         2      NT on PCH
+STREET:                                                                                                                                  3      NR from PCH to Channel
+North/South             Pacific Coast Hwy                                                                                                4      SL from PCH to Channel
+                                                                                                                                         5      ST on PCH
+East/West               Chautauqua & Channel                                                                                             6      SL from PCH to Chautauqua
+                                                                                                                                         7      Left from Chautauqua to PCH
+Day:                    Tuesday             Date:              May 10, 2011                    Weather:              SUNNY               8      Left from Chautauqua to Channel
+                                                                                                                                         9      Right from Chautauqua to PCH
+Hours:         7-10AM 3-6PM                                                Chekrs:             0                                        10      Right from Channel to Chautauqua
+                                                                                                                                        11
+School Day:             YES                 District:          0                                   I/S CODE          0                  12      Right from Channel to PCH
+
+
+
+                           N/B                           S/B                                        E/B                          W/B
+DUAL-
+WHEELED                       0                           0                                             0                          0
+BIKES                         0                           0                                             0                          0
+BUSES                         0                           0                                             0                          0
+
+
+                           N/B    TIME                   S/B       TIME                             E/B     TIME                 W/B    TIME
+
+AM PK 15 MIN               727     7.30                 1007        7.30                            251      9.30                260     7.45
+
+PM PK 15 MIN               789     5.15                 768         5.15                            182      4.15                264     5.45
+
+AM PK HOUR                2600     7.00                 3874        7.15                            923      7.30                859     7.30
+
+PM PK HOUR                3075     4.30                 2918        3.15                            682      3.00                945     3.45
+
+
+
+
+NORTHBOUND Approach                                            SOUTHBOUND Approach                                                     TOTAL             XING S/L                  XING N/L
+
+Hours            1        2        3        Total              Hours                    4          5        6        Total              N-S                  Ped         Sch          Ped     Sch
+7-8               383     2198         19     2600             7-8                       346       3285         31     3662              6262                  0           0            0       0
+8-9               389     1629         35     2053             8-9                       405       3249          7     3661              5714                  0           0            0       0
+9-10              393     1299         39     1731             9-10                      370       2964         26     3360              5091                  0           0            0       0
+3-4               424     2329         52     2805             3-4                       281       2560         13     2854              5659                  0           0            0       0
+4-5               343     2577         41     2961             4-5                       355       2446          2     2803              5764                  0           0            0       0
+5-6               374     2626         48     3048             5-6                       359       2511          9     2879              5927                  0           0            0       0
+
+TOTAL            2306    12658     234       15198             TOTAL                   2116        17015        88       19219          34417                   0           0          0       0
+
+
+EASTBOUND Approach                                             WESTBOUND Approach                                                      TOTAL             XING W/L                  XING E/L
+
+Hours            7         8       9        Total              Hours                   10          11       12 Total                    E-W                  Ped         Sch          Ped     Sch
+7-8               494       265        10       769            7-8                      207             0    525   732                   1501                  0           0            0       0
+8-9               494       384        13       891            8-9                      167             0    489   656                   1547                  0           0            0       0
+9-10              497       364        21       882            9-10                     157             0    291   448                   1330                  0           0            0       0
+3-4               404       256        22       682            3-4                      293             0    523   816                   1498                  0           0            0       0
+4-5               387       222        24       633            4-5                      307             0    630   937                   1570                  0           0            0       0
+5-6               362       235        21       618            5-6                      313             0    628   941                   1559                  0           0            0       0
+
+TOTAL            2638     1726     111         4475            TOTAL                   1444             0   3086         4530           9005                    0           0          0       0
+
+                                                                                     B-2-55
+

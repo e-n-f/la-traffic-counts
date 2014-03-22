@@ -1,0 +1,61 @@
+                       City Of Los Angeles
+                       Department Of Transportation
+                       MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South            ECHO PARK AV
+
+East/West              LAGUNA AV
+
+Day:        TUESDAY                       Date:       NOVEMBER 13, 2007      Weather:            SUNNY
+
+Hours:      7-10AM 3-6PM
+
+School Day:            YES                District:          HW                I/S CODE 19413
+
+
+                        N/B                            S/B                     E/B                        W/B
+DUAL-
+WHEELED                  26                             28                         0                        7
+BIKES                     3                              9                         0                        0
+BUSES                    35                             31                         0                        0
+
+
+                        N/B TIME                       S/B TIME                E/B TIME                   W/B TIME
+
+AM PK 15 MIN             62      7.45                  188    8.00                 0    7.00               12    8.00
+
+PM PK 15 MIN            256      5.45                   78    4.30                 0    3.00               10    3.30
+
+AM PK HOUR              229      7.45                  704    7.30                 0    7.00               41    7.45
+
+PM PK HOUR              919      5.00                  281    4.00                 0    3.00               34    4.45
+
+
+
+NORTHBOUND Approach                                          SOUTHBOUND Approach                                TOTAL   XING S/L   XING N/L
+
+Hours         Lt        Th       Rt       Total              Hours    Lt      Th        Rt       Total           N-S     Ped Sch    Ped   Sch
+7-8                0     178       6         184             7-8         8     571           0      579           763      0   0      9     0
+8-9                0     190      13         203             8-9        12     681           0      693           896      0   0     16     0
+9-10               0     175      15         190             9-10        7     431           0      438           628      0   0     11     0
+3-4                0     367      20         387             3-4        12     244           0      256           643      0   0      7     0
+4-5                0     531      13         544             4-5        15     266           0      281           825      0   0      5     0
+5-6                0     897      22         919             5-6        28     253           0      281          1200      0   0     12     0
+
+TOTAL              0 2338         89        2427             TOTAL      82 2446              0     2528          4955     0    0     60    0
+
+
+EASTBOUND Approach                        NONE               WESTBOUND Approach                                 TOTAL   XING W/L   XING E/L
+
+Hours         Lt        Th       Rt       Total              Hours    Lt      Th        Rt Total                E-W      Ped Sch    Ped   Sch
+7-8                0         0        0           0          7-8       13          0     18     31                 31      0   0      3     2
+8-9                0         0        0           0          8-9       23          0     14     37                 37      0   0     13     0
+9-10               0         0        0           0          9-10      10          0     11     21                 21      0   0      9     0
+3-4                0         0        0           0          3-4       13          0      9     22                 22      0   0      5     0
+4-5                0         0        0           0          4-5       11          0     11     22                 22      0   0      5     2
+5-6                0         0        0           0          5-6       22          0     10     32                 32      0   0      8     0
+
+TOTAL              0         0        0           0          TOTAL      92         0     73         165           165     0    0     43    4
+
+            (Rev Oct 06)
+

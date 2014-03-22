@@ -1,0 +1,61 @@
+ACCUTEK                          TRAFFIC COUNT SUMMARY
+
+STREET:
+North/South       BUNDY DR.
+
+East/West         OHIO AVE.
+
+Day:    WEDNESDAY                     Date:       11-27-1996                 Weather:          CLEAR
+
+Hours: 7-10 AM 3-6 PM                 FILE:       AM003
+
+School Day:       YES                 District:           LOS ANGELES
+
+
+                    N/B                             S/B                         E/B                    W/B
+DUAL-
+WHEELED              39                             23                          13                      16
+BIKES                 5                              9                          16                       5
+BUSES                17                             23                           1                       2
+
+
+                    N/B TIME                        S/B TIME                    E/B TIME               W/B     TIME
+
+AM PK 15 MIN        313   8:15                     214     8:15                 82      7:45           87       9:00
+
+PM PK 15 MIN        364   5:30                     303     3:00                136      3:00           119      3:00
+
+AM PK HOUR         1165   8:00                     812     8:00                283      8:00           297      8:00
+
+PM PK HOUR         1332   5:00                    1129     3:00                414      3:00           325      3:00
+
+
+
+NORTHBOUND Approach                                       SOUTHBOUND Approach                                TOTAL     XING S/L       XING N/L
+
+Hours       Lt      Th    Rt          Total               Hours     Lt         Th       Rt     Total          N-S      Ped   Sch      Ped   Sch
+7-8          69     698    54           821               7-8            1     436       52      489          1310      7     0       31     1
+8-9          93    1008    64          1165               8-9            1     749       62      812          1977      9     0       18     0
+9-10         88     877    76          1041               9-10           0     591       68      659          1700     17     0       45     0
+3-4         101    1060    90          1251               3-4            0    1062       67     1129          2380     20     1       38     1
+4-5          55    1133    90          1278               4-5            0     985       76     1061          2339     19     1       87     1
+5-6          87    1151    94          1332               5-6            0     853       58      911          2243      8     0       45     0
+
+TOTAL       493    5927   468          6888               TOTAL          2    4676      383     5061          11949     80        2   264        3
+
+
+EASTBOUND Approach                                        WESTBOUND Approach                                 TOTAL     XING W/L       XING E/L
+
+Hours       Lt     Th     Rt          Total               Hours     Lt         Th       Rt     Total          E-W      Ped   Sch      Ped   Sch
+7-8          39    135     52           226               7-8        66        115        1      182            408    15     1       49     7
+8-9          55    176     52           283               8-9       101        194        2      297            580     9     0       68     0
+9-10         42    160     58           260               9-10      102        177        0      279            539    23     0       48     2
+3-4          52    244    118           414               3-4       139        180        6      325            739    22     2       52     4
+4-5          67    199    112           378               4-5       112        151        2      265            643    34     0       78     3
+5-6          81    196     91           368               5-6        94        126        3      223            591    24     1       60     1
+
+TOTAL       336    1110   483          1929               TOTAL     614        943      14      1571          3500     127        4   355    17
+
+
+                                                                                                              15449
+

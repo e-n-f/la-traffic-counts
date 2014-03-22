@@ -1,0 +1,75 @@
+                                    Intersection Turning Movement
+                                                              Prepared by:
+                                            National Data & Surveying Services
+         Project ID: CA12_5218_001                                                                                  Day: THURSDAY
+
+                  City: City of Hollywood                                                                          Date: 05/24/2012
+                                                                                AM
+     NS/EW Streets:              Argyle Ave                  Argyle Ave                   Yucca St               Yucca St
+                                NORTHBOUND                   SOUTHBOUND                   EASTBOUND             WESTBOUND
+
+                           NL        NT       NR        SL      ST        SR         EL      ET       ER   WL      WT       WR      TOTAL
+     LANES:                0          2        0        0        2         0         1        1        1   1        1        0
+
+           7:00   AM       5         23        1        0       27        22         9       3        3    1       3        4         101
+           7:15   AM       1         27        0        0       21        18         10      4        4    0       4        4         93
+           7:30   AM       1         37        1        0       27        23         11      2        9    0       9        6         126
+           7:45   AM       0         39        2        0       33        36         18      3        7    1       8        10        157
+           8:00   AM       2         30        1        1       34        26         18      1        10   1       9        9         142
+           8:15   AM       1         44        1        2       34        28         23      2        6    1       8        7         157
+           8:30   AM       1         48        1        3       37        28         16      7        22   4       14       6         187
+           8:45   AM       0         38        1        2       52        47         25      5        18   5       18       13        224
+           9:00   AM       5         40        2        1       55        30         29      8        20   4       17       9         220
+           9:15   AM       2         52        6        1       67        34         21      7        19   5       13       8         235
+           9:30   AM       5         48        2        2       45        19         20      5        17   3       15       5         186
+           9:45   AM       3         47        0        0       46        22         21      4        12   2       12       8         177
+
+                        NL       NT           NR          SL     ST     SR      EL    ET     ER    WL      WT    WR                 TOTAL
+   TOTAL VOLUMES :      26      473            18         12     478   333     221    51    147     27    130     89                 2005
+    APPROACH %'s :     5.03% 91.49%           3.48%      1.46% 58.08% 40.46% 52.74% 12.17% 35.08% 10.98% 52.85% 36.18%
+                     nb a     nb d                    sb a    sb d          eb a   eb d          wb a   nb d
+PEAK HR START TIME :      830 AM                                                                                                    TOTAL
+
+      PEAK HR VOL :        8        178       10        7      211        139        91     27        79   18      62       36        866
+
+   PEAK HR FACTOR :                0.817                       0.875                        0.864                 0.806               0.921
+
+         CONTROL : Signalized
+                                    Intersection Turning Movement
+                                                               Prepared by:
+                                            National Data & Surveying Services
+         Project ID: CA12_5218_001                                                                                  Day: THURSDAY
+
+                  City: City of Hollywood                                                                          Date: 05/24/2012
+                                                                               PM
+     NS/EW Streets:              Argyle Ave                  Argyle Ave                   Yucca St               Yucca St
+                                NORTHBOUND                   SOUTHBOUND                   EASTBOUND             WESTBOUND
+
+                           NL        NT       NR        SL      ST        SR        EL       ET       ER   WL      WT       WR      TOTAL
+     LANES:                0          2        0        0        2         0        1         1        1   1        1        0
+
+           3:00   PM       3         90        0        1       33        15        50       11       8    2       11       7         231
+           3:15   PM       3         85        2        0       32        20        44       7        10   1       15       7         226
+           3:30   PM       9         94        2        1       30        16        42       8        11   0       12       6         231
+           3:45   PM       3         84        2        0       27        23        68       16       10   4       12       12        261
+           4:00   PM       4        104        3        2       32        23        65       12       15   0       10       10        280
+           4:15   PM       6        102        2        1       23        10        71       10       7    4       10       12        258
+           4:30   PM       6        115        6        2       25        11        55       11       5    2       14       10        262
+           4:45   PM       4        120        1        0       27        11        61       17       12   2       12       9         276
+           5:00   PM       8        136        2        4       24        11        50       11       11   0       12       17        286
+           5:15   PM       4        138        4        4       26        13        51       16       16   0       24       19        315
+           5:30   PM       14       141        4        1       16        21        60       17       12   1       17       21        325
+           5:45   PM       7        142        6        1       33        14        62       15       16   0       19       14        329
+
+                        NL       NT           NR          SL     ST     SR      EL    ET     ER     WL      WT    WR                TOTAL
+    TOTAL VOLUMES :     71      1351           34         17     328   188     679    151   133      16    168    144                3280
+     APPROACH %'s :    4.88% 92.79%           2.34%      3.19% 61.54% 35.27% 70.51% 15.68% 13.81%   4.88% 51.22% 43.90%
+                     nb a     nb d                    sb a    sb d          eb a   eb d           wb a   nb d
+PEAK HR START TIME :      500 PM                                                                                                    TOTAL
+
+      PEAK HR VOL :       33        557       16        10      99        59        223     59        55   1       72       71        1255
+
+   PEAK HR FACTOR :                0.953                       0.875                        0.906                 0.837               0.954
+
+         CONTROL : Signalized
+

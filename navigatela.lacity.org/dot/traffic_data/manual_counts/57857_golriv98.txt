@@ -1,0 +1,58 @@
+`                                         TRAFFIC COUNT SUMMARY
+                                                                                                                                   City of Los Angeles
+    STREET:                                                                                                             Department of Transportation
+    North/South          RIVERSIDE DR                                                                                                   (Rev Apr 92)
+
+    East/West            GOLDEN STATE FWY SB OFF
+
+    Day:    THURSDAY                           Date:       APRIL 30, 1998               Weather:          CLEAR
+
+    Hours: 7-10 AM 3-6 PM
+
+    School Day:          YES                   District:           HOLLYWOOD
+
+
+                           N/B                               S/B                           E/B                    W/B
+    DUAL-
+    WHEELED                 60                              127                                0                   58
+    BIKES                    0                                0                                0                    0
+    BUSES                   18                               20                                0                    0
+
+
+                           N/B TIME                          S/B TIME                      E/B TIME               W/B      TIME
+
+    AM PK 15 MIN            86     8.00                     237    7.45                        0   7.00           186      7.45
+
+    PM PK 15 MIN           105     5.30                     232    5.15                        0   3.00           79       3.45
+
+    AM PK HOUR             297     8.00                     897    7.15                        0   7.00           677      7.15
+
+    PM PK HOUR             371     5.00                     873    5.00                        0   3.00           282      3.45
+
+
+
+    NORTHBOUND Approach                                            SOUTHBOUND Approach                                  TOTAL          XING S/L          XING N/L
+
+    Hours       Lt        Th       Rt          Total               Hours       Lt         Th       Rt     Total           N-S           Ped    Sch       Ped   Sch
+    7-8              0    240        0           240               7-8              0     843        0      843           1083           0      0         0     0
+    8-9              0    297        0           297               8-9              0     747        0      747           1044           0      0         1     0
+    9-10             0    198        0           198               9-10             0     541        0      541            739           0      0         0     0
+    3-4              0    248        0           248               3-4              0     741        0      741            989           1      0         1     0
+    4-5              0    288        0           288               4-5              0     806        0      806           1094           0      0         0     0
+    5-6              0    371        0           371               5-6              0     873        0      873           1244           1      0         0     0
+
+    TOTAL            0    1642       0          1642               TOTAL            0    4551        0     4551           6193            2       0        2        0
+
+
+    EASTBOUND Approach                                             WESTBOUND Approach                                   TOTAL          XING W/L          XING E/L
+
+    Hours       Lt        Th       Rt          Total               Hours     Lt           Th       Rt     Total          E-W            Ped    Sch       Ped   Sch
+    7-8              0         0     0                 0           7-8       612               0     7      619            619           0      0         1     0
+    8-9              0         0     0                 0           8-9       526               0    17      543            543           0      0         0     0
+    9-10             0         0     0                 0           9-10      180               0     9      189            189           0      0         1     0
+    3-4              0         0     0                 0           3-4       228               0    12      240            240           0      0         0     0
+    4-5              0         0     0                 0           4-5       250               0    15      265            265           0      0         3     0
+    5-6              0         0     0                 0           5-6       264               0    16      280            280           0      0         2     0
+
+    TOTAL            0         0     0                 0           TOTAL    2060               0    76     2136           2136            0       0        7        0
+

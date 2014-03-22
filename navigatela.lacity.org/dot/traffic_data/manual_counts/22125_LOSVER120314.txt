@@ -1,0 +1,181 @@
+                          City Of Los Angeles
+                          Department Of Transportation
+                          MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South               Vermont Ave
+
+East/West                 Los Feliz Blvd
+
+Day:                 WEDNESDAY                  Date:             03/14/2012                      Weather:              SUNNY
+
+Hours:        7-10AM 3-6PM                                                    Chekrs:             NDS
+
+School Day:               YES                   District:         0                                 I/S CODE            0
+
+
+                             N/B                            S/B                                      E/B                            W/B
+DUAL-
+WHEELED                          39                          14                                          62                           98
+BIKES                            18                          20                                          12                           21
+BUSES                            69                           2                                           5                           62
+
+
+                             N/B      TIME                  S/B       TIME                           E/B      TIME                  W/B     TIME
+
+AM PK 15 MIN                  152      8.15                  55        9.45                          281       8.30                  732     8.15
+
+NOON PK 15 MIN                    0    0.00                   0        0.00                              0     0.00                    0     0.00
+
+PM PK 15 MIN                  199     17.45                  86       17.15                          373      15.45                  411    15.15
+
+AM PK HOUR                    546      7.45                 184        8.30                          927       7.45                 2603     7.30
+
+NOON PK HOUR                      0    0.00                   0        0.00                              0     0.00                    0     0.00
+
+PM PK HOUR                    762     16.00                 311       17.00                         1334      15.45                 1563    15.15
+
+
+
+
+NORTHBOUND Approach                                               SOUTHBOUND Approach                                                      TOTAL    XING S/L       XING N/L
+
+Hours           Lt          Th        Rt Total                    Hours                 Lt          Th        Rt        Total               N-S      Ped   Sch      Ped   Sch
+7-8                  46        56      333   435                  7-8                        21       68        42          131               566     14     2        9     1
+8-9                  63        68      401   532                  8-9                        30       86        59          175               707     14     0       11     0
+9-10                 50        77      364   491                  9-10                       31       84        63          178               669     14     0       11     0
+15-16                45        95      525   665                  15-16                      65      103        86          254               919     14     0       14     0
+16-17                43       115      604   762                  16-17                      40      107        89          236               998     18     0       14     0
+17-18                47       121      589   757                  17-18                      46      165       100          311              1068     19     0        9     1
+
+TOTAL            294          532     2816         3642           TOTAL                  233         613       439          1285             4927     93       2     68       2
+
+
+EASTBOUND Approach                                                WESTBOUND Approach                                                       TOTAL    XING W/L       XING E/L
+
+Hours           Lt          Th        Rt        Total             Hours                 Lt          Th        Rt        Total               E-W      Ped   Sch      Ped   Sch
+7-8               27         643           23       693           7-8                    680        1594           50      2324              3017     20     1       10     0
+8-9               56         822           36       914           8-9                    814        1702           64      2580              3494     23     1       15     0
+9-10              49         705           45       799           9-10                   464        1413           49      1926              2725      9     0       13     0
+15-16            113        1111           39      1263           15-16                  457        1050           36      1543              2806     10     0       10     3
+16-17            103        1138           38      1279           16-17                  481        1026           44      1551              2830     16     0       13     0
+17-18             89         926           34      1049           17-18                  461        1051           37      1549              2598     21     0       10     1
+
+TOTAL            437         5345      215         5997           TOTAL                 3357        7836       280          11473           17470     99       2     71       4
+                                    Intersection Turning Movement
+                                                                Prepared by:
+                                              National Data & Surveying Services
+          Project ID: CA12_5086_003                                                                                              Day: WEDNESDAY
+
+                  City: City of Hollywood                                        CARS                                           Date: 03/14/2012
+                                                                                  AM
+     NS/EW Streets:              Vermont Ave                  Vermont Ave                    Los Feliz Blvd                Los Feliz Blvd
+                                NORTHBOUND                    SOUTHBOUND                      EASTBOUND                    WESTBOUND
+
+                           NL           NT      NR       SL       ST        SR          EL        ET          ER     WL         WT          WR   TOTAL
+     LANES:                1            0.5     1.5      0         2         0          1          2           0     1           2           0
+
+           7:00   AM       11           8        57      8        12        8           8         107         1      140        307         14      681
+           7:15   AM       9            7        77      2        15        11          5         134         4      157        429         6       856
+           7:30   AM       7            9        99      4        17        11          6         210         9      155        466         9      1002
+           7:45   AM       17           31       86      5        24        12          8         184         9      218        379         14      987
+           8:00   AM       15           24       79      3        26        14          17        192         8      205        395         12      990
+           8:15   AM       15           17      115      4        23        14          15        193         7      233        473         19     1128
+           8:30   AM       18           13       94      7        16        13          14        253         10     194        402         18     1052
+           8:45   AM       15           14       90      12       21        18          10        171         11     165        418         12      957
+           9:00   AM       13           17       77      6        30        13          17        192         5      145        424         11      950
+           9:15   AM       14           17       83      8        20        16          8         161         7       82        320         10      746
+           9:30   AM       12           20       89      6        10        11          13        165         14     104        329         10      783
+           9:45   AM       11           22       94      11       22        22          10        179         17     117        325         6       836
+
+                           NL           NT      NR       SL       ST        SR          EL        ET          ER     WL         WT          WR   TOTAL
+    TOTAL VOLUMES :   157    199   1040    76     236    163    131   2141    102   1915   4667    141                                           10968
+     APPROACH %'s : #NAME? #NAME? #NAME? #NAME? #NAME? #NAME? #NAME? #NAME? #NAME? #NAME? #NAME? #NAME?
+                       nb a       nb d                sb a     sb d                eb a        eb d                wb a      nb d
+PEAK HR START TIME :           745 AM                                                                                                            TOTAL
+
+       PEAK HR VOL :      65         85         374     19        89        53          54       822          34     850      1649          63     4157
+
+   PEAK HR FACTOR :                 0.891                        0.936                           0.821                         0.883               0.921
+
+          CONTROL : Signalized
+                                    Intersection Turning Movement
+                                                                Prepared by:
+                                              National Data & Surveying Services
+          Project ID: CA12_5086_003                                                                                              Day: WEDNESDAY
+
+                  City: City of Hollywood                                        CARS                                           Date: 03/14/2012
+                                                                                  PM
+     NS/EW Streets:              Vermont Ave                  Vermont Ave                    Los Feliz Blvd                Los Feliz Blvd
+                                NORTHBOUND                    SOUTHBOUND                      EASTBOUND                    WESTBOUND
+
+                           NL           NT      NR       SL       ST        SR          EL        ET          ER     WL         WT          WR   TOTAL
+     LANES:                1            0.5     1.5      0         2         0          1          2           0     1           2           0
+
+           3:00   PM       5            21      115      24       28        25          27        242         12      92        246         2      839
+           3:15   PM       10           21      123      15       24        23          26        253         12     116        282         8      913
+           3:30   PM       13           27      145      11       28        21          25        274         7      107        259         15     932
+           3:45   PM       17           26      129      13       23        15          35        326         8      130        260         7      989
+           4:00   PM       8            37      146      9        18        24          26        277         11     105        249         7      917
+           4:15   PM       10           27      157      13       29        27          28        278         8      119        249         14     959
+           4:30   PM       17           30      140      8        32        18          21        296         7      120        273         9      971
+           4:45   PM       7            21      144      10       28        20          28        274         12     126        247         12     929
+           5:00   PM       11           30      149      15       37        21          22        243         9      117        246         12     912
+           5:15   PM       14           28      137      12       41        33          15        188         12     107        267         11     865
+           5:30   PM       8            32      140      9        44        25          18        210         9      115        264         5      879
+           5:45   PM       14           30      149      9        42        20          34        279         4      114        269         9      973
+
+                           NL           NT      NR       SL       ST        SR          EL        ET          ER     WL         WT          WR   TOTAL
+    TOTAL VOLUMES :   134    330   1674    148    374    272    305   3140    111   1368   3111    111                                           11078
+     APPROACH %'s : #NAME? #NAME? #NAME? #NAME? #NAME? #NAME? #NAME? #NAME? #NAME? #NAME? #NAME? #NAME?
+                       nb a       nb d                sb a     sb d                eb a        eb d                wb a      nb d
+PEAK HR START TIME :           345 PM                                                                                                            TOTAL
+
+       PEAK HR VOL :      52        120         572     43       102        84       110        1177          34     474      1031          37     3836
+
+   PEAK HR FACTOR :                 0.959                        0.830                           0.895                         0.959               0.970
+
+          CONTROL : Signalized
+                                  PREPARED BY NATIONAL DATA & SURVEYING SERVICES
+PROJECT#:     12-5086-003
+N/S Street:   Vermont Ave
+E/W Street:   Los Feliz Blvd
+DATE:         03/14/2012                                        DAY:        03/14/2012
+CITY:         City of Hollywood
+    AM
+Adult Pedestrians                                               School-Aged Pedestrians
+              NORTH LEG SOUTH LEG       EAST LEG   WEST   LEG               NORTH LEG SOUTH LEG   EAST LEG   WEST   LEG
+  TIME                                                            TIME
+               EB   WB   EB   WB        NB    SB   NB      SB                EB   WB   EB   WB    NB    SB   NB      SB
+ 7:00 AM        0    1    3    0         1     0    2       3    7:00 AM      0    0    1    0     0     0    0       0
+ 7:15 AM        0    1    2    1         0     0    2       3    7:15 AM      0    0    0    0     0     0    0       0
+ 7:30 AM        4    3    3    2         3     0    3       2    7:30 AM      1    0    0    0     0     0    1       0
+ 7:45 AM        0    0    0    3         2     4    3       2    7:45 AM      0    0    1    0     0     0    0       0
+ 8:00 AM        0    1    0    2         1     0    4       1    8:00 AM      0    0    0    0     0     0    0       0
+ 8:15 AM        2    0    0    1         3     0    1       2    8:15 AM      0    0    0    0     0     0    0       0
+ 8:30 AM        1    3    1    6         8     1    5       4    8:30 AM      0    0    0    0     0     0    0       1
+ 8:45 AM        1    3    3    1         0     2    3       3    8:45 AM      0    0    0    0     0     0    0       0
+ 9:00 AM        0    1    0    2         2     0    1       4    9:00 AM      0    0    0    0     0     0    0       0
+ 9:15 AM        1    2    2    0         5     2    0       0    9:15 AM      0    0    0    0     0     0    0       0
+ 9:30 AM        1    1    0    2         0     2    1       0    9:30 AM      0    0    0    0     0     0    0       0
+ 9:45 AM        0    5    5    3         1     1    1       2    9:45 AM      0    0    0    0     0     0    0       0
+ TOTALS        10   21   19   23        26    12   26      26    TOTALS      1     0   2     0     0     0    1      1
+
+    PM
+Adult Pedestrians                                               School-Aged Pedestrians
+              NORTH LEG SOUTH LEG       EAST LEG   WEST   LEG               NORTH LEG SOUTH LEG   EAST LEG   WEST   LEG
+   TIME                                                            TIME
+               EB   WB   EB   WB        NB    SB   NB      SB                EB   WB   EB   WB    NB    SB   NB      SB
+ 3:00 PM        2    3    4    2         1     0    2       2    3:00 PM      0    0    0    0     0     0    0       0
+ 3:15 PM        0    0    5    0         5     2    0       4    3:15 PM      0    0    0    0     2     0    0       0
+ 3:30 PM        1    1    0    2         0     0    0       2    3:30 PM      0    0    0    0     0     0    0       0
+ 3:45 PM        0    7    0    1         1     1    0       0    3:45 PM      0    0    0    0     1     0    0       0
+ 4:00 PM        2    0    1    1         1     2    3       1    4:00 PM      0    0    0    0     0     0    0       0
+ 4:15 PM        1    1    1    1         1     2    0       2    4:15 PM      0    0    0    0     0     0    0       0
+ 4:30 PM        1    3    5    2         2     1    3       3    4:30 PM      0    0    0    0     0     0    0       0
+ 4:45 PM        2    4    3    4         4     0    1       3    4:45 PM      0    0    0    0     0     0    0       0
+ 5:00 PM        3    1    3    1         1     2    0       1    5:00 PM      0    0    0    0     0     0    0       0
+ 5:15 PM        0    1    0    1         1     0    0       3    5:15 PM      0    0    0    0     0     0    0       0
+ 5:30 PM        0    3    5    1         2     0    1       8    5:30 PM      0    1    0    0     1     0    0       0
+ 5:45 PM        0    1    5    3         1     3    3       5    5:45 PM      0    0    0    0     0     0    0       0
+ TOTALS        12   25   32   19        20    13   13      34    TOTALS      0     1   0     0     4     0    0      0
+

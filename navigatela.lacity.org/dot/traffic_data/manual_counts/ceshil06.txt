@@ -1,0 +1,64 @@
+                        City Of Los Angeles
+                        Department Of Transportation
+                        MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South             HILL ST
+
+East/West               CESAR CHAVEZ AV
+
+Day:        THURSDAY                          Date:          May 11, 2006            Weather:              CLEAR
+
+Hours:      7-10AM 3-6PM
+
+School Day:             YES          District:             CENTRAL                   I/S CODE              1423535850
+
+
+                         N/B                               S/B                        E/B                           W/B
+DUAL-
+WHEELED                        0                             17                        147                           194
+BIKES                          0                              0                          0                             0
+BUSES                          0                              0                         49                           123
+
+
+                        N/B        TIME                    S/B    TIME               E/B        TIME                W/B TIME
+
+AM PK 15 MIN                   0    7.00                     70 7.45                   156       9.15                401     8.30
+
+PM PK 15 MIN                   0    3.00                     69 4.45                   274       4.00                354     5.15
+
+AM PK HOUR                     0    7.00                    238 7.45                   582       9.00               1504     7.45
+
+PM PK HOUR                     0    3.00                    247 4.00                   969       3.15               1249     5.00
+
+
+
+
+NORTHBOUND Approach                           NONE                SOUTHBOUND Approach                                      TOTAL    XING S/L   XING N/L
+
+Hours          Lt        Th         Rt         Total              Hours     Lt         Th        Rt         Total           N-S     Ped Sch    Ped Sch
+7-8                 0          0          0            0          7-8         18            0    182          200             200      0   0     47   2
+8-9                 0          0          0            0          8-9         26            0    197          223             223      0   0     53   0
+9-10                0          0          0            0          9-10        23            0    167          190             190      0   0     46   0
+3-4                 0          0          0            0          3-4         17            0    181          198             198      0   0     31  12
+4-5                 0          0          0            0          4-5         26            0    221          247             247      0   0     48  19
+5-6                 0          0          0            0          5-6         24            0    172          196             196      0   0     34   9
+
+TOTAL               0          0          0            0          TOTAL     134             0    1120        1254            1254      0   0    259   42
+
+
+
+EASTBOUND Approach                                                WESTBOUND Approach                                       TOTAL    XING W/L   XING E/L
+
+Hours          Lt        Th         Rt         Total              Hours     Lt        Th         Rt         Total           E-W     Ped Sch    Ped Sch
+7-8                 0     470             0      470              7-8            0    1296             0     1296            1766      0   0      0   0
+8-9                 0     501             0      501              8-9            0    1461             0     1461            1962      0   0      0   1
+9-10                2     580             0      582              9-10           0    1107             0     1107            1689      0   0      0   2
+3-4                 0     862             0      862              3-4            0     921             0      921            1783      0   0      0   3
+4-5                 0     941             0      941              4-5            0    1051             0     1051            1992      0   0      0   3
+5-6                 0     818             0      818              5-6            0    1249             0     1249            2067      0   0      0   0
+
+TOTAL               2    4172             0     4174              TOTAL          0    7085             0     7085           11259      0   0      0   9
+
+
+            (Rev Apr 06)
+

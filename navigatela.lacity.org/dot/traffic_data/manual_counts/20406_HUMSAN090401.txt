@@ -1,0 +1,52 @@
+WILTEC                                                                                                                                    Phone: (626) 564-1944    Fax: (626) 564-0969
+INTERSECTION TURNING MOVEMENT COUNT SUMMARY
+
+CLIENT:                            FEHR AND PEERS/ ARUP
+PROJECT:                           DOWNTOWN LOS ANGELES TRAFFIC COUNTS
+DATE:                              WEDNESDAY APRIL 1, 2009
+PERIODS:                           7:00 AM TO 9:00 AM AND        4:00 PM TO 6:00 PM
+INTERSECTION:          N/S         NORTH SAN FERNANDO ROAD
+                       E/W         HUMBOLDT STREET
+CITY:                              LOS ANGELES
+
+15 MIN COUNTS                                             7:00 AM TO 9:00 AM
+                   1          2         3      4      5          6        7       8      9     10     11     12
+PERIOD          SBRT    SBTH         SBLT   WBRT   WBTH     WBLT     NBRT      NBTH   NBLT   EBRT   EBTH   EBLT   TOTAL      AM PEAK HOUR
+700-715            1         158        2      6      5          1      10       81      1      0      0      3     268         715-815                                   63
+715-730            2         198        7     15      0          9        8      82      1      0      0      3     325
+730-745            0         197        8     16      3          9        6     118      2      1      2      6     368                   9         778   39              11
+745-800            5         203       12     16      6          9      12      114      0      0      2      4     383
+800-815            2         180       12     16      2         14      13       96      1      2      1      2     341                                                   41
+815-830            5         186       12      5      3          9        4      80      0      2      4      2     312
+830-845            6         156        7      5      4          3        5      79      0      0      0      3     268
+845-900            5         180        7     11      2          6        9      71      1      2      0      3     297                        15
+HOUR TOTALS
+                   1          2         3      4      5          6        7       8      9     10     11     12           HUMBOLDT STREET      5               4    410        39
+TIME            SBRT    SBTH         SBLT   WBRT   WBTH     WBLT     NBRT      NBTH   NBLT   EBRT   EBTH   EBLT   TOTAL
+700-800            8         756       29     53     14         28      36      395      4      1      4     16    1344                        3
+715-815            9         778       39     63     11         41      39      410      4      3      5     15    1417                                            NORTH SAN FERNANDO ROAD
+730-830           12         766       44     53     14         41      35      408      3      5      9     14    1404
+745-845           18         725       43     42     15         35      34      369      1      4      7     11    1304
+800-900           18         702       38     37     11         32      31      326      2      6      5     10    1218
+
+
+15 MIN COUNTS                                             4:00 PM TO 6:00 PM
+                   1          2         3      4      5          6        7       8      9     10     11     12
+PERIOD          SBRT    SBTH         SBLT   WBRT   WBTH     WBLT     NBRT      NBTH   NBLT   EBRT   EBTH   EBLT   TOTAL      PM PEAK HOUR
+400-415            0         83         8      7      0         11      12      156      2      1      4      4     288         445-545                                   40
+415-430            1         97         7     13      2          8        7     141      0      3      0      0     279
+430-445            2         82         7     13      1          9        9     147      3      1      9      9     292                   13        368   19              7
+445-500            5         97         7     12      1          8        4     204      3      0      4      4     349
+500-515            3         85         3     10      1          8        5     206      2      5      4      4     336                                                   22
+515-530            3         92         4      5      2          4        7     209      0      0      2      2     330
+530-545            2         94         5     13      3          2        6     192      3      0      6      6     332
+545-600            6         80         7     17      1          6        6     213      1      1      2      2     342                        16
+HOUR TOTALS
+                   1          2         3      4      5          6        7       8      9     10     11     12           HUMBOLDT STREET 16                   8    811        22
+TIME            SBRT    SBTH         SBLT   WBRT   WBTH     WBLT     NBRT      NBTH   NBLT   EBRT   EBTH   EBLT   TOTAL
+400-500            8         359       29     45      4         36      32      648      8      5     17     17    1208                        5
+415-515           11         361       24     48      5         33      25      698      8      9     17     17    1256                                            NORTH SAN FERNANDO ROAD
+430-530           13         356       21     40      5         29      25      766      8      6     19     19    1307
+445-545           13         368       19     40      7         22      22      811      8      5     16     16    1347
+500-600           14         351       19     45      7         20      24      820      6      6     14     14    1340
+

@@ -1,0 +1,61 @@
+ACCUTEK                           TRAFFIC COUNT SUMMARY
+
+STREET:
+North/South       FEDERAL AVE. / SAN VICENTE BLVD.
+
+East/West         WILSHIRE BLVD.
+
+Day:    WEDNESDAY                      Date:       11-13-1996              Weather:          SUNNY
+
+Hours: 7-10 AM 3-6 PM                  FILE:       AM010
+
+School Day:       YES                  District:           LOS ANGELES
+
+
+                     N/B                             S/B                      E/B                     W/B
+DUAL-
+WHEELED              36                             114                      186                     329
+BIKES                 9                              14                       18                       4
+BUSES                20                             117                      176                     255
+
+
+                     N/B TIME                        S/B TIME                 E/B TIME                W/B     TIME
+
+AM PK 15 MIN        102    8:00                     505     7:45             545      7:45           765       9:00
+
+PM PK 15 MIN        155    4:30                     389     5:45             543      5:00           782       4:45
+
+AM PK HOUR          363    8:00                    1859     8:00            1730      7:00           2911      9:00
+
+PM PK HOUR          430    4:00                    1492     5:00            2048      5:00           3012      5:00
+
+
+
+NORTHBOUND Approach                                        SOUTHBOUND Approach                              TOTAL     XING S/L       XING N/L
+
+Hours       Lt     Th      Rt          Total               Hours     Lt      Th       Rt     Total           N-S      Ped   Sch      Ped   Sch
+7-8          38    118      80           236               7-8      1281     183       15     1479           1715      4     1        3     0
+8-9         103    172      88           363               8-9      1452     395       12     1859           2222      6     1       18     2
+9-10        100    155      82           337               9-10     1267     395       22     1684           2021      4     1        6     1
+3-4          55    165     112           332               3-4      1059     267       73     1399           1731     37    10        4     0
+4-5         127    195     108           430               4-5      1013     259       63     1335           1765     35     5        4     0
+5-6          75    237     110           422               5-6      1142     285       65     1492           1914     48     3        1     1
+
+TOTAL       498    1042    580           2120              TOTAL    7214    1784      250     9248           11368    134    21       36        4
+
+
+EASTBOUND Approach                                         WESTBOUND Approach                               TOTAL     XING W/L       XING E/L
+
+Hours       Lt      Th     Rt          Total               Hours     Lt      Th   Rt         Total           E-W      Ped   Sch      Ped   Sch
+7-8          18    1678     34          1730               7-8        49    1247 599          1895            3625     3     4       11     8
+8-9          17    1500     77          1594               8-9        70    1783 919          2772            4366     8     1       22     4
+9-10         30    1326     99          1455               9-10       88    1916 907          2911            4366    52     1       36     7
+3-4          75    1630     75          1780               3-4       111    1748 916          2775            4555     1     0       30    20
+4-5          36    1801     63          1900               4-5        94    1801 1112         3007            4907     6     2       25    11
+5-6          28    1956     64          2048               5-6        59    1878 1075         3012            5060    10     1       31     1
+
+TOTAL       204    9891    412          10507              TOTAL     471 10373 5528          16372           26879     80        9   155    51
+
+
+                                                                                                             38247
+

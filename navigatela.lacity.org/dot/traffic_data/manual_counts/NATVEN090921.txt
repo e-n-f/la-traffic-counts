@@ -1,0 +1,61 @@
+                    City Of Los Angeles
+                    Department Of Transportation
+                    MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South         NATIONAL BL
+
+East/West           VENICE BL
+
+Day:             MONDAY            Date:       September 21, 2009 Weather:                   SUNNY
+
+Hours:      7-10AM 3-6PM                                      Chekrs:         LEE
+
+School Day:         YES            District:          WESTERN                  I/S CODE 00000
+
+
+                     N/B                       S/B                             E/B                   W/B
+DUAL-
+WHEELED               136                       105                             256                   165
+BIKES                  10                        11                              30                    74
+BUSES                   0                        43                             101                    58
+
+
+                     N/B TIME                   S/B TIME                       E/B TIME              W/B TIME
+
+AM PK 15 MIN          333   7.30                246    7.45                     574   8.30            545    9.00
+
+PM PK 15 MIN         211    5.15                329    5.30                     582   3.30            454    4.45
+
+AM PK HOUR           1182   7.15                844    7.45                    2164   8.00           1869    8.15
+
+PM PK HOUR           665    5.00               1150    5.00                    2222   3.30           1738    4.15
+
+
+
+NORTHBOUND Approach                                   SOUTHBOUND Approach                                   TOTAL   XING S/L    XING N/L
+
+Hours         Lt     Th     Rt Total                  Hours             Lt     Th     Rt Total               N-S     Ped Sch     Ped   Sch
+7-8           283     825    10 1118                  7-8                72     405    68   545              1663     13   0     149    22
+8-9           223     816    28 1067                  8-9               103     604    70   777              1844      4   0      69     3
+9-10          215     563    21   799                 9-10               71     367    75   513              1312      0   0      59     0
+3-4            97     241    33   371                 3-4               105     579    94   778              1149      6   0      58     2
+4-5           143     410    45   598                 4-5               132     794   111 1037               1635      7 10       45     0
+5-6            97     499    69   665                 5-6               129     920   101 1150               1815      7   1      46     0
+
+TOTAL         1058 3354     206      4618             TOTAL             612 3669      519     4800           9418     37   11    426   27
+
+
+EASTBOUND Approach                                    WESTBOUND Approach                                    TOTAL   XING W/L    XING E/L
+
+Hours         Lt     Th     Rt Total                  Hours             Lt     Th     Rt Total              E-W      Ped Sch     Ped   Sch
+7-8           137    1171   136 1444                  7-8                44    1405    84 1533               2977     53   0      69     0
+8-9           156    1748   260 2164                  8-9                98    1603    93 1794               3958     31   0      24     0
+9-10          176    1358   264 1798                  9-10               67    1541    74 1682               3480     11   0      29     0
+3-4           206    1627   307 2140                  3-4                60    1304    56 1420               3560     20   0     104     0
+4-5           174    1692   244 2110                  4-5                64    1498   111 1673               3783     11   0      47     0
+5-6           139    1745   243 2127                  5-6                55    1558    63 1676               3803     20   0      30     0
+
+TOTAL         988 9341 1454 11783                     TOTAL             388 8909      481     9778          21561    146   0     303    0
+
+            (Rev Oct 06)
+

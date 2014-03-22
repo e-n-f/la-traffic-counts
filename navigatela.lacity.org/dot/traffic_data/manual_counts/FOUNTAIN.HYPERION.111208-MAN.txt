@@ -1,0 +1,331 @@
+                      City Of Los Angeles
+                      Department Of Transportation
+                      MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South           Hyperion Avenue
+
+East/West             Fountain Avenue
+
+Day:          Wednesday                 Date:        December 8, 2011     Weather:            CLEAR
+
+Hours:        7-10AM 3-6PM
+
+School Day:           YES               District:         LOS ANGELES       I/S CODE                      0
+
+
+                        N/B                         S/B                     E/B                        W/B
+DUAL-
+WHEELED                      4                       0                      105
+BIKES                        4                       0                        7
+BUSES                        0                       0                       28
+
+
+                        N/B TIME                    S/B TIME                E/B TIME                   W/B    TIME
+
+AM PK 15 MIN              60     7.45                                       296      7.30               479    8.00
+
+PM PK 15 MIN              41     4.45                                       475      5.00               316    3.15
+
+AM PK HOUR              160      7.30                                      1051      7.15              1867    7.45
+
+PM PK HOUR              123      3.00                                      1715      4.45              1117    3.00
+
+
+
+NORTHBOUND Approach                                       SOUTHBOUND Approach                                 TOTAL       XING S/L           XING N/L
+
+Hours           Lt     Th        Rt Total                 Hours     Lt     Th        Rt       Total            N-S          Ped Sch            Ped   Sch
+7-8              93          0    45   138                7-8                                                   138          11   0
+8-9              79          0    42   121                8-9                                                   121          10   7
+9-10             72          0    32   104                9-10                                                  104           9   0
+3-4              71          0    52   123                3-4                                                   123          31   1
+4-5              68          0    46   114                4-5                                                   114          36   0
+5-6              78          0    29   107                5-6                                                   107          35   1
+
+TOTAL           461          0   246        707           TOTAL                                                 707         132       9
+
+
+EASTBOUND Approach                                        WESTBOUND Approach                                  TOTAL       XING W/L           XING E/L
+
+Hours           Lt     Th        Rt Total                 Hours     Lt     Th        Rt       Total           E-W           Ped Sch            Ped   Sch
+7-8                  0 941        24   965                7-8        76    1461           0     1537           2502           0   0              0     0
+8-9                  0 861        41   902                8-9        73    1792           0     1865           2767           0   0              0     0
+9-10                 0 764        41   805                9-10       49    1156           0     1205           2010           1   0              0     0
+3-4                  0 1362       62 1424                 3-4        69    1048           0     1117           2541           1   1              1     0
+4-5                  0 1440       89 1529                 4-5        61     949           0     1010           2539           0   0              0     0
+5-6                  0 1578      130 1708                 5-6        74    1007           0     1081           2789           1   0              0     0
+
+TOTAL                  6946      387      7333                      402 7413              0     7815          15148            3      1          1    0
+
+              (Rev Oct 06)
+
+
+                                                                                                                      City of Los Angeles
+                                                                                                                      Department of Transportation
+                                                                     Counts Unlimited Inc.
+                                                                        PO Box 1178
+                                                                      Corona, CA 92878
+                                                                       (951) 268-6268
+City of Los Angeles                                                                                                        File Name    : LOSHYFOAM
+N/S: Hyperiam Avenue                                                                                                       Site Code    : 00000001
+E/W:Fountain Avenue                                                                                                        Start Date   : 12/8/2011
+Weather: Sunny                                                                                                             Page No      :1
+
+
+                                                                 Groups Printed- Total Volume
+                                  Fountain Avenue                          Hyperian Avenue                  Fountain Avenue
+                                    Westbound                                 Northbound                       Eastbound
+           Start Time          Left      Thru    App. Total            Left       Right    App. Total   Thru      Right    App. Total      Int. Total
+            07:00 AM            11        298          309               10            6          16     149          4          153             478
+            07:15 AM            14        367          381               18            8          26     214         10          224             631
+            07:30 AM            18        364          382               27            9          36     286         10          296             714
+            07:45 AM            33        432          465               38          22           60     292          0          292             817
+                 Total          76       1461         1537               93          45          138     941         24          965            2640
+
+            08:00 AM            19        460             479            17         16            33     223         16          239            751
+            08:15 AM            16        441             457            17         13            30     214          9          223            710
+            08:30 AM            21        445             466            26          6            32     202         10          212            710
+            08:45 AM            17        446             463            19          7            26     222          6          228            717
+                Total           73       1792            1865            79         42           121     861         41          902           2888
+
+            09:00 AM            10        287             297            17          7            24     203         11          214            535
+            09:15 AM            12        316             328            19          7            26     189         14          203            557
+            09:30 AM            15        275             290            21          8            29     190         11          201            520
+            09:45 AM            12        278             290            15         10            25     182          5          187            502
+                Total           49       1156            1205            72         32           104     764         41          805           2114
+
+          Grand Total          198       4409            4607           244        119           363    2566       106          2672           7642
+            Apprch %            4.3       95.7                         67.2       32.8                     96         4
+              Total %           2.6       57.7           60.3            3.2        1.6           4.8    33.6       1.4            35
+
+
+
+
+                                     Fountain Avenue                      Hyperian Avenue                   Fountain Avenue
+                                       Westbound                            Northbound                         Eastbound
+           Start Time            Left       Thru    App. Total         Left     Right    App. Total     Thru      Right    App. Total      Int. Total
+Peak Hour Analysis From 07:00 AM to 08:45 AM - Peak 1 of 1
+Peak Hour for Entire Intersection Begins at 07:30 AM
+            07:30 AM               18         364          382           27          9            36      286         10         296            714
+            07:45 AM               33         432          465           38         22            60      292          0         292            817
+            08:00 AM               19         460          479           17         16            33      223         16         239            751
+            08:15 AM               16         441          457           17         13            30      214          9         223            710
+        Total Volume               86       1697         1783            99         60           159    1015          35        1050           2992
+        % App. Total              4.8        95.2                      62.3       37.7                   96.7        3.3
+                  PHF           .652         .922         .931         .651       .682          .663     .869      .547          .887           .916
+                                                              Counts Unlimited Inc.
+                                                                 PO Box 1178
+                                                               Corona, CA 92878
+                                                                (951) 268-6268
+City of Los Angeles                                                                                                              File Name              : LOSHYFOAM
+N/S: Hyperiam Avenue                                                                                                             Site Code              : 00000001
+E/W:Fountain Avenue                                                                                                              Start Date             : 12/8/2011
+Weather: Sunny                                                                                                                   Page No                :2
+
+
+
+
+                                                            Peak Hour Data
+                                       2846
+                                       Total
+
+
+
+
+                                                                                                                        1075
+                                                                                                                        Out
+                                                                                                                           Fountain Avenue
+                       Fountain Avenue
+
+
+
+
+                                                                       North
+                                                  35 1015
+
+
+
+
+                                                                                                              Thru
+                                               Right Thru
+
+
+
+
+                                                                                                              1697
+                              1050
+                               In
+
+
+
+
+                                                                                                                                 1783
+                                                                                                                                  In
+                                                            Peak Hour Begins at 07:30 AM
+
+
+
+
+                                                                                                              Left
+                                                                                                                86
+                                                            Total Volume
+                     1796
+                     Out
+
+
+
+
+                                                                                                                                         Total
+                                                                                                                                          2858
+                                                                    Left Right
+                                                                      99    60
+
+
+                                                               121       159     280
+                                                              Out       In     Total
+                                                                 Hyperian Avenue
+
+Peak Hour Analysis From 07:00 AM to 08:45 AM - Peak 1 of 1
+Peak Hour for Each Approach Begins at:
+                       07:45 AM                        07:30 AM                                   07:15 AM
+             +0 mins.          33        432       465        27                  9         36          214        10                             224
+            +15 mins.          19        460       479        38                 22         60          286        10                             296
+            +30 mins.          16        441       457        17                 16         33          292         0                             292
+            +45 mins.          21        445       466        17                 13         30          223        16                             239
+        Total Volume           89      1778      1867         99                 60        159        1015         36                            1051
+        % App. Total          4.8       95.2                62.3               37.7                    96.6       3.4
+                 PHF        .674        .966      .974      .651               .682        .663        .869     .563                             .888
+                                                                     Counts Unlimited Inc.
+                                                                        PO Box 1178
+                                                                      Corona, CA 92878
+                                                                       (951) 268-6268
+City of Los Angeles                                                                                                        File Name    : LOSHYFOPM
+N/S: Hyperion Avenue                                                                                                       Site Code    : 00000001
+E/W: Fountain Avenue                                                                                                       Start Date   : 12/7/2011
+Weather: Sunny                                                                                                             Page No      :1
+
+
+                                                                 Groups Printed- Total Volume
+                                  Fountain Avenue                          Hyperion Avenue                  Fountain Avenue
+                                    Westbound                                 Northbound                       Eastbound
+           Start Time          Left      Thru    App. Total            Left       Right    App. Total   Thru      Right    App. Total      Int. Total
+            03:00 PM            19        226          245               19          12           31     322          8          330             606
+            03:15 PM            25        291          316               23            6          29     353         18          371             716
+            03:30 PM            15        261          276               17          12           29     331         18          349             654
+            03:45 PM            10        270          280               12          22           34     356         18          374             688
+                 Total          69       1048         1117               71          52          123    1362         62         1424            2664
+
+            04:00 PM            13         219            232            11         13            24     330         22          352            608
+            04:15 PM            17         236            253            18         11            29     367         20          387            669
+            04:30 PM            15         224            239            16          4            20     361         21          382            641
+            04:45 PM            16         270            286            23         18            41     382         26          408            735
+                Total           61         949           1010            68         46           114    1440         89         1529           2653
+
+            05:00 PM            17        244             261            21          6            27     436         39          475            763
+            05:15 PM            15        232             247            18          5            23     405         37          442            712
+            05:30 PM            19        267             286            19         10            29     367         23          390            705
+            05:45 PM            23        264             287            20          8            28     370         31          401            716
+                Total           74       1007            1081            78         29           107    1578        130         1708           2896
+
+          Grand Total          204       3004            3208           217        127           344    4380        281         4661           8213
+            Apprch %            6.4       93.6                         63.1       36.9                     94          6
+              Total %           2.5       36.6           39.1            2.6        1.5           4.2    53.3        3.4         56.8
+
+
+
+
+                                     Fountain Avenue                      Hyperion Avenue                   Fountain Avenue
+                                       Westbound                            Northbound                         Eastbound
+           Start Time            Left       Thru    App. Total         Left     Right    App. Total     Thru      Right    App. Total      Int. Total
+Peak Hour Analysis From 03:00 PM to 05:45 PM - Peak 1 of 1
+Peak Hour for Entire Intersection Begins at 04:45 PM
+            04:45 PM               16         270          286           23         18            41      382         26         408            735
+            05:00 PM               17         244          261           21          6            27      436         39         475            763
+            05:15 PM               15         232          247           18          5            23      405         37         442            712
+            05:30 PM               19         267          286           19         10            29      367         23         390            705
+        Total Volume               67       1013         1080            81         39           120    1590        125         1715           2915
+        % App. Total              6.2        93.8                      67.5       32.5                   92.7        7.3
+                  PHF           .882         .938         .944         .880       .542          .732     .912      .801          .903           .955
+                                                                Counts Unlimited Inc.
+                                                                   PO Box 1178
+                                                                 Corona, CA 92878
+                                                                  (951) 268-6268
+City of Los Angeles                                                                                                                File Name              : LOSHYFOPM
+N/S: Hyperion Avenue                                                                                                               Site Code              : 00000001
+E/W: Fountain Avenue                                                                                                               Start Date             : 12/7/2011
+Weather: Sunny                                                                                                                     Page No                :2
+
+
+
+
+                                                              Peak Hour Data
+                                         2809
+                                         Total
+
+
+
+
+                                                                                                                          1629
+                                                                                                                          Out
+                                                                                                                             Fountain Avenue
+                         Fountain Avenue
+
+
+
+
+                                                                         North
+                                                   125 1590
+
+
+
+
+                                                                                                                Thru
+                                                 Right Thru
+
+
+
+
+                                                                                                                1013
+                                1715
+                                 In
+
+
+
+
+                                                                                                                                   1080
+                                                                                                                                    In
+                                                              Peak Hour Begins at 04:45 PM
+
+
+
+
+                                                                                                                Left
+                                                                                                                  67
+                                                              Total Volume
+                       1094
+                       Out
+
+
+
+
+                                                                                                                                           Total
+                                                                                                                                            2709
+                                                                      Left Right
+                                                                        81    39
+
+
+                                                                 192       120     312
+                                                                Out       In     Total
+                                                                   Hyperion Avenue
+
+Peak Hour Analysis From 03:00 PM to 05:45 PM - Peak 1 of 1
+Peak Hour for Each Approach Begins at:
+                       03:00 PM                        03:00 PM                                     04:45 PM
+             +0 mins.          19        226       245        19                   12         31          382        26                             408
+            +15 mins.          25        291       316        23                    6         29          436        39                             475
+            +30 mins.          15        261       276        17                   12         29          405        37                             442
+            +45 mins.          10        270       280        12                   22         34          367        23                             390
+        Total Volume           69      1048      1117         71                   52        123        1590       125                             1715
+        % App. Total          6.2       93.8                57.7                 42.3                    92.7       7.3
+                 PHF        .690        .900      .884      .772                 .591        .904        .912     .801                             .903
+

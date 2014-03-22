@@ -1,0 +1,61 @@
+                       City Of Los Angeles
+                       Department Of Transportation
+                       MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South            DE SOTO AV
+
+East/West              RINALDI ST
+
+Day:               MONDAY                Date:         March 16, 2009               Weather:            SUNNY
+
+Hours:      7-10AM 3-6PM                                            Chekrs:         LEE
+
+School Day:            YES               District:          WEST VALLEY               I/S CODE 36927
+
+
+                         N/B                          S/B                             E/B                        W/B
+DUAL-
+WHEELED                  435                         163                                  0                       17
+BIKES                      1                           0                                  0                        0
+BUSES                     13                           0                                  0                        0
+
+
+                         N/B TIME                     S/B TIME                        E/B TIME                   W/B TIME
+
+AM PK 15 MIN             513      7.45               425     7.15                         0    7.00              125    7.45
+
+PM PK 15 MIN             688      5.30                377    5.00                         0    3.00              108    3.00
+
+AM PK HOUR              1708      7.45               1513    7.00                         0    7.00              328    7.15
+
+PM PK HOUR              2685      4.45               1421    5.00                         0    3.00              257    3.00
+
+
+
+NORTHBOUND Approach                                         SOUTHBOUND Approach                                        TOTAL   XING S/L   XING N/L
+
+Hours         Lt        Th        Rt Total                  Hours             Lt  Th           Rt       Total           N-S     Ped Sch    Ped   Sch
+7-8                0    1493      112 1605                  7-8                68 1445              0     1513          3118      0   0      0     0
+8-9                0    1394       91 1485                  8-9                28 959               0      987          2472      0   0      0     0
+9-10               0    1069       61 1130                  9-10               13 787               0      800          1930      0   0      4     0
+3-4                0    1863      150 2013                  3-4                42 1008              0     1050          3063      0   0      0     0
+4-5                0    2242      121 2363                  4-5                36 950               0      986          3349      0   0      1     0
+5-6                0    2481      121 2602                  5-6                31 1390              0     1421          4023      0   0      6     0
+
+TOTAL              0 10542         656 11198                TOTAL             218 6539              0     6757         17955     0    0     11    0
+
+
+EASTBOUND Approach                                          WESTBOUND Approach                                         TOTAL   XING W/L   XING E/L
+                                 NONE                                                         RINALDI ST
+Hours         Lt        Th        Rt Total                  Hours             Lt     Th        Rt Total                E-W      Ped Sch    Ped   Sch
+7-8                0         0      0            0          7-8               202         0      86   288                288      0   0      0     0
+8-9                0         0      0            0          8-9               143         0      46   189                189      0   0      0     0
+9-10               0         0      0            0          9-10               62         0      23    85                 85      0   0      0     0
+3-4                0         0      0            0          3-4               183         0      74   257                257      0   0      0     0
+4-5                0         0      0            0          4-5               132         0      53   185                185      0   0      0     0
+5-6                0         0      0            0          5-6               111         0      54   165                165      0   0      0     1
+
+TOTAL              0         0      0            0          TOTAL             833         0     336       1169          1169     0    0      0    1
+
+            (Rev Oct 06)
+

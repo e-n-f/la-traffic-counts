@@ -1,0 +1,52 @@
+WILTEC                                                                                                                                    Phone: (626) 564-1944   Fax: (626) 564-0969
+INTERSECTION TURNING MOVEMENT COUNT SUMMARY
+
+CLIENT:                            FEHR AND PEERS/ ARUP
+PROJECT:                           DOWNTOWN LOS ANGELES TRAFFIC COUNTS
+DATE:                              THURSDAY MARCH 26, 2009
+PERIODS:                           7:00 AM TO 9:00 AM   AND      4:00 PM TO 6:00 PM
+INTERSECTION:          N/S         I-5 NB OFF-RAMP/ LACY STREET
+                       E/W         W. AVENUE 26
+CITY:                              LOS ANGELES
+
+15 MIN COUNTS                                             7:00 AM TO 9:00 AM
+                   1          2         3      4      5          6        7       8      9     10     11     12
+PERIOD          SBRT    SBTH         SBLT   WBRT   WBTH     WBLT     NBRT      NBTH   NBLT   EBRT   EBTH   EBLT   TOTAL      AM PEAK HOUR
+700-715            0         100       20     16      0          6        5     121      0      7      3     89     367         715-815                                  89
+715-730            0         162       17     19      0          7        3     154      0      8      4     77     451
+730-745            0         174       12     22      0          6        7     196      0     10      7     82     516                   0        651   79              0
+745-800            0         162       30     21      0          9        9     191      0      5      7     72     506
+800-815            0         153       20     27      0          2        2     140      0      7     11     75     437                                                  24
+815-830            0         130       29     27      0          6        3     137      0      8     10     55     405
+830-845            0         112       23     19      0          2        6     118      0     12      6     63     361
+845-900            0         127       41     31      0          1        2      95      0     13     12     47     369                     306
+HOUR TOTALS
+                   1          2         3      4      5          6        7       8      9     10     11     12           W. AVENUE 26        29              0    681        21
+TIME            SBRT    SBTH         SBLT   WBRT   WBTH     WBLT     NBRT      NBTH   NBLT   EBRT   EBTH   EBLT   TOTAL
+700-800            0         598       79     78      0         28      24      662      0     30     21    320    1840                       30
+715-815            0         651       79     89      0         24      21      681      0     30     29    306    1910                                           I-5 NB OFF-RAMP/ LACY STREET
+730-830            0         619       91     97      0         23      21      664      0     30     35    284    1864
+745-845            0         557      102     94      0         19      20      586      0     32     34    265    1709
+800-900            0         522      113    104      0         11      13      490      0     40     39    240    1572
+
+
+15 MIN COUNTS                                             4:00 PM TO 6:00 PM
+                   1          2         3      4      5          6        7       8      9     10     11     12
+PERIOD          SBRT    SBTH         SBLT   WBRT   WBTH     WBLT     NBRT      NBTH   NBLT   EBRT   EBTH   EBLT   TOTAL      PM PEAK HOUR
+400-415            0         133       15     30      0          5        6     184      0      5      5     76     459         445-545                                  131
+415-430            0         152       16     25      0          3        3     171      0      3      7     89     469
+430-445            0         173       11     28      0          2        4     180      0      1      5     88     492                   0        641   55              0
+445-500            0         196       12     20      0          4        1     171      0      3      2     73     482
+500-515            0         176       16     42      0          7        4     229      0      2      2     41     519                                                  19
+515-530            0         138       17     25      0          5        9     245      0      3      1     51     494
+530-545            0         131       10     44      0          3        5     211      0      5      8     89     506
+545-600            0         125       18     32      0          6        4     209      0      6      4     72     476                     254
+HOUR TOTALS
+                   1          2         3      4      5          6        7       8      9     10     11     12           W. AVENUE 26        13              0    856        19
+TIME            SBRT    SBTH         SBLT   WBRT   WBTH     WBLT     NBRT      NBTH   NBLT   EBRT   EBTH   EBLT   TOTAL
+400-500            0         654       54    103      0         14      14      706      0     12     19    326    1902                       13
+415-515            0         697       55    115      0         16      12      751      0      9     16    291    1962                                           I-5 NB OFF-RAMP/ LACY STREET
+430-530            0         683       56    115      0         18      18      825      0      9     10    253    1987
+445-545            0         641       55    131      0         19      19      856      0     13     13    254    2001
+500-600            0         570       61    143      0         21      22      894      0     16     15    253    1995
+

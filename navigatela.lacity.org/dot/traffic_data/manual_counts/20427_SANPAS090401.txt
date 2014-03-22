@@ -1,0 +1,52 @@
+WILTEC                                                                                                                                    Phone: (626) 564-1944      Fax: (626) 564-0969
+INTERSECTION TURNING MOVEMENT COUNT SUMMARY
+
+CLIENT:                            FEHR AND PEERS/ ARUP
+PROJECT:                           DOWNTOWN LOS ANGELES TRAFFIC COUNTS
+DATE:                              WEDNESDAY APRIL 1, 2009
+PERIODS:                           7:00 AM TO 9:00 AM AND        4:00 PM TO 6:00 PM
+INTERSECTION:          N/S         NORTH SAN FERNANDO ROAD
+                       E/W         PASADENA AVENUE
+CITY:                              LOS ANGELES
+
+15 MIN COUNTS                                             7:00 AM TO 9:00 AM
+                   1          2         3      4      5          6        7       8      9     10     11     12
+PERIOD          SBRT    SBTH         SBLT   WBRT   WBTH     WBLT     NBRT      NBTH   NBLT   EBRT   EBTH   EBLT   TOTAL      AM PEAK HOUR
+700-715          104         49        18     20    138         11        7      56      1      1     22     30     457         715-815                                     64
+715-730          111         69        31     15    158         14        6      72      1      3     27     29     536
+730-745           91         87        50     14    202          9      15       83      0      0     26     24     601                   395       286   158               746
+745-800           85         69        42     15    179         13      16       92      2      0     46     31     590
+800-815          108         61        35     20    207          8      15       84      2      2     42     21     605                                                     44
+815-830           83         73        31     15    185          8      11       59      6      3     26     20     520
+830-845           87         63        23     20    191          9      14       50      9      2     38     21     527
+845-900           97         58        26     19    143          4      29       56      7      1     32     16     488                     105
+HOUR TOTALS
+                   1          2         3      4      5          6        7       8      9     10     11     12           PASADENA AVENUE 141                   5     331        52
+TIME            SBRT    SBTH         SBLT   WBRT   WBTH     WBLT     NBRT      NBTH   NBLT   EBRT   EBTH   EBLT   TOTAL
+700-800          391         274      141     64    677         47      44      303      4      4    121    114    2184                         5
+715-815          395         286      158     64    746         44      52      331      5      5    141    105    2332                                              NORTH SAN FERNANDO ROAD
+730-830          367         290      158     64    773         38      57      318     10      5    140     96    2316
+745-845          363         266      131     70    762         38      56      285     19      7    152     93    2242
+800-900          375         255      115     74    726         29      69      249     24      8    138     78    2140
+
+
+15 MIN COUNTS                                             4:00 PM TO 6:00 PM
+                   1          2         3      4      5          6        7       8      9     10     11     12
+PERIOD          SBRT    SBTH         SBLT   WBRT   WBTH     WBLT     NBRT      NBTH   NBLT   EBRT   EBTH   EBLT   TOTAL      PM PEAK HOUR
+400-415           20         52        24     29     43          7      19       94      2      3     88     39     420         500-600                                     98
+415-430           26         52        23     18     48          9      14       99      3      2    105     43     442
+430-445           24         42        21     18     59          9      25       97      1      1     90     48     435                   89        188   83                215
+445-500           25         63        21     27     45          5      19      100      2      3    110     67     487
+500-515           24         51        29     20     59         13      19      128      4      3    147     76     573                                                     39
+515-530           23         53        17     31     50          5      15      123      5      3    122     73     520
+530-545           23         41        19     24     59         12      25      110      3      3    150     75     544
+545-600           19         43        18     23     47          9      27      138      3      3    120     76     526                     300
+HOUR TOTALS
+                   1          2         3      4      5          6        7       8      9     10     11     12           PASADENA AVENUE 539                   15    499        86
+TIME            SBRT    SBTH         SBLT   WBRT   WBTH     WBLT     NBRT      NBTH   NBLT   EBRT   EBTH   EBLT   TOTAL
+400-500           95         209       89     92    195         30      77      390      8      9    393    197    1784                        12
+415-515           99         208       94     83    211         36      77      424     10      9    452    234    1937                                              NORTH SAN FERNANDO ROAD
+430-530           96         209       88     96    213         32      78      448     12     10    469    264    2015
+445-545           95         208       86    102    213         35      78      461     14     12    529    291    2124
+500-600           89         188       83     98    215         39      86      499     15     12    539    300    2163
+
