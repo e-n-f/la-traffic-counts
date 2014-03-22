@@ -19,6 +19,9 @@ for $file (<reports/*.html>) {
 			$base = $href;
 			$base =~ s/.*\///;
 
+			next if -f "$dir/$base";
+			$href =~ s/ /%20/g;
+
 			print "$href\n";
 			system "mkdir -p '$dir'";
 			system "curl -o '$dir/$base' '$href'";
