@@ -1,0 +1,27 @@
+#!/usr/bin/perl
+
+for $file (<reports/*.html>) {
+	$fileno = $file;
+	$fileno =~ s/.html//;
+	$fileno =~ s/reports\///;
+
+	print "$fileno\n";
+	open(IN, "$file");
+	while (<IN>) {
+		if (/href="([^"]*pdf)"/) {
+			$href = $1;
+			$href =~ s/'/'"'"'/g;
+
+			$dir = $href;
+			$dir =~ s/http:\/\///;
+			$dir =~ s/[^\/]*$//;
+
+			$base = $href;
+			$base =~ s/.*\///;
+
+			print "$href\n";
+			system "mkdir -p '$dir'";
+			system "curl -o '$dir/$base' '$href'";
+		}
+	}
+}
