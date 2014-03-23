@@ -8,6 +8,7 @@ while (<IN>) {
 	$name =~ s/^[NSEW] //;
 	$name =~ s/\bAT [NSEW] /AT /;
 	$name =~ s/\bROAD\b/RD/g;
+	$name =~ s/\bLANE\b/LN/g;
 
 	if ($lat{$name} ne "") {
 		if ($lat{$name} ne $lat || $lon{$name} ne $lon) {
@@ -42,6 +43,7 @@ for $file (<reports/*.html>) {
 	chomp;
 
 	s/\bROAD\b/RD/g;
+	s/\bLANE\b/LN/g;
 
 	if (/[A-Za-z0-9]/) {
 		print "$lat{$_},$lon{$_}, $_\n";
