@@ -20,6 +20,7 @@ while (1) {
 	while (<>) {
 		s/\(Rev Apr 92\)//;
 		s/Count by.*//;
+		s/,//g;
 
 		if (/^North\/South *(.*)/) {
 			$ns = $1;
