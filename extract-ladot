@@ -1,0 +1,43 @@
+#!/usr/bin/perl
+
+use strict;
+
+while (1) {
+	my $ns = "";
+	my $ew = "";
+	my $date = "";
+	my $weather = "";
+
+	while (<>) {
+		last if /^STREET:/;
+		last if /\014/;
+	}
+
+	while (<>) {
+		s/\(Rev Apr 92\)//;
+		s/Count by:.*//;
+
+		if (/^North\/South *(.*)/) {
+			$ns = $1;
+		}
+		if (/^East\/West *(.*)/) {
+			$ew = $1;
+		}
+		if (/Date:(.*)Weather:(.*)/) {
+			$date = $1;
+			$weather = $2;
+		}
+		last if /\014/;
+	}
+
+	$ns =~ s/ +/ /g;
+	$ew =~ s/ +/ /g;
+	$date =~ s/ +/ /g;
+	$weather =~ s/ +/ /g;
+
+	if ($ns ne "") {
+		print "$ns && $ew && $date && $weather\n";
+	}
+
+	last if $_ eq "";
+}
