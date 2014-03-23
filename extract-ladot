@@ -7,6 +7,10 @@ while (1) {
 	my $ew = "";
 	my $date = "";
 	my $weather = "";
+	my $leg = "";
+	my $leg2 = "";
+	my %movement = ();
+	my @bikes = ();
 
 	while (<>) {
 		last if /^STREET:/;
@@ -15,7 +19,7 @@ while (1) {
 
 	while (<>) {
 		s/\(Rev Apr 92\)//;
-		s/Count by:.*//;
+		s/Count by.*//;
 
 		if (/^North\/South *(.*)/) {
 			$ns = $1;
@@ -27,6 +31,37 @@ while (1) {
 			$date = $1;
 			$weather = $2;
 		}
+		if (/^BIKES/) {
+			@bikes = split(/ +/);
+		}
+		if (/^NORTHBOUND/) {
+			$leg = "northbound";
+			$leg2 = "southbound";
+		}
+		if (/^EASTBOUND/) {
+			$leg = "eastbound";
+			$leg2 = "westbound";
+		}
+		if (/^([0-9:]+)-([0-9:]+)/) {
+			my @fields = split(/ +/);
+
+			if ($#fields == 14) {
+				chomp $fields[$#fields];
+
+				$movement{$fields[0]}{$leg}{"lt"} = $fields[1];
+				$movement{$fields[0]}{$leg}{"th"} = $fields[2];
+				$movement{$fields[0]}{$leg}{"rt"} = $fields[3];
+
+				$movement{$fields[0]}{$leg2}{"lt"} = $fields[6];
+				$movement{$fields[0]}{$leg2}{"th"} = $fields[7];
+				$movement{$fields[0]}{$leg2}{"rt"} = $fields[8];
+
+				$movement{$fields[0]}{$leg}{"p"} = "$fields[11] $fields[12]";
+				$movement{$fields[0]}{$leg2}{"p"} = "$fields[13] $fields[14]";
+			}
+
+			# print "$#fields $ARGV\n";
+		}
 		last if /\014/;
 	}
 
@@ -36,7 +71,27 @@ while (1) {
 	$weather =~ s/ +/ /g;
 
 	if ($ns ne "") {
-		print "$ns && $ew && $date && $weather\n";
+		my $time;
+		for $time (keys(%movement)) {
+			my $fn = $ARGV;
+			$fn =~ s/.*\///;
+
+			print "$fn,$ns at $ew,$date,$time,";
+
+			my $direction;
+			for $direction ("southbound", "westbound", "northbound", "eastbound") {
+				my $turn;
+				for $turn ("rt", "th", "lt") {
+					print "$movement{$time}{$direction}{$turn},";
+				}
+			}
+
+			for $direction ("southbound", "westbound", "northbound", "eastbound") {
+				print "$movement{$time}{$direction}{'p'},";
+			}
+
+			print "\n";
+		}
 	}
 
 	last if $_ eq "";
