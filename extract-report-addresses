@@ -1,5 +1,28 @@
 #!/usr/bin/perl
 
+open(IN, "la-intersections");
+while (<IN>) {
+	chomp;
+	($name, $lat, $lon) = split(/,/);
+	$name =~ tr/a-z/A-Z/;
+
+	if ($lat{$name} ne "") {
+		if ($lat{$name} ne $lat || $lon{$name} ne $lon) {
+			$dup{$name} = 1;
+			next;
+		}
+	}
+
+	$lat{$name} = $lat;
+	$lon{$name} = $lon;
+}
+close(IN);
+
+for $n (keys(%dup)) {
+	$lat{$n} = "";
+	$lon{$n} = "";
+}
+
 for $file (<reports/*.html>) {
 	open (IN, "<$file");
 	while (<IN>) {
@@ -12,9 +35,11 @@ for $file (<reports/*.html>) {
 	s/\015//;
 	s/^[ \t]*//;
 	s/&nbsp;//;
+	tr/a-z/A-Z/;
+	chomp;
 
 	if (/[A-Za-z0-9]/) {
-		print;
+		print "$lat{$_},$lon{$_}, $_\n";
 	} else {
 		print STDERR "$file\n";
 	}
