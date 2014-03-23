@@ -1,6 +1,7 @@
 #!/usr/bin/perl
 
 $foot = .00000274;
+$pi = 4 * atan2(1, 1);
 
 open(IN, "la-intersections");
 while (<IN>) {
@@ -14,9 +15,9 @@ while (<IN>) {
 
 	if ($lat{$name} ne "") {
 		$latd = $lat{$name} - $lat;
-		$lond = $lon{$name} - $lon;
+		$lond = ($lon{$name} - $lon) * cos($lat{$name});
 		$d = sqrt($latd * $latd + $lond * $lond);
-		if ($d > 100 * $foot) {
+		if ($d > 200 * $foot) {
 			$dup{$name} = 1;
 			next;
 		}
