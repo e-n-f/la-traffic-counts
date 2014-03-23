@@ -1,0 +1,23 @@
+#!/usr/bin/perl
+
+for $file (<reports/*.html>) {
+	open (IN, "<$file");
+	while (<IN>) {
+		last if /<td class="tablerecord">/;
+	}
+
+	<IN>;
+	$_ = <IN>;
+
+	s/\015//;
+	s/^[ \t]*//;
+	s/&nbsp;//;
+
+	if (/[A-Za-z0-9]/) {
+		print;
+	} else {
+		print STDERR "$file\n";
+	}
+
+	close(IN);
+}
