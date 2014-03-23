@@ -47,6 +47,7 @@ for $file (<reports/*.html>) {
 	s/\015//;
 	s/^[ \t]*//;
 	s/&nbsp;//;
+	s/,//;
 	tr/a-z/A-Z/;
 	chomp;
 
