@@ -1,17 +1,22 @@
 #!/usr/bin/perl
 
+$foot = .00000274;
+
 open(IN, "la-intersections");
 while (<IN>) {
 	chomp;
 	($name, $lat, $lon) = split(/,/);
+	$name =~ s/at [NSEW] /at /;
 	$name =~ tr/a-z/A-Z/;
 	$name =~ s/^[NSEW] //;
-	$name =~ s/\bAT [NSEW] /AT /;
 	$name =~ s/\bROAD\b/RD/g;
 	$name =~ s/\bLANE\b/LN/g;
 
 	if ($lat{$name} ne "") {
-		if ($lat{$name} ne $lat || $lon{$name} ne $lon) {
+		$latd = $lat{$name} - $lat;
+		$lond = $lon{$name} - $lon;
+		$d = sqrt($latd * $latd + $lond * $lond);
+		if ($d > 100 * $foot) {
 			$dup{$name} = 1;
 			next;
 		}
