@@ -17,6 +17,7 @@ while (<IN>) {
 
 	$name =~ s/^[NSEW] //;
 	$name =~ s/\bAT [NSEW] /AT /;
+	$name =~ s/\bAT\b/\//;
 
  	$name =~ s/\bROAD\b/RD/g;
 	$name =~ s/\bLANE\b/LN/g;
@@ -44,14 +45,15 @@ for $n (keys(%dup)) {
 	$lon{$n} = "";
 }
 
-for $file (<reports/*.html>) {
-	open (IN, "<$file");
-	while (<IN>) {
-		last if /<td class="tablerecord">/;
-	}
+while (<>) {
+	chomp;
+	($id, $name, $rest) = split(/,/, $_, 3);
 
-	<IN>;
-	$_ = <IN>;
+	next if $seen{$name};
+	$seen{$name} = 1;
+
+	$out = $_;
+	$_ = $name;
 
 	s/\015//;
 	s/^[ \t]*//;
@@ -75,11 +77,9 @@ for $file (<reports/*.html>) {
 	s/\bAVENUE\b/AVE/g;
 	s/\bBOULEVARD\b/BLVD/g;
 
-	if (/[A-Za-z0-9]/) {
-		print "$lat{$_},$lon{$_}, $_\n";
+	if ($lat{$_} ne "") {
+		print "$out,$lat{$_},$lon{$_}\n";
 	} else {
-		print STDERR "$file\n";
+		print "xxx $name\n";
 	}
-
-	close(IN);
 }
