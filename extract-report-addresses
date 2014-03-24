@@ -26,6 +26,7 @@ while (<IN>) {
 	$name =~ s/\bAVENUE\b/AVE/g;
 	$name =~ s/\bAVE\b/AV/g;
 	$name =~ s/\bBOULEVARD\b/BLVD/g;
+	$name =~ s/\bHIGHWAY\b/HWY/g;
 	$name =~ s/\bBLVD\b/BL/g;
 	$name =~ s/\bDRIVE\b/DR/g;
 
@@ -82,6 +83,7 @@ while (<>) {
 	s/\bAVENUE\b/AVE/g;
 	s/\bAVE\b/AV/g;
 	s/\bBOULEVARD\b/BLVD/g;
+	s/\bHIGHWAY\b/HWY/g;
 	s/\bBLVD\b/BL/g;
 	s/\bDRIVE\b/DR/g;
 	s/\bFIRST\b/1ST/g;
