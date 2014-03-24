@@ -88,7 +88,7 @@ while (<>) {
 	s/\bDRIVE\b/DR/g;
 	s/\bFIRST\b/1ST/g;
 	s/\bSECOND\b/2ND/g;
-	s/\bTHIRDFIRST\b/3RD/g;
+	s/\bTHIRD\b/3RD/g;
 	s/\bFOURTH\b/4TH/g;
 	s/\bFIFTH\b/5TH/g;
 	s/\bSIXTH\b/6TH/g;
