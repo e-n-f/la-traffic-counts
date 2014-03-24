@@ -77,7 +77,7 @@ while (<>) {
 	s/\bSOUTH\b/S/g;
 
 	s/^[NSEW] //;
-	s/\bAT [NSEW] /AT /;
+	s/\/ [NSEW] /\/ /g;
 
 	s/\bROAD\b/RD/g;
 	s/\bLANE\b/LN/g;
