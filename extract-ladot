@@ -14,7 +14,7 @@ while (1) {
 	my $anything = 0;
 
 	while (<>) {
-		last if /^STREET:/;
+		last if /^STREET/;
 		last if /\014/;
 	}
 
@@ -63,6 +63,23 @@ while (1) {
 
 					$movement{$fields[0]}{$leg}{"p"} = sprintf("%d (%s %s)", $fields[11] + $fields[12], $fields[11], $fields[12]);
 					$movement{$fields[0]}{$leg2}{"p"} = sprintf("%d (%s %s)", $fields[13] + $fields[14], $fields[13], $fields[14]);
+				}
+			} elsif ($#fields == 13) {
+				chomp $fields[$#fields];
+
+				if ($fields[1] != 0 || $fields[2] != 0 || $fields[3] != 0 ||
+				    $fields[5] != 0 || $fields[6] != 0 || $fields[7] != 0 ||
+				    $fields[10] != 0 || $fields[11] != 0 || $fields[12] != 0 || $fields[13] != 0) {
+					$movement{$fields[0]}{$leg}{"lt"} = $fields[1];
+					$movement{$fields[0]}{$leg}{"th"} = $fields[2];
+					$movement{$fields[0]}{$leg}{"rt"} = $fields[3];
+
+					$movement{$fields[0]}{$leg2}{"lt"} = $fields[5];
+					$movement{$fields[0]}{$leg2}{"th"} = $fields[6];
+					$movement{$fields[0]}{$leg2}{"rt"} = $fields[7];
+
+					$movement{$fields[0]}{$leg}{"p"} = sprintf("%d (%s %s)", $fields[10] + $fields[11], $fields[10], $fields[11]);
+					$movement{$fields[0]}{$leg2}{"p"} = sprintf("%d (%s %s)", $fields[12] + $fields[13], $fields[12], $fields[13]);
 				}
 			}
 
