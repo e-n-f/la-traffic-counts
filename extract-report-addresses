@@ -8,8 +8,8 @@ while (<IN>) {
 	chomp;
 	($name, $lat, $lon) = split(/,/);
 	$name =~ tr/a-z/A-Z/;
-	$name =~ s/,//;
-	$name =~ s/\.//;
+	$name =~ s/,//g;
+	$name =~ s/\.//g;
 
 	$name =~ s/\bWEST\b/W/g;
 	$name =~ s/\bEAST\b/E/g;
@@ -66,8 +66,8 @@ while (<>) {
 	chomp;
 
 	tr/a-z/A-Z/;
-	s/,//;
-	s/\.//;
+	s/,//g;
+	s/\.//g;
 
 	s/\bWEST\b/W/g;
 	s/\bEAST\b/E/g;
