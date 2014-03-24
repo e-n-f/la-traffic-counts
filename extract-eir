@@ -4,6 +4,9 @@ use strict;
 
 my @line;
 
+my $fname = $ARGV[0];
+$fname =~ s/.*\///;
+
 while (<>) {
 	chomp;
 
@@ -93,7 +96,7 @@ sub col {
 
 			if ($mode eq "pedbike") {
 				if ($#fields == 8) {
-					print "$ns / $ew,$date,$fields[0],,,,,,,,,,,,,";
+					print "$fname,$ns / $ew,x,$date,$fields[0],,,,,,,,,,,,,";
 					my $j;
 					for ($j = 1; $j < 9; $j++) {
 						print "$fields[$j]";
@@ -104,11 +107,11 @@ sub col {
 					}
 					print "\n";
 				} else {
-					print "xxxx $mode $text[$i]\n";
+					# print "xxxx $mode $text[$i]\n";
 				}
 			} elsif ($mode eq "pedbiketotal") {
 				if ($#fields == 11) {
-					print "$ns / $ew,$date,$fields[0],,,,,,,,,,,,,";
+					print "$fname,$ns / $ew,x,$date,$fields[0],,,,,,,,,,,,,";
 					my $j;
 					for ($j = 1; $j < 5; $j++) {
 						print "$fields[$j],";
@@ -122,7 +125,7 @@ sub col {
 					}
 					print "\n";
 				} else {
-					print "xxxx $mode $text[$i]\n";
+					# print "xxxx $mode $text[$i]\n";
 				}
 			} elsif ($mode eq "car") {
 				my %sum = ();
@@ -136,7 +139,7 @@ sub col {
 					last if $cols[$a] eq "TOTAL";
 				}
 
-				print "$ns / $ew,$date,$fields[0],";
+				print "$fname,$ns / $ew,x,$date,$fields[0],";
 
 				for my $dir ('SB', 'WB', 'NB', 'EB') {
 					for my $turn ('RT', 'TH', 'LT') {
@@ -153,12 +156,12 @@ sub col {
 
 				print ",,,,,,,\n";
 			} else {
-				print "xxxxxx $text[$i]\n";
+				# print "xxxxxx $text[$i]\n";
 			}
 		} elsif ($mode eq "ped") {
 			@fields = split(/ +/, substr($text[$i], $off));
 			next unless $fields[0] =~ /^[0-9]+-[0-9]+$/;
-			print "$ns / $ew,$date,$fields[0],,,,,,,,,,,,,";
+			print "$fname,$ns / $ew,x,$date,$fields[0],,,,,,,,,,,,,";
 			for ($a = 1; $a < 5; $a++) {
 				print "$fields[$a],";
 			}

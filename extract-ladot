@@ -29,7 +29,7 @@ while (1) {
 		if (/^East\/West *(.*)/) {
 			$ew = $1;
 		}
-		if (/Date:(.*)Weather:(.*)/) {
+		if (/Date: *(.*)Weather:(.*)/) {
 			$date = $1;
 			$weather = $2;
 		}
@@ -56,7 +56,7 @@ while (1) {
 					if ($fields[4] != $fields[1] + $fields[2] + $fields[3] ||
 					    $fields[9] != $fields[6] + $fields[7] + $fields[8] ||
 					    $fields[10] != $fields[4] + $fields[9]) {
-						print "mismatched sum in $ARGV\n";
+						# print "mismatched sum in $ARGV\n";
 					} else {
 						$movement{$fields[0]}{$leg}{"lt"} = $fields[1];
 						$movement{$fields[0]}{$leg}{"th"} = $fields[2];
@@ -79,7 +79,7 @@ while (1) {
 					if ($fields[4] != $fields[1] + $fields[2] + $fields[3] ||
 					    $fields[8] != $fields[5] + $fields[6] + $fields[7] ||
 					    $fields[9] != $fields[3] + $fields[8]) {
-						print "mismatched sum in $ARGV\n";
+						# print "mismatched sum in $ARGV\n";
 					} else {
 						$movement{$fields[0]}{$leg}{"lt"} = $fields[1];
 						$movement{$fields[0]}{$leg}{"th"} = $fields[2];
@@ -101,8 +101,11 @@ while (1) {
 	}
 
 	$ns =~ s/ +/ /g;
+	$ns =~ s/ *$//g;
 	$ew =~ s/ +/ /g;
+	$ew =~ s/ *$//g;
 	$date =~ s/ +/ /g;
+	$date =~ s/ *$//g;
 	$weather =~ s/ +/ /g;
 
 	if ($ns ne "") {
@@ -130,7 +133,7 @@ while (1) {
 			my $fn = $ARGV;
 			$fn =~ s/.*\///;
 
-			print "$fn,$ns at $ew,$date,$time,";
+			print "$fn,$ns / $ew,x,$date,$time,";
 			$anything = 1;
 
 			my $direction;
@@ -145,11 +148,11 @@ while (1) {
 				print "$movement{$time}{$direction}{'p'},";
 			}
 
-			print "\n";
+			print ",,,\n";
 		}
 
 		if (!$anything) {
-			print "nothing in $ARGV\n";
+			# print "nothing in $ARGV\n";
 		}
 	}
 
