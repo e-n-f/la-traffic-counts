@@ -52,15 +52,9 @@ for $n (keys(%dup)) {
 	$lon{$n} = "";
 }
 
-while (<>) {
-	chomp;
-	($id, $name, $rest) = split(/,/, $_, 3);
 
-	next if $seen{$name};
-	$seen{$name} = 1;
-
-	$out = $_;
-	$_ = $name;
+sub geocode {
+	$_ = @_[0];
 
 	s/\015//;
 	s/^[ \t]*//;
@@ -76,6 +70,7 @@ while (<>) {
 	s/\bNORTH\b/N/g;
 	s/\bSOUTH\b/S/g;
 
+	s/\bAT\b/\//i;
 	s/^[NSEW] //;
 	s/\/ [NSEW] /\/ /g;
 
@@ -101,9 +96,56 @@ while (<>) {
 	s/\bEIGHTH\b/8TH/g;
 	s/\bNINTH\b/9TH/g;
 
-	if ($lat{$_} ne "") {
-		print "$out,$lat{$_},$lon{$_}\n";
-	} else {
-		print "xxx $name -> $_\n";
+	return "$lat{$_},$lon{$_}";
+}
+
+for $file (<reports/*.html>) {
+	$base = $file;
+	$base =~ s/.*\///;
+
+        open (IN, "<$file");
+        while (<IN>) {
+                last if /<td class="tablerecord">/;
+        }
+
+        <IN>;
+        $name = <IN>;
+
+	$name =~ s/\015//;
+	$name =~ s/^[ \t]*//;
+	$name =~ s/&nbsp;//;
+	chomp $name;
+
+	while (<IN>) {
+		if (/http:\/\/navigatela.lacity.org\/dot\/traffic_data\/manual_counts\/([^"]*).pdf/) {
+			$base = "$1.txt";
+			# print "$base -> $name\n";
+			$name{$base} = $name;
+		}
 	}
+
+	#print "$base -> $name{$base}\n";
+	close(IN);
+}
+
+while (<>) {
+	chomp;
+	($id, $name, $rest) = split(/,/, $_, 3);
+
+	next if $seen{$name};
+	$seen{$name} = 1;
+
+	$out = $_;
+
+	$where = geocode($name);
+
+	if ($where eq ",") {
+		$where = geocode($name{$id});
+	}
+
+	if ($where eq ",") {
+		print "xxx-";
+	}
+
+	print "$out,$where\n";
 }
