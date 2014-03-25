@@ -96,6 +96,14 @@ sub geocode {
 	s/\bEIGHTH\b/8TH/g;
 	s/\bNINTH\b/9TH/g;
 
+	s/\bBERVELY\b/BEVERLY/g;
+	s/\bWILSHILE\b/WILSHIRE/g;
+	s/\bAVIATIO\b/AVIATION/g;
+	s/\bINGELWOOD\b/INGLEWOOD/g;
+	s/\bFGUEROA\b/FIGUEROA/g;
+	s/\bBRAODWAY\b/BROADWAY/g;
+	s/\bCAHUENEGA\b/CAHUENGA/g;
+
 	return "$lat{$_},$lon{$_}";
 }
 
