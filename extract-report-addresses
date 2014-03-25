@@ -132,7 +132,7 @@ while (<>) {
 	chomp;
 	($id, $name, $rest) = split(/,/, $_, 3);
 
-	next if $seen{$name};
+	# next if $seen{$name};
 	$seen{$name} = 1;
 
 	$out = $_;
