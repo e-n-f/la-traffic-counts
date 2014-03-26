@@ -1,0 +1,32 @@
+#!/bin/sh
+
+cat geocoded |
+awk -F, '($26 != "") {print $18 + $19 + $20 + $21, $26, $27, $18 + 0, $19 + 0, $20 + 0, $21 + 0}' |
+sort -rn |
+awk '{ if (seen[$2 $3] == 1) { print; } seen[$2 $3]++; }' |
+perl -e '
+	$pi = 4 * atan2(1, 1);
+	$foot = .00000274;
+	$unit = 50* $foot;
+	$unit2 = 3 * $unit;
+
+	while (<>) {
+		chomp;
+		($count, $lat, $lon, $n, $e, $s, $w) = split(/ /);
+		# print "$n $e $w $s\n";
+		$rat = cos($lat * $pi / 180);
+
+		for ($i = 0; $i < $n; $i++) {
+			printf("%.6f,%.6f\n", $lat + $unit, $lon + (rand($unit2 * 2) - ($unit2)) / $rat);
+		}
+		for ($i = 0; $i < $s; $i++) {
+			printf("%.6f,%.6f\n", $lat - $unit, $lon + (rand($unit2 * 2) - ($unit2)) / $rat);
+		}
+		for ($i = 0; $i < $e; $i++) {
+			printf("%.6f,%.6f\n", $lat + (rand($unit2 * 2) - ($unit2)), $lon + $unit / $rat);
+		}
+		for ($i = 0; $i < $w; $i++) {
+			printf("%.6f,%.6f\n", $lat + (rand($unit2 * 2) - ($unit2)), $lon - $unit / $rat);
+		}
+	}
+'
