@@ -3,6 +3,21 @@
 $foot = .00000274;
 $pi = 4 * atan2(1, 1);
 
+open(IN, "to-geocode");
+while (<IN>) {
+	chomp;
+	($name, $lat, $lon) = split(/,/);
+
+	$name =~ s/^[0-9]* //;
+	$lon =~ s/^ *//;
+
+	if ($lon ne "") {
+		$exactlat{$name} = $lat;
+		$exactlon{$name} = $lon;
+	}
+}
+close(IN);
+
 open(IN, "la-intersections");
 while (<IN>) {
 	chomp;
@@ -60,6 +75,10 @@ sub geocode {
 	s/^[ \t]*//;
 	s/&nbsp;//;
 	chomp;
+
+	if (defined ($exactlat{$_})) {
+		return "$exactlat{$_},$exactlon{$_}";
+	}
 
 	tr/a-z/A-Z/;
 	s/,//g;
