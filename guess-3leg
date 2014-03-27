@@ -1,0 +1,55 @@
+#!/usr/bin/perl
+
+#            17
+#          5  6  7
+#      16          8
+#  20  15          9    18
+#      14          10
+#         13 12 11
+#            19
+
+while (<>) {
+	@fields = split(/,/);
+	$key = $fields[1];
+
+	for ($i = 0; $i <= $#fields; $i++) {
+		$sum{$key}[$i] += $fields[$i];
+	}
+
+	push @lines, $_;
+}
+
+for (@lines) {
+	@fields = split(/,/);
+	$key = $fields[1];
+
+	if ($sum{$key}[17] == 0 && $fields[19] ne "") {
+		if ($sum{$key}[12] == 0 && $sum{$key}[6] == 0 && $sum{$key}[8] == 0 && $sum{$key}[16] == 0) {
+			$fields[17] = $fields[19];
+		}
+	}
+
+	if ($sum{$key}[18] == 0 && $fields[20] ne "") {
+		if ($sum{$key}[15] == 0 && $sum{$key}[9] == 0 && $sum{$key}[11] == 0 && $sum{$key}[7] == 0) {
+			$fields[18] = $fields[20];
+		}
+	}
+
+	if ($sum{$key}[19] == 0 && $fields[17] ne "") {
+		if ($sum{$key}[6] == 0 && $sum{$key}[12] == 0 && $sum{$key}[14] == 0 && $sum{$key}[10] == 0) {
+			$fields[19] = $fields[17];
+		}
+	}
+
+	if ($sum{$key}[20] == 0 && $fields[18] ne "") {
+		if ($sum{$key}[9] == 0 && $sum{$key}[15] == 0 && $sum{$key}[13] == 0 && $sum{$key}[5] == 0) {
+			$fields[20] = $fields[18];
+		}
+	}
+
+	for ($i = 0; $i < $#fields; $i++) {
+		print "$fields[$i],";
+	}
+
+	print $fields[$#fields];
+}
