@@ -171,7 +171,7 @@ while (<>) {
 	}
 
 	if ($where eq ",") {
-		print "xxx-";
+		# print "xxx-";
 	}
 
 	print "$out,$where\n";
