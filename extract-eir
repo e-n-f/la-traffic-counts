@@ -47,10 +47,12 @@ sub col {
 		if ($text[$i] =~ /INTERSECTION:.*N\/S *(.*)/) {
 			$ns = $1;
 			$ns =~ s/      .*//;
+			$ns =~ s/,/ /g;
 		}
 		if ($text[$i] =~ /E\/W *(.*)/) {
 			$ew = $1;
 			$ew =~ s/      .*//;
+			$ew =~ s/,/ /g;
 		}
 		if ($text[$i] =~ /DATE: *(.*)/) {
 			$date = $1;
