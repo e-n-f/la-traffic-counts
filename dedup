@@ -4,8 +4,17 @@ $pi = 4 * atan2(1, 1);
 $foot = .00000274;
 $bucket = 100 * $foot;
 
-ITEM:
 while (<>) {
+	@fields = split(/,/);
+
+	$sum{$_} = $fields[17] + $fields[18] + $fields[19] + $fields[20];
+	push @lines, $_;
+}
+
+@lines = sort { $sum{$b} <=> $sum{$a} } @lines;
+
+ITEM:
+for (@lines) {
 	@fields = split(/,/);
 
 	$lat = $fields[25];	
