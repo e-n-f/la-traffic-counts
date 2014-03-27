@@ -1,0 +1,66 @@
+#!/usr/bin/perl
+
+$pi = 4 * atan2(1, 1);
+$foot = .00000274;
+$bucket = 100 * $foot;
+
+ITEM:
+while (<>) {
+	@fields = split(/,/);
+
+	$lat = $fields[25];	
+	$lon = $fields[26];
+
+	if ($lat eq "") {
+		print;
+		next;
+	}
+
+	$a = int($lat / $bucket);
+	$o = int($lon / $bucket);
+
+	$found = 0;
+	CHECK:
+	for ($aa = $a - 1; $aa <= $a + 1; $aa++) {
+		for ($oo = $o - 1; $oo <= $o + 1; $oo++) {
+			@m = @{$seen{$aa}{$oo}};
+
+			# print "trying @m for $aa $oo\n";
+
+			for $m (@m) {
+				($lat1, $lon1) = split(/,/, $m);
+
+				if ($lat1 == $lat && $lon1 == $lon) {
+					# print "exact match\n";
+					# print "aaaa $lat,$lon exactly matches $lat1,$lon1\n";
+					print $_;
+					next ITEM;
+				}
+
+				$latd = $lat1 - $lat;
+				$lond = $lon1 - $lon;
+				$d = sqrt($latd * $latd + $lond * $lond);
+
+				if ($d == 0) {
+					# print "exact match\n";
+					# print "aaaa $lat,$lon is distance of 0 from $lat1,$lon1\n";
+					print $_;
+					next ITEM;
+				}
+
+				if ($d < $bucket) {
+					# print "aaaa $lat,$lon is $d from $lat1,$lon1\n";
+					$found = 1;
+					last CHECK;
+				}
+			}
+		}
+	}
+
+	if ($found) {
+		# print "zzzzz $lat $lon $d $_";
+	} else {
+		print;
+		push @{$seen{$a}{$o}}, "$lat,$lon";
+	}
+}
