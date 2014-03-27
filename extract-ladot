@@ -8,11 +8,15 @@ sub fixtime {
 	if ($time =~ /^(\d\d?)-(\d\d?)/) {
 		my ($t1, $t2) = ($1, $2);
 
-		if ($t1 < 7) {
+		if ($t1 < 6) {
 			$t1 += 12;
 		}
 		if ($t2 < 7) {
 			$t2 += 12;
+		}
+
+		if (sprintf("%02d", $t1) ge sprintf("%02d", $t2)) {
+			return "error $time $t1 $2";
 		}
 
 		return sprintf("%02d:00-%02d:00", $t1, $t2);
@@ -20,7 +24,7 @@ sub fixtime {
 	         $time =~ /^(\d\d?)\.(\d\d?)-(\d\d?)\.(\d\d?)$/) {
 		my ($h1, $m1, $h2, $m2) = ($1, $2, $3, $4);
 
-		if ($h1 < 7) {
+		if ($h1 < 6) {
 			$h1 += 12;
 		}
 		if ($h2 < 7) {
@@ -31,6 +35,10 @@ sub fixtime {
 		}
 		if ($m2 == 3) {
 			$m2 = 30;
+		}
+
+		if (sprintf("%02d%02d", $h1, $m1) ge sprintf("%02d%02d", $h2, $m2)) {
+			return "error $time $h1$m1 $h2$m2";
 		}
 
 		return sprintf("%02d:%02d-%02d:%02d", $h1, $m1, $h2, $m2);
