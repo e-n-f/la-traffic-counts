@@ -3,3 +3,5 @@
 find eir -name '*.txt' -print0 | xargs -0 -L1 ./extract-eir > eir.csv
 find navigatela.lacity.org -name '*.txt' -print0 | xargs -0 -L1 ./extract-eir > ladot-wiltec.csv
 find navigatela.lacity.org -name '*.txt' -print0 | xargs -0 ./extract-ladot > ladot.csv
+
+cat eir.csv ladot-wiltec.csv ladot.csv | ./extract-report-addresses > counts.csv
