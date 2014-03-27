@@ -17,6 +17,26 @@ while (<>) {
 	push @line, $_;
 }
 
+sub fixtime {
+	my $time = $_[0];
+
+	if ($time =~ /^(\d\d?)(\d\d)-(\d\d?)(\d\d)$/ ||
+	    $time =~ /^(\d\d?):(\d\d)-(\d\d?):(\d\d)/) {
+		my ($h1, $m1, $h2, $m2) = ($1, $2, $3, $4);
+
+		if ($h1 < 7) {
+			$h1 += 12;
+		}
+		if ($h2 < 7) {
+			$h2 += 12;
+		}
+
+		return sprintf("%02d:%02d-%02d:%02d", $h1, $m1, $h2, $m2);
+	} else {
+		return $time;
+	}
+}
+
 sub col {
 	my @text = @_;
 	my @cols;
@@ -99,6 +119,7 @@ sub col {
 
 			if ($mode eq "pedbike") {
 				if ($#fields == 8) {
+					$fields[0] = fixtime($fields[0]);
 					my $j;
 					for ($j = 1; $j < 9; $j++) {
 						if (defined($mode{"$fname,$ns / $ew,x,$date,$fields[0]"}[12 + $j - 1])) {
@@ -112,6 +133,7 @@ sub col {
 				}
 			} elsif ($mode eq "pedbiketotal") {
 				if ($#fields == 11) {
+					$fields[0] = fixtime($fields[0]);
 					my $j;
 					for ($j = 1; $j < 5; $j++) {
 						if (defined($mode{"$fname,$ns / $ew,x,$date,$fields[0]"}[12 + $j - 1])) {
@@ -140,6 +162,7 @@ sub col {
 					last if $cols[$a] eq "TOTAL";
 				}
 
+				$fields[0] = fixtime($fields[0]);
 				my $off = 0;
 				for my $dir ('SB', 'WB', 'NB', 'EB') {
 					for my $turn ('RT', 'TH', 'LT') {
@@ -164,6 +187,7 @@ sub col {
 		} elsif ($mode eq "ped") {
 			@fields = split(/ +/, substr($text[$i], $off));
 			next unless $fields[0] =~ /^[0-9]+-[0-9]+$/;
+			$fields[0] = fixtime($fields[0]);
 			for ($a = 1; $a < 5; $a++) {
 				if (defined($mode{"$fname,$ns / $ew,x,$date,$fields[0]"}[12 + $a - 1])) {
 					die $text[$i];
