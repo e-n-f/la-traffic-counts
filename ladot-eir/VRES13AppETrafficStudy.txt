@@ -1,0 +1,2461 @@
+Appendix E   Traffic Study
+             DRAFT
+           Traffic Study for
+ Los Angeles Unified School District
+Valley Region Elementary School # 13
+       Los Angeles, California
+
+
+
+
+           June 13, 2008
+
+
+
+
+                                                     Prepared For:
+                                                           PBS&J
+                                  12301 S Wilshire Blvd, Suite 430
+                                          Los Angeles, CA 90025
+                                            phone: 310-268-8132
+                                               fax: 310-268-8175
+
+                                                      Prepared by:
+
+
+
+                           1055 Corporate Center Drive, Suite 300
+                                  Monterey Park, California 91754
+                                          phone: (323) 260-4703
+                                             fax: (323) 260-4705
+
+
+                                                           JA81046
+Table of Contents
+INTRODUCTION .......................................................................................................................................... 1
+   PROJECT STUDY AREA .................................................................................................................................................................... 1
+   PROJECT ACCESS............................................................................................................................................................................. 3
+   ANALYSIS METHODOLOGY ............................................................................................................................................................ 3
+   AUTOMATED TRAFFIC SURVEILLANCE AND CONTROL (ATSAC) PROJECT AND ADAPTIVE TRAFFIC CONTROL SYSTEM
+   (ATCS)............................................................................................................................................................................................ 6
+EXISTING 2008 CONDITIONS................................................................................................................... 8
+   EXISTING ROADWAY SYSTEM ........................................................................................................................................................ 8
+   EXISTING TRANSIT SERVICE ........................................................................................................................................................... 8
+   EXISTING INTERSECTION LEVELS OF SERVICE ............................................................................................................................... 8
+   EXISTING TRAFFIC VOLUMES ....................................................................................................................................................... 10
+FUTURE 2012 WITHOUT PROJECT CONDITIONS ............................................................................ 14
+   AMBIENT GROWTH ...................................................................................................................................................................... 14
+   RELATED PROJECTS ....................................................................................................................................................................... 14
+   PEAK HOUR INTERSECTION LEVEL OF SERVICE .......................................................................................................................... 17
+FUTURE 2012 WITH PROJECT CONDITIONS ..................................................................................... 18
+   PROJECT TRIP GENERATION ........................................................................................................................................................ 18
+   PROJECT TRIP DISTRIBUTION....................................................................................................................................................... 19
+   PROJECT TRIP ASSIGNMENT ......................................................................................................................................................... 19
+   DETERMINATION OF TRAFFIC IMPACTS ...................................................................................................................................... 23
+   PROPOSED MITIGATION MEASURES ............................................................................................................................................ 24
+   UNAVOIDABLE SIGNIFICANT TRAFFIC IMPACTS ......................................................................................................................... 24
+REDUCED PROJECT ALTERNATIVE...................................................................................................... 25
+   PROJECT TRIP GENERATION ........................................................................................................................................................ 25
+   DETERMINATION OF TRAFFIC IMPACTS DUE TO REDUCED PROJECT ..................................................................................... 26
+PEDESTRIAN ANALYSIS........................................................................................................................... 27
+   EXISTING PEDESTRIAN-ORIENTED TRAFFIC CONTROLS ........................................................................................................... 27
+   PEDESTRIAN VOLUME CALCULATIONS ....................................................................................................................................... 27
+   CURRENT DEFICIENCIES ............................................................................................................................................................... 29
+   RECOMMENDED PEDESTRIAN RELATED IMPROVEMENTS ........................................................................................................... 29
+CONGESTION MANAGEMENT PLAN CONFORMANCE .................................................................. 33
+SUMMARY AND PROJECT RECOMMENDATIONS ............................................................................. 34
+   ANALYSIS CONCLUSIONS............................................................................................................................................................. 34
+
+
+
+
+Prepared for PBS&J
+DRAFT Traffic Impact Report ­ LAUSD Valley Region Elementary School # 13
+June 13, 2008                                                                                                                                                                          Page i
+List of Figures
+FIGURE 1: STUDY AREA                                                                        2
+FIGURE 2: PRELIMINARY SITE PLAN                                                             4
+FIGURE 3: EXISTING INTERSECTION GEOMETRY                                                   11
+FIGURE 4: EXISTING 2008 AM PEAK HOUR TRAFFIC VOLUMES                                       12
+FIGURE 5: LOCATION OF RELATED PROJECTS                                                     15
+FIGURE 6: FUTURE 2012 WITHOUT-PROJECT AM PEAK HOUR TRAFFIC VOLUMES                         16
+FIGURE 7: PROJECT TRIP DISTRIBUTION                                                        20
+FIGURE 8: PROJECT ONLY AM PEAK HOUR TRAFFIC VOLUMES                                        21
+FIGURE 9: FUTURE 2012 WITH PROJECT AM PEAK HOUR TRAFFIC VOLUMES                            22
+FIGURE 10: PEDESTRIAN STUDY ROUTES AND INVENTORY OF EXISTING PEDESTRIAN FACILITIES         28
+FIGURE 11: ESTIMATED PEDESTRIAN VOLUMES                                                    31
+FIGURE 12: PROPOSED PEDESTRIAN IMPROVEMENTS                                                32
+
+
+
+List of Tables
+TABLE 1: LEVEL OF SERVICE DEFINITIONS                                                       6
+TABLE 2: ROADWAY DESCRIPTION                                                                9
+TABLE 3: TRANSIT SERVICE SUMMARY                                                           10
+TABLE 4: EXISTING 2008 AM PEAK HOUR LEVEL OF SERVICE SUMMARY                               13
+TABLE 5: RELATED PROJECTS TRIP GENERATION SUMMARY                                          14
+TABLE 6: FUTURE 2012 WITHOUT-PROJECT AM PEAK HOUR LEVEL OF SERVICE SUMMARY                 17
+TABLE 7: PROJECT TRIP GENERATION ESTIMATE                                                  18
+TABLE 8: FUTURE 2012 WITH-PROJECT AM PEAK HOUR LEVEL OF SERVICE SUMMARY                    23
+TABLE 9: REDUCED PROJECT TRIP GENERATION ESTIMATE                                          25
+TABLE 10: FUTURE 2012 WITH REDUCED PROJECT - AM PEAK HOUR LEVEL OF SERVICE SUMMARY         26
+
+
+
+Appendices
+APPENDIX A ­ PROJECT MEMORANDUM OF UNDERSTANDING WITH LADOT
+APPENDIX B ­ TRAFFIC COUNT DATA
+APPENDIX C ­ INTERSECTION LEVEL OF SERVICE WORKSHEETS EXISTING CONDITIONS (YEAR 2008)
+APPENDIX D ­ INTERSECTION LEVEL OF SERVICE WORKSHEETS FUTURE WITHOUT-PROJECT
+              CONDITIONS (YEAR 2012)
+APPENDIX E ­ INTERSECTION LEVEL OF SERVICE WORKSHEETS FUTURE WITH PROJECT CONDITIONS
+              (YEAR 2012)
+
+
+
+
+Prepared for PBS&J
+DRAFT Traffic Impact Report ­ LAUSD Valley Region Elementary School # 13
+June 13, 2008                                                                    Page ii
+Introduction
+
+This study identifies the potential traffic impacts associated with the proposed Valley Region Elementary
+School #13 (hereafter refer to as "Project"). The proposed school site is located at northeast corner of
+Lanark Street and Cedros Avenue in the community of Panorama City within the City of Los Angeles.
+Figure 1 shows the location of the proposed Project site.
+
+The proposed 950-seat elementary school would relieve student overcrowding in other schools in the
+vicinity which includes Burton, Chase, Noble, Panorama City, Ranchito, Valerio Elementary Schools and
+Valerio Primary Center. The Project includes the construction of a school building, play areas, on-site
+service loading areas, and parking lot. Construction is anticipated to be completed by 2012. The
+proposed Project would replace the nine existing single family residential units and 89,620 square feet of
+manufacturing use which currently occupies four parcels.
+
+The Project study area, as defined through consultation with the Los Angeles Department of
+Transportation (LADOT) includes six key study intersections. Traffic impacts were analyzed during
+weekday AM peak hour at the six study intersections. Per LADOT guidelines, the traffic analysis includes
+the following traffic scenarios:
+
+     ·     Existing 2008 Conditions
+     ·     Future 2012 Without Project Conditions
+     ·     Future 2012 With Project Conditions
+
+Prior to the start of the study, KOA coordinated with staff from the LADOT to obtain consensus on
+the traffic scope, methodology and assumptions. A Memorandum of Understanding (MOU) was
+prepared and submitted to LADOT for review and approval. A copy of the MOU is provided in
+Appendix A.
+
+Project Study Area
+
+The Project study area is defined by the following six key study intersections:
+
+     1.    Willis Avenue and Roscoe Boulevard (Signalized)
+     2.    Van Nuys Boulevard and Roscoe Boulevard (Signalized)
+     3.    Willis Avenue and Titus Street (Stop Controlled)
+     4.    Van Nuys Boulevard and Titus Street (Signalized)
+     5.    Willis Avenue and Lanark Street (Stop Controlled)
+     6.    Van Nuys Boulevard and Lanark Street (Signalized)
+
+Figure 1 also shows the location of the six study intersections.
+
+
+
+
+Prepared for PBS&J
+DRAFT Traffic Impact Report ­ LAUSD Valley Region Elementary School # 13
+June 13, 2008                                                                                    Page 1
+                                                                                                              Van Nuys Blvd.
+                                                                                                Tobias Ave.
+                                                              Cedros Ave.
+                       Willis Ave.
+                             1                                                Roscoe Blvd.                       2
+
+
+
+
+                             3                                                               Titus St.           4
+
+
+       Cantara St.
+
+
+
+                                                                            PROJECT
+                                                                              SITE
+
+
+
+
+                             5                                                               Lanark St.          6
+                                             Natick Ave.
+
+
+
+
+                                                           Cedros Ave.
+
+
+
+
+        Lorne St.
+
+                                                                                                                    Lorne St.
+
+
+
+                                 Strathern         St.
+
+
+
+
+                                                                                             Blythe St.
+
+
+
+
+             LEGEND
+
+    Project Location
+                                                                                                                                       N
+    Study Intersection
+
+X   Intersection Reference Number
+
+
+
+                                                                                                                                    No Scale
+
+
+                                                           LAUSD Valley Region Elementary School #13                              Figure 1
+                                                                                                                                Study Area
+Project Access
+
+Access to the elementary school parking lot will be provided on Titus Street. The student drop-off
+location is located on the east side of Cedros Avenue fronting the Project site. Figure 2 shows the
+Project site plan.
+
+Analysis Methodology
+
+The proposed Project site is located within the City of Los Angeles. KOA coordinated with LADOT at
+the start of this study to achieve consensus on assumptions such as study intersections, ambient growth
+and related projects, and trip reduction credits.
+
+Guidelines defined by LADOT's "Guidelines for Traffic Impact Analysis Reports" were utilized to
+develop this traffic study. The general methodology and assumptions contained in this report are based
+on the Memorandum of Cooperation (MOC) between LAUSD and LADOT. After follow-up
+correspondence and additional research, a subsequent MOU, including all other major traffic study
+assumptions, was submitted to LADOT. An approved MOU was received from LADOT on April 14,
+2008.
+
+The list of study intersections is finalized through this process, as is the trip generation assumptions and
+information on related area projects. The following text describes the methodology for this report as
+defined in the MOU.
+
+Existing 2008 Conditions
+
+Fieldwork within the Project study area was undertaken to identify the condition of major roadways, to
+identify traffic control and approach lane configuration at each study intersection, and to identify the
+locations of on-street parking and transit stops.
+
+KOA compiled new manual intersection turn movement counts at four of the six study intersections on
+May 15th (Thursday) of 2008. Peak period turning movement counts were collected at the study
+intersections between the hours of 6:30 AM and 8:30 AM. Due to the current construction activity
+along Roscoe Boulevard, KOA did not collect new counts at the intersections of Willis Avenue/Roscoe
+Boulevard and Van Nuys Boulevard/Roscoe Boulevard. Historical count data at the two intersections
+were provided from LADOT and were adjusted to reflect current conditions. Traffic count summaries
+are provided in Appendix B of this report.
+
+Existing level of service at each of the six study intersections is discussed in the subsequent "Existing
+Conditions" section of this report.
+
+
+
+
+Prepared for PBS&J
+DRAFT Traffic Impact Report ­ LAUSD Valley Region Elementary School # 13
+June 13, 2008                                                                                      Page 3
+                                                              N
+
+
+
+
+                                                           No Scale
+
+
+LAUSD Valley Region Elementary School #13               Figure 2
+                                            Preliminary Site Plan
+Future 2012 Without Project Conditions
+
+In order to acknowledge regional traffic growth that would affect operations at the study intersections
+during the Project opening year of 2012, an ambient/background traffic growth rate was applied. Per
+LADOT guidance, an annual rate of 2% was utilized. A growth factor of 1.08 was used to estimate 2012
+traffic conditions.
+
+In addition to future ambient growth, traffic from area-related projects (approved and pending
+developments) was also included as part of the 2012 analysis. LADOT provided a list of area projects
+that would add measurable volumes to the study area intersections.
+
+Project Trip Generation and Distribution
+
+Forecast Project trip generation was based on the Valley Region trip generation rates defined in Table 1
+of the June 24, 2005 MOC between LADOT and LAUSD. The methodology utilized for Project trip
+distribution calculations is discussed further in the "Future With Project" section of this report.
+
+Level of Service Methodology
+
+For analysis of Level of Service (LOS) at signalized intersections, LADOT has designated the Circular
+212 Planning methodology as the desired tool. The concept of roadway level of service under the
+Circular 212 method is calculated as the volume of vehicles that pass through the facility divided by the
+capacity of that facility. A facility is "at capacity" (V/C of 1.00 or greater) whereby extreme congestion
+occurs. This volume/capacity ratio value is a function of hourly volumes signal phasing, and approach
+lane configuration on each leg of the intersection.
+
+For the stop-controlled intersections of Willis Avenue/Titus Street and Willis Avenue/Lanark Street,
+LOS were evaluated by treating the intersection as two-phase signalized intersection and reducing the
+capacity to 1,200 vehicles-per-hour-per-lane to reflect lower stop-controlled intersection's capacity per
+LADOT.
+
+LOS values range from LOS A to LOS F. LOS A indicates excellent operating conditions with little delay
+to motorists, whereas LOS F represents congested conditions with excessive vehicle delay. LOS E is
+typically defined as the operating "capacity" of a roadway.
+
+Table 1 defines the level of service criteria.
+
+
+
+
+Prepared for PBS&J
+DRAFT Traffic Impact Report ­ LAUSD Valley Region Elementary School # 13
+June 13, 2008                                                                                    Page 5
+                                           Table 1: Level of Service Definitions
+
+                                                                                                 Signalized
+                      LOS                              Interpretation                           Intersection
+                                                                                                 Volume to
+                                                                                                  Capacity
+                                                                                                Ratio (CMA)
+                               Excellent operation. All approaches to the intersection appear
+                         A     quite open, turning movements are easily made, and nearly all        0.000 - 0.600
+                               drivers find freedom of operation.
+                               Very good operation. Many drivers begin to feel somewhat
+                               restricted within platoons of vehicles. This represents stable
+                        B                                                                           0.601 - 0.700
+                               flow. An approach to an intersection may occasionally be fully
+                               utilized and traffic queues start to form.
+                               Good operation. Occasionally backups may develop behind
+                        C                                                                           0.701 - 0.800
+                               turning vehicles. Most drivers feel somewhat restricted.
+                               Fair operation. There are no long-standing traffic queues. This
+                        D                                                                           0.801 - 0.900
+                               level is typically associated with design practice for peak periods.
+                               Poor operation. Some long standing vehicular queues develop
+                        E                                                                           0.901 - 1.000
+                               on critical approaches.
+                               Forced flow. Represents jammed conditions. Backups from
+                               locations downstream or on the cross street may restrict or
+                        F      prevent movements of vehicles out of the intersection approach        Over 1.000
+                               lanes; therefore, volumes carried are not predictable. Potential
+                               for stop and go type traffic flow.
+                      Source: Highway Capacity Manual, Special Report 209, Transportation Research Board,
+                      Washington D.C., 2000 and Interim Materials on Highway Capacity, NCHRP Circular 212, 1982
+
+
+
+Automated Traffic Surveillance And Control (ATSAC) Project and Adaptive Traffic Control
+System (ATCS)
+
+Based on information obtained from LADOT, all the four signalized study intersections are currently
+equipped with Automated Traffic Surveillance And Control (ATSAC) or Adaptive Traffic Control
+System (ATCS).
+
+ATSAC is a computer-based traffic signal control system whereby engineers monitor traffic conditions
+and system performance, selects appropriate signal timing (control) strategies, and performs equipment
+diagnostics and alert functions. Sensors in the street detect the passage of vehicles, vehicle speed, and
+the level of congestion. This information is received on a second-by-second (real-time) basis and is
+analyzed on a minute-by-minute basis at the ATSAC Operations Center to determine if better traffic
+flow can be achieved by changing the signal timing. If required, the signal timing is either automatically
+changed by the ATSAC computers or manually changed by the operator using communication lines that
+connect the ATSAC Center with each traffic signal. To supplement the information from electronic
+detectors, closed-circuit television (CCTV) surveillance equipment has been and continues to be
+installed at critical locations throughout the City.
+
+ATCS is the latest enhancement to ATSAC and uses a personal computer-based traffic signal control
+software program which provides fully traffic adaptive signal control based on real-time traffic
+conditions. The ATCS will automatically adjust traffic signal timing in response to current traffic
+demands by allowing ATCS to simultaneously control all three critical components of traffic signal
+timing, namely cycle length, phase split and offset.
+
+
+
+Prepared for PBS&J
+DRAFT Traffic Impact Report ­ LAUSD Valley Region Elementary School # 13
+June 13, 2008                                                                                                       Page 6
+For capacity analysis, LADOT guidelines suggest a 0.10 reduction in volume-to-capacity ratio with the
+implementation of ATSAC/ATCS. This reduction represents field measured benefits in flow and capacity
+increase by operation of this program. For the purpose of traffic impact analysis, ATSAC/ATCS credits
+are applied to the existing and future conditions four the four signalized intersections.
+
+Significant Traffic Impacts
+
+As defined by LADOT traffic study guidelines, significant impacts of a proposed project at an
+intersection must be mitigated to a level of insignificance. In cases where capacity increases are possible,
+KOA analyzed mitigation measures that would restore operations commensurate with the future pre-
+Project period or better.
+
+
+
+
+Prepared for PBS&J
+DRAFT Traffic Impact Report ­ LAUSD Valley Region Elementary School # 13
+June 13, 2008                                                                                      Page 7
+Existing 2008 Conditions
+
+This section describes the existing conditions within the study area, in terms of roadway facilities and
+operating conditions within the study area.
+
+Existing Roadway System
+
+Fieldwork within the Project study area was undertaken to identify traffic control and approach lane
+configuration at each study intersection, and to identify the locations of on-street parking and transit
+stops. Key roadways within the study area are described in Table 2. The discussion presented here is
+limited to specific roadways that traverse the study intersections and serve the Project site. Figure 3
+shows the existing intersection geometry.
+
+Existing Transit Service
+
+Table 3 provides a description of the transit lines that traverse major roadway corridors in the
+immediate vicinity of the Project site. The Project would be well-served by multiple transit lines that lie
+within walking distance of the Project site.
+
+Existing Intersection Levels of Service
+
+Based on the AM peak period traffic counts at the study area intersections, a volume-to-capacity ratio
+and corresponding level of service were determined for all of the study area intersections. Table 4
+provides the level of service results at each study intersection under existing 2008 conditions.
+
+
+
+
+Prepared for PBS&J
+DRAFT Traffic Impact Report ­ LAUSD Valley Region Elementary School # 13
+June 13, 2008                                                                                     Page 8
+                                                      Table 2: Roadway Description
+
+                                            # Lanes                                Parking Restrictions
+                                                        Median                                                                                   Posted Speed
+               Segment                                                                                                        General Land Use
+                                          NB/EB SB/WB    Type      North Side / East Side        South Side / West Side                           Limit (mph)
+
+Roscoe Boulevard (Major Highway Class II)
+Between Willis Avenue & Van Nuys                                  No Stopping 7AM to 9AM &
+                                     2            2     Striped                                           NSAT                   Comercial            35
+Boulevard                                                                4PM to 7PM
+Van Nuys Boulevard (Major Highway Class II)
+North of Roscoe Boulevard                  3      3     Striped             NSAT                          NSAT                   Comercial            35
+                                                                     2 Hour Parking 9AM to
+                                                                                             2 Hour Parking 9AM to 4PM;
+Between Roscoe Boulevard & Titus                                  2:30PM - Except Sunday; No
+                                           3      3     Striped                              No Stopping 7AM to 9AM &            Comercial            35
+Street                                                              Stopping 7AM to 9AM &
+                                                                                                    4PM to 6PM
+                                                                        2:30PM to 6PM
+                                                                     2 Hour Parking 9AM to
+                                                                                             2 Hour Parking 9AM to 4PM;
+                                                                  2:30PM - Except Sunday; No
+Between Titus Street & Lanark Street       3      3     Striped                              No Stopping 7AM to 9AM &            Comercial            35
+                                                                    Stopping 7AM to 9AM &
+                                                                                                    4PM to 6PM
+                                                                        2:30PM to 6PM
+
+                                                                  2 Hour Parking 9AM to 4PM -1 Hour Parking 9AM to 4PM -
+South of Lanark Street                     3      3     Striped   Except Sunday; No Stopping Except Sunday; No Stopping          Comercial            35
+                                                                  7AM to 9AM & 4PM to 6PM 7AM to 9AM & 4PM to 6PM
+
+Lanark Street (Collector Street)
+
+Between Willis Avenue & Project Site       1      1     Striped    NP 8AM to 10AM - Friday      NP 8AM to 10AM - Monday          Residential          25
+
+                                                                  1 Hour Parking 8AM to 6PM -
+                                                                                                1 Hour Parking 8AM to 6PM -
+Between Project Site & Van Nuys                                    Except Sunday; NP 8AM to
+                                           1      1     Striped                                  Except Sunday; NP 8AM to        Residential          25
+Boulevard                                                         10AM - Friday; No Stopping
+                                                                                                     10AM - Monday
+                                                                  7AM to 5PM on School Days
+
+East of Van Nuys Boulevard                 1      1     Striped             NPAT                          NPAT                   Residential          25
+Willis Avenue (Collector Street)
+                                                                  NP 8AM to 10AM - Monday; NP 8AM to 10AM - Friday;
+North of Roscoe Boulevard                  1      1     Striped                                                                  Residential          25
+                                                                            NPAT                          NSAT
+Between Roscoe Boulevard & Titus                                                                 NP 7AM to 9AM & 4PM to
+                                           1      1     Striped   NP 8AM to 10AM - Monday                                        Residential          25
+Street                                                                                                     7PM
+
+South of Titus Steet                       1      1     Striped   NP 8AM to 10AM - Monday        NP 8AM to 10AM - Friday         Residential          25
+
+Cedros Street (Collector Street/Local Roadway)
+North of Roscoe Boulevard (Collector
+                                           1      1     Striped   NP 8AM to 10AM - Monday        NP 8AM to 10AM - Friday         Residential          25
+Street)
+Between Titus Street & Strathern Street
+                                           1      1     Striped    NP 8AM to 10AM - Friday      NP 8AM to 10AM - Monday          Residential          25
+(Local Roadway)
+Titus Street (Local Roadway)
+Between Willis Avenue & Van Nuys
+                                           1      1     Striped   NP 8AM to 10AM - Monday        NP 8AM to 10AM - Friday         Residential          25
+Boulevard
+Blythe Street (Local Roadway)
+Between Willis Avenue & Van Nuys
+                                           1      1     Striped             NPAT                          NPAT                   Residential          25
+Boulevard
+Tobias Street (Local Roadway)
+Between Chase Street & Roscoe
+                                           1      1     Striped             NPAT                  NPAT; NP 8AM to 6PM            Residential          25
+Boulevard
+Natick Avenue (Local Roadway)
+
+Between Titus Street & Strathern Street    1      1     Striped   NP 8AM to 10AM - Monday        NP 8AM to 10AM - Friday         Residential          25
+
+Notes:
+NP - No Parking
+NSAT - No Stopping Any Time
+NPAT - No Parking Any Time
+
+
+
+
+Prepared for PBS&J
+DRAFT Traffic Impact Report ­ LAUSD Valley Region Elementary School # 13
+June 13, 2008                                                                                                                                      Page 9
+                                                 Table 3: Transit Service Summary
+
+                                                                                                                 Frequency
+          Line                   From / To                           To / From                    Via
+                                                                                                              6:30 AM - 8:30 AM
+MTA Lines
+      152                      Woodland Hills                     North Hollywood              Roscoe Bvd        20 - 50 Mins
+      153                      Woodland Hills                     North Hollywood              Roscoe Blvd       25 -65 Mins
+      167                       Plummer St                 Chatsworth Transportation Center   Van Nuys Blvd        45 Mins
+      169                        Westhills                             Sunland                Van Nuys Blvd        60 Mins
+          233                Lakeview Terrace                       Westwood                  Van Nuys Blvd         10 Mins
+          353                 Woodland Hills                      North Hollywood              Roscoe Blvd          20 Mins
+          656                   Hollywood                          Downtown L.A.              Van Nuys Blvd       3 - 35 Mins
+          761                Lakeview Terrace                        Westwood                 Van Nuys Blvd       7 - 12 Mins
+Source:
+Los Angeles County Metropolitan Transportation Authority
+
+
+Existing Traffic Volumes
+
+KOA compiled new manual intersection turn movement counts that were conducted at the four of the
+six study intersections on May 15th (Thursday) of 2008. Peak period turning movement counts were
+collected between the hours of 6:30 AM to 8:30 AM. The results of counts were utilized to determine
+existing weekday AM peak-hour conditions. Due to the construction activity along Roscoe Boulevard,
+KOA did not collect new counts at the intersections of Willis Avenue/Roscoe Boulevard and Van Nuys
+Boulevard/Roscoe Boulevard. Historical counts at the two intersections were provided by LADOT.
+The count data were adjusted to reflect current conditions.
+
+Traffic counts at the intersection of Willis Avenue/Roscoe Boulevard were conducted in the year 2002
+and traffic counts at the intersection of Van Nuys Boulevard/Roscoe Boulevard were conducted in the
+year 2007. In order to reflect the 2008 existing conditions, an overall growth factor of 1.12 and 1.02 was
+applied to these intersections, respectively. The growth factors are based on an annual average growth
+rate of 2-percent per year. Traffic count summaries are provided in Appendix B of this report. Figure 4
+shows the existing AM peak-hour intersection volumes.
+
+
+
+
+Prepared for PBS&J
+DRAFT Traffic Impact Report ­ LAUSD Valley Region Elementary School # 13
+June 13, 2008                                                                                                            Page 10
+        S                                                                                                                                           S
+
+
+
+
+                                                                                                                         Van Nuys Blvd.
+                                                                                                       Tobias Ave.
+                                                                          Cedros Ave.
+                                      Willis Ave.
+
+
+
+                                           1                                            Roscoe Blvd.                 2
+
+
+
+
+       STOP                                                                                                                                         S
+
+
+
+                                           3                                                       Titus St.         4
+
+                      Cantara St.
+
+
+
+                                                                               PROJECT
+                                                                                 SITE
+
+                                           5                                                       Lanark St.        6
+                                                    Natick Ave.
+
+
+
+                                                                        Cedros Ave.
+
+
+
+
+                          Lorne St.
+
+                                                                                                                              Lorne St.
+
+       STOP                                                                                                                                         S
+                                        Strathern                 St.
+
+
+
+
+                                                                                                   Blythe St.
+
+
+
+
+              LEGEND
+
+       Project Location
+
+       Study Intersection
+ X     Intersection Reference Number
+ S     Signalized Intersection                                                                                                                                N
+
+STOP   Stop Sign Controlled Intersection
+       Stop Sign
+
+       Intersection Lane Geometry
+                                                                                                                                                           No Scale
+
+
+                                                                  LAUSD Valley Region Elementary School #13                                              Figure 3
+                                                                                                                                   Existing Intersection Geometry
+                                                                           Traffic Count - Graphic Conversion (Version 3.0): Copyright: Digital Media Productions, 2008
+
+
+
+
+             59                                                                                                                            1329
+        44         31                                                                                                                 26          309
+
+  22                    13                                                                                                  77                             147
+1335         1          1040                                                                                               643              2              1011
+ 123                    19                                                                                                  91                             362
+
+       147         34                                                                                                                201          243
+             45                                                                                                                            666
+
+
+
+
+             174                                                                                                                           1725
+         0         47                                                                                                                 89          16
+
+  0                     52                                                                                                   56                            10
+  0          3          0                                                                                                    51             4              75
+  0                     45                                                                                                   43                            176
+
+         0         33                                                                                                                 29          29
+             86                                                                                                                            1293
+
+
+
+
+             114                                                                                                                           1741
+         8         86                                                                                                                103          46
+
+  8                     59                                                                                                 130                             77
+184          5          66                                                                                                  78              6              79
+ 13                     37                                                                                                  80                             183
+
+        14         47                                                                                                                 40          186
+             64                                                                                                                            1102
+
+
+
+
+                   LEGEND
+       Project Site
+
+       Study Intersection
+
+ X     Intersection Reference Number
+
+XX     Intersection Turn Volume
+                                                                                                                                                         No Scale
+
+
+                                       LAUSD Valley Region Elementary School # 13                                                                       Figure 4
+                                                                                   Existing (2008) AM Peak Hour Traffic Volumes
+Generally, LOS D is the lowest acceptable level of service. As shown in Table 4, all the study
+intersections are operating at LOS B or better during the AM peak hour.
+
+                     Table 4: Existing 2008 AM Peak Hour Level of Service Summary
+
+                                                                           Existing 2008 Conditions
+                                      Study Intersections                       AM Peak Hour
+                                                                              V/C               LOS
+                           1     Willis Ave & Roscoe Blvd                     0.424              A
+                           2     Van Nuys Blvd & Roscoe Blvd                  0.632              B
+                           3     Willis Ave & Titus St [a]                    0.265              A
+                           4     Van Nuys Blvd & Titus St                     0.540              A
+                           5     Willis Ave & Lanark St [a]                   0.387              A
+                           6     Van Nuys Blvd & Lanark St                    0.651              B
+                         Note:
+                         [a] Stop-controlled intersection. LOS was calculated based on the 1,200 capacity
+                         utilizing the Circular 212 methodology.
+                         [b] Per LADOT, signalized intersections are equipped with ATSAC and ATCS.
+
+
+Existing conditions level of service worksheets are provided in Appendix C of this report.
+
+
+
+
+Prepared for PBS&J
+DRAFT Traffic Impact Report ­ LAUSD Valley Region Elementary School # 13
+June 13, 2008                                                                                               Page 13
+Future 2012 Without Project Conditions
+
+This section provides an analysis of future traffic conditions in the study area with ambient growth and
+related projects but without traffic from the proposed Project. The year 2012 was selected for analysis
+based on the anticipated completion/occupancy date of the Project.
+
+Ambient Growth
+The travel forecast includes an ambient growth increase to account for both regional population and
+employment growth outside of the study area. Per LADOT, an annual growth rate of 2% was utilized
+specifically for this study. The growth rate translates to a growth factor of 1.08 which was applied to
+existing traffic counts to reflect 2012 base conditions. This annual rate was included in the April 14,
+2008 LADOT MOU.
+
+Related Projects
+Other approved and pending projects in the vicinity of the proposed Project site were provided by
+LADOT. A list of 12 area projects was included in the traffic analysis. Table 5 summarizes the trip
+generation of related projects. This traffic was added to the surrounding street system.
+
+Figure 5 shows the locations of the related projects. Figure 6 shows the 2012 future without project AM
+peak hour intersection traffic volumes.
+
+                                 Table 5: Related Projects Trip Generation Summary
+
+      Map                                                                                                                             AM Peak
+                   Address                  Project Title            Size         Unit                     Comments
+       #                                                                                                                        In     Out    Total
+                                                                                              2666 s.f. fast food w/DT, 6379
+       1    14626 Roscoe Bl       Restaurants                        9,045     Sq. Footage                                      36      35     71
+                                                                                              sf sit down restaurant
+                                                                                              504 d.u. condominums,
+       2    14665 Roscoe Bl       Panorama Place EIR                   -       Mixed Use                                        357    396     753
+                                                                                              427,100 s.f. retail
+                                                                                              332,756 sf Industrial and 9,520
+       3    14450 Arminta St      Van Nuys Center, Phase 2          343,762    Sq. Footage                                      282     38     320
+                                                                                              sf Retail.
+                                                                                              142105 s.f. County office
+                                                                                              building + 100 enrollment
+       4    8750 Van Nuys Bl      Arden Panorama City                  -       Mixed Use                                        271     66     337
+                                                                                              daycare; remove existing ice
+                                                                                              rink
+       5    14533 Saticoy St      Auto-repair, fast food, retail    14,966     Sq. Footage                     -                36      34     70
+                                                                                              ITE Code 536; on hold pending
+       6    8071 Sepulveda Bl     Montclair Prep School Expansion    200       Enrollment                                       96      62     158
+                                                                                              sale (2/07)
+                                                                                              810 High School students +
+                                                                                              450 adult school students
+       7    7477 Kester Av        Valley Region H.S. #9              882        Students                                        120     95     215
+                                                                                              replacing 378 middle school
+                                                                                              students
+                                                                                              48 affordable housing units,
+       8    15236 Parthenia St    Affordable housing MUP               -       Mixed Use                                        24      39     63
+                                                                                              2,400 sq. ft. retail
+                                                                                              PM Trips based on ITE code
+                                  Chase St. Elementary ECE
+       9    14041 Chase St                                           175          Seats       for Day Care Center using 7       40      40     80
+                                  expansion
+                                                                                              rooms, 2 teachers/room
+
+            14859 Rayen St        EV New Elementary School #6        950        Students                       -                293    261     554
+       10
+       11 9247 Van Nuys Bl        Apartments                          74      Dwelling Unit                    -                8       30     38
+       12 9347 Van Nuys Bl        Apartments                          80      Dwelling Unit                    -                8       33     41
+     Source: LADOT
+
+Prepared for PBS&J
+DRAFT Traffic Impact Report ­ LAUSD Valley Region Elementary School # 13
+June 13, 2008                                                                                                                                   Page 14
+                                                                                                                                                                                                                                                        Ca
+                                                                                                                                                                                                                                                              nt
+                                                                                                                                                                                                                                                                er
+                                                                                  Lemona Ave.
+
+
+
+
+                                                                                                                                                                    Van Nuys
+           Sepulveda
+
+
+
+
+                                                                                                                                                                                                                                                                          bu
+                                           Burnet Ave.
+
+
+
+
+                                                                                                                                  Cedros Ave.
+
+
+
+
+                                                                                                                                                                                                                                                                             ry
+                                                                                                                                                                                                                                                                                Av
+                                                                                                                                                         12
+
+
+
+
+                                                                                                                                                                                                                                                                                   e  .
+                                                                                                                                                                                                                                                                            .
+                                                                                                              Tupper                            St.                                                                                                                       St
+                                                                                                                                                                                                                                                        on
+
+
+
+
+                                                                                                                                                                                                                        Wo
+                                                                                                                                                                                                                                                      ny
+
+
+
+
+                                                                                                                                                                                                                                                                            Do
+                                                                                                                                                          11
+
+
+
+
+                                                                                                                                                                    Blvd.
+
+
+
+
+                                                                                                                                                                                                                           od
+                                                                                                                                                                                                                                                     a
+           Blvd.
+
+                                                                                                                                                                                                 .
+
+
+
+
+                                                                                                                                                                                                                                                                              rri
+                                                                                                                                                                                               St                                          l        C
+
+
+
+
+                                                                                                                                                                                                                             ma
+
+
+
+
+                                                                                                                                                                                                                                                                                 ng
+                                                                                                                                                                                         lla                                             ge
+
+
+
+
+                                                                                                                                                                                                                                                                                      to
+                                                                                                                                                                                       Be                                              Ka
+
+
+
+
+                                                                                                                                                                                                                               n
+
+
+
+
+                                                                                                                                                                                                                                                                                         n
+                                                                                                                                                                                 rra
+
+
+
+
+                                                                                                                                                                                                                                                                                           Av
+                                                                                                                                                                               Te
+
+
+
+
+                                                                                                                                                                                                                                                                                             e.
+                                                                                                                                                                                                                                   Av
+                                                                                                                                                                                                                                      e       .
+                                                                                                                                                                                                                                                                                       .
+                                                                                                                                                                                                                                                                                    St
+                                                                                                                                                                                                                                                                               ne
+                                                                                                                                                                                                                                                                           bor
+                                                                                                                                                                                                                                                                         s
+                                                                                                                                                                                                Osborne St.                                                   O
+
+                                                                        Rayen St.                      10
+
+
+
+
+                                                                                                                                                                                                                                   Costello
+                                                                                                                                                      Tobias Ave.
+                                                                                                                Willis Ave.
+                 Pa
+
+
+
+
+                                                                                                                                                                                                                    Parthenia                 St.
+                       rth
+
+
+
+
+                         en
+                           ia
+                                 Pl.
+                                                                       Parthenia St.                                                                                       4                                              l.
+
+
+
+
+                                                                                                                                                                                                                                              Av
+                                                                                                                                                                                                                        rP
+                                       8                                                                                                                                                                               a
+
+
+
+
+                                                                                                                                                                                                                                                 e
+                                                                                                                                                                                                                     m
+
+
+
+
+                                                                                                                                                                                                                                                  .
+                                                                                                                                                                                                              G   ram
+                                                                                                                                                                                                                                                    9
+                                                                                                                                                                                                                            St.
+                                                                                                                                                                                                                      Chase
+                                                                                                     Chase St.
+
+
+
+
+                                                                                                                                                                                                Lennox Ave.
+                                                                                                                                                 2
+                                                                       Roscoe Blvd.
+                                                                                                                                                            1
+                                                                                                                                         Titus St.
+
+
+                             6                                                                                                                        Lanark St.
+                                                                                                                                                                                                                                                                                               .
+                                                                                                                                                                                                                                                                                             St
+                                                                                                                                                                                                                                                                                     rk
+                                                                                                                                                                                                                                                                                Lana
+
+                                                                                                                                                                                                                                                        Hazeltine Ave.
+
+                                                                       UP R
+                                                                              R
+                                                                                                                                Arminta St.                                    3
+
+      Stagg St.
+                                                         Burnet Ave.
+
+
+
+
+                                                                                                     Kester
+
+
+
+
+                                                                                                                              Saticoy St.                                      5
+
+                                                                                                 7
+                                                                                                     Ave.
+
+
+
+
+                                                                                                                                                                                        Covello St.
+
+
+
+                  LEGEND
+
+    Project Location                                                                                                                                                                                                                                                                                    N
+
+X   Related Project and Reference Number
+    (Refer Table 5)
+
+
+                                                                                                                                                                                                                                                                                                     No Scale
+
+
+                                                                                                LAUSD Valley Region Elementary School #13                                                                                                                                                          Figure 5
+                                                                                                                                                                                                                                        Location of Related Projects
+                                                                           Traffic Count - Graphic Conversion (Version 3.0): Copyright: Digital Media Productions, 2008
+
+
+
+
+             64                                                                                                                            1592
+        48         40                                                                                                                 90          354
+
+  24                    22                                                                                                 159                             188
+1622         1          1297                                                                                               808              2              1203
+ 133                    30                                                                                                 240                             413
+
+       159         45                                                                                                                335          270
+             49                                                                                                                            917
+
+
+
+
+             197                                                                                                                           2183
+         0         51                                                                                                                 96          17
+
+  0                     56                                                                                                   60                            11
+  0          3          0                                                                                                    55             4              81
+  0                     49                                                                                                   46                            190
+
+         0         36                                                                                                                 31          31
+             101                                                                                                                           1721
+
+
+
+
+             132                                                                                                                           2200
+         9         93                                                                                                                111          50
+
+  9                     64                                                                                                 140                             83
+199          5          71                                                                                                  84              6              85
+ 14                     40                                                                                                  86                             198
+
+        15         51                                                                                                                 43          201
+             77                                                                                                                            1515
+
+
+
+
+                   LEGEND
+       Project Site
+
+       Study Intersection
+
+ X     Intersection Reference Number
+
+XX     Intersection Turn Volume
+                                                                                                                                                         No Scale
+
+
+                                       LAUSD Valley Region Elementary School # 13                                                                       Figure 6
+                                                                 Future (2012) Without Project - AM Peak Hour Traffic Volumes
+Peak Hour Intersection Level of Service
+
+Based on the traffic forecast parameters discussed, a future 2012 Without-Project peak hour level of
+service analysis was conducted at the six study intersections. Table 6 summarizes the results of the level
+of service analysis for this scenario.
+
+        Table 6: Future 2012 Without-Project AM Peak Hour Level of Service Summary
+
+                                                                            Existing 2008     Future 2012 No
+                                                                             Conditions     Project Conditions
+                          Study Intersections
+                                                                                     AM Peak Hour
+                                                                           V/C       LOS      V/C           LOS
+                1    Willis Ave & Roscoe Blvd                              0.424      A       0.517          A
+                2    Van Nuys Blvd & Roscoe Blvd                           0.632      B       0.861          D
+                3    Willis Ave & Titus St [a]                             0.265      A       0.294          A
+                4    Van Nuys Blvd & Titus St                              0.540      A       0.662          B
+                5    Willis Ave & Lanark St [a]                            0.387      A       0.425          A
+                6    Van Nuys Blvd & Lanark St                             0.651      B       0.782          C
+             Note:
+             [a] Stop-controlled intersection. LOS was calculated based on the 1,200 capacity utilizing the Circular
+             212 methodology.
+             [b] Per LADOT, signalized intersections are equipped with ATSAC and ATCS.
+
+
+As shown in Table 6, operations at all the six study intersections are expected to worsen due to added
+traffic from regional traffic growth as well as traffic from other development projects near/within the
+study area. With the added background traffic growth that is expected, all six intersections are
+expected to continue to operate at LOS D or better during the AM peak hour.
+
+Future 2012 without-Project level of service worksheets are provided in Appendix D.
+
+
+
+
+Prepared for PBS&J
+DRAFT Traffic Impact Report ­ LAUSD Valley Region Elementary School # 13
+June 13, 2008                                                                                                          Page 17
+Future 2012 With Project Conditions
+
+This section describes the future 2012 with proposed Project traffic conditions within the study area.
+
+Project Trip Generation
+
+Table 7 summarizes the project's trip generation rates as contained in the June 24, 2005 Memorandum
+of Cooperation between LAUSD and LADOT. The trip generation estimates for this project are
+calculated from these rates. Single Family and Manufacturing trip rates are based on Institute of
+Transportation Engineers (ITE) Trip Generation 7th Edition.
+
+Based on the trip rates shown, the Project would generate 561 trips during the AM peak hour, with 295
+trips entering the site and 266 exiting the site during the peak hour. With the existing trip credit of 73
+trips during the AM peak hour due to the removal of nine single family homes and 89,620 square feet of
+manufacturing uses, the Project would generate 488 net trips during the AM peak hour, with 243 trips
+entering the site and 245 trips exiting the site during the peak hour.
+
+
+                                      Table 7: Project Trip Generation Estimate
+                                                                                           AM Peak Hour
+                                  Land Use                                 Unit
+                                                                                    In         Out             Total
+         Trip Generation Rates
+         Elementary [a]                                                    Seats    0.31       0.28            0.59
+         Single Family Residential [b]                                      DU      0.19       0.56            0.75
+         Manufacturing [b]                                                 Sq-Ft    0.56       0.17            0.73
+         Forecast Trip Generation
+         Elementary                                                         950     295         266            561
+
+         Trip Credit - Existing Use
+         Single Family Residential                                            9      2           5               7
+         Parcel-2210-012-017 (Manufacturing)                               45,011   25           8              33
+         Parcel-2210-012-011 (Manufacturing)                               11,449    6           2               8
+         Parcel-2210-012-012 (Manufacturing)                               13,198    7           3              10
+         Parcel-2210-012-018 (Manufacturing)                               19,962   12           3              15
+         Subtotal                                                                   -52         -21             -73
+         Net Trip Generation                                                        243         245            488
+
+         [a] Rates as defined in Memorandum of Cooperation (MOC) , City of Los Angeles/LAUSD, June 24, 2005.
+         [b] Rates obtained from ITE Trip Generation, 7th Edition.
+
+
+
+
+Prepared for PBS&J
+DRAFT Traffic Impact Report ­ LAUSD Valley Region Elementary School # 13
+June 13, 2008                                                                                                          Page 18
+Project Trip Distribution
+
+Trip distribution is the process of assigning the directions from which traffic will access a project site.
+Trip distribution is dependent upon the land use characteristics of the Project and the general locations
+of other land uses to which project trips would originate or terminate. Based on consultation with
+LADOT staff, a trip distribution pattern was developed specifically for this Project. Figure 7 illustrates
+the intersection trip distribution percentages that were utilized for Project traffic.
+
+Project Trip Assignment
+
+Based on the trip generation and distribution assumptions described above, Project traffic was assigned
+onto the roadway system based on driveway locations and the availability of local roadways to access
+the regional highway system. The Project-only AM peak hour trip assignment is illustrated in Figure 8.
+
+The Project generated trips were superimposed onto the "Future Without-Project" forecasts to
+estimate future With-Project traffic conditions. Figure 9 illustrates the resultant traffic forecasts for the
+AM peak hour.
+
+
+
+
+Prepared for PBS&J
+DRAFT Traffic Impact Report ­ LAUSD Valley Region Elementary School # 13
+June 13, 2008                                                                                       Page 19
+                                                                          Traffic Count - Graphic Conversion (Version 3.0): Copyright: Digital Media Productions, 2008
+
+
+
+
+            10%                                                                                                                           10%
+      0%          0%                                                                                                                0%           0%
+
+ 0%                     0%                                                                                                 0%                             0%
+ 0%         1           0%                                                                                                 0%              2              0%
+20%                     0%                                                                                                 0%                             25%
+
+      20%         0%                                                                                                                0%           25%
+            10%                                                                                                                           10%
+
+
+
+
+            30%                                                                                                                           35%
+      0%          0%                                                                                                                0%           0%
+
+0%                      30%                                                                                              35%                              0%
+0%          3           0%                                                                                                0%               4              0%
+0%                      10%                                                                                              25%                              0%
+
+      0%          0%                                                                                                                0%           0%
+            0%                                                                                                                             0%
+
+
+
+
+            5%                                                                                                                            25%
+      3%          30%                                                                                                              35%           0%
+
+0%                      0%                                                                                                 0%                             0%
+5%          5           0%                                                                                                 0%              6              0%
+0%                      0%                                                                                                 0%                             0%
+
+      0%          5%                                                                                                               25%           0%
+            0%                                                                                                                             0%
+
+
+
+
+                 LEGEND
+      Project Site
+
+      Study Intersection
+
+X     Intersection Reference Number
+
+X%    Trip Distribution Percentage
+                                                                                                                                                        No Scale
+
+
+                                      LAUSD Valley Region Elementary School # 13                                                                      Figure 7
+                                                                                                                           Project Trip Distribution
+                                                                         Traffic Count - Graphic Conversion (Version 3.0): Copyright: Digital Media Productions, 2008
+
+
+
+
+           24                                                                                                                             24
+       0        0                                                                                                                     0         0
+
+ 0                   0                                                                                                      0                            0
+ 0         1         0                                                                                                      0             2              0
+49                   0                                                                                                      0                            61
+
+      49        0                                                                                                                     0         61
+           25                                                                                                                             25
+
+
+
+
+           73                                                                                                                             85
+       0        0                                                                                                                     0         0
+
+ 0                   74                                                                                                    86                            0
+ 0         3         0                                                                                                      0             4              0
+ 0                   25                                                                                                    61                            0
+
+       0        0                                                                                                                     0         0
+           0                                                                                                                               0
+
+
+
+
+           12                                                                                                                             61
+       6        73                                                                                                                  85          0
+
+ 0                   0                                                                                                      0                            0
+12         5         0                                                                                                      0             6              0
+ 0                   0                                                                                                      0                            0
+
+       0        12                                                                                                                  61          0
+           0                                                                                                                               0
+
+
+
+
+                LEGEND
+     Project Site
+
+     Study Intersection
+
+X    Intersection Reference Number
+
+XX   Intersection Turn Volume
+                                                                                                                                                       No Scale
+
+
+                                     LAUSD Valley Region Elementary School # 13                                                                      Figure 8
+                                                                                    Project Only - AM Peak Hour Traffic Volumes
+                                                                           Traffic Count - Graphic Conversion (Version 3.0): Copyright: Digital Media Productions, 2008
+
+
+
+
+             88                                                                                                                            1616
+        48         40                                                                                                                 90          354
+
+  24                     22                                                                                                159                             188
+1622         1           1297                                                                                              808              2              1203
+ 182                     30                                                                                                240                             474
+
+       208         45                                                                                                                335          332
+             74                                                                                                                            942
+
+
+
+
+             270                                                                                                                           2268
+         0         51                                                                                                                 96          17
+
+  0                      130                                                                                               146                             11
+  0          3           0                                                                                                  55              4              81
+  0                      74                                                                                                107                             190
+
+         0         36                                                                                                                 31          31
+             101                                                                                                                           1721
+
+
+
+
+             144                                                                                                                           2262
+        15         166                                                                                                               196          50
+
+  9                      64                                                                                                140                             83
+211          5           71                                                                                                 84              6              85
+ 14                      40                                                                                                 86                             198
+
+        15         63                                                                                                                104          201
+             77                                                                                                                            1515
+
+
+
+
+                   LEGEND
+       Project Site
+
+       Study Intersection
+
+ X     Intersection Reference Number
+
+XX     Intersection Turn Volume
+                                                                                                                                                         No Scale
+
+
+                                       LAUSD Valley Region Elementary School # 13                                                                       Figure 9
+                                                                   Future (2012) With Project - AM Peak Hour Traffic Volumes
+Determination of Traffic Impacts
+
+Based on the traffic forecasts, the level of service analysis was conducted for the six study intersections.
+Table 8 summarizes the level of service results.
+
+            Table 8: Future 2012 With-Project AM Peak Hour Level of Service Summary
+                                                        Future 2012 No     Future 2012 With
+                                                       Project Conditions Project Conditions Change in   Sig
+              Study Intersections
+                                                                   AM Peak Hour                V/C     Impact ?
+                                                         V/C      LOS       V/C       LOS
+   1     Willis Ave & Roscoe Blvd                       0.517       A       0.576      A       0.059     NO
+   2     Van Nuys Blvd & Roscoe Blvd                    0.861       D       0.892      D       0.031     YES
+   3     Willis Ave & Titus St [a]                      0.294       A       0.437      A       0.143     NO
+   4     Van Nuys Blvd & Titus St                       0.662       B       0.779      C       0.117     YES
+   5     Willis Ave & Lanark St [a]                     0.425       A       0.511      A       0.086     NO
+   6     Van Nuys Blvd & Lanark St                      0.782       C       0.855      D       0.073     YES
+Note:
+[a] Stop-controlled intersection. LOS was calculated based on the 1,200 capacity utilizing the Circular 212 methodology.
+[b] Per LADOT, signalized intersections are equipped with ATSAC and ATCS.
+
+
+Traffic impacts are identified if the proposed development will result in a significant change in traffic
+conditions at a study intersection. A significant impact is typically identified if project-related traffic will
+cause service levels to deteriorate beyond a threshold limit specified by the overseeing agency. Impacts
+can also be significant if an intersection is already operating below the poorest acceptable level and
+project traffic will cause a further decline below a certain threshold.
+
+The City of Los Angeles Department of Transportation has established specific thresholds for project
+related increases in the volume-to-capacity ratio (V/C) of signalized study intersections. The following
+increases in peak-hour V/C ratios are considered "significant" impacts:
+
+        Level of Service                       Final V/C*                             Project Related v/c increase
+        C                                      < 0.70 ­ 0.80                          Equal to or greater than 0.040
+        D                                      < 0.80 ­ 0.90                          Equal to or greater than 0.020
+        E and F                                0.90 or more                           Equal to or greater than 0.010
+       Note: Final V/C is the V/C ratio at an intersection, considering impacts from the project, ambient and related project growth,
+       and without proposed traffic impact mitigations.
+
+Table 8 displays a comparison of all study scenarios. Traffic impacts created by the Project were
+calculated by subtracting the V/C values in the "Future With-Project" column from the value in the
+"Future Without-Project" column.
+
+The future 2012 With-Project level of service worksheets for this scenario are included in Appendix E
+of this report.
+
+
+
+Prepared for PBS&J
+DRAFT Traffic Impact Report ­ LAUSD Valley Region Elementary School # 13
+June 13, 2008                                                                                                                      Page 23
+Based on LADOT's criteria for identification of significant impacts, the proposed Project is expected to
+create significant traffic impacts at the following three study intersections:
+
+     ·     Van Nuys Boulevard and Roscoe Boulevard
+     ·     Van Nuys Boulevard and Titus Street
+     ·     Van Nuys Boulevard and Lanark Street
+
+Proposed Mitigation Measures
+
+Based on the Project impacts identified previously, below is the summary of the proposed mitigation
+measures:
+
+     ·     Van Nuys Boulevard and Titus Street: The recommended mitigation measure is to provide the
+           eastbound and westbound approaches with a left turn lane and a shared through-right turn lane.
+           On the west-leg of Titus Street, the current curb width is 36 feet. In order to provide a
+           separate left-turn lane and a shared through/right-turn lane in the eastbound approach, the
+           roadway will require restriping. No roadway widening nor on-street parking removal are
+           anticipated. On the east-leg of Titus Street, the current curb width is 36 feet. In order to
+           provide a separate left-turn lane and a shared through/right-turn lane in the westbound
+           approach, the roadway will require restriping and removal/restriction of on-street parking. No
+           roadway widening is anticipated. With the proposed mitigation measure, the intersection would
+           operate at LOS B (V/C = 0.681) during AM peak hour. The proposed mitigation measure would
+           fully mitigate Project related traffic impacts at the study intersection.
+
+     ·     Van Nuys Boulevard and Lanark Street: The recommended mitigation is to provide the
+           eastbound and westbound approaches with a left turn lane and a shared through-right turn lane.
+           On the west-leg of Lanark Street, the current curb width is 40 feet. In order to provide a
+           separate left-turn lane and a shared through/right-turn lane in the eastbound approach, the
+           roadway will require restriping and removal/restriction of on-street parking. No roadway
+           widening is anticipated. On the east-leg of Lanark Street, the current curb width is 36 feet. In
+           order to provide a separate left-turn lane and a shared through/right-turn lane in the westbound
+           approach, the roadway will require restriping and removal/restriction of on-street parking. No
+           roadway widening is anticipated. With the proposed mitigation measure, the intersection would
+           operate at LOS C (V/C = 0.761) during AM peak hour. The proposed mitigation measure would
+           fully mitigate Project related traffic impacts at the study intersection.
+
+Unavoidable Significant Traffic Impacts
+
+     ·     Van Nuys Boulevard and Roscoe Boulevard: No feasible mitigation measures are available at
+           this location. The intersection is buildout and physical improvements such as roadway widening
+           and restriping are not available. The Project is expected to create significant and unavoidable
+           traffic impacts at this intersection.
+
+
+
+
+Prepared for PBS&J
+DRAFT Traffic Impact Report ­ LAUSD Valley Region Elementary School # 13
+June 13, 2008                                                                                     Page 24
+Reduced Project Alternative
+
+This section provides a summary of potential traffic impacts associated with the reduced Project
+alternative. The reduced alternative includes up to 650 seats, a 300-seat decrease from the preferred
+950-seat.
+
+Project Trip Generation
+
+Based on trip rates contained in the June 24, 2005 Memorandum of Cooperation between LAUSD and
+LADOT, Table 9 summarizes the reduced project's trip generation estimates. Based on the trip rates
+shown, the reduced Project of 650 seats would generate 311 net trips during the AM peak period, with
+150 trips entering the site and 161 exiting the site during the peak hour.
+
+                               Table 9: Reduced Project Trip Generation Estimate
+                                                                                           AM Peak Hour
+                                  Land Use                                 Unit
+                                                                                    In         Out             Total
+         Trip Generation Rates
+         Elementary [a]                                                    Seats    0.31       0.28            0.59
+         Single Family Residential [b]                                      DU      0.19       0.56            0.75
+         Manufacturing [b]                                                 Sq-Ft    0.56       0.17            0.73
+         Forecast Trip Generation
+         Elementary                                                         650     202         182            384
+
+         Trip Credit - Existing Use
+         Single Family Residential                                            9      2           5               7
+         Parcel-2210-012-017 (Manufacturing)                               45,011   25           8              33
+         Parcel-2210-012-011 (Manufacturing)                               11,449    6           2               8
+         Parcel-2210-012-012 (Manufacturing)                               13,198    7           3              10
+         Parcel-2210-012-018 (Manufacturing)                               19,962   12           3              15
+         Subtotal                                                                   -52         -21             -73
+         Net Trip Generation                                                        150         161            311
+
+         [a] Rates as defined in Memorandum of Cooperation (MOC) , City of Los Angeles/LAUSD, June 24, 2005.
+         [b] Rates obtained from ITE Trip Generation, 7th Edition.
+
+
+The reduced trip generation estimates are lower than the preferred Project alternative. The reduction
+of 300 seats would yield approximately 177 less trips during the AM peak hour (from 488 trips to 311
+trips).
+
+Based on the trip distribution and assignment methodologies that were utilized for the proposed full
+Project, the reduced-alternative Project trips were forecasted at the six study intersections. The
+forecasted intersection volumes were superimposed onto future no-project conditions to estimate the
+potential increase in traffic impacts due to the vehicular trips generated by the 650 seats.
+
+
+Prepared for PBS&J
+DRAFT Traffic Impact Report ­ LAUSD Valley Region Elementary School # 13
+June 13, 2008                                                                                                          Page 25
+Determination of Traffic Impacts Due To Reduced Project
+
+Based on the traffic forecasts for the reduced Project alternative, the level of service analysis was
+conducted for the six study intersections. Table 10 summarizes the V/C and level of service of future
+2012 No-Project conditions versus the future with reduced Project conditions.
+
+  Table 10: Future 2012 With Reduced Project - AM Peak Hour Level of Service Summary
+                                                         Future 2012 No       Future 2012 With
+                                                       Project Conditions Project Conditions Change in   Sig
+              Study Intersections
+                                                                   AM Peak Hour                V/C     Impact ?
+                                                         V/C      LOS       V/C      LOS
+   1       Willis Ave & Roscoe Blvd                     0.517       A       0.555      A       0.038     NO
+   2       Van Nuys Blvd & Roscoe Blvd                  0.861       D       0.880      D       0.019     NO
+   3       Willis Ave & Titus St [a]                    0.294       A       0.385      A       0.091     NO
+   4       Van Nuys Blvd & Titus St                     0.662       B       0.738      C       0.076     YES
+   5       Willis Ave & Lanark St [a]                   0.425       A       0.479      A       0.054     NO
+   6       Van Nuys Blvd & Lanark St                    0.782       C       0.828      D       0.046     YES
+Note:
+[a] Stop-controlled intersection. LOS was calculated based on the 1,200 capacity utilizing the Circular 212 methodology.
+[b] Per LADOT, signalized intersections are equipped with ATSAC and ATCS.
+
+
+Based on LADOT's criteria for significant impacts, the reduced Project alternative is expected to create
+significant traffic impacts at the following study intersections:
+
+       ·     Van Nuys Boulevard and Titus Street
+       ·     Van Nuys Boulevard and Lanark Street
+
+The reduced Project alternative would require traffic mitigation measures to alleviate significant impacts
+identified. The proposed mitigation measures that identified for the preferred 950-seat scenario would
+also be required in the reduced 650-seat alterative. With the proposed mitigation measures, Project
+related traffic impacts at the intersections of Van Nuys Boulevard/Titus Street and Van Nuys
+Boulevard/Lanark Street would be fully mitigated. With the proposed mitigation measures, the
+intersections would operate at:
+
+       ·     Van Nuys Boulevard and Titus Street ­ V/C=0.660 (LOS B)
+       ·     Van Nuys Boulevard and Lanark Street ­ V/C=0.734 (LOS C)
+
+
+
+
+Prepared for PBS&J
+DRAFT Traffic Impact Report ­ LAUSD Valley Region Elementary School # 13
+June 13, 2008                                                                                                              Page 26
+Pedestrian Analysis
+This report section summarizes the pedestrian analysis conducted for the proposed project. KOA
+surveyed various possible pedestrian routes within the Project study area. The following provides an
+overview of pedestrian-related traffic control in the vicinity of the Project site and pedestrian routes.
+Figure 10 shows the selected pedestrian routes. Generally, the study area is buildout and offers
+adequate pedestrian serving amenities such as:
+
+     ·     Pedestrian signals at signalized intersections (push buttons)
+     ·     Sidewalks
+     ·     Crosswalks
+
+Existing Pedestrian-Oriented Traffic Controls
+
+The Project study area was surveyed to determine the location of existing traffic controls in the area
+that could be utilized by students to access the proposed school site from adjacent neighborhoods.
+Traffic control device locations that were documented included traffic signals, signed and striped
+crosswalks, and all-way stop-controlled intersections. Figure 10 also illustrates the inventory of current
+pedestrian facilities within the study area.
+
+Pedestrian Volume Calculations
+
+Utilizing mode split characteristics of LAUSD schools, established by surveys conducted for the LAUSD
+Program EIR (Meyer, Mohaddes Associates, Inc. ­ November, 2003), the number of anticipated students
+who would walk to and from the school site was calculated. The Program EIR defines the following
+percentage breakdowns an elementary school project mode splits:
+
+Elementary School
+     ·     Trips by car total 55.19% of all trips
+     ·     Trips by walking/biking total 42.33% of all trips
+     ·     Trips via school bus and public transit total 2.48% of all trips
+
+For the Project traffic study, outbound AM peak vehicle volumes are examined, representing returning
+drop-off trips, departing delivery trips, etc. For the pedestrian analysis, it was assumed that no
+measurable outbound pedestrian volumes would be present in the AM peak hour. Therefore, only
+inbound pedestrian volumes were examined in this analysis.
+
+Based on the mode split for the elementary school type listed above and factoring 1.5 to account for
+parents, the estimated additional number of school related pedestrians is 296 during the AM peak hour.
+Figure 11 illustrates the estimated volume and distribution of pedestrians along the study routes.
+
+
+
+
+Prepared for PBS&J
+DRAFT Traffic Impact Report ­ LAUSD Valley Region Elementary School # 13
+June 13, 2008                                                                                    Page 27
+                                                                                                                                   Van Nuys Blvd.
+                                                                                                    Tobias Ave.
+                                                                  Cedros Ave.
+                Willis Ave.
+
+                                                              1W                  Roscoe Blvd.
+
+
+
+
+                                                                                                 Titus St.
+               1W
+
+ Cantara St.
+               1W
+
+
+                                                                                PROJECT
+                                                                                  SITE
+
+
+
+
+                                                                                                 Lanark St.
+               AW                    2W                       2W
+                                          Matick Ave.
+
+
+
+
+                                                               Cedros Ave.
+
+
+
+
+   Lorne St.
+               1W
+
+                                                                                                                                 1W Lorne St.
+
+
+
+               1W             Strathern                 St.   1W
+
+
+
+
+                                                                                                 Blythe St.
+               AW
+
+
+
+
+        LEGEND
+ Project Location
+Pedestrian Study Routes
+Signalized Intersection with Striped                                                                                                                      N
+Crosswalk
+Stop Controlled Intersection
+(AW-All Way, 1W-One Way and 2W-Two Way
+Stop Controlled Intersection)
+
+                                                                                                                                                       No Scale
+
+
+                                                              LAUSD Valley Region Elementary School #13                                             Figure 10
+                                                                                    Pedestrian Study Routes And Inventory Of Existing Pedestrian Facilities
+Current Deficiencies
+
+Based on field observation/inventory, the following pedestrian-related facilities have been identified as
+deficient and requires repair:
+
+     ·     Willis Avenue - North of Titus Street on the east side of the street ­ existing sidewalks need
+           repair
+     ·     Willis Avenue - North of Lanark Street on the east side of the street ­ existing sidewalks need
+           repair
+
+Recommended Pedestrian Related Improvements
+
+As part of the pedestrian related improvements, it is also recommended that the crosswalks should be
+installed at the following locations:
+
+           Cedros Avenue and Titus Street.
+           Natick Avenue and Titus Street.
+           Willis Avenue and Titus Street.
+           Willis Avenue and Cantara Street.
+           Willis Avenue and Lanark Street.
+           Natick Avenue and Lanark Street.
+           Cedros Avenue and Lanark Street.
+           Willis Avenue and Lorne Street.
+           Willis Avenue and Strathern Street.
+           Willis Avenue and Blythe Street.
+Figure 12 shows the locations where the crosswalks are recommended.
+In addition to the sidewalk improvement and crosswalk installation, stop signs should be installed at the
+following locations:
+           Cedros Avenue and Titus Street - All way stop sign.
+           Natick Avenue and Titus Street - All way stop sign
+           Natick Avenue and Strathern Street - One way stop sign (Southbound)
+           Cedros Avenue and Lanark Street - Convert two way stop sign to four way stop sign.
+
+
+
+
+Prepared for PBS&J
+DRAFT Traffic Impact Report ­ LAUSD Valley Region Elementary School # 13
+June 13, 2008                                                                                       Page 29
+The preliminary recommended improvements provided shall be considered as part of the environmental
+review process only. It should be noted that the recommended improvements such as loading zones,
+pedestrian routes and crossings would need to be refined and revised as needed to ensure that those
+improvements are based on a more specific source rather than lengthy future projections. Thus, the
+mitigation measures proposed in the MOC document shall be considered as follows:
+
+LAUSD's OEHS will incorporate the following mitigation measures, where necessary, into the traffic
+analysis for new school projects.
+
+           1)      Six months prior to opening of the school, LAUSD's OEHS shall contact LADOT's
+                   Citywide Traffic Control Programs Section for preparation of a "Pedestrian Routes to
+                   School" map. As part of the "Pedestrian Routes to School", parents and students shall be
+                   notified to use the existing traffic safeguards.
+
+           2)      Four months prior to opening of the school, LAUSD's OEHS shall contact LADOT to
+                   coordinate the installation of appropriate traffic controls, school warning and speed limit
+                   signs, school crosswalks, and pavement markings.
+
+           3)      Four months prior to opening of the school, LAUSD's OEHS shall contact LADOT to
+                   coordinate the installation of signs to create passenger loading zones. The signs for the
+                   passenger loading zones would state, "Passenger Loading Only 6:30 - 9:00 AM and 1:30 -
+                   4:00 p.m., and 2-Hour Parking 9:00 AM to 1:30 p.m.", or "15-Minute Parking 7:00 AM to
+                   5:00 p.m. School Days", or provide other notice as deemed appropriate by LAUSD. A
+                   sign noting "School Bus Loading Only" shall be placed in the school bus loading area. The
+                   precise locations and lengths of the restricted on-street parking zones would be
+                   determined jointly by LAUSD and LADOT.
+
+           4)      After occupancy of the school, the LAUSD shall request LADOT's Crossing Guard
+                   Operations Section to conduct a study for the assignment of crossing guards at designated
+                   intersections, as needed, to enhance pedestrian safety. If a crossing guard is warranted,
+                   LAUSD shall coordinate with LADOT to provide crossing guards where necessary.
+
+
+
+
+Prepared for PBS&J
+DRAFT Traffic Impact Report ­ LAUSD Valley Region Elementary School # 13
+June 13, 2008                                                                                        Page 30
+                                                                                                                            Van Nuys Blvd.
+                                                                                                        Tobias Ave.
+                                                                     Cedros Ave.
+                         Willis Ave.
+             15                                              15                                 15                    15
+
+                                                                                                                                              25
+                                                                                     Roscoe Blvd.
+
+           25
+
+
+
+
+                                                                                                                                              24
+                                                                                                     Titus St.
+
+
+         Cantara St.
+
+
+          24
+                                                                                   PROJECT
+                                                                                     SITE
+
+
+                                                                                                                                              25
+                                                                                                     Lanark St.
+
+
+          25
+                                       15                    10                    10                                                        53
+                                               Matick Ave.
+
+
+
+
+                                                                  Cedros Ave.
+
+
+
+
+         Lorne St.
+
+                                                                                                                                  Lorne St.
+
+
+
+                                   Strathern         St.
+
+
+
+
+                                                                                                     Blythe St.
+
+
+
+
+         LEGEND
+                                                                                                                                                         N
+      Project Location
+
+      Pedestrian Study Routes
+
+XXX   Pedestrian Volume
+                                                                                                                                                      No Scale
+
+
+                                                                  LAUSD Valley Region Elementary School #13                                        Figure 11
+                                                                                                                      Estimated Pedestrian Volumes
+                                                                                                                  Van Nuys Blvd.
+                                                                                          Tobias Ave.
+                                                        Cedros Ave.
+               Willis Ave.
+
+                                                                        Roscoe Blvd.
+
+
+
+
+                                    AW              AW                                 Titus St.
+
+
+Cantara St.
+
+
+
+                                                                      PROJECT
+                                                                        SITE
+
+
+
+
+                                                                                       Lanark St.
+                                                    AW
+                                      Matick Ave.
+
+
+
+
+                                                     Cedros Ave.
+
+
+
+
+  Lorne St.
+
+                                                                                                                               Lorne St.
+
+
+
+                             Strathern St.
+                                      1W
+
+
+
+
+                                                                                       Blythe St.
+
+
+
+
+       LEGEND
+Project Location
+Pedestrian Study Routes
+
+                                                                                                                                                 N
+Install Stop Signs (AW-All Way, 1W-One Way)
+
+Proposed Crosswalks
+
+Locations Where Sidewalk Needs Repair
+                                                                                                                                              No Scale
+
+
+                                                     LAUSD Valley Region Elementary School #13                                             Figure 12
+                                                                                                        Proposed Pedestrian Improvements
+Congestion Management Plan Conformance
+This section demonstrates the ways in which this traffic study was prepared to be in conformance with
+the procedures mandated by the County of Los Angeles Congestion Management Program.
+
+The Congestion Management Program (CMP) was created statewide because of Proposition 111 and
+was implemented locally by the Los Angeles County Metropolitan Transportation Authority (LACMTA).
+The CMP for Los Angeles County requires that the traffic impact of individual development projects of
+potentially regional significance be analyzed. A specific system of arterial roadways plus all freeways
+comprises the CMP system. Per CMP Transportation Impact Analysis (TIA) Guidelines, a traffic impact
+analysis is conducted where:
+
+     ·     At CMP arterial monitoring intersections, including freeway on-ramps or off-ramps, where the
+           proposed project will add 50 or more vehicle trips during either AM or PM weekday peak
+           hours.
+
+     ·     At CMP mainline freeway-monitoring locations, where the project will add 150 or more trips, in
+           either direction, during the either the AM or PM weekday peak hours.
+
+The nearest CMP arterial monitoring intersection to the project site is Sepulveda Boulevard and Victory
+Boulevard. Based on the Project trip generation and the distance of these CMP routes from the study
+intersections, it is not expected that 50 or more new trips per hour would be added to these locations.
+Therefore, no further analysis of potential CMP impacts is required.
+
+The nearest CMP mainline freeway-monitoring location to the project site is on I-405 north off Roscoe
+Boulevard. Based on the trip distribution and traffic assignment presented, the proposed Project is
+primarily local traffic rather than regional traffic. The proposed Project is expected to add less than 150
+new trips per hour to any freeway segments near the Project site since the project generates
+local/neighborhood trips than regional trips. Therefore, no further analysis of CMP freeway monitoring
+stations is required.
+
+
+
+
+Prepared for PBS&J
+DRAFT Traffic Impact Report ­ LAUSD Valley Region Elementary School # 13
+June 13, 2008                                                                                     Page 33
+Summary and Project Recommendations
+Analysis Conclusions
+
+The following summarizes the traffic study results, findings and conclusions:
+
+     ·     Under existing 2008 conditions, all the six study intersections are operating at LOS B or better
+           during AM peak hour.
+
+     ·     Under future 2012 without Project conditions, 12 related projects were included along with an
+           annual average growth rate of 2%.
+
+     ·     Under future 2012 without Project conditions, all the six study intersections are expected to
+           operate at LOS D or better during the AM peak hour.
+
+     ·     The proposed Project with 950 seats would add a net 488 AM peak hour trips to the local
+           roadway system.
+
+     ·     Based on the City of Los Angeles significant impact criteria, the proposed 950-seat school would
+           create significant impacts at three locations including the intersections of Van Nuys
+           Boulevard/Roscoe Boulevard, Van Nuys Boulevard/Titus Street and Van Nuys Boulevard/Lanark
+           Street.
+
+     ·     Implementation of proposed intersection improvements would mitigate the project impacts to a
+           level of insignificance at the intersections of Van Nuys Boulevard/Titus Street and Van Nuys
+           Boulevard/Lanark Street.
+
+     ·     The intersection of Van Nuys Boulevard and Roscoe Boulevard is buildout. There are no
+           feasible improvements available at this location. Project traffic impacts would remain significant
+           and unavoidable at this location.
+
+     ·     The reduced Project alternative with 650 seats would add a net 311 AM peak hour trips to the
+           local roadway system.
+
+     ·     Based on the City of Los Angeles significant impact criteria, the reduced Project alternative with
+           650-seat school would create significant impacts at the intersections of Van Nuys
+           Boulevard/Titus Street and Van Nuys Boulevard/Lanark Street.                 Proposed roadway
+           improvements would fully mitigate Project impacts.
+
+     ·     As part of pedestrian related improvements, crosswalks are recommended at several locations,
+           sidewalk improvements are recommended along Willis Avenue north off Titus Street and
+           Lanark Street on the east side. In addition, installation of stop signs are recommended at three
+           locations within the study area.
+
+
+
+
+Prepared for PBS&J
+DRAFT Traffic Impact Report ­ LAUSD Valley Region Elementary School # 13
+June 13, 2008                                                                                       Page 34
+                                                    APPENDIX A
+                                              Memorandum of Understanding
+
+
+
+
+Prepared for PBS&J
+DRAFT Traffic Impact Report ­ LAUSD Valley Region Elementary School # 13
+June 13, 2008
+                                                            APPENDIX B
+                                                            Traffic Counts
+
+
+
+
+Prepared for PBS&J
+DRAFT Traffic Impact Report ­ LAUSD Valley Region Elementary School # 13
+June 13, 2008
+                      Intersection Turning Movement
+                                                  Prepared by:
+                             National Data & Surveying Services
+
+N-S STREET:    Willis Ave                       DATE: 05/15/2008                   LOCATION: City of Panorama City
+
+E-W STREET:    Titus St                          DAY: THURSDAY                     PROJECT#      08-2227-001
+
+
+                     NORTHBOUND               SOUTHBOUND              EASTBOUND               WESTBOUND
+
+                 NL         NT    NR     SL      ST     SR       EL         ET     ER    WL     WT        WR   TOTAL
+  LANES:         0           1     0     0        1      0       0           1      0    0       1         0
+
+   6:00   AM
+   6:15   AM
+   6:30   AM                36    3     7        30                         0            1                17   94
+   6:45   AM                25    3     13       32                         0            3                8    84
+   7:00   AM                18    1     7        27                         0            5                7    65
+   7:15   AM                21    5     7        46                         0            8                10   97
+   7:30   AM                15    7     8        43                         0            21               15   109
+   7:45   AM                28    11    20       59                         0            11               19   148
+   8:00   AM                22    10    12       26                         1            5                8    84
+   8:15   AM                13    7     20       28                         0            4                7    79
+   8:30   AM
+   8:45   AM
+   9:00   AM
+   9:15   AM
+   9:30   AM
+   9:45   AM
+  10:00   AM
+  10:15   AM
+  10:30   AM
+  10:45   AM
+  11:00   AM
+  11:15   AM
+  11:30   AM
+  11:45   AM
+
+TOTAL            NL         NT    NR    SL       ST     SR       EL         ET     ER    WL     WT        WR   TOTAL
+VOLUMES =        0          178   47    94       291     0       0           1      0    58      0        91    760
+
+               119     138               221     219                  1      81           97         0
+                225     269               385     349                  1     142          149         0
+       AM Peak Hr Begins at:       715 AM
+
+PEAK
+VOLUMES =        0          86    33    47      174     0        0          1      0     45      0        52   438
+
+PEAK HR.
+FACTOR:                   0.763                 0.699                      0.250                0.674          0.740
+
+CONTROL:       1-Way Stop WB
+                         City Of Los Angeles
+                         Department Of Transportation
+                         MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South              Willis Ave
+
+East/West                Titus St
+
+Day:          Thursday                       Date:         May 15, 2008          Weather:            CLEAR
+
+Hours:        7-10AM 3-6PM
+
+School Day:                     0            District:             0               I/S CODE                      0
+
+
+                           N/B                           S/B                       E/B                         W/B
+DUAL-
+WHEELED                         0                          0                           0                         0
+BIKES                           0                          0                           0                         0
+BUSES                           0                          0                           0                         0
+
+
+                           N/B TIME                      S/B TIME                  E/B TIME                    W/B    TIME
+
+AM PK 15 MIN                 39     6.15                  79    7.30                   1    7.45                36     7.15
+
+PM PK 15 MIN                    0   2.45                   0    2.45                   0    2.45                 0     2.45
+
+AM PK HOUR                 119      7.00                 221    7.00                   1    7.00                97     7.00
+
+PM PK HOUR                      0   2.45                   0    2.45                   0    2.45                 0     2.45
+
+
+
+NORTHBOUND Approach                                            SOUTHBOUND Approach                                   TOTAL    XING S/L   XING N/L
+
+Hours           Lt         Th       Rt       Total             Hours      Lt      Th        Rt       Total            N-S      Ped Sch    Ped   Sch
+7-8                  0       61        6          67           7-8         20       62           0        82           149       2   0      9     0
+8-9                  0       82       24        106            8-9         42      175           0      217            323       8   0     19     0
+9-10                 0       35       17          52           9-10        32       54           0        86           138       1   0      4     0
+3-4                  0        0        0           0           3-4           0       0           0         0              0      0   0      0     0
+4-5                  0        0        0           0           4-5           0       0           0         0              0      0   0      0     0
+5-6                  0        0        0           0           5-6           0       0           0         0              0      0   0      0     0
+
+TOTAL                0     178        47         225           TOTAL       94      291           0      385            610      11   0     32    0
+
+
+EASTBOUND Approach                                             WESTBOUND Approach                                    TOTAL    XING W/L   XING E/L
+
+Hours           Lt         Th       Rt       Total             Hours      Lt      Th        Rt Total                 E-W       Ped Sch    Ped   Sch
+7-8                  0          0        0           0         7-8          4          0     25     29                  29       0   0      8     0
+8-9                  0          0        0           0         8-9         45          0     51     96                  96       0   0    108     0
+9-10                 0          1        0           1         9-10         9          0     15     24                  25       0   0     17     0
+3-4                  0          0        0           0         3-4          0          0      0      0                   0       0   0      0     0
+4-5                  0          0        0           0         4-5          0          0      0      0                   0       0   0      0     0
+5-6                  0          0        0           0         5-6          0          0      0      0                   0       0   0      0     0
+
+TOTAL                0          1        0           1         TOTAL       58          0     91         149            150       0   0    133    0
+
+              (Rev Oct 06)
+                      Intersection Turning Movement
+                                                 Prepared by:
+                             National Data & Surveying Services
+
+N-S STREET:    Van Nuys Blvd                   DATE: 05/15/2008                LOCATION: City of Panorama City
+
+E-W STREET:    Titus St                         DAY: THURSDAY                  PROJECT#       08-2227-002
+
+
+                      NORTHBOUND             SOUTHBOUND              EASTBOUND             WESTBOUND
+
+                 NL         NT    NR    SL      ST     SR       EL      ET     ER    WL      WT      WR     TOTAL
+  LANES:         1           3     0    1        3      0       0        1      0    0        1       0
+
+   6:00   AM
+   6:15   AM
+   6:30   AM     2        151     1     1       271    11       7       5      5     6        2      3      465
+   6:45   AM     5        158     0     2       398    9        5       3      10    15       6      1      612
+   7:00   AM     7        211     5     2       374    10       6       7      11    16       3      9      661
+   7:15   AM     5        329     2     2       390    12       9       7      10    41       9      4      820
+   7:30   AM     1        319     7     2       454    25       17      15     12    53       18     2      925
+   7:45   AM     12       321     11    4       484    22       22      21     11    49       29     3      989
+   8:00   AM     11       324     9     8       397    30       8       8      10    33       19     1      858
+   8:15   AM     8        232     12    4       357    24       7       4      15    15        8     0      686
+   8:30   AM
+   8:45   AM
+   9:00   AM
+   9:15   AM
+   9:30   AM
+   9:45   AM
+  10:00   AM
+  10:15   AM
+  10:30   AM
+  10:45   AM
+  11:00   AM
+  11:15   AM
+  11:30   AM
+  11:45   AM
+
+TOTAL            NL        NT     NR    SL      ST     SR       EL      ET     ER    WL      WT      WR     TOTAL
+VOLUMES =        51       2045    47    25     3125    143      81      70     84    228     94      23      6016
+
+              1351 1359                 1830 1944               150      96          261      193
+               2143 2149                 3293 3437               235     142          345      288
+       AM Peak Hr Begins at:       715 AM
+
+PEAK
+VOLUMES =        29       1293    29    16     1725    89    56         51     43   176       75     10     3592
+
+PEAK HR.
+FACTOR:                   0.982                0.897                   0.694                 0.806          0.908
+
+CONTROL:       Signalized
+                       City Of Los Angeles
+                       Department Of Transportation
+                       MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South            Van Nuys Blvd
+
+East/West              Titus St
+
+Day:          Thursday                   Date:          May 15, 2008          Weather:          CLEAR
+
+Hours:        7-10AM 3-6PM
+
+School Day:                   0          District:              0               I/S CODE                    0
+
+
+                         N/B                          S/B                       E/B                       W/B
+DUAL-
+WHEELED                       0                         0                           0                       0
+BIKES                         0                         0                           0                       0
+BUSES                         0                         0                           0                       0
+
+
+                         N/B TIME                     S/B TIME                  E/B TIME                  W/B    TIME
+
+AM PK 15 MIN             344      7.30                510    7.30                54      7.30              81     7.30
+
+PM PK 15 MIN                  0   2.45                  0    2.45                   0    2.45               0     2.45
+
+AM PK HOUR              1351      7.00               1830    7.00               150      7.00             261     7.00
+
+PM PK HOUR                    0   2.45                  0    2.45                   0    2.45               0     2.45
+
+
+
+NORTHBOUND Approach                                         SOUTHBOUND Approach                                 TOTAL    XING S/L   XING N/L
+
+Hours           Lt   Th           Rt     Total              Hours      Lt  Th            Rt Total                N-S      Ped Sch    Ped   Sch
+7-8                7 309            1       317             7-8          3 669            20   692               1009       8   0      1     0
+8-9               25 1180          25      1230             8-9         10 1702           69 1781                3011      18   0     11     0
+9-10              19  556          21       596             9-10        12  754           54   820               1416      11   0      5     0
+3-4                0    0           0          0            3-4          0    0            0      0                  0      0   0      0     0
+4-5                0    0           0          0            4-5          0    0            0      0                  0      0   0      0     0
+5-6                0    0           0          0            5-6          0    0            0      0                  0      0   0      0     0
+
+TOTAL             51    2045       47      2143             TOTAL       25     3125      143      3293           5436      37   0     17    0
+
+
+EASTBOUND Approach                                          WESTBOUND Approach                                  TOTAL    XING W/L   XING E/L
+
+Hours           Lt       Th       Rt Total                  Hours      Lt      Th        Rt     Total           E-W       Ped Sch    Ped   Sch
+7-8              12         8      15     35                7-8         21        8        4         33            68       4   0     11     0
+8-9              54        50      44   148                 8-9        159       59       18       236            384      49   0    117     0
+9-10             15        12      25     52                9-10        48       27        1         76           128      17   0     24     0
+3-4                0        0       0      0                3-4           0       0        0          0             0       0   0      0     0
+4-5                0        0       0      0                4-5           0       0        0          0             0       0   0      0     0
+5-6                0        0       0      0                5-6           0       0        0          0             0       0   0      0     0
+
+TOTAL             81       70      84        235            TOTAL      228       94       23       345            580      70   0    152    0
+
+              (Rev Oct 06)
+                      Intersection Turning Movement
+                                                  Prepared by:
+                             National Data & Surveying Services
+
+N-S STREET:    Willis Ave                       DATE: 05/15/2008                LOCATION: City of Panorama City
+
+E-W STREET:    Lanark St                         DAY: THURSDAY                  PROJECT#      08-2227-003
+
+
+                      NORTHBOUND              SOUTHBOUND              EASTBOUND            WESTBOUND
+
+                 NL         NT    NR     SL      ST     SR       EL      ET     ER    WL     WT      WR     TOTAL
+  LANES:         0           1     0     0        1      0       0        1      0    0       1       0
+
+   6:00   AM
+   6:15   AM
+   6:30   AM      0         17    1     6        43     0        3       5        1   3       8      8      95
+   6:45   AM      2         21    6     5        28     0        2       10       1   4       5      4      88
+   7:00   AM      2         14    4     13       19     2        3       23       2   0       12     5      99
+   7:15   AM      2         15    14    16       30     2        1       23       2   6       15     11     137
+   7:30   AM      2         15    14    28       29     3        0       76       5   14      23     12     221
+   7:45   AM      4         18    15    29       37     1        5       67       5   10      21     20     232
+   8:00   AM      6         16    4     13       18     2        2       18       1   7       7      16     110
+   8:15   AM      5         9     9     10       18     1        5       19       2   2       5      5      90
+   8:30   AM
+   8:45   AM
+   9:00   AM
+   9:15   AM
+   9:30   AM
+   9:45   AM
+  10:00   AM
+  10:15   AM
+  10:30   AM
+  10:45   AM
+  11:00   AM
+  11:15   AM
+  11:30   AM
+  11:45   AM
+
+TOTAL            NL         NT    NR     SL      ST     SR       EL     ET      ER    WL     WT      WR     TOTAL
+VOLUMES =        23         125   67    120      222    11       21     241     19    46     96      81      1072
+
+               125     131               208     164             205     317          162      88
+                215     227               353     287             281     428          223     130
+       AM Peak Hr Begins at:       715 AM
+
+PEAK
+VOLUMES =        14         64    47    86      114     8        8      184     13    37      66     59     700
+
+PEAK HR.
+FACTOR:                 0.845                   0.776                   0.633                0.794          0.754
+
+CONTROL:       4-Way Stop
+                         City Of Los Angeles
+                         Department Of Transportation
+                         MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South              Willis Ave
+
+East/West                Lanark St
+
+Day:          Thursday                      Date:         May 15, 2008          Weather:            CLEAR
+
+Hours:        7-10AM 3-6PM
+
+School Day:                   0             District:             0               I/S CODE                      0
+
+
+                           N/B                          S/B                       E/B                         W/B
+DUAL-
+WHEELED                       0                           0                         0                           0
+BIKES                         0                           0                         0                           0
+BUSES                         0                           0                         0                           0
+
+
+                           N/B TIME                     S/B TIME                  E/B TIME                    W/B    TIME
+
+AM PK 15 MIN                37       7.30                67    7.30                81      7.15                51     7.30
+
+PM PK 15 MIN                  0      2.45                 0    2.45                 0      2.45                 0     2.45
+
+AM PK HOUR                 125       7.00               209    6.45               212      6.45               162     7.00
+
+PM PK HOUR                    0      2.45                 0    2.45                 0      2.45                 0     2.45
+
+
+
+NORTHBOUND Approach                                           SOUTHBOUND Approach                                   TOTAL    XING S/L   XING N/L
+
+Hours           Lt        Th         Rt     Total             Hours      Lt      Th        Rt       Total            N-S      Ped Sch    Ped   Sch
+7-8                2        38         7         47           7-8         11       71           0        82           129       1   0      1     0
+8-9               10        62        47       119            8-9         86      115           8      209            328       1   0      0     0
+9-10              11        25        13         49           9-10        23       36           3        62           111       0   0      1     0
+3-4                0         0         0          0           3-4           0       0           0         0              0      0   0      0     0
+4-5                0         0         0          0           4-5           0       0           0         0              0      0   0      0     0
+5-6                0         0         0          0           5-6           0       0           0         0              0      0   0      0     0
+
+TOTAL             23       125        67        215           TOTAL      120      222       11         353            568       2   0     2     0
+
+
+EASTBOUND Approach                                            WESTBOUND Approach                                    TOTAL    XING W/L   XING E/L
+
+Hours           Lt        Th         Rt     Total             Hours      Lt      Th        Rt Total                 E-W       Ped Sch    Ped   Sch
+7-8                  5      15         2         22           7-8          7       13       12     32                  54       1   0      1     0
+8-9                  9     189        14       212            8-9         30       71       48   149                  361       0   0      0     0
+9-10                 7      37         3         47           9-10         9       12       21     42                  89       1   0      1     0
+3-4                  0       0         0          0           3-4          0        0        0      0                   0       0   0      0     0
+4-5                  0       0         0          0           4-5          0        0        0      0                   0       0   0      0     0
+5-6                  0       0         0          0           5-6          0        0        0      0                   0       0   0      0     0
+
+TOTAL             21       241        19        281           TOTAL       46       96       81         223            504       2   0     2     0
+
+              (Rev Oct 06)
+                      Intersection Turning Movement
+                                                Prepared by:
+                             National Data & Surveying Services
+
+N-S STREET:    Van Nuys Blvd                  DATE: 05/15/2008                LOCATION: City of Panorama City
+
+E-W STREET:    Lanark St                       DAY: THURSDAY                  PROJECT#       08-2227-004
+
+
+                     NORTHBOUND             SOUTHBOUND              EASTBOUND             WESTBOUND
+
+                 NL         NT   NR    SL      ST     SR       EL      ET     ER    WL      WT      WR     TOTAL
+  LANES:         1           3    0    1        3      0       0        1      0    0        1       0
+
+   6:00   AM
+   6:15   AM
+   6:30   AM     4         142   15    17      285    18       15      10     15    42       16     19     598
+   6:45   AM     5         154   18    15      326    15       18      12     18    65       15     16     677
+   7:00   AM     6         226   28    13      387    21       20      15     20    66       10     15     827
+   7:15   AM     7         221   40    15      448    20       25      22     24    56       15     21     914
+   7:30   AM     5         330   56    8       442    32       30      21     18    42       22     20     1026
+   7:45   AM     12        306   50    10      431    30       35      20     18    40       18     18     988
+   8:00   AM     16        245   40    13      420    21       40      15     20    45       24     18     917
+   8:15   AM     9         158   20    11      386    20       21      18     21    44       20     15     743
+   8:30   AM
+   8:45   AM
+   9:00   AM
+   9:15   AM
+   9:30   AM
+   9:45   AM
+  10:00   AM
+  10:15   AM
+  10:30   AM
+  10:45   AM
+  11:00   AM
+  11:15   AM
+  11:30   AM
+  11:45   AM
+
+TOTAL            NL      NT      NR     SL     ST     SR     EL       ET      ER    WL      WT      WR     TOTAL
+VOLUMES =        64     1782     267   102    3125    177   204       133     154   400     140     142     6690
+
+              1328 1309                1890 2004               288     310          339      222
+               2113 2128                3404 3679               491     502          682      381
+       AM Peak Hr Begins at:      715 AM
+
+PEAK
+VOLUMES =       40     1102      186   46     1741    103   130        78     80    183      79     77     3845
+
+PEAK HR.
+FACTOR:                0.849                  0.978                   0.960                 0.921          0.937
+
+CONTROL:       Signalized
+                       City Of Los Angeles
+                       Department Of Transportation
+                       MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South            Van Nuys Blvd
+
+East/West              Lanark St
+
+Day:          Thursday                    Date:          May 15, 2008          Weather:          CLEAR
+
+Hours:        7-10AM 3-6PM
+
+School Day:                  0            District:              0               I/S CODE                  0
+
+
+                         N/B                           S/B                       E/B                     W/B
+DUAL-
+WHEELED                      0                           0                         0                       0
+BIKES                        0                           0                         0                       0
+BUSES                        0                           0                         0                       0
+
+
+                         N/B TIME                      S/B TIME                  E/B TIME                W/B    TIME
+
+AM PK 15 MIN             391       7.15                483    7.00                75      7.45            96     6.30
+
+PM PK 15 MIN                 0     2.45                  0    2.45                 0      2.45             0     2.45
+
+AM PK HOUR              1328       7.00               1890    7.00               288      7.00           363     6.30
+
+PM PK HOUR                   0     2.45                  0    2.45                 0      2.45             0     2.45
+
+
+
+NORTHBOUND Approach                                          SOUTHBOUND Approach                               TOTAL    XING S/L   XING N/L
+
+Hours           Lt   Th            Rt Total                  Hours      Lt   Th           Rt Total              N-S      Ped Sch    Ped   Sch
+7-8                9 296            33   338                 7-8         32   611          33   676             1014      14   0     12     0
+8-9               30 1083          174 1287                  8-9         46 1708          103 1857              3144     155   0    356     0
+9-10              25  403           60   488                 9-10        24   806          41   871             1359      21   0     52     0
+3-4                0    0            0      0                3-4           0    0           0      0                0      0   0      0     0
+4-5                0    0            0      0                4-5           0    0           0      0                0      0   0      0     0
+5-6                0    0            0      0                5-6           0    0           0      0                0      0   0      0     0
+
+TOTAL             64    1782       267      2113             TOTAL      102     3125      177     3404          5517     190   0    420    0
+
+
+EASTBOUND Approach                                           WESTBOUND Approach                                TOTAL    XING W/L   XING E/L
+
+Hours           Lt       Th        Rt Total                  Hours      Lt      Th        Rt Total             E-W       Ped Sch    Ped   Sch
+7-8              33        22       33     88                7-8        107       31       35   173              261      10   0     27     0
+8-9             110        78       80   268                 8-9        204       65       74   343              611     185   0    455     0
+9-10             61        33       41   135                 9-10        89       44       33   166              301      36   0     75     0
+3-4                0        0        0      0                3-4           0       0        0      0               0       0   0      0     0
+4-5                0        0        0      0                4-5           0       0        0      0               0       0   0      0     0
+5-6                0        0        0      0                5-6           0       0        0      0               0       0   0      0     0
+
+TOTAL           204      133       154        491            TOTAL      400      140      142      682          1173     231   0    557    0
+
+              (Rev Oct 06)
+                                                     APPENDIX C
+                                       Intersection Level of Service Worksheets
+                                            Existing Conditions (Year 2008)
+
+
+
+
+Prepared for PBS&J
+DRAFT Traffic Impact Report ­ LAUSD Valley Region Elementary School # 13
+June 13, 2008
+                                                   APPENDIX D
+                                     Intersection Level of Service Worksheets
+                                  Future Without-Project Conditions (Year 2012)
+
+
+
+
+Prepared for PBS&J
+DRAFT Traffic Impact Report ­ LAUSD Valley Region Elementary School # 13
+June 13, 2008
+                                                    APPENDIX E
+                                      Intersection Level of Service Worksheets
+                                    Future With-Projects Conditions (Year 2012)
+
+
+
+
+Prepared for PBS&J
+DRAFT Traffic Impact Report ­ LAUSD Valley Region Elementary School # 13
+June 13, 2008
+

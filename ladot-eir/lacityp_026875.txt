@@ -1,0 +1,2264 @@
+Traffic Study Policies
+      and Procedures
+
+                    June 2013
+
+
+
+
+            City of Los Angeles
+    Department of Transportation
+
+                 http://ladot.lacity.org/
+   For comments or questions regarding the Traffic Study Policies and
+Procedures for the City of Los Angeles, please call LADOT's Development
+         Services Division at (213) 972-8482 or (213) 972-8476.
+
+ This document may be reprinted and excerpts may be extracted without
+  permission by LADOT. Changes to these policies may be revised or
+   updated periodically and will be posted on the LADOT web site at:
+
+           http://ladot.lacity.org/tf_Development_Review.htm
+                                                         June 2013
+
+                     TRAFFIC STUDY POLICIES AND PROCEDURES
+                               TABLE OF CONTENTS
+
+
+A.   TRAFFIC STUDY REQUIREMENTS ................................................................................. 5
+
+B.   TRAFFIC STUDY PREPARATION PROCESS.................................................................. 6
+
+C.   TRAFFIC COUNT REQUIREMENTS................................................................................. 6
+
+D.   CONGESTION MANAGEMENT PROGRAM GUIDELINES ............................................. 8
+
+E.   TRIP GENERATION CALCULATIONS .............................................................................. 8
+
+F.   PERFORMANCE MEASURES - LEVEL OF SERVICE .................................................. 11
+
+G.   SIGNIFICANT TRAFFIC IMPACT .................................................................................... 14
+
+H.   TRANSPORTATION MITIGATION MEASURES ............................................................. 16
+
+I.   TRANSPORTATION DEMAND MANAGEMENT PROGRAM ......................................... 22
+
+J.   NEIGHBORHOOD TRAFFIC MANAGEMENT PROGRAM............................................. 23
+
+K.   LADOT CONTACTS ......................................................................................................... 24
+
+
+                                                      ATTACHMENTS
+
+               "A"       Acronyms
+               "B"       Review Process for Traffic Study
+               "C"       Driveway Design Guidelines
+               "D"       Standard Street Dimensions
+               "E"       Traffic Study Memorandum of Understanding
+               "F"       Traffic Study Figures
+               "G"       Traffic Study Checklist
+               "H"       Sample Traffic Count
+               "I"       Pass-by Trips
+               "J"       Sample LOS Calculations
+               "K"       Sample Mitigation Drawing
+               "L"       Transportation Demand Management and Trip Reduction Measures
+                         (Ordinance 168,700 / LAMC 12.26-J)
+               "M"       Development Review Fees (Ordinance No. 180,542 / LAMC 19.15)
+City of Los Angeles
+Traffic Study Policies & Procedures                                                   June 2013
+
+
+
+
+INTRODUCTION
+The purpose of these Traffic Study Policies and Procedures (TSPP) for the City of Los
+Angeles is to provide the public, private consultants and City staff with standards,
+guidelines, objectives and criteria to be used in the preparation of a traffic impact study. A
+primary objective of these policies is to ensure consistency in the preparation of traffic
+studies and in the planning of site access, on-site circulation, and off-site improvements for
+proposed land use development projects. This edition of the TSPP guides the preparation
+of traffic impact studies at a time when sustainability, smart growth, and the reduction of
+greenhouse gas emissions are prime concerns for the City - in addition to traditional
+mobility considerations.
+
+A traffic study may be required of a development project due to environmental law or to City
+regulations, and its purpose is to predict and analyze the circulation and congestion
+impacts of project-generated traffic, and identify feasible mitigation measures. In this
+edition of the TSPP, added emphasis has been placed upon transportation demand
+management and multi-modal strategies, as reflected in the mitigation toolkit in Section H.
+This reflects the City policy trend away from automobile-centric solutions to shifting the
+focus on trip reduction strategies and on providing multi-modal solutions. It is strongly
+recommended that the applicant's traffic engineer consult with LADOT staff early in the
+design of the Project to ensure that traffic access and circulation issues are addressed, and
+to establish the scope and basic assumptions of the traffic impact study.
+
+In order to ensure a timely review by LADOT, the following procedures and standards shall
+be followed in the preparation of a traffic study. It should be noted that these requirements
+will be updated from time to time and may differ in certain areas of the City that have
+specific plans or similar ordinances. You are encouraged to consult with LADOT staff
+before beginning a traffic study. See Attachment A for a list of the various acronyms used
+in this document.
+
+
+NOTE:            Fees for the various submittals and reviews described in this TSPP are listed
+                 in the Los Angeles Municipal Code (LAMC) Section 19.15 (Planning and
+                 Zoning Code).
+City of Los Angeles
+Traffic Study Policies & Procedures                                                                    June 2013
+
+
+
+A.      TRAFFIC STUDY REQUIREMENTS
+
+        Upon submission of an application for discretionary action, the City of Los Angeles Department of
+        Transportation (LADOT) will prepare an initial assessment of the project to determine if a technical
+        memorandum or a traffic study is required. The thresholds for determining the appropriate
+        transportation review process is as follows:
+
+        ·        A Technical Memorandum is required when the project is likely to add 25 to 42 a.m. or p.m.
+                 peak hour trips, and the adjacent intersection(s) are presently estimated to be operating at
+                 LOS E or F. The scope for preparing a technical memorandum, which is a significantly
+                 scaled-down version of a traffic study, must be reviewed and approved by LADOT. At a
+                 minimum, the potential impacts to intersections adjacent to the project should be evaluated.
+                 The technical memorandum shall be prepared under the direction of, and signed by, a
+                 Professional Engineer, registered in the State of California to practice either Traffic or Civil
+                 Engineering.
+
+        ·        A Traffic Study is required when the project is likely to add 500 or more daily trips, or likely
+                 to add 43 or more a.m. or p.m. peak hour trips. Review of a traffic study is a nine-step
+                 process as shown in Attachment B. The traffic study must follow the study guidelines, as
+                 described herein, and shall be prepared under the direction of, and signed by, a Professional
+                 Engineer, registered in the State of California to practice either Traffic or Civil Engineering.
+                 Further, the Traffic Consultant must have a valid Los Angeles City Business Tax
+                 Registration Certificate.
+
+        Other requirements of a traffic study or a technical memorandum include:
+
+        ·        Compliance with the scoping process identified in Section B.
+
+        ·        Payment of any required processing fees for traffic assessment and review of a traffic
+                 study or technical memorandum.
+
+        ·        Submittal of the final electronic version of the traffic study or technical memorandum in
+                 portable document format (PDF) before LADOT issues their project impact assessment
+                 report.
+
+        Occasionally, LADOT will review a traffic study for a Project that is later modified or changed. If
+        LADOT determines that the Project description has changed such that extensive and major
+        revisions to the traffic study are required, then the revised Project shall be considered a new Project
+        and a new traffic study and traffic review fee will be required and the environmental processing
+        "clock" shall start again. If LADOT determines that revisions to the traffic study can be
+        accomplished without preparing a new traffic study, then LADOT will not require a new traffic study
+        but may require the preparation of a technical memorandum and payment of a fee specific to
+        technical memorandums or supplemental analyses.
+
+        Similarly, if, after comments are received from LADOT on the traffic study, there is no further written
+        communication from the applicant or the Traffic Consultant on the status of the Project for one year
+        or more, then LADOT will assume that the Project is no longer being pursued. To reinstate the
+        project, a new traffic study and traffic review fee will be required and the environmental processing
+        "clock" shall start again.
+
+
+
+                                                     Page 5
+City of Los Angeles
+Traffic Study Policies & Procedures                                                                      June 2013
+
+
+B.      TRAFFIC STUDY PREPARATION PROCESS
+
+        Any applicant required to prepare a technical memorandum or traffic study for a development should
+        follow the steps outlined below:
+
+        1.       Contact LADOT to discuss the Project scope and to obtain approval on the assumptions and
+                 content of the technical memorandum or traffic study. The assumptions and content of the
+                 traffic study shall be in accordance with CEQA, the Los Angeles County CMP, any
+                 applicable Transportation Specific Plan (TSP), or other applicable laws or ordinances.
+
+        2.       Provide a general description of the Project size (defined by square-footage by use and/or
+                 number of dwelling units), uses and heights of proposed new buildings and other structures
+                 to be remodeled and/or removed. Include any sequence of phased construction and any
+                 unusual conditions. Specify a building address, legal description and project title. For
+                 Projects that require the preparation of an EIR, the analysis should include project
+                 alternatives. For such projects, the LADOT assessment letter will be limited to summarizing
+                 the findings and requirements solely for the applicant's preferred project alternative or the
+                 alternative that generates the most peak period trips. Should the applicant request separate
+                 assessments for each alternative, then additional traffic study review fees may be required.
+
+        3.       Submit a site plan to LADOT for preliminary discussion of the Project's driveway location(s),
+                 loading/unloading area, and parking scheme. The estimated distribution of Project trips
+                 must be according to any necessary turn prohibitions for the proposed driveways. Generally,
+                 final LADOT approval of driveway location(s) and parking scheme will be reviewed by
+                 LADOT's Citywide One-Stop Counter, or at the Valley or West Los Angeles Development
+                 Review Office (see Section K for contact information) as a clearance on the Project's
+                 building permit. In order to minimize and prevent last minute building design changes, the
+                 applicant should contact LADOT for driveway width and internal circulation requirements
+                 prior to the commencement of building or parking layout design efforts so that such traffic
+                 flow considerations are designed and incorporated early into the building and parking layout
+                 plans. The design of driveways requires approval by LADOT and the Bureau of
+                 Engineering. Please refer to the Attachment C for LADOT "Driveway Design" guidelines for
+                 additional information.
+
+        4.       To the extent possible, projects should incorporate the use of existing alleys into the design
+                 of site access and circulation plans. The use of existing alleys should be used primarily for
+                 vehicular access, loading and service.
+
+        5.       The study should reference the City's 2010 Bicycle Plan (see link below) that was adopted
+                 by the City Council on March 1, 2011. The Bicycle Plan should be reviewed to understand
+                 the goals, objectives and planned improvements. Consultation with LADOT Bicycle
+                 Program staff may be necessary to determine the implementation time frame of specific
+                 bicycle lane improvements.
+
+                 http://planning.lacity.org/cwd/gnlpln/transelt/NewBikePlan/Txt/LA%20CITY%20BICYCLE%20PLAN.pdf
+
+        6.       Identify CMP intersections and other CMP requirements (see Section C).
+
+        7.       Consult with other affected agencies or adjacent jurisdictions (i.e., Caltrans, L.A. County
+                 Public Works, other cities, transit agencies, etc.) to assure that all traffic-related concerns
+                 and issues that may result from the Project and may affect that agency are properly
+                 addressed in the traffic study.
+
+
+                                                     Page 6
+City of Los Angeles
+Traffic Study Policies & Procedures                                                                     June 2013
+
+
+
+        8.       Consult with the Bureau of Engineering and LADOT to determine any highway dedication
+                 and street improvement requirements, as well as requirements under the Americans with
+                 Disabilities Act (ADA). Please see Attachment D for "Standard Street Dimensions."
+
+        9.       After paying the necessary fee per LAMC Section 19.15, sign a scoping memorandum of
+                 understanding (MOU) with LADOT on the agreed upon assumptions including study
+                 intersections, residential street segments and freeway segments; related projects; trip
+                 generation rates; ambient growth rate; trip distribution pattern and trip assignments; trip
+                 credits for existing active or previous land use; vehicle trip discounts for transit, internal or
+                 pass-by trips; projected buildout year and traffic study methodology. Please see
+                 Attachment E for a sample MOU.
+
+        10.      If the project is expected to generate a significant number of regional trips, then the traffic
+                 study may be required to incorporate subregional travel demand simulation modeling
+                 software using either TransCad or EMME/2. The decision to require travel demand
+                 modeling shall be made by the Bureau Chief supervising the development review functions
+                 of the Department. These studies will be subject to LADOT's model calibration and
+                 validation standards.
+
+        11.      The applicant shall keep LADOT informed on the progress made in completing the traffic
+                 study. LADOT approval is required on any changes to the executed MOU assumptions or
+                 any other changes made in the traffic analysis before the final report is prepared.
+
+        12.      The review of a traffic study shall begin after the applicant has completed the scoping
+                 process and has paid any required fees to the City. The consultant shall also provide proof
+                 of possessing a valid Los Angeles City Business Tax Registration Certificate.
+
+        13.      The traffic study should include the maps and figures identified in Attachment F.
+
+        14.      LADOT will not release their project impact assessment report until all documents and items
+                 identified in Attachment G (including the entire traffic study in "pdf" format) are provided.
+                 Until then, the traffic study submittal will be deemed incomplete.
+
+
+C.      TRAFFIC COUNT REQUIREMENTS
+
+        When collecting turning movement data at the study intersections, manual traffic volume counts
+        should be collected in 15-minute intervals during the hours of 7:00 a.m. to 10:00 a.m. and 3:00 p.m.
+        to 6:00 p.m., unless LADOT specifies other hours (e.g., for a signal warrant determination or
+        weekend analysis). These traffic counts should include vehicle classifications, pedestrian volume
+        counts, and bicycle counts. The traffic study should not use any traffic counts that are more than
+        two years old. Additionally, unless otherwise required, all traffic counts should generally be taken
+        when local schools or colleges are in session, on days of good weather, on Tuesdays through
+        Thursdays during non-Summer months, and should avoid being taken on weeks with a holiday. The
+        data should be summarized and presented in the standard LADOT format depicting turning
+        movement volumes as shown in Attachment H, and submitted in digital and hard copy formats.
+
+        If traffic count data is collected utilizing video technology equipment that is left unattended in the
+        public right-of-way, then the appropriate LADOT Development Services Division staff (see Section
+        K) should be notified prior to the installation of such equipment. Also, the video equipment should
+        be clearly labeled to identify it as traffic counting equipment and to include the name and contact
+
+                                                     Page 7
+City of Los Angeles
+Traffic Study Policies & Procedures                                                                     June 2013
+
+        information of the company conducting the count (see sample label below).
+
+
+
+                                      TRAFFIC COUNTING EQUIPMENT
+
+                                        FOR INFORMATION CONTACT
+
+                                        (xxx) xxx-xxxx (Company Name)
+
+
+
+
+D.      CONGESTION MANAGEMENT PROGRAM (CMP) GUIDELINES
+
+        The "Congestion Management Program for Los Angeles County" includes guidelines intended to
+        assist local agencies in evaluating impacts of land use projects on the CMP system through the
+        preparation of a regional transportation impact analysis (TIA). Appendix "D" of the 2010 CMP for
+        Los Angeles County identifies the requirements and outlines the guidelines in the preparation of the
+        CMP transportation impact analysis. A CMP TIA is necessary for all projects required to prepare an
+        Environmental Assessment based on local determination. The geographic area examined in the
+        TIA must include, at a minimum, the following:
+
+        ·        All CMP arterial monitoring intersections, including freeway on and off-ramp intersections,
+                 where a proposed project is expected to add 50 or more trips during either the weekday a.m.
+                 or p.m. peak hours (of adjacent street traffic).
+
+        ·        Mainline freeway monitoring locations where a project is expected to add 150 or more trips,
+                 in either direction, during either the weekday a.m. or p.m. peak hours.
+
+        Caltrans should be consulted through the Notice of Preparation (NOP) process to identify other
+        specific locations to be analyzed on the state highway system. To assist in the evaluation of impacts
+        on State facilities, the project's traffic consultant should refer to Caltrans' "Guide for the Preparation
+        of Traffic Impact Studies" found at the following web site:
+
+                 http://www.dot.ca.gov/hq/tpp/offices/ocp/igr_ceqa_files/tisguide.pdf
+
+        If, based on these criteria, the TIA does not identify any impacted regional facilities, then further
+        CMP traffic analysis is not required. However, projects must still consider transit impacts (also per
+        the 2010 CMP) and provide a calculation of CMP "credits" and "debits" for the project. For further
+        information on the CMP TIA process, please call LADOT CMP Monitoring Section at (213) 972-
+        8473.
+
+
+E.      TRIP GENERATION CALCULATIONS
+
+        Any trip credits must be approved by LADOT during the scoping process and those trips must be
+        included in existing base year traffic counts.
+
+        1.       ITE Trip Generation Rates
+                 The latest edition of ITE's Trip Generation Handbook for trip generation rates and formulas
+
+
+                                                    Page 8
+City of Los Angeles
+Traffic Study Policies & Procedures                                                                    June 2013
+
+                 should be used to estimate the Project's trip generation. However, if the Project is in a TSP
+                 area, then the procedures and trip rate identified in the TSP should be applied. If other rates
+                 are proposed, then these rates must first be submitted with appropriate background survey
+                 data for approval by LADOT.
+
+        2.       Unique Developments
+                 Unique types of development may require trip generation studies of similar facilities in order
+                 to determine actual trip rates for use in the impact analysis. These developments may
+                 include land uses for which trip generation rates are not available in the ITE Trip Generation
+                 Handbook, or land uses for which the rates in the ITE Trip Generation Handbook are based
+                 on a small sample of surveyed sites. The procedures and the results of the trip generation
+                 studies must be approved by LADOT.
+
+        3.       Existing Use
+                 When estimating the Project's net new trips, any claim for trip credits for an "existing" active
+                 land use requires that the "existing" use is/was in place at the time of the base year traffic
+                 counts. Generally, for CEQA purposes this means the "existing" use must have been active
+                 for at least 6 months during the past 2 years. To fully ensure that "existing use" trip credit
+                 claims are validated by LADOT, supporting documentation (leasing agreements, utility bills,
+                 etc.) must be submitted. Documentation of any previous environmental review of the
+                 circulation impacts of the "existing" use should be included in this submittal. Note that some
+                 specific plan ordinances allow different time frames for the determination of existing use trip
+                 credits and of any applicable trip fees.
+
+        4.       Terminated Land-Use
+                 Any claim for trip credits for a previously terminated land use must be supported with
+                 appropriate documentation of the previous active use, such as copies of any building permit,
+                 certificate of occupancy, business license, lease agreement, affidavits, or photographs as
+                 well as documentation as to when the previous land use was terminated. Documentation of
+                 any previous environmental review of the circulation impacts of the terminated land use
+                 should also be submitted in support of such claims. The absence of documentation of
+                 previous environmental review may result in denial of the claim for trip credits.
+
+        5.       Pass-by Trips
+                 Any claim for "pass-by" trip credits must use the trip reduction rates in the "LADOT Policy on
+                 Pass-By Trips" in Attachment I. However, these rates may be superseded by additional
+                 guidelines provided in specific plans or interim control ordinances. These rates are not
+                 applicable when reviewing impacts at Project driveways and at intersection(s) immediately
+                 adjacent to the Project site. Pass-by trip credits shall not be used in determining the
+                 need for a traffic study.
+
+        6.       Transit Credit
+                 LADOT encourages developers to design and construct transit-friendly projects that provide
+                 safe and walkable sidewalks to and from transit stations for project patrons. In line with the
+                 City policy to promote the use of transit and walking, LADOT, at its discretion, may allow up
+                 to a 25% transit/walk trip credit subject to the following guidelines, on a case by case basis:
+
+                 a.       Developments above or adjacent to a Metro Rail, Metrolink, or Orange Line station,
+                          or to a similar dedicated transit line station with convenient pedestrian access to the
+                          station may qualify for up to 25% transit credit. The actual credit provided should be
+                          determined by an analysis of the transit service frequency and density at the
+                          specified transit station.
+
+
+                                                     Page 9
+City of Los Angeles
+Traffic Study Policies & Procedures                                                                       June 2013
+
+
+
+                 b.       Developments within a 1/4 mile walking distance of a transit station, or of a
+                          RapidBus stop, may qualify for up to a 15% transit credit. The actual credit provided
+                          will be determined by an analysis of the transit service frequency and density at the
+                          specified transit station or RapidBus stop. To obtain the maximum credit, applicants
+                          should implement the following improvements listed in priority order:
+
+                          ·           Provide a wider than standard sidewalk along the streets fronting the project
+                                      through additional sidewalk easement or by dedicating additional right-of-way
+                                      beyond street standards.
+
+                          ·           Improve the condition and/or aesthetics of existing sidewalks leading to
+                                      transit station(s) with adequate lighting to provide for a safer pedestrian
+                                      environment.
+
+                          ·           Provide continuous paved sidewalks / walkways with adequate lighting from
+                                      all buildings in the Project to nearby transit services and stops. This may
+                                      include mid-block paseos.
+
+                          ·           Implement transit shelter improvements/beautification.
+
+                 c.       If the development is not within 1/4 mile walking distance of a transit station or a
+                          RapidBus stop, the Project may still qualify for up to 5% transit credit. To obtain this
+                          credit, the Project should include specific features in its design that promote
+                          alternative travel modes and provide certain amenities to tenants and employees.
+                          Features and amenities that may qualify a Project for this credit include the following:
+
+                          ·           An on-site transit information kiosk and/or on-site transit pass sales
+                          ·           On-site facilities such as ATM machines, cafeteria and convenience
+                                      shopping
+                          ·           Charging for single occupant auto parking
+                          ·           Car share programs
+                          ·           Bicycle racks or other facilities on-site
+                          ·           Provision of on-site concierge service to facilitate use of transit, taxis, or
+                                      private shuttles by employees/residents
+                          ·           Provision of shuttle service for employees and/or customers
+
+                 No trip generation credit will be given automatically to developments located in an area with
+                 infrequent transit service. However, all reasonable efforts by the developer to promote the
+                 use of mass-transit or walking will be considered for transit credit on a case by case basis.
+
+                 NOTE: Refer to Section H of this TSPP for transit-related mitigation measures.
+
+        7.       Affordable Housing Credit
+                 Residential or mixed-use developments that include Affordable Housing Units [as defined in
+                 LAMC 12.22-A.25 (b)] qualify for a trip reduction credit of 5% on the basis of the percentage
+                 of total dwelling units reserved as affordable. A development for which all proposed dwelling
+                 units are to be affordable would receive the maximum aggregate credit of 5% (100 × 0.05).
+                 A development with 20% affordable units would qualify for a 1% aggregate trip credit (20 ×
+                 0.05), etc. Affordable Housing credit is allowed in addition to any Transit Credit granted
+                 through Section D.6 above.
+
+
+                                                        Page 10
+City of Los Angeles
+Traffic Study Policies & Procedures                                                                     June 2013
+
+
+
+F.      PERFORMANCE MEASURES - LEVEL OF SERVICE
+        1.       For land use development projects, the Transportation Research Board, Circular 212 Critical
+                 Movement Analysis (CMA) Planning Method, should be used to analyze traffic operating
+                 conditions at study intersection(s). CMA is a method that determines the volume to capacity
+                 (V/C) ratio on a critical lane basis and Level of Service (LOS) associated with each V/C ratio
+                 at a signalized intersection. V/C ratios are measured on a scale of 0 to 1.000. LOS
+                 describes the quality of traffic flow and is a measure of such factors as travel speed, travel
+                 time and flow interruptions. LOS range from "A" to "F" with LOS "A" representing excellent,
+                 free flow conditions and LOS "F" representing jammed, forced flow conditions. The following
+                 table (see page 12) provides a description of the different LOS's and associated V/C ratios.
+
+        2.       LADOT has developed a CMA spreadsheet in MS-Excel format to estimate the LOS for
+                 study intersections. All traffic studies that require the use of CMA to estimate impacts should
+                 be prepared using this spreadsheet. A digital copy of the spreadsheet will be provided to
+                 firms preparing traffic studies in the City of Los Angeles. Please contact any of the LADOT
+                 sections identified in Section K for a copy of the LOS spreadsheet. Completed LOS
+                 calculations must be submitted to LADOT in digital format and included with the submittal of
+                 the traffic study. A typical sample of a LOS calculation worksheet is shown in Attachment J.
+                 For some intersections (such as a 5-legged intersection, diamond interchange, etc.), the V/C
+                 ratio may need to be calculated manually or may need to be adjusted accordingly. The
+                 appropriate methodology for these special cases should be discussed with the appropriate
+                 LADOT staff during the MOU scoping process.
+
+        3.       The use of the Highway Capacity Manual's (HCM) delay-based methodology for signalized
+                 intersections is acceptable to LADOT for traffic impact studies associated with infrastructure
+                 projects, including transit, rail, bicycle and roadway improvements. In such cases, micro-
+                 simulation may also be necessary to fully understand the effects of the project in terms of
+                 queue lengths, traffic signal timing parameters, transit travel times, etc. The following table
+                 (see page 12) provides a description of the different LOS's and associated delays measured
+                 in terms of "delay per vehicle."
+
+        4.       The intersection capacity at intersections along a congested corridor may need to be
+                 adjusted to account for reduced capacity due to gridlock, heavy pedestrian volumes, or other
+                 prevailing factors. The LOS spreadsheet developed by LADOT allows users to override the
+                 standard CMA capacities to account for these factors. However, any such revisions to the
+                 standard capacities or to any formula or function used in the LOS spreadsheet require
+                 LADOT approval.
+
+        5.       Since the CMA and HCM methodologies and the resulting LOS is primarily an automobile-
+                 oriented measure, LADOT is evaluating other performance measures that can yield
+                 information related to other modes of travel. Doing so can provide useful information
+                 regarding the ability of a project or traffic mitigation measure to reduce vehicle-miles-traveled
+                 (VMT), to reduce green-house gas (GHG) emissions, and to promote other modes of travel.
+                  Although some traffic mitigation measures can provide a measurable reduction in VMT or
+                 GHG emissions, these measures may not show a quantifiable benefit when the performance
+                 measure is LOS. In these cases, the traffic study should include a description of the
+                 proposed improvement and the anticipated benefits to air quality. The traffic volume counts
+                 collected at the study intersections should also identify the volumes of pedestrians and
+                 bicycles that enter the intersection. These are helpful parameters and provide the
+                 necessary context when evaluating the overall operation of each intersection.
+
+
+                                                    Page 11
+City of Los Angeles
+Traffic Study Policies & Procedures                                                                  June 2013
+
+
+
+        LEVEL OF SERVICE DEFINITIONS FOR SIGNALIZED INTERSECTIONS 1
+
+     Level of       Volume/Capacity          Delay per Vehicle
+     Service             Ratio                  (sec / veh)                        Definition
+
+                                                                     EXCELLENT.      No vehicle waits
+           A            0.000 - 0.600                10              longer than one red light and no
+                                                                     approach phase is fully used.
+
+                                                                     VERY GOOD.            An occasional
+                                                                     approach phase is fully utilized;
+           B            0.601 - 0.700              > 10 - 20
+                                                                     many drivers begin to feel somewhat
+                                                                     restricted within groups of vehicles.
+
+                                                                     GOOD. Occasionally, drivers may
+                                                                     have to wait through more than one
+           C            0.701 - 0.800             > 20 - 35
+                                                                     red light; backups may develop
+                                                                     behind turning vehicles.
+
+                                                                     FAIR. Delays may be substantial
+                                                                     during portions of the rush hours, but
+           D            0.801 - 0.900             > 35 ­ 55
+                                                                     enough lower volume periods occur
+                                                                     to permit clearing of developing
+                                                                     lines, preventing excessive backups.
+                                                                     POOR.       Represents the most
+                                                                     vehicles that intersection approaches
+           E            0.901 - 1.000             > 55 ­ 80          can accommodate; may be long
+                                                                     lines of waiting vehicles through
+                                                                     several signal cycles.
+
+                                                                     FAILURE. Backups from nearby
+                                                                     intersections or on cross streets may
+                                                                     restrict or prevent movement of
+           F        Greater than 1.000              > 80             vehicles out of the intersection
+                                                                     approaches. Tremendous delays
+                                                                     with continuously increasing queue
+                                                                     lengths.
+
+
+
+
+       1
+           Sources: Transportation Research Board, Interim Materials on Highway Capacity, Transportation
+           Research Circular No. 212, January 1980; and Transportation Research Board, Highway Capacity
+           Manual 2010.
+
+
+                                                    Page 12
+City of Los Angeles
+Traffic Study Policies & Procedures                                                                                     June 2013
+
+
+
+        5.          V/C ratios should be calculated to three decimals, rounded and summarized in a table
+                    showing weekday a.m. and p.m. peak hour LOS at study intersections for existing
+                    conditions, existing with Project, future without Project, future with Project and future with
+                    Project plus mitigation. In a separate appendix, the traffic study shall include the detailed
+                    LOS worksheets for each study intersection. The table summarizing the results of the
+                    impact analysis should follow the format below:
+
+                                                                                                      (Buildout Year)
+               (Year)                                                                                                      Net
+                                Existing     Project    (Buildout Year)   (Buildout Year)   Project    Project with
+           Existing Traffic                                                                                              Project
+                              Plus Project   Impact    Cumulative Base2      Project3       Impact        Traffic
+             Conditions                                                                                                  Impact
+                                                                                                        Mitigation
+
+             V/C   LOS        V/C LOS                    V/C   LOS         V/C    LOS                  V/C    LOS
+
+
+
+        6.          The LADOT traffic count database should be searched for any recent traffic counts at the
+                    study intersections. If recent LADOT traffic counts are not available, then new traffic counts
+                    shall be collected by a qualified data collection firm. Unless there are special circumstances,
+                    traffic volume counts that are more than two years old will not be accepted and new traffic
+                    counts should be collected.
+
+        7.          The traffic study should include a map or table that illustrates the lane configurations and
+                    lane volumes for each study intersection. Also, any programmed and funded transportation
+                    improvements that are expected to be implemented on or before the project buildout year
+                    should be identified in the traffic study. Should these programmed improvements include a
+                    modification to the existing lane configuration to any of the study intersections, then the
+                    study should identify these changes and include the revised lane configuration in the V/C
+                    calculations for all future scenarios.
+
+        8.          In determining the lane assignments for an intersection with an unmarked curb lane, the
+                    V/C/ calculations may assume the capacity of a functional right-turn only lane, provided that
+                    the lane width is a minimum of 18 feet wide, there are no bus stops at the approach, on-
+                    street parking would not impede vehicles turning right, the pedestrian volumes are low
+                    during the peak hour, and this de-facto right-turn operation has been verified in the field.
+
+        9.          If necessary, the scope of the traffic impact analysis should be expanded to evaluate special
+                    circumstances, such as:
+
+                    ·         Summer weekend activity in recreational areas
+                    ·         University/school graduation ceremonies or events
+                    ·         Holidays or special events
+                    ·         Swing shifts
+                    ·         Developments with special visitor, employee or shopping hours or days
+                    ·         Alternative Project scenarios if required by another City Department or adjacent
+                              jurisdiction
+                    ·         Analysis of Freeway LOS
+
+
+
+
+       2
+          The "cumulative base" scenario represents existing traffic conditions plus increases in traffic related
+          to ambient growth and related projects
+        3
+          The "project" scenario is the cumulative base scenario plus the Project trips
+
+                                                            Page 13
+City of Los Angeles
+Traffic Study Policies & Procedures                                                                     June 2013
+
+
+
+        10.      Should the traffic study include an analysis of freeway segments, then consultation with
+                 Caltrans is needed on the capacity analysis methodology used to evaluate state facilities.
+
+        11.      When determining which intersections should be included in the impact analysis for
+                 development projects, only signalized intersections should be selected. Unsignalized
+                 intersections should be evaluated solely to determine the need for the installation of a traffic
+                 signal or other traffic control device, but will not be included in the impact analysis. When
+                 choosing which unsignalized intersections will be reviewed, intersections that are adjacent to
+                 the project or that are expected to be integral to the project's site access and circulation plan
+                 should be identified. For these intersections, the overall intersection delay should be
+                 measured pursuant to procedures accepted by LADOT during the scoping process. If,
+                 based on the estimated delay, the resultant LOS is E or F in the "future with Project"
+                 scenario, then the intersection should be evaluated for the potential installation of a new
+                 traffic signal. The study shall include a traffic signal warrant analysis prepared pursuant to
+                 Section 353 of LADOT's Manual of Policies and Procedures and submitted to LADOT for
+                 review and approval.
+
+
+G.      SIGNIFICANT TRANSPORTATION IMPACT
+        1.       A transportation impact at a signalized intersection shall be deemed "significant" in
+                 accordance with the following table except as otherwise specified in a TSP, ICO or CMP:
+
+
+                                SIGNIFICANT TRANSPORTATION IMPACT (V/C Methodology)
+                             Level of
+                             Service       Final V/C Ratio            Project-Related Increase In V/C
+
+                                 C        > 0.701 - 0.800            equal to or greater than 0.040
+
+                                 D        > 0.801 - 0.900            equal to or greater than 0.020
+
+                                 E        > 0.901-1.000              equal to or greater than 0.010
+
+                                 F        Greater than 1.000         equal to or greater than 0.010
+
+                 For purposes of this calculation, the "Final V/C Ratio" shall mean the future V/C ratio at an
+                 intersection considering impacts with project, ambient and related Project growth but without
+                 proposed traffic mitigation. "Project-Related Increase in V/C" shall mean the change in V/C
+                 between the future V/C ratio with Project, ambient and related project growth but without
+                 proposed traffic mitigation and the future V/C ratio with ambient and related project growth
+                 but without Project and proposed traffic mitigation.
+
+        2.       When utilizing the HCM methodology for signalized intersections for transportation
+                 infrastructure projects, a transportation impact shall be deemed "significant" in accordance
+                 with the following table:
+
+
+
+
+                                                    Page 14
+City of Los Angeles
+Traffic Study Policies & Procedures                                                                        June 2013
+
+
+
+
+                               SIGNIFICANT TRANSPORTATION IMPACT (Delay Methodology)
+                             Level of
+                             Service           Final Delay          Project-Related Increase In Delay
+
+                                 C               > 20 - 35         equal to or greater than 6.0 seconds
+
+                                 D               > 35 ­ 55         equal to or greater than 4.0 seconds
+
+                                 E               > 55 ­ 80         equal to or greater than 2.5 seconds
+
+                                 F                 > 80            equal to or greater than 2.5 seconds
+
+                 For purposes of this calculation, the "Final Delay" shall mean the future delay per vehicle at
+                 an intersection considering impacts with project, ambient and related Project growth but
+                 without proposed traffic mitigation. "Project-Related Increase in Delay" shall mean the
+                 change in delay between the future delay with Project, ambient and related project growth
+                 but without proposed traffic mitigation and the future delay with ambient and related project
+                 growth but without Project and proposed traffic mitigation.
+
+        3.       Commercial projects may be required to conduct residential street impact analysis. A local
+                 residential street can be potentially impacted based on an increase in the average daily
+                 traffic volumes. The objective of the residential street analysis is to determine the potential
+                 for cut-through traffic impacts on a residential street that can result from a Project. Cut-
+                 through trips are measured as vehicles that bypass a congested arterial or intersection by
+                 instead opting to travel along a residential street. To address these potential impacts, non-
+                 restrictive traffic calming measures should be considered and, if deemed warranted,
+                 implemented to off-set any anticipated impacts. Restrictive traffic calming measures should
+                 not be considered. See Section J for a description of restrictive and non-restrictive traffic
+                 calming measures. When selecting residential street segments for analysis during the traffic
+                 study scoping process, all of the following conditions must be present:
+
+                 ·        the proposed project is a non-residential development and not a school
+
+                 ·        the arterial is sufficiently congested, such that motorists traveling on the arterial may
+                          opt to divert to a parallel route through a residential street; the congestion level of the
+                          arterial can be determined based on the estimated LOS under project conditions of
+                          the study intersection(s); LOS E and F are considered to represent congested
+                          conditions
+
+                 ·        the Project is projected to add a significant amount of traffic to the congested arterial
+                          that can potentially shift to an alternative route; Project traffic would need to exceed
+                          the daily minimum significance thresholds listed below under "Project-Related
+                          Increase in ADT"
+
+                 ·        the local residential street(s) provides motorists with a viable alternative route
+
+                 A local residential street shall be deemed significantly impacted based on an increase in the
+                 projected average daily traffic (ADT) volumes as follows:
+
+
+
+
+                                                      Page 15
+City of Los Angeles
+Traffic Study Policies & Procedures                                                                   June 2013
+
+
+
+
+                                Projected ADT with                        Project-Related
+                                Project (Final ADT)                       Increase In ADT
+
+                                         0 to 999                           120 or more
+
+                                      1,000 to 1,999              12 percent or more of final ADT
+
+                                      2,000 or 2,999              10 percent or more of final ADT
+
+                                      3,000 or more                8 percent or more of final ADT
+
+
+
+H.      TRANSPORTATION MITIGATION MEASURES
+        When a Project is expected to result in significant traffic impacts, the Project's traffic consultant
+        should meet with LADOT to discuss potential transportation mitigation options before submitting a
+        traffic study. Different transportation mitigation solutions should be explored when attempting to
+        mitigate a Project's significant traffic impact to a level of insignificance. However, since
+        sustainability, smart growth and the reduction of greenhouse gas emissions have become prime
+        concerns for the City in addition to traditional traffic flow considerations, mitigation programs should
+        be developed to first focus on minimizing the demand for trips by single-occupant vehicles through
+        trip reduction strategies or by encouraging other modes of travel like public transit and bicycling.
+        Therefore, the following mitigation categories, listed in priority order, should be considered when
+        evaluating and proposing transportation mitigations:
+
+        1.       Transportation Demand Management Program (See Section I)
+                 All projects are required to comply with LAMC 12.26-J. For additional trip reduction credits
+                 as traffic mitigation, suggested elements of a TDM program should include, but not be
+                 limited to, the following elements:
+
+                 a.       Implementation of vehicle trip reduction incentives and services for Project
+                          employees and/or tenants; provide on-site education on alternative transportation
+                          modes.
+
+                 b.       Implementation of flexible / alternative work schedules and telecommuting
+                          programs.
+
+                 c.       Provide a bicycle and pedestrian-friendly environment; provide bicycle amenities
+                          such as secure bicycle racks, lockers and showers for employees.
+
+                 d.       Provide bicycle parking beyond the requirements of the Bicycle Parking
+                          Ordinance No. 182,386.
+
+                 e.       Financial contribution to the City's Bicycle Plan Trust Fund.
+
+                 f.       Implement a Bicycle Friendly Street improvement as identified in the Bicycle Plan;
+                          such improvements can include curb extensions, wayfinding signage, diverters,
+                          bicycle loop detection, shared lane markings, etc.
+
+                 g.       Conduct educational workshops for Project employees and/or tenants related to
+                          the usage of bicycles on streets including how to integrate bicycles use with
+
+                                                       Page 16
+City of Los Angeles
+Traffic Study Policies & Procedures                                                                      June 2013
+
+                          transit use and how to ride next to vehicles.
+
+                 h.       Provide bicycle repair stations for use by Project employees and/or tenants.
+
+                 i.       Provide fully or significantly subsidized transit passes to Project residents and/or
+                          employees.
+
+                 j.       Implementation of first and last mile solutions that can increase the use of transit
+                          by bridging the gap between transit stops/stations and a commuter's origin or final
+                          destination
+
+                 k.       Implementation of a parking cash-out program.
+
+                 l.       Pursuant to Internal Revenue Code Section 132(f), arrange pre-tax dollar transit
+                          commute expense accounts to provide transportation fringe benefits to eligible
+                          employees.
+
+                 m.       Vehicle trip reduction incentives and services affecting visitors to the project, such
+                          as shoppers, clients, patrons, etc.
+
+                 n.       Financial support for the capital and/or operating costs of enhanced transit or
+                          vanpool service to the project.
+
+                 o.       Provision of a variety (mixed use) of land uses in close proximity, facilitating trip
+                          making by walking, cycling or local shuttles.
+
+                 p.       Provision of on-site facilities that encourage the use of alternate forms of
+                          transportation such as bicycle lanes and amenities, enhanced pedestrian
+                          connections, telecommuting facilities, etc.
+
+                 q.       Include site trip cap and/or parking cap in trip monitoring agreements.
+
+                 An initial draft performance-based TDM Program, prepared as outlined in Section I, must be
+                 included in the traffic study for any Project seeking TDM trip reduction credits. If the TDM
+                 Program is acceptable to LADOT, the applicant will be allowed to reduce the total Project
+                 trips by an amount determined to be commensurate with the measures proposed in the TDM
+                 Program.
+
+        2.       Transit Capacity and Access Improvements
+                 The elements listed below should be considered when developing transit system strategies.
+                 The exact mitigation value shall be determined on the basis of the development's size, type
+                 of use(s), and the frequency / density of transit service in the vicinity of the Project.
+
+                 a.       Contribution of funds or equipment to increase the capacity of existing transit
+                          systems (must be coordinated with transit providers)
+
+                 b.       Transit shuttles provided by applicant (e.g., bus, taxicab, van, etc.)
+
+                 c.       Contributions toward construction or enhancement of transit stations or centers
+
+                 d.       Provision of facilities or equipment which expedite transit flow (e.g., transit priority
+                          signal systems, HOV lanes, etc.)
+
+
+                                                     Page 17
+City of Los Angeles
+Traffic Study Policies & Procedures                                                                   June 2013
+
+
+
+                 e.       Contributions toward operation/maintenance costs and/or fleet vehicle replacement
+                          costs of existing transit service (must be coordinated with providers)
+
+        3.       Parking Management Measures
+                 a.     Contribution of equipment or funds to implement intelligent parking systems, which
+                        can include the use of new parking meter technology, vehicle sensors, dynamic
+                        signage, a central management system and a real time parking guidance system.
+                        Such upgrades should be implemented along appropriate City block faces with
+                        existing parking meter zones in the vicinity of the development, or at all approaches
+                        and departures of an impacted intersection.
+
+                 b.       "Unbundling" of parking spaces in multiple unit residential development, e.g., parking
+                          shall be bought or rented separately when the dwelling units are initially bought or
+                          rented, enabling discounts for not using parking spaces and/or complementing Flex
+                          Car or other car sharing programs.
+
+                 c.       "Unbundling" of parking spaces in non-residential development, e.g., employee
+                          parking is not to be provided free-of-charge and/or parking costs are listed as a
+                          separate line item in lease agreements. This would be a necessary component of a
+                          Parking Cash-Out program.
+
+        4.       Jobs / Housing Balance Measures
+                 A trip reduction mitigation value of up to 10% may be approved for a development that
+                 incorporates Work Force housing (dwelling units affordable to, and reserved for, sale to Low
+                 and Moderate Income persons/families as defined in CA Health and Safety Code Section
+                 50093 who are employed at the development) or which constructs such housing within a
+                 one-half mile of the development. The exact mitigation value shall be determined based
+                 upon an analysis of the development size and type of land use, employment type/density,
+                 and the number of Work Force housing units to be provided. The affordability of the Work
+                 Force housing units must be guaranteed for a minimum period of thirty (30) years.
+
+        5.       Traffic Signal Operational Improvements
+                 Traffic signal enhancements that include, but are not limited to, traffic signal phasing
+                 modifications, new signal installations, signal controller upgrades, CCTV camera
+                 installations, additional vehicle detector loops, etc., may be considered and provided as
+                 traffic mitigation or as supplemental measures to proposed intersection mitigations. Signal
+                 improvements that are considered project-serving or that provide access to the project are
+                 not considered traffic mitigations.
+
+        6.       Street Widening and Other Physical Improvements
+                 Recommended improvements must be demonstrated to be physically feasible and must
+                 meet minimum City standards. If a physical mitigation measure is proposed on a future
+                 "bicycle lane" street (see "Designated Bikeways" in Appendix D of the Bicycle Plan), then the
+                 mitigation should be designed to accommodate the future bicycle lane. Please see
+                 Attachment K for a sample intersection mitigation drawing. Particular attention shall be
+                 paid to resultant sidewalk widths, which should remain adequate for pedestrian activities and
+                 meet ADA requirements.
+
+        7.       Street Re-striping and Parking Prohibitions
+                 Generally, street re-striping is not a preferred mitigation measure because it often requires
+                 parking prohibitions which may cause secondary impacts in certain commercial and
+
+
+                                                    Page 18
+City of Los Angeles
+Traffic Study Policies & Procedures                                                                      June 2013
+
+                 residential areas. Therefore, any parking impacts should be clearly identified through a
+                 parking inventory and demand analysis. This analysis should include proposed measures to
+                 mitigate any such impacts to the extent feasible. Additionally, should the mitigation require
+                 the permanent removal of a parking meter space, payment to LADOT for lost parking meter
+                 revenues is required. The current average annual revenue generated by one parking meter
+                 is $1,000. Therefore, based on this average, the removal of each metered, on-street parking
+                 space will require payment to LADOT in the amount of the average annual revenue over a
+                 ten year period (currently estimated at $10,000 per space).
+
+        8.       Fair Share Contributions
+                 If a traffic study demonstrates that the applicant is responsible for only a portion of a large
+                 and costly transportation enhancement, such as a bridge or roadway widening project, a fair
+                 share contribution toward the cost of the improvement may be an acceptable mitigation. Fair
+                 share contributions are applicable in those cases where there are other proposed
+                 developments in the vicinity that may also contribute toward the cost of the improvement.
+
+        9.       TSP Mitigation Trust Fund
+                 If project is located in a TSP area, an applicant may be required to pay "trip fees" into a
+                 mitigation trust fund for implementation of larger regional projects that are specified in the
+                 TSP.
+
+        10.      Infeasible Mitigation Measures
+                 The traffic study should also include a discussion of mitigation measures deemed to be
+                 infeasible, as appropriate, to record the reason(s) for rejecting these measures.
+
+        11.      Substitute Mitigations
+                 When no feasible mitigation measure is available, LADOT at its discretion may accept a
+                 substitute mitigation measure at an adjacent intersection provided that appropriate technical
+                 analysis is prepared to show the benefit at the impacted intersection.
+
+        12.      Unmitigated Impacts
+                 For projects with unmitigated traffic impacts that seek a Statement of Overriding
+                 Considerations, other suitable enhancements should be evaluated and considered that
+                 would address quality-of-life issues like implementing non-restrictive traffic calming
+                 measures, traffic safety enhancements, traffic signal timing upgrades, and community
+                 streetscape features like lighting, landscaping, shade, sidewalk repairs, etc. Such
+                 improvements, whether voluntary or required, that benefit the community can serve to off-set
+                 the significant impacts of a project. Also, when no other mitigation measures are available
+                 and the Project results in unmitigated impacts, the developer should consider revising and
+                 reducing the scope of the project.
+
+        The adequacy and feasibility of each mitigation measure must be determined to the satisfaction of
+        LADOT. The final required mitigation measures for the project will be determined by the appropriate
+        decision maker (e.g., the City Planning Commission, the City Council). All mitigation measures shall
+        comply with the following requirements:
+
+        1.       Plan Preparation for Physical Mitigation
+
+                 a.       Existing Conditions
+
+                          i.          Prepare preliminary geometric design drawing to a scale 1" = 40' for each of
+                                      the significantly impacted intersections for existing conditions, where
+
+
+                                                        Page 19
+City of Los Angeles
+Traffic Study Policies & Procedures                                                                          June 2013
+
+                                      restriping and/or street widening is a proposed mitigation measure. Make
+                                      field investigations and show all important roadway details, including
+                                      adjacent land use(s), parking restrictions, sidewalks, driveways, lane
+                                      dimensions, roadway striping, curb and right-of-way lines, and "footprints" of
+                                      building line.
+
+                          ii.         Use existing LADOT drawings where available and field check for accuracy
+                                      to reflect current conditions.
+
+                          iii.        Provide copy of current City Bureau of Engineering District Map illustrating
+                                      public rights-of-way on impacted streets.
+
+                 b.       Future Conditions with Mitigation
+
+                          i.          Prepare preliminary geometric design drawing to a scale of 1" = 40' showing
+                                      recommended changes in striping including additional roadway and
+                                      right-of-way necessary to mitigate the significant impact(s) of the project for
+                                      each location where street restriping and/or street widening is a proposed
+                                      mitigation measure.
+
+                          ii.         Plans showing striping modifications should include adequate segments of
+                                      the roadway (approximately 300-400 feet on each leg of the intersection) to
+                                      indicate the appropriate transitions from the existing striping.
+
+                 c.       Standards
+                          Geometric plans shall be prepared on LADOT 24" × 36" standard sheets. If more
+                          than one mitigation is possible at a given location, separate plans for each alternate
+                          mitigation measure may be prepared in consultation with LADOT. Mitigation design
+                          drawings that are processed through the B-permit process should be submitted to
+                          the LADOT Design Division in Auto-Cad format. The following criteria and standards
+                          should be used in preparation of plans:
+
+                          i.          Drawings of street improvements must show existing and proposed
+                                      dimensions for:
+
+                                      ·      Roadway widths
+                                      ·      Right-of-way widths
+                                      ·      Sidewalk widths
+                                      ·      Curb radii
+                                      ·      Location of traffic islands
+                                      ·      Individual lane widths
+                                      ·      Striping "tapers" and "cat-tracks"
+
+                          ii.         Items to be shown on plans:
+
+                                      ·      Parking restrictions (existing and proposed), bus stops (existing and
+                                             relocated), driveways, signals, street lights, signs, trees, utility poles
+                                             and catchment basins.
+                                      ·      Type of development of adjacent properties.
+
+                          iii.        Drawings of street improvements must show existing and proposed
+                                      dimensions (typical dimensions are shown below). Increased widths may be
+
+                                                         Page 20
+City of Los Angeles
+Traffic Study Policies & Procedures                                                                    June 2013
+
+                                      required for special circumstances such as predominant use by trucks and
+                                      buses, higher design speeds, higher pedestrian volumes, etc.
+
+                                      ·      Through lane = 10' - 11'
+                                      ·      Left turn lane or two-way left-turn median = 10' - 11'
+                                      ·      Right turn lane = 12'
+                                      ·      Lane adjacent to curbed median = 12'
+                                      ·      Curb lane without parking = 12' - 13'
+                                      ·      Curb lane with parking = 18' (low speed) to 20' (high speed)
+                                      ·      Bike lane without parking = 5' - 6'
+                                      ·      Bike lane with parking = 13'
+
+                          Note that modified street standards have been adopted for Downtown Los
+                          Angeles and the Hollywood Community Plan area which differ from the City's
+                          Standard Plan of Street Dimensions.
+
+                 d.       Submit 3 copies of any proposed mitigation plans with the traffic study to the
+                          appropriate LADOT Planning Office for review and comment by LADOT's Planning
+                          Office, District Office, and Design Division.
+
+                 e.       Attach the a.m. and p.m. peak hour lane volume diagram with the geometric design
+                          plan for each intersection.
+
+                 f.       Revise mitigation plans as required and re-submit the final mitigation plans to
+                          LADOT for approval.
+
+        2.       Guarantees of Mitigation Measures
+                 All physical transportation mitigations and associated traffic signal work within the City must
+                 be guaranteed through the B-Permit process of the Bureau of Engineering, prior to the
+                 issuance of any building permit and completed prior to the issuance of any certificate of
+                 occupancy. Temporary certificates of occupancy may be granted in the event of any delay
+                 through no fault of the applicant, provided that, in each case, the applicant has
+                 demonstrated reasonable efforts and due diligence to the satisfaction of LADOT. All
+                 improvements along state highways and freeway ramps require approval from Caltrans. An
+                 encroachment permit must be obtained from Caltrans for these improvements before the
+                 issuance of any building permits.
+
+                 In the event the originally proposed mitigation measure becomes infeasible, a substitute
+                 mitigation measure may be provided subject to approval by LADOT or other governing
+                 agency with jurisdiction over the mitigation location, upon demonstration that the substitute
+                 measure is equivalent or superior to the original measure in mitigating the project's
+                 significant impact.
+
+        3.       Mitigation Monitoring Program in Draft EIR's
+                 The necessary components of each mitigation measure in a mitigation monitoring program
+                 should be stated separately for inclusion in the Draft EIR. These include:
+
+                 a.       Identification of the responsible agency for monitoring the measure and the
+                          designated coordination for all participants
+
+                 b.       Qualifications, if any, of the necessary monitor(s)
+
+
+                                                       Page 21
+City of Los Angeles
+Traffic Study Policies & Procedures                                                                   June 2013
+
+                 c.       The proposed schedule of the mitigation monitoring (i.e., dates of start-up,
+                          observation period, frequency, and completion/termination) - this should be stated for
+                          physical mitigation measures required during construction as well as those that are
+                          for the operation/life of the project (e.g., TDM program)
+
+                 d.       Sampling techniques and testing procedures to be used
+
+                 e.       Equipment and materials needed
+
+                 f.       Funding required and sources of funding for monitoring activities by both project and
+                          City personnel (especially for long-term monitoring activities)
+
+                 If the City adopts a Citywide Mitigation Monitoring Program, the components of the mitigation
+                 monitoring plan will be modified accordingly.
+
+
+I.      TRANSPORTATION DEMAND MANAGEMENT (TDM) PROGRAM
+
+        TDM is a program designed to facilitate the use of alternate transportation modes to decrease
+        dependency on single occupancy vehicles. LADOT strongly encourages the development of a
+        comprehensive TDM program to eliminate as many new project trips as possible. LAMC 12.26-J
+        (which applies only to construction of new, non-residential development in excess of 25,000 square
+        feet gross floor area) requires, prior to issuance of a building permit, that the owner or applicant
+        agree, by way of a covenant that runs with the land, to provide and maintain minimal TDM
+        measures. LAMC 12.26-J is summarized in Attachment L.
+
+        LAMC 12.26-J notwithstanding, a consultant may be required to prepare a more comprehensive,
+        integrated program of TDM measures. If TDM, Transit, and/or Parking Management strategies are
+        claimed as a mitigation of project-related traffic impacts, or if required under any applicable TSP or
+        other City ordinances, then the TDM program shall include the following elements:
+
+                 ·        Statement of measurable goals to be achieved
+                 ·        Estimate of trips to be reduced
+                 ·        Key elements of the program
+                 ·        Schedule and responsibilities for implementation
+                 ·        Identification of funding responsibilities
+                 ·        Method of monitoring program performance
+                 ·        Contingency plan and/or penalties for failure to achieve goals
+
+        If vehicle trips will be reduced by operating or contributing to the operation of transit systems, a
+        description of the transit program as well as a letter of support from the related transit service
+        provider is required. The transit program shall contain elements similar to the TDM program
+        described above. If the project is a mixed-use project that includes housing, LADOT will consider
+        reducing the project's trip generation to account for the internal trip characteristics of the project.
+        This credit will be limited to the trips that would be affected by the special features of the project
+        relative to ITE or TSP trip generation rates. If the project site is under one ownership or control; is
+        uniquely located so as to permit accurate monitoring of all site trips; and extraordinary trip reduction
+        goals are proposed, LADOT may recommend a trip cap agreement. Such an agreement typically
+        places a cap on the total vehicle trips entering and leaving the site during peak hours and includes a
+        monitoring and contingency plan.
+
+
+
+                                                    Page 22
+City of Los Angeles
+Traffic Study Policies & Procedures                                                                       June 2013
+
+
+J.      RESIDENTIAL NEIGHBORHOOD TRAFFIC MANAGEMENT PROGRAM
+        If the traffic study indicates that the project may potentially result in residential street impacts, then a
+        plan to reduce project traffic from traveling through nearby residential areas may be required as part
+        of the mitigation program for the project. If neighborhood traffic management (NTM) measures are
+        required to off-set potential residential street impacts, then, prior to project occupancy, the applicant
+        shall conduct public outreach and develop a NTM plan, in consultation with LADOT, the affected
+        Council District office and the affected neighborhood. Coordination with the appropriate Council
+        District office may be necessary to designate the stakeholders that should facilitate the public
+        outreach. The applicant shall also be responsible for conducting the engineering evaluation of the
+        potential measures to determine the feasibility in regards to drainage, constructability, street design,
+        etc. The applicant shall also be responsible in implementing any NTM measures approved by
+        LADOT and supported by stakeholders. Prior to the outreach, a cost estimate on the potential NTM
+        plan shall be determined in consultation with LADOT. The cost should be commensurate with the
+        size of the project and with the level of residential street impacts that are expected. The
+        development of the plan shall include the analysis of any relevant traffic data, roadway
+        characteristics and conditions of the impacted residential street segments identified in the study.
+
+        The NTM plan should focus solely on implementing non-restrictive traffic calming, which may
+        include, but are not limited to, traffic circles, speed humps, roadway narrowing effects (raised
+        medians, traffic chokers, etc.), landscaping features, roadway striping changes, and stop sign
+        pattern. Restrictive measures such as turn restrictions, physical barriers, signal metering, etc.,
+        should not be considered since these measures can potentially lead to the diversion of traffic from
+        one street to another, or one neighborhood to another. The NTM plan should also consider and
+        evaluate neighborhood improvements that can offset the effects of added traffic, including street
+        trees, sidewalks, landscaping, neighborhood identification features, and pedestrian amenities. Such
+        measures can support trip reduction efforts by encouraging walking, bicycling, and the use of public
+        transit. As with other mitigation measures, any required NTM measures on City streets must be
+        implemented prior to the issuance of any certificates of occupancy. A temporary certificate of
+        occupancy may be granted in the event of any delay through no fault of the applicant, provided that
+        the applicant has demonstrated reasonable efforts and due diligence to the satisfaction of LADOT.
+        The NTM plan shall be prepared in conformance with the guidelines established by LADOT and
+        should contain, at a minimum, the following elements:
+
+        ·        Description of existing facilities and neighborhood traffic conditions
+        ·        Description of proposed neighborhood traffic controls, including sketches of specific street
+                 modifications
+        ·        Analysis of any change in existing or future traffic patterns as a result of implementation of
+                 the plan
+        ·        Implementation and monitoring program
+
+
+
+
+                                                     Page 23
+City of Los Angeles
+Traffic Study Policies & Procedures                                                            June 2013
+
+
+K.      LADOT CONTACTS
+
+        Thank you for your cooperation. If you have any questions, please call the appropriate LADOT
+        Development Services Division office as follows:
+
+        ·        Metro Development Review
+                 100 S. Main Street, 9th Floor
+                 Los Angeles, CA 90012
+                 (213) 972-8482 or (213) 972-8481
+                 Fax (213) 972-8418
+                 Coverage area includes all areas south of Mulholland Drive, east of Robertson Boulevard
+                 and north of the San Pedro Community Plan area.
+
+        ·        West Los Angeles Development Review
+                 7166 W. Manchester Avenue
+                 Los Angeles, CA 90045
+                 (213) 485-1062
+                 Fax (213) 485-1285
+                 Coverage area includes San Pedro and all areas south of Mulholland Drive and west of
+                 Robertson Boulevard
+
+        ·        Valley Development Review
+                 6262 Van Nuys Boulevard, 3rd Floor
+                 Van Nuys, CA 91401
+                 (818) 374-4699
+                 FAX (818) 374-4696
+                 Coverage area includes the entire San Fernando Valley north of Mulholland Drive
+
+        ·        LADOT City-wide One-Stop Counter
+                 201 N. Figueroa Street, 4th Floor
+                 Los Angeles, CA 90012
+                 (213) 482-7024
+
+
+
+
+                                                 Page 24
+                         ATTACHMENT A
+
+                            ACRONYMS
+
+ADA        Americans with Disabilities Act
+ADT        Average Daily Traffic
+AQMD       Air Quality Management District (SCAQMD)
+ATCS       Adaptive Traffic Control System
+ATSAC      Automated Traffic Surveillance and Control
+AVR        Average Vehicle Ridership
+BOE        Bureau of Engineering
+CALTRANS   California Department of Transportation
+CEQA       California Environmental Quality Act
+CMA        Critical Movement Analysis
+CMP        Congestion Management Program
+CRA        Community Redevelopment Agency
+DCP        Department of City Planning
+DEIR       Draft Environmental Impact Report
+EIR        Environmental Impact Report
+ICO        Interim Control Ordinance
+ITE        Institute of Transportation Engineers
+LADOT      Los Angeles Department of Transportation
+LACMTA     Los Angeles County Metropolitan Transportation Authority
+LAMC       Los Angeles Municipal Code
+LOS        Level of Service
+MOU        Memorandum of Understanding
+NOP        Notice of Preparation
+NTM        Neighborhood Traffic Management
+SCAG       Southern California Association of Governments
+TDM        Transportation Demand Management
+TIA        Traffic Impact Analysis
+TSM        Traffic System Management
+TSP        Transportation Specific Plan
+VMT        Vehicle Miles Traveled
+V/C        Volume to Capacity Ratio
+                       ATTACHMENT B
+
+       LADOT REVIEW PROCESS FOR TRAFFIC STUDY
+STEP
+1             Preliminary discussion with Consultant/Developer
+                   on project description including site plan
+
+2                         Scoping of Traffic Study
+                            with the consultant
+
+
+3                 Consultant and LADOT execute an MOU
+                     (fees may apply per LAMC 19.15)
+
+
+4                    Consultant/Developer pays review
+                       fee and submits Traffic Study
+
+
+5                    LADOT prepares initial comments
+                      on the traffic study, if necessary
+
+
+6              Consultant submits corrections/revisions to the
+                          traffic study, if necessary
+
+
+7        LADOT prepares initial comments on proposed mitigation
+                       measures, if necessary
+
+
+8      Consultant submits corrections/revisions on proposed mitigation
+         measures, if necessary, and electronic copy of traffic study
+
+
+9
+                    LADOT issues an assessment letter
+                                                                                SECTION NO.
+                           MANUAL OF POLICIES AND PROCEDURES                               321
+
+                        SUBJECT                                                 DATE    2/2003
+                                         ATTACHMENT C
+                                                                                DIST.        ORIGINATOR
+                                          DRIVEWAY DESIGN
+       Department of                                                                             10
+       Transportation
+                                                                                PAGE
+                                                                                        1 of 13
+
+
+
+I.       Purpose
+
+         This Section provides the basic criteria for review of driveway designs.
+
+         The Department of Transportation (DOT) has a broad responsibility to ensure the safe and
+         efficient use of City streets. The impact on streets is influenced by the design and use of off-
+         street parking and loading facilities to accept and discharge vehicles. The goal of good
+         driveway design is to minimize adverse effects on street traffic.
+
+II.      Conditions of Tracts or Other Actions
+
+         DOT requirements of driveways, prohibitions of driveways on certain streets, limitations of
+         turning movements, and other conditions are often imposed through:
+
+         A.     Zone Changes: These requirements usually originate in DOT during the zoning review
+                process and are adopted by the Council.
+
+         B.     Conditional Uses: Hearing examiners obtain the recommendations of DOT and often
+                include traffic requirements.
+
+         C.     Tract Review: All Tract maps are subject to approval by the Advisory Agency (i.e., a
+                deputy of the Director of Planning). The Advisory Agency is assisted by the Subdivision
+                Committee, on which DOT is represented. The Advisory Agency frequently includes
+                traffic requirements in its final determination.
+
+         It is necessary in many cases to "clear" these traffic requirements, i.e., certify that they have
+         been carried out. This is done by DOT's representative on the Subdivision Committee, who
+         must approve any plans affected by such requirements.
+
+III.     Code Requirements
+
+         The Los Angeles Municipal Code (LAMC) specifically requires DOT to carry out certain
+         functions with relation to off-street parking facilities. The Bureau of Transportation Programs
+         and Development Review of the Department serves as a review agency for driveways and
+         other off-street uses through the required approval of Building Permit Applications. Relevant
+         Municipal Code Sections are:
+
+                   12.21 A-4(g)
+                   12.21 A-5(e)
+                   12.21 A-5(i)
+                   12.21 A-5(j)
+                   12.21 C-6(a)
+ PAGE       DATE        SECTION   SUBJECT                                          Department of Transportation
+   2          02/2003      321                  DRIVEWAY DESIGN                MANUAL OF POLICIES & PROCEDURES
+
+
+
+
+ See Appendix C for further information.
+
+IV.     Definitions
+
+        For purposes of this Section, certain terms and words are defined as follows:
+
+        A. Arterial Highway - A street that either:
+
+        1. Accommodates 10,000 or more vpd (vehicle trips per typical weekday), or
+
+        2. Is designated as a Major or Secondary Highway on the City's Highways and Freeways
+           Plan.
+
+        B. Collector Street - A street that either:
+
+        1. Accommodates more than 1500 but less than 10,000 vpd, or
+
+        2. Is a designated Collector Street on the applicable Community Plan.
+
+V.      Driveway Location Planning
+
+        The basic principle of driveway location planning is to minimize possible conflicts between
+        users of the parking facility and users of the abutting street system. The public interest
+        requires optimum capacity of streets and highways to carry traffic with minimum potential for
+        traffic accidents. The safety of pedestrians is also considered.
+
+        This calls for the minimum number of driveways, consistent with street and lot capacity,
+        located on streets with the least traffic volume, when there is a choice. Driveways should
+        provide high-entry capacity from the abutting street. To determine if a facility will meet the
+        desired criteria, it is necessary to check location of driveways, size of driveways, number of
+        driveways, operation and design of entrances and exits, and internal circulation.
+
+        A. Number of Driveways Along Arterial Frontage
+
+        Driveways should not be permitted along arterial highways where the proposed development
+        is:
+
+        1. Residential, and access is possible using an alley or non-arterial street, or
+
+        2. Industrial or commercial, and
+
+            a. At the intersection of the arterial highway with a non-arterial street, and
+
+            b. Access is possible along the non-arterial frontage.
+    Department of Transportation     SUBJECT                               SECTION   DATE        PAGE
+MANUAL OF POLICIES & PROCEDURES                 DRIVEWAY DESIGN                321     02/2003     3
+
+
+
+
+    Otherwise the maximum number of driveways along arterial frontage should be:
+
+                               Maximum Number of Driveways Along Arterial Frontage
+                       FRONTAGE (FEET)                             NO. OF DRIVEWAYS
+                                   0 to 200                                  11
+                              200+ to 400                                     2
+
+    For every additional 400 feet of frontage, 1 additional driveway is allowed. However, for
+    minimum distance between driveways see Sub-Section V.D. Exceptions may be granted by
+    the Transportation Engineer in charge based on review of specific project design or capacity
+    needs (see Appendix A).
+
+    B. Location of Driveways Adjacent to Intersections
+
+    Driveways should be located such that two-way left turn lane channelization will provide
+    storage space for left-turn entry, and for refuge for left-turn exiting. Where the arterial does
+    not have two-way left turn lane median channelization, the driveway should be as far from
+    the intersecting street as possible.
+
+    Driveways on arterial highways serving lots with frontages greater than 250 feet should not
+    be placed within 150 feet of the adjacent street. Driveways on collector or local streets
+    serving lots with frontages greater than 250 feet should not be placed within 75 feet of the
+    adjacent street.
+
+    Turning prohibitions should be considered on approvals whenever the following would occur
+    and an alternate ingress/egress point is not available:
+
+       a) Entering vehicles would need to make left-turns from the number one thorough lane of
+          an arterial highway.
+
+       b) Exiting vehicles making left-turns to an arterial highway would be required to turn
+          through the queue from adjacent signalized intersections and the exiting vehicle would
+          cross a left-turn lane or on an unchannelized street from within 150 of the crosswalk
+          at the signal.
+
+       c) When the proposed driveway causes a signalized T-intersection to become a left-
+          jogged intersection and the proposed driveway becomes the right-jogged jog, the
+          exiting driveway vehicles making left-turn movements shall be prohibited unless a new
+          design for the newly-formed left-jogged intersection will signalize both jogged legs.
+
+    Where alternate access does not exist for a proposed driveway, turn restrictions may be
+    considered, as authorized by the Transportation Engineer of the appropriate district office
+    of the Transportation Engineer of the Signal Systems and Research Section.
+
+1
+     Two driveways may be approved if they are to each be one-way (i.e. one ingress
+     only and one egress only).
+ PAGE       DATE        SECTION   SUBJECT                                        Department of Transportation
+   4          02/2003      321                 DRIVEWAY DESIGN               MANUAL OF POLICIES & PROCEDURES
+
+
+
+
+        Modifications to channelization to make proposed driveway locations acceptable shall be
+        paid for by the permittee requesting the change, prior to approval of the permit. Such
+        modifications shall be approved by the Transportation Engineer of the appropriate district
+        office.
+
+        C. Driveways at Tee Intersections
+        Driveways for properties at the top of a "T" intersection are to be centered within one foot of
+        the prolongation of the terminating street center line. The driveway at the top of the T-
+        intersection should be a Case 3 type driveway in a residential area, and a Case 4 type
+        driveway in a commercial area (see attached Department of Public Works Standard Plan
+        No. S-440-3). Where this is not possible, the driveway should conform to Sub-Section V.B
+        (Location of Driveways Adjacent to Intersections).
+
+        D. Distance between Driveways
+        Wherever possible, two-way driveways should be separated by a minimum of 50 feet of full
+        height curb to minimize conflict between vehicles using the adjoining driveways.
+
+VI.     Driveway Design
+
+        A. Basic Principles
+
+        Driveways should be designed to minimize possible conflicts between users of parking
+        facilities and users of abutting street systems. The design should address pedestrian
+        safety, sight distance, width of the lane from which the right turns into the driveway are
+        made (i.e. 12 foot curb lane requires a wider driveway), size and turning characteristics of
+        vehicles using the driveway (i.e. delivery trucks require wider driveways), complexity of
+        vehicular movements, density of traffic on the abutting street (traffic and street width), speed
+        of vehicles on the abutting street, arrival or departure rate of vehicles using the driveway,
+        and any other considerations that would affect the safety and efficient use of City streets. It
+        should be recognized that driveway design recommendations may vary depending upon site
+        constraints, location, and usage. Existing driveways can be approved as constructed if the
+        project which has necessitated their review is of limited scope or is re-striping only.
+
+        B. Width of Driveways
+
+        Not withstanding existing Code requirements, the following driveway widths are
+        recommended:
+    Department of Transportation   SUBJECT                                               SECTION    DATE        PAGE
+MANUAL OF POLICIES & PROCEDURES                         DRIVEWAY DESIGN                      321      02/2003     5
+
+
+
+
+                                         Recommended Widths of Driveways
+                                       (W dimension of driveway apron, in feet)2
+
+               Type of Development                          Two-Way                 One-Way
+             Commercial                                       30 ft                   16 ft
+             Industrial                                          30 ft                 16 ft
+             Single Family Residential
+                    1 or 2 car garage                            18 ft                    ­
+                    3 or more car garage                         26 ft                    ­
+             Multi-Family Residential
+                    More than 25 spaces                          30 ft                 16 ft
+                    5 to 25 spaces                               28 ft                 16 ft
+                    Less than 5 spaces                           18 ft                 16 ft
+
+    These recommended widths assume standard passenger vehicles turning right from an 18
+    foot wide curb lane under typical conditions. Wider driveways may be appropriate to
+    accommodate large commercial vehicles or multiple entry lanes. Shorter driveway widths
+    may be considered where it may be more appropriate to use narrower driveway or field
+    conditions preclude use of recommended widths.
+
+    When larger vehicles and trucks are going to be the predominant users of a particular
+    driveway, turning templates shall be utilized to develop a driveway width that can safely and
+    expeditiously accommodate the prevalent type of ingress and egress traffic.
+
+
+
+
+                                                                              Reservoir Distance to
+                                             Drive Aisle Width                Gate/First Parking Space
+
+     Property Line
+     (after dedication)
+                                                                                         Sidewalk
+
+
+                                                                                     Y
+     Curb Face
+
+
+                      X                            W                      X
+
+
+
+
+2
+    See attached Department of Public Works Standard Plan No. S-440-3.
+PAGE          DATE        SECTION   SUBJECT                                            Department of Transportation
+  6             02/2003      321                        DRIVEWAY DESIGN            MANUAL OF POLICIES & PROCEDURES
+
+
+
+
+           Driveway widths (W dimension) are intended to facilitate turning movements such that
+           vehicles entering and exiting do not interfere with one another. The W dimension will
+           commonly be larger than the on-site aisle width. This allows vehicles to enter from or to curb
+           lanes without interfering with one another or hitting the X (sloping) portion of the curb.
+
+           C. Street-Type Driveways
+
+           Where a large parking facility is being constructed with signalized access along an arterial
+           highway, a street-type driveway (i.e. having curb returns instead of sloping sides) with full
+           height curb returns approximately 25 feet in radii will be required if the expected peak
+           volume exceeds 250 cars per hour or 50 trucks per hour3 or a traffic signal with normal
+           signal operation is designed for the driveway. Standard driveway design may be used for
+           driveways with signal flashing red operations. All new traffic signals must be warranted and
+           approved by the Bureau of Traffic Management of DOT.
+
+           D. One-Way Driveways
+
+           One-way driveways should be permitted only if one-way-only usage is assured by:
+
+              1. Angled parking stalls, or
+
+              2. Other positive control (e.g. tire spikes or mechanical gate).
+
+           E. Reservoir and Maneuvering Space
+
+           Any entrance driveway from an arterial highway should provide reservoir space between the
+           back of the sidewalk and the first parking stall.
+
+                                              Minimum Clear Reservoir Distance (feet)
+
+                            Total Spaces                                        Reservoir
+
+                            Up to 100                                              20
+                            101 to 300                                             40
+                            More than 300                                          60
+
+              Where more than 300 parking spaces are provided or where ticket dispensers and/or
+              mechanical gates are used, the reservoir should be based upon calculated "traffic
+              intensity" for each street access (see Appendices A & B). Gates or guard booths should
+              be set back far enough from the back of the sidewalk to ensure that entering or exiting
+              vehicles will not block sidewalk, signalized crosswalks or extend into street. The
+              reservoir distance between the driveway approach limit lines and gates/or guard booths
+              should provide sufficient vehicle storage space for traffic queuing during the duration of
+              red indication, if the driveway is controlled by a traffic signal with normal operations.
+
+
+       3
+            Decisions require concurrence by Bureau of Engineering, Department of Public Works.
+        Department of Transportation   SUBJECT                              SECTION   DATE        PAGE
+    MANUAL OF POLICIES & PROCEDURES              DRIVEWAY DESIGN                321     02/2003     7
+
+
+
+
+     F. Each parking space, parking area, or loading area should be located such that vehicle
+        maneuvers can be accomplished without driving onto the public right-of-way, except an
+        alley.
+
+     G. Drive-up service windows should be designed as drive-out-only facilities with adequate
+        storage off-street to accommodate waiting vehicles. Reservoir space should be based
+        upon calculated "traffic intensity".
+
+VII. Internal Circulation
+
+     LAMC Section 12.21 A-5 (j) (see Appendix C) provides authority for DOT review of the
+     Internal Circulation. "All portions of a public parking area or public garage shall be
+     accessible to all other portions thereof without requiring the use of any public street, unless
+     the Department of Transportation determines that such use is not detrimental to the flow of
+     traffic." The purpose of this section is to prevent (or control) the use of public streets for
+     circulating between one part of a parking facility and another. Exceptions to this policy:
+
+     A. Residential Parking Areas ­ Parking areas for occupants of residential buildings are not
+        "public," therefore, this section is not applicable to residential parking areas. Parking
+        areas for visitors to residential buildings, however, are public. LAMC (Section 12.03).
+
+     B. Off-site Parking Facilities ­ LAMC Section 12.21 A-4(g) (see Appendix C) permits the
+        provision of parking facilities within a certain distance of the building site. This provides
+        that off-site parking facilities may be separated by public streets. However, each such
+        facility should conform to the internal circulation test.
+
+     C. Employee Parking ­ Some parking for industrial or commercial facilities may be assigned
+        (by a note on the building plans) "for use by employees only". However, in approving an
+        exception, care should be taken to ensure that parking spaces are assigned and that the
+        facility is not likely to be used for parking by customers or other visitors.
+
+     Parking stalls shall not be designed so that a vehicle is required to back out onto any public
+     street or sidewalk. Parking stalls that serve two dwelling units or less with driveway access
+     that is not from a major or secondary highway are exempt from this restriction. (LAMC
+     Section 12.21 A-5 (i), see Appendix C)
+
+VIII. Loading Docks
+     In the review of plans for driveways or parking facilities, DOT also reviews the design, location,
+     and adequacy of truck loading docks.
+
+     Back-in or back-out loading facilities should not be permitted along arterial highways or
+     collector streets. It is the policy of this Department to approve only those designs which
+     entirely remove loading operations from these classification of streets.
+
+     Back-in loading facilities may be permitted on commercially-developed local streets if off-street
+     space is insufficient for truck maneuvering. These back-in loading facilities should have a
+     minimum reservoir area of 45 feet back of sidewalk. If all or a portion of the back-in loading
+     facility is within a building, the reservoir area should be depressed to prevent other use of the
+     reservoir space.
+ PAGE           DATE           SECTION     SUBJECT                                         Department of Transportation
+   8              02/2003         321                  DRIVEWAY DESIGN                 MANUAL OF POLICIES & PROCEDURES
+
+
+
+
+                                         APPENDIX A ­ PARKING CONTROL SERVICE RATE
+
+                                                                 Typical Service Rates Per Lane4
+                                                                   Average
+                                                                  Headway            Capacity
+                            Type of Control                       (Sec/Veh)          (Veh/Hr)
+
+Entering:
+
+            Clear aisle, no control                                      3.6          1,000
+            Ticket dispenser, no gate                                    5.0           720
+            Time stamp and handed to driver                              8.5           425
+            Coded-card operated gate                                     8.9           405
+            Cashier, flat fee, no gate
+             No information given                                        9.2           390
+             Direction-info needed                                       14.8          250
+            Ticket dispenser with gate
+              Sharp turn @ approach                                      9.5           380
+             Easy direct approach                                        5.5           650
+            Coin-operated gate                                           20.4          175
+Internal:
+       Clear aisle or ramp, no parking                                   2.0          1,800
+            Straight ramp w/bend @ end                                   2.2          1,650
+            Circular ramp, 30´ R @ C/L                                   2.2          1,650
+            Aisle with adjacent 9´ x 18´ stalls
+              Inbound                                                    3.5          1,040
+             Outbound                                                    8.6           420
+Exiting:
+            Light street congestion                                      7.2           500
+            Moderate street congestion                                   9.0           400
+            Coded card/token-operated gate                               9.0           400
+            Cashier, flat fee with gate                                  13.4          270
+            Cashier, variable fee with gate                              19.5          185
+            Coin operated gate                                           20.4          175
+
+
+
+        4
+             Assumes no significant interference by pedestrians, other traffic, etc.
+    Department of Transportation                                             SUBJECT                                                SECTION         DATE        PAGE
+MANUAL OF POLICIES & PROCEDURES                                                                    DRIVEWAY DESIGN                      321           02/2003     9
+
+
+
+
+                                                                                                 APPENDIX B
+
+                                                                                     RESERVOIR NEEDS
+                                                                                   VS. TRAFFIC INTENSITY
+ RESERVOIR BEHIND SERVICE POSITION
+
+
+                                                            25
+
+
+
+                                                            20
+                                     (NUMBER OF VEHICLES)
+
+
+
+
+                                                            15
+                                                                                                      Not exceeded
+                                                                                                      > 1 Peak hour in 100
+
+                                                            10
+                                                                                       Not exceeded
+                                                                                       > 5 Peak hours in 100
+
+                                                                                Average queue length
+                                                            5
+                                                                     Minimum
+
+
+                                                            0
+                                                                 0           0.2                0.4              0.6          0.8             1.0
+                                                                                        TRAFFIC INTENSITY
+                                                                        (PEAK-HOUR ARRIVAL RATE ­ TYPICAL SERVICE RATE)
+
+
+ Assumptions:                                                        Arrivals follow a Poisson Distribution.
+                                                                     Service rate can be represented by an exponential probability function.
+                                                                     Flow is equally divided between each line if more than one if available.
+
+ Notes:
+
+                                                      1. To obtain total reservoir length, use 20 feet per vehicle + 20 feet for the service position (or 12
+                                                         feet to the driver of the vehicle in the service position).
+                                                      2. For peak-hour arrival rate contact City-Wide Planning Coordination Section at (213) 482-7024.
+                                                      3. See Appendix A for parking control service rate.
+ PAGE       DATE        SECTION   SUBJECT                                               Department of Transportation
+   10         02/2003      321                     DRIVEWAY DESIGN                  MANUAL OF POLICIES & PROCEDURES
+
+
+
+
+                    APPENDIX C ­ LOS ANGELES MUNICIPAL CODE REFERENCES
+
+1.      Section 12.21 A-4(g) Location of Parking Area. The automobile parking spaces required by
+        paragraphs (b), (c), (d), and (e) hereof, shall be provided either on the same lot as the use for
+        which they are intended to serve or on another lot not more than 750 feet distant therefrom;
+        said distance to be measured horizontally along the streets between two lots, expect that
+        where the parking area is located adjacent to an alley, public walk or private easement which
+        is easily useable for pedestrian travel between the parking area and the use it is to serve, the
+        750-foot distance may be measured along said alley, walk or easement (Amended by Ord.
+        No. 145,088, Eff. 10/20/73.)
+
+2.      Section 12.21 A-5(e) Driveway Location. Access driveways to every parking area and garage
+        shall be designated in accordance with Section 62.105.1, 62.105.2, 62.105.3 and 62.105.4 for
+        this Code, and in a manner to provide the minimum practical interference with the use of
+        adjacent property and with pedestrian or vehicular traffic.
+
+        Such driveways shall be located in accordance with a plan approved by the Department of
+        Building and Safety in the following instances:
+
+        a. On a lot in a "P" (including any combination with an "A" or "R" Zone) or "PB" Zone.
+
+        b. For every parking area and garage having a capacity of more than 25 automobiles or
+           trucks.
+
+        The Department of Building and Safety shall disapprove any plan which it determines fails to
+        meet the standards established by this Paragraph.
+
+3.      Section 12.21 A-5(i) Parking stall Location. Each automobile parking stall shall be so located
+        that:
+
+        a. No automobile is required to back onto any public street or sidewalk to leave the parking
+           stall, parking bay or driveway, except where such parking stalls, parking bays or driveways
+           serve not more than two dwelling units and where the driveway access is to a street other
+           than a major or secondary highway. (Amended by Ord. No. 151,608, Eff. 11/27/78.)
+
+        b. Parking maneuvers can be accomplished without driving onto that portion of a required
+           front yard where driveways are prohibited. Car stops or other barriers shall be provided in
+           accordance with Section 12.21 A-6. (Amended by Ord. No. 144,082, Eff. 12/11/72.)
+
+4.      Section 12.21 A-5(j) Internal Circulation. All portions of a public parking area or public garage
+        shall be accessible to all other portions thereof without requiring the use of any public street,
+        unless the Department of Transportation determines that such use is not detrimental to the
+        flow of traffic. (Amended by Ord. No. 152,425, Eff. 6/29/79.)
+
+5.      Section 12.21 C-6(a) Loading Space. A loading space shall be provided and maintained on
+        the same lot with every hospital, hotel, or institution building. A loading space shall be
+        provided and maintained on the same lot with every building in the "C" or "M" Zones, where
+        the lot on which said building is located abuts an alley, provided that when the lot is occupied
+        by a use, such as a service station or drive-in business, in which the building covers less than
+    Department of Transportation   SUBJECT                                  SECTION    DATE         PAGE
+MANUAL OF POLICIES & PROCEDURES              DRIVEWAY DESIGN                    321      02/2003      11
+
+
+
+
+ the total buildable area, a suitable loading space must be provided, but it need not comply with
+ all the provisions of this section if its location, size and means of access are approved by the
+ Department of Building and Safety.
+
+ EXCEPTION: No loading space shall be required on a lot that abuts an alley in the "C" or "M"
+ Zones when all the buildings are erected, structurally altered, enlarged, or maintained and
+ used solely as dwellings or apartment houses and the total number of dwelling units on the lot
+ does not exceed 20. (Amended by Ord. No. 138,685, Eff. 7/10/69.)
+PAGE   DATE        SECTION   SUBJECT                         Department of Transportation
+  12     02/2003      321              DRIVEWAY DESIGN   MANUAL OF POLICIES & PROCEDURES
+    Department of Transportation   SUBJECT                     SECTION   DATE        PAGE
+MANUAL OF POLICIES & PROCEDURES              DRIVEWAY DESIGN       321     02/2003     13
+ATTACHMENT D
+                        STANDARD STREET CONDITIONS
+
+ 1.    City Council may, by ordinan ce, adopt specific standards for ind ividual
+       streets which differ from these official standard street dimensions.
+       Commun ity Plans should be reviewed for designation of Pede strian
+       Priority Street Segments of arterial streets which would requ ire wid er
+       sidewa lk s than those indicat ed on th is Standard Plan .
+
+ 2.    Sidewalk widths for non-arterial stre ets shall be the mi nimum shown
+       hereon . Greater widths, up to ful l width between c ur b and property line,
+       with tree wells , shall be required where commercial and multiple residential
+       frontage, schools , areas of heavy pede strian traffi c or other s pec ia l
+       circumstances indicate the need.
+
+ 3.    Except for special conditions or as otherwise provided, sidewalk shall
+       be placed as close to the property line as possible.
+
+ 4.    Where sid ewalk is construct ed adjacent to the curb it shall have a
+       m inim um width of 10 feet inclus ive of curb thickness except for
+       hillside st reets, noncontinuous local streets and industrial streets .
+
+ 5.    Where sidewalk is constructed on the fill or low side of a hills ide
+       street , a berm may be required on private property .
+
+ 6.    Easements may be required in addition to the widths shown hereon,
+       where necessary for the installation of public utilities or for widened
+       sidewalks (minimum 15-foot width) adjacent to tran sit stations .
+
+ 7.    Fifty-foot curb rad ii (instead of the standard 35' curb radii) shall be
+       provided for cu l-de -sacs in industrial areas.
+
+ 8.    Private street development should conform to the standard public street
+       dimensions shown on this sheet , where appropriate . Variations m ay
+       be approved on a case -by-cas e basis .
+
+ 9.    For intersections of streets the following dedications shall apply:
+         a. Intersections of arterial streets with any other street: 15 'x15'
+             cut corner OR 20' curved corner radius .
+         b. Intersections of non-arterial and/or hillside streets : 1O'x1 0' cut
+             corner OR 15 ' curved corner radius .
+
+10 .   Hillside Collector Streets . In hillside areas whe re topography or other
+       environmental considerations, documented to the satisfaction of t he City
+       Engineer, would render full street improvements infeasible , the roadway
+       width of the hills ide collector street may be reduced to no less than
+       32 feet, provided that parking is limited to one side o nly.
+
+
+
+
+STANDARD PLAN NO.          S-470-0                     VAULT INDEX NUt.lBERB-4428   SHEET 2 OF 2 SHEETS
+                                                   ATTACHMENT E
+
+                  TRAFFIC STUDY - MEMORANDUM OF UNDERSTANDING (MOU)
+
+This MOU acknowledges that the traffic study for the following project will be prepared in accordance
+with the latest version of LADOT's Traffic Study Policies and Procedures:
+
+Project Name:
+Project Address:
+Project Description:
+
+
+Geographic Distribution: N             % S           %     E       %       W         %
+Attach graphic illustrating project trip distribution percentages at the studied intersections
+
+Trip Generation Rate(s): ITE 8th Edition / Other
+Attach trip generation table with a description of the proposed land uses, ITE rates, estimated
+morning and afternoon peak hour volumes (ins/outs/totals), proposed trip credits, etc.
+
+                                         in        out          total
+                   AM Trips
+                   PM Trips
+
+Project Buildout Year:                         Ambient or CMP Growth Rate:                      % Per Yr.
+Related Projects:      (to be researched by the consultant and approved by LADOT)
+
+Study Intersections
+(Subject to LADOT revision after initial impact analysis)
+
+
+ 1.                                                                6.
+
+ 2.                                                                7.
+
+ 3.                                                                8.
+
+ 4.                                                                9.
+
+ 5.                                                                10.
+
+
+Trip Credits:      (Exact amount of credit subject to approval by LADOT)
+
+                                                                         Yes        No
+
+ Transit Usage
+
+ Transportation Demand Management
+
+ Existing Active Land Use
+
+ Previous Land Use
+
+ Internal Trip
+
+ Pass-By Trip
+
+                            Consultant                                   Developer
+Name
+Address
+Phone No.
+
+Approved by:
+                     Consultant's Representative         Date            LADOT Representative   Date
+                                      ATTACHMENT F
+
+                          TRAFFIC STUDY MAPS AND FIGURES
+
+The traffic study should include the following maps unless otherwise specified during the
+scoping process:
+
+1.     Area map showing Project location.
+
+2.     Area map showing location of related projects (table should be included indicating
+       location, size, name, description and trip generation of each related project).
+
+3.     Site map showing study intersections and distance of the Project driveway(s) from the
+       adjacent intersections. Include location and identification of all major buildings,
+       driveways, parking areas and loading docks of the Project.
+
+4.     Map(s) showing the "existing" (specify base year) traffic volumes for both the a.m. and
+       p.m. peak hours at the study intersections and the average daily traffic (ADT) on any
+       analyzed street segments.
+
+5.     Map(s) showing future traffic volumes with ambient growth without Project at the study
+       intersections and street segments. This map should specify the future year used in the
+       impact analysis and should be based on the expected date of project buildout. The
+       future year identified in this step shall remain consistent for all other maps described
+       below that illustrate future traffic projections.
+
+6.     Map(s) showing traffic generated by the related projects only. Use separate map for
+       similar land uses (e.g. retail, office, residential, industrial/manufacturing) with similar trip
+       distribution patterns (as they affect the study intersections and freeway locations).
+
+7.     Map(s) showing total future "cumulative base" traffic volumes without Project at the study
+       intersections, freeway locations and street segments (add steps 5 and 6).
+
+8.     Map(s) showing Project trip distribution percentages (inbound and outbound) at the
+       study intersections, freeway locations and project driveway(s). This map must be
+       pre-approved by LADOT and included in the MOU.
+
+9.     Map(s) showing estimated Project-only traffic volumes at the study intersections, Project
+       driveway(s), freeway locations and street segments.
+
+10.    Map(s) showing total existing traffic volumes with Project at the study intersections,
+       project driveway(s), freeway locations and street segments (add steps 4 and 9).
+
+11.    Map(s) showing total future traffic volumes with Project at the study intersections, project
+       driveway(s), freeway locations and street segments (add steps 7 and 9).
+
+12.    Map showing existing and projected transit lines.
+                                   ATTACHMENT G
+                                   ATTACHMENT F
+
+                              Traffic Study Checklist
+The following checklist highlights key requirements that are critical to LADOT's review of
+the traffic study in addition to the requirements listed in the Traffic Study Policies and
+Procedures. To avoid any delays in the review process, please provide the following:
+
+t     Hard copy and PDF electronic copy of the traffic study
+
+t     Legible site plan showing driveway locations, loading/unloading area, and any
+      proposed highway dedication and widening
+
+t     Traffic study review fee
+
+t     Conceptual drawings of the proposed mitigation measures in hard copy and PDF
+      electronic copy
+
+t     Traffic volumes counts in LADOT format
+
+t     City Planning Case Number (if applicable)
+
+t     Existing-use documentation (i.e., certificate of occupancy, lease agreements,
+      utility bills, etc.)
+
+t     Traffic signal warrant sheets (if applicable)
+
+t     Traffic study shall be stamped by a Registered Traffic Engineer
+
+
+
+
+ LADOT Use Only
+
+ "Deemed Complete" by: _____________________            Date: __________________
+                                                                   ATTACHMENT
+                                                                   ATTACHMENT H
+                                                                              G
+                       City Of Los Angeles
+                       Department Of Transportation
+                       MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South            BROADWAY
+
+East/West              75TH ST
+
+Day:        MONDAY                      Date:       JULY 16, 2007           Weather:          SUNNY
+
+Hours:      7-10AM 2-5PM
+
+School Day:            YES              District:          CENTRAL            I/S CODE 1451
+
+
+                        N/B                          S/B                      E/B                     W/B
+DUAL-
+WHEELED                  101                         139                          3                     6
+BIKES                      0                          11                          0                     0
+BUSES                      0                          98                          0                     0
+
+
+                        N/B TIME                     S/B TIME                 E/B TIME                W/B TIME
+
+AM PK 15 MIN             329     7.15                168    7.45                  5    8.00            28    7.15
+
+PM PK 15 MIN             174     2.15                273    4.45               12      2.15            56    2.30
+
+AM PK HOUR              1230     7.15                625    7.15               14      7.15           106    7.15
+
+PM PK HOUR               609     2.00               1002    4.00               33      2.00           111    2.15
+
+
+
+NORTHBOUND Approach                                        SOUTHBOUND Approach                              TOTAL   XING S/L    XING N/L
+
+Hours         Lt     Th          Rt Total                  Hours      Lt     Th        Rt Total              N-S     Ped Sch     Ped   Sch
+7-8                7 1056         94 1157                  7-8         47     550       11   608             1765     63 25        0     0
+8-9                4 806          63   873                 8-9         32     459        5   496             1369     30   8       2     0
+9-10               2 529          10   541                 9-10        10     374        4   388              929      4   0       1     0
+2-3                9 518          82   609                 2-3         33     679       12   724             1333     89 40        0     0
+3-4                5 448          19   472                 3-4         30     816       16   862             1334     12   4       4     0
+4-5                8 514          21   543                 4-5         20     973        9 1002              1545     16   0       5     0
+
+TOTAL          35 3871           289      4195             TOTAL      172 3851          57     4080          8275    214   77     12    0
+
+
+EASTBOUND Approach                                         WESTBOUND Approach                               TOTAL   XING W/L    XING E/L
+
+Hours         Lt        Th       Rt Total                  Hours      Lt     Th        Rt Total             E-W      Ped Sch     Ped   Sch
+7-8                1         2    10     13                7-8         43         4     54   101              114     70 39       45     2
+8-9                2         2     4      8                8-9         32         2     34     68              76     46 11       35     1
+9-10               6         0     7     13                9-10        18         1     19     38              51     30   3      12     0
+2-3                6         5    22     33                2-3         42         5     60   107              140    103 100      74    25
+3-4                6         6    10     22                3-4         34         2     27     63              85     63 18       38     7
+4-5                9         4     9     22                4-5         32         5     27     64              86     48 11       32     0
+
+TOTAL          30         19      62        111            TOTAL      201      19      221      441           552    360 182     236   35
+
+            (Rev Oct 06)
+                               ATTACHMENT I
+                               ATTACHMENT H
+
+                     LADOT POLICY ON PASS-BY TRIPS
+PASS-BY TRIP
+ DISCOUNT
+   RATE                              LAND USE CATEGORY
+               Shopping Center 600,000 sf or more, Quality Restaurant, Specialty
+    10%        Retail, Furniture Store, Medical Office, Day Care, Theater/Cinema,
+               Auto Sales/Repair
+    15%        Discount Club, Discount Store
+               Shopping Center 300,000 to less than 600,000 sf, Bank/Savings &
+    20%        Loan, High Turnover Restaurant, Car Wash, Hardware/Lumber Store,
+               Garden Center, Recreation/Health Club
+               Shopping Center 100,000 to less than 300,000 sf, Auto Parts,
+    30%
+               Music/Video Store
+               Shopping Center 50,000 to less than 100,000 sf, Supermarket,
+    40%
+               Drugstore, Bookstore
+               Shopping Center less than 50,000, Fast Food Restaurant,
+    50%        Gasoline/Service Station, Convenience Market, Flower/Bakery/Yogurt
+               Shop, Dry Cleaner, Liquor Store
+ATTCHMENT
+ ATTACHMENT J I
+         ATTACHMENT K J
+        ATTACHMENT
+
+Physical Improvements - Sample
+                                        ATTACHMENT
+                                        ATTACHMENT KL
+
+     TRANSPORTATION DEMAND MANAGEMENT AND TRIP REDUCTION MEASURES
+              (LAMC Section 12.26-J - amended by Ordinance 168,700)
+
+
+1.   DEFINITIONS
+     For the purpose of this section, certain words and terms are defined as follows:
+
+     Carpool. A vehicle carrying two to five persons to and from work on a regular schedule.
+     Development. The construction of new non-residential floor area.
+     Gross Floor Area. That area in square feet confined within the outside surface of the exterior
+     walls of a building, as calculated by adding the total square footage of each of the floors in the
+     building, except for that square footage devoted to vehicle parking and necessary interior
+     driveways and ramps.
+     Preferential Parking. Parking spaces, designated or assigned through use of a sign or painted
+     space markings for Carpools or Vanpools, that are provided in a location more convenient to the
+     entrance for the place of employment than parking spaces provided for single-occupant vehicles.
+     Transportation Demand Management (TDM). The alteration of travel behavior through
+     programs of incentives, services, and policies, including encouraging the use of alternatives to
+     single-occupant vehicles such as public transit, cycling, walking, carpooling/vanpooling and
+     changes in work schedule that move trips out of the peak period or eliminate them altogether
+     (as in the case in telecommuting or compressed work weeks).
+     Trip Reduction. Reduction in the number of work-related trips made by single-occupant
+     vehicles.
+     Vanpool. A vehicle carrying six or more persons to and from work on a regular schedule, and
+     on a prepaid basis.
+     Vehicle. Any motorized form of transportation, including but not limited to automobiles, vans,
+     buses and motorcycles.
+
+2.   APPLICABILITY
+     This subdivision applies only to the construction of new non-residential gross floor area. Prior
+     to the issuance of a building permit, the owner/applicant shall agree, by way of a covenant that
+     runs with the land, to provide and maintain in a state of good repair the following applicable
+     transportation demand management and trip reduction measures.
+
+3.   REQUIREMENTS
+     (a)  Development in excess of 25,000 square feet of gross floor area. The owner shall
+          provide a bulletin board, display case, or kiosk (displaying transportation information)
+          where the greatest number of employees are likely to see it. The transportation
+          information displayed should include, but is not limited to, the following:
+          (1)    Current routes and schedules for public transit serving the site;
+          (2)    Telephone numbers for referrals on transportation information including numbers
+                 for the regional ridesharing agency and local transit operations;
+          (3)    Ridesharing promotion material supplied by commuter-oriented organizations;
+          (4)    Regional/local bicycle route and facility information;
+          (5)    A listing of on-site services or facilities which are available for carpoolers,
+                 vanpoolers, bicyclists, and transit riders.
+Attachment K                                                                               Page 2 of 3
+
+       (b)     Development in excess of 50,000 square feet of gross floor area. The owner shall
+               comply with Paragraph (a) above and in addition shall provide:
+               (1)   A designated parking area for employee carpools and vanpools as close as
+                     practical to the main pedestrian entrance(s) of the building(s). This area shall
+                     include at least ten percent of the parking spaces required for the site. The
+                     spaces shall be signed and striped sufficient to meet the employee demand for
+                     such spaces. The carpool/vanpool parking area shall be identified on the
+                     driveway and circulation plan upon application for a building permit;
+               (2)   One permanent, clearly identified (signed and striped) carpool/vanpool parking
+                     space for the first 50,000 to 100,000 square feet of gross floor area and one
+                     additional permanent, clearly identified (signed and striped) carpool/vanpool
+                     parking space for any development over 100,000 square feet of gross floor area;
+               (3)   Parking spaces clearly identified (signed and striped) shall be provided in the
+                     designated carpool/vanpool parking area at any time during the building's
+                     occupancy sufficient to meet employee demand for such spaces. Absent such
+                     demand, parking spaces within the designated carpool/vanpool parking area may
+                     be used by other vehicles;
+               (4)   No signed and striped parking spaces for carpool/vanpool parking shall displace
+                     any handicapped parking;
+               (5)   A statement that preferential carpool/vanpool spaces are available on-site and
+                     a description of the method for obtaining permission to use such spaces shall be
+                     included on the required transportation information board;
+               (6)   A minimum vertical clearance of 7 feet 2 inches shall be provided for all parking
+                     spaces and access ways used by vanpool vehicles when located within a parking
+                     structure;
+               (7)   Bicycle parking shall be provided in conformance with Section 12.21A16 of this
+                     Code.
+
+       c)      Development in excess of 100,000 square feet of gross floor area. The owner shall
+               comply with Paragraphs (a) and (b) above and shall provide:
+               (1)   A safe and convenient area in which carpool/vanpool vehicles may load and
+                     unload passengers other than in their assigned parking area;
+               (2)    Sidewalks or other designated pathways following direct and safe routes from
+                     the external pedestrian circulation system to each building in the development;
+               (3)   If determined necessary by the City to mitigate the project impact, bus stop
+                     improvements shall be provided. The City will consult with the local bus service
+                     providers in determining appropriate improvements. When locating bus stops
+                     and/or planning building entrances, entrances shall be designed to provide safe
+                     and efficient access to nearby transit stations/stops;
+               (4)   Safe and convenient access from the external circulation system to bicycle
+                     parking facilities on-site.
+
+4.     EXCEPTIONS
+       The provisions of this subsection shall not apply to developments for which an application has
+       been deemed complete by the City pursuant to Government Code Section 65943, or for which
+       a Notice of Preparation for a Draft Environmental Impact Report has been
+       circulated or for which plans sufficient for a complete plan check were accepted by the
+       Department of Building and Safety, on or before the effective date of this ordinance
+       (03/31/1993).
+Attachment K                                                                                  Page 3 of 3
+
+5.     MONITORING
+       The Department of Transportation shall be responsible for monitoring the owner/applicant's
+       continual implementation and maintenance of the project trip reduction features required by this
+       ordinance.
+
+6.     ENFORCEMENT
+       Applicants shall execute and record a Covenant and Agreement that the trip reduction features
+       required by this ordinance will be maintained, that required material specified in Subdivision 3
+       (a) (1)-(5) will be continually posted, and that additional carpool/vanpool spaces within the
+       designated preferential area will be signed and striped for the use of ridesharing employees
+       based on demand for such spaces. The Covenant and Agreement shall be acceptable to the
+       Department of Transportation.
+
+7.     HARDSHIP EXEMPTION
+       In cases of extreme hardship, duly established to its satisfaction, the City Council, acting in its
+       legislative capacity, and by resolution, may grant an exemption from any/or all the provisions of
+       this ordinance. In granting such an exemption, the City Council shall make the following
+       findings:
+
+               (a)    Specific features of the development make it infeasible to satisfy all of the
+                      provisions of this subsection; and
+               (b)    The applicant has committed to provide equivalent alternative measures to
+                      reduce vehicle trips.
+ATTACHMENT M
+ATTACHMENT M
+
