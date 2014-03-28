@@ -1,0 +1,122 @@
+#!/usr/bin/perl
+
+$pi = 4 * atan2(1, 1);
+$foot = .00000274;
+
+$stddev = 200;
+
+$bucket = $stddev * 6 * $foot;
+
+sub check {
+	$seq = 0;
+	open(FILE, "gzcat nov11-cleanse-la-county.list.gz |");
+	while (<FILE>) {
+		($user, $date, $time, $where) = split(/ /);
+		($lat, $lon) = split(/,/, $where);
+
+		$seq++;
+		if ($date ne $odate) {
+			print STDERR "$date $seq\n";
+			$odate = $date;
+		}
+
+		$a = int($lat / $bucket);
+		$o = int($lon / $bucket);
+
+		$rat = cos($lat * $pi / 180);
+
+		next if ($possible{$a}{$o} eq "");
+
+		for $i (split(/ /, $possible{$a}{$o})) {
+			$latd = abs($lat - $lat[$i]);
+			$lond = abs($rat * ($lon - $lon[$i]));
+
+			next if ($latd > 3 * $stddev || $lond > 3 * $stddev);
+
+			$d = sqrt($latd * $latd + $lond * $lond) / $foot;
+
+			$m = $stddev;
+			$area = 1/$m * exp(-.5 * ($d / $m) * ($d / $m));
+
+			$found[$i] += $area;
+
+			$latsum[$i] += $lat * $area;
+			$lonsum[$i] += $lon * $area;
+			$latcount[$i] += $area;
+		}
+	}
+
+	for ($i = 0; $i <= $#lat; $i++) {
+		printf("%d ", 1022.31 * exp(log($found[$i]) * 0.913911));
+		printf("%.6f ", $found[$i]);
+
+		print "$lat[$i] $lon[$i] ";
+
+		if ($latcount[$i] == 0) {
+			print "$lat[$i] $lon[$i] ";
+		} else {
+			printf("%.6f %.6f ", $latsum[$i] / $latcount[$i], $lonsum[$i] / $latcount[$i]);
+		}
+
+		print "$rest[$i]\n";
+	}
+}
+
+open(IN, "counts.csv");
+while (<IN>) {
+	chomp;
+
+	next if /#/;
+	next if /^ *$/;
+
+	@fields = split(/,/, $_);
+	($lat, $lon) = ($fields[25], $fields[26]);
+	$count = $fields[17] + $fields[18] + $fields[19] + $fields[20];
+
+	next if $count == 0;
+	next if $lat == 0;
+
+	if ($count > $count{"$lat $lon"}) {
+		$line{"$lat $lon"} = $_;
+		$count{"$lat $lon"} = $count;
+	}
+}
+
+for $z (keys(%line)) {
+	$_ = $line{$z};
+
+	@fields = split(/,/, $_);
+	($lat, $lon) = ($fields[25], $fields[26]);
+	$count = $fields[17] + $fields[18] + $fields[19] + $fields[20];
+
+	push @lat, $lat;
+	push @lon, $lon;
+	push @rest, "$count $_";
+
+	$a = int($lat / $bucket);
+	$o = int($lon / $bucket);
+
+	for ($aa = $a - 1; $aa <= $a + 1; $aa++) {
+		for ($oo = $o - 1; $oo <= $o + 1; $oo++) {
+			$possible{$aa}{$oo} .= "$#lat ";
+		}
+	}
+
+	if ($#lat >= 500000) {
+		check();
+
+		@lat = ();
+		@lon = ();
+		@rest = ();
+		@found = ();
+
+		@latsum = ();
+		@lonsum = ();
+		@latcount = ();
+
+		%possible = ();
+	}
+}
+close(IN);
+
+check();
