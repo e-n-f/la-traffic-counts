@@ -47,7 +47,7 @@ sub check {
 	}
 
 	for ($i = 0; $i <= $#lat; $i++) {
-		printf("%d ", 266.122 * exp(log($found[$i]) * 1));
+		printf("%d ", 276.663 * exp(log($found[$i]) * 1));
 		printf("%.6f ", $found[$i]);
 
 		print "$lat[$i] $lon[$i] ";
@@ -62,7 +62,7 @@ sub check {
 	}
 }
 
-open(IN, "counts.csv");
+open(IN, "./guess-3leg counts.csv |");
 while (<IN>) {
 	chomp;
 
