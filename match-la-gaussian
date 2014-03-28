@@ -47,7 +47,7 @@ sub check {
 	}
 
 	for ($i = 0; $i <= $#lat; $i++) {
-		printf("%d ", 1022.31 * exp(log($found[$i]) * 0.913911));
+		printf("%d ", 266.122 * exp(log($found[$i]) * 1));
 		printf("%.6f ", $found[$i]);
 
 		print "$lat[$i] $lon[$i] ";
