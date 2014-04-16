@@ -164,7 +164,7 @@ while (<>) {
 
 	$out = $_;
 
-	if ($id =~ /^oak/) {
+	if ($id =~ /^oak/ || $id =~ /^dowd/) {
 		# wrong county!
 		$where = ",";
 	} else {
