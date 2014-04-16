@@ -1,0 +1,2196 @@
+APPENDIX D   Traffic Study
+                        DRAFT
+
+                 TRAFFIC STUDY
+                       FOR THE
+CENTRAL REGION MACARTHUR PARK
+   ELEMENTARY SCHOOL ADDITION
+
+       LOS ANGELES, CALIFORNIA
+
+                        MAY 2008
+
+
+
+
+                      PREPARED FOR
+
+                   TETRA TECH
+
+                       PREPARED BY
+               DRAFT
+
+         TRAFFIC STUDY
+            FOR THE
+CENTRAL REGION MACARTHUR PARK
+  ELEMENTARY SCHOOL ADDITION
+
+    LOS ANGELES, CALIFORNIA
+
+
+
+
+              May 2008
+
+
+
+
+             Prepared for:
+
+            TETRA TECH
+
+
+             Prepared by:
+
+ FEHR & PEERS/KAKU ASSOCIATES
+ 201 Santa Monica Boulevard, Suite 500
+     Santa Monica, California 90401
+            (310) 458-9916
+
+           Ref: LA08-2246
+                                           TABLE OF CONTENTS
+
+
+
+I.     Introduction ................................................................................................................   1
+              Project Description ............................................................................................         1
+              Study Scope ......................................................................................................       2
+              Organization of Report ......................................................................................            5
+
+II.    Existing Conditions ........................................................................................................    6
+               Streets and Highways........................................................................................            6
+               Existing Traffic Volumes and Levels of Service.................................................                         7
+
+III.   Future Traffic Projections...............................................................................................       12
+              Future Traffic Projections...................................................................................            12
+              Project Traffic Volumes .....................................................................................            13
+              Future Plus Project Traffic Projections ..............................................................                   20
+
+IV.    Traffic Impact Analysis ..................................................................................................      24
+                Intersection Significant Impact Criteria ..............................................................                24
+                Future Base Traffic Conditions ..........................................................................              24
+                Future Plus Project Traffic Analysis...................................................................                26
+                Proposed Mitigation Measures ..........................................................................                26
+
+V.     Traffic Signal Warrant and Pedestrian Warrant Analysis...............................................                           27
+               Traffic Signal Warrant Analysis..........................................................................               27
+               Pedestrian Warrant Analysis (School Crossing)................................................                           27
+               Recommended Pedestrian Routes....................................................................                       29
+
+VI.    Regional Transportation System Impact Analysis .........................................................                        31
+             CMP Freeway Analysis .....................................................................................                31
+             CMP Arterial Intersection Analysis ....................................................................                   31
+             Regional Transit Impact Analysis ......................................................................                   32
+
+VII.   Summary and Conclusions............................................................................................ 34
+
+References
+
+
+Appendix D1:        Intersection Lane Configurations
+Appendix D2:        Traffic Counts
+Appendix D3:       Level of Service Worksheets
+Appendix D4:       Traffic Signal Warrant and Pedestrian Crossing Warrant Analysis
+                                             LIST OF FIGURES
+
+
+NO.
+
+1     Study Area and Location of Analyzed Intersections ..................................................                            3
+2     Site Plan ..................................................................................................................    4
+3     Existing AM Peak Hour Traffic Volumes....................................................................                       8
+4     Location of Related Projects .....................................................................................             16
+5     Future Base AM Peak Hour Traffic Volumes ..............................................................                        17
+6     Project Trip Distribution .................................................................................................    21
+7     Project Only AM Peak Hour Traffic Volumes.................................................................                     22
+8     Future Plus Project AM Peak Hour Traffic Volumes......................................................                         23
+9     LADOT Pedestrian Routes for MacArthur Park Primary Center....................................                                  30
+
+
+                                              LIST OF TABLES
+
+
+
+NO.
+
+1     Level of Service Definitions for Signalized Intersections ...........................................                           9
+2     Intersection Level of Service Analysis ­ Existing Conditions .....................................                             11
+3     Related Projects Trip Generation..............................................................................                 14
+4     Trip Generation Estimates.............................................................................................         19
+5     Intersection Level of Service Analysis ­ Future (2012) Conditions ...............................                              25
+                                       I. INTRODUCTION
+
+
+
+
+Fehr & Peers/Kaku Associates evaluated the potential traffic impacts and pedestrian circulation
+needs of the proposed Los Angeles Unified School District (LAUSD) Central Region MacArthur
+Park Elementary School Addition (project) in the City of Los Angeles. The project site is bounded
+by West 7th Street to the north, South Grand View Street to the east, West 8th Street to the south,
+and South Park View Street to the West. This study is designed to be an integral element of an
+environmental impact report (EIR) being prepared to evaluate the overall effects of this project. It
+includes a description of the assumptions and methods used to conduct the study as well as a
+discussion of the results.
+
+
+
+
+PROJECT DESCRIPTION
+
+
+The project site, located at 2300 West 7th Street in the City of Los Angeles, will be developed
+partially on the existing MacArthur Park Primary Center campus and partially on adjacent land that
+will be acquired. Approximately 35,000 square feet (sf) of new space will be added to the existing
+15,000 sf, for a total of 50,000 sf. Classrooms, a multi-purpose building, library, food services
+building with a lunch shelter, playfield, and an underground parking structure will be built. The
+multi-purpose building will be one story in height and will be built above the one-story
+underground parking garage. Minor changes to the existing campus will be made.
+
+
+The expanded school will serve kindergarten through fifth grades, and is scheduled to open in the
+third quarter of 2012. The school will be on a two semester calendar and will be open during
+normal business hours (8 am to 5 pm), with potential evening civic center uses. The existing
+MacArthur Park Primary Center is supported by 25 full and part-time staff members.            Upon
+completion, the new school will be supported by 50 full and part-time staff members. The project
+will add 400 new seats to the existing 250-seat campus, for a total of 650 seats. The project will
+add 16 new classrooms to the existing 10 classrooms, for a total of 26 classrooms. The existing
+surface level parking lot will be demolished and relocated to an underground structure that will
+provide 59 total spaces, resulting in 25 net new spaces. The entrance to the parking structure will
+
+
+
+                                                 1
+be located off of South Grand View Street. A 60-foot bus drop-off zone will also be developed on
+Grand View Street. Figure 1 illustrates the location of the project in relation to the surrounding
+street system and Figure 2 illustrates the general site layout and driveway locations.
+
+
+
+
+STUDY SCOPE
+
+
+The scope of analysis for this study was developed in consultation with staffs of both the Los
+Angeles Department of Transportation (LADOT) and LAUSD. The base assumptions, technical
+methodologies, and study area were identified as part of the study approach. The traffic impact
+study to evaluate the potential for impacts caused by the project includes an analysis of the
+following traffic scenarios:
+
+    ·    Existing Conditions ­ The analysis of existing traffic conditions is intended to provide a
+         basis for the study. The existing conditions analysis includes an assessment of streets,
+         traffic volumes and operating conditions.
+
+    ·    Future Base (2012) Conditions ­ Future traffic conditions are projected for the year 2012
+         without the proposed project. The year 2012 is the projected year that the proposed
+         elementary school is anticipated to open. The objective of this analysis is to forecast the
+         future traffic growth and intersection operating conditions expected to result from general
+         regional growth and specific related projects developed in the vicinity of the project site by
+         the year 2012. This scenario is used as the baseline against which potential project traffic
+         impacts are evaluated.
+
+   ·     Future (2012) plus Project ­ This is an analysis of future traffic conditions with traffic
+         expected to be generated by the proposed project added to the year 2012 future base
+         traffic forecasts. The incremental impacts of the proposed project on future traffic
+         operating conditions can then be identified.
+
+
+The study area for this analysis includes the following intersections on the perimeter of the site:
+
+
+    1.   South Park View Street and West 7th Street
+    2.   South Park View Street and West 8th Street
+    3.   South Grand View Street and West 7th Street
+    4.   South Grand View Street and West 8th Street
+
+
+The intersections to be analyzed, illustrated in Figure 1, were determined by LADOT staff as
+part of the development of the Memorandum of Understanding (MOU) for the project. This
+report conforms to the assumptions agreed to in the MOU and is in accordance with the
+
+
+
+                                                   2
+June 24, 2005 Memorandum of Cooperation (MOC) between LADOT and LAUSD. Use of trip
+generation rates, methodologies, and other standards in the MOC document provides for
+consistency of traffic studies for LAUSD new school projects throughout the City.   In accordance
+with the MOC, traffic impacts were evaluated in the study for the a.m. peak hour.
+
+
+Per LADOT's request, a traffic signal warrant and a pedestrian crossing warrant analyses were
+conducted for the intersection of South Grand View Street and West 7th Street.
+
+
+
+
+ORGANIZATION OF REPORT
+
+
+This report is divided into seven chapters, including this introduction. Chapter II presents an
+analysis of the existing street system and traffic conditions for each of the intersections in the
+study area.   Forecasts of future traffic including project-generated traffic are presented in
+Chapter III. Potential impacts of the project on the study intersections are discussed in Chapter
+IV.   Chapter V provides traffic signal warrant analysis and a pedestrian crossing warrant
+analysis.   Chapter VI includes a Congestion Management Program analysis.              Finally, a
+summary of the analyses and study conclusions makes up Chapter VII. Appendices to this report
+include details of the technical analysis and supporting calculation worksheets.
+
+
+
+
+                                                 5
+                                   II. EXISTING CONDITIONS
+
+
+
+
+A comprehensive data collection effort was undertaken to develop a detailed description of
+existing conditions in the study area. The assessment of conditions relevant to this study includes
+land use, an inventory of the local street system, traffic volumes on these facilities, and operating
+conditions at key intersections.
+
+
+
+
+STREETS AND HIGHWAYS
+
+
+The study area for this analysis is bounded by West 7th Street to the north, South Grand View
+Street to the east, West 8th Street to the south, and South Park View Street to the west. Primary
+regional access to the area is provided by the Harbor Freeway (I-110), which runs in a north-
+south direction approximately one mile east of the project site, the Hollywood Freeway (US-
+101), which runs in a northwest-southeast direction approximately one-and-one-quarter mile
+north of the project site, and the Santa Monica Freeway (I-10), which runs in an east-west
+direction approximately one-and-one-half-miles south of the project site. Primary local access is
+provided by West 7th Street, West 8th Street, South Park View Street, and South Grand View
+Street. The following describes the key streets serving the project site:
+
+
+   ·   West 7th Street ­ West 7th Street, which runs in the east-west direction adjacent to and
+       north of the project site, is classified as a secondary arterial. Four through lanes and one
+       left-turn lane are provided. On-street parking is restricted for the segment adjacent to the
+       project site. One-hour metered parking is available east of the project site. The posted
+       speed limit is 35 miles per hour (mph).
+
+   ·   West 8th Street ­ West 8th Street, which runs in the east-west direction south of the
+       project site, is classified as a secondary arterial. Four through lanes and two left-turn
+       lanes are provided at the intersection with South Park View Street. Four through lanes
+       with shared left-turns are provided at the intersection with South Grand View Street. On-
+       street one-hour metered parking is available in select areas, except during peak traffic
+       hours. The posted speed limit is 35 mph.
+
+   ·   South Park View Street ­ South Park View Street, which runs in the north-south direction
+       adjacent to and west of the project site, is classified as a local roadway. On-street one-
+       hour metered parking is generally available along the east curb and part of the west
+
+
+                                                 6
+       curb. The exceptions for the east curb are a street cleaning restriction on Fridays from
+       12 p.m. to 3 p.m., and 15-minute parking 7 a.m. to 5 p.m. on school days for the
+       segment of the curb adjacent to the school. The exception for the west curb is a street
+       cleaning restriction on Thursdays from 12 p.m. to 3 p.m.
+
+   ·   South Grand View Street ­ South Grand View Street, which runs in the north-south
+       direction adjacent to and east of the project site, is classified as a local roadway. On-
+       street one-hour metered parking is available on the east curb except for a street cleaning
+       restriction on Thursdays from 12 p.m. to 3 p.m. 15-minute parking is available on the
+       west curb from 7 a.m. to 5 p.m. on school days, except for a street cleaning restriction
+       on Fridays from 12 p.m. to 3 p.m. A 50-foot segment of the west curb directly in front of
+       the school's main entrance is reserved for school bus pick-up and drop-off from 7 a.m. to
+       5 p.m. on school days.
+
+Diagrams of the existing lane configurations at the analyzed intersections are shown in
+Appendix D1.
+
+
+
+
+EXISTING TRAFFIC VOLUMES AND LEVELS OF SERVICE
+
+
+The following sections present the existing peak hour traffic volumes at the study intersections, a
+description of the methodology used to analyze the intersection traffic conditions, and the resulting
+level of service (LOS) at each of the study intersections under existing conditions.
+
+
+
+
+Existing Traffic Volumes
+
+
+Weekday morning peak hour traffic counts were conducted at the four analyzed intersections on
+April 15, 2008 when the existing MacArthur Park Primary Center was in session.             Figure 3
+illustrates the existing turning movement traffic volumes. Appendix D2 contains the detailed traffic
+count data.
+
+
+
+
+Level of Service Methodology
+
+
+LOS is a qualitative measure used to describe the condition of traffic flow, ranging from
+excellent conditions at LOS A to overloaded conditions at LOS F. LOS D is typically considered
+to be the minimum acceptable LOS in urban areas. One of the four analyzed intersections in this
+
+
+
+
+                                                  7
+                                  TABLE 1
+        LEVEL OF SERVICE DEFINITIONS FOR SIGNALIZED INTERSECTIONS
+
+
+LEVEL OF VOLUME/CAPACITY
+SERVICE     RATIO (V/C)                               DEFINITION
+
+
+    A             < 0.600         EXCELLENT. No vehicle waits longer than one red
+                                     light, and no approach phase is fully used.
+
+                                    VERY GOOD. An occasional approach phase is
+    B         > 0.600 < 0.700      fully utilized; many drivers begin to feel somewhat
+                                            restricted within groups of vehicles.
+
+                                     GOOD. Occasionally drivers may have to wait
+    C         > 0.700 < 0.800        through more than one red light; backups may
+                                            develop behind turning vehicles.
+
+
+                                   FAIR. Delays may be substantial during portions
+    D         > 0.800 < 0.900     of the rush hours, but enough lower volume periods
+                                       occur to permit clearing of developing lines,
+                                             preventing excessive backups.
+
+
+                                   POOR. Represents the most vehicles intersection
+    E         > 0.900 < 1.000      approaches can accommodate; may be long lines
+                                    of waiting vehicles through several signal cycles.
+
+
+                                    FAILURE. Backups from nearby locations or on
+                                   cross streets may restrict or prevent movement of
+    F             > 1.000             vehicles out of the intersection approaches.
+                                    Tremendous delays with continuously increasing
+                                                     queue lengths.
+
+SOURCE: Transportation Research Circular No. 212, Interim Materials on
+        Highway Capacity, Transportation Research Board, 1980.
+study (Park View Street and 8th Street) is traffic signal controlled.       Table 1 provides LOS
+definitions for signalized intersections.
+
+
+LADOT requires that the Critical Movement Analysis (CMA) method (Transportation Research
+Circular No. 212, Interim Materials on Highway Capacity, Transportation Research Board, 1980)
+of intersection capacity analysis be used to determine the intersection volume-to-capacity (V/C)
+ratio and corresponding LOS for the given turning movements and intersection characteristics at
+signalized intersections.
+
+
+The signalized intersection in this study is controlled by the City of Los Angeles' Automated Traffic
+Surveillance and Control (ATSAC) system. This system allows for real time surveillance and
+adjustments at the intersection level to increase intersection capacity.      Per standard LADOT
+procedures, a capacity increase of 7% (0.07 V/C ratio adjustment) was applied to reflect the
+benefits of ATSAC.
+
+
+Three of the four study intersections are not signalized. These intersections were analyzed
+using the CMA method. Based on direction from LADOT, to reflect the reduced capacity of an
+unsignalized intersection, the total intersection capacity was reduced from 1,500 vehicles per
+lane per hour (common for a two-phase signalized intersection) to 1,200 vehicles per lane per
+hour.
+
+
+
+
+Existing Peak Hour Levels of Service
+
+
+The existing weekday morning peak hour turning movements presented in Figure 3 were used in
+conjunction with the LOS methodologies described above to determine existing operating
+conditions at each study intersection. LOS calculation worksheets are included in Appendix D3.
+Table 2 summarizes the a.m. peak hour V/C ratios and corresponding LOS at each study
+intersection.   The results of this analysis indicate all four study intersections are currently
+operating at LOS A during the morning peak hour.
+
+
+
+
+                                                 10
+                                 TABLE 2
+                 INTERSECTION LEVEL OF SERVICE ANALYSIS
+                          EXISTING CONDITIONS
+
+
+                                                          Peak          Existing
+                    Intersection
+                                                          Hour         V/C     LOS
+      1. S Parkview St & W 7th St [a]                       A.M.       0.298       A
+ *    2. S Parkview St & W 8th St                           A.M.       0.193       A
+      3. S Grandview St & W 7th St [a]                      A.M.       0.338       A
+      4. S Grandview St & W 8th St [a]                      A.M.       0.336       A
+Notes:
+[a] Intersection is controlled by stop signs. Stop-controlled intersection analysis was
+    performed using the CMA methodology and a reduced capacity of 1,200 vehicles
+    per hour per lane.
+ * Intersection is currently operating under ATSAC system.
+                              III. FUTURE TRAFFIC PROJECTIONS
+
+
+
+
+In order to evaluate properly the potential impact of the project on the local street system, it was
+necessary to develop estimates of future traffic conditions in the area both with and without the
+project. Future traffic volumes were first estimated for the study area without the project. These
+future forecasts reflect traffic increases due to general regional growth and traffic expected to be
+generated by other future developments in the vicinity of the project and represent future base
+conditions. Project traffic was added to the future base to represent future plus project conditions.
+
+
+
+
+FUTURE BASE TRAFFIC PROJECTIONS
+
+
+The future base traffic projections reflect anticipated future traffic increases that can be expected
+from two sources. The first is the ambient growth in traffic, which reflects general increases in
+traffic due to regional growth and development. The second source is traffic generated by specific
+future projects located within, or in the vicinity of, the study area. The methods and assumptions
+used to develop the future base traffic projections are described below.
+
+
+
+
+Areawide Traffic Growth
+
+
+Existing traffic is expected to increase between the year 2008 and the year 2012 as a result of
+general areawide and regional growth and development. LADOT has determined that an ambient
+growth factor of 1% per year should be used to adjust the existing year 2008 traffic volumes to
+reflect the effects of regional growth and development in the project vicinity by the year 2012.
+
+
+
+
+Related Projects Trip Generation and Assignment
+
+The second factor used in the development of the future base traffic forecasts is the effect of
+specific known projects in the vicinity of the project. Information on proposed or recently approved
+
+
+
+                                                 12
+developments within a two-mile radius of the study intersections were obtained from LADOT. A
+review of these lists indicated that 88 projects have been proposed or approved in the study area.
+These projects are described in Table 3 and their locations are illustrated in Figure 4.
+
+
+Trip Generation. Projected weekday a.m. peak hour trip generation for the related projects was
+provided by LADOT. In/out split data from Trip Generation, 7th Edition (Institute of Transportation
+Engineers, 2003) was used to split the total peak hour trips obtained from LADOT for each project
+into inbound and outbound trips. As indicated in Table 3, the 88 related projects are expected to
+generate a combined total of approximately 11,195 trips during the weekday a.m. peak hour.
+
+
+Trip Distribution and Assignment. Traffic expected to be generated by the related projects was
+assigned to the street network using the trip generation estimates and trip distribution patterns
+dependent on the type and density of the proposed land use, the geographic distribution of
+population from which the employees and potential patrons of the proposed commercial projects
+could be drawn, the geographic distribution of employment and activity centers to which residents
+of the proposed residential projects could be attracted, and the location of the projects in relation
+to the surrounding street system. These related project-only traffic volumes were added to the
+existing traffic volumes, after the adjustment for areawide growth, to represent future base
+conditions (i.e., future conditions without the proposed project). Figure 5 illustrates the future
+base traffic volumes for 2012.
+
+
+
+
+PROJECT TRAFFIC VOLUMES
+
+
+Development of future traffic forecasts for the project used a three-step process similar to the
+process described for the related projects. The process estimated the project's trip generation,
+trip distribution, and traffic assignment.
+
+
+
+
+Project Trip Generation
+
+
+Trip generation estimates for the proposed project were prepared following the rates provided in
+the June 24, 2005 MOC between LADOT and LAUSD. The rates are based on empirical data
+of existing schools in LAUSD's jurisdiction, and relate the number of trips generated by school
+
+
+
+                                                 13
+                                                                                                        TABLE 3
+                                                                                            RELATED PROJECTS TRIP GENERATION
+Map                                                                                                                                                                                                         AM Peak Hour
+                            Project Name                                                                                    Project Description                                                                                Source
+No.                                                                                                                                                                                                      In     Out    Total
+ 1    Auto Sales                                                Construct 25,880 sf auto sales and parking lot                                                                                          36       12      48      [1]
+ 2    L.A. Trade Tech College                                   5 Year Master Plan Project                                                                                                              343     120     463      [1]
+ 3    Mixed-Use                                                 Construct 444 apartment units and 30,650 sf retail                                                                                      11       34      45      [1]
+ 4    Mixed-Use                                                 Construct 12,500 sf retail and 210 dwelling units                                                                                       21      100     121      [1]
+ 5    Apartments                                                Construct 300 apartment units                                                                                                           31      122     153      [1]
+ 6    Mixed-Use                                                 Construct 110 apartment units and 10,000 sf retail                                                                                      31      123     154      [1]
+ 7    Mixed-Use                                                 Construct 600 apartment units and 30,000 sf retail                                                                                      36       76     112      [1]
+ 8    Mixed-Use                                                 Construct 417 condo units and 15,000 sf retail                                                                                          36      110     146      [1]
+ 9    Medical Office and Apartments                             Construct 27,720 sf medical office and 21 apartment units                                                                               55       23      78      [1]
+10    Quality Restaurant & Bar                                  Construct 8,891 sf quality restaurant and 7,668 sf bar                                                                                    0      0        0      [1]
+11    Shopping Center                                           Construct 21,648 sf shopping center                                                                                                     13       9       22      [1]
+12    Private School (built as of 7/13/05)                      Construct 480-seat private school                                                                                                       270     172     442      [1]
+13    Central L.A. Middle School #3                             Construct 789-student middle school                                                                                                     57       46     103      [1]
+14    Mixed-Use                                                 Construct 204 DU & 5,000 sf retail                                                                                                      26      106     132      [1]
+15    Mixed-Use                                                 Construct 49,900 sf retail & 240 apartments                                                                                             14       31      45      [1]
+16    Restaurant                                                Construct 8,908 sf restaurant                                                                                                             4      3        7      [1]
+17    Gratts Primary Center & Early Education Center            Construct 380-student school                                                                                                            83       73     156      [1]
+18    Condos and Retail                                         Construct 87 condo units and 70,231 sf retail                                                                                           45       34      79      [1]
+19    Lorenzo Residential Development                           Construct 600 residential units & 20,000 sf retail                                                                                      51      183     234      [1]
+20    Condos and Retail                                         Construct 70 condo units and 8,558 sf retail                                                                                            19       21      40      [1]
+21    Apartments                                                Construct 91 apartment units                                                                                                              9      37      46      [1]
+22    Mixed-Use                                                 Construct 200 apartment unitsand 5,000 sf retail                                                                                        22       76      98      [1]
+23    Condos                                                    Construct 311 condo units                                                                                                               23      114     137      [1]
+24    Mixed-Use                                                 Construct 156 apartments and 7,500 sf retail                                                                                              0      0        0      [1]
+25    LAUSD - Central L.A. High School #12                      Construct 500-student high school                                                                                                       72       59     130      [1]
+26    Mixed-Use                                                 Construct 128 condo units, 3,472 sf retail, 2,200 sf other                                                                              10       31      41      [1]
+27    Mixed-Use                                                 Construct 17-story mixed-use building: 105 condo units and 4,500 sf retail                                                              12       39      51      [1]
+                                                                Expand existing 14,680 sf private school with 350 students (100 additional students): 11,260 sf clasroom building, 11,350 sf gym, 192
+28    Private Elementary School Expansion                                                                                                                                                               45      37      82
+                                                                parking spaces.                                                                                                                                                  [1]
+29    Medical Office Addition                                   Construct 3-story 24,075 sf addition to existing 5-story 109,840 sf medical building                                                    43       17     60       [1]
+30    Supermarket and Retail                                    Renovate existing fast food rest. w/ drive-thru & construct 17,000 sf supermarket and 4,200 sf retail space on vacant 38,000 sf site    37       23     60       [1]
+31    Mixed-Use                                                 Construct 629 condo units and 27,000 sf retail                                                                                          48      135     183      [1]
+32    Mixed-Use                                                 Construct 60 condo units & 6,000 sf retail                                                                                               8       21     29       [1]
+33    LAUSD - Central L.A. Elementary School #14                Construct 875-student elementary school (nwc of intersection)                                                                           152     125     277      [1]
+34    Metropolis Mixed-Use                                      Construct 836 condo units, 988,255 sf office, 480 hotel rooms, 46,000 sf retail                                                         141     484     625      [1]
+35    LAUSD - Central L.A. Elementary School #5                 Construct 575 student K-5 elementary year-round school                                                                                  108      88     196      [1]
+36    Mixed-Use                                                 Construct 378 condo units and 8,000 sf other                                                                                            33      164     197      [1]
+37    Mixed-Use (Herald Examiner)                               Construct 20 apartment units, 32,670 sf office, 37,600 sf retail, 565 condo units                                                        0      346     346      [1]
+38    Mixed-Use                                                 Construct mixed-use project                                                                                                             32       21     53       [1]
+39    8th & Grand Mixed-Use Project                             Construct 875 condo units, 34,061 sf retail, 10,000 sf restaurant                                                                       66      191     257      [1]
+40    Restaurant, Retail, and Health Club (101-131 E. 6th St)   Construct 5 separate establishments including a 11,018 sf restaurant, 8,927 sf retail, and 5,066 sf health club in the same building     5       19     24       [1]
+41    Mixed-Use                                                 Construct 363 apartment units and 7,740 sf retail                                                                                       26       87     113      [1]
+42    Mixed-Use                                                 Construct 13,921 sf restaurant, 726 sf retail, 726 sf pool/lounge/event center                                                          11       11     22       [1]
+43    Mixed-Use                                                 Construct 118 condo units and 3,000 sf retail space                                                                                     13       44     57       [1]
+44    Condos                                                    Construct 160 condo units                                                                                                                9       44     53       [1]
+45    Mixed-Use                                                 Construct 190-live/work condo units and 5,540 sf retail space                                                                           20       70     90       [1]
+46    Mixed-Use                                                 Construct 402 condo units and 4,728 sf retail space                                                                                     25       88     113      [1]
+47    Mixed-Use                                                 Construct 130 condo units and 7,037 sf retail                                                                                           12       32     44       [1]
+48    Mixed-Use (project formerly only 80 apartments)           Construct 130 condo units and 7,037 sf retail                                                                                           16       48     64       [1]
+49    Grand Avenue Implementation Plan (Mixed-Use)              Construct 1,648 condo units, 412 apartment units, 449,000 sf retail, 275 hotel rooms, 68,000 sf county office                           321    1,005   1,326     [1]
+                                                                                                                      TABLE 3
+                                                                                                          RELATED PROJECTS TRIP GENERATION
+Map                                                                                                                                                                                                                        AM Peak Hour
+                                Project Name                                                                                               Project Description                                                                                 Source
+No.                                                                                                                                                                                                                   In       Out    Total
+ 50    Shopping Center                                                    Construct 109,006 sf shopping center                                                                                                        52        33     85        [1]
+ 51    Mixed-Use                                                          Construct 14,000 sf mixed-use: 464 condo units and 25,000 sf retail                                                                         28        82     110       [1]
+ 52    FIDM Campus Expansion                                              Construct 95,700 sf school expansion and 112 apartment units                                                                                11        46     57        [1]
+ 53    Mixed-use                                                          Construct 600 apartment units and 30,000 sf retail                                                                                          55       157     212       [1]
+ 54    Condos                                                             Construct 38 condo units                                                                                                                     4        4       8        [1]
+                                                                          Construct 242 condo units, 25,700 sf health club, 26,600 sf restaurant, 4,200 sf high-turnover restaurant, 9,700 sf nightclub, 13,600 sf
+ 55    Mixed-Use                                                                                                                                                                                                      22        45     67
+                                                                          office, 4,400 sf retail                                                                                                                                                [1]
+ 56    Mixed-Use                                                          Construct 420 condo units and 40 ksf retail                                                                                                 46       100     146       [1]
+ 57    Mixed-Use                                                          Construct 210 condo units and 9 ksf retail                                                                                                  13        49     62        [1]
+ 58    Condos                                                             Construct 39 condo units                                                                                                                     2        10     12        [1]
+ 59    Bunker Hill Mixed-Use                                              Construct 272 condo units, 6,431 sf retail, 8,000 sf restaurant                                                                             25        87     112       [1]
+ 60    Zen Mixed-Use Project                                              Construct 330 condo units, 2.8 ksf retail, 9.2 ksf restaurant & 56.2 ksf health club                                                        55       103     158       [1]
+ 61    2 Hi-Rise Condo Bldgs                                              Construct 622 condo units                                                                                                                   31       149     180       [1]
+ 62    2 Hi-Rise Condo Bldgs                                              Construct 622 condo units                                                                                                                   31       149     180       [1]
+ 63    Flower & 23rd Mixed-Use (w/s of Flower s/o 23rd)                   Construct 1500 apartment units and 40,000 sf retail                                                                                         16        55     71        [1]
+ 64    Flower & 23rd Mixed-Use (e/s of Flower s/o 23rd)                   Construct 1500 apartment units and 40,000 sf retail                                                                                         16        55     71        [1]
+ 65    Witmer Project                                                     Construct 186 condo units and 6,200 sf retail                                                                                                5         8      13       [1]
+ 66    Condos and Retail (VTT67122)                                       Convert light manufacturing, office, and retail 8,539 sf building to 96 condo units & 7,800 sf retail                                       15        27      42       [1]
+ 67    HK Town Project                                                    Construct 40,800 sf shopping center, 48,000 sf supermarket, 187 apartment units                                                             74        80     154       [1]
+ 68    Mixed-Use                                                          Construct 159 condo units and 6,827 sf restaurant                                                                                            9        42      51       [1]
+ 69    Mixed-Use                                                          Construct 247 condo units and 10,675 sf retail                                                                                              31       101     132       [1]
+ 70    Mixed-Use Residential and Retail                                   Construct 108 condo units and 3,450 sf retail                                                                                               10        42      52       [1]
+ 71    Mixed-Use Residential, Retail and Restaurant                       Construct 351 condo units, 12,500 sf retail and 12,500 sf restaurant                                                                        54       161     215       [1]
+ 72    Mixed-Use Residential, Hotel, Retail and Restaurant                Construct 225 condo units, 200 hotel rooms, 30,000 sf retail, 32,000 sf restaurant                                                          54       140     194       [1]
+ 73    Mixed-Use Residential and Retail                                   Construct 172 condo units and 6,850 sf retail                                                                                               -2        -3      -5       [1]
+ 74    Medical Office and Retail                                          Construct 46,771 sf medical office and 5,570 sf retail                                                                                      96        26     122       [1]
+                                                                          Demo existing 2,044 sf service station building w/ mini-market and reconstruct 2,046 sf gas station (8 VFP) w/ canopy, mini-market and
+ 75     Gas Station with Mini-Market                                                                                                                                                                                  12        28     40
+                                                                          25 parking spaces                                                                                                                                                      [1]
+ 76     Mixed-Use Hotel, Residential, Retail and Restaurant               Construct 80 hotel rooms, 112-unit condo hotel, 165 condo units, 7,500 sf retail, 13,000 sf restaurant                                      28       135     163       [1]
+ 77    MacArthur Park & Alvarado Metro Project                            Construct Phase 1 - 90 apartment units and 15,500 sf retail; Phase 2 - 82 apartment units and 17,300 sf retail                              32        58     90        [1]
+ 78    Mixed-Use                                                          Construct 374 condo units, 17,500 sf retail                                                                                                 44       139     183       [1]
+ 79    Park Fifth Project                                                 Construct 900 condo units, 19,000 sf retail and 19,200 sf restaurants                                                                       75       221     296       [1]
+ 80    Condos                                                             Construct 46 condo units                                                                                                                     3        17     20        [1]
+ 81    Mixed-Use                                                          Construct 224 condo units and 7,000 sf retail                                                                                               24        95     119       [1]
+ 82    Mixed-Use                                                          Construct 32 apartment units and 5,870 sf retail                                                                                             6        11     17        [1]
+ 83    Apartments                                                         Construct 145 apartment units                                                                                                               15        59     74        [1]
+ 84    Apartments                                                         Construct 150 apartment units                                                                                                               12        47     59        [1]
+ 85    Almond Tree Village                                                Construct 147 condo units, 261 apartment units (senior housing), 20,000 sf retail                                                           22        48     70        [1]
+ 86    Condos and Retail                                                  Demo existing 1,435 sf office and construct 32 condo units and 4,500 sf retail                                                               3        14     17        [1]
+ 87    Center Land                                                        Construct 96 high-rise condo units, 122 hotel rooms, 10,000 sf restaurant/retail, 1,000 sf spa, 3,500 sf drinking place                     69        85     154       [1]
+ 88    Affordable apartments                                              Construct 75 affordable housing units                                                                                                        8        30     38        [1]
+
+                                                                          Total [2]                                                                                                                                  3,604    7,591   11,195
+Notes:
+    1. Total peak hour trips obtained from LADOT related projects trip database. Peak hour trip distribution based on the Trip Generation, 7th Edition , Institute of Transportation Engineers, 2003.
+    2. Total peak hour trips for related projects within a 2-mile radius of the project study area.
+faculty, students, and visitors is based on the number of student seats.         As described, the
+proposed project would provide 650 total seats for grades Kindergarten through 5, an increase of
+400 seats over the existing 250-seat school on the campus. The trip generation rates for a
+Central Region elementary school, as specified in the MOC, were applied to the increased
+number of students. The resulting trip estimates are 136 a.m. peak trips, or 76 inbound and 60
+outbound trips.
+
+
+A trip generation credit was taken for the existing land uses to be acquired and removed as part of
+the project. Application of the trip generation rates, as specified in Trip Generation, 7th Edition,
+Institute of Transportation Engineers 2003, indicates that the elimination of a 30,000 sf medical
+office building would result in a trip reduction of 74 a.m. peak trips, or 48 inbound and 26
+outbound trips during the a.m. peak hour.
+
+
+To be conservative, no credit was taken for the artist studio building given the low level of current
+activity. Per LAUSD, current activities include two small offices, occasional off-peak and weekend
+art showings, and occasional filming.
+
+
+As indicated in Table 4, the project is estimated to generate a net increase of approximately 62
+trips (28 inbound, 34 outbound) during the a.m. peak hour.
+
+
+
+
+Project Trip Distribution
+
+
+The geographic distribution of project-generated traffic is based on the density and the
+geographical dispersion of the population for the school's area of influence. The attendance area
+for the school would be generally south of Wilshire Boulevard, west of Alvarado Street, north of
+Olympic Boulevard, and east of Hoover Street. Based on this information, the following trip
+distribution pattern was developed and is illustrated in Figure 6:
+
+
+           ·      North ­ 15%
+           ·      East ­ 15%
+           ·      South ­ 35%
+           ·      West ­ 35%
+
+
+
+
+                                                  18
+                                             TABLE 4
+                                    TRIP GENERATION ESTIMATES
+                    CENTRAL REGION MACARTHUR PARK ELEMENTARY SCHOOL ADDITION
+
+                                                                               Trip Generation Rates Estimated Trips
+                    Land Use                                 Size            ITE      A.M. Peak Hour A.M. Peak Hour
+                                                                            Code Rate % In % Out In Out Total
+
+Proposed Project
+Elementary School Addition
+  Central Region                                         400 seats            [a]    0.34   56%     44%    76     60   136
+Total New Uses                                                                                             76     60   136
+
+Existing Land Uses to be Removed
+Medical Office Building [b]                             -30.0 ksf            720     2.48   65%     35%    (48) (26) (74)
+Artist Studio Building [c]                               -4.8 ksf              -       -      -       -      -    -    -
+Total Uses to be Removed                                                                                   (48) (26) (74)
+
+Net Incremental Trips                                                                                      28     34    62
+
+
+Notes:
+ * Negligible.
+[a] Trip generation rates for the A.M. peak hour based on June 24, 2005 MOC between LADOT and LAUSD.
+[b] Trip generation rates obtained from the Trip Generation, 7th Edition , Institute of Transportation Engineers, 2003.
+[c] To be conservative, no credit is taken for the artist studio building given the low level of existing activity. Per LAUSD,
+    current activities include two small offices, occasional off-peak and weekend art showings, and occasional filming.
+Project Trip Assignment
+
+
+The project trip generation estimates summarized in Table 4 and the distribution pattern
+illustrated in Figure 6 were used to assign the project-generated traffic to the local and regional
+street system and through the four study intersections. Figure 7 illustrates the assignment of
+estimated project-generated peak hour traffic volumes at each of the study intersections during
+typical weekday peak hours.
+
+
+
+
+FUTURE PLUS PROJECT TRAFFIC PROJECTIONS
+
+
+The project-generated traffic volumes in Figure 7 were then added to the future base traffic
+volumes, resulting in the future plus project traffic volumes illustrated in Figure 8. These volumes
+represent projected future weekday peak hour traffic conditions following the completion of the
+project.
+
+
+
+
+                                                20
+                                IV. TRAFFIC IMPACT ANALYSIS
+
+
+
+
+This section presents an analysis of the potential impacts of the project on the local street system.
+The analysis compares the projected LOS at each study intersection with the project in 2012 to
+the future base (no project) scenario to determine potential project impacts, as defined by
+significant impact criteria established by the City of Los Angeles.
+
+
+
+
+INTERSECTION SIGNIFICANT IMPACT CRITERIA
+
+
+The City of Los Angeles has established threshold criteria that determine whether a project has a
+significant traffic impact at a specific intersection. Under the City's guidelines, a project impact
+would be considered significant if the following conditions are met:
+
+
+                Intersection Conditions
+                   with Project Traffic                 Project-related Increase
+               LOS           V/C Ratio                        in V/C Ratio
+                 C         > 0.700 ­ 0.800            Equal to or greater than 0.040
+                 D         > 0.800 ­ 0.900            Equal to or greater than 0.020
+               E, F            > 0.900                Equal to or greater than 0.010
+
+
+
+
+FUTURE BASE TRAFFIC CONDITIONS
+
+
+The results of the analysis of the four study intersections under future base traffic conditions are
+summarized in Table 5. Background traffic growth and traffic generated by related projects is
+expected to cause a minor decline in operating conditions from the existing conditions for all
+study intersections, even without consideration of potential traffic associated with the project.
+Table 5 indicates, however, that all four intersections are projected to continue to operate at LOS
+A.
+
+
+
+
+                                                 24
+                                                          TABLE 5
+                                           INTERSECTION LEVEL OF SERVICE ANALYSIS
+                                                  FUTURE (2012) CONDITIONS
+
+
+                                                        Peak       Future Base        Future + Project   Project Increase Significant
+                   Intersection
+                                                        Hour        V/C    LOS         V/C      LOS           in V/C       Impact?
+      1. S Parkview St & W 7th St [a]                       A.M.       0.311       A     0.323       A          0.012         NO
+*     2. S Parkview St & W 8th St                           A.M.       0.205       A     0.215       A          0.010         NO
+      3. S Grandview St & W 7th St [a]                      A.M.       0.353       A     0.372       A          0.019         NO
+      4. S Grandview St & W 8th St [a]                      A.M.       0.352       A     0.377       A          0.025         NO
+Notes:
+[a] Intersection is stop-controlled. Stop-controlled intersection analysis was performed using the CMA methodology
+    and a reduced capacity of 1,200 vehicles per hour per lane.
+ * Intersection is currently operating under ATSAC system.
+FUTURE PLUS PROJECT TRAFFIC ANALYSIS
+
+
+The future plus project peak hour traffic volumes illustrated in Figure 8 were analyzed to
+determine the projected year 2012 future operating conditions with the completion of the project.
+Application of the significance criteria established by the City of Los Angeles indicates that the
+project would not create significant traffic impacts at any of the four analyzed intersections.
+
+
+
+
+PROPOSED MITIGATION MEASURES
+
+
+The traffic impact analysis above determined that development of the project is not expected to
+cause significant impacts at any of the four study intersections.           Therefore, no mitigation
+measures are required.
+
+
+
+
+                                                  26
+           V. TRAFFIC SIGNAL WARRANT AND PEDESTRIAN WARRANT ANALYSIS
+
+
+
+
+This chapter presents an analysis of the traffic signal warrant and pedestrian warrant analysis
+conducted for the intersection of South Grand View Street and West 7th Street, as requested by
+LADOT.
+
+
+
+
+TRAFFIC SIGNAL WARRANT ANALYSIS
+
+
+The traffic signal warrant analysis was conducted in accordance with the standards in the Manual
+of Uniform Traffic Control Devices (MUTCD) for Streets and Highways (United States Department
+of Transportation and Federal Highway Administration, 2003). Operations at the unsignalized
+intersection of South Grand View Street and West 7th Street would not be substantially improved
+by signalization. The projected future plus project traffic volumes at the intersection would not
+satisfy the Eight Hour Vehicle Volume warrant (MUTCD Warrants 1, 1A, 1B, 1C), the Four Hour
+Vehicle Volume warrant (MUTCD Warrant 2), or the Peak Hour Vehicle Volume warrant (MUTCD
+warrant 3). The signal warrant analysis worksheet is shown in Appendix D4.
+
+
+
+
+PEDESTRIAN WARRANT ANALYSIS (SCHOOL CROSSING)
+
+
+The pedestrian school crossing warrant analysis was conducted in accordance with the standards
+in MUTCD Section 4C.06 Warrant 5, School Crossing, which states:
+
+
+       "The School Crossing signal warrant is intended for application where the fact that
+       school children cross the major street is the principal reason to consider installing a
+       traffic control signal. The need for a traffic control signal shall be considered when an
+       engineering study of the frequency and adequacy of gaps in the vehicular stream as
+       related to the number and size of groups of school children at an established school
+       crossing across the major street shows that the number of adequate gaps in the traffic
+       stream during the period when the children are using the crossing is less than the
+       number of minutes in the same period and there are a minimum of 20 students during
+       the highest crossing hour."
+
+
+
+
+                                               27
+Traffic gap counts were conducted and pedestrians were observed crossing the west leg of the
+intersection of South Grand View Street and West 7th Street during both the morning peak
+pedestrian period encompassing the existing school opening time and the afternoon period
+encompassing the school closing time on a regularly scheduled school day. The counts for the
+morning peak school arrival period between 7:40 a.m. and 8:20 a.m. showed 50 adequate
+crossing gaps in the traffic stream. The counts for the afternoon peak school departure period
+between 2:15 p.m. to 2:55 p.m. showed 66 adequate gaps in the traffic stream. The number of
+adequate gaps in the traffic stream exceeds the number of minutes during the peak crossing
+times. Therefore, the School Crossing Pedestrian Warrant 5 is not satisfied and installation of a
+traffic control signal is not warranted.
+
+
+A school crossing warrant analysis was also conducted in accordance with the Manual of
+Policies and Procedures Section 353 (LADOT, October 2005). This method tests for installation
+of flashing yellow beacons and a school area traffic signal based on the vehicle volume and the
+number of school-aged pedestrians crossing the street for the two highest hours. The school-
+aged pedestrian volumes are projected by factoring the existing volumes with a factor of 2.6
+(650-seats over 250-seats), consistent with the proportional increase in the number of students
+at the school.
+
+
+The Flashing Yellow Beacons section requires three parts to be satisfied:
+
+        Part A: The vehicle volume and the number of school-aged pedestrians crossing the
+                street for the two highest hours must exceed 200 and 40, respectively, for
+                urban areas, and 140 and 40, respectively, for rural areas.
+
+        Part B:   The critical approach speed of the major street must exceed 35 mph.
+
+        Part C:   The nearest controlled crossing must be more than 600 feet away.
+
+The School Area Traffic Signal section requires two parts to be satisfied:
+
+        Part A:   The vehicle volume and the number of school-aged pedestrians crossing the
+                  street for the two highest hours must exceed 500 and 100, respectively, for
+                  urban areas, and 350 and 70, respectively, for rural areas. In this section, a
+                  daily pedestrian volume can be substituted instead of the two highest hours
+                  with the requirement that the daily volume exceeds 500 for urban areas and
+                  350 for rural areas.
+
+        Part B:   The nearest controlled crossing must be more than 600 feet away.
+
+
+
+                                                28
+The Flashing Yellow Beacons section satisfied both Part A and Part B; however, Part C was not
+satisfied. The nearest controlled crossing is located at South Park View Street and West 7th
+Street (west intersection) approximately 460 feet west of the South Grand View Street and West
+7th Street study intersection.
+
+
+The School Area Traffic Signal section satisfied Part A; however, Part B was not satisfied.
+Similar to the previous section, the nearest controlled crossing is located approximately 460 feet
+west of the analyzed intersection. As a result, the Flashing Yellow Beacons and the School
+Area Traffic Signal warrants are not met.
+
+
+The traffic signal warrant and pedestrian warrant analysis worksheets are shown in Appendix D4.
+
+
+
+
+RECOMMENDED PEDESTRIAN ROUTES
+
+
+The study area was surveyed to determine the locations of existing traffic controls that could be
+used by students to access the proposed school site from adjacent neighborhoods.            Traffic
+controls adjacent to the site include school crossing signs, marked crosswalks, sidewalks, and
+signalized and stop-controlled intersections. Figure 9 is an illustration of the LADOT Pedestrian
+Routes for the existing school. It should be noted that the intersection of South Grand View Street
+and West 7th Street has a 15 foot wide yellow "zebra" crosswalk across the west leg.
+
+
+
+
+                                                29
+                 VI. REGIONAL TRANSPORTATION SYSTEM IMPACT ANALYSIS
+
+
+
+
+Regional transportation system impact analysis was conducted in accordance with the
+requirements in 2004 Congestion Management Program for Los Angeles County (CMP) (Los
+Angeles County Metropolitan Transportation Authority, July 2004). The Transportation Impact
+Analysis (TIA) section in the CMP describes the threshold criteria used to identify potential CMP
+monitoring locations that should be included in the traffic analysis. Based on the CMP criteria, the
+following locations must be analyzed:
+
+
+    ·   Mainline freeway monitoring locations where a project will add 150 or more trips, in
+        either direction, during either a.m. or p.m. weekday peak hours.
+
+    ·   All CMP arterial monitoring intersections, including freeway on- and off-ramp intersections,
+        where a proposed project will add 50 or more trips during either the a.m. or p.m. weekday
+        peak hours (of adjacent street traffic).
+
+In addition, potential impacts on the regional transit system must be evaluated.
+
+
+
+
+CMP FREEWAY ANALYSIS
+
+
+The mainline freeway monitoring location nearest to the project site is the I-110 east of South
+Grand View Street. According to the peak hour project trip generation, the project would generate
+62 new trips during the a.m. peak hour, far less than the 150 trip analysis threshold, and many of
+these trips are not expected to be on the freeway system. Therefore, no further CMP freeway
+analysis is required and project impacts on the regional freeway system are considered to be
+insignificant.
+
+
+
+
+CMP ARTERIAL INTERSECTION ANALYSIS
+
+
+The nearest CMP arterial monitoring location is at the intersection of Wilshire Boulevard and
+Alvarado Boulevard.    This CMP intersection is approximately one-half-mile northeast of the
+
+
+                                                31
+study intersection of South Grand View Street and West 7th Street. As shown in the project trip
+generation estimates in Table 4 and the project a.m. peak hour distribution in Figure 6,
+approximately 62 a.m. peak hour trips are projected project-related trips. Since the nearest CMP
+intersection of Wilshire Boulevard and Alvarado Boulevard is approximately one-half-mile
+northeast of West 7th Street, allowing project-related traffic to disperse, and Alvarado Boulevard
+is a boundary for the attendance area of the proposed project, it is estimated that fewer than 50
+weekday peak hour trips would travel through the CMP intersection of Wilshire Boulevard and
+Alvarado Boulevard. Therefore, no further CMP intersection analysis is required and the project
+impact at this location would be insignificant.
+
+
+
+
+REGIONAL TRANSIT IMPACT ANALYSIS
+
+
+Section D.8.4 of the CMP provides a methodology for estimating the number of transit trips
+expected to result from a proposed project based on the projected number of vehicle trips. This
+methodology assumes an average vehicle ridership (AVR) factor of 1.4 in order to estimate the
+number of person trips to and from the project and then provides guidance regarding the
+percent of person trips assigned to public transit depending on the type of use and proximity to
+transit service. The nearest designated transit center is the Westlake/MacArthur Park Metro
+Red Line Station. Since the project site is located inside the one-quarter mile boundary from
+this station and commercial land uses are prevalent in this path, the CMP guidelines estimate
+that approximately 15% of the project person trips may use public transit to travel to and from
+the site.
+
+
+This is a general application according to CMP guidelines. It should be noted that this project
+site has an educational land use classification that draws its students from the nearby
+neighborhood as shown by the dashed service area boundary in Figure 1. As a result, it can be
+assumed that only staff trips generated by the school can be applied to transit trips.
+
+
+Upon project completion, the new school will be supported by 50 full and part-time staff
+members.     Assuming the 15% transit mode split suggested in the CMP, this results in
+approximately eight new transit person trips in the morning peak hour. Based on the analysis of
+the existing operating schedule for the Metro Red Line, it is estimated that there are a total of 24
+trains stopping at the Westlake/MacArthur Station during the a.m. peak hour. Based on the
+
+
+
+                                                  32
+analysis of the Metro bus lines serving the surrounding project site area (Metro Bus Lines 26,
+51, 66, 352), it is estimated that there are a total of 30 bus stops during the a.m. peak hour.
+This results in the conclusion that the project would add, on an average, about one person trip
+per every three trains, or one person trip per every three buses.     At this minimal level of
+absorption, it is concluded that project-related impacts to the regional transit system are
+insignificant.
+
+
+
+
+                                              33
+                              VII. SUMMARY AND CONCLUSIONS
+
+
+
+
+This report documents the assumptions, methodologies, and findings of a study conducted by
+Fehr & Peers/Kaku Associates to evaluate the potential traffic and circulation impacts of the
+proposed Central Region MacArthur Park Elementary School Addition. The following summarizes
+the findings of the study:
+
+
+    ·   A total of four intersections were analyzed in the study area for potential traffic impacts.
+        All four intersections are currently operating at acceptable LOS A.
+
+    ·   The proposed Central Region MacArthur Park Elementary School Addition includes
+        approximately 35,000 sf of new space to be added to the existing 15,000 sf of the
+        MacArthur Park Primary School campus, for a total of 50,000 sf. The project will provide
+        400 new seats and 16 new classrooms to the existing 250 seat and 10 classroom facility,
+        for a total of 650 seats and 26 classrooms for Kindergarten through fifth grade students.
+        The existing surface level parking lot will be replaced with an underground structure
+        providing 59 total spaces (25 net new).
+
+    ·   Analysis of the year 2012 future base conditions, representing future conditions without
+        the project, indicates that all four intersections would operate at LOS A.
+
+    ·   Analysis of the future plus project conditions indicates that, using the City of Los Angeles
+        criteria for determining significance of impact, the project would not create any significant
+        impacts on the four analyzed intersections.
+
+    ·   Traffic signal and pedestrian crossing warrant analyses were conducted for the
+        unsignalized intersection of South Grand View Street and West 7th Street. Vehicular
+        volume requirements were not met for MUTCD Warrants 1-3. The existing number of
+        gaps adequate for pedestrian crossing was sufficient according to MUTCD School
+        Crossing Warrant 5, meaning that the warrant is not satisfied. The LADOT Manual of
+        Policies and Procedures' School Crossing Warrant 5 was not met since a signalized
+        intersection is located less than 600 feet away from the analyzed intersection.
+
+    ·   Analysis of potential impacts on the regional transportation system conducted in
+        accordance with CMP requirements determined that the project would not have a
+        significant impact on the regional freeway system.
+
+
+
+
+                                                 34
+                                          REFERENCES
+
+
+
+
+Congestion Management Program for Los Angeles County, Los Angeles County Metropolitan
+Transportation Authority, July 2004.
+
+Los Angeles Unified School District Program EIR, Meyer, Mohaddes Associates, Inc., March
+2004.
+
+Los Angeles Unified School District Traffic and Pedestrian Safety Requirements for New
+Schools, Los Angeles Unified School District Office of Environmental Health and Safety, April
+10, 2006.
+
+Manual of Policies and Procedures Section 353, Los Angeles Department of Transportation,
+October 2005.
+
+Manual of Policies and Procedures Section 354 ­ Smart Pedestrian Warning Device, Los
+Angeles Department of Transportation, December 2004.
+
+Manual of Uniform Traffic Control Devices for Streets and Highways, United States Department
+of Transportation and Federal Highway Administration, 2003.
+
+Manual of Uniform Traffic Control Devices, 2003 California Supplement, Part 7, Traffic Controls
+for School Areas, California Department of Transportation, May 20, 2004.
+
+Memorandum of Cooperation, Traffic Studies, Phases II & III New School Construction
+Program, Los Angeles Unified School District, Office of Environmental Health & Safety, Letter to
+Armen D. Hovanessian, P.E., Senior Transportation Engineer, City of Los Angeles, Department
+of Transportation, Bureau of Transportation Planning and Development, June 24, 2005.
+
+Transportation Research Circular No. 212, Interim Materials on Highway Capacity, Transportation
+Research Board, 1980.
+
+Trip Generation, 7th Edition, Institute of Transportation Engineers, 2003.
+           APPENDIX-D1
+
+
+INTERSECTION LANE CONFIGURATIONS
+       APPENDIX-D2
+
+
+TRAFFIC COUNT DATA SHEETS
+WILTEC                                                                                                        Phone: (626) 564-1944          Fax: (626) 564-0969
+INTERSECTION CAR/PED/BIKE TRAFFIC COUNT RESULTS SUMMARY
+
+CLIENT:                                 FEHR AND PEERS
+PROJECT:                                MAC ARTHUR PARK ELEMENTARY SCHOOL
+DATE:                                   TUESDAY APRIL 15, 2008
+PERIOD"                                 6:30 AM TO 8:30 AM
+INTERSECTION:                N/S        S. PARKVIEW STREET
+                             E/W        7TH STREET
+CITY:                                   LOS ANGELES
+
+VEHICLE COUNTS
+15 MIN COUNTS         1           2           3           4           5         6        7            8        9          10         11           12
+PERIOD             SBRT        SBTH        SBLT        WBRT       WBTH       WBLT     NBRT         NBTH     NBLT        EBRT       EBTH         EBLT     TOTAL
+630-645               0           0           0           0          43         2        1            0        0           1         40            0        87
+645-700               0           0           0           0          58         3        2            0        2           6         63            0       134
+700-715               0           0           0           0          88         2        1            0        6           2         92            0       191
+715-730               0           0           0           0          96         0        4            0        4           4         83            0       191
+730-745               0           0           0           0         111         1        4            0        6           5        132            0       259
+745-800               0           0           0           0         128         3        3            0       10           7        152            0       303
+800-815               0           0           0           0         124         0        1            0        8           7        186            0       326
+815-830               0           0           0           0         123         5        0            0        5           7        125            0       265
+HOUR TOTALS           1           2           3           4           5         6        7            8        9          10         11           12
+PERIOD             SBRT        SBTH        SBLT        WBRT       WBTH       WBLT     NBRT         NBTH     NBLT        EBRT       EBTH         EBLT     TOTAL
+630-730               0           0           0           0         285         7        8            0       12          13        278            0       603
+645-745               0           0           0           0         353         6       11            0       18          17        370            0       775
+700-800               0           0           0           0         423         6       12            0       26          18        459            0       944
+715-815               0           0           0           0         459         4       12            0       28          23        553            0      1079
+730-830               0           0           0           0         486         9        8            0       29          26        595            0      1153
+
+ AM PEAK HOUR:     730-830
+                                                                                             0
+
+                                           0           0           0                         486
+
+                                                                                             9
+
+
+
+                                                0
+
+7TH STREET                                     595                           29        0           8
+
+                                               26                                   S. PARKVIEW STREET
+
+
+
+PEDESTRIAN COUNTS                                                                   BICYCLE COUNTS
+15 MIN COUNTS    NORTH       EAST       SOUTH        WEST       TOTAL               15 MIN COUNTS         NORTH       EAST       SOUTH       WEST       TOTAL
+PERIOD           LEG         LEG        LEG          LEG                            PERIOD                LEG         LEG        LEG         LEG
+630-645                  0          1         6             0            7          630-645                       0          0           1          0            1
+645-700                  0          0        15             0           15          645-700                       0          0           1          0            1
+700-715                  0          0        22             3           25          700-715                       0          0           3          0            3
+715-730                  0          1        24             0           25          715-730                       0          0           2          0            2
+730-745                  0          2        29             0           31          730-745                       0          0           0          0            0
+745-800                  0          0        45             0           45          745-800                       0          0           6          0            6
+800-815                  0          1        23             0           24          800-815                       0          0           0          0            0
+815-830                  0          1        13             0           14          815-830                       0          0           0          0            0
+HOUR TOTALS      NORTH       EAST       SOUTH WEST              TOTAL               HOUR TOTALS           NORTH       EAST       SOUTH       WEST       TOTAL
+PERIOD           LEG         LEG        LEG     LEG                                 PERIOD                LEG         LEG        LEG         LEG
+630-730                  0          2        67             3           72          630-730                       0          0        7             0            7
+645-745                  0          3        90             3           96          645-745                       0          0        6             0            6
+700-800                  0          3       120             3          126          700-800                       0          0       11             0           11
+715-815                  0          4       121             0          125          715-815                       0          0        8             0            8
+730-830                  0          4       110             0          114          730-830                       0          0        6             0            6
+WILTEC                                                                                                      Phone: (626) 564-1944          Fax: (626) 564-0969
+INTERSECTION CAR/PED/BIKE TRAFFIC COUNT RESULTS SUMMARY
+
+CLIENT:                               FEHR AND PEERS
+PROJECT:                              MAC ARTHUR PARK ELEMENTARY SCHOOL
+DATE:                                 TUESDAY APRIL 15, 2008
+PERIOD"                               6:30 AM TO 8:30 AM
+INTERSECTION:                N/S      S. PARKVIEW STREET
+                             E/W      8TH STREET
+CITY:                                 LOS ANGELES
+
+VEHICLE COUNTS
+15 MIN COUNTS         1           2         3          4            5         6        7            8        9          10         11           12
+PERIOD             SBRT        SBTH      SBLT       WBRT        WBTH       WBLT     NBRT         NBTH     NBLT        EBRT       EBTH         EBLT     TOTAL
+630-645              12          46         3          2           72         3        5            0        1           7         82            2       235
+645-700               2           7         1          5           70         3        6            0        5           1         82            3       185
+700-715               3           3         2          3           96         3        2            1        3           2         86            0       204
+715-730               2           3         2          1          141         1        7            2        6           5        109            6       285
+730-745               3           4         4          4          105         6       11            6        2           8        125            2       280
+745-800               1           3         5          3          126         4        2            5        4           5        164            2       324
+800-815               2           4         4          6          127         4        2            4        0           2        173            1       329
+815-830               6           6         4          3          134         4        2            1        5           4        148            1       318
+HOUR TOTALS           1           2         3          4            5         6        7            8        9          10         11           12
+PERIOD             SBRT        SBTH      SBLT       WBRT        WBTH       WBLT     NBRT         NBTH     NBLT        EBRT       EBTH         EBLT     TOTAL
+630-730              19          59         8         11          379        10       20            3       15          15        359           11       909
+645-745              10          17         9         13          412        13       26            9       16          16        402           11       954
+700-800               9          13        13         11          468        14       22           14       15          20        484           10      1093
+715-815               8          14        15         14          499        15       22           17       12          20        571           11      1218
+730-830              12          17        17         16          492        18       17           16       11          19        610            6      1251
+
+ AM PEAK HOUR:     730-830
+                                                                                           16
+
+                                        12          17          17                         492
+
+                                                                                           18
+
+
+
+                                              6
+
+8TH STREET                                610                              11       16           17
+
+                                             19                                   S. PARKVIEW STREET
+
+
+
+PEDESTRIAN COUNTS                                                                 BICYCLE COUNTS
+15 MIN COUNTS    NORTH       EAST     SOUTH       WEST        TOTAL               15 MIN COUNTS         NORTH       EAST       SOUTH       WEST       TOTAL
+PERIOD           LEG         LEG      LEG         LEG                             PERIOD                LEG         LEG        LEG         LEG
+630-645                4      6            16             4           30          630-645                       0          0           0          0           0
+645-700                7     12            14             9           42          645-700                       0          0           0          0           0
+700-715                5     13            13             0           31          700-715                       0          0           0          0           0
+715-730                7     22            19            11           59          715-730                       0          0           1          0           1
+730-745               12     10            24            16           62          730-745                       0          1           2          0           3
+745-800               11     17            21            10           59          745-800                       0          0           1          0           1
+800-815               14     12            21            13           60          800-815                       1          0           2          0           3
+815-830                6      2             8             3           19          815-830                       0          0           1          1           2
+HOUR TOTALS      NORTH EAST           SOUTH       WEST        TOTAL               HOUR TOTALS           NORTH       EAST       SOUTH       WEST       TOTAL
+PERIOD           LEG     LEG          LEG         LEG                             PERIOD                LEG         LEG        LEG         LEG
+630-730               23     53            62            24       162             630-730                       0          0           1          0           1
+645-745               31     57            70            36       194             645-745                       0          1           3          0           4
+700-800               35     62            77            37       211             700-800                       0          1           4          0           5
+715-815               44     61            85            50       240             715-815                       1          1           6          0           8
+730-830               43     41            74            42       200             730-830                       1          1           6          1           9
+WILTEC                                                                                                   Phone: (626) 564-1944          Fax: (626) 564-0969
+INTERSECTION CAR/PED/BIKE TRAFFIC COUNT RESULTS SUMMARY
+
+CLIENT:                                 FEHR AND PEERS
+PROJECT:                                MAC ARTHUR PARK ELEMENTARY SCHOOL
+DATE:                                   TUESDAY APRIL 15, 2008
+PERIOD"                                 6:30 AM TO 8:30 AM
+INTERSECTION:                N/S        S. GRANDVIEW STREET
+                             E/W        7TH STREET
+CITY:                                   LOS ANGELES
+
+VEHICLE COUNTS
+15 MIN COUNTS         1           2           3           4         5      6        7            8        9          10         11           12
+PERIOD             SBRT        SBTH        SBLT        WBRT     WBTH    WBLT     NBRT         NBTH     NBLT        EBRT       EBTH         EBLT     TOTAL
+630-645               0           0           0           0        51      1        2            0        4           2         67            0       127
+645-700               0           0           0           0        65      5        9            0        2           0         61            0       142
+700-715               0           0           0           0        80      7        3            0        3           3         73            0       169
+715-730               0           0           0           0        96      8        4            0        2           7         93            0       210
+730-745               0           0           0           0       108     14        4            0        4          22        121            0       273
+745-800               0           0           0           0       114     14        8            0       14          19        126            0       295
+800-815               0           0           0           0       109     10        7            0       11          18        169            0       324
+815-830               0           0           0           0       119      1        4            0        6           6        135            0       271
+HOUR TOTALS           1           2           3           4         5      6        7            8        9          10         11           12
+PERIOD             SBRT        SBTH        SBLT        WBRT     WBTH    WBLT     NBRT         NBTH     NBLT        EBRT       EBTH         EBLT     TOTAL
+630-730               0           0           0           0       292     21       18            0       11          12        294            0       648
+645-745               0           0           0           0       349     34       20            0       11          32        348            0       794
+700-800               0           0           0           0       398     43       19            0       23          51        413            0       947
+715-815               0           0           0           0       427     46       23            0       31          66        509            0      1102
+730-830               0           0           0           0       450     39       23            0       35          65        551            0      1163
+
+ AM PEAK HOUR:     730-830
+                                                                                        0
+
+                                           0           0         0                      450
+
+                                                                                        39
+
+
+
+                                                0
+
+7TH STREET                                     551                      35        0           23
+
+                                               65                              S. GRANDVIEW STREET
+
+
+
+PEDESTRIAN COUNTS                                                              BICYCLE COUNTS
+15 MIN COUNTS    NORTH       EAST       SOUTH        WEST     TOTAL            15 MIN COUNTS         NORTH       EAST       SOUTH       WEST       TOTAL
+PERIOD           LEG         LEG        LEG          LEG                       PERIOD                LEG         LEG        LEG         LEG
+630-645                  0          0         6       6       12               630-645                       0          0           0          0           0
+645-700                  0          0        12       5       17               645-700                       0          0           1          0           1
+700-715                  0          1        14       9       24               700-715                       0          0           2          1           3
+715-730                  0          1        17      36       54               715-730                       0          0           1          0           1
+730-745                  0          0        30      53       83               730-745                       0          1           0          0           1
+745-800                  0          0        21      32       53               745-800                       0          0           4          0           4
+800-815                  0          0        16      16       32               800-815                       0          0           0          0           0
+815-830                  0          0        12       3       15               815-830                       0          0           0          0           0
+HOUR TOTALS      NORTH       EAST       SOUTH WEST      TOTAL                  HOUR TOTALS           NORTH       EAST       SOUTH       WEST       TOTAL
+PERIOD           LEG         LEG        LEG     LEG                            PERIOD                LEG         LEG        LEG         LEG
+630-730                  0          2        49      56     107                630-730                       0          0           4          1           5
+645-745                  0          2        73     103     178                645-745                       0          1           4          1           6
+700-800                  0          2        82     130     214                700-800                       0          1           7          1           9
+715-815                  0          1        84     137     222                715-815                       0          1           5          0           6
+730-830                  0          0        79     104     183                730-830                       0          1           4          0           5
+WILTEC                                                                                                Phone: (626) 564-1944          Fax: (626) 564-0969
+INTERSECTION CAR/PED/BIKE TRAFFIC COUNT RESULTS SUMMARY
+
+CLIENT:                               FEHR AND PEERS
+PROJECT:                              MAC ARTHUR PARK ELEMENTARY SCHOOL
+DATE:                                 TUESDAY APRIL 15, 2008
+PERIOD"                               6:30 AM TO 8:30 AM
+INTERSECTION:                N/S      S. GRANDVIEW STREET
+                             E/W      8TH STREET
+CITY:                                 LOS ANGELES
+
+VEHICLE COUNTS
+15 MIN COUNTS         1           2         3          4         5      6        7            8        9          10         11           12
+PERIOD             SBRT        SBTH      SBLT       WBRT     WBTH    WBLT     NBRT         NBTH     NBLT        EBRT       EBTH         EBLT     TOTAL
+630-645               4           3         2          1        38      6        4            2        1           4         84            0       149
+645-700               5           0         2          1        63      3        5            0        0           4         69            1       153
+700-715              12          10        15          2       112      3        4            4        2           0         87            4       255
+715-730              25          11         9          9        96      1        4            2        2           5        116            6       286
+730-745               7           3         5          5       132     10        4            6        0           4        130            7       313
+745-800               5           2         3          6        97      3        5            9        1           4        154            2       291
+800-815              13           3         8          2       105      1        2            7        1           5        164            3       314
+815-830               2           2         6          5       126      3        2            5        3           2        147            2       305
+HOUR TOTALS           1           2         3          4         5      6        7            8        9          10         11           12
+PERIOD             SBRT        SBTH      SBLT       WBRT     WBTH    WBLT     NBRT         NBTH     NBLT        EBRT       EBTH         EBLT     TOTAL
+630-730              46          24        28         13       309     13       17            8        5          13        356           11       843
+645-745              49          24        31         17       403     17       17           12        4          13        402           18      1007
+700-800              49          26        32         22       437     17       17           21        5          13        487           19      1145
+715-815              50          19        25         22       430     15       15           24        4          18        564           18      1204
+730-830              27          10        22         18       460     17       13           27        5          15        595           14      1223
+
+ AM PEAK HOUR:     730-830
+                                                                                     18
+
+                                        27          10       22                      460
+
+                                                                                     17
+
+
+
+                                             14
+
+8TH STREET                                595                        5        27           13
+
+                                             15                             S. GRANDVIEW STREET
+
+
+
+PEDESTRIAN COUNTS                                                           BICYCLE COUNTS
+15 MIN COUNTS    NORTH       EAST     SOUTH       WEST     TOTAL            15 MIN COUNTS         NORTH       EAST       SOUTH       WEST       TOTAL
+PERIOD           LEG         LEG      LEG         LEG                       PERIOD                LEG         LEG        LEG         LEG
+630-645                2      2       3     17       24                     630-645                       1          0           1          1           3
+645-700                3      6       2     17       28                     645-700                       0          2           0          0           2
+700-715                3     14       1     20       38                     700-715                       0          0           0          0           0
+715-730               11     24      12     24       71                     715-730                       0          0           0          0           0
+730-745                5     18       1     17       41                     730-745                       0          0           0          0           0
+745-800               10     13       2     19       44                     745-800                       0          0           0          0           0
+800-815               14     31       6     23       74                     800-815                       0          0           0          1           1
+815-830               12      9       2     11       34                     815-830                       0          0           0          1           1
+HOUR TOTALS      NORTH EAST     SOUTH WEST     TOTAL                        HOUR TOTALS           NORTH       EAST       SOUTH       WEST       TOTAL
+PERIOD           LEG     LEG    LEG     LEG                                 PERIOD                LEG         LEG        LEG         LEG
+630-730               19     46      18     78     161                      630-730                       1          2           1          1           5
+645-745               22     62      16     78     178                      645-745                       0          2           0          0           2
+700-800               29     69      16     80     194                      700-800                       0          0           0          0           0
+715-815               40     86      21     83     230                      715-815                       0          0           0          1           1
+730-830               41     71      11     70     193                      730-830                       0          0           0          2           2
+        APPENDIX-D3
+
+
+LEVEL OF SERVICE WORKSHEETS
+EXISTING (YEAR 2008)
+        APPENDIX-D3
+
+
+LEVEL OF SERVICE WORKSHEETS
+EX_AM                                                                                                       April 30, 2008 ,Wednesday 01:20:01 PM
+                                                                CalcaDB
+                                        INTERSECTION DATA SUMMARY SHEET
+
+
+     N/S:                       Parkview St                    W/E:                          8th St                        I/S No:             2
+
+     AM/PM: AM                             Comments: EX_AM
+
+     COUNT DATE:                                        STUDY DATE:                                         GROWTH FACTOR:
+
+
+
+        Volume/Lane/Signal Configurations
+
+                          NORTHBOUND                    SOUTHBOUND                               WESTBOUND                          EASTBOUND
+                        LT        TH       RT       LT         TH          RT               LT        TH         RT            LT        TH            RT
+  EXISTING             11         16       17       17         17          12               18        492        16            6         610           19
+  AMBIENT
+  RELATED
+  PROJECT
+
+  TOTAL                11         16       17       17         17          12               18        492        16            6         610           19
+
+
+
+  LANE                             1                            1                       1         1         1              1         1         1
+
+                      Phasing          RTOR        Phasing            RTOR              Phasing             RTOR            Phasing            RTOR
+  SIGNAL                Perm            Auto        Perm              Auto                  Perm            Auto               Perm                Auto
+
+
+         Critical Movements Diagram
+                                                          SouthBound
+                                                          A:          46
+
+                                                          B:          17
+
+                                   EastBound                                             WestBound                        V/C RATIO            LOS
+                                  A:       315                                          A:     254
+                                                                                                                          0.00 - 0.60          A
+                                  B:           6                                        B:            18
+                                                                                                                          0.61 - 0.70          B
+                                                          NorthBound
+                                                          A:          44                                                  0.71 - 0.80          C
+     A = Adjusted Through/Right Volume
+     B = Adjusted Left Volume                             B:          11                                                  0.81 - 0.90          D
+     * = ATSAC Benefit
+                                                                                                                          0.91 - 1.00          E
+            Results
+                        North/South Critical Movements =        A(N/B)         + B(S/B)
+                        West/East Critical Movements       =    B(W/B)         +   A(E/B)
+                                                   44      +     17        +       18        +     315
+                                       V/C =                                                                    = 0.193               LOS =        A
+                                                                      *1500
+
+
+
+Developed by Chun Wong, 12/94
+EX_AM                                                                                                              April 30, 2008 ,Wednesday 01:20:01 PM
+                                                                     CalcaDB
+                                         INTERSECTION DATA SUMMARY SHEET
+
+
+     N/S:                       Grandview St                        W/E:                            7th St                      I/S No:             3
+
+     AM/PM: AM                              Comments: EX_AM
+
+     COUNT DATE:                                             STUDY DATE:                                           GROWTH FACTOR:
+
+
+
+        Volume/Lane/Signal Configurations
+
+                          NORTHBOUND                         SOUTHBOUND                                 WESTBOUND                      EASTBOUND
+                        LT         TH       RT           LT         TH            RT               LT        TH       RT          LT          TH            RT
+  EXISTING             35          0        23           0           0            0                39        450       0          0           551           65
+  AMBIENT
+  RELATED
+  PROJECT
+
+  TOTAL                35          0        23           0           0            0                39        450       0          0           551           65
+
+
+
+  LANE                                              1                                          1         2                                1         1
+
+                      Phasing           RTOR            Phasing              RTOR              Phasing             RTOR          Phasing            RTOR
+  SIGNAL                Perm             Auto            Perm                Auto                  Perm            Auto           Perm                  Auto
+
+
+         Critical Movements Diagram
+                                                               SouthBound
+                                                               A:            0
+
+                                                               B:            0
+
+                                   EastBound                                                    WestBound                      V/C RATIO            LOS
+                                   A:       308                                                A:     225
+                                                                                                                               0.00 - 0.60          A
+                                   B:           0                                              B:            39
+                                                                                                                               0.61 - 0.70          B
+                                                               NorthBound
+                                                               A:            58                                                0.71 - 0.80          C
+     A = Adjusted Through/Right Volume
+     B = Adjusted Left Volume                                  B:            35                                                0.81 - 0.90          D
+     * = ATSAC Benefit
+                                                                                                                               0.91 - 1.00          E
+            Results
+                        North/South Critical Movements =             A(N/B)           + B(S/B)
+                        West/East Critical Movements            =    B(W/B)           +   A(E/B)
+                                                        58      +        0        +       39        +     308
+                                        V/C =                                                                        = 0.338              LOS =         A
+                                                                             1200
+
+
+
+Developed by Chun Wong, 12/94
+EX_AM                                                                                                        April 30, 2008 ,Wednesday 01:20:01 PM
+                                                                  CalcaDB
+                                         INTERSECTION DATA SUMMARY SHEET
+
+
+     N/S:                       Grandview St                     W/E:                          8th St                       I/S No:            4
+
+     AM/PM: AM                              Comments: EX_AM
+
+     COUNT DATE:                                          STUDY DATE:                                        GROWTH FACTOR:
+
+
+
+        Volume/Lane/Signal Configurations
+
+                            NORTHBOUND                    SOUTHBOUND                               WESTBOUND                       EASTBOUND
+                        LT         TH       RT        LT         TH          RT            LT           TH        RT          LT         TH            RT
+  EXISTING              5          27       13        22         10          27           17          460         18          14         595           15
+  AMBIENT
+  RELATED
+  PROJECT
+
+  TOTAL                 5          27       13        22         10          27           17          460         18          14         595           15
+
+
+
+  LANE                             1                              1                            1             1                  1              1
+
+                      Phasing           RTOR         Phasing            RTOR              Phasing            RTOR            Phasing           RTOR
+  SIGNAL                Perm             Auto         Perm              Auto               Perm              Auto             Perm                 Auto
+
+
+         Critical Movements Diagram
+                                                            SouthBound
+                                                            A:          59
+
+                                                            B:          22
+
+                                   EastBound                                               WestBound                       V/C RATIO           LOS
+                                   A:       319                                           A:     273
+                                                                                                                           0.00 - 0.60         A
+                                   B:           14                                        B:            17
+                                                                                                                           0.61 - 0.70         B
+                                                            NorthBound
+                                                            A:          45                                                 0.71 - 0.80         C
+     A = Adjusted Through/Right Volume
+     B = Adjusted Left Volume                               B:          5                                                  0.81 - 0.90         D
+     * = ATSAC Benefit
+                                                                                                                           0.91 - 1.00         E
+            Results
+                        North/South Critical Movements =          A(N/B)         + B(S/B)
+                        West/East Critical Movements         =    B(W/B)         +   A(E/B)
+                                                     45      +     22        +       17        +     319
+                                        V/C =                                                                    = 0.336              LOS =        A
+                                                                        1200
+
+
+
+Developed by Chun Wong, 12/94
+FUTURE BASE (YEAR 2012)
+FB_AM                                                                                                               April 30, 2008 ,Wednesday 01:21:01 PM
+                                                                    CalcaDB
+                                        INTERSECTION DATA SUMMARY SHEET
+
+
+     N/S:                       Parkview St                        W/E:                               7th St                     I/S No:             1
+
+     AM/PM: AM                             Comments: FB_AM
+
+     COUNT DATE:                                            STUDY DATE:                                             GROWTH FACTOR:
+
+
+
+        Volume/Lane/Signal Configurations
+
+                          NORTHBOUND                        SOUTHBOUND                                WESTBOUND                         EASTBOUND
+                        LT        TH       RT           LT         TH            RT              LT            TH      RT          LT          TH            RT
+  EXISTING             30          0       8            0           0            0                9          514        0          0           624           27
+  AMBIENT
+  RELATED
+  PROJECT
+
+  TOTAL                30          0       8            0           0            0               9           514        0          0           624           27
+
+
+
+  LANE                                             1                                         1           2                                 1         1
+
+                      Phasing          RTOR            Phasing              RTOR             Phasing                RTOR          Phasing            RTOR
+  SIGNAL                Perm            Auto            Perm                Auto                 Perm               Auto           Perm                  Auto
+
+
+         Critical Movements Diagram
+                                                              SouthBound
+                                                              A:            0
+
+                                                              B:            0
+
+                                   EastBound                                                  WestBound                         V/C RATIO            LOS
+                                  A:       326                                               A:     257
+                                                                                                                                0.00 - 0.60          A
+                                  B:           0                                             B:                9
+                                                                                                                                0.61 - 0.70          B
+                                                              NorthBound
+                                                              A:            38                                                  0.71 - 0.80          C
+     A = Adjusted Through/Right Volume
+     B = Adjusted Left Volume                                 B:            30                                                  0.81 - 0.90          D
+     * = ATSAC Benefit
+                                                                                                                                0.91 - 1.00          E
+            Results
+                        North/South Critical Movements =            A(N/B)           + B(S/B)
+                        West/East Critical Movements           =    B(W/B)           +   A(E/B)
+                                                       38      +        0        +       9        +      326
+                                       V/C =                                                                          = 0.311              LOS =         A
+                                                                            1200
+
+
+
+Developed by Chun Wong, 12/94
+FB_AM                                                                                                       April 30, 2008 ,Wednesday 01:21:01 PM
+                                                                CalcaDB
+                                        INTERSECTION DATA SUMMARY SHEET
+
+
+     N/S:                       Parkview St                    W/E:                          8th St                        I/S No:             2
+
+     AM/PM: AM                             Comments: FB_AM
+
+     COUNT DATE:                                        STUDY DATE:                                         GROWTH FACTOR:
+
+
+
+        Volume/Lane/Signal Configurations
+
+                          NORTHBOUND                    SOUTHBOUND                               WESTBOUND                          EASTBOUND
+                        LT        TH       RT       LT         TH          RT               LT        TH         RT            LT        TH            RT
+  EXISTING             11         17       18       18         18          12               19        513        17            6         637           20
+  AMBIENT
+  RELATED
+  PROJECT
+
+  TOTAL                11         17       18       18         18          12               19        513        17            6         637           20
+
+
+
+  LANE                             1                            1                       1         1         1              1         1         1
+
+                      Phasing          RTOR        Phasing            RTOR              Phasing             RTOR            Phasing            RTOR
+  SIGNAL                Perm            Auto        Perm              Auto                  Perm            Auto               Perm                Auto
+
+
+         Critical Movements Diagram
+                                                          SouthBound
+                                                          A:          48
+
+                                                          B:          18
+
+                                   EastBound                                             WestBound                        V/C RATIO            LOS
+                                  A:       329                                          A:     265
+                                                                                                                          0.00 - 0.60          A
+                                  B:           6                                        B:            19
+                                                                                                                          0.61 - 0.70          B
+                                                          NorthBound
+                                                          A:          46                                                  0.71 - 0.80          C
+     A = Adjusted Through/Right Volume
+     B = Adjusted Left Volume                             B:          11                                                  0.81 - 0.90          D
+     * = ATSAC Benefit
+                                                                                                                          0.91 - 1.00          E
+            Results
+                        North/South Critical Movements =        A(N/B)         + B(S/B)
+                        West/East Critical Movements       =    B(W/B)         +   A(E/B)
+                                                   46      +     18        +       19        +     329
+                                       V/C =                                                                    = 0.205               LOS =        A
+                                                                      *1500
+
+
+
+Developed by Chun Wong, 12/94
+FB_AM                                                                                                              April 30, 2008 ,Wednesday 01:21:01 PM
+                                                                     CalcaDB
+                                         INTERSECTION DATA SUMMARY SHEET
+
+
+     N/S:                       Grandview St                        W/E:                            7th St                      I/S No:             3
+
+     AM/PM: AM                              Comments: FB_AM
+
+     COUNT DATE:                                             STUDY DATE:                                           GROWTH FACTOR:
+
+
+
+        Volume/Lane/Signal Configurations
+
+                          NORTHBOUND                         SOUTHBOUND                                 WESTBOUND                      EASTBOUND
+                        LT         TH       RT           LT         TH            RT               LT        TH       RT          LT          TH            RT
+  EXISTING             36          0        24           0           0            0                41        477       0          0           578           68
+  AMBIENT
+  RELATED
+  PROJECT
+
+  TOTAL                36          0        24           0           0            0                41        477       0          0           578           68
+
+
+
+  LANE                                              1                                          1         2                                1         1
+
+                      Phasing           RTOR            Phasing              RTOR              Phasing             RTOR          Phasing            RTOR
+  SIGNAL                Perm             Auto            Perm                Auto                  Perm            Auto           Perm                  Auto
+
+
+         Critical Movements Diagram
+                                                               SouthBound
+                                                               A:            0
+
+                                                               B:            0
+
+                                   EastBound                                                    WestBound                      V/C RATIO            LOS
+                                   A:       323                                                A:     239
+                                                                                                                               0.00 - 0.60          A
+                                   B:           0                                              B:            41
+                                                                                                                               0.61 - 0.70          B
+                                                               NorthBound
+                                                               A:            60                                                0.71 - 0.80          C
+     A = Adjusted Through/Right Volume
+     B = Adjusted Left Volume                                  B:            36                                                0.81 - 0.90          D
+     * = ATSAC Benefit
+                                                                                                                               0.91 - 1.00          E
+            Results
+                        North/South Critical Movements =             A(N/B)           + B(S/B)
+                        West/East Critical Movements            =    B(W/B)           +   A(E/B)
+                                                        60      +        0        +       41        +     323
+                                        V/C =                                                                        = 0.353              LOS =         A
+                                                                             1200
+
+
+
+Developed by Chun Wong, 12/94
+FB_AM                                                                                                        April 30, 2008 ,Wednesday 01:21:01 PM
+                                                                  CalcaDB
+                                         INTERSECTION DATA SUMMARY SHEET
+
+
+     N/S:                       Grandview St                     W/E:                          8th St                       I/S No:            4
+
+     AM/PM: AM                              Comments: FB_AM
+
+     COUNT DATE:                                          STUDY DATE:                                        GROWTH FACTOR:
+
+
+
+        Volume/Lane/Signal Configurations
+
+                            NORTHBOUND                    SOUTHBOUND                               WESTBOUND                       EASTBOUND
+                        LT         TH       RT        LT         TH          RT            LT           TH        RT          LT         TH            RT
+  EXISTING              5          28       14        23         10          28           18          479         19          15         622           16
+  AMBIENT
+  RELATED
+  PROJECT
+
+  TOTAL                 5          28       14        23         10          28           18          479         19          15         622           16
+
+
+
+  LANE                             1                              1                            1             1                  1              1
+
+                      Phasing           RTOR         Phasing            RTOR              Phasing            RTOR            Phasing           RTOR
+  SIGNAL                Perm             Auto         Perm              Auto               Perm              Auto             Perm                 Auto
+
+
+         Critical Movements Diagram
+                                                            SouthBound
+                                                            A:          61
+
+                                                            B:          23
+
+                                   EastBound                                               WestBound                       V/C RATIO           LOS
+                                   A:       334                                           A:     285
+                                                                                                                           0.00 - 0.60         A
+                                   B:           15                                        B:            18
+                                                                                                                           0.61 - 0.70         B
+                                                            NorthBound
+                                                            A:          47                                                 0.71 - 0.80         C
+     A = Adjusted Through/Right Volume
+     B = Adjusted Left Volume                               B:          5                                                  0.81 - 0.90         D
+     * = ATSAC Benefit
+                                                                                                                           0.91 - 1.00         E
+            Results
+                        North/South Critical Movements =          A(N/B)         + B(S/B)
+                        West/East Critical Movements         =    B(W/B)         +   A(E/B)
+                                                     47      +     23        +       18        +     334
+                                        V/C =                                                                    = 0.352              LOS =        A
+                                                                        1200
+
+
+
+Developed by Chun Wong, 12/94
+FUTURE PLUS PROJECT (YEAR 2012)
+FP_AM                                                                                                               June 4, 2008 ,Wednesday 04:37:02 PM
+                                                                    CalcaDB
+                                        INTERSECTION DATA SUMMARY SHEET
+
+
+     N/S:                       Parkview St                        W/E:                               7th St                     I/S No:             1
+
+     AM/PM: AM                             Comments: FP_AM
+
+     COUNT DATE:                                            STUDY DATE:                                             GROWTH FACTOR:
+
+
+
+        Volume/Lane/Signal Configurations
+
+                          NORTHBOUND                        SOUTHBOUND                                WESTBOUND                         EASTBOUND
+                        LT        TH       RT           LT         TH            RT              LT            TH      RT          LT          TH            RT
+  EXISTING             30          0       20           0           0            0                9          521       0           0           629           27
+  AMBIENT
+  RELATED
+  PROJECT
+
+  TOTAL                30          0       20           0           0            0               9           521       0           0           629           27
+
+
+
+  LANE                                             1                                         1           2                                 1         1
+
+                      Phasing          RTOR            Phasing              RTOR             Phasing                RTOR          Phasing            RTOR
+  SIGNAL                Perm            Auto            Perm                Auto                 Perm               Auto           Perm                  Auto
+
+
+         Critical Movements Diagram
+                                                              SouthBound
+                                                              A:            0
+
+                                                              B:            0
+
+                                   EastBound                                                  WestBound                         V/C RATIO            LOS
+                                  A:       328                                               A:     261
+                                                                                                                                0.00 - 0.60          A
+                                  B:           0                                             B:                9
+                                                                                                                                0.61 - 0.70          B
+                                                              NorthBound
+                                                              A:            50                                                  0.71 - 0.80          C
+     A = Adjusted Through/Right Volume
+     B = Adjusted Left Volume                                 B:            30                                                  0.81 - 0.90          D
+     * = ATSAC Benefit
+                                                                                                                                0.91 - 1.00          E
+            Results
+                        North/South Critical Movements =            A(N/B)           + B(S/B)
+                        West/East Critical Movements           =    B(W/B)           +   A(E/B)
+                                                       50      +        0        +       9        +      328
+                                       V/C =                                                                          = 0.323              LOS =         A
+                                                                            1200
+
+
+
+Developed by Chun Wong, 12/94
+FP_AM                                                                                                           June 4, 2008 ,Wednesday 04:37:02 PM
+                                                                CalcaDB
+                                        INTERSECTION DATA SUMMARY SHEET
+
+
+     N/S:                       Parkview St                    W/E:                          8th St                         I/S No:             2
+
+     AM/PM: AM                             Comments: FP_AM
+
+     COUNT DATE:                                        STUDY DATE:                                         GROWTH FACTOR:
+
+
+
+        Volume/Lane/Signal Configurations
+
+                          NORTHBOUND                    SOUTHBOUND                               WESTBOUND                           EASTBOUND
+                        LT        TH       RT       LT         TH          RT               LT        TH          RT            LT        TH            RT
+  EXISTING             11         23       18       18         18          12               26        519         23            6         643           20
+  AMBIENT
+  RELATED
+  PROJECT
+
+  TOTAL                11         23       18       18         18          12               26        519         23            6         643           20
+
+
+
+  LANE                             1                            1                       1         1         1               1         1         1
+
+                      Phasing          RTOR        Phasing            RTOR              Phasing             RTOR             Phasing            RTOR
+  SIGNAL                Perm            Auto        Perm              Auto                  Perm            Auto                Perm                Auto
+
+
+         Critical Movements Diagram
+                                                          SouthBound
+                                                          A:          48
+
+                                                          B:          18
+
+                                   EastBound                                             WestBound                         V/C RATIO            LOS
+                                  A:       332                                          A:     271
+                                                                                                                           0.00 - 0.60          A
+                                  B:           6                                        B:            26
+                                                                                                                           0.61 - 0.70          B
+                                                          NorthBound
+                                                          A:          52                                                   0.71 - 0.80          C
+     A = Adjusted Through/Right Volume
+     B = Adjusted Left Volume                             B:          11                                                   0.81 - 0.90          D
+     * = ATSAC Benefit
+                                                                                                                           0.91 - 1.00          E
+            Results
+                        North/South Critical Movements =        A(N/B)         + B(S/B)
+                        West/East Critical Movements       =    B(W/B)         +   A(E/B)
+                                                   52      +     18        +       26        +     332
+                                       V/C =                                                                     = 0.215               LOS =        A
+                                                                      *1500
+
+
+
+Developed by Chun Wong, 12/94
+FP_AM                                                                                                              June 4, 2008 ,Wednesday 04:37:02 PM
+                                                                     CalcaDB
+                                         INTERSECTION DATA SUMMARY SHEET
+
+
+     N/S:                       Grandview St                        W/E:                            7th St                      I/S No:             3
+
+     AM/PM: AM                              Comments: FP_AM
+
+     COUNT DATE:                                             STUDY DATE:                                           GROWTH FACTOR:
+
+
+
+        Volume/Lane/Signal Configurations
+
+                          NORTHBOUND                         SOUTHBOUND                                 WESTBOUND                      EASTBOUND
+                        LT         TH       RT           LT         TH            RT               LT        TH       RT          LT          TH            RT
+  EXISTING             43          0        27           0           0            0                44        477      0           0           578           85
+  AMBIENT
+  RELATED
+  PROJECT
+
+  TOTAL                43          0        27           0           0            0                44        477      0           0           578           85
+
+
+
+  LANE                                              1                                          1         2                                1         1
+
+                      Phasing           RTOR            Phasing              RTOR              Phasing             RTOR          Phasing            RTOR
+  SIGNAL                Perm             Auto            Perm                Auto                  Perm            Auto           Perm                  Auto
+
+
+         Critical Movements Diagram
+                                                               SouthBound
+                                                               A:            0
+
+                                                               B:            0
+
+                                   EastBound                                                    WestBound                      V/C RATIO            LOS
+                                   A:       332                                                A:     239
+                                                                                                                               0.00 - 0.60          A
+                                   B:           0                                              B:            44
+                                                                                                                               0.61 - 0.70          B
+                                                               NorthBound
+                                                               A:            70                                                0.71 - 0.80          C
+     A = Adjusted Through/Right Volume
+     B = Adjusted Left Volume                                  B:            43                                                0.81 - 0.90          D
+     * = ATSAC Benefit
+                                                                                                                               0.91 - 1.00          E
+            Results
+                        North/South Critical Movements =             A(N/B)           + B(S/B)
+                        West/East Critical Movements            =    B(W/B)           +   A(E/B)
+                                                        70      +        0        +       44        +     332
+                                        V/C =                                                                        = 0.372              LOS =         A
+                                                                             1200
+
+
+
+Developed by Chun Wong, 12/94
+FP_AM                                                                                                            June 4, 2008 ,Wednesday 04:37:02 PM
+                                                                  CalcaDB
+                                         INTERSECTION DATA SUMMARY SHEET
+
+
+     N/S:                       Grandview St                     W/E:                          8th St                        I/S No:            4
+
+     AM/PM: AM                              Comments: FP_AM
+
+     COUNT DATE:                                          STUDY DATE:                                        GROWTH FACTOR:
+
+
+
+        Volume/Lane/Signal Configurations
+
+                          NORTHBOUND                      SOUTHBOUND                               WESTBOUND                        EASTBOUND
+                        LT         TH       RT        LT         TH          RT            LT           TH         RT          LT         TH            RT
+  EXISTING             11          28       14        26         17          40           18          479          22          21         622           16
+  AMBIENT
+  RELATED
+  PROJECT
+
+  TOTAL                11          28       14        26         17          40           18          479          22          21         622           16
+
+
+
+  LANE                             1                              1                            1             1                   1              1
+
+                      Phasing           RTOR         Phasing            RTOR              Phasing            RTOR             Phasing           RTOR
+  SIGNAL                Perm             Auto         Perm              Auto               Perm              Auto              Perm                 Auto
+
+
+         Critical Movements Diagram
+                                                            SouthBound
+                                                            A:          83
+
+                                                            B:          26
+
+                                   EastBound                                               WestBound                        V/C RATIO           LOS
+                                   A:       340                                           A:     287
+                                                                                                                            0.00 - 0.60         A
+                                   B:           21                                        B:            18
+                                                                                                                            0.61 - 0.70         B
+                                                            NorthBound
+                                                            A:          53                                                  0.71 - 0.80         C
+     A = Adjusted Through/Right Volume
+     B = Adjusted Left Volume                               B:          11                                                  0.81 - 0.90         D
+     * = ATSAC Benefit
+                                                                                                                            0.91 - 1.00         E
+            Results
+                        North/South Critical Movements =          B(N/B)         + A(S/B)
+                        West/East Critical Movements         =    B(W/B)         +   A(E/B)
+                                                     11      +     83        +       18        +     340
+                                        V/C =                                                                     = 0.377              LOS =        A
+                                                                        1200
+
+
+
+Developed by Chun Wong, 12/94
+                          APPENDIX-D4
+
+
+TRAFFIC SIGNAL WARRANT AND PEDESTRIAN CROSSING WARRANT ANALYSIS
+TRAFFIC SIGNAL WARRANTS
+EIGHT-HOUR VEHICULAR VOLUME (MUTCD Warrant 1, Caltrans Warrants 1, 2 & 8
+
+
+Major Street:    W 7th St
+Minor Street:    S Grandview St
+Scenario:        Future + Project
+Urban/Rural:     U          (U=urban, R=rural or high speed [c])
+
+
+MINIMUM VEHICULAR VOLUME
+(MUTCD Condition A, Caltrans Warrant 1)                                                              Minimum Requirements
+                                                                           Number of Lanes        Vehicles Per Hour            Vehicles Per Hour
+Number of Lanes on Each Approach                                           for Moving Traffic  (eighth highest hour) on     (eighth highest hour) on
+   Major Street:                                       2                   on Each Approach       Major Street (Total     Higher-Volume Minor Street
+   Minor Street:                                       1                    Major     Minor      of Both Approaches)      Approach (1 Direction Only)
+Vehicles Per Hour (8th Highest Hour)                                        Street    Street 100% [a] 80% [b] 70% [c] 100% [a] 80% [b] 70% [c]
+   Major Street (Approach 1):                        318                      1         1      500        400       350    150         120      105
+   Major Street (Approach 2):                        394                     >=2        1      600        480       420    150         120      105
+   Major Street Left Turn (see note [d])               0                     >=2       >=2     600        480       420    200         160      140
+   Minor Street (Higher Volume App.):                 50                      1        >=2     500        400       350    200         160      140
+                                                                          Minimum Required     600        480      #N/A    150         120      #N/A
+MINIMUM VEHICULAR VOLUME SATISFIED?                             NO        Test Amount          712        712      #N/A     50          50      #N/A
+
+
+INTERRUPTION OF CONTINUOUS TRAFFIC
+(MUTCD Condition B, Caltrans Warrant 2)                                                              Minimum Requirements
+                                                                           Number of Lanes        Vehicles Per Hour            Vehicles Per Hour
+Number of Lanes on Each Approach                                           for Moving Traffic  (eighth highest hour) on     (eighth highest hour) on
+   Major Street:                                       2                   on Each Approach       Major Street (Total     Higher-Volume Minor Street
+   Minor Street:                                       1                    Major     Minor      of Both Approaches)      Approach (1 Direction Only)
+Vehicles Per Hour (8th Highest Hour)                                        Street    Street 100% [a] 80% [b] 70% [c] 100% [a] 80% [b] 70% [c]
+   Major Street (Approach 1):                        318                      1         1      750        600       525     75         60        53
+   Major Street (Approach 2):                        394                     >=2        1      900        720       630     75         60        53
+   Major Street Left Turn (see note [d])               0                     >=2       >=2     900        720       630    100         80        70
+   Minor Street (Higher Volume App.):                 50                      1        >=2     750        600       525    100         80        70
+                                                                          Minimum Required     900        720      #N/A     75         60       #N/A
+INTERRUPT. OF CONT. TRAFFIC SATISFIED?                          NO        Test Amount          712        712      #N/A     50         50       #N/A
+
+
+80% COMBINATION (Caltrans Warrant 8)
+
+No one warrant satisfied but following
+warrants fulfilled 80% or more:
+
+Condition A 80% Fulfilled?                           NO
+Condition B 80% Fulfilled?                           NO
+                                                                                      Minimum Requirements:
+80% COMBINATION SATISFIED?                                      NO                    Conditions A and B Both 80% Fulfilled
+
+
+Notes:
+  a. Basic minimum hourly volume (eighth highest hour).
+  b. Used for combination of Conditions A and B.
+  c. May be used when the major-street speed exceeds 40 mph or in an isolated community with a population of less than 10,000.
+  d. Heavier left-turn movement from the major street may be included with minor street volume if a separate signal phase is proposed for left-turn movements.
+
+
+
+Adopted from: U.S. Department of Transportation, Federal Highway Administration, Manual on Uniform Traffic Control Devices, Millennium Edition , 2001; and
+Caltrans, Traffic Manual, 2002.
+TRAFFIC SIGNAL WARRANTS
+FOUR HOUR VEHICULAR VOLUME (MUTCD Warrant 2, Caltrans Warrant 9)
+PEAK HOUR VEHICULAR VOLUME (MUTCD Warrant 3, Caltrans Warrant 11)
+
+
+Major Street:    W 7th St
+Minor Street:    S Grandview St
+Scenario:        Future + Project
+Urban/Rural:     U          (U=urban, R=rural [a])
+
+
+FOUR HOUR VOLUME (MUTCD Warrant 2, Caltrans Warrant 9)
+
+Number of Lanes on Each Approach
+  Major Street:                                          2
+  Minor Street:                                          1
+
+Vehicles Per Hour (4th Highest Hour)
+   Major Street (Approach 1):                         451             Major Street Left Turn (see note [b]):               0
+   Major Street (Approach 2):                         558             Minor Street (Higher Volume App.):                  71
+   Major Street Total (Both Approaches):            1,009             Minor Street Total:                                 71
+
+   Minimum Volume on Major Street                                     Minimum Volume on Minor Street
+   to Satisfy Warrant (see note [c]):                 390             to Satisfy Warrant (see note [c]):                140
+
+FOUR HOUR VOLUME WARRANT SATISFIED?                            NO
+
+
+PEAK HOUR VOLUME (MUTCD Warrant 3, Caltrans Warrant 11)
+
+Number of Lanes on Each Approach
+  Major Street:                                          2
+  Minor Street:                                          1
+
+Vehicles Per Hour (Peak Hour)
+   Major Street (Approach 1):                         530             Major Street Left Turn (see note [b]):               0
+   Major Street (Approach 2):                         656             Minor Street (Higher Volume App.):                  84
+   Major Street Total (Both Approaches):            1,186             Minor Street Total:                                 84
+
+   Minimum Volume on Major Street                                     Minimum Volume on Minor Street
+   to Satisfy Warrant (see note [d]):                 510             to Satisfy Warrant (see note [d]):                220
+
+PEAK HOUR VOLUME WARRANT SATISFIED?                            NO
+
+
+Notes:
+  a. May be used when the major-street speed exceeds 40 mph or in an isolated community with a population of less than 10,000.
+
+  b. Heavier left-turn movement from the major street may be included with minor street volume if a separate signal phase is
+     proposed for left-turn movements.
+  c. From: USDOT, FHWA, "Manual on Uniform Traffic Control Devices," 2001, Figure 4C-1.
+  d. From: USDOT, FHWA, "Manual on Uniform Traffic Control Devices," 2001, Figure 4C-3.
+
+Adopted from: U.S. Department of Transportation, Federal Highway Administration, "Manual on Uniform Traffic Control Devices,
+Millennium Edition," 2001; and Caltrans, "Traffic Manual," 2002.
+SUMMARY OF TRAFFIC SIGNAL WARRANT ANALYSIS
+
+
+Major Street:   W 7th St
+Minor Street:   S Grandview St
+Scenario:       Future + Project
+
+
+SUMMARY OF RESULTS
+
+                                            MUTCD     Caltrans   Requested   Volumes
+                                            Warrant   Warrant       for       Satisfy      Applicable
+                  Warrant                   Number    Number     Analysis?   Warrant?     Time Period
+
+Eight Hour Vehicular Volume                    1
+       Minimum Vehicular Volume               1A         1         YES         NO       8th Highest Hour
+       Interruption of Continuous Traffic     1B         2         YES         NO       8th Highest Hour
+       80% Combination                        1C         8         YES         NO       8th Highest Hour
+
+Four Hour Volume                              2          9         YES         NO       4th Highest Hour
+
+Peak Hour Volume                              3         11         YES         NO         Peak Hour
+
+Estimated Average Daily Traffic               n/a       n/a
+       Minimum Vehicular Volume                                     NO         n/a           Daily
+       Interruption of Continuous Traffic                           NO         n/a           Daily
+       80% Combination                                              NO         n/a           Daily
+
