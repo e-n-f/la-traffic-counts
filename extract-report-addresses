@@ -164,10 +164,15 @@ while (<>) {
 
 	$out = $_;
 
-	$where = geocode($name);
+	if ($id =~ /^oak/) {
+		# wrong county!
+		$where = ",";
+	} else {
+		$where = geocode($name);
 
-	if ($where eq ",") {
-		$where = geocode($name{$id});
+		if ($where eq ",") {
+			$where = geocode($name{$id});
+		}
 	}
 
 	if ($where eq ",") {

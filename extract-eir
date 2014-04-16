@@ -29,6 +29,10 @@ sub fixtime {
 	    $time =~ /^(\d\d?):(\d\d)-(\d\d?):(\d\d)/) {
 		my ($h1, $m1, $h2, $m2) = ($1, $2, $3, $4);
 
+		if ($_[1]) {
+			$h1 += 12;
+		}
+
 		if ($h1 < 7) {
 			$h1 += 12;
 		}
@@ -178,7 +182,11 @@ sub col {
 						my $key = "$dir$turn";
 
 						if (defined($mode{"$fname,$ns / $ew,x,$date,$fields[0]"}[$off])) {
-							print STDERR "$off was " . $mode{"$fname,$ns / $ew,x,$date,$fields[0]"}[$off] . "\n";
+							$fields[0] = fixtime($fields[0], 1);
+						}
+
+						if (defined($mode{"$fname,$ns / $ew,x,$date,$fields[0]"}[$off])) {
+							print STDERR "$off for $fname,$ns / $ew,x,$date,$fields[0] was " . $mode{"$fname,$ns / $ew,x,$date,$fields[0]"}[$off] . "\n";
 							die $text[$i];
 						}
 
