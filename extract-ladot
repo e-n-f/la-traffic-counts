@@ -180,7 +180,6 @@ while (1) {
 
 		for $time (sort(keys(%movement))) {
 			my $fn = $ARGV;
-			$fn =~ s/.*\///;
 
 			print "$fn,$ns / $ew,x,$date,$time,";
 			$anything = 1;
