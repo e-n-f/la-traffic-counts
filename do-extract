@@ -2,6 +2,7 @@
 
 find eir -name '*.txt' -print0 | xargs -0 -L1 ./extract-eir | ./extract-report-addresses > counts-la-eir.csv
 find misc -name '*.txt' -print0 | xargs -0 -L1 ./extract-eir | ./extract-report-addresses > counts-misc.csv
+find oakland -name '*.txt' -print0 | xargs -0 -L1 ./extract-eir | ./extract-report-addresses > counts-oakland.csv
 
 (
 	find navigatela.lacity.org -name '*.txt' -print0 | xargs -0 -L1 ./extract-eir
