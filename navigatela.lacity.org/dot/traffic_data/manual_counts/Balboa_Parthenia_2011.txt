@@ -1,0 +1,56 @@
+                       City Of Los Angeles
+                       Department Of Transportation
+                       MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South            Balboa Blvd
+
+East/West              Parthenia St
+
+Day:                 Wednesday               Date:              May 11, 2011                 Weather:              SUNNY
+
+Hours:        7-10AM 3-4PM                                                  Chekrs:          0
+
+School Day:            YES                   District:          0                                I/S CODE          0
+
+
+                           N/B                           S/B                                      E/B                      W/B
+DUAL-
+WHEELED                      21                            16                                      31                        15
+BIKES                         8                             9                                       7                        10
+BUSES                        54                            53                                      34                        45
+
+
+                           N/B    TIME                    S/B       TIME                          E/B   TIME               W/B     TIME
+
+AM PK 15 MIN               315        7.30               464         8.00                         344       7.45            393     7.30
+
+PM PK 15 MIN               419    15.45                   390       15.15                         350   15.45               330    15.00
+
+AM PK HOUR                1160        7.30               1747        7.30                        1273       7.15           1474     7.00
+
+PM PK HOUR                1547    15.00                  1239       15.00                        1247   15.00              1224    15.00
+
+
+
+
+NORTHBOUND Approach                                             SOUTHBOUND Approach                                               TOTAL    XING S/L       XING N/L
+
+Hours           Lt       Th       Rt Total                      Hours                 Lt         Th     Rt     Total               N-S      Ped   Sch      Ped   Sch
+7-8               92      856      112  1060                    7-8                   100        1438        98 1636                2696     22     1       18     0
+8-9               89      701      126   916                    8-9                   109        1293       140 1542                2458      7     0       11     0
+9-10              85      563       86   734                    9-10                    61        816       117 994                 1728      6     0        1     0
+15-16            140     1271      136  1547                    15-16                 128         968       143 1239                2786     19     0       20     0
+
+TOTAL            406      3391        460       4257            TOTAL                 398        4515       498 5411                9668     54       1     50       0
+
+
+EASTBOUND Approach                                              WESTBOUND Approach                                                TOTAL    XING W/L       XING E/L
+
+Hours           Lt       Th       Rt Total                      Hours                 Lt         Th     Rt     Total               E-W      Ped   Sch      Ped   Sch
+7-8               84      945      157  1186                    7-8                   143        1250        81 1474                2660     22     2       25     0
+8-9               90      746      145   981                    8-9                   126        1007       102 1235                2216     11     0       11     0
+9-10             113      577      114   804                    9-10                  121         694        92 907                 1711      3     0       15     0
+15-16            151      983      113  1247                    15-16                 125         911       188 1224                2471     25     1       32     0
+
+TOTAL            438      3251        529       4218            TOTAL                 515        3862       463 4840                9058     61       3     83       0
+

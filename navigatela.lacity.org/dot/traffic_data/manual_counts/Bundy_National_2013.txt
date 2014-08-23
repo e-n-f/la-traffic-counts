@@ -1,0 +1,60 @@
+                         City Of Los Angeles
+                         Department Of Transportation
+                         MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South              Bundy Dr
+
+East/West                National Blvd
+
+Day:             WEDNESDAY                    Date:              May 29, 2013               Weather:            SUNNY
+
+Hours:        7-10AM & 3-6PM                                               Chekrs:          NDS
+
+School Day:              YES                  District:                                       I/S CODE
+
+
+                            N/B                           S/B                                  E/B                        W/B
+DUAL-
+WHEELED                         34                         42                                      0                        8
+BIKES                           46                         31                                      0                       16
+BUSES                           76                         56                                      0                       15
+
+
+                            N/B      TIME                  S/B    TIME                         E/B     TIME               W/B    TIME
+
+AM PK 15 MIN                 594      8.00                316       8.00                           0     0.00             210     7.45
+
+PM PK 15 MIN                 437     15.30                540      16.00                           0     0.00             183    17.45
+
+AM PK HOUR                 2282       7.30                1226      8.00                           0     0.00             748     8.15
+
+PM PK HOUR                 1638      17.00                2082     16.45                           0     0.00             683    17.00
+
+
+
+
+NORTHBOUND Approach                                              SOUTHBOUND Approach                                            TOTAL    XING S/L       XING N/L
+
+Hours           Lt         Th        Rt Total                    Hours               Lt       Th       Rt       Total            N-S      Ped   Sch      Ped   Sch
+7-8                  0     1806       304  2110                  7-8                  110      613          0       723           2833      0     0        0     0
+8-9                  0     1848       370  2218                  8-9                  236      990          0      1226           3444      0     0        1     0
+9-10                 0     1739       337  2076                  9-10                 187      813          0      1000           3076      0     0        5     0
+15-16                0     1274       343  1617                  15-16                380     1475          0      1855           3472      0     0        2     0
+16-17                0     1148       357  1505                  16-17                525     1544          0      2069           3574      0     0        3     0
+17-18                0     1244       394  1638                  17-18                510     1544          0      2054           3692      0     0       11     0
+
+TOTAL                0     9059      2105       11164            TOTAL               1948     6979          0     8927           20091      0       0     22       0
+
+
+EASTBOUND Approach                                               WESTBOUND Approach                                             TOTAL    XING W/L       XING E/L
+
+Hours           Lt         Th        Rt       Total              Hours               Lt       Th       Rt Total                  E-W      Ped   Sch      Ped   Sch
+7-8                  0          0         0           0          7-8                  218          0    358   576                  576      0     0        3     0
+8-9                  0          0         0           0          8-9                  230          0    484   714                  714      0     0        5     0
+9-10                 0          0         0           0          9-10                 213          0    421   634                  634      0     0       15     0
+15-16                0          0         0           0          15-16                345          0    253   598                  598      0     0        2     0
+16-17                0          0         0           0          16-17                364          0    226   590                  590      0     0        7     0
+17-18                0          0         0           0          17-18                446          0    237   683                  683      0     0        4     0
+
+TOTAL                0           0        0           0          TOTAL               1816          0   1979       3795            3795      0       0     36       0
+

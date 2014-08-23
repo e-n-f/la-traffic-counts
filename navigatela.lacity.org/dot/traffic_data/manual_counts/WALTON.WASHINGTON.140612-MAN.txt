@@ -1,0 +1,61 @@
+                       City Of Los Angeles
+                       Department Of Transportation
+                       MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South            WALTON AV.
+
+East/West              WASHINGTON BL.
+
+Day:        THURSDAY                      Date:         June 12, 2014            Weather:            SUNNY
+
+Hours:      7-10AM 1:30-4:30PM                                                   Chekrs:             JC & YT
+
+School Day:            YES                District:         CENTRAL                I/S CODE 7587
+
+
+                        N/B                           S/B                          E/B                         W/B
+DUAL-
+WHEELED                      0                         0                           140                         116
+BIKES                        0                         0                            24                          24
+BUSES                        0                         0                            29                          30
+
+
+                        N/B TIME                      S/B TIME                     E/B TIME                    W/B TIME
+
+AM PK 15 MIN                 0   7.00                  6     7.00                  271      8.45               244     7.45
+
+PM PK 15 MIN                 0   1.30                  8     3.00                  311      3.00               201     4.15
+
+AM PK HOUR                   0   7.00                 16     7.00                 1016      7.15               936     7.15
+
+PM PK HOUR                   0   1.30                 18     2.30                 1085      3.00               693     3.30
+
+
+
+NORTHBOUND Approach                                         SOUTHBOUND Approach                                      TOTAL    XING S/L   XING N/L
+
+Hours         Lt        Th       Rt       Total             Hours       Lt        Th        Rt       Total            N-S      Ped Sch    Ped   Sch
+7-8                0         0        0           0         7-8              9         0         7        16            16       0   0     16     5
+8-9                0         0        0           0         8-9              8         0         3        11            11       0   0     34    15
+9-10               0         0        0           0         9-10             5         0         4         9              9      0   0     19    18
+2:30-3:30          0         0        0           0         2:30-3:30        3         0         5         8              8      0   0     20     2
+3:30-4:30          0         0        0           0         3:30-4:30        9         0         9        18            18       0   0     75    78
+4:30-5:30          0         0        0           0         4:30-5:30        3         0         4         7              7      0   0     19     5
+
+TOTAL              0         0        0           0         TOTAL        37            0     32          69             69      0    0    183   123
+
+
+EASTBOUND Approach                                          WESTBOUND Approach                                       TOTAL    XING W/L   XING E/L
+
+Hours         Lt        Th       Rt       Total             Hours       Lt        Th        Rt       Total           E-W       Ped Sch    Ped   Sch
+7-8                0     925          0      925            7-8              0     916           8      924           1849       0   0      0     0
+8-9                2     972          0      974            8-9              0     867           3      870           1844       1   1      0     0
+9-10               3     752          0      755            9-10             0     692           3      695           1450       0   0      2     1
+2:30-3:30          2     639          0      641            2:30-3:30        0     582           4      586           1227       0   0      0     0
+3:30-4:30          4     954          0      958            3:30-4:30        0     637           9      646           1604       4   1      2     1
+4:30-5:30          3     990          0      993            4:30-5:30        0     685           8      693           1686       0   0      0     0
+
+TOTAL          14 5232                0     5246            TOTAL            0 4379          35        4414           9660      5    2      4     2
+
+            (Rev Oct 06)
+

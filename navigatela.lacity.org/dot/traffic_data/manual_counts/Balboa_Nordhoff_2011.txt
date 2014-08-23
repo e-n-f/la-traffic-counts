@@ -1,0 +1,56 @@
+                          City Of Los Angeles
+                          Department Of Transportation
+                          MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South               Balboa Blvd
+
+East/West                 Nordhoff St
+
+Day:                      Thursday             Date:              May 12, 2011                  Weather:              SUNNY
+
+Hours:        7-10AM 3-4PM                                                    Chekrs:           0
+
+School Day:               YES                  District:          0                                 I/S CODE          0
+
+
+                             N/B                           S/B                                       E/B                         W/B
+DUAL-
+WHEELED                          6                           13                                       17                           12
+BIKES                            6                            5                                        4                            9
+BUSES                           17                           35                                       20                           26
+
+
+                             N/B     TIME                   S/B       TIME                           E/B   TIME                  W/B     TIME
+
+AM PK 15 MIN                  321       7.30                504        8.00                          347       7.45               498     7.30
+
+PM PK 15 MIN                    0       0.00                  0        0.00                            0       0.00                 0     0.00
+
+AM PK HOUR                   1102       7.15               1906        7.30                         1047       7.30              1706     7.15
+
+PM PK HOUR                      0       0.00                  0        0.00                            0       0.00                 0     0.00
+
+
+
+
+NORTHBOUND Approach                                               SOUTHBOUND Approach                                                   TOTAL    XING S/L       XING N/L
+
+Hours           Lt          Th          Rt Total                  Hours                 Lt          Th     Rt Total                      N-S      Ped   Sch      Ped   Sch
+7-8              118         786         129  1033                7-8                    157        1432    105  1694                     2727     11     4       23     2
+8-9              109         644         141   894                8-9                    124        1418     99  1641                     2535     17     1       18     0
+9-10             111         509         118   738                9-10                     97        797     76   970                     1708     13     0        8     0
+                   0           0           0     0                                          0          0      0     0                        0      0     0        0     0
+
+TOTAL            338         1939        388      2665            TOTAL                  378        3647       280        4305            6970     41       5     49       2
+
+
+EASTBOUND Approach                                                WESTBOUND Approach                                                    TOTAL    XING W/L       XING E/L
+
+Hours           Lt          Th          Rt Total                  Hours                 Lt          Th     Rt Total                      E-W      Ped   Sch      Ped   Sch
+7-8                  66      708         139   913                7-8                    198        1342    104  1644                     2557     47    14       16     0
+8-9                  79      614         110   803                8-9                    189        1168     65  1422                     2225     21     4        7     0
+9-10                 68      614         120   802                9-10                   107        1165     61  1333                     2135     20     0        9     0
+                      0        0           0     0                                         0           0      0     0                        0      0     0        0     0
+
+TOTAL            213         1936        369      2518            TOTAL                  494        3675       230        4399            6917     88   18        32       0
+

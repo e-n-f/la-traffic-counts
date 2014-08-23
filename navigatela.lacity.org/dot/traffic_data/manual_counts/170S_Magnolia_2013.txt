@@ -1,0 +1,65 @@
+                         City Of Los Angeles
+                         Department Of Transportation
+                         MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South              SR-170 SOUTH
+
+East/West                MAGNOLIA BOULEVARD
+
+Day:          WEDNESDAY                     Date:          MAY 15, 2013          Weather:            CLEAR
+
+Hours:        7-10AM 3-6PM
+
+School Day:              YES                District:                              I/S CODE                      0
+
+
+                          N/B                            S/B                       E/B                        W/B
+DUAL-
+WHEELED                        0                          17                        10                          17
+BIKES                          0                           0                        13                           3
+BUSES                          0                           3                        51                          40
+
+
+                          N/B TIME                       S/B TIME                  E/B TIME                   W/B    TIME
+
+AM PK 15 MIN                   0   7.00                  260    7.45               325      7.45               326    7.45
+
+PM PK 15 MIN                   0   3.00                  140    5.45               294      3.30               338    5.45
+
+AM PK HOUR                     0   7.00                 1002    7.00              1212      7.30               990    7.30
+
+PM PK HOUR                     0   3.00                  497    5.00              1028      3.15              1277    5.00
+
+
+
+NORTHBOUND Approach                                            SOUTHBOUND Approach                                   TOTAL       XING S/L           XING N/L
+
+Hours           Lt        Th       Rt       Total              Hours      Lt      Th        Rt Total                  N-S          Ped Sch            Ped   Sch
+7-8                  0         0        0           0          7-8        486      321      195 1002                  1002          23 25               3    45
+8-9                  0         0        0           0          8-9        527      193      151   871                  871          27   9              9    31
+9-10                 0         0        0           0          9-10       300        2       77   379                  379          15   5              3    38
+3-4                  0         0        0           0          3-4        323        3       88   414                  414          11 62               2    89
+4-5                  0         0        0           0          4-5        374        3      120   497                  497           9 14              15     5
+5-6                  0         0        0           0          5-6        374        3      120   497                  497          13   7              2     5
+
+TOTAL                0         0        0           0          TOTAL      2384     525      751        3660           3660           98 122            34   213
+
+
+EASTBOUND Approach                                             WESTBOUND Approach                                    TOTAL       XING W/L           XING E/L
+
+Hours           Lt        Th       Rt Total                    Hours      Lt  Th            Rt       Total           E-W           Ped Sch            Ped   Sch
+7-8                  0     530     466   996                   7-8         57 454                0      511           1507           3 16               0     0
+8-9                  0     633     484 1117                    8-9         81 704                0      785           1902           3 12               0     0
+9-10                 0     516     373   889                   9-10       132 563                0      695           1584           7   3              0     0
+3-4                  0     600     261   861                   3-4        202 969                0     1171           2032           3 15               0     0
+4-5                  0     675     302   977                   4-5        216 1061               0     1277           2254           2   2              0     0
+5-6                  0     672     302   974                   5-6        212 1058               0     1270           2244           1   0              0     0
+
+TOTAL                0 3626 2188               5814            TOTAL       900 4809              0     5709          11523           19    48           0     0
+
+              (Rev Oct 06)
+
+
+                                                                                                                             City of Los Angeles
+                                                                                                                             Department of Transportation
+

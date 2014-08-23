@@ -1,0 +1,63 @@
+                        City Of Los Angeles
+                        Department Of Transportation
+                        MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South             WHITSETT AV
+
+East/West               MILIBANK ST
+
+Day:        MONDAY                            Date:        August 14, 2006            Weather:              CLEAR
+
+Hours:      7-10AM 3-6PM
+
+School Day:             YES                   District:             EAST VALLEY         I/S CODE 5067079220
+
+
+                         N/B                               S/B                         E/B                             W/B
+DUAL-
+WHEELED                       41                             78                              0                            0
+BIKES                          4                              4                              0                            0
+BUSES                          0                             12                              0                            0
+
+
+                        N/B        TIME                    S/B    TIME                E/B        TIME                  W/B TIME
+
+AM PK 15 MIN              110       8.45                    247 8.45                         0    7.00                    5     7.45
+
+PM PK 15 MIN              279       3.45                    174 3.00                         0    3.00                    3     4.15
+
+AM PK HOUR                400       8.15                    901 8.00                         0    7.00                   15     7.45
+
+PM PK HOUR               1019       5.00                    637 3.00                         0    3.00                    7     4.15
+
+
+
+
+NORTHBOUND Approach                                               SOUTHBOUND Approach                                         TOTAL    XING S/L   XING N/L
+
+Hours          Lt        Th         Rt         Total              Hours      Lt        Th         Rt         Total             N-S     Ped Sch    Ped Sch
+7-8                 0     167             2      169              7-8          6        617             0      623               792      0   0      0   0
+8-9                 0     366             0      366              8-9         18        883             0      901              1267      0   0      0   0
+9-10                0     352             5      357              9-10         8        712             0      720              1077      0   0      0   0
+3-4                 0     903             1      904              3-4          1        636             0      637              1541      0   0      0   0
+4-5                 0     917             2      919              4-5         10        593             0      603              1522      0   0      0   0
+5-6                 0    1015             4     1019              5-6         13        591             0      604              1623      0   0      1   0
+
+TOTAL               0    3720         14         3734             TOTAL       56       4032             0     4088             7822       0   0      1   0
+
+
+EASTBOUND Approach                            NONE                WESTBOUND Approach                                          TOTAL    XING W/L   XING E/L
+
+Hours          Lt        Th         Rt         Total              Hours      Lt        Th         Rt         Total             E-W     Ped Sch    Ped Sch
+7-8                 0          0          0            0          7-8             1          0      10           11               11      0   0      4   0
+8-9                 0          0          0            0          8-9             0          0      13           13               13      0   0      0   0
+9-10                0          0          0            0          9-10            1          0       8             9               9      0   0      2   0
+3-4                 0          0          0            0          3-4             0          0       2             2               2      0   0      0   0
+4-5                 0          0          0            0          4-5             0          0       5             5               5      0   0      0   0
+5-6                 0          0          0            0          5-6             0          0       4             4               4      0   0      0   0
+
+TOTAL               0          0          0            0          TOTAL           2          0      42           44               44      0   0      6   0
+
+
+            (Rev Apr 06)
+

@@ -1,0 +1,63 @@
+                        City Of Los Angeles
+                        Department Of Transportation
+                        MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South             SAN FERNANDO RD NE ROADWAY
+
+East/West               VERDUGO RAOD
+
+Day:        FRIDAY                            Date:         April 6, 2007            Weather:              CLOUDY
+
+Hours:      7-10AM 3-6PM
+
+School Day:             YES                   District:           CENTRAL              I/S CODE             47317
+
+
+                         N/B                               S/B                        E/B                               W/B
+DUAL-
+WHEELED                   176                               292                             0                             0
+BIKES                       4                                 3                             0                             0
+BUSES                     104                                83                             6                             0
+
+
+                        N/B        TIME                    S/B    TIME               E/B        TIME                    W/B TIME
+
+AM PK 15 MIN              227       7.30                    299 7.45                        0    7.00                     0     7.00
+
+PM PK 15 MIN              352       5.00                    409 5.45                        6    5.45                     0     3.00
+
+AM PK HOUR                785       7.00                   1130 7.15                        0    7.00                     0     7.00
+
+PM PK HOUR               1383       4.45                   1517 5.00                        6    5.00                     0     3.00
+
+
+
+
+NORTHBOUND Approach                                               SOUTHBOUND Approach                                         TOTAL      XING S/L   XING N/L
+
+Hours          Lt        Th         Rt         Total              Hours     Lt        Th         Rt         Total              N-S       Ped Sch    Ped Sch
+7-8                 1     760         24         785              7-8            2    1122             0     1124               1909        0   0      0   0
+8-9                 0     694         12         706              8-9            2    1093             0     1095               1801        0   0      0   0
+9-10                0     708         24         732              9-10           1    1020             0     1021               1753        0   0      0   0
+3-4                 1    1132         68        1201              3-4            3    1212             0     1215               2416        0   0      1   0
+4-5                 0    1202         69        1271              4-5            5    1388             0     1393               2664        0   0      0   0
+5-6                 0    1288         71        1359              5-6            1    1516             0     1517               2876        0   0      0   0
+
+TOTAL               2    5784        268         6054             TOTAL      14       7351             0     7365              13419        0   0      1   0
+
+
+EASTBOUND Approach                                                WESTBOUND Approach                       NONE               TOTAL      XING W/L   XING E/L
+
+Hours          Lt        Th         Rt         Total              Hours     Lt        Th         Rt         Total              E-W       Ped Sch    Ped Sch
+7-8                 0          0          0            0          7-8            0          0          0            0                0      0   0      3   0
+8-9                 0          0          0            0          8-9            0          0          0            0                0      0   0      3   0
+9-10                0          0          0            0          9-10           0          0          0            0                0      0   0      5   0
+3-4                 0          0          0            0          3-4            0          0          0            0                0      0   0      6   0
+4-5                 0          0          0            0          4-5            0          0          0            0                0      0   0      6   0
+5-6                 0          6          0            6          5-6            0          0          0            0                6      0   0      4   0
+
+TOTAL               0          6          0            6          TOTAL          0          0          0            0                6      0   0     27   0
+
+
+            (Rev Oct 06)
+

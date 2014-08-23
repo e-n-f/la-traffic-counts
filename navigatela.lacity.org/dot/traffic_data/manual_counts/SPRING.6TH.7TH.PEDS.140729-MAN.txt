@@ -1,0 +1,61 @@
+                       City Of Los Angeles
+                       Department Of Transportation
+                       MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South            SPRING ST. - 5 ZONE PED COUNT
+
+East/West              BETWEEN 6th ST. & 7th ST.
+
+Day:               TUESDAY                Date:             July 29, 2014              Weather:            SUNNY
+
+Hours:      7-10AM 3-6PM                                            Chekrs:            YT & JC
+
+School Day:            YES                District:         CENTRAL                      I/S CODE 00000
+
+
+                        N/B                           S/B                                E/B                           W/B
+DUAL-
+WHEELED                      0                         0                                     0                           0
+BIKES                        0                         0                                     0                           0
+BUSES                        0                         0                                     0                           0
+
+
+                        N/B TIME                      S/B TIME                           E/B TIME                      W/B TIME
+
+AM PK 15 MIN                 0   7.00                  0     7.00                            0    7.00                   0    7.00
+
+PM PK 15 MIN                 0   3.00                  0     3.00                            0    3.00                   0    3.00
+
+AM PK HOUR                   0   7.00                  0     7.00                            0    7.00                   0    7.00
+
+PM PK HOUR                   0   3.00                  0     3.00                            0    3.00                   0    3.00
+
+
+
+NORTHBOUND Approach                                         SOUTHBOUND Approach                                         ZONE 4         ZONE 3       ZONE 5
+
+Hours         Lt        Th       Rt       Total             Hours             Lt        Th        Rt                   Ped     Sch      Ped Sch      Ped     Sch
+7-8                0         0        0           0         7-8                    0         0         0                 2       0       10   0      221       3
+8-9                0         0        0           0         8-9                    0         0         0                 2       0       15   0      292       3
+9-10               0         0        0           0         9-10                   0         0         0                 4       0       15   0      316       8
+3-4                0         0        0           0         3-4                    0         0         0                13       0       36   0      340      13
+4-5                0         0        0           0         4-5                    0         0         0                14       0       14   0      359      16
+5-6                0         0        0           0         5-6                    0         0         0                17       0       38   0      312       3
+
+TOTAL              0         0        0           0         TOTAL                  0         0         0                52         0    128     0   1840     46
+
+
+EASTBOUND Approach                                          WESTBOUND Approach                                               TOTAL     ZONE 2       ZONE 1
+
+Hours         Lt        Th       Rt       Total             Hours             Lt        Th        Rt       Total             E-W        Ped Sch      Ped     Sch
+7-8                0         0        0           0         7-8                    0         0         0           0               0      3   0      141       3
+8-9                0         0        0           0         8-9                    0         0         0           0               0      2   0      137       6
+9-10               0         0        0           0         9-10                   0         0         0           0               0      0   0      194       5
+3-4                0         0        0           0         3-4                    0         0         0           0               0      6   0      301       9
+4-5                0         0        0           0         4-5                    0         0         0           0               0      3   0      268       7
+5-6                0         0        0           0         5-6                    0         0         0           0               0      4   0      304       3
+
+TOTAL              0         0        0           0         TOTAL                  0         0         0           0               0     18     0   1345     33
+
+            (Rev Oct 06)
+

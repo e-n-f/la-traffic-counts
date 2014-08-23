@@ -1,0 +1,61 @@
+                    City Of Los Angeles
+                    Department Of Transportation
+                    MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South         SILVER LAKE BL
+
+East/West           VAN PELT PL
+
+Day:              FRIDAY                Date:        February 20, 2009                Weather:          SUNNY
+
+Hours:      7-10AM 3-6PM                                           Chekrs:            ALAS
+
+School Day:         YES                 District:          HOLLYWOOD                    I/S CODE 19106
+
+
+                     N/B                            S/B                                 E/B                     W/B
+DUAL-
+WHEELED                43                             33                                    2                     0
+BIKES                  12                             12                                    1                     0
+BUSES                   0                              0                                    0                     0
+
+
+                     N/B TIME                        S/B TIME                           E/B TIME                W/B TIME
+
+AM PK 15 MIN          184      8.00                  285    7.15                         18      9.00             0    7.00
+
+PM PK 15 MIN          391      5.30                  261    5.45                         18      3.00             0    3.00
+
+AM PK HOUR            650      7.30                 1044    7.15                         58      9.00             0    7.00
+
+PM PK HOUR           1448      5.00                  949    5.00                         60      3.00             0    3.00
+
+
+
+NORTHBOUND Approach                                        SOUTHBOUND Approach                                        TOTAL   XING S/L   XING N/L
+
+Hours         Lt  Th           Rt       Total              Hours             Lt        Th        Rt Total              N-S     Ped Sch    Ped   Sch
+7-8            12 511               0      523             7-8                    0     926       18   944             1467      0   0      6     0
+8-9            18 618               0      636             8-9                    0     986       25 1011              1647      0   0      2     0
+9-10           11 469               0      480             9-10                   0     959       35   994             1474      0   0      7     0
+3-4            12 1114              0     1126             3-4                    0     589       33   622             1748      1   0      6     1
+4-5            20 1263              0     1283             4-5                    0     734       29   763             2046      0   1     10     4
+5-6            13 1435              0     1448             5-6                    0     900       49   949             2397      0   0     14     1
+
+TOTAL          86 5410              0     5496             TOTAL                  0 5094          189    5283         10779      1   1     45    6
+
+
+EASTBOUND Approach                                         WESTBOUND Approach                                         TOTAL   XING W/L   XING E/L
+             VAN PELT PL                                                                        NONE
+Hours   Lt    Th   Rt Total                                Hours             Lt        Th        Rt Total             E-W      Ped Sch    Ped   Sch
+7-8        8     0  31     39                              7-8                    0         0      0        0            39     15   0      0     0
+8-9       22     0  22     44                              8-9                    0         0      0        0            44     24   0      0     0
+9-10      34     0  24     58                              9-10                   0         0      0        0            58     24   0      0     0
+3-4       28     0  32     60                              3-4                    0         0      0        0            60     19   2      0     0
+4-5       15     0  24     39                              4-5                    0         0      0        0            39     15   3      0     0
+5-6       20     0  21     41                              5-6                    0         0      0        0            41     25   1      0     0
+
+TOTAL         127          0   154          281            TOTAL                  0         0       0       0           281    122   6      0    0
+
+            (Rev Oct 06)
+

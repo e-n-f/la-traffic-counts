@@ -1,0 +1,56 @@
+                         City Of Los Angeles
+                         Department Of Transportation
+                         MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South              405 Fwy SB Ramps
+
+East/West                Roscoe Blvd
+
+Day:                 Wednesday                Date:         May 11, 2011                  Weather:              SUNNY
+
+Hours:        7-10AM 3-4PM                                                   Chekrs:      0
+
+School Day:              YES                  District:          0                            I/S CODE          0
+
+
+                            N/B                            S/B                                 E/B                         W/B
+DUAL-
+WHEELED                         0                          105                                 157                          132
+BIKES                           0                            0                                  18                            8
+BUSES                           0                            9                                  43                           54
+
+
+                            N/B     TIME                   S/B       TIME                      E/B     TIME                W/B     TIME
+
+AM PK 15 MIN                    0      0.00               349         8.30                     454       7.30               438     7.30
+
+PM PK 15 MIN                    0      0.00                  0        0.00                         0     0.00                 0     0.00
+
+AM PK HOUR                      0      0.00               1296        7.15                    1577       7.30              1644     7.15
+
+PM PK HOUR                      0      0.00                  0        0.00                         0     0.00                 0     0.00
+
+
+
+
+NORTHBOUND Approach                                              SOUTHBOUND Approach                                              TOTAL    XING S/L       XING N/L
+
+Hours           Lt         Th       Rt        Total              Hours             Lt         Th       Rt Total                    N-S      Ped   Sch      Ped   Sch
+7-8                  0          0        0            0          7-8               669             0    598 1267                    1267      1     0       11     0
+8-9                  0          0        0            0          8-9               586             0    608 1194                    1194      3     0        8     0
+9-10                 0          0        0            0          9-10              461             0    474  935                     935      7     0       11     0
+                     0          0        0            0                               0            0      0     0                      0      0     0        0     0
+
+TOTAL                0          0        0            0          TOTAL            1716             0   1680         3396            3396     11       0     30       0
+
+
+EASTBOUND Approach                                               WESTBOUND Approach                                               TOTAL    XING W/L       XING E/L
+
+Hours           Lt         Th       Rt Total                     Hours             Lt         Th       Rt       Total              E-W      Ped   Sch      Ped   Sch
+7-8                  0     1294      198  1492                   7-8               180        1460          0    1640               3132      0     0        0     0
+8-9                  0     1139      224  1363                   8-9               171        1230          0    1401               2764      0     0        0     0
+9-10                 0     1065      300  1365                   9-10              248        1017          0    1265               2630      0     0        0     0
+                     0        0        0     0                                        0          0          0         0                0      0     0        0     0
+
+TOTAL                0     3498        722       4220            TOTAL             599        3707          0       4306            8526      0       0      0       0
+

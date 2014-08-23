@@ -1,5 +1,4 @@
-#!/usr/bin/perl
-
+#!/usr/bin/perl 
 for $file (<reports/*.html>) {
 	$fileno = $file;
 	$fileno =~ s/.html//;
@@ -20,11 +19,17 @@ for $file (<reports/*.html>) {
 			$base =~ s/.*\///;
 
 			next if -f "$dir/$base";
+
+			$text = $base;
+			$text =~ s/pdf$/txt/;
+			next if -f "$dir/$text";
+
 			$href =~ s/ /%20/g;
 
 			print "$href\n";
 			system "mkdir -p '$dir'";
 			system "curl -o '$dir/$base' '$href'";
+			system "cd '$dir'; pdftotext -layout '$base'";
 		}
 	}
 }

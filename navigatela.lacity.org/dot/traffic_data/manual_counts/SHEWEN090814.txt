@@ -1,0 +1,61 @@
+                       City Of Los Angeles
+                       Department Of Transportation
+                       MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South            SHELDON ST
+
+East/West              WENTWORTH ST
+
+Day:               FRIDAY               Date:        August 14, 2009                 Weather:            SUNNY
+
+Hours:      7-10AM 3-6PM                                          Chekrs:            THOMPSON
+
+School Day:            YES              District:         EAST VALLEY                  I/S CODE 36588
+
+
+                        N/B                         S/B                                E/B                        W/B
+DUAL-
+WHEELED                      2                       0                                  37                         58
+BIKES                        0                       0                                   2                          2
+BUSES                        0                       0                                   0                          1
+
+
+                        N/B TIME                    S/B TIME                           E/B TIME                   W/B TIME
+
+AM PK 15 MIN             15      7.45                0     7.00                         60      8.15              102    7.45
+
+PM PK 15 MIN             20      3.00                0     3.00                         87      5.00               47    3.00
+
+AM PK HOUR               45      7.30                0     7.00                        193      7.45              362    7.15
+
+PM PK HOUR               56      3.00                0     3.00                        336      5.00              164    5.00
+
+
+
+NORTHBOUND Approach                                       SOUTHBOUND Approach                                           TOTAL   XING S/L   XING N/L
+            SHELDON ST                                                       NONE
+Hours   Lt   Th    Rt Total                               Hours    Lt   Th    Rt Total                                   N-S     Ped Sch    Ped   Sch
+7-8      43     0    1     44                             7-8         0    0    0                             0            44      0   0      0     0
+8-9      34     0    3     37                             8-9         0    0    0                             0            37      0   0      0     0
+9-10     32     0    3     35                             9-10        0    0    0                             0            35      0   0      0     0
+3-4      56     0    0     56                             3-4         0    0    0                             0            56      0   0      0     0
+4-5      40     0    0     40                             4-5         0    0    0                             0            40      0   0      0     0
+5-6      45     0    0     45                             5-6         0    0    0                             0            45      0   0      0     0
+
+TOTAL         250            0     7        257           TOTAL                  0       0           0        0           257     0    0      0    0
+
+
+EASTBOUND Approach                                        WESTBOUND Approach                                            TOTAL   XING W/L   XING E/L
+
+Hours         Lt        Th       Rt Total                 Hours             Lt        Th        Rt       Total          E-W      Ped Sch    Ped   Sch
+7-8                0     106      29   135                7-8                    0     336           0      336           471      0   0      0     0
+8-9                0     156      29   185                8-9                    2     280           0      282           467      0   0      0     0
+9-10               0     103      22   125                9-10                   0     199           0      199           324      0   0      0     0
+3-4                0     141      59   200                3-4                    1     150           0      151           351      1   0      0     0
+4-5                0     176      70   246                4-5                    0     142           0      142           388      0   0      0     0
+5-6                0     243      93   336                5-6                    0     164           0      164           500      0   0      0     0
+
+TOTAL              0    925      302      1227            TOTAL                  3 1271              0     1274          2501     1    0      0    0
+
+            (Rev Oct 06)
+

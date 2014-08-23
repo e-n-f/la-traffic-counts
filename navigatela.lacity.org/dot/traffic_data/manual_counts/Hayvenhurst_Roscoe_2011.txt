@@ -1,0 +1,56 @@
+                         City Of Los Angeles
+                         Department Of Transportation
+                         MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South              Hayvenhurst Ave
+
+East/West                Roscoe Blvd
+
+Day:                 Wednesday                Date:             May 11, 2011                   Weather:              SUNNY
+
+Hours:        7-10AM 3-4PM                                                  Chekrs:            0
+
+School Day:              YES                  District:         0                                  I/S CODE          0
+
+
+                            N/B                           S/B                                       E/B                         W/B
+DUAL-
+WHEELED                         0                         47                                        145                          180
+BIKES                           0                          3                                          5                           20
+BUSES                           0                          2                                         52                           42
+
+
+                            N/B     TIME                  S/B       TIME                            E/B     TIME                W/B     TIME
+
+AM PK 15 MIN                    0      0.00               181        7.45                           405       7.45              531      7.30
+
+PM PK 15 MIN                    0      0.00                 0        0.00                               0     0.00                0      0.00
+
+AM PK HOUR                      0      0.00               644        7.15                          1559       7.15              1885     7.15
+
+PM PK HOUR                      0      0.00                 0        0.00                               0     0.00                0      0.00
+
+
+
+
+NORTHBOUND Approach                                             SOUTHBOUND Approach                                                    TOTAL    XING S/L       XING N/L
+
+Hours           Lt         Th       Rt        Total             Hours                 Lt           Th       Rt Total                    N-S      Ped   Sch      Ped   Sch
+7-8                  0          0        0            0         7-8                   287               0    309   596                    596      2     0        3     0
+8-9                  0          0        0            0         8-9                   206               0    262   468                    468      4     0        2     0
+9-10                 0          0        0            0         9-10                  126               0    116   242                    242      3     0        2     0
+                     0          0        0            0                                  0              0      0     0                      0      0     0        0     0
+
+TOTAL                0          0        0            0         TOTAL                 619               0     687        1306            1306      9       0      7       0
+
+
+EASTBOUND Approach                                              WESTBOUND Approach                                                     TOTAL    XING W/L       XING E/L
+
+Hours           Lt         Th       Rt        Total             Hours                 Lt           Th       Rt Total                    E-W      Ped   Sch      Ped   Sch
+7-8              120       1346          0       1466           7-8                        0       1582      233  1815                   3281      1     0        0     0
+8-9              157       1224          0       1381           8-9                        0       1338      212  1550                   2931      1     0        0     0
+9-10             113       1040          0       1153           9-10                       0       1137      133  1270                   2423      1     0        0     0
+                   0          0          0          0                                      0          0        0     0                      0      0     0        0     0
+
+TOTAL            390       3610          0       4000           TOTAL                      0       4057       578        4635            8635      3       0      0       0
+
