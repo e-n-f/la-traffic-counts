@@ -266,9 +266,61 @@ sub page {
 	}
 }
 
+sub tra {
+	my @text = @_;
+	my $date = "";
+	my $streets = "";
+
+	for (my $i = 0; $i <= $#text; $i++) {
+		if ($text[$i] =~ /^Count Date: *([^ ].*)/) {
+			$date = $1;
+			$date =~ s/   .*//;
+		}
+
+		if ($text[$i] =~ /Intersection TMC: *[BR]/) {
+			# B is probably bikes?
+			# What is R?
+			return;
+		}
+
+		if ($text[$i] =~ /From North/) {
+			while ($text[$i + 1] =~ /From/ || $text[$i + 1] =~ /INTSEC/) {
+				$i++;
+			}
+
+			$streets = $text[$i + 1];
+			$streets =~ s/^ *//;
+			$streets =~ s/ *$//;
+			$streets =~ s/  +/ \/ /g;
+		}
+
+		if ($text[$i] =~ s/...........* ([0-9]+):([0-9][0-9]) *//) {
+			my $hour = $1;
+			my $minute = $2;
+			my $t = ($hour * 60) + $minute;
+			my $time = sprintf("%02d:%02d-%02d:%02d", $t / 60, $t % 60, ($t + 15) / 60, ($t + 15) %60);
+
+			my @fields = split(/ +/, $text[$i]);
+
+			if ($#fields == 16) {
+				print "$ARGV,$streets,x,$date,$time,";
+
+				for (my $x = 0; $x < 16; $x += 4) {
+					print "$fields[$x + 2],$fields[$x + 1],$fields[$x],";
+				}
+				for (my $x = 0; $x < 16; $x += 4) {
+					print "$fields[$x + 3],";
+				}
+
+				print ",,,\n";
+			}
+		}
+	}
+}
+
 my $i;
 for ($i = 0; $i <= $#line; $i++) {
-	if ($line[$i] =~ /^WILTEC/) {
+	if ($line[$i] =~ /^WILTEC/ || $line[$i] =~ /3844 East Indian School Road/) {
 		my @text = ($line[$i]);
 
 		for (my $j = $i + 1; $j <= $#line && $j < $i + 100; $j++) {
@@ -277,6 +329,10 @@ for ($i = 0; $i <= $#line; $i++) {
 			push @text, $line[$j];
 		}
 
-		page(@text);
+		if ($line[$i] =~ /Indian School/) {
+			tra(@text);
+		} else {
+			page(@text);
+		}
 	}
 }
