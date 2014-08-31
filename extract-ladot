@@ -5,21 +5,38 @@ use strict;
 sub fixtime {
 	my $time = $_[0];
 
-	if ($time =~ /^(\d\d?)-(\d\d?)/) {
+	if ($time =~ /^ *(\d+) *- *(\d+) */) {
 		my ($t1, $t2) = ($1, $2);
+		my ($h1, $m1, $h2, $m2);
 
-		if ($t1 < 7) {
-			$t1 += 12;
-		}
-		if ($t2 < $t1) {
-			$t2 += 12;
+		if ($t1 < 100) {
+			$h1 = $t1;
+			$m1 = 0;
+		} else {
+			$h1 = int($t1 / 100);
+			$m1 = int($t1 % 100);
 		}
 
-		if (sprintf("%02d", $t1) ge sprintf("%02d", $t2)) {
+		if ($t2 < 100) {
+			$h2 = $t2;
+			$m2 = 0;
+		} else {
+			$h2 = int($t2 / 100);
+			$m2 = int($t2 % 100);
+		}
+
+		if ($h1 < 7) {
+			$h1 += 12;
+		}
+		if ($h2 < $h1) {
+			$h2 += 12;
+		}
+
+		if (sprintf("%02d:%02d", $h1, $m1) ge sprintf("%02d:%02d", $h2, $m2)) {
 			return "error $time $t1 $2";
 		}
 
-		return sprintf("%02d:00-%02d:00", $t1, $t2);
+		return sprintf("%02d:%02d-%02d:%02d", $h1, $m1, $h2, $m2);
 	} elsif ($time =~ /^(\d\d?):(\d\d)-(\d\d?):(\d\d)$/ ||
 	         $time =~ /^(\d\d?)\.(\d\d?)-(\d\d?)\.(\d\d?)$/) {
 		my ($h1, $m1, $h2, $m2) = ($1, $2, $3, $4);
@@ -44,7 +61,7 @@ sub fixtime {
 		return sprintf("%02d:%02d-%02d:%02d", $h1, $m1, $h2, $m2);
 	}
 
-	return $time;
+	return ">>$time<<";
 }
 
 while (1) {
@@ -201,6 +218,16 @@ while (1) {
 
 		if (!$anything) {
 			# print "nothing in $ARGV\n";
+		}
+
+		if (0 && $#bikes == 4) {
+			my @times = sort(keys(%movement));
+			my $n = $#times + 1;
+
+			for $time (@times) {
+				print "$ARGV,$ns / $ew,x,$date,$time,,,,,,,,,,,,,,,,,";
+				printf("%f,%f,%f,%f\n", $bikes[4] / $n, $bikes[1] / $n, $bikes[3] / $n, $bikes[2] / $n);
+			}
 		}
 	}
 
