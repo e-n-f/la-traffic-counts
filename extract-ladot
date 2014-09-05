@@ -222,11 +222,23 @@ while (1) {
 			}
 		}
 
-		my $biketotal = 0;
+		my $peakv = 0;
+		my $peakt = -1;
+
 		for $time (sort(keys(%movement))) {
-			my ($hour, $minute) = split(/:/, $time);
-			my $t = int($hour * 4 + $minute / 15);
-			$biketotal += $bike_scale[$t];
+			my $v = 0;
+
+			for my $direction ("southbound", "westbound", "northbound", "eastbound") {
+				for my $turn ("rt", "th", "lt") {
+					$v += $movement{$time}{$direction}{$turn};
+				}
+			}
+
+			if ($v >= $peakv) {
+				$peakv = $v;
+				my ($hour, $minute) = split(/:/, $time);
+				$peakt = int($hour * 4 + $minute / 15);
+			}
 		}
 
 		for $time (sort(keys(%movement))) {
@@ -247,10 +259,10 @@ while (1) {
 				print "$movement{$time}{$direction}{'p'},";
 			}
 
-			if ($#bikes == 4) {
+			if (0 && $#bikes == 4) {
 				my ($hour, $minute) = split(/:/, $time);
 				my $t = int($hour * 4 + $minute / 15);
-				my $n = $bike_scale[$t] / $biketotal;
+				my $n = $bike_scale[$t] / $bike_scale[$peakt];
 
 				printf("%f,%f,%f,%f\n", $bikes[4] * $n, $bikes[1] * $n, $bikes[3] * $n, $bikes[2] * $n);
 			} else {
