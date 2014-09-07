@@ -9,6 +9,8 @@ my $fname = $ARGV[0];
 while (<>) {
 	chomp;
 
+	s/TRAFFIC DATA SERVICES/WILTEC               /g;
+
 	if (s/\014+//g) {
 		push @line, "\014";
 	}
