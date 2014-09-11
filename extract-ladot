@@ -91,6 +91,9 @@ sub fixtime {
 	return ">>$time<<";
 }
 
+my $first = 1;
+
+SHEET:
 while (1) {
 	my $ns = "";
 	my $ew = "";
@@ -101,8 +104,14 @@ while (1) {
 	my %movement = ();
 	my @bikes = ();
 	my $anything = 0;
+	my $ok = 1;
 
 	while (<>) {
+		if ($first) {
+			print STDERR "$ARGV\n";
+			$first = 0;
+		}
+
 		last if /^STREET/;
 		last if /\014/;
 	}
@@ -133,6 +142,19 @@ while (1) {
 			$leg = "eastbound";
 			$leg2 = "westbound";
 		}
+
+		if (/^Hours /) {
+			my $line = $_;
+			chomp $line;
+			$line =~ s/  */ /g;
+			$line =~ tr/A-Z/a-z/;
+			$line =~ s/ped/pd/g;
+			unless ($line =~ /^hours lt th rt total hours lt th rt total n-s pd sch pd sch/ ||
+			        $line =~ /^hours lt th rt total hours lt th rt total e-w pd sch pd sch/) {
+				$ok = 0;
+			}
+		}
+
 		if (/^([0-9:.]+)-([0-9:.]+)/) {
 			my @fields = split(/ +/);
 
@@ -201,7 +223,7 @@ while (1) {
 	$date =~ s/ *$//g;
 	$weather =~ s/ +/ /g;
 
-	if ($ns ne "") {
+	if ($ns ne "" && $ok) {
 		my $time;
 		my $anyp = 0;
 
