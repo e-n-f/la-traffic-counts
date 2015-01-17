@@ -1,0 +1,63 @@
+                        City Of Los Angeles
+                        Department Of Transportation
+                        MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South             TYRONE AV
+
+East/West               RIVERSIDE DR
+
+Day:        FRIDAY                            Date:        August 18, 2006                  Weather:           CLEAR
+
+Hours:      7-10AM 3-6PM
+
+School Day:             YES                   District:              EAST VALLEY              I/S CODE 6312074310
+
+
+                         N/B                               S/B                               E/B                         W/B
+DUAL-
+WHEELED                        1                                 2                                34                       15
+BIKES                          0                                 0                                 0                        2
+BUSES                          0                                 0                                11                        4
+
+
+                        N/B        TIME                    S/B       TIME                   E/B        TIME              W/B TIME
+
+AM PK 15 MIN                   4    8.30                         8 7.15                       129       9.45              133     8.00
+
+PM PK 15 MIN                   3    4.30                     14 4.30                          229       5.00              133     4.15
+
+AM PK HOUR                     9    8.30                     24 7.15                          422       9.00              466     7.30
+
+PM PK HOUR                     6    3.45                     38 4.00                          867       5.00              440     5.00
+
+
+
+
+NORTHBOUND Approach                                                  SOUTHBOUND Approach                                        TOTAL    XING S/L   XING N/L
+
+Hours          Lt        Th         Rt         Total                 Hours         Lt        Th         Rt      Total            N-S     Ped Sch    Ped Sch
+7-8                 3          0          4            7             7-8             14            0       7        21              28      0   0      7   0
+8-9                 4          0          2            6             8-9             13            0       5        18              24      0   0      0   0
+9-10                3          0          3            6             9-10             7            1       5        13              19      0   0      1   0
+3-4                 2          0          3            5             3-4             10            0      10        20              25      0   0      2   0
+4-5                 2          0          4            6             4-5             30            0       8        38              44      1   0      6   0
+5-6                 0          0          2            2             5-6             26            0       8        34              36      0   0      5   0
+
+TOTAL           14             0      18           32                TOTAL         100             1      43      144              176      1   0     21   0
+
+
+EASTBOUND Approach                                                   WESTBOUND Approach                                         TOTAL    XING W/L   XING E/L
+
+Hours          Lt        Th         Rt         Total                 Hours         Lt        Th         Rt      Total            E-W     Ped Sch    Ped Sch
+7-8                 3     150             4      157                 7-8                4     323          8      335              492      0   0      0   0
+8-9                 6     319             4      329                 8-9                1     437         13      451              780      1   0      0   0
+9-10                5     416             1      422                 9-10               1     232         10      243              665      0   0      0   0
+3-4                 6     650             8      664                 3-4                3     356         17      376             1040      0   0      0   0
+4-5                 4     775             5      784                 4-5                5     407         15      427             1211      0   0      0   0
+5-6                 6     856             5      867                 5-6                2     428         10      440             1307      0   0      0   0
+
+TOTAL           30       3166         27         3223                TOTAL          16       2183         73     2272             5495      1   0      0   0
+
+
+            (Rev Apr 06)
+

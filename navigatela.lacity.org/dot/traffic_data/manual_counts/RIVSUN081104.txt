@@ -1,0 +1,61 @@
+                       City Of Los Angeles
+                       Department Of Transportation
+                       MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South            SUNNYSLOPE AV
+
+East/West              RIVERSIDE DR
+
+Day:        TUESDAY                       Date:       November 4, 2008        Weather:          SUNNY
+
+Hours:      7-10AM 2-5PM                                    Chekrs:   THOMPSON
+
+School Day:            YES                District:         EAST VALLEY         I/S CODE 35080
+
+
+                        N/B                           S/B                       E/B                     W/B
+DUAL-
+WHEELED                      0                          2                        35                       46
+BIKES                        0                          0                        11                       10
+BUSES                        0                          0                         4                        8
+
+
+                        N/B TIME                      S/B TIME                  E/B TIME                W/B TIME
+
+AM PK 15 MIN                 4   7.00                  95    7.45               305      8.45            492    7.30
+
+PM PK 15 MIN                 3   2.15                  59    3.15               277      4.45            271    3.45
+
+AM PK HOUR               12      7.45                 264    7.15              1173      8.45           1697    7.15
+
+PM PK HOUR                   9   2.15                 168    3.00              1028      4.00           1024    3.00
+
+
+
+NORTHBOUND Approach                                         SOUTHBOUND Approach                                TOTAL   XING S/L   XING N/L
+
+Hours         Lt        Th       Rt       Total             Hours      Lt      Th        Rt Total               N-S     Ped Sch    Ped   Sch
+7-8                2         1        8        11           7-8         51          0    204   255               266      0   0     20     0
+8-9                4         1        4         9           8-9         36          0     70   106               115      7   0     18     0
+9-10               2         1        5         8           9-10        12          0     33     45               53      3   0      9     0
+2-3                4         0        4         8           2-3         13          0     33     46               54      7   0      6     0
+3-4                1         0        3         4           3-4         40          0    128   168               172      3   0     48     0
+4-5                1         0        4         5           4-5           8         0     59     67               72      7   0     33     0
+
+TOTAL          14            3    28           45           TOTAL      160          0    527      687            732     27   0    134    0
+
+
+EASTBOUND Approach                                          WESTBOUND Approach                                 TOTAL   XING W/L   XING E/L
+
+Hours         Lt  Th             Rt       Total             Hours      Lt     Th         Rt Total              E-W      Ped Sch    Ped   Sch
+7-8            61 621                 1      683            7-8             1 1544        83 1628               2311      1   0      0     0
+8-9            30 913                 3      946            8-9             2 1067        23 1092               2038      1   0      0     0
+9-10           20 1120                1     1141            9-10            1 709         16   726              1867      1   0      0     0
+2-3            38 839                 4      881            2-3             2 770         34   806              1687      4   0      0     0
+3-4            41 923                 4      968            3-4             2 947         75 1024               1992      5   0      2     0
+4-5            57 966                 5     1028            4-5             6 781         35   822              1850      5   0      0     0
+
+TOTAL         247 5382            18        5647            TOTAL         14 5818        266     6098          11745     17   0      2    0
+
+            (Rev Oct 06)
+

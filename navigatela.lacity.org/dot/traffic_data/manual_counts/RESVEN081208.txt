@@ -1,0 +1,61 @@
+                     City Of Los Angeles
+                     Department Of Transportation
+                     MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South          RESEDA BL
+
+East/West            VENTURA FWY WB ON/OFF RAMP
+
+Day:             MONDAY                 Date:        December 8, 2008                 Weather:          SUNNY
+
+Hours:      7-10AM 3-6PM                                           Chekrs:            ALAS
+
+School Day:          YES                District:          WEST VALLEY                  I/S CODE 58162
+
+
+                      N/B                           S/B                                 E/B                     W/B
+DUAL-
+WHEELED                111                           107                                  0                      160
+BIKES                    6                             2                                  0                        0
+BUSES                   61                            56                                  0                        9
+
+
+                      N/B TIME                      S/B TIME                            E/B TIME                W/B TIME
+
+AM PK 15 MIN           255     9.30                  451    7.45                          0      7.00            222    7.30
+
+PM PK 15 MIN          431      3.00                  355    3.30                          0      3.00           286     4.15
+
+AM PK HOUR            919      9.00                 1700    7.15                          0      7.00           844     7.15
+
+PM PK HOUR            1670     3.00                 1361    3.00                          0      3.00           1097    3.45
+
+
+
+NORTHBOUND Approach                                        SOUTHBOUND Approach                                         TOTAL   XING S/L   XING N/L
+
+Hours         Lt  Th           Rt       Total              Hours             Lt        Th        Rt Total               N-S     Ped Sch    Ped   Sch
+7-8           298 381               0      679             7-8                    0    1091      490 1581               2260      0   0     22     0
+8-9           302 507               0      809             8-9                    0    1079      431 1510               2319      0   0     16     0
+9-10          347 572               0      919             9-10                   0     919      296 1215               2134      0   0     13     0
+3-4           519 1151              0     1670             3-4                    0    1045      316 1361               3031      0   0      6     0
+4-5           451 1049              0     1500             4-5                    0     925      279 1204               2704      0   0      7     0
+5-6           475 1183              0     1658             5-6                    0     897      332 1229               2887      0   0      2     0
+
+TOTAL         2392 4843             0     7235             TOTAL                  0 5956 2144            8100          15335      0   0     66    0
+
+
+EASTBOUND Approach                                         WESTBOUND Approach            TOTAL                                 XING W/L   XING E/L
+       VENTURA FWY WB ON RAMP                                     VENTURA FWY WB OFF RAMP
+Hours   Lt    Th   Rt Total                                Hours   Lt    Th   Rt Total    E-W                                   Ped Sch    Ped   Sch
+7-8        0     0   0      0                              7-8      364     9 407   780     780                                  38   0     24     5
+8-9        0     0   0      0                              8-9      418     3 329   750     750                                  24   0     19     0
+9-10       0     0   0      0                              9-10     465     0 320   785     785                                  17   0     21     0
+3-4        0     0   0      0                              3-4      483     1 582 1066     1066                                  42   3     48     3
+4-5        0     0   0      0                              4-5      418     0 675 1093     1093                                  28   2     36     2
+5-6        0     0   0      0                              5-6      392     0 613 1005     1005                                  29   1     23     0
+
+TOTAL            0         0        0           0          TOTAL         2540            13 2926         5479           5479    178   6    171   10
+
+            (Rev Oct 06)
+

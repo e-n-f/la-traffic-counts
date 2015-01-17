@@ -1,0 +1,63 @@
+                        City Of Los Angeles
+                        Department Of Transportation
+                        MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South             REDONDO BL
+
+East/West               PICKFORD ST
+
+Day:        TUESDAY                        Date:       ##############              Weather:           CLEAR
+
+Hours:      7-10AM 3-6PM
+
+School Day:             YES                District:          HOLLYWOOD              I/S CODE 5926061850
+
+
+                         N/B                           S/B                          E/B                         W/B
+DUAL-
+WHEELED                       45                         40                               1                        9
+BIKES                          1                          1                               2                       10
+BUSES                          0                          0                               0                        0
+
+
+                        N/B        TIME                S/B    TIME                 E/B        TIME              W/B TIME
+
+AM PK 15 MIN              208       7.45                122 8.30                         16    8.15               24     7.45
+
+PM PK 15 MIN              126       5.15                173 4.15                         14    4.15               17     4.30
+
+AM PK HOUR                727       7.45                445 8.00                         54    7.45               85     7.00
+
+PM PK HOUR                477       4.45                626 4.00                         36    3.00               47     4.30
+
+
+
+
+NORTHBOUND Approach                                           SOUTHBOUND Approach                                      TOTAL    XING S/L    XING N/L
+
+Hours          Lt        Th         Rt      Total             Hours       Lt        Th         Rt      Total            N-S     Ped Sch     Ped Sch
+7-8              32       629          4      665             7-8           20       379         11      410             1075      4   4      11  16
+8-9              32       647         14      693             8-9           16       424          5      445             1138      3   0      12  10
+9-10             14       443          6      463             9-10          19       310         13      342              805      0   0       3   0
+3-4              14       388          3      405             3-4           24       493          7      524              929      4   0       7  18
+4-5              10       316          8      334             4-5           17       598         11      626              960      1   0       5   0
+5-6              12       438          7      457             5-6           12       482         20      514              971      5   0       4   1
+
+TOTAL          114       2861         42      3017            TOTAL       108       2686         67     2861             5878     17    4     42   45
+
+
+EASTBOUND Approach                                            WESTBOUND Approach                                       TOTAL    XING W/L    XING E/L
+
+Hours          Lt        Th         Rt      Total             Hours       Lt        Th         Rt      Total            E-W     Ped Sch     Ped Sch
+7-8                 7          6      25        38            7-8              3      12         70        85             123      2   2      12   4
+8-9                 1          5      38        44            8-9              3       9         50        62             106      3   2       8   1
+9-10                3          3      16        22            9-10             3       6         40        49              71      7   0      11   0
+3-4                 7          1      28        36            3-4              4       3         21        28              64     13   2       8   0
+4-5                 3          6      11        20            4-5              5       3         31        39              59     10   8      15   0
+5-6                 8          2      23        33            5-6              2       4         31        37              70     11   2       5   0
+
+TOTAL           29            23     141       193            TOTAL        20            37     243      300              493     46   16     59    5
+
+
+            (Rev Apr 06)
+

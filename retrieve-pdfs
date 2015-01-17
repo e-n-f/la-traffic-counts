@@ -17,6 +17,7 @@ for $file (<reports/*.html>) {
 
 			$base = $href;
 			$base =~ s/.*\///;
+			$base =~ s/,/%2c/g;
 
 			next if -f "$dir/$base";
 
@@ -25,6 +26,7 @@ for $file (<reports/*.html>) {
 			next if -f "$dir/$text";
 
 			$href =~ s/ /%20/g;
+			$href =~ s/,/%2c/g;
 
 			print "$href\n";
 			system "mkdir -p '$dir'";

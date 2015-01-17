@@ -1,0 +1,61 @@
+                     City Of Los Angeles
+                     Department Of Transportation
+                     MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South          SAN FERNANDO RD
+
+East/West            RONAL REGAN FWY EB RAMPS
+
+Day:              FRIDAY                Date:          July 18, 2008                  Weather:          SUNNY
+
+Hours:      7-10AM 3-6PM                                           Chekrs:            CERULLE
+
+School Day:          YES                District:          EAST VALLEY                  I/S CODE 28940
+
+
+                      N/B                           S/B                                 E/B                     W/B
+DUAL-
+WHEELED                112                           182                                159                       0
+BIKES                    0                            14                                  0                       0
+BUSES                   32                            59                                  0                       0
+
+
+                      N/B TIME                       S/B TIME                           E/B TIME                W/B TIME
+
+AM PK 15 MIN           159     7.15                  210    7.45                        119      8.00             0    7.00
+
+PM PK 15 MIN          360      5.30                 264     5.30                        172      4.15             0    3.00
+
+AM PK HOUR            582      7.00                 729     7.15                        435      7.15             0    7.00
+
+PM PK HOUR            1287     5.00                 1017    4.45                        670      4.45             0    3.00
+
+
+
+NORTHBOUND Approach                                        SOUTHBOUND Approach                                        TOTAL   XING S/L   XING N/L
+
+Hours         Lt  Th           Rt       Total              Hours             Lt        Th        Rt Total              N-S     Ped Sch    Ped   Sch
+7-8            44 538               0      582             7-8                    0     575      118   693             1275      0   0      0     0
+8-9            18 392               0      410             8-9                    0     422       82   504              914      0   0      0     0
+9-10           25 336               0      361             9-10                   0     410       82   492              853      0   0      0     0
+3-4            50 789               0      839             3-4                    0     694       97   791             1630      0   0      0     0
+4-5            71 890               0      961             4-5                    0     779      163   942             1903      0   0      0     0
+5-6            60 1227              0     1287             5-6                    0     824      181 1005              2292      0   0      0     0
+
+TOTAL         268 4172              0     4440             TOTAL                  0 3704         723     4427          8867      0   0      0    0
+
+
+EASTBOUND Approach            WESTBOUND Approach                                                                      TOTAL   XING W/L   XING E/L
+       RONALD REGAN FWY EB RAMPS                 NONE
+Hours   Lt    Th   Rt Total   Hours   Lt    Th    Rt Total                                                            E-W      Ped Sch    Ped   Sch
+7-8      278     0 123   401  7-8        0     0    0                                                      0            401      1   0      0     0
+8-9      330     0  96   426  8-9        0     0    0                                                      0            426      0   0      0     0
+9-10     275     0 108   383  9-10       0     0    0                                                      0            383      2   0      0     0
+3-4      418     0 174   592  3-4        0     0    0                                                      0            592      5   0      0     0
+4-5      444     0 215   659  4-5        0     0    0                                                      0            659      8   0      0     0
+5-6      460     0 208   668  5-6        0     0    0                                                      0            668      2   0      0     0
+
+TOTAL         2205         0   924        3129             TOTAL                  0       0        0        0          3129     18   0      0    0
+
+            (Rev Oct 06)
+

@@ -1,0 +1,61 @@
+                     City Of Los Angeles
+                     Department Of Transportation
+                     MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South          ROSENELL TER
+
+East/West            TEMPLE ST
+
+Day:        MONDAY                      Date:         May 18, 2009            Weather:          SUNNY
+
+Hours:      7-10AM 2-5PM                                  Chekrs:   ALAS
+
+School Day:          YES                District:         HOLLYWOOD             I/S CODE 19385
+
+
+                      N/B                           S/B                         E/B                     W/B
+DUAL-
+WHEELED                    0                          1                          83                      56
+BIKES                      0                          0                           0                       4
+BUSES                      0                          0                          28                      35
+
+
+                      N/B TIME                      S/B TIME                    E/B TIME                W/B TIME
+
+AM PK 15 MIN               0   7.00                  39    8.00                 252      7.45           178    8.00
+
+PM PK 15 MIN               0   2.00                  62    2.30                 222      4.15           205    3.15
+
+AM PK HOUR                 0   7.00                 110    7.15                 885      7.30           648    7.45
+
+PM PK HOUR                 0   2.00                 144    2.30                 818      3.30           708    3.15
+
+
+
+NORTHBOUND Approach                                       SOUTHBOUND Approach                                 TOTAL   XING S/L   XING N/L
+                  NONE                                                 ROSENELL TER
+Hours   Lt   Th    Rt Total                               Hours    Lt   Th    Rt Total                         N-S     Ped Sch    Ped   Sch
+7-8        0    0    0                          0         7-8       24     0   71     95                         95      0   0    101    81
+8-9        0    0    0                          0         8-9       25     0   64     89                         89      0   0     55    18
+9-10       0    0    0                          0         9-10      13     0   49     62                         62      0   0     18     3
+2-3        0    0    0                          0         2-3       25     0   97   122                         122      0   0    124   132
+3-4        0    0    0                          0         3-4       12     0   65     77                         77      0   0     22    13
+4-5        0    0    0                          0         4-5       23     0   65     88                         88      0   0     26     2
+
+TOTAL            0         0        0           0         TOTAL      122          0      411      533           533     0    0    346   249
+
+
+EASTBOUND Approach                                        WESTBOUND Approach                                  TOTAL   XING W/L   XING E/L
+
+Hours         Lt      Th       Rt       Total             Hours      Lt        Th        Rt Total             E-W      Ped Sch    Ped   Sch
+7-8           111      669          0      780            7-8             0     498       41   539             1319      0   0      1     0
+8-9            64      706          0      770            8-9             0     586       24   610             1380      0   0      0     0
+9-10           34      587          0      621            9-10            0     432       36   468             1089      0   0      0     0
+2-3            69      690          0      759            2-3             0     461       52   513             1272      1   0      1     0
+3-4            30      691          0      721            3-4             0     654       37   691             1412      0   0      0     0
+4-5            41      652          0      693            4-5             0     572       33   605             1298      0   0      0     0
+
+TOTAL         349 3995              0     4344            TOTAL           0 3203         223     3426          7770     1    0      2     0
+
+            (Rev Oct 06)
+

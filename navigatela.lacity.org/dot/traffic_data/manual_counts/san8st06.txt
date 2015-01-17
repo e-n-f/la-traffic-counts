@@ -1,0 +1,63 @@
+                        City Of Los Angeles
+                        Department Of Transportation
+                        MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South             SANTA MONICA FWY WB OFF RAM AT SANTA FE AV
+
+East/West               8 TH ST
+
+Day:        SUNDAY                            Date:          November 19, 2006          Weather:              CLEAR
+
+Hours:      10AM - 1PM
+
+School Day:             YES                   District:              CENTRAL              I/S CODE 6633066366
+
+
+                         N/B                               S/B                           E/B                               W/B
+DUAL-
+WHEELED                       20                                 0                             0                             0
+BIKES                          0                                 0                             0                             0
+BUSES                          0                                 0                             0                             0
+
+
+                        N/B        TIME                    S/B       TIME               E/B        TIME                    W/B TIME
+
+AM PK 15 MIN                  54    0.45                         0 10.00                       0 10.00                       0    10.00
+
+PM PK 15 MIN                   0    3.00                         0 3.00                        0    3.00                     0     3.00
+
+AM PK HOUR                200 12.00                              0 10.00                       0 10.00                       0    10.00
+
+PM PK HOUR                     0    3.00                         0 3.00                        0    3.00                     0     3.00
+
+
+
+
+NORTHBOUND Approach                                                  SOUTHBOUND Approach                      NONE               TOTAL      XING S/L   XING N/L
+
+Hours          Lt        Th         Rt         Total                 Hours     Lt        Th         Rt         Total              N-S       Ped Sch    Ped Sch
+10-11            28            0    141          169                 10-11          0          0          0            0            169        0   0      0   0
+11-12            33            0    106          139                 11-12          0          0          0            0            139        1   0      0   0
+12-1             34            0    166          200                 12-1           0          0          0            0            200        0   0      0   0
+    0             0            0       0             0                   0          0          0          0            0              0        0   0      0   0
+    0             0            0       0             0                   0          0          0          0            0              0        0   0      0   0
+    0             0            0       0             0                   0          0          0          0            0              0        0   0      0   0
+
+TOTAL           95             0     413          508                TOTAL          0          0          0            0           508         1   0      0   0
+
+
+EASTBOUND Approach                                                   WESTBOUND Approach                                          TOTAL      XING W/L   XING E/L
+
+Hours          Lt        Th         Rt         Total                 Hours     Lt        Th         Rt         Total              E-W       Ped Sch    Ped Sch
+10-11               0          0          0            0             10-11          0          0          0            0                0      0   0      0   0
+11-12               0          0          0            0             11-12          0          0          0            0                0      0   0      0   0
+12-1                0          0          0            0             12-1           0          0          0            0                0      0   0      0   0
+    0               0          0          0            0                 0          0          0          0            0                0      0   0      0   0
+    0               0          0          0            0                 0          0          0          0            0                0      0   0      0   0
+    0               0          0          0            0                 0          0          0          0            0                0      0   0      0   0
+
+TOTAL               0          0          0            0             TOTAL          0          0          0            0                0      0   0      0   0
+
+
+            (Rev Oct 06)
+

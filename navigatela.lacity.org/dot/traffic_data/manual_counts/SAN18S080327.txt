@@ -1,0 +1,61 @@
+                       City Of Los Angeles
+                       Department Of Transportation
+                       MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South            SAN PEDRO ST
+
+East/West              18TH ST
+
+Day:        THURSDAY                    Date:         March 27, 2008        Weather:            SUNNY
+
+Hours:      7-10AM 2-5PM                                   Chekrs:   LEE
+
+School Day:            YES              District:          CENTRAL            I/S CODE 9666
+
+
+                        N/B                         S/B                       E/B                        W/B
+DUAL-
+WHEELED                  248                         273                          0                       38
+BIKES                      0                          19                          0                        1
+BUSES                    116                         128                          0                        0
+
+
+                        N/B TIME                     S/B TIME                 E/B TIME                   W/B TIME
+
+AM PK 15 MIN             279     7.45                228    7.45                  0    7.00               31    7.45
+
+PM PK 15 MIN             245     2.45                400    4.00                  0    2.00               39    4.30
+
+AM PK HOUR               986     7.15                788    7.15                  0    7.00               93    7.30
+
+PM PK HOUR               906     2.30               1479    4.00                  0    2.00              125    4.00
+
+
+
+NORTHBOUND Approach                                        SOUTHBOUND Approach                                 TOTAL   XING S/L   XING N/L
+
+Hours         Lt        Th       Rt Total                  Hours      Lt  Th           Rt       Total           N-S     Ped Sch    Ped   Sch
+7-8                0     935      19   954                 7-8         63 701               0      764          1718      0   0      0     0
+8-9                0     677      11   688                 8-9         45 597               0      642          1330      0   0      1     0
+9-10               0     600      17   617                 9-10        45 525               0      570          1187      0   0      0     0
+2-3                0     799      29   828                 2-3         58 904               0      962          1790      1   0      1     0
+3-4                0     737      20   757                 3-4         63 1116              0     1179          1936      0   0      0     0
+4-5                0     417       7   424                 4-5         82 1397              0     1479          1903      0   0      0     0
+
+TOTAL              0 4165        103      4268             TOTAL       356 5240             0     5596          9864     1    0      2    0
+
+
+EASTBOUND Approach                                         WESTBOUND Approach                                  TOTAL   XING W/L   XING E/L
+                   NONE                                                               18TH ST
+Hours   Lt    Th    Rt Total                               Hours      Lt     Th         Rt Total               E-W      Ped Sch    Ped   Sch
+7-8        0     0    0                         0          7-8          7         0      58     65                65      0   0     28     2
+8-9        0     0    0                         0          8-9          4         0      56     60                60      0   0     22     0
+9-10       0     0    0                         0          9-10         6         0      55     61                61      0   0     19     0
+2-3        0     0    0                         0          2-3         12         0      69     81                81      0   0     25     0
+3-4        0     0    0                         0          3-4         12         0      92   104                104      0   0     27     5
+4-5        0     0    0                         0          4-5         12         0     113   125                125      0   0     23     0
+
+TOTAL              0         0     0            0          TOTAL       53         0     443        496           496     0    0    144    7
+
+            (Rev Oct 06)
+
