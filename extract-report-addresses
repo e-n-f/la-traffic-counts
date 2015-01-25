@@ -114,6 +114,15 @@ sub geocode {
 	s/\bSEVENTH\b/7TH/g;
 	s/\bEIGHTH\b/8TH/g;
 	s/\bNINTH\b/9TH/g;
+	s/\b1 ST\b/1ST/g;
+	s/\b2 ND\b/2ND/g;
+	s/\b3 RD\b/3RD/g;
+	s/\b4 TH\b/4TH/g;
+	s/\b5 TH\b/5TH/g;
+	s/\b6 TH\b/6TH/g;
+	s/\b7 TH\b/7TH/g;
+	s/\b8 TH\b/8TH/g;
+	s/\b9 TH\b/9TH/g;
 
 	s/\bBERVELY\b/BEVERLY/g;
 	s/\bWILSHILE\b/WILSHIRE/g;
