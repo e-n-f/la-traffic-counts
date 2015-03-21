@@ -1,0 +1,61 @@
+                    City Of Los Angeles
+                    Department Of Transportation
+                    MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South         ELLSMERE AV
+
+East/West           PICO BL
+
+Day:               FRIDAY               Date:         August 1, 2008                 Weather:            SUNNY
+
+Hours:      7-10AM 3-6PM                                          Chekrs:            YOUNG
+
+School Day:         YES                 District:         HOLLYWOOD                    I/S CODE 6602
+
+
+                      N/B                           S/B                                E/B                         W/B
+DUAL-
+WHEELED                 2                            0                                 130                          116
+BIKES                  26                            0                                   1                            0
+BUSES                   0                            0                                  73                           83
+
+
+                      N/B TIME                      S/B TIME                           E/B TIME                    W/B TIME
+
+AM PK 15 MIN               9   8.45                  0     7.00                        190      8.45                336    7.30
+
+PM PK 15 MIN               6   3.00                  0     3.00                        361      5.15                191    5.00
+
+AM PK HOUR             25      8.30                  0     7.00                        672      8.15               1272    7.30
+
+PM PK HOUR             15      5.00                  0     3.00                       1231      4.45                726    4.45
+
+
+
+NORTHBOUND Approach                                       SOUTHBOUND Approach                                             TOTAL   XING S/L   XING N/L
+                  ELLSMERE AV                                                                            NONE
+Hours   Lt   Th    Rt Total                               Hours             Lt        Th        Rt       Total             N-S     Ped Sch    Ped   Sch
+7-8        5    0    4      9                             7-8                    0         0         0         0              9      9   0      0     0
+8-9        1    0   18     19                             8-9                    0         0         0         0             19     18   0      0     0
+9-10       6    0   13     19                             9-10                   0         0         0         0             19      2   0      0     0
+3-4        3    0    5      8                             3-4                    0         0         0         0              8     12   0      0     0
+4-5        0    0    4      4                             4-5                    0         0         0         0              4     13   0      0     0
+5-6        1    0   14     15                             5-6                    0         0         0         0             15     14   0      0     0
+
+TOTAL          16          0    58           74           TOTAL                  0         0         0        0              74     68   0      0    0
+
+
+EASTBOUND Approach                                        WESTBOUND Approach                                              TOTAL   XING W/L   XING E/L
+
+Hours         Lt     Th        Rt       Total             Hours             Lt  Th              Rt       Total            E-W      Ped Sch    Ped   Sch
+7-8                0 364            2      366            7-8                 7 1139                 0     1146            1512      0   0      0     0
+8-9                0 630            5      635            8-9                22 1227                 0     1249            1884      0   0      0     0
+9-10               0 602            2      604            9-10               10 758                  0      768            1372      2   0      0     0
+3-4                0 958            7      965            3-4                12 604                  0      616            1581      0   0      0     0
+4-5                0 1116           9     1125            4-5                16 658                  0      674            1799      1   0      0     0
+5-6                0 1193           8     1201            5-6                12 702                  0      714            1915      0   0      0     0
+
+TOTAL              0 4863       33        4896            TOTAL              79 5088                 0     5167           10063      3   0      0    0
+
+            (Rev Oct 06)
+

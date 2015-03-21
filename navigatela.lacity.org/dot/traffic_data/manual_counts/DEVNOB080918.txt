@@ -1,0 +1,61 @@
+                    City Of Los Angeles
+                    Department Of Transportation
+                    MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South         NOBLE AV
+
+East/West           DEVONSHIRE ST
+
+Day:        THURSDAY                  Date:       September 18, 2008 Weather:             SUNNY
+
+Hours:      7-10AM 2-5PM                                Chekrs:   CERULLE
+
+School Day:         YES               District:         EAST VALLEY       I/S CODE 33565
+
+
+                      N/B                         S/B                     E/B                      W/B
+DUAL-
+WHEELED                    0                        0                      124                       63
+BIKES                      1                        0                        7                        7
+BUSES                      0                        0                        8                        9
+
+
+                      N/B TIME                    S/B TIME                E/B TIME                 W/B TIME
+
+AM PK 15 MIN           23      7.30                 0    7.00              354   8.15               400    7.30
+
+PM PK 15 MIN           14      3.30                 0    2.00              261   4.00               217    3.00
+
+AM PK HOUR             70      7.00                 0    7.00             1287   7.30              1196    7.15
+
+PM PK HOUR             45      2.45                 0    2.00              942   3.15               794    3.00
+
+
+
+NORTHBOUND Approach                                     SOUTHBOUND Approach                               TOTAL   XING S/L   XING N/L
+                  NOBLE AV                                                 NONE
+Hours   Lt   Th    Rt Total                             Hours    Lt   Th    Rt Total                       N-S     Ped Sch    Ped   Sch
+7-8      37     0   33     70                           7-8         0    0    0                0             70      9   0      0     0
+8-9      14     0   30     44                           8-9         0    0    0                0             44      6   3      0     0
+9-10     11     0   22     33                           9-10        0    0    0                0             33      2   0      0     0
+2-3      19     0   18     37                           2-3         0    0    0                0             37     12   0      0     0
+3-4      19     0   23     42                           3-4         0    0    0                0             42      2   0      0     0
+4-5      16     0   18     34                           4-5         0    0    0                0             34      3   0      0     0
+
+TOTAL         116          0   144        260           TOTAL         0      0        0        0            260     34   3      0    0
+
+
+EASTBOUND Approach                                      WESTBOUND Approach                                TOTAL   XING W/L   XING E/L
+
+Hours         Lt     Th        Rt Total                 Hours      Lt  Th        Rt       Total           E-W      Ped Sch    Ped   Sch
+7-8                0 1072       10 1082                 7-8         19 1144           0     1163           2245      0   0      0     0
+8-9                0 1051       21 1072                 8-9         21 657            0      678           1750      0   0      0     0
+9-10               0 428        21   449                9-10        13 477            0      490            939      0   0      0     0
+2-3                0 622        25   647                2-3         19 583            0      602           1249      0   0      0     0
+3-4                0 846        35   881                3-4         18 776            0      794           1675      0   0      0     0
+4-5                0 886        52   938                4-5         17 600            0      617           1555      0   0      0     0
+
+TOTAL              0 4905      164      5069            TOTAL      107 4237           0     4344           9413      0   0      0    0
+
+            (Rev Oct 06)
+

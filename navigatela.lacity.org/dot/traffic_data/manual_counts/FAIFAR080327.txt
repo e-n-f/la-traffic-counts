@@ -1,0 +1,61 @@
+                     City Of Los Angeles
+                     Department Of Transportation
+                     MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South          FAIRFAX AV
+
+East/West            FARMER'S MARKET PL
+
+Day:          THURSDAY                  Date:        March 27, 2008         Weather:             SUNNY
+
+Hours:        10AM-1PM 3-6PM                                        Chekrs:            YOUNG
+
+School Day:          YES                District:         WESTERN             I/S CODE 54170
+
+
+                      N/B                           S/B                       E/B                         W/B
+DUAL-
+WHEELED               120                           138                            0                       15
+BIKES                   3                             7                            0                        2
+BUSES                  60                            97                            0                        0
+
+
+                      N/B TIME                      S/B TIME                  E/B TIME                    W/B TIME
+
+AM PK 15 MIN          262      12.15                339 10.30                      0 10.00                 50    10.30
+
+PM PK 15 MIN          270       3.15                334    4.30                    0    3.00              148     3.00
+
+AM PK HOUR            918      11.30             1317 11.45                        0 10.00                165    12.00
+
+PM PK HOUR           1041       3.15             1275      4.30                    0    3.00              554     4.15
+
+
+
+NORTHBOUND Approach                                       SOUTHBOUND Approach                                   TOTAL    XING S/L       XING N/L
+
+Hours          Lt     Th       Rt Total                   Hours       Lt      Th        Rt       Total           N-S        Ped Sch       Ped   Sch
+10-11            0    702        82 784                   10-11       201     1017           0     1218          2002        48   0         0     0
+11-12            0    716       139 855                   11-12       286      949           0     1235          2090        29   0         0     0
+12-1             0    740       161 901                   12-1        276     1027           0     1303          2204        49   0         0     0
+3-4              0    940        96 1036                  3-4         218     1009           0     1227          2263       111   0         0     0
+4-5              0    877        94 971                   4-5         226     1017           0     1243          2214        37   0         0     0
+5-6              0    893        75 968                   5-6         229     1041           0     1270          2238        45   0         0     0
+
+TOTAL            0 4868         647 5515                  TOTAL      1436 6060               0     7496         13011       319     0       0      0
+
+
+EASTBOUND Approach                      NONE              WESTBOUND Approach                                    TOTAL    XING W/L       XING E/L
+
+Hours          Lt     Th       Rt       Total             Hours       Lt      Th        Rt Total                E-W         Ped Sch       Ped   Sch
+10-11            0         0        0        0            10-11        78          0     72   150                 150         0   0        66     0
+11-12            0         0        0        0            11-12        57          0     71   128                 128         0   0       120     0
+12-1             0         0        0        0            12-1         72          0     93   165                 165         0   0       144     0
+3-4              0         0        0        0            3-4         243          0    299   542                 542         0   0       115     0
+4-5              0         0        0        0            4-5         262          0    271   533                 533         0   0       127     1
+5-6              0         0        0        0            5-6         257          0    271   528                 528         0   0       151     0
+
+TOTAL            0         0        0        0            TOTAL       969          0 1077          2046          2046         0     0     723      1
+
+              (Rev Oct 06)
+

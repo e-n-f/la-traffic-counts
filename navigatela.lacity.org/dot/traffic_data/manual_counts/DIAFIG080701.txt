@@ -1,0 +1,61 @@
+                    City Of Los Angeles
+                    Department Of Transportation
+                    MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South         FIGUEROA ST
+
+East/West           DIAMOND ST
+
+Day:            TUESDAY                 Date:             July 1, 2008               Weather:          SUNNY
+
+Hours:      7-10AM 3-6PM                                          Chekrs:            LEE
+
+School Day:         YES                 District:         CEINTRAL                     I/S CODE 8440
+
+
+                     N/B                            S/B                                E/B                     W/B
+DUAL-
+WHEELED                75                            36                                  6                       0
+BIKES                  26                             0                                 13                       0
+BUSES                 109                             2                                 40                       0
+
+
+                     N/B TIME                       S/B TIME                           E/B TIME                W/B TIME
+
+AM PK 15 MIN          134      9.15                 194    8.15                         18      8.45             0    7.00
+
+PM PK 15 MIN         644       5.00                 147    4.30                         19      4.30             0    3.00
+
+AM PK HOUR           514       9.00                 713    8.00                         66      8.30             0    7.00
+
+PM PK HOUR           2327      4.30                 485    4.15                         66      4.15             0    3.00
+
+
+
+NORTHBOUND Approach                                       SOUTHBOUND Approach                                        TOTAL   XING S/L   XING N/L
+
+Hours         Lt  Th           Rt       Total             Hours             Lt        Th        Rt Total              N-S     Ped Sch    Ped   Sch
+7-8           105 352               0      457            7-8                    0     513      110   623             1080      1   0     26     0
+8-9            93 346               0      439            8-9                    0     655       58   713             1152      0   0     22     0
+9-10           68 446               0      514            9-10                   0     500       97   597             1111      0   0     19     0
+3-4            48 1538              0     1586            3-4                    0     344       40   384             1970      8   0     13     0
+4-5            59 2138              0     2197            4-5                    0     411       62   473             2670      3   0      8     0
+5-6            60 2225              0     2285            5-6                    0     320       45   365             2650      0   0      4     0
+
+TOTAL         433 7045              0     7478            TOTAL                  0 2743          412    3155         10633     12   0     92    0
+
+
+EASTBOUND Approach                                        WESTBOUND Approach                                         TOTAL   XING W/L   XING E/L
+                   DIAMOND ST                                                                  NONE
+Hours   Lt    Th    Rt Total                              Hours             Lt        Th        Rt Total             E-W      Ped Sch    Ped   Sch
+7-8       24     0    29    53                            7-8                    0         0      0        0            53    241   0      0     0
+8-9       21     0    39    60                            8-9                    0         0      0        0            60    200   1      0     0
+9-10      14     0    43    57                            9-10                   0         0      0        0            57    237   1      0     0
+3-4       11     0    19    30                            3-4                    0         0      0        0            30     93   0      0     0
+4-5       17     0    45    62                            4-5                    0         0      0        0            62    137   0      0     0
+5-6        7     0    35    42                            5-6                    0         0      0        0            42     99   0      0     0
+
+TOTAL          94          0   210          304           TOTAL                  0         0       0       0           304   1007   2      0    0
+
+            (Rev Oct 06)
+

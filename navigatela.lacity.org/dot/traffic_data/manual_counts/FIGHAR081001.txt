@@ -1,0 +1,61 @@
+                     City Of Los Angeles
+                     Department Of Transportation
+                     MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South          FIGUEROA ST
+
+East/West            HARBOR FWY NB ON RAMP / I ST
+
+Day:           WEDNESDAY              Date:        October 1, 2008                 Weather:          SUNNY
+
+Hours:      7-10AM 3-6PM                                        Chekrs:            YOUNG
+
+School Day:          YES              District:         SOUTHERN                     I/S CODE 58218
+
+
+                      N/B                         S/B                                E/B                     W/B
+DUAL-
+WHEELED                189                         50                                  0                       5
+BIKES                    0                          0                                  0                       6
+BUSES                   33                         24                                  0                       0
+
+
+                      N/B TIME                    S/B TIME                           E/B TIME                W/B TIME
+
+AM PK 15 MIN           312     7.15                49    7.45                          0      7.00            53    7.45
+
+PM PK 15 MIN           233     3.45                52    5.45                          0      3.00            30    5.30
+
+AM PK HOUR            1022     7.00               141    7.00                          0      7.00           187    7.00
+
+PM PK HOUR             848     3.00               156    5.00                          0      3.00            92    5.00
+
+
+
+NORTHBOUND Approach                                     SOUTHBOUND Approach                                        TOTAL   XING S/L   XING N/L
+
+Hours         Lt      Th       Rt Total                 Hours             Lt        Th        Rt Total              N-S     Ped Sch    Ped   Sch
+7-8           895      115      12 1022                 7-8                    5     109       27   141             1163      0   0      1     0
+8-9           749      141       9   899                8-9                    3      85       11     99             998      0   0      0     0
+9-10          602       82       6   690                9-10                   4      79       15     98             788      0   0      0     0
+3-4           655      172      21   848                3-4                    3     125       18   146              994      0   0      1     0
+4-5           476      119      13   608                4-5                    3     118       10   131              739      0   0      0     0
+5-6           454       71      10   535                5-6                    4     146        6   156              691      1   0      0     0
+
+TOTAL         3831     700      71      4602            TOTAL              22        662       87      771          5373     1    0      2    0
+
+
+EASTBOUND Approach                                      WESTBOUND Approach                                         TOTAL   XING W/L   XING E/L
+       HARBOR FWY NB ON RAMP                                                               I ST
+Hours   Lt    Th   Rt Total                             Hours             Lt        Th       Rt Total              E-W      Ped Sch    Ped   Sch
+7-8        0     0   0      0                           7-8                39        133       15  187               187      0   0      3     0
+8-9        0     0   0      0                           8-9                10         33        5    48               48      0   0      2     0
+9-10       0     0   0      0                           9-10                 1        17       11    29               29      0   0      1     0
+3-4        0     0   0      0                           3-4                  1        31       10    42               42      0   0      6     0
+4-5        0     0   0      0                           4-5                  9        28        5    42               42      0   0      2     1
+5-6        0     0   0      0                           5-6                21         61       10    92               92      0   0      2     0
+
+TOTAL            0         0     0            0         TOTAL              81        303       56      440           440     0    0     16    1
+
+            (Rev Oct 06)
+

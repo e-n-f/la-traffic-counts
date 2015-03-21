@@ -1,0 +1,61 @@
+                        City Of Los Angeles
+                        Department Of Transportation
+                        MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South             DEVON AV
+
+East/West               WILSHIRE BL
+
+Day:          THURSDAY                     Date:        March 20, 2008                  Weather:          SUNNY
+
+Hours:      7-10AM 3-6PM                                             Chekrs:            YOUNG
+
+School Day:             YES                District:         WESTERN                      I/S CODE 12911
+
+
+                         N/B                           S/B                                E/B                      W/B
+DUAL-
+WHEELED                       0                         1                                 103                       166
+BIKES                         0                         0                                   0                         3
+BUSES                         0                         0                                 136                       213
+
+
+                         N/B TIME                      S/B TIME                           E/B TIME                 W/B TIME
+
+AM PK 15 MIN                  0   7.00                  4     8.45                        520      8.45            584     8.45
+
+PM PK 15 MIN                  0   3.00                  9     3.30                        557      5.15            508     5.30
+
+AM PK HOUR                    0   7.00                 10     8.45                       1920      8.15            2148    8.30
+
+PM PK HOUR                    0   3.00                 28     3.15                       2081      5.00            1923    5.00
+
+
+
+NORTHBOUND Approach                        NONE              SOUTHBOUND Approach                                          TOTAL   XING S/L   XING N/L
+                                                                                DEVON AV
+Hours          Lt        Th       Rt       Total             Hours    Lt   Th    Rt Total                                  N-S     Ped Sch    Ped   Sch
+7-8                 0         0        0           0         7-8         1    0    1      2                                   2      0   0      6     0
+8-9                 0         0        0           0         8-9         4    0    2      6                                   6      0   0      2     0
+9-10                0         0        0           0         9-10        1    0    6      7                                   7      0   0      0     0
+3-4                 0         0        0           0         3-4         7    0   16     23                                  23      0   0      3     0
+4-5                 0         0        0           0         4-5         7    0    9     16                                  16      0   0      7     0
+5-6                 0         0        0           0         5-6         1    0    7      8                                   8      0   0      6     0
+
+TOTAL               0         0        0           0         TOTAL              21          0       41        62             62     0    0     24    0
+
+
+EASTBOUND Approach                                           WESTBOUND Approach                                           TOTAL   XING W/L   XING E/L
+
+Hours          Lt        Th       Rt       Total             Hours             Lt        Th        Rt     Total           E-W      Ped Sch    Ped   Sch
+7-8             10       1205          0     1215            7-8                    0    1623        9      1632           2847      0   0      0     0
+8-9               5      1878          2     1885            8-9                    0    2124       14      2138           4023      0   0      0     0
+9-10              1      1714          0     1715            9-10                   0    1931        6      1937           3652      0   0      0     0
+3-4               7      1951          0     1958            3-4                    0    1766        5      1771           3729      0   0      0     0
+4-5               4      1948          0     1952            4-5                    0    1640       12      1652           3604      0   0      0     0
+5-6               9      2072          0     2081            5-6                    0    1911       12      1923           4004      1   0      0     0
+
+TOTAL           36 10768               2 10806               TOTAL                  0 10995         58 11053              21859     1    0      0    0
+
+            (Rev Oct 06)
+

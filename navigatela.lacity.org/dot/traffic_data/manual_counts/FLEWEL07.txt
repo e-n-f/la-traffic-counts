@@ -1,0 +1,63 @@
+                        City Of Los Angeles
+                        Department Of Transportation
+                        MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South             WELDON AV
+
+East/West               FLETCHER DR
+
+Day:          TUESDAY                          Date:        May 8, 2007                 Weather:               SUNNY
+
+Hours:        7-10AM 3-6PM
+
+School Day:             YES                    District:               HOLLYWOOD          I/S CODE              15161
+
+
+                        N/B                                S/B                          E/B                                 W/B
+DUAL-
+WHEELED                        0                                 4                            62                              73
+BIKES                          0                                 3                             2                              16
+BUSES                          0                                 0                             0                               0
+
+
+                        N/B        TIME                    S/B       TIME               E/B        TIME                     W/B TIME
+
+AM PK 15 MIN                   0        7.00                 31 7.30                         125        8.00                 261     7.45
+
+PM PK 15 MIN                   0        3.00                 16 5.45                         124        5.30                 100     3.30
+
+AM PK HOUR                     0        7.00                 77 7.15                         453        7.45                 928     7.30
+
+PM PK HOUR                     0        3.00                 38 5.00                         440        4.45                 387     3.00
+
+
+
+
+NORTHBOUND Approach                            NONE                  SOUTHBOUND Approach                                           TOTAL       XING S/L            XING N/L
+
+Hours         Lt        Th         Rt          Total                 Hours   Lt         Th         Rt          Total               N-S         Ped       Sch       Ped       Sch
+7-8                 0          0          0            0             7-8           44          0         30            74                 74         0         0         8         6
+8-9                 0          0          0            0             8-9           22          0         17            39                 39         0         0         7         1
+9-10                0          0          0            0             9-10          10          0          8            18                 18         0         0         4         0
+3-4                 0          0          0            0             3-4           24          0         12            36                 36         0         0         3         1
+4-5                 0          0          0            0             4-5           15          0          8            23                 23         0         0         9         0
+5-6                 0          0          0            0             5-6           21          0         17            38                 38         0         0         6         0
+
+TOTAL               0          0          0            0             TOTAL        136          0         92        228                   228         0         0     37            8
+
+
+EASTBOUND Approach                                                   WESTBOUND Approach                                            TOTAL       XING W/L            XING E/L
+
+Hours         Lt        Th         Rt          Total                 Hours   Lt         Th         Rt          Total               E-W         Ped Sch             Ped       Sch
+7-8                 3        313          0        316               7-8            0        859         21        880               1196        13    7                 0         0
+8-9                15        426          0        441               8-9            0        841         29        870               1311         3    1                 0         0
+9-10                9        294          0        303               9-10           0        423         17        440                743         4    0                 0         0
+3-4                10        408          0        418               3-4            0        344         43        387                805        13    4                 0         0
+4-5                14        391          0        405               4-5            0        308         36        344                749         6    0                 0         0
+5-6                20        418          0        438               5-6            0        308         45        353                791         8    0                 0         0
+
+TOTAL              71    2250             0       2321               TOTAL          0    3083           191       3274               5595        47        12            0         0
+
+
+              (Rev Oct 06)
+

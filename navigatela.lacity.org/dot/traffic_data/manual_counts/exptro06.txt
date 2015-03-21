@@ -1,0 +1,63 @@
+                        City Of Los Angeles
+                        Department Of Transportation
+                        MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South             TROUSDALE PKWY
+
+East/West               EXPOSITION BL
+
+Day:        FRIDAY                            Date:        August 25, 2006               Weather:              CLEAR
+
+Hours:      7-10AM 3-6PM
+
+School Day:             YES                   District:              SOUTHERN              I/S CODE 0000026970
+
+
+                         N/B                               S/B                            E/B                           W/B
+DUAL-
+WHEELED                        0                                 0                         144                            72
+BIKES                          0                                 0                           5                             0
+BUSES                          0                                 0                          43                            59
+
+
+                        N/B        TIME                    S/B       TIME                E/B        TIME                W/B TIME
+
+AM PK 15 MIN                   0    7.00                         0 7.00                    406       7.45                252     9.15
+
+PM PK 15 MIN                   0    3.00                         0 3.00                    355       5.30                284     4.45
+
+AM PK HOUR                     0    7.00                         0 7.00                   1507       7.45                932     9.00
+
+PM PK HOUR                     0    3.00                         0 3.00                   1349       5.00               1107     4.45
+
+
+
+
+NORTHBOUND Approach                           NONE                   SOUTHBOUND Approach                                       TOTAL      XING S/L   XING N/L
+                                                                                         TROUSDALE PKWY
+Hours          Lt        Th         Rt         Total                 Hours      Lt         Th   Rt   Total                      N-S       Ped Sch    Ped Sch
+7-8                 0          0          0            0             7-8             0        0    0       0                          0      0   0      0   0
+8-9                 0          0          0            0             8-9             0        0    0       0                          0      0   0      0   0
+9-10                0          0          0            0             9-10            0        0    0       0                          0      0   0      0   0
+3-4                 0          0          0            0             3-4             0        0    0       0                          0      0   0      0   0
+4-5                 0          0          0            0             4-5             0        0    0       0                          0      0   0      0   0
+5-6                 0          0          0            0             5-6             0        0    0       0                          0      0   0      0   0
+
+TOTAL               0          0          0            0             TOTAL           0          0          0        0                 0      0   0      0   0
+
+
+EASTBOUND Approach                                                   WESTBOUND Approach                                        TOTAL      XING W/L   XING E/L
+
+Hours          Lt        Th         Rt         Total                 Hours      Lt        Th         Rt         Total           E-W       Ped Sch    Ped Sch
+7-8                 0    1377             0     1377                 7-8             0     709             0      709            2086       16   0      0   0
+8-9                 0    1454             0     1454                 8-9             0     801             0      801            2255       30   0      0   0
+9-10                0    1086             0     1086                 9-10            0     927             5      932            2018       14   0      0   0
+3-4                 0    1107             0     1107                 3-4             0     786             0      786            1893       64   0      0   0
+4-5                 0    1194             0     1194                 4-5             0     991             0      991            2185       56   0      0   0
+5-6                 0    1349             0     1349                 5-6             0    1086             0     1086            2435       70   0      0   0
+
+TOTAL               0    7567             0      7567                TOTAL           0    5300             5     5305           12872      250   0      0   0
+
+
+            (Rev Apr 06)
+

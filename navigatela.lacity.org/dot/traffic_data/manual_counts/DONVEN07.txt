@@ -1,0 +1,63 @@
+                        City Of Los Angeles
+                        Department Of Transportation
+                        MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South             DONNA AV
+
+East/West               VENTURA BL
+
+Day:        WEDNESDAY                      Date:       February 28, 2007             Weather:              CLEAR
+
+Hours:      7-10AM 3-6PM
+
+School Day:             YES                District:             WEST VALLEY           I/S CODE 2244075600
+
+
+                         N/B                           S/B                            E/B                               W/B
+DUAL-
+WHEELED                        4                             0                             86                            117
+BIKES                          0                             0                              7                              5
+BUSES                          0                             0                             69                             77
+
+
+                        N/B        TIME                S/B       TIME                E/B        TIME                    W/B TIME
+
+AM PK 15 MIN                  11    8.30                     0 7.00                    596       7.15                    447     8.00
+
+PM PK 15 MIN                  21    5.00                     0 3.00                    440       4.15                    427     5.45
+
+AM PK HOUR                    33    8.00                     0 7.00                   2226       7.15                   1708     7.30
+
+PM PK HOUR                    60    5.00                     0 3.00                   1596       3.45                   1683     5.00
+
+
+
+
+NORTHBOUND Approach                                              SOUTHBOUND Approach                       NONE                TOTAL    XING S/L   XING N/L
+
+Hours          Lt        Th         Rt      Total                Hours     Lt         Th         Rt         Total               N-S     Ped Sch    Ped Sch
+7-8              1             0      15        16               7-8             0          0          0            0              16      7   0      0   0
+8-9              2             0      31        33               8-9             0          0          0            0              33      3   0      0   0
+9-10             3             0      20        23               9-10            0          0          0            0              23      1   0      0   0
+3-4              9             0      27        36               3-4             0          0          0            0              36     11   0      0   0
+4-5             14             0      20        34               4-5             0          0          0            0              34      9   0      0   0
+5-6              9             0      51        60               5-6             0          0          0            0              60     11   0      0   0
+
+TOTAL           38             0     164       202               TOTAL           0          0          0            0             202     42   0      0   0
+
+
+EASTBOUND Approach                                               WESTBOUND Approach                                            TOTAL    XING W/L   XING E/L
+
+Hours          Lt        Th         Rt      Total                Hours     Lt         Th         Rt         Total               E-W     Ped Sch    Ped Sch
+7-8                 0    2189          4     2193                7-8         32       1384             0     1416                3609      0   0      0   0
+8-9                 0    1844          8     1852                8-9         41       1516             0     1557                3409      0   0      0   0
+9-10                0    1529          6     1535                9-10        54       1352             0     1406                2941      0   0      0   0
+3-4                 0    1309         20     1329                3-4         76       1551             0     1627                2956      2   0      0   0
+4-5                 0    1566         14     1580                4-5         74       1515             0     1589                3169      0   0      0   0
+5-6                 0    1303         19     1322                5-6         83       1600             0     1683                3005      0   0      0   0
+
+TOTAL               0    9740         71      9811               TOTAL         360    8918             0     9278               19089      2   0      0   0
+
+
+            (Rev Oct 06)
+

@@ -1,0 +1,61 @@
+                     City Of Los Angeles
+                     Department Of Transportation
+                     MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South          PARK VIEW ST
+
+East/West            3RD ST
+
+Day:        WEDNESDAY                   Date:       December 9, 2009        Weather:          SUNNY
+
+Hours:      7-10AM 2-5PM                                  Chekrs:   ALAS
+
+School Day:          YES                District:         HOLLYWOOD           I/S CODE 19484
+
+
+                      N/B                           S/B                       E/B                     W/B
+DUAL-
+WHEELED                    0                         8                        126                       96
+BIKES                      0                         4                          0                        9
+BUSES                      0                         0                         88                       91
+
+
+                      N/B TIME                      S/B TIME                  E/B TIME                W/B TIME
+
+AM PK 15 MIN               0   7.00                 21     7.45               402      8.00            329    8.30
+
+PM PK 15 MIN               0   2.00                 14     3.15               290      4.00            308    3.15
+
+AM PK HOUR                 0   7.00                 65     7.00              1525      7.45           1235    8.00
+
+PM PK HOUR                 0   2.00                 41     2.30              1119      3.15           1011    3.00
+
+
+
+NORTHBOUND Approach                                       SOUTHBOUND Approach                                TOTAL   XING S/L   XING N/L
+                  NONE                                                  PARK VIEW ST
+Hours   Lt   Th    Rt Total                               Hours    Lt    Th   Rt Total                        N-S     Ped Sch    Ped   Sch
+7-8        0    0    0                          0         7-8         7     0   58    65                        65      0   0     40     5
+8-9        0    0    0                          0         8-9         5     0   43    48                        48      0   0     21     0
+9-10       0    0    0                          0         9-10        4     0   49    53                        53      0   0     18     1
+2-3        0    0    0                          0         2-3         7     0   22    29                        29      0   0     24     7
+3-4        0    0    0                          0         3-4         3     0   37    40                        40      0   0     30     6
+4-5        0    0    0                          0         4-5         8     0   22    30                        30      0   0     40     0
+
+TOTAL            0         0        0           0         TOTAL        34       0      231      265            265     0    0    173   19
+
+
+EASTBOUND Approach                                        WESTBOUND Approach                                 TOTAL   XING W/L   XING E/L
+
+Hours         Lt      Th       Rt       Total             Hours      Lt     Th         Rt Total              E-W      Ped Sch    Ped   Sch
+7-8            19     1136          0     1155            7-8             0 874         15   889              2044      1   2      2     1
+8-9            20     1485          0     1505            8-9             0 1220        15 1235               2740      0   0      0     0
+9-10           13     1216          0     1229            9-10            0 1100        12 1112               2341      0   0      0     0
+2-3            21      797          0      818            2-3             0 829         23   852              1670      0   0      0     0
+3-4            30     1061          0     1091            3-4             0 989         22 1011               2102      0   0      0     0
+4-5            37     1046          0     1083            4-5             0 978         11   989              2072      1   0      1     0
+
+TOTAL         140 6741              0     6881            TOTAL           0 5990        98     6088          12969     2    2      3    1
+
+            (Rev Oct 06)
+

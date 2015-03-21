@@ -1,0 +1,61 @@
+                    City Of Los Angeles
+                    Department Of Transportation
+                    MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South         ETIWANDA AV
+
+East/West           NORDHOFF ST
+
+Day:               TUESDAY            Date:        August 26, 2008              Weather:            SUNNY
+
+Hours:      7-10AM 3-6PM                                        Chekrs:         THOMPSON
+
+School Day:         YES               District:         WEST VALLEY               I/S CODE          33001
+
+
+                      N/B                         S/B                              E/B                       W/B
+DUAL-
+WHEELED                    0                        3                              168                         92
+BIKES                      0                        0                                9                          6
+BUSES                      0                        0                               59                         38
+
+
+                      N/B TIME                    S/B TIME                         E/B TIME                  W/B TIME
+
+AM PK 15 MIN           35      7.45                60    9.30                      290     7.45               554    7.45
+
+PM PK 15 MIN           33      3.45               225    3.45                      680     5.45               526    5.45
+
+AM PK HOUR             98      8.45               182    8.45                     1074     7.15              2119    7.15
+
+PM PK HOUR             95      3.15               796    3.30                     2378     5.00              1966    5.00
+
+
+
+NORTHBOUND Approach                                     SOUTHBOUND Approach                                         TOTAL   XING S/L   XING N/L
+                                                               ETIWANDA AV 1-WAY
+Hours         Lt     Th        Rt Total                 Hours    Lt   Th    Rt Total                                 N-S     Ped Sch    Ped   Sch
+7-8            44          0    25     69               7-8       40     2   43     85                                154      9   0      5     0
+8-9            57          0    24     81               8-9       75     0   42   117                                 198      6   0      3     0
+9-10           51          0    27     78               9-10      79     3 100    182                                 260     13   0      2     0
+3-4            50          0    44     94               3-4      466    17 191    674                                 768     39   0     28     0
+4-5            32          0    31     63               4-5      465    20 141    626                                 689     11   0      5     0
+5-6            27          0    24     51               5-6      508    15 102    625                                 676     15   0      2     0
+
+TOTAL         261          0   175        436           TOTAL         1633          57     619        2309           2745     93   0     45    0
+
+
+EASTBOUND Approach                                      WESTBOUND Approach                                          TOTAL   XING W/L   XING E/L
+
+Hours         Lt     Th        Rt Total                 Hours             Lt      Th       Rt       Total           E-W      Ped Sch    Ped   Sch
+7-8                0 997        37 1034                 7-8                28     1864          0     1892           2926    199   0      0     0
+8-9                0 949        33   982                8-9                51     2003          0     2054           3036    205   0      0     0
+9-10               0 973        48 1021                 9-10               58     1623          0     1681           2702    432   0      0     0
+3-4                0 1320       70 1390                 3-4                33     1745          0     1778           3168    510   0      0     0
+4-5                0 1728       69 1797                 4-5                39     1773          0     1812           3609    471   0      0     0
+5-6                0 2305       73 2378                 5-6                27     1939          0     1966           4344    443   0      0     0
+
+TOTAL              0 8272      330      8602            TOTAL             236 10947             0 11183             19785   2260   0      0    0
+
+            (Rev Oct 06)
+

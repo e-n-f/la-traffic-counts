@@ -1,0 +1,63 @@
+                       City Of Los Angeles
+                       Department Of Transportation
+                       MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South            FULTON AV
+
+East/West              SARAH ST
+
+Day:          WEDNESDAY                       Date:       June 13, 2007                 Weather:               SUNNY
+
+Hours:        7-10AM 3-6PM
+
+School Day:            YES                    District:             EAST VALLEY           I/S CODE              35416
+
+
+                       N/B                                S/B                           E/B                                 W/B
+DUAL-
+WHEELED                      10                                 7                              0                                  4
+BIKES                         5                                 3                              0                                  0
+BUSES                         6                                 2                              1                                  0
+
+
+                       N/B        TIME                    S/B       TIME                E/B        TIME                     W/B TIME
+
+AM PK 15 MIN                149        7.45                216 8.00                            1        9.15                  16         8.45
+
+PM PK 15 MIN                273        5.00                172 3.15                            0        3.00                  17         3.30
+
+AM PK HOUR                  510        7.45                777 7.30                            1        8.30                  48         8.00
+
+PM PK HOUR              1009           5.00                579 3.00                            0        3.00                  45         3.30
+
+
+
+
+NORTHBOUND Approach                                                 SOUTHBOUND Approach                                               TOTAL      XING S/L            XING N/L
+
+Hours         Lt       Th         Rt          Total                 Hours    Lt         Th         Rt          Total                  N-S        Ped       Sch       Ped       Sch
+7-8                0        383          6        389               7-8            16        596          0        612                  1001           5         0         0         0
+8-9                0        479         10        489               8-9            20        705          0        725                  1214           3         0         4         0
+9-10               0        388          9        397               9-10           14        492          0        506                    903          3         0         5         0
+3-4                0        579          3        582               3-4            19        560          0        579                  1161           3         1         3         1
+4-5                0        742          5        747               4-5            15        497          0        512                  1259           3         2         1         1
+5-6                0        998         11       1009               5-6            33        473          0        506                  1515           2         0         6         1
+
+TOTAL              0    3569            44       3613               TOTAL         117    3323             0       3440                  7053       19            3     19            3
+
+
+EASTBOUND Approach                                                  WESTBOUND Approach                                                TOTAL      XING W/L            XING E/L
+
+Hours         Lt       Th         Rt          Total                 Hours    Lt         Th         Rt          Total                  E-W        Ped       Sch       Ped       Sch
+7-8                0          0          0            0             7-8             6          0         30            36                   36         1         0         0         0
+8-9                0          0          0            0             8-9             8          0         40            48                   48         0         0         0         0
+9-10               0          1          0            1             9-10           10          0         27            37                   38         0         0         1         0
+3-4                0          0          0            0             3-4             6          0         38            44                   44         2         2         0         0
+4-5                0          0          0            0             4-5             3          0         27            30                   30         0         2         0         0
+5-6                0          0          0            0             5-6             2          0         28            30                   30         0         0         0         0
+
+TOTAL              0          1          0            1             TOTAL          35          0        190        225                   226           3         4         1         0
+
+
+              (Rev Oct 06)
+

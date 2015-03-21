@@ -1,0 +1,63 @@
+                        City Of Los Angeles
+                        Department Of Transportation
+                        MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South             DE SOTO AV
+
+East/West               GAULT ST
+
+Day:        MONDAY                            Date:         December 18, 2006       Weather:              CLEAR
+
+Hours:      7-10AM 3-6PM
+
+School Day:             YES                   District:           WEST VALLEY         I/S CODE 2123030240
+
+
+                         N/B                              S/B                        E/B                               W/B
+DUAL-
+WHEELED                   100                              168                             4                             0
+BIKES                      25                               26                             0                             0
+BUSES                      29                               32                             0                             0
+
+
+                        N/B        TIME                   S/B    TIME               E/B        TIME                    W/B TIME
+
+AM PK 15 MIN              231       8.00                   403 8.00                       10    7.00                     0     7.00
+
+PM PK 15 MIN              456       5.30                   344 5.30                       13    5.30                     0     3.00
+
+AM PK HOUR                773       8.00                  1551 7.15                       29    7.00                     0     7.00
+
+PM PK HOUR               1737       5.00                  1263 5.00                       40    3.00                     0     3.00
+
+
+
+
+NORTHBOUND Approach                                              SOUTHBOUND Approach                                         TOTAL    XING S/L   XING N/L
+
+Hours          Lt        Th         Rt         Total             Hours     Lt        Th         Rt         Total              N-S     Ped Sch    Ped Sch
+7-8              5        522             0      527             7-8            0    1470          9        1479               2006      0   0      0   0
+8-9             10        763             0      773             8-9            0    1469          5        1474               2247      0   0      0   0
+9-10            12        726             0      738             9-10           0    1180          3        1183               1921      0   0      0   0
+3-4              9        961             0      970             3-4            0    1077         14        1091               2061      0   0      0   0
+4-5             19       1217             0     1236             4-5            0    1113         23        1136               2372      2   0      0   0
+5-6             25       1712             0     1737             5-6            0    1231         32        1263               3000      0   0      1   0
+
+TOTAL           80       5901             0      5981            TOTAL          0    7540         86        7626              13607      2   0      1   0
+
+
+EASTBOUND Approach                                               WESTBOUND Approach                       NONE               TOTAL    XING W/L   XING E/L
+
+Hours          Lt        Th         Rt         Total             Hours     Lt        Th         Rt         Total              E-W     Ped Sch    Ped Sch
+7-8                 4          0      25           29            7-8            0          0          0            0             29     11   3      0   0
+8-9                 4          0      16           20            8-9            0          0          0            0             20      9   0      0   0
+9-10                1          0       8             9           9-10           0          0          0            0              9     12   0      0   0
+3-4                 4          0      36           40            3-4            0          0          0            0             40     14   0      0   0
+4-5                 4          0      33           37            4-5            0          0          0            0             37     22   0      0   0
+5-6                 2          0      34           36            5-6            0          0          0            0             36     15   0      0   0
+
+TOTAL           19             0     152          171            TOTAL          0          0          0            0            171     83   3      0   0
+
+
+            (Rev Oct 06)
+

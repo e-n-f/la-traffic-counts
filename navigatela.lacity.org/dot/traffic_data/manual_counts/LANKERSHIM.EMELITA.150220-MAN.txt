@@ -1,0 +1,61 @@
+                     City Of Los Angeles
+                     Department Of Transportation
+                     MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South          Lankershim Bl.
+
+East/West            Emelita St.
+
+Day:                  Friday           Date:       February 20, 2015          Weather:          SUNNY
+
+Hours:        11AM-2PM 4-7PM
+
+School Day:          YES               District:         East Valley            I/S CODE 25018
+
+
+                       N/B                         S/B                          E/B                      W/B
+DUAL-
+WHEELED                 95                          95                              1                      4
+BIKES                   50                          49                              0                      1
+BUSES                   40                          41                              0                      0
+
+
+                       N/B TIME                    S/B TIME                     E/B TIME                 W/B TIME
+
+AM PK 15 MIN           311     12.15               246 11.45                     15 12.15                 18    11.00
+
+PM PK 15 MIN           351      5.45               302    4.00                   17      5.30             19     4.00
+
+AM PK HOUR            1155     11.45               867 11.00                     38 12.00                 50    13.00
+
+PM PK HOUR            1303      5.00           1034       4.00                   53      5.30             54     4.00
+
+
+
+NORTHBOUND Approach                                      SOUTHBOUND Approach                                   TOTAL    XING S/L        XING N/L
+
+Hours          Lt     Th       Rt      Total             Hours         Lt      Th        Rt     Total           N-S        Ped Sch        Ped   Sch
+11-12           17     862       12      891             11-12          25      833        9       867          1758         1   0          9     0
+12-1            23    1071       13     1107             12-1           26      661       13       700          1807         1   0         10     1
+1-2             29     952       18      999             1-2            35      769       24       828          1827         2   0         11     1
+4-5             22    1144       30     1196             4-5            17      996       21      1034          2230         5   0         24     4
+5-6             24    1260       19     1303             5-6            23      729       17       769          2072         1   0         17     0
+6-7             24    1179       19     1222             6-7            41      702       21       764          1986         0   1         10     0
+
+TOTAL         139 6468          111 6718                 TOTAL         167 4690          105      4962         11680        10      1      81       6
+
+
+EASTBOUND Approach                                       WESTBOUND Approach                                    TOTAL    XING W/L        XING E/L
+
+Hours          Lt     Th       Rt Total                  Hours         Lt      Th        Rt Total              E-W         Ped Sch        Ped   Sch
+11-12           11         1     15  27                  11-12          12          1     34     47               74         9   0         10     2
+12-1             9         3     26  38                  12-1             6         1     21     28               66        12   1         18     3
+1-2              1         0     23  24                  1-2            13          1     36     50               74        31   7         12     1
+4-5             11         0     22  33                  4-5            14          3     37     54               87        37   2         43     9
+5-6             12         2     25  39                  5-6            10          2     31     43               82        28   0         43     4
+6-7             23         0     27  50                  6-7            15          1     34     50              100        50   2         44    14
+
+TOTAL          67          6    138      211             TOTAL          70          9    193       272           483       167     12     170      33
+
+              (Rev Oct 06)
+

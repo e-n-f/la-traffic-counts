@@ -1,0 +1,63 @@
+                        City Of Los Angeles
+                        Department Of Transportation
+                        MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South             FLOWER ST
+
+East/West               EXPOSITION BL
+
+Day:        WEDNESDAY                         Date:          September 27, 2006       Weather:              CLEAR
+
+Hours:      7-10AM 3-6PM
+
+School Day:             YES                   District:           CENTRAL               I/S CODE 2697028610
+
+
+                         N/B                               S/B                         E/B                           W/B
+DUAL-
+WHEELED                        0                            113                              0                         61
+BIKES                          2                              2                              2                          0
+BUSES                          0                              0                              0                         20
+
+
+                        N/B        TIME                    S/B    TIME                E/B        TIME                W/B TIME
+
+AM PK 15 MIN                   0    7.00                    146 9.00                         0    7.00                 99     9.00
+
+PM PK 15 MIN                   0    3.00                    404 5.30                         0    3.00                170     5.45
+
+AM PK HOUR                     0    7.00                    535 9.00                         0    7.00                319     9.00
+
+PM PK HOUR                     0    3.00                   1559 5.00                         0    3.00                594     5.00
+
+
+
+
+NORTHBOUND Approach                           NONE                SOUTHBOUND Approach                                       TOTAL    XING S/L   XING N/L
+                                                                                      FLOWER ST ONE WAY
+Hours          Lt        Th         Rt         Total              Hours      Lt         Th   Rt   Total                      N-S     Ped Sch    Ped Sch
+7-8                 0          0          0            0          7-8             0      357  100   457                        457      0   0      3   0
+8-9                 0          0          0            0          8-9             0      383  100   483                        483      1   0      4   0
+9-10                0          0          0            0          9-10            0      432  103   535                        535      0   0      3   0
+3-4                 0          0          0            0          3-4             0      853  142   995                        995      1   0      0   0
+4-5                 0          0          0            0          4-5             0    1038   161  1199                       1199      9   0      4   0
+5-6                 0          0          0            0          5-6             0    1263   296  1559                       1559      4   0      6   0
+
+TOTAL               0          0          0            0          TOTAL           0    4326        902        5228            5228     15   0     20   0
+
+
+EASTBOUND Approach                            NONE                WESTBOUND Approach                                        TOTAL    XING W/L   XING E/L
+
+Hours          Lt        Th         Rt         Total              Hours      Lt        Th         Rt         Total           E-W     Ped Sch    Ped Sch
+7-8                 0          0          0            0          7-8          10       295             0      305             305      8   0      0   0
+8-9                 0          0          0            0          8-9          17       218             0      235             235      9   0      0   0
+9-10                0          0          0            0          9-10         35       284             0      319             319      9   0      0   0
+3-4                 0          0          0            0          3-4          33       400             0      433             433     10   0      0   0
+4-5                 0          0          0            0          4-5          31       466             0      497             497     10   0      0   0
+5-6                 0          0          0            0          5-6          36       558             0      594             594     14   0      0   0
+
+TOTAL               0          0          0            0          TOTAL       162      2221             0     2383            2383     60   0      0   0
+
+
+            (Rev Apr 06)
+

@@ -1,0 +1,63 @@
+                       City Of Los Angeles
+                       Department Of Transportation
+                       MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South            LUCAS AV
+
+East/West              EMERALD DR
+
+Day:          WEDNESDAY                       Date:       June 13, 2007             Weather:               SUNNY
+
+Hours:        7-10AM 2-5PM
+
+School Day:            YES                    District:          HOLLYWOOD            I/S CODE                8212
+
+
+                       N/B                                S/B                       E/B                                 W/B
+DUAL-
+WHEELED                      47                             49                             0                                  4
+BIKES                         0                              0                             0                                  0
+BUSES                         0                              0                             0                                  0
+
+
+                       N/B        TIME                    S/B    TIME               E/B        TIME                     W/B TIME
+
+AM PK 15 MIN                 77        7.30                190 8.00                        0        7.00                  13        8.00
+
+PM PK 15 MIN                192        4.45                104 4.45                        0        2.00                      5     2.30
+
+AM PK HOUR                  244        7.15                698 7.30                        0        7.00                  38        7.15
+
+PM PK HOUR                  620        4.00                372 3.00                        0        2.00                  14        3.00
+
+
+
+
+NORTHBOUND Approach                                              SOUTHBOUND Approach                                              TOTAL       XING S/L            XING N/L
+
+Hours         Lt       Th         Rt          Total              Hours    Lt        Th         Rt          Total                  N-S         Ped       Sch       Ped       Sch
+7-8                0        201         20        221            7-8            3        626          0        629                      850         0         0         0         0
+8-9                0        186         26        212            8-9            2        669          0        671                      883         1         0         2         0
+9-10               0        131         10        141            9-10           4        536          0        540                      681         2         0         0         0
+2-3                0        354         16        370            2-3            1        320          0        321                      691         0         0         3         0
+3-4                0        271         12        283            3-4            6        366          0        372                      655         1         0         7         0
+4-5                0        601         19        620            4-5            4        340          0        344                      964         0         0         0         0
+
+TOTAL              0    1744           103       1847            TOTAL         20    2857             0       2877                  4724            4         0     12            0
+
+
+EASTBOUND Approach                            NONE               WESTBOUND Approach                                               TOTAL       XING W/L            XING E/L
+
+Hours         Lt       Th         Rt          Total              Hours    Lt        Th         Rt          Total                  E-W         Ped       Sch       Ped Sch
+7-8                0          0          0            0          7-8           24          0          8            32                    32         0         0     26    4
+8-9                0          0          0            0          8-9           19          0          8            27                    27         0         0     32    4
+9-10               0          0          0            0          9-10          10          0          4            14                    14         0         0      4    0
+2-3                0          0          0            0          2-3            5          0          5            10                    10         0         0     12    0
+3-4                0          0          0            0          3-4           12          0          2            14                    14         0         0     23   10
+4-5                0          0          0            0          4-5            3          0          3             6                     6         0         0      5    1
+
+TOTAL              0          0          0            0          TOTAL         73          0         30        103                      103         0         0    102        19
+
+
+              (Rev Oct 06)
+
