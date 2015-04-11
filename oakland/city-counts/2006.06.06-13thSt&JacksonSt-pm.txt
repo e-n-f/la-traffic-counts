@@ -1,0 +1,66 @@
+WILTEC                                                                                                     Phone: (925) 706-9911          Fax: (925) 706-9914
+INTERSECTION CAR/PED/BIKE TRAFFIC COUNT RESULTS SUMMARY
+
+CLIENT:                                 DOWLING ASSOCIATES
+PROJECT:                                226 JACKSON STREET, OAKLAND
+DATE:                                   TUESDAY JUNE 6, 2006
+PERIOD"                                 4:00 PM TO 6:00 PM
+INTERSECTION:               N/S         JACKSON STREET
+                            E/W         13TH STREET
+CITY:                                   OAKLAND
+
+VEHICLE COUNTS
+15 MIN COUNTS        1           2            3           4           5        6        7          8        9          10         11           12
+PERIOD            SBRT        SBTH         SBLT        WBRT        WBTH     WBLT     NBRT       NBTH     NBLT        EBRT       EBTH         EBLT     TOTAL
+400-415              0          34            8           0           0        0       15         61        0          18         86           22       244
+415-430              0          22            8           0           0        0       18         41        0          19         89           10       207
+430-445              0          32           11           0           0        0       26         43        0          15         98           20       245
+445-500              0          32            4           0           0        0       15         39        0          13        104           13       220
+500-515              0          28            5           0           0        0       29         40        0          15        132           10       259
+515-530              0          32            9           0           0        0       20         37        0          13        117           13       241
+530-545              0          39            6           0           0        0       19         29        0          19        128           14       254
+545-600              0          32            5           0           0        0       11         30        0          10         98            8       194
+HOUR TOTALS          1           2            3           4           5        6        7          8        9          10         11           12
+PERIOD            SBRT        SBTH         SBLT        WBRT        WBTH     WBLT     NBRT       NBTH     NBLT        EBRT       EBTH         EBLT     TOTAL
+400-500              0         120           31           0           0        0       74        184        0          65        377           65       916
+415-515              0         114           28           0           0        0       88        163        0          62        423           53       931
+430-530              0         124           29           0           0        0       90        159        0          56        451           56       965
+445-545              0         131           24           0           0        0       83        145        0          60        481           50       974
+500-600              0         131           25           0           0        0       79        136        0          57        475           45       948
+
+   PEAK HOUR:     445-545
+                                                                                            0
+
+                                           0          131           24                      0
+
+                                                                                            0
+
+
+
+                                               50
+
+13TH STREET                                    481                          0        145        83
+
+                                               60                                  JACKSON STREET
+
+
+
+PEDESTRIAN COUNTS                                                                  BICYCLE COUNTS
+15 MIN COUNTS   NORTH       EAST        SOUTH        WEST        TOTAL             15 MIN COUNTS       NORTH       EAST       SOUTH       WEST       TOTAL
+PERIOD          LEG         LEG         LEG          LEG                           PERIOD              LEG         LEG        LEG         LEG
+400-415              15            27        37             28       107           400-415                     0          0           0          0           0
+415-430              16            14        15              5         50          415-430                     0          0           1          1           2
+430-445              20            19        32             18         89          430-445                     1          1           1          0           3
+445-500              20            12        18             24         74          445-500                     0          0           3          1           4
+500-515              23             8        18             17         66          500-515                     0          0           0          1           1
+515-530               8            13        18              7         46          515-530                     1          0           2          0           3
+530-545              15             9         5             11         40          530-545                     1          2           0          2           5
+545-600              12            14        13              5         44          545-600                     0          2           2          0           4
+HOUR TOTALS     NORTH       EAST        SOUTH        WEST        TOTAL             HOUR TOTALS         NORTH       EAST       SOUTH       WEST       TOTAL
+PERIOD          LEG         LEG         LEG          LEG                           PERIOD              LEG         LEG        LEG         LEG
+400-500              71            72       102             75        320          400-500                     1          1           5          2            9
+415-515              79            53        83             64        279          415-515                     1          1           5          3           10
+430-530              71            52        86             66        275          430-530                     2          1           6          2           11
+445-545              66            42        59             59        226          445-545                     2          2           5          4           13
+500-600              58            44        54             40        196          500-600                     2          4           4          3           13
+

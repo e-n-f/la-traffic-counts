@@ -1,0 +1,66 @@
+WILTEC                                                                                             Phone: (925) 706-9911          Fax: (925) 706-9914
+INTERSECTION CAR/PED/BIKE TRAFFIC COUNT RESULTS SUMMARY
+
+CLIENT:                              DOWLING ASSOCIATES
+PROJECT:                             226 JACKSON STREET, OAKLAND
+DATE:                                WEDNESDAY JUNE 7, 2006
+PERIOD"                              7:00 AM TO 9:00 AM
+INTERSECTION:               N/S      ALICE STREET
+                            E/W      11TH STREET
+CITY:                                OAKLAND
+
+VEHICLE COUNTS
+15 MIN COUNTS        1           2         3           4        5      6        7          8        9          10         11           12
+PERIOD            SBRT        SBTH      SBLT        WBRT     WBTH   WBLT     NBRT       NBTH     NBLT        EBRT       EBTH         EBLT     TOTAL
+700-715              0           0         5           0        0      0        0          0        0           0         44            6        55
+715-730              0           0        11           0        0      0        0          0        0           1         58            6        76
+730-745              0           1        14           0        0      0        0          0        0           1         68            7        91
+745-800              0           2        16           0        0      0        0          0        0           3         96            7       124
+800-815              0           1        22           0        0      0        0          0        0           0        119           20       162
+815-830              0           0        31           0        0      0        1          0        0           1        128           13       174
+830-845              0           0        17           0        0      0        0          0        0           0        116           13       146
+845-900              0           0        10           0        0      0        0          0        0           0        100           14       124
+HOUR TOTALS          1           2         3           4        5      6        7          8        9          10         11           12
+PERIOD            SBRT        SBTH      SBLT        WBRT     WBTH   WBLT     NBRT       NBTH     NBLT        EBRT       EBTH         EBLT     TOTAL
+700-800              0           3        46           0        0      0        0          0        0           5        266           26       346
+715-815              0           4        63           0        0      0        0          0        0           5        341           40       453
+730-830              0           4        83           0        0      0        1          0        0           5        411           47       551
+745-845              0           3        86           0        0      0        1          0        0           4        459           53       606
+800-900              0           1        80           0        0      0        1          0        0           1        463           60       606
+
+   PEAK HOUR:     745-845
+                                                                                    0
+
+                                        0           3        86                     0
+
+                                                                                    0
+
+
+
+                                            53
+
+11TH STREET                                 459                     0         0         1
+
+                                             4                             ALICE STREET
+
+
+
+PEDESTRIAN COUNTS                                                          BICYCLE COUNTS
+15 MIN COUNTS   NORTH       EAST     SOUTH        WEST     TOTAL           15 MIN COUNTS       NORTH       EAST       SOUTH       WEST       TOTAL
+PERIOD          LEG         LEG      LEG          LEG                      PERIOD              LEG         LEG        LEG         LEG
+700-715               0      0      0      9        9                      700-715                     0          0           0          0           0
+715-730               1      1      0      3        5                      715-730                     0          0           0          0           0
+730-745               4      1      0     12       17                      730-745                     1          1           0          0           2
+745-800               2      1      0     15       18                      745-800                     0          0           0          0           0
+800-815               9      5      0     19       33                      800-815                     0          1           0          0           1
+815-830               1     20      0     36       57                      815-830                     0          0           0          0           0
+830-845              20     10      0     15       45                      830-845                     0          0           0          0           0
+845-900              10      3      0     10       23                      845-900                     0          0           0          1           1
+HOUR TOTALS     NORTH EAST     SOUTH WEST    TOTAL                         HOUR TOTALS         NORTH       EAST       SOUTH       WEST       TOTAL
+PERIOD          LEG     LEG    LEG    LEG                                  PERIOD              LEG         LEG        LEG         LEG
+700-800               7      3      0     39       49                      700-800                     1          1           0          0           2
+715-815              16      8      0     49       73                      715-815                     1          2           0          0           3
+730-830              16     27      0     82     125                       730-830                     1          2           0          0           3
+745-845              32     36      0     85     153                       745-845                     0          1           0          0           1
+800-900              40     38      0     80     158                       800-900                     0          1           0          1           2
+
