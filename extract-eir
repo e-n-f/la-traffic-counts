@@ -25,6 +25,10 @@ sub fixtime {
 		# systematic error in, e.g., 16971_SANWES100414
 		$time = "815-915";
 	}
+	if ($time eq "854-900") {
+		# systematic error in, e.g., 21796_HOLLAB110920
+		$time = "845-900";
+	}
 
 	if ($time =~ /^(\d\d?)(\d\d)-(\d\d?)(\d\d)$/ ||
 	    $time =~ /^(\d\d?):(\d\d)-(\d\d?):(\d\d)/) {
