@@ -1,0 +1,63 @@
+                        City Of Los Angeles
+                        Department Of Transportation
+                        MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South             JEFFERSON BL
+
+East/West               NATIONAL BL
+
+Day:        MONDAY                         Date:       March 5, 2007                  Weather:              SUNNY
+
+Hours:      7-10AM 3-6PM
+
+School Day:             YES                District:             HOLLYWOOD              I/S CODE             45161
+
+
+                         N/B                           S/B                             E/B                               W/B
+DUAL-
+WHEELED                   104                                0                          186                               201
+BIKES                       3                                0                            3                                 0
+BUSES                       0                                0                            2                                 0
+
+
+                        N/B        TIME                S/B       TIME                 E/B        TIME                    W/B TIME
+
+AM PK 15 MIN              238       7.30                     0 7.00                     199       8.45                    528     7.45
+
+PM PK 15 MIN              220       5.45                     0 3.00                     378       4.45                    241     5.45
+
+AM PK HOUR                890       7.30                     0 7.00                     764       8.00                   1923     7.00
+
+PM PK HOUR                845       5.00                     0 3.00                    1432       4.30                    894     5.00
+
+
+
+
+NORTHBOUND Approach                                              SOUTHBOUND Approach                        NONE                TOTAL    XING S/L   XING N/L
+                                   JEFFERSON BL
+Hours          Lt        Th          Rt   Total                  Hours       Lt        Th         Rt         Total               N-S     Ped Sch    Ped Sch
+7-8                 0          0     841    841                  7-8              0          0          0            0             841      2   0      0   0
+8-9                 0          0     837    837                  8-9              0          0          0            0             837      7   0      0   0
+9-10                0          2     639    641                  9-10             0          0          0            0             641      7   1      0   0
+3-4                 0          1     689    690                  3-4              0          0          0            0             690      1   0      0   0
+4-5                 0          3     696    699                  4-5              0          0          0            0             699      0   0      0   0
+5-6                 0          2     843    845                  5-6              0          0          0            0             845      2   0      0   0
+
+TOTAL               0          8    4545      4553               TOTAL            0          0          0            0            4553     19   1      0   0
+
+
+EASTBOUND Approach                                               WESTBOUND Approach                                             TOTAL    XING W/L   XING E/L
+                                   NATIONAL BL                                                   JEFFERSON BL
+Hours          Lt        Th          Rt   Total                  Hours       Lt        Th          Rt   Total                    E-W     Ped Sch    Ped Sch
+7-8                 0     320        117    437                  7-8         556       1367           0  1923                     2360      2   0      0   0
+8-9                 0     534        230    764                  8-9         512       1137           1  1650                     2414      0   0      0   0
+9-10                0     387        165    552                  9-10        568        950           0  1518                     2070      0   0      0   0
+3-4                 0     839        375   1214                  3-4         278        392           0   670                     1884      0   0      1   0
+4-5                 0     915        479   1394                  4-5         401        455           0   856                     2250      0   0      0   0
+5-6                 0     875        469   1344                  5-6         441        453           0   894                     2238      1   0      0   0
+
+TOTAL               0    3870       1835      5705               TOTAL       2756      4754             1     7511               13216      3   0      1   0
+
+
+            (Rev Oct 06)
+

@@ -1,0 +1,61 @@
+                    City Of Los Angeles
+                    Department Of Transportation
+                    MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South         HOPE ST
+
+East/West           WILSHIRE BL
+
+Day:        WEDNESDAY              Date: FEBRUARY 27, 2008            Weather:          SUNNY
+
+Hours:      11AM-2PM 3-6PM
+
+School Day:         YES            District:         CENTRAL            I/S CODE 8939
+
+
+                     N/B                       S/B                      E/B                     W/B
+DUAL-
+WHEELED               39                        41                       39                      41
+BIKES                 13                        18                        5                      23
+BUSES                 61                         0                       69                      11
+
+
+                     N/B TIME                  S/B TIME                 E/B TIME                W/B TIME
+
+AM PK 15 MIN          78   11.15                72 11.15                103 12.00                71    13.45
+
+PM PK 15 MIN         125    5.15                86    4.45              114      5.15           151     5.15
+
+AM PK HOUR           289   12.45               270 11.00                365 12.00               213    13.00
+
+PM PK HOUR           420    5.00               320    4.45              409      3.45           498     4.30
+
+
+
+NORTHBOUND Approach                                  SOUTHBOUND Approach                              TOTAL    XING S/L       XING N/L
+
+Hours         Lt     Th    Rt Total                  Hours     Lt      Th        Rt Total              N-S        Ped Sch       Ped   Sch
+11-12          85    104     89 278                  11-12      15      163       92   270              548       184   1       156     2
+12-1          102    105     49 256                  12-1       20      104       90   214              470       253   1       184     0
+1-2           109    113     53 275                  1-2        11      124       57   192              467       291   1       227     0
+3-4           107    137     53 297                  3-4        13      128      100   241              538       119   0       135     0
+4-5           127    141     61 329                  4-5        18      182      107   307              636       119   0       149     0
+5-6           206    175     39 420                  5-6          6     172      136   314              734       165   0       155     0
+
+TOTAL         736    775      344 1855               TOTAL      83      873      582     1538          3393      1131     3    1006       2
+
+
+EASTBOUND Approach                                   WESTBOUND Approach                               TOTAL    XING W/L       XING E/L
+
+Hours         Lt     Th    Rt Total                  Hours     Lt      Th        Rt Total             E-W         Ped Sch       Ped   Sch
+11-12          46    260     24 330                  11-12      16      118       54   188              518       302   0       431     5
+12-1           44    269     52 365                  12-1       15      131       41   187              552       775   0       669     3
+1-2            31    260     33 324                  1-2        27      129       57   213              537       585   0       667     0
+3-4            46    252     43 341                  3-4        23      197       51   271              612       445   0       447     0
+4-5            32    332     24 388                  4-5        39      290       59   388              776       489   0       383     0
+5-6            58    304     37 399                  5-6        49      336       92   477              876       532   0       523     2
+
+TOTAL         257 1677        213 2147               TOTAL     169 1201          354     1724          3871      3128     0    3120      10
+
+            (Rev Oct 06)
+

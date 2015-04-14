@@ -1,0 +1,61 @@
+                       City Of Los Angeles
+                       Department Of Transportation
+                       MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South            HOOVER ST
+
+East/West              VENICE BL
+
+Day:               MONDAY                 Date:        November 22, 2010              Weather:            SUNNY
+
+Hours:      7:30-8:30AM & 4-5PM                                      Chekrs:          JC
+
+School Day:            YES                District:         CENTRAL                     I/S CODE
+
+
+                        N/B                           S/B                                  E/B                      W/B
+DUAL-
+WHEELED                      0                         1                                     4                        2
+BIKES                        0                         0                                     0                        0
+BUSES                        0                         0                                     0                        0
+
+
+                        N/B TIME                      S/B TIME                             E/B TIME                 W/B TIME
+
+AM PK 15 MIN                 0   7.00                 39     8.15                           26   7.45                21     7.30
+
+PM PK 15 MIN                 0   3.00                 19     4.00                           46   4.15                26     4.15
+
+AM PK HOUR                   0   7.00                 143    7.30                           91   7.30                62     7.30
+
+PM PK HOUR                   0   3.00                 65     4.00                          163   4.00                87     4.00
+
+
+
+NORTHBOUND Approach                                         SOUTHBOUND Approach                                           TOTAL    XING S/L   XING N/L
+
+Hours         Lt        Th       Rt       Total             Hours              Lt      Th        Rt       Total            N-S      Ped Sch    Ped   Sch
+7:30-8             0         0        0           0         7:30-8              68           0        0        68            68       0   0      0     0
+8-8:30             0         0        0           0         8-8:30              75           0        0        75            75       0   0      0     0
+9-10               0         0        0           0         9-10                  0          0        0         0              0      0   0      0     0
+3-4                0         0        0           0         3-4                   0          0        0         0              0      0   0      0     0
+4-5                0         0        0           0         4-5                 65           0        0        65            65       0   0      0     0
+5-6                0         0        0           0         5-6                   0          0        0         0              0      0   0      0     0
+
+TOTAL              0         0        0           0         TOTAL              208           0        0      208            208      0    0     0     0
+
+
+EASTBOUND Approach                                          WESTBOUND Approach                                            TOTAL    XING W/L   XING E/L
+
+Hours         Lt        Th       Rt       Total             Hours              Lt      Th        Rt       Total           E-W       Ped Sch    Ped   Sch
+7:30-8         48            0        0        48           7:30-8              40           0        0        40            88       0   0      0     0
+8-8:30         43            0        0        43           8-8:30              22           0        0        22            65       0   0      0     0
+9-10             0           0        0         0           9-10                  0          0        0         0             0       0   0      0     0
+3-4              0           0        0         0           3-4                   0          0        0         0             0       0   0      0     0
+4-5           163            0        0      163            4-5                 87           0        0        87           250       0   0      0     0
+5-6              0           0        0         0           5-6                   0          0        0         0             0       0   0      0     0
+
+TOTAL         254            0        0       254           TOTAL              149           0        0      149            403      0    0     0     0
+
+            (Rev Oct 06)
+

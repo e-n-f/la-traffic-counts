@@ -3,5 +3,5 @@
 for ($i = 0; $i < 7900; $i++) {
 	print "$i\n";
 
-	system "curl -o reports/$i.html 'http://navigatela.lacity.org/reports/dot_traffic_data_report_internet.cfm?trafficid=$i'";
+	system "curl -m 30 -o reports/$i.html 'http://navigatela.lacity.org/reports/dot_traffic_data_report_internet.cfm?trafficid=$i'";
 }

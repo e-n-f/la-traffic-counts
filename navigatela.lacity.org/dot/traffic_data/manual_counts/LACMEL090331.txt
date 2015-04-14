@@ -1,0 +1,61 @@
+                       City Of Los Angeles
+                       Department Of Transportation
+                       MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South            LA CIENEGA BL
+
+East/West              MELROSE PL
+
+Day:               TUESDAY              Date:         March 31, 2009                Weather:            SUNNY
+
+Hours:      7-10AM 3-6PM                                           Chekrs:          LEE
+
+School Day:            YES              District:          WESTERN                    I/S CODE 13112
+
+
+                        N/B                         S/B                               E/B                        W/B
+DUAL-
+WHEELED                  124                         107                                  0                       11
+BIKES                      6                           3                                  0                        4
+BUSES                     33                          66                                  0                        0
+
+
+                        N/B TIME                    S/B TIME                          E/B TIME                   W/B TIME
+
+AM PK 15 MIN             208     8.30                369    8.30                          0    7.00               39    9.15
+
+PM PK 15 MIN            353      5.45                257    3.15                          0    3.00               35    3.30
+
+AM PK HOUR              766      8.30               1399    8.00                          0    7.00              143    8.45
+
+PM PK HOUR              1201     5.00               1003    3.00                          0    3.00              100    3.30
+
+
+
+NORTHBOUND Approach                                        SOUTHBOUND Approach                                         TOTAL   XING S/L   XING N/L
+
+Hours         Lt        Th       Rt Total                  Hours             Lt      Th        Rt       Total           N-S     Ped Sch    Ped   Sch
+7-8                0     518      21   539                 7-8                 3     1001           0     1004          1543      0   0      0     0
+8-9                0     663      33   696                 8-9                 7     1392           0     1399          2095      0   0      0     0
+9-10               0     689      32   721                 9-10               15     1179           0     1194          1915      2   0      1     0
+3-4                0     972      57 1029                  3-4                23      980           0     1003          2032      4   0      1     0
+4-5                0    1101      44 1145                  4-5                32      943           0      975          2120      7   0      1     0
+5-6                0    1140      61 1201                  5-6                34      897           0      931          2132      8   0      1     0
+
+TOTAL              0 5083        248      5331             TOTAL             114 6392               0     6506         11837     21   0      4    0
+
+
+EASTBOUND Approach                                         WESTBOUND Approach                                          TOTAL   XING W/L   XING E/L
+                   NONE                                                                       MELROSE PL
+Hours   Lt    Th    Rt Total                               Hours             Lt      Th        Rt Total                E-W      Ped Sch    Ped   Sch
+7-8        0     0    0                         0          7-8                21          0     44     65                 65      0   0     22     0
+8-9        0     0    0                         0          8-9                20          0     93   113                 113      0   0     25     0
+9-10       0     0    0                         0          9-10               27          0    100   127                 127      0   0     33     0
+3-4        0     0    0                         0          3-4                11          0     83     94                 94      0   0     23     0
+4-5        0     0    0                         0          4-5                  9         0     80     89                 89      0   0     19     0
+5-6        0     0    0                         0          5-6                10          0     43     53                 53      0   0     12     0
+
+TOTAL              0         0     0            0          TOTAL              98          0    443         541           541      0   0    134    0
+
+            (Rev Oct 06)
+

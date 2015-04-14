@@ -1,0 +1,61 @@
+                     City Of Los Angeles
+                     Department Of Transportation
+                     MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South          LARCHMONT BL
+
+East/West            3RD ST
+
+Day:          WEDNESDAY                 Date:       November 19, 2008 Weather:                   SUNNY
+
+Hours:      7-10AM 3-6PM                                          Chekrs:         YOUNG
+
+School Day:          YES                District:         HOLLYWOOD                 I/S CODE 19006
+
+
+                      N/B                           S/B                             E/B                  W/B
+DUAL-
+WHEELED                    0                         10                             114                    53
+BIKES                      0                         11                               6                     1
+BUSES                      0                          0                              96                    87
+
+
+                      N/B TIME                      S/B TIME                        E/B TIME             W/B TIME
+
+AM PK 15 MIN               0   7.00                 109    8.00                     345   7.45            315    7.30
+
+PM PK 15 MIN               0   3.00                  89    5.30                     481   4.45            245    5.00
+
+AM PK HOUR                 0   7.00                 384    8.00                    1254   7.45           1155    7.15
+
+PM PK HOUR                 0   3.00                 336    4.45                    1693   4.30            876    5.00
+
+
+
+NORTHBOUND Approach                                       SOUTHBOUND Approach                                   TOTAL   XING S/L    XING N/L
+                  NONE                                                 LARCHMONT BL
+Hours   Lt   Th    Rt Total                               Hours    Lt   Th    Rt Total                           N-S     Ped Sch     Ped   Sch
+7-8        0    0    0                          0         7-8      119     0 162    281                           281      0   0      16     1
+8-9        0    0    0                          0         8-9      188     0 196    384                           384      0   0      25     0
+9-10       0    0    0                          0         9-10     123     0 158    281                           281      0   0       6     0
+3-4        0    0    0                          0         3-4      154     0 123    277                           277      0   0      16     0
+4-5        0    0    0                          0         4-5      137     0 179    316                           316      0   0      11     0
+5-6        0    0    0                          0         5-6      190     0 139    329                           329      0   0      13     0
+
+TOTAL            0         0        0           0         TOTAL             911       0   957     1868           1868     0    0      87    1
+
+
+EASTBOUND Approach                                        WESTBOUND Approach                                    TOTAL   XING W/L    XING E/L
+
+Hours         Lt      Th       Rt       Total             Hours             Lt     Th     Rt Total              E-W      Ped Sch     Ped   Sch
+7-8           130      837          0      967            7-8                    0 1044    71 1115               2082     16   0      15     0
+8-9           148     1042          0     1190            8-9                    0 872     64   936              2126      8   0       7     0
+9-10          140      848          0      988            9-10                   0 769     56   825              1813      4   0       4     0
+3-4           165     1371          0     1536            3-4                    0 668     79   747              2283     31 12        0     1
+4-5           187     1414          0     1601            4-5                    0 655     83   738              2339     16   0       3     0
+5-6           196     1339          0     1535            5-6                    0 760    116   876              2411     21   0       5     2
+
+TOTAL         966 6851              0     7817            TOTAL                  0 4768   469     5237          13054     96   12     34    3
+
+            (Rev Oct 06)
+

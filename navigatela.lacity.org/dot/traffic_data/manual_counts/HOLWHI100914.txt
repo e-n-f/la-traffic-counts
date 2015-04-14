@@ -1,0 +1,61 @@
+                       City Of Los Angeles
+                       Department Of Transportation
+                       MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South            WHITLEY AV
+
+East/West              HOLLYWOOD BL
+
+Day:        TUESDAY                       Date:       September 14, 2010         Weather:          SUNNY
+
+Hours:      7-10AM 3-6PM                                                         Chekrs:           YT, KL, JC
+
+School Day:            YES                District:          HOLLYWOOD             I/S CODE 43234
+
+
+                        N/B                            S/B                         E/B                      W/B
+DUAL-
+WHEELED                      0                          10                         159                       178
+BIKES                        0                           0                          14                        45
+BUSES                        0                           9                          81                       112
+
+
+                        N/B TIME                       S/B TIME                    E/B TIME                 W/B TIME
+
+AM PK 15 MIN                 0   7.00                   51    8.00                 162      7.45             415    9.00
+
+PM PK 15 MIN                 0   3.00                   31    5.30                 230      4.15             274    5.45
+
+AM PK HOUR                   0   7.00                  138    8.00                 548      7.30            1509    8.45
+
+PM PK HOUR                   0   3.00                  103    4.45                 881      3.45             903    3.15
+
+
+
+NORTHBOUND Approach                                          SOUTHBOUND Approach                                   TOTAL   XING S/L    XING N/L
+
+Hours         Lt        Th       Rt       Total              Hours         Lt     Th        Rt Total                N-S     Ped Sch     Ped   Sch
+7-8                0         0        0           0          7-8            41         0     49     90                90      0   0      49     8
+8-9                0         0        0           0          8-9            55         0     83   138                138      0   0     102     0
+9-10               0         0        0           0          9-10           58         0     50   108                108      0   0     120     0
+3-4                0         0        0           0          3-4            59         0     33     92                92      0   0     311     9
+4-5                0         0        0           0          4-5            54         0     36     90                90      0   0     333     1
+5-6                0         0        0           0          5-6            57         0     44   101                101      0   0     371     0
+
+TOTAL              0         0        0           0          TOTAL         324         0    295       619            619     0    0    1286   18
+
+
+EASTBOUND Approach                                           WESTBOUND Approach                                    TOTAL   XING W/L    XING E/L
+
+Hours         Lt        Th       Rt       Total              Hours         Lt     Th        Rt Total               E-W      Ped Sch     Ped   Sch
+7-8            11        434          0      445             7-8                0 1080       22 1102                1547     34   7      25     8
+8-9            23        496          0      519             8-9                0 1348       30 1378                1897     23   3      48     4
+9-10           31        482          0      513             9-10               0 1449       35 1484                1997     24   0      59     0
+3-4            33        790          0      823             3-4                0 840        50   890               1713    114   6     172     8
+4-5            35        841          0      876             4-5                0 799        68   867               1743    115   4     136     5
+5-6            60        795          0      855             5-6                0 827        59   886               1741    140   2     200     1
+
+TOTAL         193 3838                0     4031             TOTAL              0 6343      264      6607          10638    450   22    640   26
+
+            (Rev Oct 06)
+

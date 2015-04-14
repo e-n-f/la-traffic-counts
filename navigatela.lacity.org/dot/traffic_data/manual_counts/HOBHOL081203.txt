@@ -1,0 +1,61 @@
+                    City Of Los Angeles
+                    Department Of Transportation
+                    MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South         HOBART BL
+
+East/West           HOLLYWOOD BL
+
+Day:        WEDNESDAY                 Date:       December 3, 2008       Weather:            SUNNY
+
+Hours:      7-10AM 2-5PM                                Chekrs:   ALAS
+
+School Day:         YES               District:         HOLLYWOOD          I/S CODE 22286
+
+
+                      N/B                         S/B                      E/B                        W/B
+DUAL-
+WHEELED                    5                       0                       127                         123
+BIKES                      3                       0                        18                          12
+BUSES                      0                       0                        81                          83
+
+
+                      N/B TIME                    S/B TIME                 E/B TIME                   W/B TIME
+
+AM PK 15 MIN           25      7.45                0     7.00              193      8.45               266    8.45
+
+PM PK 15 MIN           38      3.45                0     2.00              365      4.45               336    4.45
+
+AM PK HOUR             84      7.00                0     7.00              744      8.00              1007    8.00
+
+PM PK HOUR            113      3.00                0     2.00             1357      4.00              1180    2.15
+
+
+
+NORTHBOUND Approach                                     SOUTHBOUND Approach                                  TOTAL   XING S/L    XING N/L
+                  HOBART BL                                                NONE
+Hours   Lt   Th    Rt Total                             Hours    Lt   Th    Rt Total                          N-S     Ped Sch     Ped   Sch
+7-8      25     0   59     84                           7-8         0    0    0                   0             84     74   7       0     0
+8-9      22     0   41     63                           8-9         0    0    0                   0             63     71   0       0     0
+9-10     15     0   42     57                           9-10        0    0    0                   0             57     54   2       0     0
+2-3      14     0   33     47                           2-3         0    0    0                   0             47     80   5       0     0
+3-4      17     0   96   113                            3-4         0    0    0                   0            113     66   4       0     0
+4-5      23     0   67     90                           4-5         0    0    0                   0             90     78   1       0     0
+
+TOTAL         116          0   338        454           TOTAL        0       0           0        0            454    423   19      0    0
+
+
+EASTBOUND Approach                                      WESTBOUND Approach                                   TOTAL   XING W/L    XING E/L
+
+Hours         Lt     Th        Rt Total                 Hours      Lt  Th           Rt       Total           E-W      Ped Sch     Ped   Sch
+7-8                0 577        27   604                7-8         27 751               0      778           1382     34   0       1     0
+8-9                0 721        23   744                8-9         34 973               0     1007           1751     42   0       1     0
+9-10               0 616        30   646                9-10        40 859               0      899           1545     36   0       0     0
+2-3                0 1036       50 1086                 2-3         49 1128              0     1177           2263     23   0       1     0
+3-4                0 1146       71 1217                 3-4         39 1024              0     1063           2280     41   1       0     0
+4-5                0 1279       78 1357                 4-5         55 1121              0     1176           2533     64   3       3     0
+
+TOTAL              0 5375      279      5654            TOTAL      244 5856              0     6100          11754    240   4       6    0
+
+            (Rev Oct 06)
+

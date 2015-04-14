@@ -1,0 +1,63 @@
+                        City Of Los Angeles
+                        Department Of Transportation
+                        MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South             LAUREL CANYON BL
+
+East/West               VIEWCREST RD
+
+Day:        THURSDAY                          Date:        May 10, 2007                 Weather:              SUNNY
+
+Hours:      7-10AM 2-5PM
+
+School Day:             YES                   District:          EAST VALLEY              I/S CODE             43713
+
+
+                         N/B                              S/B                            E/B                               W/B
+DUAL-
+WHEELED                       57                            93                                 2                             0
+BIKES                          0                             3                                 0                             0
+BUSES                          0                             0                                 0                             0
+
+
+                        N/B        TIME                   S/B    TIME                   E/B        TIME                    W/B TIME
+
+AM PK 15 MIN              182       9.00                   443 7.15                           10    7.15                     0     7.00
+
+PM PK 15 MIN              344       3.15                   290 4.30                            9    3.15                     0     2.00
+
+AM PK HOUR                615       9.00                  1660 7.00                           33    7.15                     0     7.00
+
+PM PK HOUR               1264       2.45                  1108 4.00                           29    3.15                     0     2.00
+
+
+
+
+NORTHBOUND Approach                                              SOUTHBOUND Approach                                             TOTAL    XING S/L   XING N/L
+
+Hours          Lt        Th         Rt         Total             Hours         Lt        Th         Rt         Total              N-S     Ped Sch    Ped Sch
+7-8              1        328             0      329             7-8                0    1658          2        1660               1989      0   0      0   0
+8-9              7        370             0      377             8-9                0    1379          8        1387               1764      0   0      0   0
+9-10             9        606             0      615             9-10               0    1130          5        1135               1750      0   0      0   0
+2-3             28        939             0      967             2-3                0    1050         10        1060               2027      0   0      0   0
+3-4             22       1215             0     1237             3-4                0    1048         14        1062               2299      0   0      0   0
+4-5             21        978             0      999             4-5                0    1099          9        1108               2107      0   0      0   0
+
+TOTAL           88       4436             0      4524            TOTAL              0    7364         48        7412              11936      0   0      0   0
+
+
+EASTBOUND Approach                                               WESTBOUND Approach                           NONE               TOTAL    XING W/L   XING E/L
+
+Hours          Lt        Th         Rt         Total             Hours         Lt        Th         Rt         Total              E-W     Ped Sch    Ped Sch
+7-8                 1          0      30           31            7-8                0          0          0            0             31      0   0      0   0
+8-9                 2          0      24           26            8-9                0          0          0            0             26      1   0      0   0
+9-10                1          0      12           13            9-10               0          0          0            0             13      8   0      0   0
+2-3                 5          0      17           22            2-3                0          0          0            0             22      8   3      0   0
+3-4                 2          0      26           28            3-4                0          0          0            0             28      6   0      0   0
+4-5                 1          0      12           13            4-5                0          0          0            0             13      4   0      0   0
+
+TOTAL           12             0     121          133            TOTAL              0          0          0            0            133     27   3      0   0
+
+
+            (Rev Oct 06)
+

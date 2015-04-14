@@ -1,0 +1,63 @@
+                        City Of Los Angeles
+                        Department Of Transportation
+                        MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South             GOLDEN STATE S/B RAMP
+
+East/West               PENROSE ST
+
+Day:        TUESDAY                        Date:        August 1, 2006                  Weather:              CLEAR
+
+Hours:      7-10AM 3-6PM
+
+School Day:             YES                District:             EAST VALLEY              I/S CODE 3184658880
+
+
+                         N/B                           S/B                               E/B                               W/B
+DUAL-
+WHEELED                   448                                0                            430                               472
+BIKES                       8                                0                              8                                 0
+BUSES                       0                                0                              0                                 0
+
+
+                        N/B        TIME                S/B       TIME                   E/B        TIME                    W/B TIME
+
+AM PK 15 MIN              101       7.45                     0 7.00                           74    7.30                    108     8.00
+
+PM PK 15 MIN                  83    3.45                     0 3.00                       116       5.00                    120     3.30
+
+AM PK HOUR                346       7.15                     0 7.00                       256       7.15                    365     7.15
+
+PM PK HOUR                293       3.30                     0 3.00                       418       4.15                    448     4.30
+
+
+
+
+NORTHBOUND Approach                                              SOUTHBOUND Approach                          NONE                TOTAL    XING S/L   XING N/L
+
+Hours          Lt        Th         Rt      Total                Hours         Lt        Th         Rt         Total               N-S     Ped Sch    Ped Sch
+7-8            104             0    222       326                7-8                0          0          0            0             326     10   0      0   0
+8-9            100             0    192       292                8-9                0          0          0            0             292      5   0      0   0
+9-10             91            0    225       316                9-10               0          0          0            0             316      4   0      0   0
+3-4              75            0    205       280                3-4                0          0          0            0             280      0   0      0   0
+4-5              74            0    167       241                4-5                0          0          0            0             241      4   0      0   0
+5-6              60            0    159       219                5-6                0          0          0            0             219      4   0      0   0
+
+TOTAL          504             0    1170      1674               TOTAL              0          0          0            0            1674     27   0      0   0
+
+
+EASTBOUND Approach                                               WESTBOUND Approach                                               TOTAL    XING W/L   XING E/L
+
+Hours          Lt        Th         Rt      Total                Hours         Lt        Th         Rt         Total               E-W     Ped Sch    Ped Sch
+7-8                 0     134       116       250                7-8           102        244             0      346                 596      1   0      0   0
+8-9                 0     111       124       235                8-9             76       256             0      332                 567      0   0      0   0
+9-10                0      87       144       231                9-10          102        236             0      338                 569      0   0      0   0
+3-4                 0     216       138       354                3-4           140        236             0      376                 730      0   0      0   0
+4-5                 0     277       107       384                4-5           128        270             0      398                 782      0   0      0   0
+5-6                 0     227       119       346                5-6           152        231             0      383                 729      0   0      0   0
+
+TOTAL               0    1052        748      1800               TOTAL         700       1473             0     2173                3973      1   0      0   0
+
+
+            (Rev Apr 06)
+

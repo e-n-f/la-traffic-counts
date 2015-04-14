@@ -1,0 +1,63 @@
+                        City Of Los Angeles
+                        Department Of Transportation
+                        MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South             GLENDALE FWY N/B ON RAMP
+
+East/West               SAN FERNANDO RD
+
+Day:        TUESDAY                           Date:         April 3, 2007               Weather:              CLOUDY
+
+Hours:      7-10AM 3-6PM
+
+School Day:             YES                   District:              CENTRAL              I/S CODE             58248
+
+
+                         N/B                               S/B                           E/B                               W/B
+DUAL-
+WHEELED                        0                                 0                        394                               386
+BIKES                          0                                 0                          9                                 9
+BUSES                          0                                 0                         88                                74
+
+
+                        N/B        TIME                    S/B       TIME               E/B        TIME                    W/B TIME
+
+AM PK 15 MIN                   0    7.00                         0 7.00                   557       7.45                    359     8.00
+
+PM PK 15 MIN                   0    3.00                         0 3.00                   549       5.30                    507     5.45
+
+AM PK HOUR                     0    7.00                         0 7.00                  2083       7.15                   1323     7.30
+
+PM PK HOUR                     0    3.00                         0 3.00                  2036       5.00                   1923     5.00
+
+
+
+
+NORTHBOUND Approach                           NONE                   SOUTHBOUND Approach                      NONE                TOTAL      XING S/L   XING N/L
+
+Hours          Lt        Th         Rt         Total                 Hours     Lt        Th         Rt         Total               N-S       Ped Sch    Ped Sch
+7-8                 0          0          0            0             7-8            0          0          0            0                 0      0   0      8   1
+8-9                 0          0          0            0             8-9            0          0          0            0                 0      0   0      9   2
+9-10                0          0          0            0             9-10           0          0          0            0                 0      0   0     12   0
+3-4                 0          0          0            0             3-4            0          0          0            0                 0      0   0     26   1
+4-5                 0          0          0            0             4-5            0          0          0            0                 0      0   0     16   0
+5-6                 0          0          0            0             5-6            0          0          0            0                 0      0   0      9   0
+
+TOTAL               0          0          0            0             TOTAL          0          0          0            0                 0      0   0     80   4
+
+
+EASTBOUND Approach                                                   WESTBOUND Approach                                           TOTAL      XING W/L   XING E/L
+
+Hours          Lt        Th         Rt         Total                 Hours     Lt        Th         Rt         Total               E-W       Ped Sch    Ped Sch
+7-8            251       1781             0     2032                 7-8            0     950       173         1123                3155        0   0      3   0
+8-9            253       1631             0     1884                 8-9            0    1097       172         1269                3153        0   0      0   0
+9-10           235       1294             0     1529                 9-10           0     939       111         1050                2579        0   0      0   0
+3-4            379       1349             0     1728                 3-4            0    1026       351         1377                3105        0   0      2   0
+4-5            452       1339             0     1791                 4-5            0    1073       514         1587                3378        0   0      0   0
+5-6            471       1565             0     2036                 5-6            0    1275       648         1923                3959        0   0      0   0
+
+TOTAL         2041       8959             0    11000                 TOTAL          0    6360       1969        8329               19329        0   0      5   0
+
+
+            (Rev Oct 06)
+

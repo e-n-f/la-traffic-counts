@@ -1,0 +1,61 @@
+                       City Of Los Angeles
+                       Department Of Transportation
+                       MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South            WESTWOOD AV
+
+East/West              HOLMAN AV
+
+Day:           THURSDAY                 Date:          March 5, 2009               Weather:            SUNNY
+
+Hours:      7-10AM 3-6PM                                           Chekrs:         ALAS
+
+School Day:            YES              District:          WESTERN                   I/S CODE 17009
+
+
+                        N/B                         S/B                              E/B                        W/B
+DUAL-
+WHEELED                   93                         110                                 0                        8
+BIKES                      0                          27                                 0                        0
+BUSES                    119                         118                                 0                        0
+
+
+                        N/B TIME                     S/B TIME                        E/B TIME                   W/B TIME
+
+AM PK 15 MIN             353     9.00                197    9.30                         0    7.00               32    7.45
+
+PM PK 15 MIN            324      5.15               342     4.45                         0    3.00               35    3.15
+
+AM PK HOUR              1212     8.15                727    9.00                         0    7.00               61    7.15
+
+PM PK HOUR              1135     4.45               1329    4.15                         0    3.00               95    3.00
+
+
+
+NORTHBOUND Approach                                        SOUTHBOUND Approach                                        TOTAL   XING S/L   XING N/L
+
+Hours         Lt        Th       Rt Total                  Hours             Lt  Th           Rt       Total           N-S     Ped Sch    Ped   Sch
+7-8                0     892      24   916                 7-8                24 476               0      500          1416      0   0      0     0
+8-9                0    1108      25 1133                  8-9                19 638               0      657          1790      0   0      0     0
+9-10               0     961      31   992                 9-10               38 689               0      727          1719      0   0      0     0
+3-4                0     881      28   909                 3-4                51 1111              0     1162          2071      1   0      9     0
+4-5                0     940      31   971                 4-5                50 1265              0     1315          2286      0   0      5     0
+5-6                0    1100      29 1129                  5-6                52 1217              0     1269          2398      2   0      5     0
+
+TOTAL              0 5882        168      6050             TOTAL             234 5396              0     5630         11680     3    0     19    0
+
+
+EASTBOUND Approach                                         WESTBOUND Approach                                         TOTAL   XING W/L   XING E/L
+                   NONE                                                                      HOLMAN AV
+Hours   Lt    Th    Rt Total                               Hours             Lt     Th        Rt Total                E-W      Ped Sch    Ped   Sch
+7-8        0     0    0                         0          7-8                21         0     36     57                 57      0   0     10     0
+8-9        0     0    0                         0          8-9                19         0     15     34                 34      0   0     20     0
+9-10       0     0    0                         0          9-10               26         0     34     60                 60      0   0     30     0
+3-4        0     0    0                         0          3-4                34         0     61     95                 95      0   0     32     0
+4-5        0     0    0                         0          4-5                25         0     53     78                 78      0   0     44     3
+5-6        0     0    0                         0          5-6                26         0     53     79                 79      0   0     41     0
+
+TOTAL              0         0     0            0          TOTAL             151         0    252         403           403     0    0    177    3
+
+            (Rev Oct 06)
+

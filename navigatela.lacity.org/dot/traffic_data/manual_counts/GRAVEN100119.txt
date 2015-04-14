@@ -1,0 +1,61 @@
+                    City Of Los Angeles
+                    Department Of Transportation
+                    MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South         GRAND VIEW BL
+
+East/West           VENICE BL
+
+Day:            TUESDAY               Date:        January 19, 2010             Weather:          SUNNY
+
+Hours:      7-10AM 3-6PM                                        Chekrs:         THOMPSON
+
+School Day:         YES               District:         WESTERN                   I/S CODE 12345
+
+
+                     N/B                          S/B                             E/B                     W/B
+DUAL-
+WHEELED                31                           8                              11                      22
+BIKES                   0                          10                              26                       9
+BUSES                   0                           0                               0                       0
+
+
+                     N/B TIME                     S/B TIME                        E/B TIME                W/B TIME
+
+AM PK 15 MIN         112       9.30                48    8.15                      67      8.00            37    8.15
+
+PM PK 15 MIN         103       5.30               117    4.45                      70      3.15            36    3.00
+
+AM PK HOUR           421       9.00               172    8.15                     191      7.30           124    7.30
+
+PM PK HOUR           398       5.00               403    4.45                     201      3.00           122    3.00
+
+
+
+NORTHBOUND Approach                                     SOUTHBOUND Approach                                     TOTAL   XING S/L    XING N/L
+
+Hours         Lt     Th        Rt Total                 Hours             Lt     Th        Rt Total              N-S     Ped Sch     Ped   Sch
+7-8            93      89       61   243                7-8                38      49       31   118              361     14   0      34     2
+8-9           102     155      106   363                8-9                62      68       37   167              530     27   0      37     1
+9-10          109     168      144   421                9-10               70      83       19   172              593     42   0      51     0
+3-4           117     109      123   349                3-4                83     145       40   268              617     91   0      66     0
+4-5           109     125      139   373                4-5                91     206       61   358              731     97   0      79     1
+5-6           137     127      134   398                5-6                93     216       65   374              772     72   0      82     2
+
+TOTAL         667    773       707      2147            TOTAL             437     767      253     1457          3604    343   0     349    6
+
+
+EASTBOUND Approach                                      WESTBOUND Approach                                      TOTAL   XING W/L    XING E/L
+
+Hours         Lt     Th        Rt Total                 Hours             Lt     Th        Rt Total             E-W      Ped Sch     Ped   Sch
+7-8            66          0    57   123                7-8                75         0     24     99             222     36 15       19     0
+8-9            76          0    85   161                8-9               112         0      4   116              277     62   4      12     1
+9-10           75          0    74   149                9-10               61         0      5     66             215     55   1      16     0
+3-4            85          0   116   201                3-4               114         0      8   122              323     80   4      22     5
+4-5            59          0    88   147                4-5                92         0      3     95             242     65   0      20     0
+5-6            57          0    66   123                5-6                89         0      3     92             215     69   0      24     0
+
+TOTAL         418          0   486        904           TOTAL             543         0     47      590          1494    367   24    113    6
+
+            (Rev Oct 06)
+
