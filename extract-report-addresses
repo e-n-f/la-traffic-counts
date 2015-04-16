@@ -1,5 +1,7 @@
 #!/usr/bin/perl
 
+print "source,name,misc,date,time,SB-Right,SB-Thru,SB-Left,WB-Right,WB-Thru,WB-Left,NB-Right,NB-Thru,NB-Left,EB-Right,EB-Thru,EB-Left,N-Ped,E-Ped,S-Ped,W-Ped,N-Bike,E-Bike,S-Bike,W-Bike,lat,lon\n";
+
 $foot = .00000274;
 $pi = 4 * atan2(1, 1);
 
