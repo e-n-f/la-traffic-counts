@@ -263,6 +263,11 @@ while (1) {
 			}
 		}
 
+		if ($#bikes == 4) {
+			print "$ARGV,$ns / $ew,bikes,$date,16:00-17:00,,,,,,,,,,,,,,,,,";
+			printf("%f,%f,%f,%f\n", $bikes[4], $bikes[1], $bikes[3], $bikes[2]);
+		}
+
 		for $time (sort(keys(%movement))) {
 			my $fn = $ARGV;
 
