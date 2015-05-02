@@ -1,0 +1,61 @@
+                    City Of Los Angeles
+                    Department Of Transportation
+                    MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South         LONG BEACH AV
+
+East/West           WASHINGTON BL
+
+Day:            TUESDAY            Date:         June 24, 2008               Weather:          SUNNY
+
+Hours:      7-10AM 3-6PM                                     Chekrs:         LEE
+
+School Day:         YES            District:         CENTRAL                   I/S CODE 46154
+
+
+                     N/B                       S/B                             E/B                      W/B
+DUAL-
+WHEELED               266                      105                             539                       463
+BIKES                   0                        3                              10                         2
+BUSES                   0                        0                              18                        22
+
+
+                     N/B TIME                  S/B TIME                        E/B TIME                 W/B TIME
+
+AM PK 15 MIN          298   7.15                53    8.00                     261      7.30             276    7.45
+
+PM PK 15 MIN         211    5.00                93    4.00                     331      5.15             308    5.45
+
+AM PK HOUR           1034   7.15               192    7.30                    1003      7.15            1035    7.15
+
+PM PK HOUR           697    4.30               328    5.00                    1284      5.00            1105    5.00
+
+
+
+NORTHBOUND Approach                                  SOUTHBOUND Approach                                       TOTAL   XING S/L   XING N/L
+
+Hours         Lt     Th     Rt Total                 Hours             Lt     Th        Rt     Total            N-S     Ped Sch    Ped   Sch
+7-8           653     265    87 1005                 7-8                53      97        5       155           1160   1401 59       0     0
+8-9           518     200    76   794                8-9                64     106       18       188            982    974 32       0     0
+9-10          439     164    54   657                9-10               55      92       18       165            822    641 20       0     0
+3-4           395     124    38   557                3-4                73     130       32       235            792     79   0     18     3
+4-5           466     172    32   670                4-5               109     157       22       288            958    147   0     18     0
+5-6           370     122    33   525                5-6               135     156       37       328            853    196   0     22     1
+
+TOTAL         2841 1047     320      4208            TOTAL             489     738      132      1359           5567   3438 111     58    4
+
+
+EASTBOUND Approach                                   WESTBOUND Approach                                        TOTAL   XING W/L   XING E/L
+
+Hours         Lt  Th        Rt Total                 Hours             Lt     Th        Rt Total               E-W      Ped Sch    Ped   Sch
+7-8            20 880        50   950                7-8               103     882       44 1029                1979      0   0     84     1
+8-9            16 762        49   827                8-9                79     791       56   926               1753      0   0     23     0
+9-10           19 644        54   717                9-10               62     588       45   695               1412      0   0     19     0
+3-4            23 1038       86 1147                 3-4               142     731       27   900               2047      0   0     33     0
+4-5            13 1125       81 1219                 4-5               135     814       19   968               2187      0   0     40     0
+5-6            10 1192       82 1284                 5-6               116     971       18 1105                2389      0   0     72     0
+
+TOTAL         101 5641      402      6144            TOTAL             637 4777         209      5623          11767     0    0    271    1
+
+            (Rev Oct 06)
+

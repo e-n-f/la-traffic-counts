@@ -1,0 +1,61 @@
+                       City Of Los Angeles
+                       Department Of Transportation
+                       MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South            OVERLAND AV
+
+East/West              SANTA MONICA FWY EB ON RAMP
+
+Day:        WEDNESDAY                   Date:          April 9, 2008         Weather:            SUNNY
+
+Hours:      7:00-10:00AM 4:00-7:00PM
+
+School Day:            YES              District:          WESTERN             I/S CODE 57976
+
+
+                         N/B                         S/B                       E/B                        W/B
+DUAL-
+WHEELED                  138                        166                          0                          0
+BIKES                      2                          0                          4                          0
+BUSES                      3                          6                          0                          0
+
+
+                         N/B TIME                    S/B TIME                  E/B TIME                   W/B TIME
+
+AM PK 15 MIN             725     8.15               378     8.30                 0      7.00                0    7.00
+
+PM PK 15 MIN             514     6.00                522    6.30                 0      4.00                0    4.00
+
+AM PK HOUR              2802     7.30               1450    8.00                 0      7.00                0    7.00
+
+PM PK HOUR              2013     5.45               1942    5.00                 0      4.00                0    4.00
+
+
+
+NORTHBOUND Approach                                        SOUTHBOUND Approach                                  TOTAL     XING S/L   XING N/L
+
+Hours         Lt        Th       Rt Total                  Hours       Lt  Th           Rt       Total           N-S       Ped Sch    Ped   Sch
+7-8                0    2046     417 2463                  7-8         806 332               0     1138          3601        0   0      0     0
+8-9                0    2366     367 2733                  8-9         856 594               0     1450          4183        0   0      0     0
+9-10               0    2204     264 2468                  9-10        733 454               0     1187          3655        0   0      0     0
+4-5                0    1335     309 1644                  4-5         691 1064              0     1755          3399        0   0      0     0
+5-6                0    1482     428 1910                  5-6         733 1209              0     1942          3852        0   0      0     0
+6-7                0    1568     428 1996                  6-7         761 1130              0     1891          3887        0   0      0     0
+
+TOTAL              0 11001 2213 13214                      TOTAL       4580 4783             0     9363         22577        0   0      0    0
+
+
+EASTBOUND Approach             WESTBOUND Approach     NONE                                                      TOTAL     XING W/L   XING E/L
+       SANTA MONICA FW EB ON RAMP
+Hours   Lt    Th   Rt Total    Hours   Lt    Th   Rt Total                                                      E-W        Ped Sch    Ped   Sch
+7-8        0     0   0      0  7-8        0     0   0      0                                                          0      1   0      0     0
+8-9        0     0   0      0  8-9        0     0   0      0                                                          0      2   1      0     0
+9-10       0     0   0      0  9-10       0     0   0      0                                                          0      1   0      0     0
+4-5        0     0   0      0  4-5        0     0   0      0                                                          0      2   0      0     0
+5-6        0     0   0      0  5-6        0     0   0      0                                                          0      1   0      0     0
+6-7        0     0   0      0  6-7        0     0   0      0                                                          0      8   0      0     0
+
+TOTAL              0         0     0            0          TOTAL         0       0           0        0               0     15   1      0    0
+
+            (Rev Oct 06)
+
