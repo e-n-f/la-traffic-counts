@@ -176,8 +176,12 @@ while (<>) {
 	$out = $_;
 
 	if ($id =~ /^oak/ || $id =~ /^dowd/) {
-		# wrong county!
-		$where = ",";
+		if ($exactlat{$name} ne "") {
+			$where = "$exactlat{$name},$exactlon{$name}";
+		} else {
+			# wrong county!
+			$where = ",";
+		}
 	} else {
 		$where = geocode($name);
 
