@@ -1,0 +1,63 @@
+                       City Of Los Angeles
+                       Department Of Transportation
+                       MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South            MACON ST
+
+East/West              CYPRESS AV
+
+Day:          SATURDAY                        Date:         May 26, 2007                    Weather:               SUNNY
+
+Hours:        10:30AM -4:30PM
+
+School Day:            YES                    District:              CENTRAL                  I/S CODE              16805
+
+
+                       N/B                                 S/B                              E/B                                 W/B
+DUAL-
+WHEELED                       1                                  1                                40                              21
+BIKES                         3                                  1                                18                              13
+BUSES                         0                                  0                                12                              11
+
+
+                       N/B        TIME                     S/B       TIME                   E/B        TIME                     W/B TIME
+
+AM PK 15 MIN                  6 12.15                        13 12.30                            142        1.00                 106    12.30
+
+PM PK 15 MIN                  6        4.15                  11 1.45                             173        4.00                 123     2.15
+
+AM PK HOUR                   18 11.45                        37 11.45                            542 12.15                       387    12.30
+
+PM PK HOUR                   18        3.30                  32 1.30                             581        3.15                 473     2.15
+
+
+
+
+NORTHBOUND Approach                                                  SOUTHBOUND Approach                                               TOTAL       XING S/L            XING N/L
+
+Hours       Lt         Th         Rt          Total                  Hours       Lt         Th         Rt          Total               N-S         Ped Sch             Ped Sch
+10.30-11.30        2          0          5             7             10.30-11.30       21          1         10            32                 39     16    3             13    1
+11.30-12.30        4          2          9            15             11.30-12.30       16          0         16            32                 47     10    2             25    5
+12.30-1.30         7          0          5            12             12.30-1.30        20          0          8            28                 40     15    1             15    0
+1.30-2.30          2          1          4             7             1.30-2.30         21          0         11            32                 39     11    0             11    0
+2.30-3.30          6          1          7            14             2.30-3.30         15          0         10            25                 39     18    4             14    2
+3.30-4.30          3          4         11            18             3.30-4.30         15          0          8            23                 41     10    1              9    6
+
+TOTAL             24          8         41            73             TOTAL            108          1         63        172                   245     80        11        87        14
+
+
+EASTBOUND Approach                                                   WESTBOUND Approach                                                TOTAL       XING W/L            XING E/L
+
+Hours       Lt         Th         Rt          Total                  Hours       Lt         Th         Rt          Total               E-W         Ped       Sch       Ped       Sch
+10.30-11.30        7        472          1        480                10.30-11.30        1        349          5        355                835            9         2         4         0
+11.30-12.30        7        506          1        514                11.30-12.30        0        313          6        319                833            7         1         2         0
+12.30-1.30        12        520          0        532                12.30-1.30         0        379          8        387                919            4         0         4         0
+1.30-2.30          5        490          0        495                1.30-2.30          0        439          9        448                943            9         0         1         0
+2.30-3.30          4        560          0        564                2.30-3.30          0        438         15        453               1017            2         0         4         0
+3.30-4.30          7        562          0        569                3.30-4.30          0        441          4        445               1014            4         0         2         0
+
+TOTAL             42    3110             2       3154                TOTAL              1    2359            47       2407               5561        35            3     17            0
+
+
+              (Rev Oct 06)
+
