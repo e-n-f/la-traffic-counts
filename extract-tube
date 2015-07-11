@@ -3,7 +3,11 @@
 while (<>) {
 	chomp;
 
-	if (/^ *Location    (.*)/) {
+	if (/24 Hours/) {
+		$format = $ARGV;
+	}
+
+	if (/^ *Location    (.*)/ || /^ *LOCATION    (.*)/) {
 		$location = $1;
 		$location =~ s/^ *//;
 		$location =~ s/      .*//;
@@ -13,7 +17,7 @@ while (<>) {
 		#print "$location\n";
 	}
 
-	if (/Transportation  *Date *(.*)/) {
+	if (/Transportation  *Date *(.*)/ || /Transportation  *DATE *(.*)/) {
 		$date = $1;
 		$date =~ s/ *$//;
 
@@ -37,24 +41,33 @@ while (<>) {
 
 		@fields = split(/ +/);
 
-		if ($#fields == 13) {
-			for ($i = 0; $i < 4; $i++) {
-				print "$ARGV,$location,x,$date,";
+		if ($#fields == 13 || $#fields == 12) {
+			if ($fields[7] == $fields[3] + $fields[4] + $fields[5] + $fields[6] &&
+			    $fields[12] == $fields[8] + $fields[9] + $fields[10] + $fields[11]) {
+				for ($i = 0; $i < 4; $i++) {
+					print "$ARGV,$location,x,$date,";
 
-				$time1 = $hour * 60 + $i * 15;
-				$time2 = $hour * 60 + $i * 15 + 15;
+					$time1 = $hour * 60 + $i * 15;
+					$time2 = $hour * 60 + $i * 15 + 15;
 
-				printf("%02d:%02d-%02d:%02d,", $time1 / 60, $time1 % 60, $time2 / 60, $time2 % 60);
+					printf("%02d:%02d-%02d:%02d,", $time1 / 60, $time1 % 60, $time2 / 60, $time2 % 60);
 
-				if ($eastwest) {
-					print "0,0,0,0,$fields[$i + 3],0,";
-					print "0,0,0,0,$fields[$i + 8],0,";
-				} else {
-					print "0,$fields[$i + 8],0,0,0,0,";
-					print "0,$fields[$i + 3],0,0,0,0,";
+					if ($eastwest) {
+						print "0,0,0,0,$fields[$i + 3],0,";
+						print "0,0,0,0,$fields[$i + 8],0,";
+					} else {
+						print "0,$fields[$i + 8],0,0,0,0,";
+						print "0,$fields[$i + 3],0,0,0,0,";
+					}
+					print "\n";
 				}
-				print "\n";
+
+				$any = 1;
 			}
 		}
 	}
+}
+
+if ($format ne "" && !$any) {
+	print STDERR "Nothing in $format\n";
 }
