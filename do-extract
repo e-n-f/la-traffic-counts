@@ -8,3 +8,5 @@ find oakland -name '*.txt' -print0 | xargs -0 -L1 ./extract-eir | ./extract-repo
 	find navigatela.lacity.org -name '*.txt' -print0 | xargs -0 -L1 ./extract-eir
 	find navigatela.lacity.org ladot-eir -name '*.txt' -print0 | xargs -0 ./extract-ladot
 ) | ./extract-report-addresses > counts-la-dot.csv
+
+find navigatela.lacity.org/dot/traffic_data/automatic_counts -name '*.txt' -print | sort | tr '\012' '\0' | xargs -0 -L1 ./extract-tube > tube.csv

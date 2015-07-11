@@ -1,0 +1,60 @@
+#!/usr/bin/perl
+
+while (<>) {
+	chomp;
+
+	if (/^ *Location    (.*)/) {
+		$location = $1;
+		$location =~ s/^ *//;
+		$location =~ s/      .*//;
+
+		$location =~ s/,/ /g;
+
+		#print "$location\n";
+	}
+
+	if (/Transportation  *Date *(.*)/) {
+		$date = $1;
+		$date =~ s/ *$//;
+
+		$date =~ s/,/ /g;
+
+		#print "$date\n";
+	}
+
+	if (/INTERSECTION *E\/W/ || /Direction *E\/W/) {
+		$eastwest = 1;
+	}
+
+	if (/^ *([0-9]+) +(AM|PM|NN)/) {
+		$hour = $1;
+		if ($hour == 12) {
+			$hour = 0;
+		}
+		if ($2 eq "PM" || $2 eq "NN") {
+			$hour += 12;
+		}
+
+		@fields = split(/ +/);
+
+		if ($#fields == 13) {
+			for ($i = 0; $i < 4; $i++) {
+				print "$ARGV,$location,x,$date,";
+
+				$time1 = $hour * 60 + $i * 15;
+				$time2 = $hour * 60 + $i * 15 + 15;
+
+				printf("%02d:%02d-%02d:%02d,", $time1 / 60, $time1 % 60, $time2 / 60, $time2 % 60);
+
+				if ($eastwest) {
+					print "0,0,0,0,$fields[$i + 3],0,";
+					print "0,0,0,0,$fields[$i + 8],0,";
+				} else {
+					print "0,$fields[$i + 8],0,0,0,0,";
+					print "0,$fields[$i + 3],0,0,0,0,";
+				}
+				print "\n";
+			}
+		}
+	}
+}
