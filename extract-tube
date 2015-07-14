@@ -45,7 +45,10 @@ while (<>) {
 			if ($fields[7] == $fields[3] + $fields[4] + $fields[5] + $fields[6] &&
 			    $fields[12] == $fields[8] + $fields[9] + $fields[10] + $fields[11]) {
 				for ($i = 0; $i < 4; $i++) {
-					print "$ARGV,$location,x,$date,";
+					$fname = $ARGV;
+					$fname =~ s/.*automatic_counts\///;
+
+					print "$fname,$location,x,$date,";
 
 					$time1 = $hour * 60 + $i * 15;
 					$time2 = $hour * 60 + $i * 15 + 15;
