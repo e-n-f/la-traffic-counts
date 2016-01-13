@@ -149,7 +149,7 @@ while (<IN>) {
 }
 close(IN);
 
-while ($geocodes =~ s/"TrafficID":"(\d+)","IntersectionID":"(\d+)","lat":"([0-9-.]+)","lon":"([0-9-.]+)"//) {
+while ($geocodes =~ s/"TrafficID":"(\d+)","IntersectionID":"([^"]+)","lat":"([0-9-.]+)","lon":"([0-9-.]+)"//) {
 	$reportlat{"$1.html"} = $3;
 	$reportlon{"$1.html"} = $4;
 }
