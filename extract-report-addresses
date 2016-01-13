@@ -192,8 +192,18 @@ for $file (<reports/*.html>) {
 print STDERR "looking up\n";
 
 while (<>) {
+	($id, $name, $rest) = split(/,/, $_, 3);
+	$seen{$id}{$name} = 1;
+
+	push @lines, $_;
+}
+
+for (@lines) {
 	chomp;
 	($id, $name, $rest) = split(/,/, $_, 3);
+
+	@k = keys(%{$seen{$id}});
+	$several = $#k + 1;
 
 	# next if $seen{$name};
 	$seen{$name} = 1;
@@ -210,7 +220,7 @@ while (<>) {
 	} else {
 		$id =~ s/.*\///;
 
-		if ($reportcount{$id} == 1) {
+		if ($reportcount{$id} == 1 && $several == 1) {
 			$where = "$reportlat{$report{$id}},$reportlon{$report{$id}}";
 		} else {
 			$where = geocode($name);
