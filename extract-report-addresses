@@ -5,6 +5,8 @@ print "source,name,misc,date,time,SB-Right,SB-Thru,SB-Left,WB-Right,WB-Thru,WB-L
 $foot = .00000274;
 $pi = 4 * atan2(1, 1);
 
+print STDERR "to geocode\n";
+
 open(IN, "to-geocode");
 while (<IN>) {
 	chomp;
@@ -19,6 +21,8 @@ while (<IN>) {
 	}
 }
 close(IN);
+
+print STDERR "la intersections\n";
 
 open(IN, "la-intersections");
 while (<IN>) {
@@ -137,9 +141,26 @@ sub geocode {
 	return "$lat{$_},$lon{$_}";
 }
 
+print STDERR "city geocodes\n";
+
+open(IN, "geocodes");
+while (<IN>) {
+	$geocodes .= $_;
+}
+close(IN);
+
+while ($geocodes =~ s/"TrafficID":"(\d+)","IntersectionID":"(\d+)","lat":"([0-9-.]+)","lon":"([0-9-.]+)"//) {
+	$reportlat{"$1.html"} = $3;
+	$reportlon{"$1.html"} = $4;
+}
+
+print STDERR "reports\n";
+
 for $file (<reports/*.html>) {
 	$base = $file;
 	$base =~ s/.*\///;
+
+	$report = $base;
 
         open (IN, "<$file");
         while (<IN>) {
@@ -155,16 +176,20 @@ for $file (<reports/*.html>) {
 	chomp $name;
 
 	while (<IN>) {
-		if (/http:\/\/navigatela.lacity.org\/dot\/traffic_data\/manual_counts\/([^"]*).pdf/) {
+		if (/http:\/\/navigatela.lacity.org\/dot\/traffic_data\/.*_counts\/([^"]*).pdf/) {
 			$base = "$1.txt";
 			# print "$base -> $name\n";
 			$name{$base} = $name;
+			$reportcount{$base}++;
+			$report{$base} = $report;
 		}
 	}
 
 	#print "$base -> $name{$base}\n";
 	close(IN);
 }
+
+print STDERR "looking up\n";
 
 while (<>) {
 	chomp;
@@ -183,10 +208,16 @@ while (<>) {
 			$where = ",";
 		}
 	} else {
-		$where = geocode($name);
+		$id =~ s/.*\///;
 
-		if ($where eq ",") {
-			$where = geocode($name{$id});
+		if ($reportcount{$id} == 1) {
+			$where = "$reportlat{$report{$id}},$reportlon{$report{$id}}";
+		} else {
+			$where = geocode($name);
+
+			if ($where eq ",") {
+				$where = geocode($name{$id});
+			}
 		}
 	}
 
