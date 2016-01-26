@@ -1,0 +1,60 @@
+                     City Of Los Angeles
+                     Department Of Transportation
+                     MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South          LA JOLLA AV.
+
+East/West            3rd ST.
+
+Day:          SATURDAY                Date:       November 19, 2011 Weather:             CLEAR
+
+Hours:        11AM-3PM
+
+School Day:          NO               District:         WESTERN          I/S CODE 13475
+
+
+                      N/B                         S/B                    E/B                     W/B
+DUAL-
+WHEELED                    5                        3                      33                      10
+BIKES                      0                        2                       7                       9
+BUSES                      0                        0                      44                      32
+
+
+                      N/B TIME                    S/B TIME               E/B TIME                W/B TIME
+
+PK 15 MIN                 31   3.15                27    4.45            275      5.15           324      4.45
+                                                   18    6.15
+
+
+PK HOUR                106     3.00                93    4.30            1025     5.00           1124     4.15
+
+
+
+
+NORTHBOUND Approach                                     SOUTHBOUND Approach                             TOTAL    XING S/L       XING N/L
+
+Hours          Lt     Th       Rt Total                 Hours     Lt     Th       Rt Total               N-S        Ped Sch       Ped   Sch
+11-12           26         2     78 106                 11-12      11         5    69     85              191        70   0        73     3
+12-1             2         0     63  65                 12-1         9        4    79     92              157        51   0        92     6
+1-2              7         5     56  68                 1-2          7        2    78     87              155       138   0        87     4
+2-3             12         6     71  89                 2-3          9        3    49     61              150       117   0        96     0
+                 0         0      0    0                             0        0     0      0                 0        0   0         0     0
+                 0         0      0    0                             0        0     0      0                 0        0   0         0     0
+
+TOTAL          47         13   268      328             TOTAL      36      14     275      325            653       376     0     348      13
+
+
+EASTBOUND Approach                                      WESTBOUND Approach                              TOTAL    XING W/L       XING E/L
+
+Hours          Lt     Th       Rt Total                 Hours     Lt   Th         Rt Total              E-W         Ped Sch       Ped   Sch
+11-12           20    734        45 799                 11-12      52 799          24   875              1674         1   0         7     0
+12-1            23    859        63 945                 12-1       43 1030         15 1088               2033         5   0        11     0
+1-2             22    929        74 1025                1-2        53 909          14   976              2001         6   1        19     0
+2-3             17    940        35 992                 2-3        53 914          13   980              1972         8   0         8     0
+                 0       0        0    0                             0    0         0      0                0         0   0         0     0
+                 0       0        0    0                             0    0         0      0                0         0   0         0     0
+
+TOTAL          82 3462         217 3761                 TOTAL     201 3652         66     3919           7680        20     1      45       0
+
+              (Rev Oct 06)
+

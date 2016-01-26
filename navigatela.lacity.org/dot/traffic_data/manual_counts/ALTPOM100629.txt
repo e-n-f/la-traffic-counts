@@ -1,0 +1,61 @@
+                       City Of Los Angeles
+                       Department Of Transportation
+                       MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South            ALTA ST
+
+East/West              POMONA ST
+
+Day:               TUESDAY                Date:             June 29, 2010              Weather:            SUNNY
+
+Hours:      7-10AM 3-6PM                                            Chekrs:            KL
+
+School Day:            YES                District:         CENTRAL                      I/S CODE 20135
+
+
+                        N/B                           S/B                                E/B                           W/B
+DUAL-
+WHEELED                      2                         0                                     1                           0
+BIKES                        2                         0                                     0                           0
+BUSES                        0                         0                                     0                           0
+
+
+                        N/B TIME                      S/B TIME                           E/B TIME                      W/B TIME
+
+AM PK 15 MIN                 3   7.00                  0     7.00                            5    7.30                   4    7.45
+
+PM PK 15 MIN                 8   4.45                  0     3.00                            3    3.00                   5    3.30
+
+AM PK HOUR                   7   8.30                  0     7.00                           11    7.00                   9    9.00
+
+PM PK HOUR               21      4.45                  0     3.00                            7    4.45                  10    3.00
+
+
+
+NORTHBOUND Approach                                         SOUTHBOUND Approach                                              TOTAL   XING S/L   XING N/L
+
+Hours         Lt        Th       Rt       Total             Hours             Lt        Th        Rt       Total              N-S     Ped Sch    Ped   Sch
+7-8             0            0     4            4           7-8                    0         0         0           0             4      1   0      0     0
+8-9             2            0     2            4           8-9                    0         0         0           0             4      1   0      0     0
+9-10            0            0     5            5           9-10                   0         0         0           0             5      3   0      0     0
+3-4             5            0     7           12           3-4                    0         0         0           0            12      2   0      0     0
+4-5             6            0    11           17           4-5                    0         0         0           0            17      2   0      0     0
+5-6            11            0     8           19           5-6                    0         0         0           0            19      0   0      0     0
+
+TOTAL          24            0    37           61           TOTAL                  0         0         0           0            61     9    0      0    0
+
+
+EASTBOUND Approach                                          WESTBOUND Approach                                               TOTAL   XING W/L   XING E/L
+
+Hours         Lt        Th       Rt       Total             Hours             Lt        Th        Rt       Total             E-W      Ped Sch    Ped   Sch
+7-8                0         3        8        11           7-8                    6         1         0        7               18      0   0      1     0
+8-9                0         2        2         4           8-9                    1         0         0        1                5      0   0      0     0
+9-10               0         1        1         2           9-10                   9         0         0        9               11      0   0      1     0
+3-4                0         1        4         5           3-4                    9         1         0       10               15      0   0      3     0
+4-5                0         1        4         5           4-5                    4         0         0        4                9      0   0      1     0
+5-6                0         1        6         7           5-6                    9         1         0       10               17      0   0      0     0
+
+TOTAL              0         9    25           34           TOTAL              38            3         0       41               75     0    0      6    0
+
+            (Rev Oct 06)
+

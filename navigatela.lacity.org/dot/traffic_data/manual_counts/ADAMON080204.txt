@@ -1,0 +1,61 @@
+                       City Of Los Angeles
+                       Department Of Transportation
+                       MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South            MONTCLAIR ST
+
+East/West              ADAMS BL
+
+Day:        MONDAY                        Date:       FEBRUARY 4, 2008                  Weather:            SUNNY
+
+Hours:      7-10AM 3-6PM                                             Chekrs:            CY
+
+School Day:            YES                District:          HOLLYWOOD                    I/S CODE 7871
+
+
+                        N/B                            S/B                                E/B                           W/B
+DUAL-
+WHEELED                      0                          0                                     0                           0
+BIKES                        5                          0                                     0                           0
+BUSES                        0                          0                                     0                           0
+
+
+                        N/B TIME                       S/B TIME                           E/B TIME                      W/B TIME
+
+AM PK 15 MIN                 1   7.00                   0     7.00                            0    7.00                   0    7.00
+
+PM PK 15 MIN                 0   3.00                   0     3.00                            0    3.00                   1    4.15
+
+AM PK HOUR                   1   7.00                   0     7.00                            0    7.00                   0    7.00
+
+PM PK HOUR                   0   3.00                   0     3.00                            0    3.00                   2    4.00
+
+
+
+NORTHBOUND Approach                                          SOUTHBOUND Approach                            NONE              TOTAL      XING S/L    XING N/L
+
+Hours         Lt        Th       Rt       Total              Hours             Lt        Th        Rt       Total              N-S        Ped Sch     Ped   Sch
+7-8                0         1        0           1          7-8                    0         0         0           0                1     18   8       0     0
+8-9                0         0        0           0          8-9                    0         0         0           0                0     35   1       0     0
+9-10               0         0        0           0          9-10                   0         0         0           0                0     23   1       0     0
+3-4                0         0        0           0          3-4                    0         0         0           0                0     28   7       0     0
+4-5                0         0        0           0          4-5                    0         0         0           0                0     45   8       0     0
+5-6                0         0        0           0          5-6                    0         0         0           0                0     44   7       0     0
+
+TOTAL              0         1        0           1          TOTAL                  0         0         0           0                1    193   32      0    0
+
+
+EASTBOUND Approach                                           WESTBOUND Approach                                               TOTAL      XING W/L    XING E/L
+
+Hours         Lt        Th       Rt       Total              Hours             Lt        Th        Rt       Total             E-W         Ped Sch     Ped   Sch
+7-8                0         0        0           0          7-8                    0         0         0           0                0      1   0       4     0
+8-9                0         0        0           0          8-9                    0         0         0           0                0      2   0       3     0
+9-10               0         0        0           0          9-10                   0         0         0           0                0      1   0       0     0
+3-4                0         0        0           0          3-4                    0         0         0           0                0      0   0       3     2
+4-5                0         0        0           0          4-5                    2         0         0           2                2      1   0       6     0
+5-6                0         0        0           0          5-6                    0         0         0           0                0      8   0       0     0
+
+TOTAL              0         0        0           0          TOTAL                  2         0         0           2                2     13   0      16    2
+
+            (Rev Oct 06)
+

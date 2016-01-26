@@ -1,0 +1,64 @@
+                                         City of Los Angeles
+                                         Department Of Transportation
+                                         MANUAL TRAFFIC COUNT SUMMARY
+
+STREET:
+North/South          MATILIJA AV
+
+East/West            VICTORY BL
+
+Day:     MONDAY                          Date:         April 24, 2006             Weather: CLEAR
+
+Hours:   7-10AM 3-6PM
+
+School Day:          YES         District:            EAST VALLEY         I/S CODE                  4876076320
+
+
+
+                     N/B                               S/B                        E/B                         W/B
+DUAL-
+WHEELED                    0                                 2                     228                         148
+BIKES                      0                                 0                       2                           6
+BUSES                      0                                 0                      33                          31
+
+
+
+                     N/B       TIME                   S/B        TIME             E/B       TIME             W/B     TIME
+
+AM PK 15 MIN               0 7.00                           17 7.45                479 7.45                    477      7.45
+
+PM PK 15 MIN               0 3.00                           13    3.3              527 5.00                    360      3.30
+
+AM PK HOUR                 0 7.00                           49 7.45               1812 7.30                   1699      7.45
+
+PM PK HOUR                 0 3.00                           42 3.00               2040 5.00                   1333      3.00
+
+
+
+
+NORTHBOUND Approach                                              SOUTHBOUND Approach                                 TOTAL       XING S/L   XING N/L
+                               NONE
+Hours       Lt        Th        Rt        Total                  Hours   Lt        Th        Rt     Total             N-S        Ped Sch    Ped Sch
+7-8              0         0         0            0              7-8      22            0     16        38                  38     0   0      8   2
+8-9              0         0         0            0              8-9      18            0     22        40                  40     0   0      9   0
+9-10             0         0         0            0              9-10     18            0     12        30                  30     0   0      7   0
+3-4              0         0         0            0              3-4      24            0     18        42                  42     0   0     12   2
+4-5              0         0         0            0              4-5      22            0       9       31                  31     0   0      5   3
+5-6              0         0         0            0              5-6      19            0     16        35                  35     0   0      7   4
+
+TOTAL            0         0         0            0              TOTAL   123            0     93      216                216       0   0     48   11
+
+
+
+EASTBOUND Approach                                               WESTBOUND Approach                                  TOTAL       XING W/L   XING E/L
+
+Hours       Lt        Th        Rt        Total                  Hours   Lt        Th        Rt     Total             E-W        Ped Sch    Ped Sch
+7-8            8     1570            0     1578                  7-8          0   1390        11     1401              2979        0   0      0   0
+8-9           15     1585            0     1600                  8-9          0   1648        10     1658              3258        0   0      0   0
+9-10          10     1462            0     1472                  9-10         0   1234        18     1252              2724        1   0      0   0
+3-4           22     1731            0     1753                  3-4          0   1306        27     1333              3086        2   0      0   0
+4-5           26     1799            0     1825                  4-5          0   1132        24     1156              2981        1   0      1   0
+5-6           46     1994            0     2040                  5-6          0   1126        32     1158              3198        0   0      0   0
+
+TOTAL       127 ####                 0    10268                  TOTAL        0 7836         122     7958              18226       4   0      1   0
+

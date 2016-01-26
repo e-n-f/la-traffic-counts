@@ -1,0 +1,61 @@
+                       City Of Los Angeles
+                       Department Of Transportation
+                       MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South            ALVERSTONE AV
+
+East/West              78TH PL
+
+Day:               MONDAY                 Date:       December 28, 2009 Weather:                          SUNNY
+
+Hours:      7-10AM 3-6PM                                            Chekrs:            YOUNG
+
+School Day:            YES                District:         WESTERN                     I/S CODE 11170
+
+
+                        N/B                           S/B                               E/B                           W/B
+DUAL-
+WHEELED                      2                         3                                     0                          2
+BIKES                        0                         0                                     0                          2
+BUSES                        0                         0                                     0                          0
+
+
+                        N/B TIME                      S/B TIME                          E/B TIME                      W/B TIME
+
+AM PK 15 MIN              15     9.30                  7     9.00                            0   7.00                   3    8.00
+
+PM PK 15 MIN              11     3.00                 14     5.00                            0   3.00                   2    3.45
+
+AM PK HOUR                43     9.00                 24     8.30                            0   7.00                   5    7.15
+
+PM PK HOUR                34     4.00                 38     5.00                            0   3.00                   4    3.00
+
+
+
+NORTHBOUND Approach                                         SOUTHBOUND Approach                                             TOTAL     XING S/L   XING N/L
+
+Hours         Lt        Th       Rt       Total             Hours             Lt        Th       Rt       Total              N-S       Ped Sch    Ped   Sch
+7-8                0     29           0        29           7-8                    0      5           0        5               34        0   0      0     0
+8-9                0     34           1        35           8-9                    0     17           0       17               52        0   0      0     0
+9-10               0     42           1        43           9-10                   1     21           0       22               65        0   0      0     0
+3-4                0     26           1        27           3-4                    2     21           0       23               50        0   0      0     0
+4-5                0     32           2        34           4-5                    0     25           0       25               59        0   0      0     0
+5-6                0     17           1        18           5-6                    3     35           0       38               56        1   0      0     0
+
+TOTAL              0     180          6       186           TOTAL                  6    124           0      130              316       1    0      0    0
+
+
+EASTBOUND Approach                                          WESTBOUND Approach                                              TOTAL     XING W/L   XING E/L
+                   NONE                                                  78TH PL
+Hours   Lt    Th    Rt Total                                Hours   Lt     Th   Rt                        Total             E-W        Ped Sch    Ped   Sch
+7-8        0     0    0                           0         7-8        1      0                       1           2               2      0   0      3     0
+8-9        0     0    0                           0         8-9        1      0                       4           5               5      0   0      0     0
+9-10       0     0    0                           0         9-10       0      0                       1           1               1      0   0      0     0
+3-4        0     0    0                           0         3-4        3      0                       1           4               4      0   0      2     0
+4-5        0     0    0                           0         4-5        0      0                       0           0               0      0   0      1     0
+5-6        0     0    0                           0         5-6        0      0                       2           2               2      0   0      1     0
+
+TOTAL              0         0        0           0         TOTAL                  5         0        9       14               14       0    0      7    0
+
+            (Rev Oct 06)
+

@@ -19,11 +19,18 @@ for $file (<reports/*.html>) {
 			$base =~ s/.*\///;
 			$base =~ s/,/%2c/g;
 
-			next if -f "$dir/$base";
+			$need = 0;
+			open(IN, "$dir/$base");
+			$line = <IN>;
+			close(IN);
+			if ($line =~ /DOCTYPE/) {
+				$need = 1;
+			}
+			next if (-f "$dir/$base" && !$need);
 
 			$text = $base;
 			$text =~ s/pdf$/txt/;
-			next if -f "$dir/$text";
+			# next if -f "$dir/$text";
 
 			$href =~ s/ /%20/g;
 			$href =~ s/,/%2c/g;
