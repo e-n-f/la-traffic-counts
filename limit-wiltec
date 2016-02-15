@@ -1,0 +1,15 @@
+#!/usr/bin/perl
+
+while (<>) {
+	$line = $_;
+
+	if ($line =~ /\014/) {
+		if ($text =~ /WILTEC/) {
+			print $text;
+		}
+
+		$text = "";
+	}
+
+	$text .= $line;
+}
