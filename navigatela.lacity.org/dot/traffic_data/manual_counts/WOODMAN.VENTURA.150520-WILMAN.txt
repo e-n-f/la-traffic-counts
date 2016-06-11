@@ -1,0 +1,61 @@
+                     City Of Los Angeles
+                     Department Of Transportation
+                     MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South          WOODMAN AVENUE
+
+East/West            VENTURA BOULEVARD
+
+Day:        WEDNESDAY                 Date:         MAY 20, 2015         Weather:          CLEAR
+
+Hours:      7-10AM 3-6PM
+
+School Day:          YES              District:             0              I/S CODE                   0
+
+
+                      N/B                         S/B                      E/B                     W/B
+DUAL-
+WHEELED                    0                        0                        0                        0
+BIKES                      0                        0                        0                        0
+BUSES                      0                        0                        0                        0
+
+
+                      N/B TIME                    S/B TIME                 E/B TIME                W/B TIME
+
+AM PK 15 MIN            65     9.00               240    8.15              300      7.30            285    8.15
+
+PM PK 15 MIN           105     5.00               213    5.45              339      4.15            329    3.00
+
+AM PK HOUR             238     8.15               928    8.00             1083      7.30           1022    8.00
+
+PM PK HOUR             378     4.45               741    5.00             1313      4.15           1209    4.00
+
+
+
+NORTHBOUND Approach                                     SOUTHBOUND Approach                               TOTAL   XING S/L   XING N/L
+
+Hours         Lt      Th       Rt Total                 Hours     Lt      Th        Rt Total               N-S     Ped Sch    Ped   Sch
+7-8            39      162      13   214                7-8       289      144      330   763               977      0   0      0     0
+8-9            46      171      10   227                8-9       312      223      393   928              1155      0   0      0     0
+9-10           36      168      19   223                9-10      311      159      344   814              1037      0   0      0     0
+3-4            55      218      24   297                3-4       256      155      300   711              1008      0   0      0     0
+4-5            54      248      38   340                4-5       280      159      262   701              1041      0   0      0     0
+5-6            65      279      32   376                5-6       276      196      269   741              1117      0   0      0     0
+
+TOTAL          295    1246     136      1677            TOTAL    1724     1036      1898    4658           6335      0   0     0     0
+
+
+EASTBOUND Approach                                      WESTBOUND Approach                                TOTAL   XING W/L   XING E/L
+
+Hours         Lt      Th       Rt Total                 Hours     Lt      Th        Rt Total              E-W      Ped Sch    Ped   Sch
+7-8           151      837      20 1008                 7-8        18      666      124   808              1816      0   0      0     0
+8-9           146      836      33 1015                 8-9        17      840      165 1022               2037      0   0      0     0
+9-10          161      792      37   990                9-10       27      798      148   973              1963      0   0      0     0
+3-4           230      968      40 1238                 3-4        31      892      272 1195               2433      0   0      0     0
+4-5           223     1034      45 1302                 4-5        25      942      242 1209               2511      0   0      0     0
+5-6           246      990      45 1281                 5-6        30      848      226 1104               2385      0   0      0     0
+
+TOTAL         1157    5457     220      6834            TOTAL      148    4986      1177    6311          13145      0   0     0     0
+
+            (Rev Oct 06)
+

@@ -1,0 +1,288 @@
+                          City Of Los Angeles
+                          Department Of Transportation
+                          MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South               Whitley Ave
+
+East/West                 Franklin Ave
+
+Day:                       Thursday                Date:        January 16, 2014                   Weather:              SUNNY
+
+Hours:        7-10 & 3-6                                                       Chekrs:             NDS
+
+School Day:               YES                      District:                                         I/S CODE
+
+
+                                   N/B                         S/B                                    E/B                             W/B
+DUAL-
+WHEELED                             11                          2                                         18                           21
+BIKES                                2                          1                                          8                            5
+BUSES                                7                          0                                         10                            1
+
+
+                                   N/B   TIME                  S/B    TIME                            E/B      TIME                   W/B    TIME
+
+AM PK 15 MIN                        26    8.30                 27       8.15                              88    9.45                  212     8.30
+
+PM PK 15 MIN                        32   16.30                 25      15.00                          132      16.15                  154    15.30
+
+AM PK HOUR                          79    8.00                 87       8.15                          315       9.00                  826     7.45
+
+PM PK HOUR                         106   15.45                 64      16.00                          462      16.15                  561    17.00
+
+
+
+
+NORTHBOUND Approach                                                  SOUTHBOUND Approach                                                    TOTAL    XING S/L       XING N/L
+
+Hours           Lt            Th         Rt        Total             Hours               Lt          Th        Rt        Total               N-S      Ped   Sch      Ped   Sch
+7-8                  18              4        33        55           7-8                      19          10        15           44             99     23     0       12     0
+8-9                  28              2        49        79           8-9                      38          15        29           82            161     32     0       19     0
+9-10                 30              5        29        64           9-10                     48          11        14           73            137     17     0        8     0
+15-16                30             12        60       102           15-16                    28          12        20           60            162     36     0       24     0
+16-17                43             18        44       105           16-17                    32          14        18           64            169     47     0       22     0
+17-18                41             20        37        98           17-18                    26          10        14           50            148     30     0       19     0
+
+TOTAL             190               61    252          503           TOTAL                191             72    110          373               876    185       0    104       0
+
+
+EASTBOUND Approach                                                   WESTBOUND Approach                                                     TOTAL    XING W/L       XING E/L
+
+Hours           Lt            Th         Rt        Total             Hours               Lt          Th        Rt        Total               E-W      Ped   Sch      Ped   Sch
+7-8                   3            183         4       190           7-8                      40      636            6       682               872     11     1       18     3
+8-9                   7            244        12       263           8-9                      51      760           12       823              1086     13     0       17     0
+9-10                  6            276        33       315           9-10                     40      750           12       802              1117      7     0        9     0
+15-16                 9            406        31       446           15-16                    58      466           22       546               992     22     0       22     0
+16-17                 4            389        32       425           16-17                    34      469           26       529               954     24     0       24     0
+17-18                11            400        40       451           17-18                    51      492           18       561              1012     18     0       17     1
+
+TOTAL                40         1898      152         2090           TOTAL                274        3573           96      3943              6033     95       1    107       4
+                                    Intersection Turning Movement
+                                                             Prepared by:
+                                            National Data & Surveying Services
+          Project ID: 14-5006-002                                                                                             Day: Thursday
+                                                                              BIKES
+                  City: Hollywood                                                                                            Date: 1/16/2014
+                                                                               AM
+     NS/EW Streets:             Whitley Ave                Whitley Ave                     Franklin Ave                  Franklin Ave
+
+                               NORTHBOUND                  SOUTHBOUND                      EASTBOUND                     WESTBOUND
+
+                          NL           NT     NR      SL       ST        SR           EL       ET         ER        WL       WT         WR      TOTAL
+     LANES:               0             1      0      0         1         0           0         1          0        0         1          0
+
+           7:00   AM                                                                            0                   0         1                  1
+           7:15   AM                                                                            0                   0         0
+           7:30   AM                                                                            0                   0         0
+           7:45   AM                                                                            1                   1         0                  2
+           8:00   AM                                                                            0                   0         0
+           8:15   AM                                                                            0                   0         0
+           8:30   AM                                                                            0                   0         0
+           8:45   AM                                                                            0                   0         0
+           9:00   AM                                                                            0                   0         0
+           9:15   AM                                                                            1                   0         0                  1
+           9:30   AM                                                                            0                   0         0
+           9:45   AM                                                                            0                   0         1                  1
+
+                          NL           NT     NR      SL       ST        SR        EL      ET              ER       WL      WT          WR      TOTAL
+    TOTAL VOLUMES :       0             0      0      0         0         0         0       2               0        1       2           0        5
+     APPROACH %'s :                                                               0.00% 100.00%           0.00%    33.33% 66.67%        0.00%
+                       nb a      nb d              sb a     sb d                eb a    eb d                      wb a   nb d
+PEAK HR START TIME :          815 AM                                                                                                            TOTAL
+
+       PEAK HR VOL :      0            0       0      0        0         0            0         0         0         0        0          0        0
+
+   PEAK HR FACTOR :                 0.000                    0.000                            0.000                         0.000               0.000
+
+          CONTROL : Signalized
+                                     Intersection Turning Movement
+                                                            Prepared by:
+                                             National Data & Surveying Services
+          Project ID: 14-5006-002                                                                                            Day: Thursday
+                                                                             BIKES
+                   City: Hollywood                                                                                          Date: 1/16/2014
+                                                                              PM
+     NS/EW Streets:             Whitley Ave               Whitley Ave                     Franklin Ave                  Franklin Ave
+
+                                NORTHBOUND                SOUTHBOUND                      EASTBOUND                     WESTBOUND
+
+                           NL         NT       NR    SL       ST        SR           EL       ET         ER        WL       WT         WR      TOTAL
+      LANES:               0           1        0    0         1         0           0         1          0        0         1          0
+
+            3:00   PM                           0             0                                1                             0                  1
+            3:15   PM                           1             0                                1                             1                  3
+            3:30   PM                           0             0                                0                             0
+            3:45   PM                           0             0                                0                             0
+            4:00   PM                           0             0                                0                             1                  1
+            4:15   PM                           0             0                                1                             0                  1
+            4:30   PM                           0             0                                2                             0                  2
+            4:45   PM                           0             0                                0                             0
+            5:00   PM                           0             0                                1                             0                  1
+            5:15   PM                           0             0                                0                             0
+            5:30   PM                           0             0                                0                             0
+            5:45   PM                           1             1                                0                             0                  2
+
+                        NL        NT     NR        SL      ST            SR        EL      ET             ER       WL       WT         WR      TOTAL
+    TOTAL VOLUMES :      0         0      2        0        1             0         0       6              0        0        2          0        11
+     APPROACH %'s :    0.00%     0.00% 100.00%    0.00% 100.00%         0.00%     0.00% 100.00%          0.00%     0.00% 100.00%       0.00%
+                     nb a      nb d            sb a     sb d                    eb a    eb d                     wb a    nb d
+PEAK HR START TIME :       415 PM                                                                                                              TOTAL
+
+       PEAK HR VOL :       0          0         0    0        0         0            0         4         0         0        0          0        4
+
+   PEAK HR FACTOR :                  0.000                  0.000                            0.500                         0.000               0.500
+
+          CONTROL : Signalized
+                                    Intersection Turning Movement
+                                                                Prepared by:
+                                            National Data & Surveying Services
+          Project ID: 14-5006-002                                                                                          Day: Thursday
+                                                                                BUSES
+                  City: Hollywood                                                                                         Date: 1/16/2014
+                                                                                 AM
+     NS/EW Streets:            Whitley Ave                    Whitley Ave                    Franklin Ave             Franklin Ave
+
+                               NORTHBOUND                     SOUTHBOUND                     EASTBOUND                WESTBOUND
+
+                          NL         NT       NR         SL       ST        SR          EL       ET         ER   WL       WT         WR      TOTAL
+     LANES:               0           1        0         0         1         0          0         1          0   0         1          0
+
+           7:00   AM       1                                                            0         0         0    0                            1
+           7:15   AM       0                                                            0         0         0    0
+           7:30   AM       1                                                            0         1         0    1                            3
+           7:45   AM       0                                                            0         0         1    0                            1
+           8:00   AM       1                                                            0         0         0    0                            1
+           8:15   AM       0                                                            0         0         1    0                            1
+           8:30   AM       0                                                            0         0         0    0
+           8:45   AM       0                                                            1         0         0    0                            1
+           9:00   AM       1                                                            0         0         0    0                            1
+           9:15   AM       0                                                            0         0         0    0
+           9:30   AM       0                                                            0         0         0    0
+           9:45   AM       0                                                            1         0         0    0                            1
+
+                          NL     NT           NR         SL       ST        SR       EL     ET     ER     WL       WT                WR      TOTAL
+    TOTAL VOLUMES :    4          0            0         0         0         0        2      1      2      1        0                 0        10
+     APPROACH %'s : 100.00%     0.00%         0.00%                                40.00% 20.00% 40.00% 100.00%   0.00%              0.00%
+                     nb a     nb d                    sb a     sb d               eb a   eb d           wb a    nb d
+PEAK HR START TIME :      815 AM                                                                                                             TOTAL
+
+       PEAK HR VOL :      1          0         0         0        0         0           1         0         1    0        0          0        3
+
+   PEAK HR FACTOR :                 0.250                       0.000                           0.500                    0.000               0.750
+
+          CONTROL : Signalized
+                                    Intersection Turning Movement
+                                                                Prepared by:
+                                            National Data & Surveying Services
+          Project ID: 14-5006-002                                                                                          Day: Thursday
+                                                                                BUSES
+                  City: Hollywood                                                                                         Date: 1/16/2014
+                                                                                 PM
+     NS/EW Streets:            Whitley Ave                    Whitley Ave                    Franklin Ave             Franklin Ave
+
+                               NORTHBOUND                     SOUTHBOUND                     EASTBOUND                WESTBOUND
+
+                          NL         NT       NR         SL       ST        SR          EL       ET         ER   WL       WT         WR     TOTAL
+     LANES:               0           1        0         0         1         0          0         1          0   0         1          0
+
+           3:00   PM       0                                                                      1         0                                1
+           3:15   PM       0                                                                      1         0                                1
+           3:30   PM       0                                                                      0         0
+           3:45   PM       0                                                                      0         1                                1
+           4:00   PM       0                                                                      0         0
+           4:15   PM       0                                                                      0         0
+           4:30   PM       1                                                                      0         0                                1
+           4:45   PM       0                                                                      0         0
+           5:00   PM       1                                                                      0         1                                2
+           5:15   PM       0                                                                      0         0
+           5:30   PM       0                                                                      0         1                                1
+           5:45   PM       1                                                                      0         0                                1
+
+                          NL     NT           NR         SL       ST        SR       EL     ET     ER     WL              WT         WR     TOTAL
+    TOTAL VOLUMES :    3          0            0         0         0         0        0      2      3      0               0          0       8
+     APPROACH %'s : 100.00%     0.00%         0.00%                                 0.00% 40.00% 60.00%
+                     nb a     nb d                    sb a     sb d               eb a   eb d           wb a           nb d
+PEAK HR START TIME :      415 PM                                                                                                            TOTAL
+
+       PEAK HR VOL :      2          0         0         0        0         0           0         0         1    0        0          0       3
+
+   PEAK HR FACTOR :                 0.500                       0.000                           0.250                    0.000              0.375
+
+          CONTROL : Signalized
+                                     Intersection Turning Movement
+                                                              Prepared by:
+                                             National Data & Surveying Services
+          Project ID: 14-5006-002                                                                                       Day: Thursday
+                                                                          HEAVY TRUCKS
+                   City: Hollywood                                                                                     Date: 1/16/2014
+                                                                                AM
+     NS/EW Streets:             Whitley Ave                 Whitley Ave                   Franklin Ave             Franklin Ave
+
+                                NORTHBOUND                  SOUTHBOUND                    EASTBOUND                WESTBOUND
+
+                           NL         NT       NR      SL       ST         SR        EL       ET         ER   WL       WT         WR      TOTAL
+      LANES:               0           1        0      0         1          0        0         1          0   0         1          0
+
+            7:00   AM       2                   0       0                                      0         0    0         1                  3
+            7:15   AM       0                   0       0                                      1         0    0         1                  2
+            7:30   AM       0                   0       0                                      1         0    0         0                  1
+            7:45   AM       0                   0       0                                      2         0    0         0                  2
+            8:00   AM       1                   0       0                                      1         0    0         1                  3
+            8:15   AM       0                   0       0                                      1         0    1         2                  4
+            8:30   AM       1                   0       1                                      1         1    0         1                  5
+            8:45   AM       0                   0       0                                      2         0    0         1                  3
+            9:00   AM       0                   0       0                                      1         1    0         0                  2
+            9:15   AM       1                   0       0                                      1         0    0         1                  3
+            9:30   AM       2                   1       0                                      0         0    0         1                  4
+            9:45   AM       0                   1       0                                      1         0    1         3                  6
+
+                        NL        NT           NR       SL       ST         SR        EL     ET     ER    WL      WT              WR      TOTAL
+    TOTAL VOLUMES :      7         0            2        1        0          0         0     12      2     2      12               0        38
+     APPROACH %'s :   77.78%     0.00%        22.22% 100.00%    0.00%      0.00%     0.00% 85.71% 14.29% 14.29% 85.71%            0.00%
+                     nb a      nb d                  sb a    sb d                  eb a   eb d          wb a   nb d
+PEAK HR START TIME :       815 AM                                                                                                         TOTAL
+
+       PEAK HR VOL :       1          0         0       1       0          0         0         5         2    1        4          0        14
+
+   PEAK HR FACTOR :                  0.250                    0.250                          0.875                    0.417               0.700
+
+          CONTROL : Signalized
+                                    Intersection Turning Movement
+                                                               Prepared by:
+                                            National Data & Surveying Services
+          Project ID: 14-5006-002                                                                                        Day: Thursday
+                                                                           HEAVY TRUCKS
+                  City: Hollywood                                                                                       Date: 1/16/2014
+                                                                                 PM
+     NS/EW Streets:            Whitley Ave                   Whitley Ave                   Franklin Ave             Franklin Ave
+
+                               NORTHBOUND                    SOUTHBOUND                    EASTBOUND                WESTBOUND
+
+                          NL         NT       NR        SL       ST         SR        EL       ET         ER   WL       WT         WR      TOTAL
+     LANES:               0           1        0        0         1          0        0         1          0   0         1          0
+
+           3:00   PM       0                                                 0                  0         1    0         0                  1
+           3:15   PM       0                                                 0                  1         0    1         1                  3
+           3:30   PM       1                                                 0                  1         0    0         1                  3
+           3:45   PM       0                                                 0                  0         0    2         0                  2
+           4:00   PM       0                                                 0                  0         0    0         1                  1
+           4:15   PM       0                                                 0                  0         0    0         0
+           4:30   PM       1                                                 0                  0         0    0         0                  1
+           4:45   PM       0                                                 0                  0         0    0         0
+           5:00   PM       0                                                 1                  0         1    0         0                  2
+           5:15   PM       0                                                 0                  0         0    0         1                  1
+           5:30   PM       0                                                 0                  0         0    0         0
+           5:45   PM       0                                                 0                  0         0    0         0
+
+                          NL     NT           NR          SL       ST      SR      EL     ET     ER    WL      WT                  WR      TOTAL
+    TOTAL VOLUMES :    2          0            0          0         0       1       0      2      2     3       4                   0        14
+     APPROACH %'s : 100.00%     0.00%         0.00%      0.00%    0.00% 100.00%   0.00% 50.00% 50.00% 42.86% 57.14%                0.00%
+                     nb a     nb d                    sb a     sb d             eb a   eb d          wb a   nb d
+PEAK HR START TIME :      415 PM                                                                                                           TOTAL
+
+       PEAK HR VOL :      1          0         0        0        0          1         0         0         1    0        0          0        3
+
+   PEAK HR FACTOR :                 0.250                      0.250                          0.250                    0.000               0.375
+
+          CONTROL : Signalized
+

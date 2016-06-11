@@ -1,0 +1,288 @@
+                        City Of Los Angeles
+                        Department Of Transportation
+                        MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South             Cahuenga Blvd
+
+East/West               Sunset Blvd
+
+Day:                    Wednesday                Date:        December 4, 2013                    Weather:             SUNNY
+
+Hours:      7-10 & 3-6                                                        Chekrs:             NDS
+
+School Day:             YES                      District:                                          I/S CODE
+
+
+                                 N/B                          S/B                                    E/B                         W/B
+DUAL-
+WHEELED                           56                          123                                    195                          174
+BIKES                             13                           26                                     63                           74
+BUSES                              6                            5                                     61                           67
+
+
+                                 N/B   TIME                   S/B    TIME                            E/B     TIME                W/B     TIME
+
+AM PK 15 MIN                     132    8.15                  348      7.45                          314       8.30               414     7.30
+
+PM PK 15 MIN                     245   16.15                  179    15.15                           434     17.45                330    16.45
+
+AM PK HOUR                       477    8.15                 1275      7.30                         1178       8.30              1623     7.30
+
+PM PK HOUR                       952   15.45                  671    17.00                          1653     17.00               1196    15.15
+
+
+
+
+NORTHBOUND Approach                                                 SOUTHBOUND Approach                                                 TOTAL    XING S/L       XING N/L
+
+Hours         Lt            Th         Rt        Total              Hours               Lt          Th       Rt Total                    N-S      Ped   Sch      Ped   Sch
+7-8                22            211        10       243            7-8                      40      896      166  1102                   1345     66     0       70     0
+8-9                27            397        11       435            8-9                      51      950      168  1169                   1604     77     0       48     0
+9-10               21            410        17       448            9-10                     63      958      163  1184                   1632    157     0      117     0
+15-16              35            708        56       799            15-16                    62      496      105   663                   1462    311     1      247     0
+16-17              46            814        53       913            16-17                    68      451      100   619                   1532    258     2      207     0
+17-18              45            720        55       820            17-18                    78      494       99   671                   1491    215     0      143     0
+
+TOTAL           196           3260      202         3658            TOTAL                362        4245       801       5408             9066   1084       3    832       0
+
+
+EASTBOUND Approach                                                  WESTBOUND Approach                                                  TOTAL    XING W/L       XING E/L
+
+Hours         Lt            Th         Rt        Total              Hours               Lt          Th       Rt        Total             E-W      Ped   Sch      Ped   Sch
+7-8              69            752          20       841            7-8                      33     1439          28      1500            2341     21     0       17     0
+8-9             133            953          48      1134            8-9                      61     1508          25      1594            2728     22     0       26     0
+9-10            153            883          69      1105            9-10                     84     1247          30      1361            2466     78     0       27     0
+15-16           169           1135          57      1361            15-16                    39     1030          80      1149            2510    139     4      142     0
+16-17           215           1356          55      1626            16-17                    46     1058          76      1180            2806    133     0      124     0
+17-18           198           1407          48      1653            17-18                    33     1068          75      1176            2829     87     0       70     1
+
+TOTAL           937           6486      297         7720            TOTAL                296        7350       314       7960            15680    480       4    406       1
+                                      Intersection Turning Movement
+                                                                Prepared by:
+                                              National Data & Surveying Services
+          Project ID: 13-5641-007                                                                                            Day: Wednesday
+                                                                                  BIKES
+                  City: Los Angeles                                                                                         Date: 12/4/2013
+                                                                                   AM
+     NS/EW Streets:             Cahuenga Blvd                Cahuenga Blvd                     Sunset Blvd               Sunset Blvd
+
+                                NORTHBOUND                   SOUTHBOUND                        EASTBOUND                 WESTBOUND
+
+                          NL            NT      NR      SL        ST         SR           EL       ET        ER     WL      WT         WR     TOTAL
+     LANES:               1              2       0      1          2          0           1         2         0     1        2          0
+
+           7:00   AM       0            0        0      0         0          0            0        0         0       0       1         0        1
+           7:15   AM       0            1        0      0         1          0            0        3         0       0       3         0        8
+           7:30   AM       0            0        0      0         0          0            0        0         0       0       2         0        2
+           7:45   AM       0            0        1      0         1          0            0        1         0       0       2         0        5
+           8:00   AM       0            0        0      0         2          0            0        3         0       0       0         0        5
+           8:15   AM       0            1        0      0         1          0            0        0         0       0       2         0        4
+           8:30   AM       0            0        0      0         0          0            0        0         0       0       1         0        1
+           8:45   AM       0            0        0      0         3          0            0        1         0       0       2         0        6
+           9:00   AM       0            0        0      0         0          0            0        2         0       0       1         0        3
+           9:15   AM       0            0        0      1         0          0            0        4         0       1       2         0        8
+           9:30   AM       0            0        0      0         2          0            0        1         0       0       1         0        4
+           9:45   AM       0            1        0      0         0          0            0        3         1       1       5         0       11
+
+                          NL            NT      NR      SL        ST         SR           EL       ET        ER     WL      WT         WR     TOTAL
+    TOTAL VOLUMES :   0      3      1      1      10     0      0      18     1      2      22     0                                            58
+     APPROACH %'s : #NAME? #NAME? #NAME? #NAME? #NAME? #NAME? #NAME? #NAME? #NAME? #NAME? #NAME? #NAME?
+                       nb a       nb d               sb a      sb d                 eb a        eb d              wb a    nb d
+PEAK HR START TIME :           745 AM                                                                                                         TOTAL
+
+       PEAK HR VOL :       0            1        1      0         4          0            0        4         0       0       5         0       15
+
+   PEAK HR FACTOR :                   0.500                      0.500                           0.333                     0.625              0.750
+
+          CONTROL : Signalized
+                                      Intersection Turning Movement
+                                                                Prepared by:
+                                              National Data & Surveying Services
+          Project ID: 13-5641-007                                                                                            Day: Wednesday
+                                                                                  BIKES
+                  City: Los Angeles                                                                                         Date: 12/4/2013
+                                                                                   PM
+     NS/EW Streets:             Cahuenga Blvd                Cahuenga Blvd                     Sunset Blvd               Sunset Blvd
+
+                                NORTHBOUND                   SOUTHBOUND                        EASTBOUND                 WESTBOUND
+
+                          NL            NT      NR      SL        ST         SR           EL       ET        ER     WL      WT         WR     TOTAL
+     LANES:               1              2       0      1          2          0           1         2         0     1        2          0
+
+           3:00   PM       1            1        0      0         0          0            0        3         0       0       5         1       11
+           3:15   PM       0            1        0      0         0          0            0        5         0       0       5         0       11
+           3:30   PM       0            0        0      0         0          0            0        1         0       3       4         0        8
+           3:45   PM       0            1        0      0         1          0            0        1         0       0       1         0        4
+           4:00   PM       1            2        0      0         1          0            0        3         0       0       3         1       11
+           4:15   PM       1            0        0      0         1          0            0        3         0       0       4         0        9
+           4:30   PM       0            0        0      0         0          0            0        4         0       0       6         0       10
+           4:45   PM       0            0        0      1         1          1            0        1         0       1       5         0       10
+           5:00   PM       0            0        0      1         1          0            0        3         0       0       0         0        5
+           5:15   PM       0            0        0      1         2          0            0        5         0       0       2         0       10
+           5:30   PM       0            1        0      0         0          1            0        7         1       0       1         0       11
+           5:45   PM       0            0        0      0         2          1            0        7         0       0       8         0       18
+
+                          NL            NT      NR      SL        ST         SR           EL       ET        ER     WL      WT         WR     TOTAL
+    TOTAL VOLUMES :   3      6      0      3      9      3      0      43     1      4      44     2                                           118
+     APPROACH %'s : #NAME? #NAME? #NAME? #NAME? #NAME? #NAME? #NAME? #NAME? #NAME? #NAME? #NAME? #NAME?
+                       nb a       nb d               sb a      sb d                 eb a        eb d              wb a    nb d
+PEAK HR START TIME :           430 PM                                                                                                         TOTAL
+
+       PEAK HR VOL :       0            0        0      3         4          1            0       13         0       1      13         0       35
+
+   PEAK HR FACTOR :                   0.000                      0.667                           0.650                     0.583              0.875
+
+          CONTROL : Signalized
+                                      Intersection Turning Movement
+                                                                Prepared by:
+                                              National Data & Surveying Services
+          Project ID: 13-5641-007                                                                                           Day: Wednesday
+                                                                                 BUSES
+                  City: Los Angeles                                                                                        Date: 12/4/2013
+                                                                                  AM
+     NS/EW Streets:             Cahuenga Blvd                Cahuenga Blvd                    Sunset Blvd               Sunset Blvd
+
+                                NORTHBOUND                   SOUTHBOUND                       EASTBOUND                 WESTBOUND
+
+                          NL            NT      NR      SL        ST         SR          EL       ET        ER     WL      WT         WR     TOTAL
+     LANES:               1              2       0      1          2          0          1         2         0     1        2          0
+
+           7:00   AM       0            0        0      0         1          0           0        3         0       0       5         0        9
+           7:15   AM       0            0        0      0         0          0           0        2         0       0       6         0        8
+           7:30   AM       0            0        0      0         0          1           0        5         0       0       8         0       14
+           7:45   AM       0            0        0      0         0          0           0        5         0       0       5         0       10
+           8:00   AM       0            0        0      0         0          0           0        9         0       0       2         0       11
+           8:15   AM       0            0        0      0         1          0           0        0         0       0       3         0        4
+           8:30   AM       0            1        0      0         0          0           0        2         0       0       3         0        6
+           8:45   AM       0            0        0      0         0          0           0        1         0       0       1         0        2
+           9:00   AM       0            0        0      0         0          0           0        1         0       0       3         0        4
+           9:15   AM       0            0        0      0         0          0           0        1         0       0       2         0        3
+           9:30   AM       0            0        0      0         0          0           0        2         0       0       4         0        6
+           9:45   AM       0            0        0      0         0          0           0        1         0       0       2         0        3
+
+                          NL            NT      NR      SL        ST         SR          EL       ET        ER     WL      WT         WR     TOTAL
+    TOTAL VOLUMES :   0      1      0      0      2      1      0      32     0      0      44     0                                           80
+     APPROACH %'s : #NAME? #NAME? #NAME? #NAME? #NAME? #NAME? #NAME? #NAME? #NAME? #NAME? #NAME? #NAME?
+                       nb a       nb d               sb a      sb d                eb a        eb d              wb a    nb d
+PEAK HR START TIME :           745 AM                                                                                                        TOTAL
+
+       PEAK HR VOL :       0            1        0      0         1          0           0       16         0       0      13         0       31
+
+   PEAK HR FACTOR :                   0.250                      0.250                          0.444                     0.650              0.705
+
+          CONTROL : Signalized
+                                      Intersection Turning Movement
+                                                                Prepared by:
+                                              National Data & Surveying Services
+          Project ID: 13-5641-007                                                                                           Day: Wednesday
+                                                                                 BUSES
+                  City: Los Angeles                                                                                        Date: 12/4/2013
+                                                                                  PM
+     NS/EW Streets:             Cahuenga Blvd                Cahuenga Blvd                    Sunset Blvd               Sunset Blvd
+
+                                NORTHBOUND                   SOUTHBOUND                       EASTBOUND                 WESTBOUND
+
+                          NL            NT      NR      SL        ST         SR          EL       ET        ER     WL      WT         WR     TOTAL
+     LANES:               1              2       0      1          2          0          1         2         0     1        2          0
+
+           3:00   PM       0            1        0      0         0          0           0        3         0       0       3         0        7
+           3:15   PM       0            0        0      0         0          1           0        1         0       0       1         0        3
+           3:30   PM       0            0        0      0         0          0           0        5         0       0       5         0       10
+           3:45   PM       0            0        0      0         0          0           0        2         0       0       1         0        3
+           4:00   PM       0            1        0      0         0          1           0        3         0       0       1         0        6
+           4:15   PM       0            2        0      0         0          0           0        2         0       0       2         0        6
+           4:30   PM       1            0        0      0         0          0           0        2         0       0       1         0        4
+           4:45   PM       0            0        0      0         0          0           0        2         0       0       3         0        5
+           5:00   PM       0            0        0      0         0          0           0        1         0       0       0         0        1
+           5:15   PM       0            0        0      0         0          0           0        3         0       0       3         0        6
+           5:30   PM       0            0        0      0         0          0           0        2         0       0       1         0        3
+           5:45   PM       0            0        0      0         0          0           0        3         0       0       2         0        5
+
+                          NL            NT      NR      SL        ST         SR          EL       ET        ER     WL      WT         WR     TOTAL
+    TOTAL VOLUMES :   1      4      0      0      0      2      0      29     0      0      23     0                                           59
+     APPROACH %'s : #NAME? #NAME? #NAME? #NAME? #NAME? #NAME? #NAME? #NAME? #NAME? #NAME? #NAME? #NAME?
+                       nb a       nb d               sb a      sb d                eb a        eb d              wb a    nb d
+PEAK HR START TIME :           430 PM                                                                                                        TOTAL
+
+       PEAK HR VOL :       1            0        0      0         0          0           0        8         0       0       7         0       16
+
+   PEAK HR FACTOR :                   0.250                      0.000                          0.667                     0.583              0.667
+
+          CONTROL : Signalized
+                                      Intersection Turning Movement
+                                                                Prepared by:
+                                              National Data & Surveying Services
+          Project ID: 13-5641-007                                                                                         Day: Wednesday
+                                                                         HEAVY TRUCKS
+                  City: Los Angeles                                                                                      Date: 12/4/2013
+                                                                                  AM
+     NS/EW Streets:             Cahuenga Blvd                Cahuenga Blvd                  Sunset Blvd               Sunset Blvd
+
+                                NORTHBOUND                   SOUTHBOUND                     EASTBOUND                 WESTBOUND
+
+                          NL            NT      NR      SL        ST         SR        EL       ET        ER     WL      WT         WR     TOTAL
+     LANES:               1              2       0      1          2          0        1         2         0     1        2          0
+
+           7:00   AM       0            2        0      1         5          3         1        4         0       0       8         1       25
+           7:15   AM       0            2        0      1         2          4         2        5         1       0       8         0       25
+           7:30   AM       1            2        0      0         2          3         3        4         0       0       10        1       26
+           7:45   AM       0            1        0      0         5          2         1        5         0       0       11        0       25
+           8:00   AM       0            2        0      0         4          1         1        7         0       2       19        0       36
+           8:15   AM       0            1        0      0         9          4         1        5         0       0       15        0       35
+           8:30   AM       0            4        0      0         15         6         2        4         0       0       11        0       42
+           8:45   AM       0            5        0      0         2          4         2        5         1       0       8         0       27
+           9:00   AM       0            4        0      0         3          3         5        9         0       0       14        0       38
+           9:15   AM       0            3        0      0         3          2         3        8         0       0       11        1       31
+           9:30   AM       0            6        0      0         2          2         2        8         0       2       12        0       34
+           9:45   AM       0            0        1      0         1          1         4        5         0       0       12        0       24
+
+                          NL            NT      NR      SL        ST         SR        EL       ET        ER     WL      WT         WR     TOTAL
+    TOTAL VOLUMES :   1      32     1      2      53     35     27     69     2      4      139    3                                        368
+     APPROACH %'s : #NAME? #NAME? #NAME? #NAME? #NAME? #NAME? #NAME? #NAME? #NAME? #NAME? #NAME? #NAME?
+                       nb a       nb d               sb a      sb d                eb a      eb d              wb a    nb d
+PEAK HR START TIME :           745 AM                                                                                                      TOTAL
+
+       PEAK HR VOL :       0            8        0      0         33         13        5       21         0       2      56         0      138
+
+   PEAK HR FACTOR :                   0.500                      0.548                        0.813                     0.690              0.821
+
+          CONTROL : Signalized
+                                      Intersection Turning Movement
+                                                                Prepared by:
+                                              National Data & Surveying Services
+          Project ID: 13-5641-007                                                                                         Day: Wednesday
+                                                                         HEAVY TRUCKS
+                  City: Los Angeles                                                                                      Date: 12/4/2013
+                                                                                  PM
+     NS/EW Streets:             Cahuenga Blvd                Cahuenga Blvd                  Sunset Blvd               Sunset Blvd
+
+                                NORTHBOUND                   SOUTHBOUND                     EASTBOUND                 WESTBOUND
+
+                          NL            NT      NR      SL        ST         SR        EL       ET        ER     WL      WT         WR     TOTAL
+     LANES:               1              2       0      1          2          0        1         2         0     1        2          0
+
+           3:00   PM       0            2        0      0         2          1         1        6         0       0       5         0       17
+           3:15   PM       0            1        0      1         1          0         2        12        0       0       0         1       18
+           3:30   PM       0            2        0      0         5          2         1        6         1       0       1         1       19
+           3:45   PM       0            1        0      0         2          1         1        8         0       1       2         0       16
+           4:00   PM       0            3        0      0         1          1         2        6         0       0       2         1       16
+           4:15   PM       0            1        0      0         4          1         1        7         0       0       1         0       15
+           4:30   PM       0            1        1      0         1          1         5        6         1       0       4         1       21
+           4:45   PM       0            4        0      0         1          1         1        7         0       0       1         0       15
+           5:00   PM       0            1        0      0         2          1         1        5         1       0       2         0       13
+           5:15   PM       0            1        1      0         0          1         1        4         0       0       1         0        9
+           5:30   PM       0            2        0      0         1          1         1        2         0       0       2         0        9
+           5:45   PM       0            1        0      0         0          1         1        7         0       1       1         0       12
+
+                          NL            NT      NR      SL        ST         SR        EL       ET        ER     WL      WT         WR     TOTAL
+    TOTAL VOLUMES :   0      20     2      1      20     12     18     76     3      2      22     4                                        180
+     APPROACH %'s : #NAME? #NAME? #NAME? #NAME? #NAME? #NAME? #NAME? #NAME? #NAME? #NAME? #NAME? #NAME?
+                       nb a       nb d               sb a      sb d                eb a      eb d              wb a    nb d
+PEAK HR START TIME :           430 PM                                                                                                      TOTAL
+
+       PEAK HR VOL :       0            7        2      0         4          4         8       22         2       0       8         1       58
+
+   PEAK HR FACTOR :                   0.563                      0.667                        0.667                     0.450              0.690
+
+          CONTROL : Signalized
+

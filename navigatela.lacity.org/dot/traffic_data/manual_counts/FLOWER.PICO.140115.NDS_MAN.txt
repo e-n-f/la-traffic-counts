@@ -1,0 +1,282 @@
+                         City Of Los Angeles
+                         Department Of Transportation
+                         MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South              Flower St
+
+East/West                Pico Blvd
+
+Day:                     Wednesday                Date:         January 15, 2014                  Weather:            SUNNY
+
+Hours:        7-10 & 3-6                                                      Chekrs:             NDS
+
+School Day:              YES                      District:                                         I/S CODE
+
+
+                               N/B                             S/B                                   E/B                        W/B
+DUAL-
+WHEELED                           0                            58                                       57                       43
+BIKES                            34                            44                                       78                       86
+BUSES                             0                           124                                       60                       48
+
+
+                               N/B       TIME                  S/B    TIME                           E/B     TIME               W/B    TIME
+
+AM PK 15 MIN                         0    0.00                 142     7.30                          193      8.30               96     8.30
+
+PM PK 15 MIN                         0    0.00                 457    17.00                          171     17.00              196    17.00
+
+AM PK HOUR                           0    0.00                 508     7.30                          757      7.45              353     8.15
+
+PM PK HOUR                           0    0.00                1676    17.00                          605     17.00              725    17.00
+
+
+
+
+NORTHBOUND Approach                                                  SOUTHBOUND Approach                                              TOTAL    XING S/L     XING N/L
+
+Hours           Lt          Th           Rt       Total              Hours              Lt          Th       Rt       Total            N-S      Ped   Sch    Ped   Sch
+7-8                  0               0        0           0          7-8                     0       437        27        464            464    121     5     94     5
+8-9                  0               0        0           0          8-9                     0       444        33        477            477     88     0     90     3
+9-10                 0               0        0           0          9-10                    0       352        40        392            392     81     2     68     0
+15-16                0               0        0           0          15-16                   0       739        57        796            796    123     4    129     2
+16-17                0               0        0           0          16-17                   0      1296        70      1366            1366    156     2    178     4
+17-18                0               0        0           0          17-18                   0      1562       114      1676            1676    104     4     94     0
+
+TOTAL                0               0        0           0          TOTAL                    0     4830       341      5171           5171     673   17     653   14
+
+
+EASTBOUND Approach                                                   WESTBOUND Approach                                               TOTAL    XING W/L     XING E/L
+
+Hours           Lt          Th           Rt       Total              Hours              Lt          Th       Rt       Total            E-W      Ped   Sch    Ped   Sch
+7-8                  0           411       91         502            7-8                     21      290          0       311            813     52    12    123     4
+8-9                  0           660       89         749            8-9                     23      327          0       350           1099     46     3     94     3
+9-10                 0           449       64         513            9-10                    33      281          0       314            827     24     1     50     0
+15-16                0           413      132         545            15-16                   28      358          0       386            931     65     1    101     5
+16-17                0           450      116         566            16-17                   49      457          0       506           1072     83     3    107     0
+17-18                0           490      115         605            17-18                   66      659          0       725           1330    215     0    118     0
+
+TOTAL                0         2873       607        3480            TOTAL               220        2372          0     2592           6072     485   20     593   12
+                                     Intersection Turning Movement
+                                                            Prepared by:
+                                             National Data & Surveying Services
+         Project ID: 14-5014-006                                                                                       Day: Wednesday
+                                                                            BIKES
+                 City: Los Angeles                                                                                    Date: 1/15/2014
+                                                                             AM
+     NS/EW Streets:             Flower St                  Flower St                     Pico Blvd                  Pico Blvd
+                              NORTHBOUND                  SOUTHBOUND                     EASTBOUND                  WESTBOUND
+
+                         NL           NT       NR    SL       ST       SR           EL      ET       ER        WL     WT        WR      TOTAL
+     LANES:              0             0        0    0         3        0           0        2        0        0       2         0
+
+          7:00   AM       0           1         0     0       0         0           0       7                  0       1         0        9
+          7:15   AM       0           0         0     0       3         0           1       0                  0       1         0        5
+          7:30   AM       0           1         0     0       0         1           0       2                  0       2         0        6
+          7:45   AM       0           2         1     0       3         0           1       2                  1       1         0       11
+          8:00   AM       1           1         1     0       2         0           2       1                  0       1         0        9
+          8:15   AM       0           2         2     0       0         0           0       8                  0       0         0       12
+          8:30   AM       0           0         1     0       0         0           0       4                  0       1         1        7
+          8:45   AM       0           1         0     0       2         0           0       9                  0       4         0       16
+          9:00   AM       0           0         2     1       1         0           0       1                  1       1         0        7
+          9:15   AM       0           0         0     0       1         0           0       0                  0       0         0        1
+          9:30   AM       0           0         1     0       1         0           0       2                  1       0         0        5
+          9:45   AM       0           0         2     0       2         0           1       0                  0       1         0        6
+
+                        NL        NT NR        SL     ST                SR        EL     ET           ER       WL      WT       WR      TOTAL
+   TOTAL VOLUMES :       1         8  10       1      15                 1         5     36            0        3      13        1        94
+    APPROACH %'s :     5.26% 42.11% 52.63%    5.88% 88.24%             5.88%    12.20% 87.80%        0.00%    17.65% 76.47%     5.88%
+                     nb a      nb d        sb a    sb d                        eb a   eb d                   wb a   nb d
+PEAK HR START TIME :       745 AM                                                                                                       TOTAL
+
+      PEAK HR VOL :       1           5         5    0        5        0            3      15        0         1       3        1        39
+
+   PEAK HR FACTOR :                  0.688                  0.417                          0.563                      0.625             0.813
+
+         CONTROL : Signalized
+                                      Intersection Turning Movement
+                                                             Prepared by:
+                                              National Data & Surveying Services
+         Project ID: 14-5014-006                                                                                        Day: Wednesday
+                                                                             BIKES
+                  City: Los Angeles                                                                                    Date: 1/15/2014
+                                                                              PM
+     NS/EW Streets:              Flower St                  Flower St                     Pico Blvd                  Pico Blvd
+                               NORTHBOUND                  SOUTHBOUND                     EASTBOUND                  WESTBOUND
+
+                          NL           NT       NR    SL       ST       SR           EL      ET       ER        WL     WT        WR      TOTAL
+     LANES:               0             0        0    0         3        0           0        2        0        0       2         0
+
+           3:00   PM       1           0         0             1         0           1       0         0        0       2                  5
+           3:15   PM       0           1         0             4         0           1       3         0        0       1                 10
+           3:30   PM       1           0         1             0         1           2       3         1        1       1                 11
+           3:45   PM       1           0         1             1         0           0       2         0        0       5                 10
+           4:00   PM       0           0         0             4         0           0       2         0        0       4                 10
+           4:15   PM       0           2         0             3         0           1       2         1        1       9                 19
+           4:30   PM       0           0         0             1         1           0       3         0        0       6                 11
+           4:45   PM       2           0         1             0         0           1       4         0        0       5                 13
+           5:00   PM       0           1         0             0         0           0       2         0        0       8                 11
+           5:15   PM       0           0         0             3         0           0       3         0        0       10                16
+           5:30   PM       2           1         0             6         0           0       2         0        0       9                 20
+           5:45   PM       0           0         0             2         0           0       3         0        0       7                 12
+
+                        NL        NT NR        SL     ST                 SR        EL     ET           ER       WL      WT       WR      TOTAL
+   TOTAL VOLUMES :       7         5  3        0      25                  2         6     29            2        2      67        0       148
+    APPROACH %'s :    46.67% 33.33% 20.00%    0.00% 92.59%              7.41%    16.22% 78.38%        5.41%     2.90% 97.10%     0.00%
+                     nb a      nb d        sb a    sb d                         eb a   eb d                   wb a   nb d
+PEAK HR START TIME :       500 PM                                                                                                        TOTAL
+
+      PEAK HR VOL :        2           2         0    0       11        0            0      10        0         0      34        0        59
+
+   PEAK HR FACTOR :                   0.333                  0.458                          0.833                      0.850             0.738
+
+         CONTROL : Signalized
+                                      Intersection Turning Movement
+                                                              Prepared by:
+                                              National Data & Surveying Services
+          Project ID: 14-5014-006                                                                                       Day: Wednesday
+                                                                             BUSES
+                  City: Los Angeles                                                                                     Date: 1/15/2014
+                                                                              AM
+     NS/EW Streets:               Flower St                  Flower St                    Pico Blvd                  Pico Blvd
+                                NORTHBOUND                  SOUTHBOUND                    EASTBOUND                  WESTBOUND
+
+                          NL            NT      NR     SL       ST       SR          EL      ET       ER        WL      WT       WR       TOTAL
+     LANES:               0              0       0     0         3        0          0        2        0        0        2        0
+
+           7:00   AM                                            5                            2                          2                   9
+           7:15   AM                                            7                            4                          3                  14
+           7:30   AM                                            7                            3                          3                  13
+           7:45   AM                                            4                            4                          2                  10
+           8:00   AM                                            5                            1                          3                   9
+           8:15   AM                                            4                            4                          1                   9
+           8:30   AM                                            7                            2                          2                  11
+           8:45   AM                                            7                            2                          2                  11
+           9:00   AM                                            3                            2                          1                   6
+           9:15   AM                                            4                            1                          1                   6
+           9:30   AM                                            4                            2                          2                   8
+           9:45   AM                                            4                            1                          1                   6
+
+                          NL            NT      NR       SL      ST       SR        EL      ET         ER       WL       WT      WR    TOTAL
+    TOTAL VOLUMES :       0              0       0       0       61        0         0      28          0        0       23       0     112
+     APPROACH %'s :                                     0.00% 100.00%    0.00%     0.00% 100.00%      0.00%     0.00% 100.00%    0.00%
+                       nb a       nb d               sb a     sb d               eb a    eb d                 wb a    nb d
+PEAK HR START TIME :           745 AM                                                                                                     TOTAL
+
+       PEAK HR VOL :       0            0        0      0      20        0           0      11        0         0       8        0         39
+
+   PEAK HR FACTOR :                   0.000                   0.714                         0.688                      0.667              0.886
+
+          CONTROL : Signalized
+                                      Intersection Turning Movement
+                                                              Prepared by:
+                                              National Data & Surveying Services
+          Project ID: 14-5014-006                                                                                        Day: Wednesday
+                                                                              BUSES
+                  City: Los Angeles                                                                                      Date: 1/15/2014
+                                                                               PM
+     NS/EW Streets:               Flower St                  Flower St                     Pico Blvd                  Pico Blvd
+                                NORTHBOUND                  SOUTHBOUND                     EASTBOUND                  WESTBOUND
+
+                          NL            NT      NR     SL       ST       SR           EL      ET       ER        WL      WT       WR       TOTAL
+     LANES:               0              0       0     0         3        0           0        2        0        0        2        0
+
+           3:00   PM                                            1         0                   0         0                3                   4
+           3:15   PM                                            3         0                   3         0                0                   6
+           3:30   PM                                            2         0                   2         0                2                   6
+           3:45   PM                                            4         1                   3         1                3                  12
+           4:00   PM                                            8         0                   2         0                2                  12
+           4:15   PM                                            5         0                   6         2                3                  16
+           4:30   PM                                            4         0                   3         0                2                   9
+           4:45   PM                                            9         0                   2         0                3                  14
+           5:00   PM                                            7         0                   1         0                1                   9
+           5:15   PM                                            6         1                   3         0                2                  12
+           5:30   PM                                            5         1                   1         0                2                   9
+           5:45   PM                                            6         0                   3         0                2                  11
+
+                          NL            NT      NR       SL     ST        SR        EL     ET           ER       WL       WT      WR    TOTAL
+    TOTAL VOLUMES :       0              0       0       0      60         3         0     29            3        0       25       0     120
+     APPROACH %'s :                                     0.00% 95.24%     4.76%     0.00% 90.63%        9.38%     0.00% 100.00%    0.00%
+                       nb a       nb d               sb a    sb d                eb a   eb d                   wb a    nb d
+PEAK HR START TIME :           500 PM                                                                                                      TOTAL
+
+       PEAK HR VOL :       0            0        0     0       24        2            0       8        0         0       7        0         41
+
+   PEAK HR FACTOR :                   0.000                   0.929                          0.667                      0.875              0.854
+
+          CONTROL : Signalized
+                                      Intersection Turning Movement
+                                                              Prepared by:
+                                              National Data & Surveying Services
+          Project ID: 14-5014-006                                                                                 Day: Wednesday
+                                                                         HEAVY TRUCKS
+                  City: Los Angeles                                                                              Date: 1/15/2014
+                                                                               AM
+     NS/EW Streets:               Flower St                  Flower St                   Pico Blvd             Pico Blvd
+                                NORTHBOUND                  SOUTHBOUND                   EASTBOUND             WESTBOUND
+
+                          NL            NT      NR     SL       ST        SR        EL      ET       ER   WL     WT        WR      TOTAL
+     LANES:               0              0       0     0         3         0        0        2        0   0       2         0
+
+           7:00   AM                                            2          0                1        3    0       2                  8
+           7:15   AM                                            1          0                3        2    1       1                  8
+           7:30   AM                                            3          0                0        1    0       0                  4
+           7:45   AM                                            4          0                0        0    0       0                  4
+           8:00   AM                                            3          1                0        1    0       3                  8
+           8:15   AM                                            3          0                0        2    1       2                  8
+           8:30   AM                                            1          1                2        1    0       2                  7
+           8:45   AM                                            4          0                3        1    1       2                 11
+           9:00   AM                                            4          1                4        0    1       4                 14
+           9:15   AM                                            3          2                0        2    0       0                  7
+           9:30   AM                                            1          0                2        4    0       4                 11
+           9:45   AM                                            1          1                2        0    0       1                  5
+
+                          NL            NT      NR       SL     ST     SR      EL     ET     ER    WL      WT              WR    TOTAL
+    TOTAL VOLUMES :       0              0       0       0      30      6       0     17     17     4      21               0      95
+     APPROACH %'s :                                     0.00% 83.33% 16.67%   0.00% 50.00% 50.00% 16.00% 84.00%            0.00%
+                       nb a       nb d               sb a    sb d           eb a   eb d          wb a   nb d
+PEAK HR START TIME :           745 AM                                                                                              TOTAL
+
+       PEAK HR VOL :       0            0        0     0       11         2         0       2        4    1       7        0        27
+
+   PEAK HR FACTOR :                   0.000                   0.813                        0.500                 0.667             0.844
+
+          CONTROL : Signalized
+                                      Intersection Turning Movement
+                                                              Prepared by:
+                                              National Data & Surveying Services
+          Project ID: 14-5014-006                                                                                 Day: Wednesday
+                                                                         HEAVY TRUCKS
+                  City: Los Angeles                                                                              Date: 1/15/2014
+                                                                               PM
+     NS/EW Streets:               Flower St                  Flower St                   Pico Blvd             Pico Blvd
+                                NORTHBOUND                  SOUTHBOUND                   EASTBOUND             WESTBOUND
+
+                          NL            NT      NR     SL       ST        SR        EL      ET       ER   WL     WT        WR      TOTAL
+     LANES:               0              0       0     0         3         0        0        2        0   0       2         0
+
+           3:00   PM                                            2          0                2        0    3       5                 12
+           3:15   PM                                            0          1                0        0    1       0                  2
+           3:30   PM                                            2          0                1        2    1       0                  6
+           3:45   PM                                            3          0                3        1    0       0                  7
+           4:00   PM                                            4          0                4        3    0       1                 12
+           4:15   PM                                            3          0                3        0    2       0                  8
+           4:30   PM                                            1          0                1        1    0       0                  3
+           4:45   PM                                            2          0                1        0    0       1                  4
+           5:00   PM                                            1          0                0        0    0       0                  1
+           5:15   PM                                            1          0                0        0    0       0                  1
+           5:30   PM                                            1          0                0        0    0       0                  1
+           5:45   PM                                            1          0                0        1    0       4                  6
+
+                          NL            NT      NR       SL     ST         SR        EL     ET     ER    WL      WT        WR    TOTAL
+    TOTAL VOLUMES :       0              0       0       0      21          1         0     15      8     7      11         0      63
+     APPROACH %'s :                                     0.00% 95.45%      4.55%     0.00% 65.22% 34.78% 38.89% 61.11%      0.00%
+                       nb a       nb d               sb a    sb d                 eb a   eb d          wb a   nb d
+PEAK HR START TIME :           500 PM                                                                                              TOTAL
+
+       PEAK HR VOL :       0            0        0     0        4         0         0       0        1    0       4        0        9
+
+   PEAK HR FACTOR :                   0.000                   1.000                        0.250                 0.250             0.375
+
+          CONTROL : Signalized
+

@@ -1,0 +1,288 @@
+                          City Of Los Angeles
+                          Department Of Transportation
+                          MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South               Highland Ave
+
+East/West                 Hollywood Blvd
+
+Day:                      Thursday                 Date:        January 16, 2014                 Weather:             SUNNY
+
+Hours:        7-10 & 3-6                                                        Chekrs:          NDS
+
+School Day:               YES                      District:                                       I/S CODE
+
+
+                                  N/B                           S/B                                 E/B                         W/B
+DUAL-
+WHEELED                           202                           198                                 111                          104
+BIKES                              48                            48                                  56                           46
+BUSES                              36                            40                                 122                          119
+
+
+                                  N/B    TIME                   S/B    TIME                         E/B     TIME                W/B     TIME
+
+AM PK 15 MIN                      436     8.15                  546      7.15                       193       8.30               298     7.30
+
+PM PK 15 MIN                      428    16.00                  439     15.45                       289     17.15                182    17.30
+
+AM PK HOUR                      1559      8.15                 2034      7.00                       635       8.15              1131     7.30
+
+PM PK HOUR                      1608     15.15                 1625     15.00                      1072     17.00                654    17.00
+
+
+
+
+NORTHBOUND Approach                                                   SOUTHBOUND Approach                                              TOTAL    XING S/L     XING N/L
+
+Hours           Lt           Th          Rt        Total              Hours               Lt       Th       Rt Total                    N-S      Ped   Sch    Ped   Sch
+7-8                  29       1161            32      1222            7-8                   25     1783      226  2034                   3256    193     1    223     2
+8-9                  21       1455            37      1513            8-9                   43     1628      207  1878                   3391    317     2    366     0
+9-10                 35       1300            67      1402            9-10                  38     1644      171  1853                   3255    363     2    382     0
+15-16                37       1420            87      1544            15-16                 82     1401      142  1625                   3169    880     6    735     0
+16-17                44       1398            59      1501            16-17                 59     1288      124  1471                   2972    796    21   1089    25
+17-18                41       1312            66      1419            17-18                 88     1379      150  1617                   3036    849    27   1048    31
+
+TOTAL             207           8046       348        8601            TOTAL               335      9123     1020       10478            19079   3398   59    3843   58
+
+
+EASTBOUND Approach                                                    WESTBOUND Approach                                               TOTAL    XING W/L     XING E/L
+
+Hours           Lt           Th          Rt        Total              Hours               Lt       Th       Rt        Total             E-W      Ped   Sch    Ped   Sch
+7-8              110              284         20       414            7-8                  207      751          47      1005            1419    368     0    143     2
+8-9              174              399         37       610            8-9                  216      780          70      1066            1676    414     0    255     0
+9-10             147              409         44       600            9-10                 209      678          95       982            1582    403     1    291     2
+15-16            217              601         71       889            15-16                114      431          71       616            1505    878     0    397     3
+16-17            214              687         59       960            16-17                124      437          72       633            1593   1022    24    488    11
+17-18            237              752         83      1072            17-18                120      453          81       654            1726   1025    25    542     9
+
+TOTAL           1099            3132       314        4545            TOTAL               990      3530       436       4956             9501   4110   50    2116   27
+                                    Intersection Turning Movement
+                                                               Prepared by:
+                                            National Data & Surveying Services
+         Project ID: 14-5006-004                                                                                                    Day: Thursday
+                                                                                 BIKES
+                  City: Hollywood                                                                                                  Date: 1/16/2014
+                                                                                  AM
+     NS/EW Streets:            Highland Ave                  Highland Ave                     Hollywood Blvd                  Hollywood Blvd
+
+                               NORTHBOUND                    SOUTHBOUND                        EASTBOUND                       WESTBOUND
+
+                          NL         NT       NR        SL       ST         SR           EL        ET          ER        WL        WT          WR      TOTAL
+     LANES:               1           3        0        1         3          0           1          2           0        1          2           0
+
+           7:00   AM       0         1         0         0        0          0           0          0           0        1          0           0        2
+           7:15   AM       0         3         0         0        3          0           0          1           0        0          0           0        7
+           7:30   AM       0         0         0         1        2          0           0          1           0        0          1           0        5
+           7:45   AM       0         0         0         0        0          0           0          2           0        0          0           0        2
+           8:00   AM       0         0         0         0        2          0           0          1           0        0          1           0        4
+           8:15   AM       1         1         0         0        0          0           0          0           0        1          0           1        4
+           8:30   AM       0         4         0         0        3          0           0          0           0        0          1           0        8
+           8:45   AM       1         0         0         0        1          1           1          1           0        1          2           0        8
+           9:00   AM       0         2         0         0        2          0           0          1           0        0          1           0        6
+           9:15   AM       0         0         0         1        2          0           0          1           0        0          1           0        5
+           9:30   AM       0         0         0         0        1          0           0          1           1        0          1           0        4
+           9:45   AM       1         3         1         0        2          0           0          3           0        0          1           0       11
+
+                        NL        NT          NR          SL     ST          SR        EL     ET                ER       WL      WT            WR      TOTAL
+    TOTAL VOLUMES :      3        14           1          2      18           1         1     12                 1        3       9             1        66
+     APPROACH %'s :   16.67% 77.78%           5.56%      9.52% 85.71%       4.76%     7.14% 85.71%             7.14%    23.08% 69.23%          7.69%
+                     nb a      nb d                   sb a    sb d                  eb a   eb d                        wb a   nb d
+PEAK HR START TIME :       815 AM                                                                                                                      TOTAL
+
+      PEAK HR VOL :       2          7         0        0         6         1            1          2          0         2          4          1        26
+
+   PEAK HR FACTOR :                 0.563                       0.583                             0.375                           0.583                0.813
+
+         CONTROL : Signalized
+                                    Intersection Turning Movement
+                                                               Prepared by:
+                                            National Data & Surveying Services
+         Project ID: 14-5006-004                                                                                                    Day: Thursday
+                                                                                 BIKES
+                  City: Hollywood                                                                                                  Date: 1/16/2014
+                                                                                  PM
+     NS/EW Streets:            Highland Ave                  Highland Ave                     Hollywood Blvd                  Hollywood Blvd
+
+                               NORTHBOUND                    SOUTHBOUND                        EASTBOUND                       WESTBOUND
+
+                          NL         NT       NR        SL       ST         SR           EL        ET          ER        WL        WT          WR      TOTAL
+     LANES:               1           3        0        1         3          0           1          2           0        1          2           0
+
+           3:00   PM       0         1         0        0         1                                 2           1        0          3                    8
+           3:15   PM       1         0         1        0         2                                 2           0        2          2                   10
+           3:30   PM       1         0         0        1         0                                 0           0        0          1                    3
+           3:45   PM       0         1         0        0         0                                 1           0        2          0                    4
+           4:00   PM       0         3         0        0         3                                 3           0        0          1                   10
+           4:15   PM       0         4         0        0         1                                 4           0        0          3                   12
+           4:30   PM       0         1         0        0         0                                 2           0        0          3                    6
+           4:45   PM       0         2         0        2         3                                 4           0        0          5                   16
+           5:00   PM       0         2         0        0         3                                 3           0        0          7                   15
+           5:15   PM       0         5         0        0         3                                 9           1        0          1                   19
+           5:30   PM       0         6         0        0         1                                 0           2        0          1                   10
+           5:45   PM       0         2         0        0         7                                 8           0        0          2                   19
+
+                        NL        NT          NR         SL     ST           SR        EL     ET                ER       WL      WT            WR      TOTAL
+    TOTAL VOLUMES :      2        27           1          3     24            0         0     38                 4        4      29             0       132
+     APPROACH %'s :    6.67% 90.00%           3.33%    11.11% 88.89%        0.00%     0.00% 90.48%             9.52%    12.12% 87.88%          0.00%
+                     nb a      nb d                   sb a   sb d                   eb a   eb d                        wb a   nb d
+PEAK HR START TIME :       500 PM                                                                                                                      TOTAL
+
+      PEAK HR VOL :       0         15         0        0        14         0            0         20          3         0         11          0        63
+
+   PEAK HR FACTOR :                 0.625                       0.500                             0.575                           0.393                0.829
+
+         CONTROL : Signalized
+                                   Intersection Turning Movement
+                                                          Prepared by:
+                                           National Data & Surveying Services
+         Project ID: 14-5006-004                                                                                         Day: Thursday
+                                                                           BUSES
+                 City: Hollywood                                                                                        Date: 1/16/2014
+                                                                            AM
+     NS/EW Streets:           Highland Ave              Highland Ave                    Hollywood Blvd             Hollywood Blvd
+
+                              NORTHBOUND                SOUTHBOUND                       EASTBOUND                  WESTBOUND
+
+                         NL         NT       NR    SL       ST         SR          EL        ET          ER   WL        WT          WR      TOTAL
+     LANES:              1           3        0    1         3          0          1          2           0   1          2           0
+
+          7:00   AM                 1         1              1         2           0          5          2    1          3           0       16
+          7:15   AM                 1         0              3         1           2          5          1    0          4           0       17
+          7:30   AM                 1         1              1         0           0          4          1    0          7           0       15
+          7:45   AM                 0         0              0         0           1          5          1    1          3           0       11
+          8:00   AM                 2         0              3         0           0          7          2    0          3           0       17
+          8:15   AM                 2         0              0         0           0          3          1    1          4           0       11
+          8:30   AM                 0         0              2         0           0          5          1    0          2           1       11
+          8:45   AM                 2         0              0         0           0          3          0    0          9           1       15
+          9:00   AM                 2         0              2         0           0          1          0    0          2           0        7
+          9:15   AM                 1         0              2         0           0          6          0    3          5           0       17
+          9:30   AM                 2         0              1         0           1          5          1    0          4           0       14
+          9:45   AM                 1         0              0         3           0          2          1    0          4           0       11
+
+                        NL        NT NR        SL     ST     SR      EL     ET     ER    WL      WT                                 WR      TOTAL
+   TOTAL VOLUMES :       0        15  2        0      15      6       4     51     11     6      50                                  2       162
+    APPROACH %'s :     0.00% 88.24% 11.76%    0.00% 71.43% 28.57%   6.06% 77.27% 16.67% 10.34% 86.21%                               3.45%
+                     nb a      nb d        sb a    sb d           eb a   eb d          wb a   nb d
+PEAK HR START TIME :       815 AM                                                                                                           TOTAL
+
+      PEAK HR VOL :      0          6         0    0         4         0           0         12          2    1         17          2        44
+
+   PEAK HR FACTOR :                0.750                   0.500                            0.583                      0.500                0.733
+
+         CONTROL : Signalized
+                                    Intersection Turning Movement
+                                                               Prepared by:
+                                            National Data & Surveying Services
+         Project ID: 14-5006-004                                                                                              Day: Thursday
+                                                                                BUSES
+                  City: Hollywood                                                                                            Date: 1/16/2014
+                                                                                 PM
+     NS/EW Streets:            Highland Ave                  Highland Ave                    Hollywood Blvd             Hollywood Blvd
+
+                               NORTHBOUND                    SOUTHBOUND                       EASTBOUND                  WESTBOUND
+
+                          NL         NT       NR        SL       ST         SR          EL        ET          ER   WL        WT          WR      TOTAL
+     LANES:               1           3        0        1         3          0          1          2           0   1          2           0
+
+           3:00   PM                 1         1                  0                     0          4          1    1          8           1       17
+           3:15   PM                 3         0                  0                     0          5          1    0          1           0       10
+           3:30   PM                 1         0                  4                     0          3          3    0          7           0       18
+           3:45   PM                 1         0                  7                     0          3          1    0          4           0       16
+           4:00   PM                 2         0                  2                     0          6          0    1          2           0       13
+           4:15   PM                 2         0                  0                     0          4          0    1          6           0       13
+           4:30   PM                 3         0                  2                     0          4          0    2          5           0       16
+           4:45   PM                 1         0                  0                     0          5          0    0          6           0       12
+           5:00   PM                 2         0                  2                     1          2          2    0          4           0       13
+           5:15   PM                 1         0                  0                     0          4          1    2          1           0        9
+           5:30   PM                 1         0                  2                     0          2          1    1          4           0       11
+           5:45   PM                 0         0                  0                     0          2          1    1          3           0        7
+
+                        NL        NT          NR          SL      ST         SR        EL     ET     ER    WL      WT                    WR      TOTAL
+    TOTAL VOLUMES :      0        18           1          0       19          0         1     44     11     9      51                     1       155
+     APPROACH %'s :    0.00% 94.74%           5.26%      0.00% 100.00%      0.00%     1.79% 78.57% 19.64% 14.75% 83.61%                  1.64%
+                     nb a      nb d                   sb a     sb d                 eb a   eb d          wb a   nb d
+PEAK HR START TIME :       500 PM                                                                                                                TOTAL
+
+      PEAK HR VOL :       0          4         0         0        4         0           1         10          5    4         12          0        40
+
+   PEAK HR FACTOR :                 0.500                       0.500                            0.800                      0.800                0.769
+
+         CONTROL : Signalized
+                                    Intersection Turning Movement
+                                                               Prepared by:
+                                            National Data & Surveying Services
+         Project ID: 14-5006-004                                                                                                 Day: Thursday
+                                                                        HEAVY TRUCKS
+                  City: Hollywood                                                                                               Date: 1/16/2014
+                                                                                 AM
+     NS/EW Streets:            Highland Ave                  Highland Ave                  Hollywood Blvd                  Hollywood Blvd
+
+                               NORTHBOUND                    SOUTHBOUND                     EASTBOUND                       WESTBOUND
+
+                          NL         NT       NR        SL       ST         SR        EL        ET          ER        WL        WT          WR    TOTAL
+     LANES:               1           3        0        1         3          0        1          2           0        1          2           0
+
+           7:00   AM       0         6         0        1        5          2         0          4           0        0          6          2      26
+           7:15   AM       0         7         0        2        7          1         1          1           0        0          4          0      23
+           7:30   AM       1         9         1        1        12         2         5          4           0        2          6          2      45
+           7:45   AM       0         12        1        0        6          2         2          4           0        0          4          0      31
+           8:00   AM       0         11        0        1        11         4         1          1           1        2          5          3      40
+           8:15   AM       0         8         0        2        8          0         1          0           2        0          5          1      27
+           8:30   AM       1         5         0        2        6          4         5          3           0        3          6          1      36
+           8:45   AM       0         7         0        0        12         2         3          2           0        3          3          4      36
+           9:00   AM       1         9         1        1        11         3         4          5           1        1          2          1      40
+           9:15   AM       0         8         1        0        13         4         3          2           0        3          4          4      42
+           9:30   AM       0         8         4        1        12         0         0          2           0        3          2          3      35
+           9:45   AM       0         14        1        0        16         0         0          5           2        0          2          3      43
+
+                        NL        NT          NR          SL     ST     SR     EL     ET                     ER       WL      WT    WR    TOTAL
+    TOTAL VOLUMES :      3       104           9          11     119    24     25     33                      6        17     49     24    424
+     APPROACH %'s :    2.59% 89.66%           7.76%      7.14% 77.27% 15.58% 39.06% 51.56%                  9.38%    18.89% 54.44% 26.67%
+                     nb a      nb d                   sb a    sb d          eb a   eb d                             wb a   nb d
+PEAK HR START TIME :       815 AM                                                                                                         TOTAL
+
+      PEAK HR VOL :       2         29         1        5        37         9         13        10          3         7         16          7     139
+
+   PEAK HR FACTOR :                 0.727                       0.850                          0.650                           0.750              0.869
+
+         CONTROL : Signalized
+                                    Intersection Turning Movement
+                                                               Prepared by:
+                                            National Data & Surveying Services
+         Project ID: 14-5006-004                                                                                                 Day: Thursday
+                                                                        HEAVY TRUCKS
+                  City: Hollywood                                                                                               Date: 1/16/2014
+                                                                                 PM
+     NS/EW Streets:            Highland Ave                  Highland Ave                  Hollywood Blvd                  Hollywood Blvd
+
+                               NORTHBOUND                    SOUTHBOUND                     EASTBOUND                       WESTBOUND
+
+                          NL         NT       NR        SL       ST         SR        EL        ET          ER        WL        WT          WR    TOTAL
+     LANES:               1           3        0        1         3          0        1          2           0        1          2           0
+
+           3:00   PM       0         12        0        0         4         1         1          3           0        0          1          0      22
+           3:15   PM       0         9         1        0         4         0         1          2           0        0          1          0      18
+           3:30   PM       1         7         0        0         5         3         1          5           0        0          0          2      24
+           3:45   PM       0         6         1        0         5         1         2          4           1        0          0          1      21
+           4:00   PM       0         10        0        0         3         0         3          2           1        0          1          0      20
+           4:15   PM       0         6         0        0         2         0         3          2           1        0          1          0      15
+           4:30   PM       0         4         0        0         2         0         2          2           0        1          0          1      12
+           4:45   PM       0         6         0        0         3         0         0          1           0        0          1          0      11
+           5:00   PM       0         3         1        1         2         0         0          1           0        0          0          0       8
+           5:15   PM       0         5         3        0         3         0         1          1           0        1          2          0      16
+           5:30   PM       0         6         0        0         1         0         1          5           0        0          0          0      13
+           5:45   PM       0         4         1        0         4         0         0          1           0        0          1          0      11
+
+                        NL        NT          NR          SL     ST     SR     EL     ET                     ER       WL      WT    WR    TOTAL
+    TOTAL VOLUMES :      1        78           7          1      38      5     15     29                      3        2       8     4     191
+     APPROACH %'s :    1.16% 90.70%           8.14%      2.27% 86.36% 11.36% 31.91% 61.70%                  6.38%    14.29% 57.14% 28.57%
+                     nb a      nb d                   sb a    sb d          eb a   eb d                             wb a   nb d
+PEAK HR START TIME :       500 PM                                                                                                         TOTAL
+
+      PEAK HR VOL :       0         18         5        1        10         0         2          8          0         1          3          0      48
+
+   PEAK HR FACTOR :                 0.719                       0.688                          0.417                           0.333              0.750
+
+         CONTROL : Signalized
+

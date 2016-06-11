@@ -1,0 +1,63 @@
+                        City Of Los Angeles
+                        Department Of Transportation
+                        MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South             GAFFEY ST
+
+East/West               ANAHEIM ST
+
+Day:        WEDNESDAY                         Date:        February 7, 2007              Weather:              CLEAR
+
+Hours:      7-10AM 3-6PM
+
+School Day:             YES                   District:              SOUTHERN              I/S CODE 0248029660
+
+
+                         N/B                               S/B                            E/B                               W/B
+DUAL-
+WHEELED                       97                                 0                              0                             0
+BIKES                          9                                 0                              0                             0
+BUSES                          1                                 0                              0                             0
+
+
+                        N/B        TIME                    S/B       TIME                E/B        TIME                    W/B TIME
+
+AM PK 15 MIN              252       8.00                         0 7.00                         0    7.00                     0     7.00
+
+PM PK 15 MIN              189       3.00                         0 3.00                         0    3.00                     0     3.00
+
+AM PK HOUR                860       7.45                         0 7.00                         0    7.00                     0     7.00
+
+PM PK HOUR                677       3.00                         0 3.00                         0    3.00                     0     3.00
+
+
+
+
+NORTHBOUND Approach                                                  SOUTHBOUND Approach                                          TOTAL      XING S/L   XING N/L
+
+Hours          Lt        Th         Rt         Total                 Hours      Lt        Th         Rt         Total              N-S       Ped Sch    Ped Sch
+7-8            149        408         92         649                 7-8             0          0          0            0            649        1   0      0   0
+8-9            162        572         93         827                 8-9             0          0          0            0            827        1   0      0   0
+9-10           140        317         82         539                 9-10            0          0          0            0            539        1   0      0   0
+3-4            142        402       133          677                 3-4             0          0          0            0            677        1   0      0   0
+4-5            119        362       104          585                 4-5             0          0          0            0            585        1   0      0   0
+5-6            124        383         94         601                 5-6             0          0          0            0            601        0   0      0   0
+
+TOTAL          836       2444        598         3878                TOTAL           0          0          0            0          3878         5   0      0   0
+
+
+EASTBOUND Approach                                                   WESTBOUND Approach                                           TOTAL      XING W/L   XING E/L
+
+Hours          Lt        Th         Rt         Total                 Hours      Lt        Th         Rt         Total              E-W       Ped Sch    Ped Sch
+7-8                 0          0          0            0             7-8             0          0          0            0                0      0   0      0   0
+8-9                 0          0          0            0             8-9             0          0          0            0                0      0   0      0   0
+9-10                0          0          0            0             9-10            0          0          0            0                0      0   0      0   0
+3-4                 0          0          0            0             3-4             0          0          0            0                0      0   0      0   0
+4-5                 0          0          0            0             4-5             0          0          0            0                0      0   0      0   0
+5-6                 0          0          0            0             5-6             0          0          0            0                0      0   0      0   0
+
+TOTAL               0          0          0            0             TOTAL           0          0          0            0                0      0   0      0   0
+
+
+            (Rev Oct 06)
+

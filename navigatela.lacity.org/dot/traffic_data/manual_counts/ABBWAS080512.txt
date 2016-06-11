@@ -1,0 +1,61 @@
+                     City Of Los Angeles
+                     Department Of Transportation
+                     MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South          ABBOT KINNEY BL
+
+East/West            WASHINGTON WAY
+
+Day:          MONDAY                    Date:         May 12, 2008             Weather:            SUNNY
+
+Hours:        10AM-1PM 3-6PM                                        Chekrs:              YOUNG
+
+School Day:          YES                District:         WESTERN                I/S CODE 51866
+
+
+                      N/B                           S/B                          E/B                         W/B
+DUAL-
+WHEELED                50                            46                            3                           0
+BIKES                  63                             1                           41                           0
+BUSES                   0                             1                            0                           0
+
+
+                      N/B TIME                      S/B TIME                     E/B TIME                    W/B TIME
+
+AM PK 15 MIN          160      12.00                 83 12.30                     23 11.45                     0    10.00
+
+PM PK 15 MIN          220       5.30                154    4.30                   16      5.15                 0     3.00
+
+AM PK HOUR            620      12.00                296 10.45                     54 11.00                     0    10.00
+
+PM PK HOUR            804       4.45                585    5.00                   49      3.30                 0     3.00
+
+
+
+NORTHBOUND Approach                                       SOUTHBOUND Approach                                      TOTAL    XING S/L       XING N/L
+
+Hours          Lt     Th       Rt       Total             Hours       Lt        Th        Rt Total                  N-S        Ped Sch       Ped   Sch
+10-11            8    525           0     533             10-11            0     247       10   257                  790         9   0         4     0
+11-12           11    526           0     537             11-12            0     259        9   268                  805         5   0         1     0
+12-1             5    615           0     620             12-1             0     280        9   289                  909         7   0         3     0
+3-4             13    621           0     634             3-4              0     481       14   495                 1129         0   0         5     1
+4-5              9    718           0     727             4-5              0     540       15   555                 1282         6   0         1     0
+5-6             15    788           0     803             5-6              0     570       15   585                 1388         0   0         7     0
+
+TOTAL          61 3793              0 3854                TOTAL            0 2377          72        2449           6303       27      0      21      1
+
+
+EASTBOUND Approach                                        WESTBOUND Approach                                       TOTAL    XING W/L       XING E/L
+             WASHINGTON WAY                                                                        NONE
+Hours    Lt Th     Rt Total                               Hours       Lt        Th        Rt       Total           E-W         Ped Sch       Ped   Sch
+10-11      8    0    43  51                               10-11            0         0         0         0            51         7   0         0     0
+11-12      9    0    45  54                               11-12            0         0         0         0            54         7   0         0     0
+12-1       4    0    34  38                               12-1             0         0         0         0            38         5   0         0     0
+3-4        5    0    36  41                               3-4              0         0         0         0            41         8   0         0     0
+4-5        0    0    41  41                               4-5              0         0         0         0            41         9   0         0     0
+5-6        4    0    38  42                               5-6              0         0         0         0            42         6   0         0     0
+
+TOTAL          30          0    237       267             TOTAL            0         0         0        0            267       42      0       0      0
+
+              (Rev Oct 06)
+

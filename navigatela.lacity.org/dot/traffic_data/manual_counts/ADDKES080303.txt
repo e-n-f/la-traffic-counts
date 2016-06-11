@@ -1,0 +1,228 @@
+                       City Of Los Angeles
+                       Department Of Transportation
+                       MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South            KESTER AV
+
+East/West              ADDISON ST
+
+Day:        MONDAY                      Date:       MARCH 3, 2008                    Weather:            SUNNY
+
+Hours:      7-10AM 3-6PM                                            Chekrs:          JCJ
+
+School Day:            YES              District:           EAST VALLEY                I/S CODE 31204
+
+
+                        N/B                           S/B                              E/B                        W/B
+DUAL-
+WHEELED                  24                            53                                   0                       2
+BIKES                     4                             2                                   0                       0
+BUSES                     0                            65                                   0                       0
+
+
+                        N/B TIME                      S/B TIME                         E/B TIME                   W/B TIME
+
+AM PK 15 MIN             98      8.30                 442    7.45                           8   8.15               23    7.45
+
+PM PK 15 MIN            270      4.15                 203    3.45                           4   5.30               27    4.45
+
+AM PK HOUR              321      7.15                1641    7.15                          15   8.00               55    7.15
+
+PM PK HOUR              936      4.00                 727    5.00                           9   5.00               72    4.00
+
+
+
+NORTHBOUND Approach                                         SOUTHBOUND Approach                                         TOTAL   XING S/L   XING N/L
+
+Hours         Lt        Th       Rt     Total               Hours             Lt  Th            Rt       Total           N-S     Ped Sch    Ped   Sch
+7-8             3        281       2       286              7-8                33 1527               2     1562          1848      0   0      0     0
+8-9             6        288       3       297              8-9                70 1525               4     1599          1896      0   0      0     0
+9-10            4        197       2       203              9-10               33 1006               2     1041          1244      0   0      0     0
+3-4             2        690      11       703              3-4                38 598                6      642          1345      0   0      0     0
+4-5             6        923       7       936              4-5                33 652                1      686          1622      0   0      0     0
+5-6            10        628       7       645              5-6                40 681                6      727          1372      0   0      0     0
+
+TOTAL          31 3007            32      3070              TOTAL             247 5989           21        6257          9327      0   0      0    0
+
+
+EASTBOUND Approach                                          WESTBOUND Approach                                          TOTAL   XING W/L   XING E/L
+
+Hours         Lt        Th       Rt     Total               Hours             Lt      Th        Rt Total                E-W      Ped Sch    Ped   Sch
+7-8                1         0     2          3             7-8                20           2    22     44                 47      2   1      0     0
+8-9                2         0    13         15             8-9                  8          1    18     27                 42      0   0      2     0
+9-10               0         0     4          4             9-10               10           0    15     25                 29      4   0      5     0
+3-4                1         0     2          3             3-4                19           0    39     58                 61      9   0      5     3
+4-5                0         0     5          5             4-5                18          12    42     72                 77     13   1     13     0
+5-6                0         1     8          9             5-6                  4          2    34     40                 49      5   0      3     0
+
+TOTAL              4         1    34         39             TOTAL              79          17   170         266           305     33   2     28    3
+
+            (Rev Oct 06)
+      TRAFFIC SIGNAL WARRANTS
+                                                                                                                                          CALC DATE:                  MARCH 3, 2008
+                                                                                                                                          CHK DATE:
+
+                                                                                                                                 DISTRICT:                           EAST VALLEY
+Major St:                 KESTER AV                                                                            Critical Approach Speed:                                                mph
+Minor St:                 ADDISON ST                                                                           Critical Approach Speed:                                                mph
+
+Critical speed of major street traffic >=40 mph
+                             OR
+In built up area of isolated community of =< 10,000 population                                                             ........... ...........       RURAL(R)
+                             OTHERWISE         ........... ........... ...........                             ........... ........... ...........       URBAN (U)
+WARRANT 1- Minimum Vehicular Volume                                                                            100% SATISFIED                             YES                     NO
+                                                                                                               80% SATISFIED                              YES                     NO
+
+                          MINIMUM REQUIREMENTS
+                          (80% SHOWN IN BRACKETS)
+
+
+APPROACH          U       R                               U      R                                             Hour
+LANES                 1                                 2 or  more                     7-8          8-9         9-10           3-4          4-5           5-6
+Both Approaches 500      350                             600    420
+Major Street    (400)   (280)                           (480)  (336)                    1848         1896           1244         1345        1622          1372
+Highest Approch 150      105                             200    140
+Minor street    (120)    (84)                           (160)  (112)                         44           27           25            58           72            40
+
+NOTE: Heavier left turn movement from Major Street included when LT-phasing is proposed
+
+WARRANT2- Interruption of ContinuousTraffic                                                                    100% SATISFIED                             YES                     NO
+                                                                                                               80% SATISFIED                              YES                     NO
+
+                          MINIMUM REOUIREMENTS
+                          (80% SHOWN IN BRACKETS)
+
+
+APPROACH           U         R       U       R                        Hour
+LANES                    1        2 or   more         7-8      8-9     9-10      3-4     4-5                                                              5-6
+Both Approaches 750         525     900     630
+Major Street     (600)     (420)   (720)   (504)       1848     1896     1244     1345    1622                                                             1372
+HighestApprch      75        53     100      70
+Minor Street      (60)      (42)    (80)    (56)          44       27      25        58      72                                                                 40
+*NOTE: Heavier left turn movement from Major Street included when LT-phasing is proposed
+
+WARRANT 3- Minimum Pedetrian Volume                                                                            100% SATISFIED                             YES                     NO
+                                                                                                               80% SATISFIED                              YES                     NO
+
+                          MINIMUM REQUIREMENTS
+                          (80% SHOWN IN BRACKETS)
+
+                                                                                                               Hour
+                                                           U             R             7-8          8-9         9-10           3-4          4-5           5-6
+Both Approaches no                                        600           420
+Major Street     median                                  (480)         (336)            1848         1896           1244         1345        1622          1372
+                 Raised                                  1000           700
+Volume           4'median                                (800)         (560)
+Peds on highest volume                                    150           105
+x-walk xing major st                                     (120)          (84)                 0             0             0            0              0          0
+
+IF MIDBLOCK SIGNAL PROPOSED
+MIN. REOUIREMENT DISTANCE TO NEAREST ESTABLISHED CROSSWALK                                                                                                           FULFILLED
+   150 FEET          N/E:      FT             S/W:       FT                                                                                               YES                NO
+
+The satisfaction of a warrant is not necessarily justification for a signal.   Delay, congestion, confusion or other evidence of the need for right of way assignment must be shown.
+TRAFFIC SIGNAL WARRANTS                                                                                                  Page 2
+
+
+WARRANT 4 - Schools Crossings                                      Not Applicable
+                                                                   See School Crossings Warrant Sheet
+
+
+WARRANT 5 - Progressive Movement                                             SATISFIED             YES              NO
+
+MINIMUM REQUIREMENTS        DISTANCE TO NEAREST SIGNAL                         FULFILLED
+> 1000 ft                               N     S       E      W                 YES    NO
+ON ONE WAY ISOLATED ST. OR ST. WITH ONE WAY TRAFFIC SIGNIFICANCE AND ADJACENT
+SIGNALS ARE SO FAR APART THAT NECESSARY PLATOONING IL SPEED CONTROL WOULD BE LOST.
+ON 2-WAY ST. WHERE ADJACENT SIGNALS DO NOT PROVIDE NECESSARY PLATOONING &
+SPEED CONTROL. PROPOSED SIGNALS COULD CONSTITUTE A PROGRESSIVE SIGNAL SYSTEM   YES    NO
+
+
+WARRANT 6 - Accident Experience                                              SATISFIED             YES              NO
+
+REQUIREMENT                        WARRANT                                           (X)                                 FULFILLED
+ONE WARRANT               WARRANT 1 - MINIMUM VEHICULAR VOLUME
+SATISFIED                 OR
+80%                       WARRANT 2 - INTERRUPTION OF CONTINUOUS TRAFFIC
+                          OR
+                          WARRANT 3 - MINIMUM PEDESTRIAN VOLUME                                                              YES   NO
+SIGNAL WILL NOT SERIOUSLY DISRUPT PROGRESSIVE TRAFFIC FLOW
+ADEQUATE TRIAL OF LESS RESTRICTIVE REMEDIES HAS FAILED TO REDUCE ACC. FREQ.
+ACC WITHIN A 12 MON. PERIOD SUSCEPTIBLE OF CORR. lL INVOLVING INJURY OR > $200 DAMAGE
+MINIMUM REQUIREMENT                    NUMBER OF ACCIDENTS
+3 OR MORE                                                                                                                    YES   NO
+* NOTE: Left turn accidents can be included when LT-phasing is proposed
+
+
+
+WARRANT 7 - Systems Warrant                                                  SATISFIED             YES              NO
+
+Minimum Volume Requirement                      ENTERING VOLUMES - ALL APPROACHES               (X)                      FULFILLED
+                                                DURING TYPICAL WEEKDAY PEAK HOUR
+                                                                              2032       veh/hr
+800 VEH/HR                                      DURING EACH OF ANY 5 HRS OF A SAT AND/OR SUNDAY
+                                                                                         veh/hr
+                                                                                                                             YES   NO
+                  CHARACTERISTICS OF MAJOR ROUTES                                                           MAJOR ST
+                                                                                                                  MINOR ST
+HWY SYSTEM SERVING AS PRINCIPLE NETWORK FOR THROUGH TRAFFIC
+CONNECTS AREAS OF PRINCIPLE TRAFFIC GENERATION
+RURAL OR SUBURBAN HWY OUTSIDE OF, ENTERING, OR TRAVERSING A CITY
+HAS SURFACE STREET FWY OR EXPWAY RAMP TERMINALS
+APPEARS AS MAJOR ROUTE ON AN OFFICIAL PLAN
+                  ANY MAJOR ROUTE CHARACTERISTICS MET, BOTH STREETS                                                          YES   NO
+
+The satisfaction of a warrant is not necessarily justification for a signal. Delay, congestion, confusion
+or other evidence of the need for right of way assignment must be shown.
+TRAFFIC SIGNAL WARRANTS                                                                                                                        Page 3
+
+
+WARRANT 8 - Combination of Warrants                                                               SATISFIED              YES                    NO
+
+
+REQUIREMENT                                  WARRANT                                                            (X)      FULFILLED
+TWO WARRANTS                  1 - MINIMUM VEHICULAR VOLUME
+SATISFIED                     2 - INTERRUPTION OF CONTINUOUS TRAFFIC
+80%                           3 - MINIMUM PEDESTRIAN VOLUME                                                              YES         NO
+
+
+WARRANT 9 - Four Hour Volume                                                                      SATISFIED              YES                    NO
+
+
+                                                                                 2 or                                Hour
+           Approach Lanes                                    One                 more             8-9          7-8       4-5        5-6
+
+Both Approaches, Major Street                                                                           1896     1848 1622 1372
+
+ Highest Approaches, Minor Street                                                              27       44                     72         40
+*Refer to Fig. 9-2A (URBAN AREAS) or Figure 9-2B (RURAL AREAS) to determine if this warrant is satisfied.
+
+
+WARRANT 10 - Peak Hour Delay                                                                      SATISFIED              YES                    NO
+
+1. The total delay experienced for traffic on one minor street approach
+controlled by a STOP sign equals or exceeds four vehicle-hours for a
+one-lane approach and five vehicle-hours for a two-lane approach; and                                                    YES                    NO
+
+2. The volume on the same minor street approach equals or exceeds 100 vph
+for one moving lane of traffic or 150 vph for two moving lanes; and                                                      YES                    NO
+
+3. The total entering volume serviced during the hour equals or exceeds
+800 vph for intersections with four or more approaches or 650 vph for
+intersections with three approaches
+                                                                                                                         YES                    NO
+
+
+WARRANT 11 - Peak Hour Volume                                                                     SATISFIED*             YES                    NO
+
+                                                                                 2 or                Hour
+   Approach Lanes                                            One                 more             8-9
+
+Both Approaches , Major Street                                                                          1896
+
+ Highest Approaches, Minor Street                                                                             27
+*Refer to Fig. 9-2C (URBAN AREAS) or Figure 9-2D (RURAL AREAS) to determine if this warrant is satisfied.
+_
+The satisfaction of a warrant is not necessarily justification for a signal. Delay, congestion, confusion or other
+evidence of the need for right of way assignment must be shown.
+

@@ -1,0 +1,282 @@
+                          City Of Los Angeles
+                          Department Of Transportation
+                          MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South               Figueroa St
+
+East/West                 11th St
+
+Day:                      Wednesday                 Date:        January 15, 2014                  Weather:              SUNNY
+
+Hours:        7-10 & 3-6                                                       Chekrs:             NDS
+
+School Day:               YES                       District:                                        I/S CODE
+
+
+                                N/B                             S/B                                   E/B                          W/B
+DUAL-
+WHEELED                             105                         19                                        26                        53
+BIKES                                56                         45                                        20                        15
+BUSES                               239                          7                                         0                       111
+
+
+                                N/B       TIME                  S/B    TIME                           E/B      TIME                W/B    TIME
+
+AM PK 15 MIN                        521    7.45                 39      9.45                              19    9.15                64     8.45
+
+PM PK 15 MIN                        405   16.45                 88     17.45                              39   17.30               195    17.45
+
+AM PK HOUR                      1958       7.45                 134     7.45                              54    8.30               232     8.30
+
+PM PK HOUR                      1553      16.15                 302    17.00                          129      16.45               652    17.00
+
+
+
+
+NORTHBOUND Approach                                                   SOUTHBOUND Approach                                                TOTAL    XING S/L       XING N/L
+
+Hours           Lt            Th          Rt        Total             Hours              Lt          Th        Rt        Total            N-S      Ped   Sch      Ped   Sch
+7-8                  13        1678            10     1701            7-8                      4       78            9        91           1792     29     0       92     4
+8-9                  19        1858            11     1888            8-9                      4      116           14       134           2022     23     0       57     0
+9-10                 19        1323             6     1348            9-10                     3      119           10       132           1480     28     0       49     0
+15-16                25        1175            21     1221            15-16                    3      162           32       197           1418     97     0       67     0
+16-17                57        1467            12     1536            16-17                    7      159           32       198           1734    136     0       65     0
+17-18                46        1395            37     1478            17-18                   15      229           58       302           1780    225     1       46     0
+
+TOTAL            179            8896           97      9172           TOTAL                   36      863       155        1054           10226    538       1    376       4
+
+
+EASTBOUND Approach                                                    WESTBOUND Approach                                                 TOTAL    XING W/L       XING E/L
+
+Hours           Lt            Th          Rt        Total             Hours              Lt          Th        Rt        Total            E-W      Ped   Sch      Ped   Sch
+7-8                   6             10         20        36           7-8                  48          30        77          155            191     60     2       59     4
+8-9                   9             13         20        42           8-9                  47          48       121          216            258     78     0       45     0
+9-10                 18             11         23        52           9-10                 48          45       117          210            262     96     3       31     0
+15-16                26             14         39        79           15-16                52          64       146          262            341    240     0       14     0
+16-17                35             28         50       113           16-17                95         129       136          360            473    405     2       42     0
+17-18                30             41         57       128           17-18               193         262       197          652            780    481     0       32     0
+
+TOTAL            124                117    209          450           TOTAL               483         578       794        1855            2305   1360       7    223       4
+                                      Intersection Turning Movement
+                                                                Prepared by:
+                                              National Data & Surveying Services
+         Project ID: 14-5014-002                                                                                             Day: Wednesday
+                                                                                  BIKES
+                  City: Los Angeles                                                                                         Date: 1/15/2014
+                                                                                   AM
+     NS/EW Streets:             Figueroa St                    Figueroa St                      11th St                    11th St
+                               NORTHBOUND                      SOUTHBOUND                      EASTBOUND                  WESTBOUND
+
+                          NL           NT       NR        SL       ST        SR           EL      ET       ER        WL     WT        WR      TOTAL
+     LANES:               1             4        0        1         2         0           2        1        1        1       2         1
+
+           7:00   AM       0           2         0         0       3          0           0       0         0        0       0                  5
+           7:15   AM       0           2         2         0       2          0           0       1         0        0       0                  7
+           7:30   AM       0           4         0         1       1          0           0       1         0        1       0                  8
+           7:45   AM       0           2         0         0       1          2           0       1         0        0       1                  7
+           8:00   AM       0           4         1         0       0          0           1       2         0        1       0                  9
+           8:15   AM       0           2         0         0       3          0           0       1         0        4       0                 10
+           8:30   AM       0           3         0         0       2          0           1       0         0        2       0                  8
+           8:45   AM       0           1         0         0       4          0           0       0         0        0       0                  5
+           9:00   AM       1           4         0         0       0          0           0       0         0        0       0                  5
+           9:15   AM       1           1         0         0       1          0           0       0         0        0       0                  3
+           9:30   AM       0           3         0         0       1          0           0       0         1        0       0                  5
+           9:45   AM       0           4         0         0       3          0           2       0         0        0       0                  9
+
+                        NL        NT            NR          SL     ST         SR        EL     ET           ER       WL      WT       WR      TOTAL
+    TOTAL VOLUMES :      2        32             3          1      21          2         4      6            1        8       1        0        81
+     APPROACH %'s :    5.41% 86.49%             8.11%      4.17% 87.50%      8.33%    36.36% 54.55%        9.09%    88.89% 11.11%     0.00%
+                     nb a      nb d                     sb a    sb d                 eb a   eb d                   wb a   nb d
+PEAK HR START TIME :       745 AM                                                                                                             TOTAL
+
+      PEAK HR VOL :        0          11         1        0        6         2            2       4        0         7       1        0        34
+
+   PEAK HR FACTOR :                   0.600                      0.667                           0.500                      0.500             0.850
+
+         CONTROL : Signalized
+                                      Intersection Turning Movement
+                                                                 Prepared by:
+                                              National Data & Surveying Services
+         Project ID: 14-5014-002                                                                                        Day: Wednesday
+                                                                                  BIKES
+                  City: Los Angeles                                                                                    Date: 1/15/2014
+                                                                                   PM
+     NS/EW Streets:             Figueroa St                    Figueroa St                      11th St               11th St
+                               NORTHBOUND                      SOUTHBOUND                      EASTBOUND             WESTBOUND
+
+                          NL           NT       NR        SL       ST        SR           EL      ET       ER   WL     WT        WR      TOTAL
+     LANES:               1             4        0        1         2         0           2        1        1   1       2         1
+
+           3:00   PM       0           1                   1       0          0           0       0        0    0       0                 2
+           3:15   PM       0           1                   1       4          0           0       0        0    0       0                 6
+           3:30   PM       0           0                   0       0          0           0       0        0    0       0
+           3:45   PM       2           4                   0       0          0           0       0        0    1       1                 8
+           4:00   PM       0           1                   0       1          0           1       0        0    1       0                 4
+           4:15   PM       0           3                   0       3          0           1       0        0    0       1                 8
+           4:30   PM       0           1                   0       2          0           0       0        0    0       0                 3
+           4:45   PM       0           3                   0       1          0           0       1        4    0       0                 9
+           5:00   PM       0           2                   0       2          0           0       1        0    0       2                 7
+           5:15   PM       0           1                   0       0          0           0       0        0    0       0                 1
+           5:30   PM       0           0                   0       2          0           0       0        0    0       0                 2
+           5:45   PM       0           0                   0       4          0           0       1        0    0       0                 5
+
+                        NL        NT            NR          SL     ST         SR        EL     ET     ER    WL      WT           WR      TOTAL
+    TOTAL VOLUMES :      2        17             0          2      19          0         2      3      4     2       4            0        55
+     APPROACH %'s :   10.53% 89.47%             0.00%      9.52% 90.48%      0.00%    22.22% 33.33% 44.44% 33.33% 66.67%         0.00%
+                     nb a      nb d                     sb a    sb d                 eb a   eb d          wb a   nb d
+PEAK HR START TIME :       500 PM                                                                                                        TOTAL
+
+      PEAK HR VOL :        0           3         0        0        8         0            0       2        0    0       2        0        15
+
+   PEAK HR FACTOR :                   0.375                      0.500                           0.500                 0.250             0.536
+
+         CONTROL : Signalized
+                                      Intersection Turning Movement
+                                                                 Prepared by:
+                                              National Data & Surveying Services
+         Project ID: 14-5014-002                                                                                          Day: Wednesday
+                                                                                  BUSES
+                  City: Los Angeles                                                                                       Date: 1/15/2014
+                                                                                   AM
+     NS/EW Streets:             Figueroa St                     Figueroa St                     11th St                 11th St
+                               NORTHBOUND                       SOUTHBOUND                     EASTBOUND               WESTBOUND
+
+                          NL           NT       NR         SL       ST        SR          EL      ET       ER     WL      WT       WR       TOTAL
+     LANES:               1             4        0         1         2         0          2        1        1     1        2        1
+
+           7:00   AM                   14                                     0                                    8               0         22
+           7:15   AM                   9                                      0                                    5               0         14
+           7:30   AM                   14                                     0                                    4               2         20
+           7:45   AM                   11                                     0                                    4               0         15
+           8:00   AM                   11                                     0                                    5               0         16
+           8:15   AM                   11                                     0                                    6               0         17
+           8:30   AM                   13                                     0                                    3               0         16
+           8:45   AM                   8                                      0                                    3               0         11
+           9:00   AM                   10                                     0                                    6               0         16
+           9:15   AM                   5                                      0                                    5               0         10
+           9:30   AM                   9                                      0                                    2               0         11
+           9:45   AM                   8                                      1                                    5               0         14
+
+                        NL        NT            NR          SL       ST      SR      EL           ET       ER     WL       WT      WR    TOTAL
+    TOTAL VOLUMES :      0       123             0          0         0       1       0            0        0      56       0       2     182
+     APPROACH %'s :    0.00% 100.00%            0.00%      0.00%    0.00% 100.00%                                96.55%   0.00%    3.45%
+                     nb a      nb d                     sb a     sb d             eb a         eb d             wb a    nb d
+PEAK HR START TIME :       745 AM                                                                                                           TOTAL
+
+      PEAK HR VOL :        0          46         0         0        0         0           0       0        0      18      0        0         64
+
+   PEAK HR FACTOR :                   0.885                       0.000                          0.000                   0.750              0.941
+
+         CONTROL : Signalized
+                                      Intersection Turning Movement
+                                                                 Prepared by:
+                                              National Data & Surveying Services
+         Project ID: 14-5014-002                                                                                         Day: Wednesday
+                                                                                 BUSES
+                  City: Los Angeles                                                                                      Date: 1/15/2014
+                                                                                  PM
+     NS/EW Streets:             Figueroa St                    Figueroa St                     11th St                 11th St
+                               NORTHBOUND                      SOUTHBOUND                     EASTBOUND               WESTBOUND
+
+                          NL           NT       NR        SL       ST        SR          EL      ET       ER     WL      WT       WR       TOTAL
+     LANES:               1             4        0        1         2         0          2        1        1     1        2        1
+
+           3:00   PM                   7                           0         0                                    2               1         10
+           3:15   PM                   6                           0         0                                    4               0         10
+           3:30   PM                   7                           3         0                                    2               1         13
+           3:45   PM                   10                          0         0                                    6               1         17
+           4:00   PM                   15                          0         0                                    5               0         20
+           4:15   PM                   13                          0         0                                    5               2         20
+           4:30   PM                   10                          0         1                                    3               0         14
+           4:45   PM                   9                           0         0                                    3               1         13
+           5:00   PM                   13                          0         0                                    3               1         17
+           5:15   PM                   9                           0         1                                    3               1         14
+           5:30   PM                   10                          0         0                                    3               0         13
+           5:45   PM                   7                           0         1                                    6               0         14
+
+                        NL        NT            NR          SL     ST     SR      EL             ET       ER     WL       WT      WR    TOTAL
+    TOTAL VOLUMES :      0       116             0          0       3      3       0              0        0      45       0       8     175
+     APPROACH %'s :    0.00% 100.00%            0.00%      0.00% 50.00% 50.00%                                  84.91%   0.00%   15.09%
+                     nb a      nb d                     sb a    sb d           eb a           eb d             wb a    nb d
+PEAK HR START TIME :       500 PM                                                                                                          TOTAL
+
+      PEAK HR VOL :        0          39         0        0        0         2           0       0        0      15      0        2         58
+
+   PEAK HR FACTOR :                   0.750                      0.500                          0.000                   0.708              0.853
+
+         CONTROL : Signalized
+                                      Intersection Turning Movement
+                                                                Prepared by:
+                                              National Data & Surveying Services
+         Project ID: 14-5014-002                                                                                      Day: Wednesday
+                                                                             HEAVY TRUCKS
+                  City: Los Angeles                                                                                  Date: 1/15/2014
+                                                                                   AM
+     NS/EW Streets:             Figueroa St                    Figueroa St                    11th St               11th St
+                               NORTHBOUND                      SOUTHBOUND                    EASTBOUND             WESTBOUND
+
+                          NL           NT       NR        SL       ST         SR        EL      ET       ER   WL     WT        WR      TOTAL
+     LANES:               1             4        0        1         2          0        2        1        1   1       2         1
+
+           7:00   AM       0           2         0        0        0           0        0       0        0    0       0        2         4
+           7:15   AM       0           6         0        0        0           0        0       0        2    4       3        0        15
+           7:30   AM       0           3         0        0        0           0        0       1        2    0       1        0         7
+           7:45   AM       0           4         0        0        1           0        1       0        0    2       0        2        10
+           8:00   AM       0           8         0        0        3           0        1       0        0    1       0        0        13
+           8:15   AM       0           2         1        0        1           0        0       0        0    1       0        0         5
+           8:30   AM       0           3         0        1        1           0        1       0        1    0       0        1         8
+           8:45   AM       0           4         0        0        0           2        0       0        2    1       3        1        13
+           9:00   AM       0           7         0        0        0           0        1       1        1    2       1        1        14
+           9:15   AM       0           6         0        0        1           0        1       0        0    1       0        0         9
+           9:30   AM       0           9         0        0        1           1        1       0        0    1       0        0        13
+           9:45   AM       2           5         0        0        1           0        2       1        0    2       1        0        14
+
+                        NL        NT            NR          SL     ST     SR     EL     ET     ER    WL      WT    WR    TOTAL
+    TOTAL VOLUMES :      2        59             1          1       9      3      8      3      8     15      9     7     125
+     APPROACH %'s :    3.23% 95.16%             1.61%      7.69% 69.23% 23.08% 42.11% 15.79% 42.11% 48.39% 29.03% 22.58%
+                     nb a      nb d                     sb a    sb d          eb a   eb d          wb a   nb d
+PEAK HR START TIME :       745 AM                                                                                        TOTAL
+
+      PEAK HR VOL :        0          17         1        1        6          0         3       0        1    4       0        3        36
+
+   PEAK HR FACTOR :                   0.563                      0.583                         0.500                 0.438             0.692
+
+         CONTROL : Signalized
+                                      Intersection Turning Movement
+                                                                 Prepared by:
+                                              National Data & Surveying Services
+         Project ID: 14-5014-002                                                                                        Day: Wednesday
+                                                                             HEAVY TRUCKS
+                  City: Los Angeles                                                                                    Date: 1/15/2014
+                                                                                   PM
+     NS/EW Streets:             Figueroa St                    Figueroa St                    11th St                 11th St
+                               NORTHBOUND                      SOUTHBOUND                    EASTBOUND               WESTBOUND
+
+                          NL           NT       NR        SL       ST         SR        EL      ET       ER     WL     WT        WR      TOTAL
+     LANES:               1             4        0        1         2          0        2        1        1     1       2         1
+
+           3:00   PM       1           7                           1           0        0                1      0       1        0        11
+           3:15   PM       0           5                           0           1        1                0      2       0        0         9
+           3:30   PM       0           3                           0           0        0                0      0       0        0         3
+           3:45   PM       0           4                           0           0        1                1      2       0        0         8
+           4:00   PM       0           1                           0           1        1                0      1       0        0         4
+           4:15   PM       0           4                           0           0        0                0      3       0        1         8
+           4:30   PM       0           3                           0           0        0                2      1       3        0         9
+           4:45   PM       0           6                           1           0        0                0      2       0        2        11
+           5:00   PM       0           1                           0           0        0                0      1       0        1         3
+           5:15   PM       0           4                           1           0        0                0      0       0        1         6
+           5:30   PM       1           2                           1           0        0                0      0       0        0         4
+           5:45   PM       0           1                           0           0        0                0      1       0        0         2
+
+                        NL        NT            NR          SL     ST     SR     EL      ET               ER    WL      WT    WR    TOTAL
+    TOTAL VOLUMES :      2        41             0          0       4      2      3       0                4     13      4     5      78
+     APPROACH %'s :    4.65% 95.35%             0.00%      0.00% 66.67% 33.33% 42.86%   0.00%           57.14% 59.09% 18.18% 22.73%
+                     nb a      nb d                     sb a    sb d          eb a    eb d                    wb a   nb d
+PEAK HR START TIME :       500 PM                                                                                                   TOTAL
+
+      PEAK HR VOL :        1           8         0        0        2          0         0       0        0      2       0        2        15
+
+   PEAK HR FACTOR :                   0.563                      0.500                         0.000                   0.500             0.625
+
+         CONTROL : Signalized
+

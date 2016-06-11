@@ -1,0 +1,60 @@
+                          City Of Los Angeles
+                          Department Of Transportation
+                          MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South               Elysian Park Dr
+
+East/West                 Academy Rd
+
+Day:                       Tuesday                 Date:              June 16, 2015                 Weather:              SUNNY
+
+Hours:        7-10 & 3-6                                                        Chekrs:             NDS
+
+School Day:               YES                      District:                                          I/S CODE
+
+
+                                N/B                             S/B                                    E/B                             W/B
+DUAL-
+WHEELED                             0                            0                                         6                             4
+BIKES                               3                            0                                         0                             1
+BUSES                               0                            0                                         1                             1
+
+
+                                N/B      TIME                   S/B     TIME                           E/B      TIME                   W/B    TIME
+
+AM PK 15 MIN                        5     9.45                   4       9.15                              28    9.30                   31     9.45
+
+PM PK 15 MIN                        3    16.00                   3      15.15                              94   17.30                   32    16.30
+
+AM PK HOUR                         11     9.00                   7       8.30                              88    8.45                   93     9.00
+
+PM PK HOUR                          9    16.00                   5      15.00                          332      17.00                  114    16.30
+
+
+
+
+NORTHBOUND Approach                                                   SOUTHBOUND Approach                                                    TOTAL    XING S/L       XING N/L
+
+Hours           Lt            Th         Rt        Total              Hours               Lt          Th        Rt        Total               N-S      Ped   Sch      Ped   Sch
+7-8                  1              0         2             3         7-8                      1           0         2             3             6      15     6       12     0
+8-9                  3              0         2             5         8-9                      2           0         4             6            11      20     1       21     0
+9-10                 8              0         3            11         9-10                     3           0         4             7            18      20     2       23     2
+15-16                0              0         1             1         15-16                    1           0         4             5             6       4     1        6     1
+16-17                5              0         4             9         16-17                    0           1         2             3            12       0     0       13     3
+17-18                3              0         0             3         17-18                    1           0         3             4             7       3     0       22     8
+
+TOTAL                20              0        12           32         TOTAL                    8            1        19           28            60      62   10        97   14
+
+
+EASTBOUND Approach                                                    WESTBOUND Approach                                                     TOTAL    XING W/L       XING E/L
+
+Hours           Lt            Th         Rt        Total              Hours               Lt          Th        Rt        Total               E-W      Ped   Sch      Ped   Sch
+7-8                  2              47        5         54            7-8                      1        61           0         62               116      1     0        0     0
+8-9                  7              70        4         81            8-9                      0        75           1         76               157      0     0        1     0
+9-10                 4              71        5         80            9-10                     3        88           2         93               173      2     0        0     0
+15-16                4              77        2         83            15-16                    6        70           0         76               159      3     1        0     0
+16-17                4             158        2        164            16-17                    4        95           1        100               264      4     2        0     0
+17-18                3             320        9        332            17-18                    3       108           2        113               445      3     0        0     0
+
+TOTAL                24            743        27       794            TOTAL                    17      497            6       520             1314      13       3      1       0
+

@@ -1,0 +1,61 @@
+                     City Of Los Angeles
+                     Department Of Transportation
+                     MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South          ABBOT KINNEY BL.
+
+East/West            MARR ST. / BOCCACCIO AV.
+
+Day:          SATURDAY                  Date:        January 25, 2014        Weather:            SUNNY
+
+Hours:        10AM-1PM
+
+School Day:          YES                District:         WESTERN              I/S CODE 10824
+
+
+                      N/B                           S/B                        E/B                           W/B
+DUAL-
+WHEELED                    0                         0                             0                           0
+BIKES                      0                         0                             0                           0
+BUSES                      0                         0                             0                           0
+
+
+                      N/B TIME                      S/B TIME                   E/B TIME                      W/B TIME
+
+AM PK 15 MIN               0   10.00                 0 10.00                       0 10.00                     0    10.00
+
+PM PK 15 MIN               0    1.00                 0     1.00                    0    1.00                   0     1.00
+
+AM PK HOUR                 0   10.00                 0 10.00                       0 10.00                     0    10.00
+
+PM PK HOUR                 0    1.00                 0     1.00                    0    1.00                   0     1.00
+
+
+
+NORTHBOUND Approach                                       SOUTHBOUND Approach                                      TOTAL       ZONE 1        ZONE 3
+
+Hours          Lt     Th       Rt       Total             Hours     Lt        Th        Rt       Total              N-S         Ped Sch      Ped   Sch
+10-11            0         0        0        0            10-11          0         0         0           0                0      15   1        0     0
+11-12            0         0        0        0            11-12          0         0         0           0                0       6   0        1     0
+12-1             0         0        0        0            12-1           0         0         0           0                0       6   0        0     0
+                 0         0        0        0                           0         0         0           0                0       0   0        0     0
+                 0         0        0        0                           0         0         0           0                0       0   0        0     0
+                 0         0        0        0                           0         0         0           0                0       0   0        0     0
+
+TOTAL            0         0        0        0            TOTAL          0         0         0           0                0      27      1     1      0
+
+
+EASTBOUND Approach                                        WESTBOUND Approach                                       TOTAL      XING W/L       ZONE 2
+
+Hours          Lt     Th       Rt       Total             Hours     Lt        Th        Rt       Total             E-W          Ped Sch      Ped   Sch
+10-11            0         0        0        0            10-11          0         0         0           0                0       0   0       13     1
+11-12            0         0        0        0            11-12          0         0         0           0                0       0   0       15     3
+12-1             0         0        0        0            12-1           0         0         0           0                0       0   0       18     1
+                 0         0        0        0                           0         0         0           0                0       0   0        0     0
+                 0         0        0        0                           0         0         0           0                0       0   0        0     0
+                 0         0        0        0                           0         0         0           0                0       0   0        0     0
+
+TOTAL            0         0        0        0            TOTAL          0         0         0           0                0       0      0    46      5
+
+              (Rev Oct 06)
+

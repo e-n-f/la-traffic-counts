@@ -1,0 +1,288 @@
+                       City Of Los Angeles
+                       Department Of Transportation
+                       MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South            Sepulveda Blvd
+
+East/West              Sherman Way
+
+Day:               TUESDAY                Date:              10/18/2011                 Weather:            SUNNY
+
+Hours:        7-10AM 3-6PM                                             Chekrs:          NDS
+
+School Day:            YES                District:                                       I/S CODE
+
+
+                          N/B                          S/B                                 E/B                        W/B
+DUAL-
+WHEELED                      34                         43                                  46                          55
+BIKES                        26                         47                                   8                          17
+BUSES                        68                         76                                 115                          69
+
+
+                          N/B     TIME                 S/B    TIME                         E/B     TIME               W/B     TIME
+
+AM PK 15 MIN              303      7.30                598      7.30                       523       8.15              427     7.15
+
+PM PK 15 MIN              571     17.00                319     16.45                       465     17.30               459    17.15
+
+AM PK HOUR               1051      7.30               2027      7.00                      1847       8.15             1570     7.15
+
+PM PK HOUR               1996     16.45               1198     16.15                      1829     17.00              1665    16.30
+
+
+
+
+NORTHBOUND Approach                                          SOUTHBOUND Approach                                             TOTAL    XING S/L     XING N/L
+
+Hours           Lt       Th       Rt      Total              Hours               Lt       Th       Rt Total                   N-S      Ped   Sch    Ped   Sch
+7-8              309      566       98       973             7-8                 196      1677      154  2027                  3000     35     0     44     0
+8-9              300      544      106       950             8-9                 213      1535      138  1886                  2836     71     5     37     2
+9-10             278      530      109       917             9-10                176      1165      114  1455                  2372     93     6     54     1
+15-16            441     1044      144      1629             15-16               159       803      181  1143                  2772     92     1     38     1
+16-17            439     1271      146      1856             16-17               176       811      196  1183                  3039    119     0     62     1
+17-18            505     1315      128      1948             17-18               169       803      165  1137                  3085    118     5     52     2
+
+TOTAL           2272     5270      731      8273             TOTAL               1089     6794       948      8831            17104    528   17     287       7
+
+
+EASTBOUND Approach                                           WESTBOUND Approach                                              TOTAL    XING W/L     XING E/L
+
+Hours           Lt       Th       Rt Total                   Hours               Lt       Th       Rt       Total             E-W      Ped   Sch    Ped   Sch
+7-8              131     1253      296 1680                  7-8                 140      1276        98       1514            3194     75     0     50     3
+8-9              140     1416      287 1843                  8-9                 120      1088        96       1304            3147     91     3     60     4
+9-10             178     1274      318 1770                  9-10                128       900        98       1126            2896     96     2     63     2
+15-16            260     1188      226 1674                  15-16               140      1166       129       1435            3109    113     8     66     0
+16-17            270     1224      223 1717                  16-17               134      1272       150       1556            3273    113     1     88     1
+17-18            271     1356      202 1829                  17-18               154      1377       134       1665            3494     99     4     76     1
+
+TOTAL           1250     7711     1552 10513                 TOTAL               816      7079       705      8600            19113    587   18     403   11
+                                      Intersection Turning Movement
+                                                                  Prepared by:
+                                              National Data & Surveying Services
+         Project ID: CA11_5410_001                                                                                                 Day: TUESDAY
+                                                                                     BIKES
+                  City: Los Angeles                                                                                                Date: 10/18/2011
+                                                                                      AM
+     NS/EW Streets:            Sepulveda Blvd                  Sepulveda Blvd                     Sherman Way                  Sherman Way
+
+                               NORTHBOUND                      SOUTHBOUND                          EASTBOUND                   WESTBOUND
+
+                          NL           NT       NR        SL        ST          SR           EL       ET        ER        WL       WT        WR      TOTAL
+     LANES:
+
+           7:00   AM                   0                             0                                0                            0          0
+           7:15   AM                   0                             4                                0                            1          1        6
+           7:30   AM                   0                             3                                0                            1          0        4
+           7:45   AM                   0                             2                                0                            0          0        2
+           8:00   AM                   2                             0                                0                            1          0        3
+           8:15   AM                   1                             4                                0                            2          0        7
+           8:30   AM                   1                             2                                0                            0          0        3
+           8:45   AM                   0                             1                                0                            0          0        1
+           9:00   AM                   2                             2                                0                            1          0        5
+           9:15   AM                   0                             0                                1                            1          0        2
+           9:30   AM                   4                             2                                1                            3          0       10
+           9:45   AM                   2                             1                                1                            0          0        4
+
+                        NL        NT            NR          SL      ST           SR        EL      ET            ER       WL      WT         WR      TOTAL
+    TOTAL VOLUMES :      0        12             0          0       21            0         0       3             0        0      10          1        47
+     APPROACH %'s :    0.00% 100.00%            0.00%      0.00% 100.00%        0.00%     0.00% 100.00%         0.00%     0.00% 90.91%       9.09%
+                     nb a      nb d                     sb a     sb d                   eb a    eb d                    wb a   nb d
+PEAK HR START TIME :       900 AM                                                                                                                    TOTAL
+
+      PEAK HR VOL :        0           8         0         0         5          0            0        3         0         0        5         0        21
+
+   PEAK HR FACTOR :                   0.500                        0.625                             0.750                        0.417               0.525
+
+         CONTROL :
+                                      Intersection Turning Movement
+                                                                  Prepared by:
+                                              National Data & Surveying Services
+         Project ID: CA11_5410_001                                                                                                 Day: TUESDAY
+                                                                                     BIKES
+                  City: Los Angeles                                                                                                Date: 10/18/2011
+                                                                                      PM
+     NS/EW Streets:            Sepulveda Blvd                  Sepulveda Blvd                     Sherman Way                  Sherman Way
+
+                               NORTHBOUND                      SOUTHBOUND                          EASTBOUND                   WESTBOUND
+
+                          NL           NT       NR        SL        ST          SR           EL       ET        ER        WL       WT        WR      TOTAL
+     LANES:
+
+           3:00   PM                   1                             0                                0                            0                   1
+           3:15   PM                   0                             6                                0                            0                   6
+           3:30   PM                   0                             1                                0                            1                   2
+           3:45   PM                   1                             0                                2                            0                   3
+           4:00   PM                   1                             1                                2                            0                   4
+           4:15   PM                   0                             2                                0                            2                   4
+           4:30   PM                   1                             4                                0                            0                   5
+           4:45   PM                   1                             2                                0                            0                   3
+           5:00   PM                   0                             2                                0                            0                   2
+           5:15   PM                   5                             3                                1                            1                  10
+           5:30   PM                   2                             1                                0                            0                   3
+           5:45   PM                   2                             4                                0                            2                   8
+
+                        NL        NT            NR          SL      ST           SR        EL      ET            ER       WL       WT        WR      TOTAL
+    TOTAL VOLUMES :      0        14             0          0       26            0         0       5             0        0        6         0        51
+     APPROACH %'s :    0.00% 100.00%            0.00%      0.00% 100.00%        0.00%     0.00% 100.00%         0.00%     0.00% 100.00%      0.00%
+                     nb a      nb d                     sb a     sb d                   eb a    eb d                    wb a    nb d
+PEAK HR START TIME :       500 PM                                                                                                                    TOTAL
+
+      PEAK HR VOL :        0           9         0         0        10          0            0        1         0         0        3         0        23
+
+   PEAK HR FACTOR :                   0.450                        0.625                             0.250                        0.375               0.575
+
+         CONTROL :
+                                      Intersection Turning Movement
+                                                                  Prepared by:
+                                              National Data & Surveying Services
+         Project ID: CA11_5410_001                                                                                                Day: TUESDAY
+                                                                                    BUSES
+                  City: Los Angeles                                                                                               Date: 10/18/2011
+                                                                                     AM
+     NS/EW Streets:            Sepulveda Blvd                  Sepulveda Blvd                    Sherman Way                  Sherman Way
+
+                               NORTHBOUND                      SOUTHBOUND                         EASTBOUND                   WESTBOUND
+
+                          NL           NT       NR        SL        ST          SR          EL       ET        ER        WL       WT        WR      TOTAL
+     LANES:
+
+           7:00   AM       1           4         0        0          7          2           1        2          0        1        7          2       27
+           7:15   AM       0           3         0        0          4          1           1        3          1        0        6          0       19
+           7:30   AM       0           2         1        0          1          0           0        2          0        1        4          0       11
+           7:45   AM       0           2         1        0          3          2           0        2          0        0        1          0       11
+           8:00   AM       5           4         0        0          3          0           0        3          0        0        1          0       16
+           8:15   AM       0           1         0        1          1          0           1        4          0        0        2          1       11
+           8:30   AM       0           3         0        1          4          0           0        6          0        0        2          1       17
+           8:45   AM       0           4         0        1          3          0           0        3          0        0        5          0       16
+           9:00   AM       0           1         1        2          3          0           2        12         0        0        3          0       24
+           9:15   AM       0           3         0        0          0          0           0        6          1        0        3          0       13
+           9:30   AM       0           1         0        2          2          0           0        2          1        0        1          0        9
+           9:45   AM       0           2         0        2          1          0           3        5          1        0        1          0       15
+
+                        NL        NT            NR         SL     ST     SR     EL     ET                       ER       WL      WT         WR      TOTAL
+    TOTAL VOLUMES :      6        30             3          9     32      5      8     50                        4        2      36          4       189
+     APPROACH %'s :   15.38% 76.92%             7.69%    19.57% 69.57% 10.87% 12.90% 80.65%                    6.45%     4.76% 85.71%       9.52%
+                     nb a      nb d                     sb a   sb d          eb a   eb d                               wb a   nb d
+PEAK HR START TIME :       830 AM                                                                                                                   TOTAL
+
+      PEAK HR VOL :        0          11         1        4         10          0           2        27        1         0        13        1        70
+
+   PEAK HR FACTOR :                   0.750                        0.700                            0.536                        0.700               0.729
+
+         CONTROL :
+                                      Intersection Turning Movement
+                                                                  Prepared by:
+                                              National Data & Surveying Services
+         Project ID: CA11_5410_001                                                                                                 Day: TUESDAY
+                                                                                     BUSES
+                  City: Los Angeles                                                                                                Date: 10/18/2011
+                                                                                      PM
+     NS/EW Streets:            Sepulveda Blvd                  Sepulveda Blvd                     Sherman Way                  Sherman Way
+
+                               NORTHBOUND                      SOUTHBOUND                          EASTBOUND                   WESTBOUND
+
+                          NL           NT       NR        SL        ST          SR           EL       ET        ER        WL       WT        WR   TOTAL
+     LANES:
+
+           3:00   PM       0           3         0        0          2           1           0        2          0                 3         1        12
+           3:15   PM       0           0         0        0          2           0           2        3          1                 4         0        12
+           3:30   PM       0           5         0        1          3           0           0        1          0                 3         1        14
+           3:45   PM       0           1         0        1          1           0           0        5          1                 3         0        12
+           4:00   PM       0           3         0        0          3           0           1        3          0                 1         1        12
+           4:15   PM       0           2         1        0          2           0           1        3          0                 2         0        11
+           4:30   PM       0           2         0        0          1           0           1        3          1                 1         0         9
+           4:45   PM       0           2         0        0          3           0           0        2          0                 2         0         9
+           5:00   PM       0           2         0        1          2           0           2        4          0                 2         0        13
+           5:15   PM       0           2         0        0          1           0           0        5          0                 1         0         9
+           5:30   PM       0           2         0        1          2           0           0        6          0                 0         0        11
+           5:45   PM       1           3         0        2          1           0           0        6          0                 2         0        15
+
+                        NL        NT            NR         SL     ST             SR        EL     ET             ER       WL      WT    WR    TOTAL
+    TOTAL VOLUMES :      1        27             1          6     23              1         7     43              3        0      24     3     139
+     APPROACH %'s :    3.45% 93.10%             3.45%    20.00% 76.67%          3.33%    13.21% 81.13%          5.66%     0.00% 88.89% 11.11%
+                     nb a      nb d                     sb a   sb d                     eb a   eb d                     wb a   nb d
+PEAK HR START TIME :       315 PM                                                                                                             TOTAL
+
+      PEAK HR VOL :        0           9         0        2          9          0            3        12        2         0        11        2        50
+
+   PEAK HR FACTOR :                   0.450                        0.688                             0.708                        0.813               0.893
+
+         CONTROL :
+                                      Intersection Turning Movement
+                                                                  Prepared by:
+                                              National Data & Surveying Services
+         Project ID: CA11_5410_001                                                                                              Day: TUESDAY
+                                                                            Heavy Trucks
+                  City: Los Angeles                                                                                             Date: 10/18/2011
+                                                                                     AM
+     NS/EW Streets:            Sepulveda Blvd                  Sepulveda Blvd                  Sherman Way                  Sherman Way
+
+                               NORTHBOUND                      SOUTHBOUND                       EASTBOUND                   WESTBOUND
+
+                          NL           NT       NR        SL        ST          SR        EL       ET        ER        WL       WT        WR   TOTAL
+     LANES:
+
+           7:00   AM       0           0         0        1          4          0         0        2          1        1        0         0         9
+           7:15   AM       0           2         0        0          4          0         0        0          0        2        2         0        10
+           7:30   AM       1           3         0        1          1          1         0        0          0        0        4         0        11
+           7:45   AM       0           2         0        0          2          0         0        1          0        0        2         0         7
+           8:00   AM       0           1         1        0          3          0         1        5          0        0        1         2        14
+           8:15   AM       1           0         0        0          3          0         1        1          0        0        3         0         9
+           8:30   AM       0           4         0        1          1          1         1        2          0        0        4         0        14
+           8:45   AM       0           0         1        0          3          2         0        2          0        0        3         0        11
+           9:00   AM       0           1         0        1          2          1         0        1          0        0        1         0         7
+           9:15   AM       0           1         0        0          2          0         1        3          0        0        3         0        10
+           9:30   AM       1           2         0        0          1          0         0        2          0        0        2         1         9
+           9:45   AM       0           1         0        2          3          0         1        6          1        0        6         2        22
+
+                        NL        NT            NR         SL     ST     SR     EL     ET                     ER       WL      WT    WR    TOTAL
+    TOTAL VOLUMES :      3        17             2          6     29      5      5     25                      2        3      31     5     133
+     APPROACH %'s :   13.64% 77.27%             9.09%    15.00% 72.50% 12.50% 15.63% 78.13%                  6.25%     7.69% 79.49% 12.82%
+                     nb a      nb d                     sb a   sb d          eb a   eb d                             wb a   nb d
+PEAK HR START TIME :       900 AM                                                                                                          TOTAL
+
+      PEAK HR VOL :        1           5         0        3          8          1         2        12        1         0        12        3        48
+
+   PEAK HR FACTOR :                   0.500                        0.600                          0.469                        0.469               0.545
+
+         CONTROL :
+                                      Intersection Turning Movement
+                                                                  Prepared by:
+                                              National Data & Surveying Services
+         Project ID: CA11_5410_001                                                                                           Day: TUESDAY
+                                                                            Heavy Trucks
+                  City: Los Angeles                                                                                          Date: 10/18/2011
+                                                                                     PM
+     NS/EW Streets:            Sepulveda Blvd                  Sepulveda Blvd                  Sherman Way               Sherman Way
+
+                               NORTHBOUND                      SOUTHBOUND                       EASTBOUND                WESTBOUND
+
+                          NL           NT       NR        SL        ST          SR        EL       ET        ER     WL       WT        WR      TOTAL
+     LANES:
+
+           3:00   PM       0           2                  0          0          0         0        4         0       0       3                   9
+           3:15   PM       1           0                  0          0          0         0        1         0       0       0                   2
+           3:30   PM       0           0                  0          0          0         0        1         1       0       1                   3
+           3:45   PM       0           2                  0          0          0         1        0         0       0       2                   5
+           4:00   PM       0           1                  0          0          0         0        1         0       0       2                   4
+           4:15   PM       0           2                  0          0          0         0        1         0       0       0                   3
+           4:30   PM       0           0                  0          1          0         0        1         0       0       1                   3
+           4:45   PM       0           2                  0          0          1         0        1         0       0       0                   4
+           5:00   PM       0           0                  0          0          0         0        0         0       0       2                   2
+           5:15   PM       0           0                  0          0          0         0        2         0       0       1                   3
+           5:30   PM       1           1                  0          0          0         0        0         0       1       1                   4
+           5:45   PM       0           0                  1          0          0         0        0         0       1       1                   3
+
+                        NL        NT            NR         SL     ST     SR      EL     ET                    ER    WL      WT         WR      TOTAL
+    TOTAL VOLUMES :      2        10             0          1      1      1       1     12                     1     2      14          0        45
+     APPROACH %'s :   16.67% 83.33%             0.00%    33.33% 33.33% 33.33%   7.14% 85.71%                 7.14% 12.50% 87.50%       0.00%
+                     nb a      nb d                     sb a   sb d           eb a   eb d                         wb a   nb d
+PEAK HR START TIME :       300 PM                                                                                                              TOTAL
+
+      PEAK HR VOL :        1           4         0        0          0          0         1        6         1      0        6         0        19
+
+   PEAK HR FACTOR :                   0.625                        0.000                          0.500                     0.500               0.528
+
+         CONTROL :
+

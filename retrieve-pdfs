@@ -4,7 +4,7 @@ for $file (<reports/*.html>) {
 	$fileno =~ s/.html//;
 	$fileno =~ s/reports\///;
 
-	print "$fileno\n";
+	# print "$fileno\n";
 	open(IN, "$file");
 	while (<IN>) {
 		if (/href="([^"]*pdf)"/) {
@@ -20,9 +20,9 @@ for $file (<reports/*.html>) {
 			$base =~ s/,/%2c/g;
 
 			$need = 0;
-			open(IN, "$dir/$base");
-			$line = <IN>;
-			close(IN);
+			open(IN2, "$dir/$base");
+			$line = <IN2>;
+			close(IN2);
 			if ($line =~ /DOCTYPE/) {
 				$need = 1;
 			}
@@ -41,4 +41,5 @@ for $file (<reports/*.html>) {
 			system "cd '$dir'; pdftotext -layout '$base'";
 		}
 	}
+	close(IN);
 }

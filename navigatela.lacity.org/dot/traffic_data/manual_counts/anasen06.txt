@@ -1,0 +1,63 @@
+                        City Of Los Angeles
+                        Department Of Transportation
+                        MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South             SENATOR AV
+
+East/West               ANAHEIM ST
+
+Day:        MONDAY                            Date:         September 25, 2006          Weather:              CLEAR
+
+Hours:      7-10AM 2-5PM
+
+School Day:             YES                   District:             SOUTHERN              I/S CODE 0248067310
+
+
+                         N/B                              S/B                            E/B                               W/B
+DUAL-
+WHEELED                        4                                0                             70                             52
+BIKES                          4                                0                              0                              0
+BUSES                          0                                0                              0                              1
+
+
+                        N/B        TIME                   S/B       TIME                E/B        TIME                    W/B TIME
+
+AM PK 15 MIN                  10    9.00                        0 7.00                    136       7.30                    161     7.30
+
+PM PK 15 MIN                   3    3.15                        0 2.00                    143       4.45                    127     4.30
+
+AM PK HOUR                    31     8.3                        0 7.00                    462       7.30                    520     7.30
+
+PM PK HOUR                     9    4.00                        0 2.00                    521       4.00                    461     4.00
+
+
+
+
+NORTHBOUND Approach                                                 SOUTHBOUND Approach                       NONE                TOTAL    XING S/L   XING N/L
+
+Hours          Lt        Th         Rt         Total                Hours      Lt        Th         Rt         Total               N-S     Ped Sch    Ped Sch
+7-8                 7          0      18           25               7-8             0          0          0            0              25      3   4      0   0
+8-9                 8          0      16           24               8-9             0          0          0            0              24      3   0      0   0
+9-10                9          0      20           29               9-10            0          0          0            0              29      6   0      0   0
+2-3                 2          0       4             6              2-3             0          0          0            0               6      4   0      0   0
+3-4                 2          0       5             7              3-4             0          0          0            0               7      3   1      0   0
+4-5                 2          0       7             9              4-5             0          0          0            0               9     16   0      0   0
+
+TOTAL           30             0      70          100               TOTAL           0          0          0            0             100     35   5      0   0
+
+
+EASTBOUND Approach                                                  WESTBOUND Approach                                            TOTAL    XING W/L   XING E/L
+
+Hours          Lt        Th         Rt         Total                Hours      Lt        Th         Rt         Total               E-W     Ped Sch    Ped Sch
+7-8                 0     417             3      420                7-8           6       443             0      449                 869      1   0      1   0
+8-9                 0     351             7      358                8-9           4       484             0      488                 846      1   0      0   0
+9-10                0     283             2      285                9-10          5       340             0      345                 630      0   0      0   0
+2-3                 0     328             8      336                2-3           5       242             0      247                 583      0   0      0   0
+3-4                 0     463             7      470                3-4           8       299             0      307                 777      0   0      0   0
+4-5                 0     513             8      521                4-5          15       446             0      461                 982      5   0      0   0
+
+TOTAL               0    2355         35         2390               TOTAL        43      2254             0     2297                4687      7   0      1   0
+
+
+            (Rev Apr 06)
+

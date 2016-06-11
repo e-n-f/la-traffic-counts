@@ -1,0 +1,61 @@
+                      City Of Los Angeles
+                      Department Of Transportation
+                      MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South           N BROADWAY
+
+East/West             ALPINE ST
+
+Day:               MONDAY            Date:             May 7, 2010         Weather:          SUNNY
+
+Hours:        11AM-2PM 3-6PM
+
+School Day:           YES            District:         CENTRAL               I/S CODE 20758
+
+
+                       N/B                       S/B                         E/B                     W/B
+DUAL-
+WHEELED                114                        99                          49                      17
+BIKES                   11                        16                           3                       4
+BUSES                  145                        93                           0                      35
+
+
+                       N/B TIME                  S/B TIME                    E/B TIME                W/B TIME
+
+AM PK 15 MIN           178   12.00               210 13.30                   114 13.15               112    11.30
+
+PM PK 15 MIN           341    5.45               179    4.15                 134      5.15           121     4.45
+
+AM PK HOUR             689   13.00               780 13.00                   379 12.00               377    11.30
+
+PM PK HOUR            1280    5.00               618    4.15                 481      5.00           409     4.45
+
+
+
+NORTHBOUND Approach                                    SOUTHBOUND Approach                                 TOTAL    XING S/L        XING N/L
+
+Hours           Lt  Th       Rt Total                  Hours         Lt     Th        Rt Total              N-S        Ped Sch        Ped   Sch
+11-12            55 461        93 609                  11-12          57     453       48   558             1167       183   5        217     6
+12-1             57 544        82 683                  12-1           69     455       62   586             1269       226   6        239     1
+1-2              59 562        68 689                  1-2            77     629       74   780             1469       221   2        286     2
+3-4              45 637        73 755                  3-4            49     420       49   518             1273       178   3        210     2
+4-5              50 902        97 1049                 4-5            55     507       46   608             1657       205   2        212     2
+5-6              41 1155       84 1280                 5-6            52     397       50   499             1779       138   0        186     0
+
+TOTAL           307 4261      497 5065                 TOTAL         359 2861         329     3549          8614      1151     18    1350      13
+
+
+EASTBOUND Approach                                     WESTBOUND Approach                                  TOTAL    XING W/L        XING E/L
+
+Hours           Lt     Th    Rt Total                  Hours         Lt     Th        Rt Total             E-W         Ped Sch        Ped   Sch
+11-12            56    187     84 327                  11-12          45     261       61   367              694       272   1        149     0
+12-1             75    222     82 379                  12-1           47     197       64   308              687       409   3        159     0
+1-2              48    236     64 348                  1-2            44     203       34   281              629       366   1         69     0
+3-4              54    202     97 353                  3-4            45     216       54   315              668       265   4        132     0
+4-5              83    191     82 356                  4-5            57     255       69   381              737       239   8        174     0
+5-6             117    294     70 481                  5-6            79     234       76   389              870       317 14         118     0
+
+TOTAL           433 1332      479 2244                 TOTAL         317 1366         358     2041          4285      1868     31     801       0
+
+              (Rev Oct 06)
+

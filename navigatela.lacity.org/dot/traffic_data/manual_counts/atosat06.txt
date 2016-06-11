@@ -1,0 +1,63 @@
+                        City Of Los Angeles
+                        Department Of Transportation
+                        MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South             ATOLL AV
+
+East/West               SATICOY ST
+
+Day:        WEDNESDAY                         Date:        October 11, 2006                 Weather:           CLEAR
+
+Hours:      7-10AM 3-6PM
+
+School Day:             YES                   District:              EAST VALLEY              I/S CODE 0420066630
+
+
+                         N/B                               S/B                               E/B                         W/B
+DUAL-
+WHEELED                        0                                 7                            193                         119
+BIKES                          0                                 7                              4                           7
+BUSES                          0                                 0                             11                           4
+
+
+                        N/B        TIME                    S/B       TIME                   E/B        TIME              W/B TIME
+
+AM PK 15 MIN                   0    7.00                     20 7.15                          218       7.30              201     7.45
+
+PM PK 15 MIN                   0    3.00                     11 4.00                          209       5.15              230     5.15
+
+AM PK HOUR                     0    7.00                     61 7.00                          797       7.15              633     7.00
+
+PM PK HOUR                     0    3.00                     33 3.45                          757       4.30              845     5.00
+
+
+
+
+NORTHBOUND Approach                           NONE                   SOUTHBOUND Approach                                        TOTAL    XING S/L   XING N/L
+
+Hours          Lt        Th         Rt         Total                 Hours         Lt        Th         Rt      Total            N-S     Ped Sch    Ped Sch
+7-8                 0          0          0            0             7-8             32            0      29        61              61      0   0      9   3
+8-9                 0          0          0            0             8-9              8            0      18        26              26      0   0      4   0
+9-10                0          0          0            0             9-10            16            0      20        36              36      0   0      4   0
+3-4                 0          0          0            0             3-4              4            0      13        17              17      0   0      4   0
+4-5                 0          0          0            0             4-5             18            0      14        32              32      0   0      5   0
+5-6                 0          0          0            0             5-6              7            0      14        21              21      0   0      5   0
+
+TOTAL               0          0          0            0             TOTAL          85             0     108      193              193      0   0     31   3
+
+
+EASTBOUND Approach                                                   WESTBOUND Approach                                         TOTAL    XING W/L   XING E/L
+
+Hours          Lt        Th         Rt         Total                 Hours         Lt        Th         Rt      Total            E-W     Ped Sch    Ped Sch
+7-8              11       778             0      789                 7-8                0     623         10      633             1422      0   0      0   0
+8-9              14       577             0      591                 8-9                0     407         14      421             1012      0   0      1   0
+9-10              6       539             0      545                 9-10               0     428          9      437              982      0   0      0   0
+3-4              20       553             0      573                 3-4                0     545         13      558             1131      0   0      0   0
+4-5              14       666             0      680                 4-5                0     703         26      729             1409      0   0      0   0
+5-6              21       708             0      729                 5-6                0     828         17      845             1574      0   0      0   0
+
+TOTAL           86       3821             0      3907                TOTAL              0    3534         89     3623             7530      0   0      1   0
+
+
+            (Rev Oct 06)
+

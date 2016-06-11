@@ -1,0 +1,60 @@
+                         City Of Los Angeles
+                         Department Of Transportation
+                         MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South              Hoover St
+
+East/West                Bellevue Ave
+
+Day:                     Wednesday                Date:             June 17, 2015                 Weather:            SUNNY
+
+Hours:        7-10 & 3-6                                                      Chekrs:             NDS
+
+School Day:              YES                      District:                                         I/S CODE
+
+
+                               N/B                            S/B                                    E/B                        W/B
+DUAL-
+WHEELED                           17                          21                                         0                       15
+BIKES                             26                          19                                         0                       19
+BUSES                             39                          34                                         0                        0
+
+
+                               N/B      TIME                  S/B     TIME                           E/B     TIME               W/B    TIME
+
+AM PK 15 MIN                      78     7.45                 167      8.30                              0    0.00               50     9.15
+
+PM PK 15 MIN                     149    17.00                 175     17.45                              0    0.00               63    15.45
+
+AM PK HOUR                       260     7.45                 651      7.45                              0    0.00              185     9.00
+
+PM PK HOUR                       562    17.00                 668     16.15                              0    0.00              218    15.30
+
+
+
+
+NORTHBOUND Approach                                                 SOUTHBOUND Approach                                               TOTAL    XING S/L       XING N/L
+
+Hours           Lt          Th          Rt        Total             Hours               Lt          Th       Rt       Total            N-S      Ped   Sch      Ped   Sch
+7-8                  0           223         23       246           7-8                  135         377          0       512            758      4     0        8     0
+8-9                  0           219         36       255           8-9                  174         474          0       648            903      5     4       10     1
+9-10                 0           217         25       242           9-10                 172         391          0       563            805      8     0       12     0
+15-16                0           305         32       337           15-16                169         420          0       589            926     12     1       13     0
+16-17                0           410         62       472           16-17                195         468          0       663           1135      7     0       11     0
+17-18                0           518         44       562           17-18                198         468          0       666           1228     13     0       15     1
+
+TOTAL                0         1892      222         2114           TOTAL               1043        2598          0     3641           5755      49       5     69       2
+
+
+EASTBOUND Approach                                                  WESTBOUND Approach                                                TOTAL    XING W/L       XING E/L
+
+Hours           Lt          Th          Rt        Total             Hours               Lt          Th       Rt       Total            E-W      Ped   Sch      Ped   Sch
+7-8                  0            0          0            0         7-8                      41          0      96        137            137      8     2       10     4
+8-9                  0            0          0            0         8-9                      49          0     118        167            167     11     2       27     0
+9-10                 0            0          0            0         9-10                     61          0     124        185            185      6     0       34     0
+15-16                0            0          0            0         15-16                    27          0     173        200            200     20     3       16     1
+16-17                0            0          0            0         16-17                    32          0     170        202            202     16     1       24     1
+17-18                0            0          0            0         17-18                    26          0     158        184            184     15     8       16     5
+
+TOTAL                0             0          0           0         TOTAL                236             0     839      1075           1075      76   16       127   11
+

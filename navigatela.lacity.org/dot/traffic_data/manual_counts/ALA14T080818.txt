@@ -1,0 +1,61 @@
+                     City Of Los Angeles
+                     Department Of Transportation
+                     MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South          ALAMEDA ST
+
+East/West            14TH ST
+
+Day:             MONDAY               Date:         August 18, 2008              Weather:          SUNNY
+
+Hours:      7-10AM 3-6PM                                         Chekrs:         ALAS
+
+School Day:          YES              District:          CENTRAL                   I/S CODE 5375
+
+
+                      N/B                         S/B                              E/B                     W/B
+DUAL-
+WHEELED                472                         715                             108                     644
+BIKES                    0                          12                               4                       1
+BUSES                    1                           2                               0                       0
+
+
+                      N/B TIME                     S/B TIME                        E/B TIME                W/B TIME
+
+AM PK 15 MIN           178     7.00                318    8.45                      36      8.30           258    7.15
+
+PM PK 15 MIN           184     4.45               335     4.30                      49      5.00           189    3.15
+
+AM PK HOUR             652     7.00               1171    8.00                     129      7.45           945    7.00
+
+PM PK HOUR             713     4.15               1260    4.15                     178      5.00           712    3.15
+
+
+
+NORTHBOUND Approach                                      SOUTHBOUND Approach                                     TOTAL   XING S/L   XING N/L
+
+Hours         Lt      Th       Rt Total                  Hours             Lt     Th        Rt Total              N-S     Ped Sch    Ped   Sch
+7-8            16      616      20   652                 7-8                27     926       36   989             1641      1   0      8     0
+8-9            19      417      21   457                 8-9                31    1096       44 1171              1628      0   0      9     0
+9-10           18      443      26   487                 9-10               23     892       37   952             1439      1   0     11     0
+3-4            11      633      20   664                 3-4                18    1035       24 1077              1741      0   0      7     0
+4-5              1     661      24   686                 4-5                24    1196       33 1253              1939      1   0      5     0
+5-6              4     639      13   656                 5-6                20    1093       40 1153              1809      0   0     12     0
+
+TOTAL          69 3409         124      3602             TOTAL             143 6238         214     6595         10197      3   0     52    0
+
+
+EASTBOUND Approach                                       WESTBOUND Approach                                      TOTAL   XING W/L   XING E/L
+
+Hours         Lt      Th       Rt Total                  Hours             Lt     Th        Rt Total             E-W      Ped Sch    Ped   Sch
+7-8            42      32       32   106                 7-8               633     200      112   945             1051     14   1     24     0
+8-9            39      46       42   127                 8-9               584     186      107   877             1004      9   0     13     0
+9-10           26      31       51   108                 9-10              441     156       99   696              804     10   0      6     0
+3-4            21      62       54   137                 3-4               492     114      100   706              843     13   0      2     0
+4-5            37      56       74   167                 4-5               476     111       72   659              826      4   0      4     0
+5-6            44      62       72   178                 5-6               383     110       44   537              715     16   0      4     0
+
+TOTAL         209      289     325        823            TOTAL         3009        877      534     4420          5243     66   1     53    0
+
+            (Rev Oct 06)
+

@@ -1,0 +1,56 @@
+                          City Of Los Angeles
+                          Department Of Transportation
+                          MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South               Hoover St
+
+East/West                 Beverly Blvd
+
+Day:                       Tuesday                 Date:              June 16, 2015                 Weather:              SUNNY
+
+Hours:        7-8:30 & 5:30-7                                                   Chekrs:             NDS
+
+School Day:               YES                      District:                                          I/S CODE
+
+
+                                N/B                             S/B                                    E/B                             W/B
+DUAL-
+WHEELED                             1                            1                                         11                           10
+BIKES                               0                            2                                         11                           20
+BUSES                               0                            0                                         26                           30
+
+
+                                N/B      TIME                   S/B     TIME                           E/B      TIME                   W/B    TIME
+
+AM PK 15 MIN                       10     7.00                  11       7.30                          229       8.00                  185     7.45
+
+PM PK 15 MIN                        9    18.30                  11      18.30                          228      17.45                  227    17.30
+
+AM PK HOUR                         27     7.00                  39       7.30                          749       7.30                  621     7.30
+
+PM PK HOUR                         31    17.45                  28      17.45                          846      17.30                  825    17.30
+
+
+
+
+NORTHBOUND Approach                                                   SOUTHBOUND Approach                                                    TOTAL    XING S/L       XING N/L
+
+Hours           Lt           Th          Rt        Total              Hours               Lt          Th        Rt        Total               N-S      Ped   Sch      Ped   Sch
+7-8                  11             1         15           27         7-8                      11           5        14           30             57     15     7       15     0
+8-9                   4             0         10           14         8-9                       3           7         9           19             33      5     3        5     0
+17-18                 4             2          8           14         17-18                     0           1        10           11             25     10     1        7     0
+18-19                 9             3         19           31         18-19                     9           3        15           27             58     32     5       22     0
+
+TOTAL                28             6         52           86         TOTAL                    23          16        48           87           173      62   16        49       0
+
+
+EASTBOUND Approach                                                    WESTBOUND Approach                                                     TOTAL    XING W/L       XING E/L
+
+Hours           Lt           Th          Rt        Total              Hours               Lt          Th        Rt        Total               E-W      Ped   Sch      Ped   Sch
+7-8                   6           530          6       542            7-8                      26      532            8       566              1108      1     0       10     0
+8-9                   4           407          6       417            8-9                      14      270            3       287               704      5     0        1     0
+17-18                 4           431         10       445            17-18                    14      417            7       438               883      0     0        1     0
+18-19                24           752         21       797            18-19                    41      716           17       774              1571      9     0        8     0
+
+TOTAL                38         2120          43      2201            TOTAL                    95     1935           35     2065              4266      15       0     20       0
+

@@ -1,0 +1,61 @@
+                    City Of Los Angeles
+                    Department Of Transportation
+                    MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South         RESEDA BOULEVAD
+
+East/West           VICTORY BOULEVARD
+
+Day:        TUESDAY                   Date:          MAY 19, 2015         Weather:          CLEAR
+
+Hours:      7-10AM 3-6PM
+
+School Day:         YES               District:              0              I/S CODE                   0
+
+
+                     N/B                           S/B                      E/B                     W/B
+DUAL-
+WHEELED                    0                         0                        0                        0
+BIKES                      0                         0                        0                        0
+BUSES                      0                         0                        0                        0
+
+
+                     N/B TIME                      S/B TIME                 E/B TIME                W/B TIME
+
+AM PK 15 MIN          243      7.45                273    7.15              459      7.30            427    7.30
+
+PM PK 15 MIN          291      5.15                289    5.30              458      5.30            397    5.30
+
+AM PK HOUR            800      7.15               1038    7.15             1700      7.15           1614    7.30
+
+PM PK HOUR           1115      4.30               1042    4.45             1729      5.00           1549    4.45
+
+
+
+NORTHBOUND Approach                                      SOUTHBOUND Approach                               TOTAL   XING S/L   XING N/L
+
+Hours         Lt     Th        Rt Total                  Hours     Lt      Th        Rt Total               N-S     Ped Sch    Ped   Sch
+7-8            95     542      122   759                 7-8       121      739      168 1028               1787      0   0      0     0
+8-9           105     528       96   729                 8-9       125      675      132   932              1661      0   0      0     0
+9-10           75     551      112   738                 9-10      112      654      105   871              1609      0   0      0     0
+3-4            85     781      124   990                 3-4       127      651      141   919              1909      0   0      0     0
+4-5           114     791      129 1034                  4-5       123      667      154   944              1978      0   0      0     0
+5-6           110     866      114 1090                  5-6       201      657      157 1015               2105      0   0      0     0
+
+TOTAL         584    4059      697      5340             TOTAL      809    4043      857     5709          11049      0   0     0     0
+
+
+EASTBOUND Approach                                       WESTBOUND Approach                                TOTAL   XING W/L   XING E/L
+
+Hours         Lt     Th        Rt Total                  Hours     Lt      Th        Rt Total              E-W      Ped Sch    Ped   Sch
+7-8           174    1411       72 1657                  7-8       185     1112      131 1428               3085      0   0      0     0
+8-9           144    1223       64 1431                  8-9       165     1212      141 1518               2949      0   0      0     0
+9-10          118    1139       69 1326                  9-10      128      942      102 1172               2498      0   0      0     0
+3-4           168    1252       84 1504                  3-4       128     1068      145 1341               2845      0   0      0     0
+4-5           153    1375       91 1619                  4-5       112     1153      181 1446               3065      0   0      0     0
+5-6           179    1475       75 1729                  5-6       128     1207      174 1509               3238      0   0      0     0
+
+TOTAL         936    7875      455      9266             TOTAL      846    6694      874     8414          17680      0   0     0     0
+
+            (Rev Oct 06)
+

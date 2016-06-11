@@ -1,0 +1,769 @@
+*******TRAFFIC CHECKER DATA                                                                                     STANDARD COUNT
+*    NS St:           ELMGROVE ST./5 FWY. S/B OFF RAMP                                                                                                                Chekrs:          JC                                                       !
+*     EW St:          RIVERSIDE DR.                                                                                                                                   Code:            20063                                                    !
+
+*    Date:            6/25/2015                                                                                                   Sch?              YES                                Weather: SUNNY                                           !
+*    Day:             THURSDAY                                                                                                                                                                                                                  !
+*    Dist:            HOLLYWOOD                                                                                                                                                                                                                 !
+*                                                                                                                                                                                                                                               !
+*    DIRECTION:                         NORTHBOUND                                                                                PERIOD: 7-10                        AM               PERIOD: 3-6                         PM                   !
+*                                                                                                                                                                                                                                               !
+*    Period              Light Vehicles                                                        D.W. Vehicles                                                                                Bus                                                 !
+*    Ending                 L                 T                 R            Ped                 L                    T                 R           Sch Pds              L                    T                 R              Bikes            !
+*    -------------        ----               ----              ----          ----              ----                  ----              ----            ----            ----                  ----              ----                             !
+*           7.15           3                 0               12                  0                 0                 0                 1                 0                 0                 0                 0                 0              !
+*           7.30           0                 0               13                  0                 0                 0                 2                 0                 0                 0                 0                 0              !
+*           7.45           1                 0               15                  0                 0                 0                 0                 0                 0                 0                 0                 0              !
+*           8.00           2                 0               12                  0                 0                 0                 0                 0                 0                 0                 0                 0              !
+*           8.15           3                 0               42                  0                 0                 0                 5                 0                 0                 0                 0                 0              !
+*           8.30           0                 0               35                  0                 0                 0                 1                 0                 0                 0                 0                 0              !
+*           8.45           1                 0               41                  0                 0                 0                 4                 0                 0                 0                 0                 0              !
+*           9.00           1                 1               48                  0                 0                 0                 0                 0                 0                 0                 0                 0              !
+*           9.15           0                 0               45                  0                 0                 0                 1                 0                 0                 0                 0                 0              !
+*           9.30           2                 0               13                  0                 0                 0                 0                 0                 0                 0                 0                 0              !
+*           9.45           1                 0               12                  0                 0                 0                 0                 0                 0                 0                 0                 0              !
+*         10.00            2                 0               14                  0                 0                 0                 2                 0                 0                 0                 0                 0              !
+*            ................. ................. ................. ................. ................. ................. ................. ................. ................. ................. ...................................            !
+*    DIRECTION:                NORTHBOUND                                                                                PERIOD: 3-6                         PM                                                                                 !
+*                                                                                                                                                                                                                                               !
+*    Period        Light Vehicles                                                              D.W. Vehicles                                                                                Bus                                                 !
+*    Ending          L          T                               R            Ped                 L          T                           R           Sch Pds              L                   T                  R              Bikes            !
+*    ------------- ----        ----                            ----          ----              ----        ----                        ----            ----            ----                 ----               ----                             !
+*           3.15          0                           2                9                  0          0                        0                 0                 0                0                 0                 0                 0      !
+*           3.30          1                           0               18                  0          0                        0                 0                 0                0                 0                 0                 0      !
+*           3.45          3                           1               19                  0          0                        0                 1                 0                0                 0                 0                 0      !
+*           4.00          0                           0               14                  0          0                        0                 2                 0                0                 0                 0                 0      !
+*           4.15          3                           0               16                  0          0                        0                 1                 0                0                 0                 0                 0      !
+*           4.30          1                           0               14                  0          0                        0                 1                 0                0                 0                 0                 0      !
+*           4.45          2                           0               12                  0          0                        0                 0                 0                0                 0                 0                 0      !
+*           5.00          3                           0               22                  0          0                        0                 0                 0                0                 0                 0                 0      !
+*           5.15          2                           2               31                  0          0                        0                 1                 0                0                 0                 0                 0      !
+*            5.30                   3                 2               35                  0                 0                 0                 0                 0                0                 0                 0                 0      !
+*            5.45                   1                 2               32                  0                 0                 0                 0                 0                0                 0                 0                 0      !
+*            6.00                   2                 1               26                  0                 0                 0                 1                 0                0                 0                 0                 0      !
+*                                                                                                                                                                                                                                               !
+*    ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+*    DIRECTION:                         EASTBOUND                                                                                 PERIOD: 7-10                        AM                                                                        !
+*                                                                                                                                                                                                                                               !
+*    Period        Light Vehicles                                                           D.W. Vehicles                                                                                   Bus                                                 !
+*    Ending          L          T                               R            Ped              L          T                              R           Sch Pds              L                   T                  R              Bikes            !
+*    ------------- ----        ----                            ----          ----           ----        ----                           ----            ----            ----                 ----               ----                             !
+*           7.15          0         74                                  0                 3       0          6                                  0                 0                0                 1                 0                 0      !
+*           7.30          1         90                                  0                 0       0          7                                  0                 0                0                 0                 0                 0      !
+*           7.45          0       166                                   0                 2       0          2                                  0                 0                0                 1                 0                 0      !
+*            8.00                   1             122                   0                 0                 0                 1                 0                 0                0                 0                 0                 0      !
+*            8.15                   2             137                   0                 1                 0                 0                 0                 0                0                 0                 0                 0      !
+*            8.30                   2             131                   0                 1                 0                 7                 0                 0                0                 1                 0                 0      !
+*            8.45                   4             183                   0                 3                 0                 4                 0                 0                0                 1                 0                 0      !
+*            9.00                   0             197                   0                 0                 0                 2                 0                 0                0                 1                 0                 0      !
+*            9.15                   1             163                   0                 2                 0               12                  0                 0                0                 0                 0                 0      !
+*            9.30                   1             155                   0                 4                 0                1                  0                 0                0                 1                 0                 0      !
+*           9.45                    2             147                   0                 2                 0                 2                 0                 0                 0                 1                 0                 0     !
+*          10.00                    2             136                   0                 1                 0                 2                 0                 0                 0                 0                 0                 0     !
+*                     ................. ................. ................. ................. ................. ................. ................. ................. ................. ................. ...................................   !
+*        DIRECTION:            EASTBOUND                                                         PERIOD: 3-6                 PM                                           !
+*                                                                                                                                                                         !
+*        Period        Light Vehicles                                      D.W. Vehicles                                                Bus                               !
+*        Ending          L          T           R          Ped               L          T            R         Sch Pds         L         T          R         Bikes       !
+*        ------------- ----        ----        ----        ----            ----        ----         ----          ----       ----       ----       ----                   !
+*               3.15          0       134             0               1          0           4             0             0          0          1          0           0   !
+*               3.30          1       216             0               0          0          10             0             0          0          0          0           0   !
+*               3.45          2       199             0               1          0           4             0             0          0          0          0           0   !
+*               4.00          1       169             0               1          0           3             0             0          0          0          0           0   !
+*               4.15          2       197             0               0          0           5             0             0          0          0          0           0   !
+*               4.30          1       166             0               2          0           7             0             0          0          1          0           0   !
+*               4.45          3       171             0               1          0           6             0             0          0          0          0           0   !
+*               5.00          1       178             0               0          0           3             0             0          0          1          0           0   !
+*               5.15          1       168             0               0          0           4             0             0          0          0          0           0   !
+*               5.30          2       174             0               0          0           5             0             0          0          1          0           1   !
+*               5.45          3       176             0               0          0           2             0             0          0          0          0           0   !
+*               6.00          4       167             0               1          0           3             0             0          0          1          0           0   !
+*                                                                                                                                                                         !
+*****************************************************************************************************************************
+                                                                                                                            ********
+                                                          Filing Macros
+Printing Macros                                                                                                COUNTS1.WK1 created by Michael May
+                                                          alt-J:          Save a new file                      3-28-89 for FETSIM'89 group.
+alt-D:   Print Data Sheet                                                                                      Modified version of the original program
+         :prsA1.aa81~lcaqg                                                                                     to yield 1/2 hour volumes for AM & PM periods
+
+
+alt-S:   Print Summary Sheet                                                                                   COUNTS3.WK1 created by Michael May
+         {calc}                                                                                                3-28-89 for FETSIM'89 group.
+         :prsAC1.BA59~lcaqg                                                                                    Modified version of COUNTS2.WKS to
+                                                          alt-F:          Save an old file                     yield one hour, alternating
+alt-B:   Print both sheets                                                /ruJ95~/cL6~J95~                     mid-day counts.
+         :prsA1.AA81~lcaqg                                                /few
+         :prsAC1.BA59~lcaqg                                               junk                                 COUNTSR.WK3 in WYSIWYG settings was
+                                                                          ~y                                   programmed by Romy Ricafranca of the
+alt-W: Print FETSIM Counts                                                {Esc}                                Department of Transportation on April 23, 1992
+         :prsAC62.BA120~lcaqg                                             /ruJ100~/cL6~J100~                   utilizing State of the Art Intel486DX PC
+                                                                          /fxf                                 running at 50 MHZ with 256 KCache
+alt-R:   Print First Sheet of Signal Warrant                              junk                                 and utilizing Lotus for Windows.
+         :prsCC1.CP63~lml1~qcaqg                                          ~A1.AA81~                            The new program can not be reproduced
+                                                                          /rpJ95~/rpj100~                      in any way without the written permission
+alt-O:   Print Second Sheet of Signal Warrant                                                                  of the programmer.
+         :prsCS1.DG51~lml1~qcaqg
+                                                          alt-G:          Get an old file
+alt-M: Print Third Sheet of Signal Warrant                                /ruJ113~/xlWhat file you want? ~J113~
+         :prsDK1.EA49~lcaqg                                               /wgpd/reC13.M24~/reC31.M42~
+                                                                          /reC50.M61~/reC68.M79~
+                                                                          /reP13.Z24~/reP31.Z42~
+Other Macros                                                              /reP50.Z61~/reP68.Z79~
+                                                                          /wgpe
+         alt-C:     Calculations                                          {home}/fcce
+                    {CALC}                                                SAMPLE
+                    {CALC}                                                ~/rpj89~
+                                                                          /xgC99~                (goto altC)
+
+Comments
+--------                                                                  /rua1..a81~/fxv{esc}{esc}
+                                                                          {?}~A1..BA81~
+COUNTS1.WKS written by Walter Okitsu
+3-6-85.
+                                                          alt-i           saves summary sheet only
+COUNTS2.WKS written by Walter Okitsu                                      /fxv{esc}{esc}
+3-11-85.                                                                  {?}~ac1..ba59~
+Modification on 5-21-87
+Update to .WK1 on 3-28-89                                 old alt-i       /fxv{esc}{esc}
+                                                                          {?}~ac1..ba59~
+**********************************************************************************************************************
+                                                                                                                     ******
+BIKES COUNT                                                                                                                                                                                                                            *
+                      N/B                                S/B                                 E/B                                W/B                                                                                                    *
+
+                        0                                  0                                   1                                   4                                                                                                   *
+                                                                                                                                                                                                                                       *
+                                                                                                                                                                                                                                       *
+                                                                                                                                                                                                                                       *
+DIRECTION:                         SOUTHBOUND                                           PERIOD: 7-10                        AM                                                                                                         *
+                                                                                                                                                                                                                                       *
+Period              Light Vehicles                                                        D.W. Vehicles                                                                               Bus                                              *
+Ending           L                    T                 R            Ped                 L                    T                 R          Sch Pds               L                    T                 R             Bikes            *
+------------- ----                        ----         ----          ----              ----                  ----              ----              ----          ----                  ----              ----                            *
+       7.15                6                 0                 1                 4                 0                 0                 0                 0                 0                 0                 0                 0     *
+       7.30                4                 0                 2                 0                 0                 0                 0                 0                 0                 0                 0                 0     *
+       7.45                8                 0                 3                 1                 0                 0                 0                 0                 0                 0                 0                 0     *
+       8.00                4                 0                 2                 1                 0                 0                 0                 0                 0                 0                 0                 0     *
+       8.15                8                 0                 6                 0                 0                 0                 0                 0                 0                 0                 0                 0     *
+       8.30                7                 0                 4                 0                 0                 0                 0                 0                 0                 0                 0                 0     *
+       8.45                8                 0                 3                 2                 0                 0                 0                 0                 0                 0                 0                 0     *
+       9.00                6                 0                 5                 1                 0                 0                 0                 0                 0                 0                 0                 0     *
+       9.15                8                 0                 1                 1                 0                 0                 0                 0                 0                 0                 0                 0     *
+       9.30                2                 0                 2                 4                 0                 0                 0                 0                 0                 0                 0                 0     *
+       9.45                5                 0                 3                 2                 0                 0                 0                 0                 0                 0                 0                 0     *
+     10.00                 4                 0                 1                 2                 0                 0                 0                 0                 0                 0                 0                 0     *
+             ................. ................. ................. ................. ................. ................. ................. ................. ................. ................. ...................................   *
+DIRECTION:                     SOUTHBOUND                                            PERIOD: 3-6                         PM                                                                                                            *
+                                                                                                                                                                                                                                       *
+Period         Light Vehicles                                                             D.W. Vehicles                                                                               Bus                                              *
+Ending          L           T                              R            Ped                 L          T                          R           Sch Pds              L                   T                  R             Bikes          *
+------------- ----         ----                           ----          ----              ----        ----                       ----            ----            ----                 ----               ----                          *
+       3.15           2                          0                0                 1           0                       0                 0                 0                0                 0                 0                 0   *
+       3.30           7                          0                3                 0           0                       0                 0                 0                0                 0                 0                 0   *
+       3.45           4                          0                2                 1           0                       0                 0                 0                0                 0                 0                 0   *
+       4.00           7                          0                1                 0           0                       0                 0                 0                0                 0                 0                 0   *
+       4.15           3                          0                2                 0           0                       0                 0                 0                0                 0                 0                 0   *
+       4.30           2                          0                2                 0           0                       0                 0                 0                0                 0                 0                 0   *
+       4.45           3                          0                1                 0           0                       0                 0                 0                0                 0                 0                 0   *
+       5.00           3                          0                0                 1           0                       0                 0                 0                0                 0                 0                 0   *
+       5.15           1                          0                2                 0           0                       0                 0                 0                0                 0                 0                 0   *
+         5.30                  2                 0                4                 1                 0                 0                 0                 0                0                 0                 0                 0 *
+         5.45                  5                 0                1                 0                 0                 0                 0                 0                0                 0                 0                 0 *
+         6.00                  3                 0                4                 0                 0                 0                 0                 0                0                 0                 0                 0 *
+                                                                                                                                                                                                                                       *
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------*
+DIRECTION:                         WESTBOUND                                            PERIOD: 7-10                        AM                                                                                                         *
+                                                                                                                                                                                                                                       *
+Period         Light Vehicles                                                         D.W. Vehicles                                                                                   Bus                                            *
+Ending          L           T                              R            Ped             L          T                              R           Sch Pds              L                   T                  R             Bikes        *
+------------- ----         ----                           ----          ----          ----        ----                           ----            ----            ----                 ----               ----                        *
+       7.15           0         45                                1                 0       0          2                                  0                 0                0                 1                 0                 0 *
+       7.30           0         57                                0                 0       0          2                                  0                 0                0                 1                 0                 0 *
+       7.45           0         57                                1                 0       0          0                                  0                 0                0                 0                 0                 1 *
+         8.00                  0               55                 0                 0                 0                 1                 0                 0                0                 0                 0                 0 *
+         8.15                  0               72                 3                 0                 0                 2                 0                 0                0                 0                 0                 0 *
+         8.30                  0               58                 1                 0                 0                 3                 0                 0                0                 1                 0                 0 *
+         8.45                  0             135                  4                 0                 0                 4                 0                 0                0                 0                 0                 0 *
+         9.00                  0             117                  5                 0                 0                 4                 0                 0                0                 0                 0                 0 *
+         9.15                  0             118                  3                 0                 0                 4                 0                 0                0                 1                 0                 0 *
+         9.30                  0             101                  2                 0                 0                 1                 0                 0                0                 0                 0                 0 *
+       9.45                    0               98                  0                 0                 0                 1                 0                 0                 0                 1                 0                 0 *
+      10.00                    0               94                  3                 0                 0                 1                 0                 0                 0                 0                 0                 0 *
+                 ................. ................. ................. ................. ................. ................. ................. ................. ................. ................. ................................... *
+DIRECTION:            WESTBOUND                           PERIOD: 3-6            PM                                                                         *
+                                                                                                                                                            *
+Period         Light Vehicles                             D.W. Vehicles                                                   Bus                               *
+Ending          L           T        R         Ped          L          T               R         Sch Pds         L         T          R         Bikes       *
+------------- ----         ----     ----       ----       ----        ----            ----          ----       ----       ----       ----                   *
+       3.15           0       121          6          0         0            5               0             0          0          1          0           0   *
+       3.30           0       164          3          0         0            2               0             0          0          1          0           1   *
+       3.45           0       191          2          0         0            0               0             0          0          0          0           0   *
+       4.00           0       136          5          0         0            4               0             0          0          0          0           0   *
+       4.15           0       159          6          0         0            1               0             0          0          1          0           1   *
+       4.30           0       202          4          0         0            0               0             0          0          1          0           0   *
+       4.45           0       188          5          0         0            2               0             0          0          0          0           0   *
+       5.00           0       243          3          0         0            1               0             0          0          0          0           0   *
+       5.15           0       269          5          0         0            1               0             0          0          1          0           0   *
+       5.30           0       244          8          0         0            3               0             0          0          2          0           1   *
+       5.45           0       291          7          0         0            1               0             0          0          1          0           0   *
+       6.00           0       286          7          0         0            3               0             0          0          2          0           0   *
+                                                                                                                                                            *
+**********************************************************************************************************************
+                                                                                                                     ******
+                                              City Of Los Angeles
+                                          Department Of Transportation
+                       MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South            ELMGROVE ST./5 FWY. S/B OFF RAMP
+
+East/West              RIVERSIDE DR.
+
+Day:           THURSDAY                   Date:             June 25, 2015            Weather:          SUNNY
+
+Hours:      7-10AM 3-6PM                                             Chekrs:         JC
+
+School Day:            YES                District:         HOLLYWOOD                 I/S CODE 20063
+
+
+                        N/B                           S/B                             E/B                        W/B
+DUAL-
+WHEELED                   23                            0                                 102                      48
+BIKES                      0                            0                                   1                       4
+BUSES                      0                            0                                  12                      15
+
+
+                        N/B TIME                      S/B TIME                        E/B TIME                   W/B TIME
+
+AM PK 15 MIN              50     8.00                  14     8.00                        200   8.45              143    8.30
+
+PM PK 15 MIN              40     5.15                  10     3.15                        227   3.15              300    5.30
+
+AM PK HOUR               182     8.00                  47     8.00                        726   8.30              499    8.30
+
+PM PK HOUR               141     5.00                  29     3.15                        809   3.15             1131    5.00
+
+
+
+NORTHBOUND Approach                                         SOUTHBOUND Approach                                         TOTAL   XING S/L   XING N/L
+
+Hours         Lt        Th       Rt Total                   Hours           Lt        Th        Rt     Total             N-S     Ped Sch    Ped   Sch
+7-8                6         0    55     61                 7-8              22             0     8         30             91      0   0      6     0
+8-9                5         1   176   182                  8-9              29             0    18         47            229      0   0      3     0
+9-10               5         0    87     92                 9-10             19             0     7         26            118      0   0      9     0
+3-4                4         3    63     70                 3-4              20             0     6         26             96      0   0      2     0
+4-5                9         0    66     75                 4-5              11             0     5         16             91      0   0      1     0
+5-6                8         7   126   141                  5-6              11             0    11         22            163      0   0      1     0
+
+TOTAL          37         11     573         621            TOTAL              112          0    55       167             788      0   0     22    0
+
+
+EASTBOUND Approach                                          WESTBOUND Approach                                          TOTAL   XING W/L   XING E/L
+
+Hours         Lt        Th       Rt       Total             Hours           Lt     Th           Rt     Total            E-W      Ped Sch    Ped   Sch
+7-8             2        470          0      472            7-8                  0 221            2       223             695      5   0      0     0
+8-9             8        664          0      672            8-9                  0 396           13       409            1081      5   0      0     0
+9-10            6        620          0      626            9-10                 0 420            8       428            1054      9   0      0     0
+3-4             4        740          0      744            3-4                  0 625           16       641            1385      3   0      0     0
+4-5             7        735          0      742            4-5                  0 798           18       816            1558      3   0      0     0
+5-6            10        701          0      711            5-6                  0 1104          27      1131            1842      1   0      0     0
+
+TOTAL          37 3930                0     3967            TOTAL                0 3564          84      3648            7615     26   0      0    0
+
+            (Rev Oct 06)
+  CHECK         0      22      27           4
+                                                                                                                                  City of Los Angeles
+                                                                                                                                  Department of Transportation
+                                                                           FETSIM COUNT SHEET                                     (R 3-89)
+
+
+
+
+     North/South St:         ELMGROVE ST./5 FWY. S/B OFF RAMP
+                             -----------------------------
+
+     East/West St:           RIVERSIDE DR.
+                             -----------------------------
+
+     Date:                   June 25, 2015
+                             -----------------------------
+
+
+     NOTE: THESE COUNTS WERE CALCULATED IN ACCORDANCE WITH THE COUNT DEFINITION OUTLINED
+             Peak hour volumes were calculated by determining the 1/2 hour during which the total volume
+             on all approaches was a maximum, i.e., from 7.00-7.30 or from 4.15-4.45. Then these volumes
+             were multiplied by 2 to get the hourly volumes. These numbers are not the same as the ones
+             in the Traffic Count Summary forms.
+
+
+
+
+                             A.M.        Format                                                               P.M.       LINK     Format
+
+
+
+                                    8           18                                                               10             0 16
+                                    6           56                                                                   6          6 118
+                                    8             0                                                              14         698     0
+                                    6             0                                                              28        1168     0
+
+
+
+
+     TRAFFIC COUNT SUMMARY Format
+
+
+                                                                           SB APPROACH
+
+
+                                    Lt          Rt                    Lt      Th           Rt
+             AM                     6           56                    18        6          8                                            9.30
+             PM                     6        118                      16        0      10                                               5.30
+
+
+
+                                                                           WB APPROACH
+                                   Lt           Rt                    Lt      Th       Rt
+             AM                     8            0                     0     698        6
+             PM                    14            0                     0    1168       28
+
+
+
+
+**** **** ****       ****    ****        ************        ****   **** ****       ****        ****   ************ **************** **** ******** ****
+%%% %%%%% %%%%% %%%%% %%%%% %%%%% %%%%% %%%%% %%%%% %%%%% %%%%% %%%%% %%%%%
+%   CALCULATION WORKSPACE                                                                                                                                                                                 !
+%                                                                                                                                                                                                         !
+
+%                                                                                                                                                                                                         !
+%                                                                                                                                                                                                         !
+%                                                                                                                                                                                                         !
+%                                                                                                                                                                                                         !
+%   NORTHBOUND AM                                                                                                                                                                                         !
+%                                                                                                                                                                                                         !
+%   Period             Total Vehicles                                            Cross              Hour D.W                                        Pedestrns                              Period         !
+%   Endng               L       T                 R               Tot.                      Tot.             Veh.               Bus               Ped               Sch           Begng                   !
+%   ----             ----              ---- ----                  ----                       ----              ----              ----              ----              ---- ----                            !
+%         7.15          3                 0               13                16                61                  1                 0                 0                 0            7.00                 !
+%         7.30          0                 0               15                15                95                  2                 0                 0                 0            7.15                 !
+%         7.45          1                 0               15                16              116                   0                 0                 0                 0            7.30                 !
+%         8.00          2                 0               12                14              146                   0                 0                 0                 0            7.45                 !
+%         8.15          3                 0               47                50              182                   5                 0                 0                 0            8.00                 !
+%         8.30          0                 0               36                36              178                   1                 0                 0                 0            8.15                 !
+%         8.45          1                 0               45                46              157                   4                 0                 0                 0            8.30                 !
+%         9.00          1                 1               48                50              124                   0                 0                 0                 0            8.45                 !
+%         9.15          0                 0               46                46                92                  1                 0                 0                 0            9.00                 !
+%         9.30          2                 0               13                15                                    0                 0                 0                 0            9.15                 !
+%         9.45          1                 0               12                13                                    0                 0                 0                 0            9.30                 !
+%        10.00          2                 0               16                18                                    2                 0                 0                 0            9.45                 !
+%         ................. ................. ................. ................. ................. ................. ................. ................. ................. .................             !
+%   NORTHBOUND PM                                                                                                                                                                                         !
+%                                                                                                                                                                                                         !
+%   Period             Total Vehicles                   Cross                                       Hour D.W                                        Pedestrns                         Period              !
+%   Endng              L          T         R      Tot.                                              Tot.   Veh.                          Bus           Ped                   Sch     Begng               !
+%   ----                    ----      ---- ----    ----                                               ----   ----                         ----          ----                  ---- ----                   !
+%        3.15                 0         2        9        11                                           70      0                            0              0                    0       3.00              !
+%        3.30                 1         0       18        19                                           79      0                            0              0                    0       3.15              !
+%        3.45                 3         1       20        24                                           76      1                            0              0                    0       3.30              !
+%        4.00                 0         0       16        16                                          66       2                            0              0                    0       3.45              !
+%        4.15                 3         0       17        20                                          75       1                            0              0                    0       4.00              !
+%        4.30                 1         0       15        16                                          91       1                            0              0                    0       4.15              !
+%        4.45                 2         0       12        14                                         115       0                            0              0                    0       4.30              !
+%        5.00                 3         0       22        25                                         136       0                            0              0                    0       4.45              !
+%        5.15                 2         2       32        36                                         141       1                            0              0                    0       5.00              !
+%           5.30                  3                 2               35                40                                    0                 0                 0                 0           5.15        !
+%           5.45                  1                 2               32                35                                    0                 0                 0                 0           5.30        !
+%           6.00                  2                 1               27                30                                    1                 0                 0                 0           5.45        !
+%                                                                                                                                                                                                         !
+%   -----------------------------------------------------------------------------------------------------------------------------------------------
+%   EASTBOUND AM                                                                                                                                                                                          !
+%                                                                                                                                                                                                         !
+%   Period             Total Vehicles                                        Cross                  Hour D.W                                        Pedestrns                         Period              !
+%   Endng              L          T                    R                Tot.                         Tot.   Veh.                          Bus           Ped                   Sch     Begng               !
+%   ----                    ----                 ---- ----              ----                          ----   ----                         ----          ----                  ---- ----                   !
+%        7.15                 0                   81                  0        81                    472       6                            1              3                    0       7.00              !
+%        7.30                 1                   97                  0        98                    530       7                            0              0                    0       7.15              !
+%        7.45                 0                 169                   0       169                    573       2                            1              2                    0       7.30              !
+%           8.00                  1             123                   0             124               596                   1                 0                 0                 0           7.45        !
+%           8.15                  2             137                   0             139               672                   0                 0                 1                 0           8.00        !
+%           8.30                  2             139                   0             141               709                   7                 1                 1                 0           8.15        !
+%           8.45                  4             188                   0             192               726                   4                 1                 3                 0           8.30        !
+%           9.00                  0             200                   0             200               686                   2                 1                 0                 0           8.45        !
+%           9.15                  1             175                   0             176               626                 12                  0                 2                 0           9.00        !
+%           9.30                  1             157                   0             158                                    1                  1                 4                 0           9.15        !
+%          9.45                   2             150                   0             152                                     2                 1                 2                 0            9.30       !
+%         10.00                   2             138                   0             140                                     2                 0                 1                 0            9.45       !
+%                   ................. ................. ................. ................. ................. ................. ................. ................. ................. .................   !
+    %     EASTBOUND PM                                                                                                       !
+    %                                                                                                                        !
+*   %     Period       Total Vehicles                           Cross   Hour D.W               Pedestrns           Period    !
+*   %     Endng        L          T            R           Tot.          Tot.   Veh.    Bus        Ped     Sch     Begng     !
+*   %     ----              ----         ---- ----         ----           ----   ----   ----       ----    ---- ----         !
+*   %          3.15           0         139            0         139     744       4      1           1      0       3.00    !
+*   %          3.30           1         226            0         227     809      10      0           0      0       3.15    !
+*   %          3.45           2         203            0         205     757       4      0           1      0       3.30    !
+*   %          4.00           1         172            0         173     732       3      0           1      0       3.45    !
+*   %          4.15           2         202            0         204     742       5      0           0      0       4.00    !
+*   %          4.30           1         174            0         175     711       7      1           2      0       4.15    !
+*   %          4.45           3         177            0         180     718       6      0           1      0       4.30    !
+*   %          5.00           1         182            0         183     719       3      1           0      0       4.45    !
+*   %          5.15           1         172            0         173     711       4      0           0      0       5.00    !
+*   %          5.30           2         180            0         182               5      1           0      0       5.15    !
+*   %          5.45           3         178            0         181               2      0           0      0       5.30    !
+*   %          6.00           4         171            0         175               3      1           1      0       5.45    !
+*   %
+*   %     %%%%% %%%%% %%%%% %%%%% %%%%% %%%%% %%%%% %%%%% %%%%% %%%%% %%%%% %%%%%
+*
+*   ****** ************************************************************************************************************
+*   *     FETSIM WORKSPACE                                 SEE COMMENTS BELOW
+*   *
+*   *                                                                             NB                                 SB
+*   *                 A.M.                  VOLUME             BEG
+*   *                                         TOTAL           TIME        L        T      R       TOT        L         T    R
+*   *                                                332       7.00        3       0     28         31     10          0     3
+*   *                                                433       7.15        1       0     30         31     12          0     5
+*   *                                                454       7.30        3       0     27         30     12          0     5
+*   *                                                480       7.45        5       0     59         64     12          0     8
+*   *                                                531       8.00        3       0     83         86     15          0    10
+*   *                                                643       8.15        1       0     81         82     15          0     7
+*   *                                                779       8.30        2       1     93         96     14          0     8
+*   *                                                744       8.45        1       1     94         96     14          0     6
+*   *                                                638       9.00        2       0     59         61     10          0     3
+*   *                                                554       9.15        3       0     25         28       7         0     5
+*   *                                                534       9.30        3       0     28         31       9         0     4
+*   *
+*   *
+*   *
+*   *                 MAX 1/2 HOUR VOLUME PEA                   779
+*   *                 TIME MAX PEAK STARTS                     9.30
+*   *                                                                             NB                                 SB
+*   *                 P.M.                  VOLUME             BEG
+*   *                                         TOTAL           TIME        L        T      R       TOT        L         T    R
+*   *                                                711       3.00        1       2     27         30       9         0     3
+*   *                                                854       3.15        4       1     38         43     11          0     5
+*   *                                                770       3.30        3       1     36         40     11          0     3
+*   *                                                738       3.45        3       0     33         36     10          0     3
+*   *                                                798       4.00        4       0     32         36       5         0     4
+*   *                                                795       4.15        3       0     27         30       5         0     3
+*   *                                             851          4.30        5       0     34         39       6         0     1
+*   *                                             946          4.45        5       2     54         61       4         0     2
+*   *                                             973          5.00        5       4     67         76       3         0     6
+*   *                                            1007          5.15        4       4     67         75       7         0     5
+*   *                                            1032          5.30        3       3     59         65       8         0     5
+*   *
+*   *                 MAX 1/2 HOUR VOLUME PEA                  1032
+    *                 TIME MAX PEAK STARTS                      5.30
+    *
+    *     COMMEN
+    *     --------
+    *     A. DESIGN RULES FOR CALCULATING HOUR COUNT:
+    *              1. FIND MAX 1/2 HOUR COUNT BY ADDING 2 SUCCESSIVE 15 MINUTE VOLUME COUNTS WITH @SUM FNC
+    *                 THEN FIND MAX USING @MAX FUNCTION. @VLOOKUP LOOKS FOR THE HIGHEST VOLUME.
+%%%%% %%%%% %%%%% %%%%% %%%%% %%%%% %%%%% %%%%% %%%%% %%%%% %%%%% %
+                                                                                                                                                                                                  %
+                                                                                                                                                                                                  %
+
+                                                                                                                                                                                                  %
+                                                                                                                                                                                                  %
+                                                                                                                                                                                                  %
+                                                                                                                                                                                                  %
+SOUTHBOUND AM                                                                                                                                                                                     %
+                                                                                                                                                                                             %
+Period              Total Vehicles                                           Cross              Hour D.W                                        Pedestrns                             Period %
+Endng                L          T                 R               Tot.                      Tot.             Veh.               Bus               Ped               Sch           Begng %
+----                 ----              ---- ----                  ----                       ----              ----              ----              ----              ---- ----                %
+      7.15              6                 0                 1                 7               30                  0                 0                 4                 0            7.00 %
+      7.30              4                 0                 2                 6               37                  0                 0                 0                 0            7.15 %
+      7.45              8                 0                 3               11                42                  0                 0                 1                 0            7.30 %
+      8.00              4                 0                 2                 6               42                  0                 0                 1                 0            7.45 %
+      8.15              8                 0                 6               14                47                  0                 0                 0                 0            8.00 %
+      8.30              7                 0                 4               11                42                  0                 0                 0                 0            8.15 %
+      8.45              8                 0                 3               11                35                  0                 0                 2                 0            8.30 %
+      9.00              6                 0                 5               11                32                  0                 0                 1                 0            8.45 %
+      9.15              8                 0                 1                 9               26                  0                 0                 1                 0            9.00 %
+      9.30              2                 0                 2                 4                                   0                 0                 4                 0            9.15 %
+      9.45              5                 0                 3                 8                                   0                 0                 2                 0            9.30 %
+     10.00              4                 0                 1                 5                                   0                 0                 2                 0            9.45 %
+          ................. ................. ................. ................. ................. ................. ................. ................. ................. ................. %
+SOUTHBOUND PM                                                                                                                                                                                 %
+                                                                                                                                                                                              %
+Period       Total Vehicles                                            Cross              Hour D.W                                         Pedestrns                              Period %
+Endng         L                 T                 R               Tot.                      Tot.             Veh.               Bus               Ped               Sch           Begng %
+----                 ----              ---- ----                  ----                       ----              ----              ----              ----              ---- ----                %
+     3.15               2                 0                 0                 2               26                  0                 0                 1                 0            3.00 %
+     3.30               7                 0                 3               10                29                  0                 0                 0                 0            3.15 %
+     3.45               4                 0                 2                 6               23                  0                 0                 1                 0            3.30 %
+     4.00               7                 0                 1                 8               21                  0                 0                 0                 0            3.45 %
+     4.15               3                 0                 2                 5               16                  0                 0                 0                 0            4.00 %
+     4.30               2                 0                 2                 4               14                  0                 0                 0                 0            4.15 %
+     4.45               3                 0                 1                 4               16                  0                 0                 0                 0            4.30 %
+     5.00               3                 0                 0                 3               18                  0                 0                 1                 0            4.45 %
+     5.15               1                 0                 2                 3               22                  0                 0                 0                 0            5.00 %
+        5.30                   2                 0                4                 6                                   0                0                 1                 0            5.15 %
+        5.45                   5                 0                1                 6                                   0                0                 0                 0            5.30 %
+        6.00                   3                 0                4                 7                                   0                0                 0                 0            5.45 %
+                                                                                                                                                                                                  %
+-----------------------------------------------------------------------------------------------------------------------------------------------%
+WESTBOUND AM                                                                                                                                                                                      %
+                                                                                                                                                                                                  %
+Period              Total Vehicles                                       Cross                  Hour D.W                                        Pedestrns                        Period %
+Endng               L          T                    R               Tot.                         Tot.   Veh.                         Bus            Ped                  Sch     Begng %
+----                     ----                 ---- ----             ----                          ----   ----                        ----           ----                 ---- ----      %
+     7.15                  0                   48                 1        49                    223       2                           1               0                   0       7.00 %
+     7.30                  0                   60                 0        60                    251       2                           1               0                   0       7.15 %
+     7.45                  0                   57                 1        58                    254       0                           0               0                   0       7.30 %
+        8.00                   0              56                  0               56              339                   1                0                 0                 0            7.45 %
+        8.15                   0              74                  3               77              409                   2                0                 0                 0            8.00 %
+        8.30                   0              62                  1               63              458                   3                1                 0                 0            8.15 %
+        8.45                   0            139                   4             143               499                   4                0                 0                 0            8.30 %
+        9.00                   0            121                   5             126               456                   4                0                 0                 0            8.45 %
+        9.15                   0            123                   3             126               428                   4                1                 0                 0            9.00 %
+        9.30                   0            102                   2             104                                     1                0                 0                 0            9.15 %
+       9.45                    0             100                   0             100                                     1                 1                 0                 0            9.30 %
+      10.00                    0               95                  3               98                                    1                 0                 0                 0            9.45 %
+                 ................. ................. ................. ................. ................. ................. ................. ................. ................. ................. %
+ WESTBOUND PM                                                                                                   %
+                                                                                                                %
+ Period      Total Vehicles                         Cross   Hour D.W               Pedestrns             Period %
+ Endng       L          T            R         Tot.          Tot.   Veh.    Bus        Ped     Sch       Begng %
+ ----             ----         ---- ----       ----           ----   ----   ----       ----    ----   ----      %
+      3.15          0         127          6         133     641       5      1           0      0         3.00 %
+      3.30          0         167          3         170     675       2      1           0      0         3.15 %
+      3.45          0         191          2         193     712       0      0           0      0         3.30 %
+      4.00          0         140          5         145     714       4      0           0      0         3.45 %
+      4.15          0         161          6         167     816       1      1           0      0         4.00 %
+      4.30          0         203          4         207     925       0      1           0      0         4.15 %
+      4.45          0         190          5         195     975       2      0           0      0         4.30 %
+      5.00          0         244          3         247    1080       1      0           0      0         4.45 %
+      5.15          0         271          5         276    1131       1      1           0      0         5.00 %
+      5.30          0         249          8         257               3      2           0      0         5.15 %
+      5.45          0         293          7         300               1      1           0      0         5.30 %
+      6.00          0         291          7         298               3      2           0      0         5.45 %
+                                                                                                                %
+ %%%%% %%%%% %%%%% %%%%% %%%%% %%%%% %%%%% %%%%% %%%%% %%%%% %%%%% %
+
+
+ ****************************************************************************************************
+                                                                                                                    *
+                                                                                                               *
+                              EB                                     WB                                        *
+                                                                                                               *
+     TOT           L            T          R       TOT        L        T      R       TOT                      *
+        13         1          178          0        179        0     108      1        109                     *
+        17         1          266          0        267        0     117      1        118                     *
+        17         1          292          0        293        0     113      1        114                     *
+        20         3          260          0        263        0     130      3        133                     *
+        25         4          276          0        280        0     136      4        140                     *
+        22         6          327          0        333        0     201      5        206                     *
+        22         4          388          0        392        0     260      9        269                     *
+        20         1          375          0        376        0     244      8        252                     *
+        13         2          332          0        334        0     225      5        230                     *
+        12         3          307          0        310        0     202      2        204                     *
+        13         4          288          0        292        0     195      3        198                     *
+                                                                                                               *
+                                                                                                               *
+                                                                                                               *
+                                                                                                               *
+                                                                                                               *
+                              EB                                     WB                                        *
+                                                                                                               *
+     TOT           L            T          R       TOT        L        T      R       TOT                      *
+        12         1          365          0        366        0     294      9        303                     *
+        16         3          429          0        432        0     358      5        363                     *
+        14         3          375          0        378        0     331      7        338                     *
+        13         3          374          0        377        0     301     11        312                     *
+         9         3          376          0        379        0     364     10        374                     *
+         8         4          351          0        355        0     393      9        402                     *
+         7         4          359          0        363        0     434      8        442                     *
+         6         2          354          0        356        0     515      8        523                     *
+         9         3          352          0        355        0     520     13        533                     *
+        12         5          358          0        363        0     542     15        557                     *
+        13         7          349          0        356        0     584     14        598                     *
+                                                                                                               *
+        2. TAKE MAX 1/2 HOUR VOLUMES AND MULTIPLY BY TWO TO GET HOURLY VOLUMES                                 *
+           CONSISTENT WITH DEFINITION OF VOLUME IN FETSIM '89 ORIENTATION MANUAL.                              *
+                                                                                                               *
+                 B. ALT-W WILL EXECUTE THE PRINTING MACRO FOR THIS FETSIM COUNT                                *
+         CAN THEN SIMPLY                                                                                       *
+                   HIT ALT-S TO PRINT THE SUMMARY SHEET AND THEN ALT-W TO PRINT                                *
+CTION              OUR SHEETS.                                                                                 *
+                                                                                                               *
+      TRAFFIC SIGNAL WARRANTS
+                                                                                                                                          CALC DATE:                    June 25, 2015
+                                                                                                                                          CHK DATE:
+
+                                                                                                                                 DISTRICT:                          HOLLYWOOD
+Major St:                 RIVERSIDE DR.                                                                        Critical Approach Speed:                                                mph
+Minor St:                 ELMGROVE ST./5 FWY. S/B OFF RAMP                                                     Critical Approach Speed:                                                mph
+
+Critical speed of major street traffic >=40 mph
+                             OR
+In built up area of isolated community of =< 10,000 population                                                             ........... ...........       RURAL(R)
+                             OTHERWISE         ........... ........... ...........                             ........... ........... ...........       URBAN (U)
+WARRANT 1- Minimum Vehicular Volume                                                                            100% SATISFIED                             YES                     NO
+                                                                                                               80% SATISFIED                              YES                     NO
+
+                          MINIMUM REQUIREMENTS
+                          (80% SHOWN IN BRACKETS)
+
+
+APPROACH          U       R                               U      R                                             Hour
+LANES                 1                                 2 or  more                     7-8          8-9         9-10           3-4          4-5           5-6
+Both Approaches 500      350                             600    420
+Major Street    (400)   (280)                           (480)  (336)                      695        1081           1054         1385        1558          1842
+Highest Approch 150      105                             200    140
+Minor street    (120)    (84)                           (160)  (112)                         61        182             92            70           75        141
+
+NOTE: Heavier left turn movement from Major Street included when LT-phasing is proposed
+
+WARRANT2- Interruption of ContinuousTraffic                                                                    100% SATISFIED                             YES                     NO
+                                                                                                               80% SATISFIED                              YES                     NO
+
+                          MINIMUM REOUIREMENTS
+                          (80% SHOWN IN BRACKETS)
+
+
+APPROACH           U         R       U       R                       Hour
+LANES                    1        2 or   more         7-8      8-9    9-10       3-4     4-5                                                              5-6
+Both Approaches 750         525     900     630
+Major Street     (600)     (420)   (720)   (504)         695    1081    1054      1385    1558                                                             1842
+HighestApprch      75        53     100      70
+Minor Street      (60)      (42)    (80)    (56)          61     182       92        70      75                                                             141
+*NOTE: Heavier left turn movement from Major Street included when LT-phasing is proposed
+
+WARRANT 3- Minimum Pedetrian Volume                                                                            100% SATISFIED                             YES                     NO
+                                                                                                               80% SATISFIED                              YES                     NO
+
+                          MINIMUM REQUIREMENTS
+                          (80% SHOWN IN BRACKETS)
+
+                                                                                                               Hour
+                                                           U             R             7-8          8-9         9-10           3-4          4-5           5-6
+Both Approaches no                                        600           420
+Major Street     median                                  (480)         (336)              695        1081           1054         1385        1558          1842
+                 Raised                                  1000           700
+Volume           4'median                                (800)         (560)
+Peds on highest volume                                    150           105
+x-walk xing major st                                     (120)          (84)                 5             5             9            3              3          1
+
+IF MIDBLOCK SIGNAL PROPOSED
+MIN. REOUIREMENT DISTANCE TO NEAREST ESTABLISHED CROSSWALK                                                                                                          FULFILLED
+   150 FEET          N/E:      FT             S/W:       FT                                                                                               YES               NO
+
+The satisfaction of a warrant is not necessarily justification for a signal.   Delay, congestion, confusion or other evidence of the need for right of way assignment must be shown.
+TRAFFIC SIGNAL WARRANTS                                                                                                  Page 2
+
+
+WARRANT 4 - Schools Crossings                                      Not Applicable
+                                                                   See School Crossings Warrant Sheet
+
+
+WARRANT 5 - Progressive Movement                                             SATISFIED             YES              NO
+
+MINIMUM REQUIREMENTS        DISTANCE TO NEAREST SIGNAL                         FULFILLED
+> 1000 ft                               N     S       E      W                 YES    NO
+ON ONE WAY ISOLATED ST. OR ST. WITH ONE WAY TRAFFIC SIGNIFICANCE AND ADJACENT
+SIGNALS ARE SO FAR APART THAT NECESSARY PLATOONING IL SPEED CONTROL WOULD BE LOST.
+ON 2-WAY ST. WHERE ADJACENT SIGNALS DO NOT PROVIDE NECESSARY PLATOONING &
+SPEED CONTROL. PROPOSED SIGNALS COULD CONSTITUTE A PROGRESSIVE SIGNAL SYSTEM   YES    NO
+
+
+WARRANT 6 - Accident Experience                                              SATISFIED             YES              NO
+
+REQUIREMENT                        WARRANT                                           (X)                                 FULFILLED
+ONE WARRANT               WARRANT 1 - MINIMUM VEHICULAR VOLUME
+SATISFIED                 OR
+80%                       WARRANT 2 - INTERRUPTION OF CONTINUOUS TRAFFIC
+                          OR
+                          WARRANT 3 - MINIMUM PEDESTRIAN VOLUME                                                              YES   NO
+SIGNAL WILL NOT SERIOUSLY DISRUPT PROGRESSIVE TRAFFIC FLOW
+ADEQUATE TRIAL OF LESS RESTRICTIVE REMEDIES HAS FAILED TO REDUCE ACC. FREQ.
+ACC WITHIN A 12 MON. PERIOD SUSCEPTIBLE OF CORR. lL INVOLVING INJURY OR > $200 DAMAGE
+MINIMUM REQUIREMENT                    NUMBER OF ACCIDENTS
+3 OR MORE                                                                                                                    YES   NO
+* NOTE: Left turn accidents can be included when LT-phasing is proposed
+
+
+
+WARRANT 7 - Systems Warrant                                                  SATISFIED             YES              NO
+
+Minimum Volume Requirement                      ENTERING VOLUMES - ALL APPROACHES               (X)                      FULFILLED
+                                                DURING TYPICAL WEEKDAY PEAK HOUR
+                                                                              2110       veh/hr
+800 VEH/HR                                      DURING EACH OF ANY 5 HRS OF A SAT AND/OR SUNDAY
+                                                                                         veh/hr
+                                                                                                                             YES   NO
+                  CHARACTERISTICS OF MAJOR ROUTES                                                           MAJOR ST
+                                                                                                                  MINOR ST
+HWY SYSTEM SERVING AS PRINCIPLE NETWORK FOR THROUGH TRAFFIC
+CONNECTS AREAS OF PRINCIPLE TRAFFIC GENERATION
+RURAL OR SUBURBAN HWY OUTSIDE OF, ENTERING, OR TRAVERSING A CITY
+HAS SURFACE STREET FWY OR EXPWAY RAMP TERMINALS
+APPEARS AS MAJOR ROUTE ON AN OFFICIAL PLAN
+                  ANY MAJOR ROUTE CHARACTERISTICS MET, BOTH STREETS                                                          YES   NO
+
+The satisfaction of a warrant is not necessarily justification for a signal. Delay, congestion, confusion
+or other evidence of the need for right of way assignment must be shown.
+TRAFFIC SIGNAL WARRANTS                                                                                                                Page 3
+
+
+WARRANT 8 - Combination of Warrants                                                               SATISFIED          YES                NO
+
+
+REQUIREMENT                                  WARRANT                                                           (X)   FULFILLED
+TWO WARRANTS                  1 - MINIMUM VEHICULAR VOLUME
+SATISFIED                     2 - INTERRUPTION OF CONTINUOUS TRAFFIC
+80%                           3 - MINIMUM PEDESTRIAN VOLUME                                                          YES        NO
+
+
+WARRANT 9 - Four Hour Volume                                                                      SATISFIED          YES                NO
+
+
+                                                                                 2 or                           Hour
+           Approach Lanes                                    One                 more             5-6               3-4        8-9
+
+Both Approaches, Major Street                                                                           1842         1385 1081
+
+ Highest Approaches, Minor Street                                                            141        75                70     182
+*Refer to Fig. 9-2A (URBAN AREAS) or Figure 9-2B (RURAL AREAS) to determine if this warrant is satisfied.
+
+
+WARRANT 10 - Peak Hour Delay                                                                      SATISFIED          YES                NO
+
+1. The total delay experienced for traffic on one minor street approach
+controlled by a STOP sign equals or exceeds four vehicle-hours for a
+one-lane approach and five vehicle-hours for a two-lane approach; and                                                YES                NO
+
+2. The volume on the same minor street approach equals or exceeds 100 vph
+for one moving lane of traffic or 150 vph for two moving lanes; and                                                  YES                NO
+
+3. The total entering volume serviced during the hour equals or exceeds
+800 vph for intersections with four or more approaches or 650 vph for
+intersections with three approaches
+                                                                                                                     YES                NO
+
+
+WARRANT 11 - Peak Hour Volume                                                                     SATISFIED*         YES                NO
+
+                                                                                 2 or                Hour
+   Approach Lanes                                            One                 more             5-6
+
+Both Approaches , Major Street                                                                          1842
+
+ Highest Approaches, Minor Street                                                                           141
+*Refer to Fig. 9-2C (URBAN AREAS) or Figure 9-2D (RURAL AREAS) to determine if this warrant is satisfied.
+_
+The satisfaction of a warrant is not necessarily justification for a signal. Delay, congestion, confusion or other
+evidence of the need for right of way assignment must be shown.
+CALCULATIONS
+MAX OF WARRANT PAIRS   1983                     CH         CI          CJ          CK          CL   CM
+NEXT MAX               1633   TOTAL EACH CELL        756        1263        1146        1455    1633 1983
+NEXT MAX               1455
+NEXT MAX               1263                     MAX                    NEXT                    NEXT
+                                                   1983                    756                   756
+                                                   1983                   1263                  1263
+                                                   1983                   1146                  1146
+                                                   1983                   1455                     0
+                                                   1983                      0                     0
+                                                   1633                      0                     0
+

@@ -1,0 +1,66 @@
+                     City Of Los Angeles
+                     Department Of Transportation
+                     MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South          LA CIENEGA BOULEVARD
+
+East/West            JEFFERSON BOULEVARD
+
+Day:        WEDNESDAY                 Date:         APRIL 15, 2015       Weather:          CLEAR
+
+Hours:      7-10AM 3-6PM
+
+School Day:          YES              District:              0             I/S CODE                   0
+
+
+                      N/B                          S/B                     E/B                     W/B
+DUAL-
+WHEELED                    0                         0                       0                        0
+BIKES                      0                         0                       0                        0
+BUSES                      0                         0                       0                        0
+
+
+                      N/B TIME                     S/B TIME                E/B TIME                W/B TIME
+
+AM PK 15 MIN           551     9.30                591    8.30             264      9.30            415    7.45
+
+PM PK 15 MIN           531     4.00                544    3.15             390      5.00            315    5.15
+
+AM PK HOUR            2112     8.45               2280    8.30            1015      8.45           1581    7.45
+
+PM PK HOUR            2058     3.45               2076    5.00            1466      5.00           1173    5.00
+
+
+
+NORTHBOUND Approach                                      SOUTHBOUND Approach                              TOTAL       XING S/L           XING N/L
+
+Hours         Lt      Th       Rt Total                  Hours     Lt     Th        Rt Total               N-S          Ped Sch           Ped    Sch
+7-8            85     1860      78 2023                  7-8        49    1511      488 2048               4071           0   0             0      0
+8-9            83     1841     119 2043                  8-9        72    1659      478 2209               4252           0   0             0      0
+9-10          101     1825     161 2087                  9-10       65    1605      445 2115               4202           0   0             0      0
+3-4            39     1627     288 1954                  3-4        79    1771      134 1984               3938           0   0             0      0
+4-5            35     1726     257 2018                  4-5        66    1816      155 2037               4055           0   0             0      0
+5-6            35     1673     303 2011                  5-6        60    1853      163 2076               4087           0   0             0      0
+
+TOTAL          378 10552       1206 12136                TOTAL     391 10215        1863 12469            24605            0      0          0    0
+
+
+EASTBOUND Approach                                       WESTBOUND Approach                               TOTAL       XING W/L           XING E/L
+
+Hours         Lt      Th       Rt Total                  Hours     Lt     Th        Rt Total              E-W           Ped Sch           Ped    Sch
+7-8           399      356      35   790                 7-8       431     926      146 1503               2293           0   0             0      0
+8-9           457      485      61 1003                  8-9       527     891       99 1517               2520           0   0             0      0
+9-10          453      441      73   967                 9-10      495     867      109 1471               2438           0   0             0      0
+3-4           468      637     153 1258                  3-4       438     378       84   900              2158           0   0             0      0
+4-5           572      694     137 1403                  4-5       493     500       71 1064               2467           0   0             0      0
+5-6           585      712     169 1466                  5-6       510     589       74 1173               2639           0   0             0      0
+
+TOTAL         2934    3325     628      6887             TOTAL    2894    4151      583     7628          14515            0      0          0    0
+
+            (Rev Oct 06)
+
+
+                                                                                                                  City of Los Angeles                  ****
+                                                                                                                  Department of Transportation         ****
+                                                                 FETSIM COUNT SHEET                               (R 3-89)                             ****
+

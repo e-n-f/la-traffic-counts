@@ -1,0 +1,288 @@
+                       City Of Los Angeles
+                       Department Of Transportation
+                       MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South            Van Nuys Blvd
+
+East/West              Saticoy St
+
+Day:               TUESDAY                    Date:              10/18/2011                    Weather:              SUNNY
+
+Hours:        7-10AM 3-6PM                                                 Chekrs:             NDS
+
+School Day:            YES                    District:                                          I/S CODE
+
+
+                           N/B                            S/B                                     E/B                           W/B
+DUAL-
+WHEELED                     41                              47                                        19                         21
+BIKES                       86                              85                                        12                         10
+BUSES                      119                             128                                        21                          0
+
+
+                           N/B      TIME                   S/B    TIME                            E/B      TIME                 W/B    TIME
+
+AM PK 15 MIN               324       7.45                  435      8.15                          279       7.45                 46     7.15
+
+PM PK 15 MIN               442      17.00                  401     17.45                          196      17.15                 63    16.00
+
+AM PK HOUR                1099       7.30                 1644      8.00                          890       7.30                156     7.15
+
+PM PK HOUR                1734      16.30                 1514     17.00                          773      16.45                188    15.30
+
+
+
+
+NORTHBOUND Approach                                              SOUTHBOUND Approach                                                  TOTAL    XING S/L       XING N/L
+
+Hours           Lt       Th         Rt        Total              Hours               Lt          Th        Rt Total                    N-S      Ped   Sch      Ped   Sch
+7-8              224      707            36       967            7-8                      13     1176       256  1445                   2412     36     0       13     0
+8-9              189      808            35      1032            8-9                      19     1389       236  1644                   2676     10     0       21     0
+9-10             125      847            21       993            9-10                     16     1092       204  1312                   2305     25     0       16     0
+15-16            186     1297            34      1517            15-16                    43     1153       261  1457                   2974     16     0       10     0
+16-17            220     1419            37      1676            16-17                    12     1079       298  1389                   3065     35     0        2     0
+17-18            220     1392            25      1637            17-18                    10     1183       321  1514                   3151     26     0       14     2
+
+TOTAL           1164      6470       188         7822            TOTAL                113        7072      1576         8761           16583    148       0     76       2
+
+
+EASTBOUND Approach                                               WESTBOUND Approach                                                   TOTAL    XING W/L       XING E/L
+
+Hours           Lt       Th         Rt Total                     Hours               Lt          Th        Rt        Total             E-W      Ped   Sch      Ped   Sch
+7-8              386          53     395   834                   7-8                      60          51        43       154             988     84     0       38     0
+8-9              290          22     346   658                   8-9                      48          22        20         90            748     64     1       23     0
+9-10             233           9     310   552                   9-10                     31          16        25         72            624     40     0       34     0
+15-16            328          44     275   647                   15-16                    41          72        36       149             796     51     0       29     0
+16-17            369          25     324   718                   16-17                    32          92        32       156             874     68     0       26     0
+17-18            403          26     316   745                   17-18                    26          48        20         94            839     74     2       34     7
+
+TOTAL           2009       179      1966         4154            TOTAL                238         301       176          715            4869    381       3    184       7
+                                      Intersection Turning Movement
+                                                                  Prepared by:
+                                              National Data & Surveying Services
+         Project ID: CA11_5410_004                                                                                          Day: TUESDAY
+                                                                                    BIKES
+                  City: Los Angeles                                                                                        Date: 10/18/2011
+                                                                                     AM
+     NS/EW Streets:            Van Nuys Blvd                   Van Nuys Blvd                     Saticoy St             Saticoy St
+
+                               NORTHBOUND                      SOUTHBOUND                        EASTBOUND              WESTBOUND
+
+                          NL           NT       NR        SL        ST         SR           EL      ET        ER   WL      WT        WR    TOTAL
+     LANES:
+
+           7:00   AM       0           1                            4          0            0        0        0    1        1        0         7
+           7:15   AM       1           3                            5          6            1        0        0    0        1        0        17
+           7:30   AM       1           4                            2          1            0        0        1    0        0        0         9
+           7:45   AM       1           6                            5          1            0        0        0    0        0        1        14
+           8:00   AM       0           1                            5          1            0        0        0    0        0        0         7
+           8:15   AM       0           1                            1          0            0        0        0    1        0        0         3
+           8:30   AM       0           0                            0          0            0        1        1    0        0        0         2
+           8:45   AM       0           4                            3          0            0        1        0    0        1        0         9
+           9:00   AM       0           3                            3          0            0        0        0    0        0        0         6
+           9:15   AM       0           2                            1          0            0        0        0    0        0        0         3
+           9:30   AM       0           2                            3          0            0        0        0    0        0        0         5
+           9:45   AM       0           8                            3          1            0        0        0    0        0        0        12
+
+                        NL        NT            NR          SL     ST     SR     EL     ET     ER    WL      WT    WR    TOTAL
+    TOTAL VOLUMES :      3        35             0          0      35     10      1      2      2     2       3     1      94
+     APPROACH %'s :    7.89% 92.11%             0.00%      0.00% 77.78% 22.22% 20.00% 40.00% 40.00% 33.33% 50.00% 16.67%
+                     nb a      nb d                     sb a    sb d          eb a   eb d          wb a   nb d
+PEAK HR START TIME :       715 AM                                                                                        TOTAL
+
+      PEAK HR VOL :        3          14         0        0        17          9            1       0         1    0       1         1        47
+
+   PEAK HR FACTOR :                   0.607                       0.591                            0.500                  0.500               0.691
+
+         CONTROL :
+                                      Intersection Turning Movement
+                                                                  Prepared by:
+                                              National Data & Surveying Services
+         Project ID: CA11_5410_004                                                                                               Day: TUESDAY
+                                                                                    BIKES
+                  City: Los Angeles                                                                                             Date: 10/18/2011
+                                                                                     PM
+     NS/EW Streets:            Van Nuys Blvd                   Van Nuys Blvd                     Saticoy St                  Saticoy St
+
+                               NORTHBOUND                      SOUTHBOUND                        EASTBOUND                   WESTBOUND
+
+                          NL           NT       NR        SL        ST         SR           EL      ET        ER        WL      WT        WR      TOTAL
+     LANES:
+
+           3:00   PM       2           1                            1           0           1        1                  0        0                  6
+           3:15   PM       1           1                            4           0           2        0                  0        0                  8
+           3:30   PM       0           3                            5           0           0        0                  0        0                  8
+           3:45   PM       0           4                            4           0           0        1                  0        0                  9
+           4:00   PM       0           3                            6           0           0        0                  0        0                  9
+           4:15   PM       2           4                            4           0           0        0                  0        0                 10
+           4:30   PM       0           3                            5           1           0        0                  0        1                 10
+           4:45   PM       0           5                            0           0           0        0                  1        0                  6
+           5:00   PM       0           8                            1           0           0        1                  0        1                 11
+           5:15   PM       0           7                            4           0           0        0                  0        0                 11
+           5:30   PM       0           1                            4           0           1        0                  0        1                  7
+           5:45   PM       0           3                            1           0           0        0                  0        0                  4
+
+                        NL        NT            NR          SL     ST           SR        EL     ET            ER       WL      WT        WR      TOTAL
+    TOTAL VOLUMES :      5        43             0          0      39            1         4      3             0        1       3         0        99
+     APPROACH %'s :   10.42% 89.58%             0.00%      0.00% 97.50%        2.50%    57.14% 42.86%         0.00%    25.00% 75.00%      0.00%
+                     nb a      nb d                     sb a    sb d                   eb a   eb d                    wb a   nb d
+PEAK HR START TIME :       430 PM                                                                                                                 TOTAL
+
+      PEAK HR VOL :        0          23         0        0        10          1            0       1         0         1       2         0        38
+
+   PEAK HR FACTOR :                   0.719                       0.458                            0.250                       0.750               0.864
+
+         CONTROL :
+                                      Intersection Turning Movement
+                                                                  Prepared by:
+                                              National Data & Surveying Services
+         Project ID: CA11_5410_004                                                                                               Day: TUESDAY
+                                                                                   BUSES
+                  City: Los Angeles                                                                                             Date: 10/18/2011
+                                                                                    AM
+     NS/EW Streets:            Van Nuys Blvd                   Van Nuys Blvd                    Saticoy St                   Saticoy St
+
+                               NORTHBOUND                      SOUTHBOUND                       EASTBOUND                    WESTBOUND
+
+                          NL           NT       NR        SL        ST         SR          EL      ET         ER        WL      WT        WR    TOTAL
+     LANES:
+
+           7:00   AM       2           4                            9          2           1                  0                                    18
+           7:15   AM       1           4                            7          1           1                  0                                    14
+           7:30   AM       1           3                            5          1           1                  0                                    11
+           7:45   AM       0           4                            2          0           0                  0                                     6
+           8:00   AM       0           7                            4          0           0                  1                                    12
+           8:15   AM       1           5                            4          0           1                  0                                    11
+           8:30   AM       1           2                            4          2           1                  0                                    10
+           8:45   AM       0           10                           2          0           0                  0                                    12
+           9:00   AM       0           8                            4          0           0                  1                                    13
+           9:15   AM       0           3                            3          1           1                  0                                     8
+           9:30   AM       1           5                            8          0           0                  1                                    15
+           9:45   AM       0           2                            5          0           0                  2                                     9
+
+                        NL        NT            NR          SL     ST     SR     EL      ET                    ER       WL      WT        WR    TOTAL
+    TOTAL VOLUMES :      7        57             0          0      57      7      6       0                     5       0        0         0     139
+     APPROACH %'s :   10.94% 89.06%             0.00%      0.00% 89.06% 10.94% 54.55%   0.00%                45.45%
+                     nb a      nb d                     sb a    sb d          eb a    eb d                            wb a   nb d
+PEAK HR START TIME :       700 AM                                                                                                               TOTAL
+
+      PEAK HR VOL :        4          15         0        0        23          4           3       0          0          0      0         0        49
+
+   PEAK HR FACTOR :                   0.792                       0.614                           0.750                        0.000               0.681
+
+         CONTROL :
+                                      Intersection Turning Movement
+                                                                  Prepared by:
+                                              National Data & Surveying Services
+         Project ID: CA11_5410_004                                                                                         Day: TUESDAY
+                                                                                   BUSES
+                  City: Los Angeles                                                                                       Date: 10/18/2011
+                                                                                    PM
+     NS/EW Streets:            Van Nuys Blvd                   Van Nuys Blvd                    Saticoy St             Saticoy St
+
+                               NORTHBOUND                      SOUTHBOUND                       EASTBOUND              WESTBOUND
+
+                          NL           NT       NR        SL        ST         SR          EL      ET        ER   WL      WT        WR    TOTAL
+     LANES:
+
+           3:00   PM       1           2                            8          0           0        0        0                               11
+           3:15   PM       0           5                            4          2           2        0        1                               14
+           3:30   PM       1           5                            8          1           2        0        0                               17
+           3:45   PM       0           6                            4          0           0        0        0                               10
+           4:00   PM       0           6                            7          0           0        0        1                               14
+           4:15   PM       0           4                            4          2           1        0        0                               11
+           4:30   PM       2           4                            3          0           0        0        0                                9
+           4:45   PM       0           4                            1          0           0        0        0                                5
+           5:00   PM       0           4                            6          0           0        1        0                               11
+           5:15   PM       0           4                            4          0           1        0        0                                9
+           5:30   PM       0           2                            4          1           0        0        1                                8
+           5:45   PM       3           2                            1          4           0        0        0                               10
+
+                        NL        NT            NR          SL     ST     SR     EL     ET     ER     WL                  WT        WR    TOTAL
+    TOTAL VOLUMES :      7        48             0          0      54     10      6      1      3      0                   0         0     129
+     APPROACH %'s :   12.73% 87.27%             0.00%      0.00% 84.38% 15.63% 60.00% 10.00% 30.00%
+                     nb a      nb d                     sb a    sb d          eb a   eb d           wb a               nb d
+PEAK HR START TIME :       315 PM                                                                                                         TOTAL
+
+      PEAK HR VOL :        1          22         0        0        23          3           4       0         2    0       0         0        55
+
+   PEAK HR FACTOR :                   0.958                       0.722                           0.500                  0.000               0.809
+
+         CONTROL :
+                                     Intersection Turning Movement
+                                                             Prepared by:
+                                             National Data & Surveying Services
+         Project ID: CA11_5410_004                                                                                  Day: TUESDAY
+                                                                          Heavy Trucks
+                 City: Los Angeles                                                                                 Date: 10/18/2011
+                                                                               AM
+    NS/EW Streets:            Van Nuys Blvd               Van Nuys Blvd                  Saticoy St             Saticoy St
+
+                              NORTHBOUND                  SOUTHBOUND                     EASTBOUND              WESTBOUND
+
+                         NL           NT       NR    SL        ST         SR        EL      ET        ER   WL      WT        WR    TOTAL
+     LANES:
+
+          7:00   AM       0           2         0     0        3           1        0        0        1    0        1        0         8
+          7:15   AM       0           1         0     0        2           0        1        0        0    2        2        0         8
+          7:30   AM       0           2         0     0        1           0        0        0        0    1        0        2         6
+          7:45   AM       1           0         0     0        5           0        0        0        0    1        0        0         7
+          8:00   AM       1           4         1     1        0           0        0        0        0    0        0        1         8
+          8:15   AM       0           1         0     0        2           0        1        0        1    1        0        0         6
+          8:30   AM       1           1         1     0        2           0        0        0        0    7        0        0        12
+          8:45   AM       0           3         0     0        0           2        0        0        0    0        0        0         5
+          9:00   AM       0           1         0     1        3           0        0        0        1    0        1        0         7
+          9:15   AM       0           4         0     0        2           1        0        0        0    1        0        0         8
+          9:30   AM       0           1         1     0        4           1        0        1        0    0        1        0         9
+          9:45   AM       1           1         0     0        3           0        0        0        0    0        0        0         5
+
+                        NL        NT NR        SL     ST     SR     EL     ET     ER    WL      WT    WR    TOTAL
+   TOTAL VOLUMES :       4        21  3        2      27      5      2      1      3     13      5     3      89
+    APPROACH %'s :    14.29% 75.00% 10.71%    5.88% 79.41% 14.71% 33.33% 16.67% 50.00% 61.90% 23.81% 14.29%
+                     nb a      nb d        sb a    sb d          eb a   eb d          wb a   nb d
+PEAK HR START TIME :       745 AM                                                                           TOTAL
+
+      PEAK HR VOL :       3           6         2    1         9           0        1       0         1    9       0         1        33
+
+   PEAK HR FACTOR :                  0.458                   0.500                         0.250                  0.357               0.688
+
+         CONTROL :
+                                      Intersection Turning Movement
+                                                              Prepared by:
+                                              National Data & Surveying Services
+         Project ID: CA11_5410_004                                                                                   Day: TUESDAY
+                                                                           Heavy Trucks
+                  City: Los Angeles                                                                                 Date: 10/18/2011
+                                                                                PM
+     NS/EW Streets:            Van Nuys Blvd               Van Nuys Blvd                  Saticoy St             Saticoy St
+
+                               NORTHBOUND                  SOUTHBOUND                     EASTBOUND              WESTBOUND
+
+                          NL           NT       NR    SL        ST         SR        EL      ET        ER   WL      WT        WR    TOTAL
+     LANES:
+
+           3:00   PM       0           3         0    0         0                    0        0        0                                3
+           3:15   PM       1           1         1    2         2                    1        2        0                               10
+           3:30   PM       0           0         0    0         0                    1        0        1                                2
+           3:45   PM       0           0         0    0         2                    0        0        0                                2
+           4:00   PM       0           0         1    0         0                    0        0        0                                1
+           4:15   PM       0           0         1    0         1                    1        1        0                                4
+           4:30   PM       0           0         0    0         0                    1        0        0                                1
+           4:45   PM       0           0         0    0         1                    0        0        0                                1
+           5:00   PM       1           0         0    0         1                    0        0        0                                2
+           5:15   PM       0           1         0    0         2                    3        0        0                                6
+           5:30   PM       0           3         0    0         1                    0        0        1                                5
+           5:45   PM       0           0         0    0         1                    1        0        0                                2
+
+                        NL        NT NR      SL     ST                      SR        EL     ET     ER     WL       WT        WR    TOTAL
+   TOTAL VOLUMES :       2         8  3       2     11                       0         8      3      2      0        0         0      39
+    APPROACH %'s :    15.38% 61.54% 23.08% 15.38% 84.62%                   0.00%    61.54% 23.08% 15.38%
+                     nb a      nb d       sb a   sb d                              eb a   eb d           wb a    nb d
+PEAK HR START TIME :       300 PM                                                                                                   TOTAL
+
+      PEAK HR VOL :        1           4         1    2         4           0        2       2         1    0       0         0        17
+
+   PEAK HR FACTOR :                   0.500                   0.375                         0.417                  0.000               0.425
+
+         CONTROL :
+
