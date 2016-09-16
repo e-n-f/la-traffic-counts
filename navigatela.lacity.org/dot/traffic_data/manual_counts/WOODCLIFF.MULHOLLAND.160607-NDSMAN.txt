@@ -1,0 +1,60 @@
+                         City Of Los Angeles
+                         Department Of Transportation
+                         MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South              Woodcliff Rd
+
+East/West                Mulholland Dr
+
+Day:                      Tuesday                Date:             June 7, 2016                Weather:            SUNNY
+
+Hours:        7-10 & 3-6                                                    Chekrs:            NDS
+
+School Day:              YES                     District:                                       I/S CODE
+
+
+                               N/B                           S/B                                  E/B                        W/B
+DUAL-
+WHEELED                           0                           7                                       34                      33
+BIKES                             0                           2                                        3                       3
+BUSES                             0                           0                                        0                       0
+
+
+                               N/B      TIME                 S/B    TIME                          E/B      TIME              W/B    TIME
+
+AM PK 15 MIN                      0      0.00                193     7.15                         196       8.15             143     7.45
+
+PM PK 15 MIN                      0      0.00                 40    17.00                         152      15.30             243    17.30
+
+AM PK HOUR                        0      0.00                679     7.00                         639       7.30             509     7.30
+
+PM PK HOUR                        0      0.00                140    17.00                         443      15.00             918    15.30
+
+
+
+
+NORTHBOUND Approach                                                SOUTHBOUND Approach                                             TOTAL    XING S/L       XING N/L
+
+Hours           Lt          Th          Rt       Total             Hours              Lt         Th        Rt Total                 N-S      Ped   Sch      Ped   Sch
+7-8                  0            0          0           0         7-8                 328            0     351   679                679       0     0        0     0
+8-9                  0            0          0           0         8-9                 346            0     267   613                613       0     0        0     0
+9-10                 0            0          0           0         9-10                326            0     122   448                448       0     0        0     0
+15-16                0            0          0           0         15-16                 87           0      31   118                118       0     0        0     0
+16-17                0            0          0           0         16-17                 95           0      23   118                118       0     0        0     0
+17-18                0            0          0           0         17-18               105            0      35   140                140       0     0        0     0
+
+TOTAL                0             0         0           0         TOTAL              1287             0    829      2116           2116       0       0      0       0
+
+
+EASTBOUND Approach                                                 WESTBOUND Approach                                              TOTAL    XING W/L       XING E/L
+
+Hours           Lt          Th          Rt       Total             Hours              Lt         Th        Rt      Total            E-W      Ped   Sch      Ped   Sch
+7-8               19             459         0       478           7-8                     0      398        34        432            910      0     0        0     0
+8-9               37             564         0       601           8-9                     0      330        56        386            987      0     0        0     0
+9-10              30             448         0       478           9-10                    0      229        57        286            764      0     0        0     0
+15-16             78             365         0       443           15-16                   0      450       382        832           1275      0     0        0     0
+16-17            108             244         0       352           16-17                   0      371       531        902           1254      0     0        0     0
+17-18            126             231         0       357           17-18                   0      415       498        913           1270      0     0        0     0
+
+TOTAL            398           2311          0      2709           TOTAL                   0     2193      1558      3751           6460       0       0      0       0
+
