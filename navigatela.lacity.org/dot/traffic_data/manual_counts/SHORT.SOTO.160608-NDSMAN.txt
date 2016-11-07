@@ -1,0 +1,60 @@
+                          City Of Los Angeles
+                          Department Of Transportation
+                          MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South               Soto St
+
+East/West                 Short St
+
+Day:                      Wednesday                 Date:               June 8, 2016                Weather:              SUNNY
+
+Hours:        7-10 & 2-5                                                         Chekrs:            NDS
+
+School Day:               YES                       District:                                         I/S CODE
+
+
+                                 N/B                              S/B                                  E/B                            W/B
+DUAL-
+WHEELED                             630                           777                                      7                            0
+BIKES                                21                            20                                      1                            0
+BUSES                               104                            72                                      8                            0
+
+
+                                 N/B      TIME                    S/B    TIME                          E/B      TIME                  W/B    TIME
+
+AM PK 15 MIN                        412    7.45                   354     9.15                             10    7.45                   0     0.00
+
+PM PK 15 MIN                        399   16.30                   348    15.30                             18   14.45                   0     0.00
+
+AM PK HOUR                      1479       7.00                  1394     7.15                             29    7.45                   0     0.00
+
+PM PK HOUR                      1481      15.45                  1274    15.00                             65   14.30                   0     0.00
+
+
+
+
+NORTHBOUND Approach                                                     SOUTHBOUND Approach                                                 TOTAL    XING S/L       XING N/L
+
+Hours           Lt            Th          Rt        Total               Hours              Lt         Th        Rt        Total              N-S      Ped   Sch      Ped   Sch
+7-8                  86        1393            0      1479              7-8                     0     1338           25     1363             2842       0     0        6     1
+8-9                  65        1276            0      1341              8-9                     1     1263           35     1299             2640       0     0       19     1
+9-10                 44          996           0      1040              9-10                    0     1242           46     1288             2328       0     0       10     1
+14-15                58        1283            0      1341              14-15                   1     1111           16     1128             2469       0     0       15     0
+15-16                53        1375            0      1428              15-16                   1     1238           35     1274             2702       0     0       28     6
+16-17                50        1431            0      1481              16-17                   0     1009           28     1037             2518       0     0       12     0
+
+TOTAL            356            7754           0       8110             TOTAL                   3     7201       185        7389             15499      0       0     90       9
+
+
+EASTBOUND Approach                                                      WESTBOUND Approach                                                  TOTAL    XING W/L       XING E/L
+
+Hours           Lt            Th          Rt        Total               Hours              Lt         Th        Rt        Total              E-W      Ped   Sch      Ped   Sch
+7-8                  3                0        19           22          7-8                     0          0         0            0             22     12     2        0     0
+8-9                  2                0        20           22          8-9                     0          0         0            0             22     16     6        0     0
+9-10                 3                0        19           22          9-10                    0          0         0            0             22      8     0        0     0
+14-15                3                0        45           48          14-15                   0          0         0            0             48     18     0        0     0
+15-16                3                0        59           62          15-16                   0          0         0            0             62     25     0        0     0
+16-17                3                0        50           53          16-17                   0          0         0            0             53     12     2        0     0
+
+TOTAL                17               0    212          229             TOTAL                   0          0         0            0            229     91   10         0       0
+
