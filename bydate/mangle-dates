@@ -1,0 +1,57 @@
+#!/usr/bin/perl
+
+%months = (
+	"jan" =>  1,
+	"feb" =>  2,
+	"mar" =>  3,
+	"apr" =>  4,
+	"may" =>  5,
+	"jun" =>  6,
+	"jul" =>  7,
+	"aug" =>  8,
+	"sep" =>  9,
+	"oct" => 10,
+	"nov" => 11,
+	"dec" => 12,
+);
+
+while (<>) {
+	($id, $name, $id2, $date, $time, $rest) = split(/,/, $_, 6);
+
+	if ($date =~ /([A-Za-z]+)[,.]* *([0-9]+)((ST)|(TH)?)[,.]* +(\d\d\d\d)/) {
+		$month = $1;
+		$day = $2;
+		$year = $6;
+
+		$month =~ tr/A-Z/a-z/;
+		$month = substr($month, 0, 3);
+
+		if ($months{$month} eq "") {
+			print "0 ";
+			# print "xxx $date\n";
+		} else {
+			$date = sprintf("%04d-%02d-%02d", $year, $months{$month}, $day);
+			printf("%.5f ", $year + ($months{$month} - 1) / 12 + $day / 365);
+		}
+	} elsif ($date =~ /^([0-9]+)[-\/]([0-9]+)[-\/]([0-9]+)$/) {
+		$month = $1;
+		$day = $2;
+		$year = $3;
+
+		if ($year < 100) {
+			if ($year < 20) {
+				$year += 2000;
+			} else {
+				$year += 1900;
+			}
+		}
+
+		$date = sprintf("%04d-%02d-%02d", $year, $month, $day);
+		printf("%.5f ", $year + ($month - 1) / 12 + $day / 365);
+	} else {
+		print "0 ";
+		# print "xxx $date\n";
+	}
+
+	print "$id,$name,$id2,$date,$time,$rest";
+}
