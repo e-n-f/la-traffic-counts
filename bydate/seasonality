@@ -1,6 +1,6 @@
 set terminal postscript
 
-# cat counts-la-dot.csv | ../kc-traffic-counts/estimate-peak-hour -24 | ../kc-traffic-counts/sum-walk | awk '($1 > 0)' | ./mangle-dates | awk '($1 > 0)' > date-vs-count-2016
+# cat ../counts-la-dot.csv | ../../kc-traffic-counts/estimate-peak-hour -24 | ../../kc-traffic-counts/sum-walk | awk '($1 > 0)' | ./mangle-dates | awk '($1 > 0)' > date-vs-count-2016
 
 f(x) = a * cos(x / 3 * pi + b) + c
 a = .204473
@@ -11,9 +11,11 @@ fit f(x) "date-vs-count-2016" using (1 + 12 * ($1 - int($1))):(log($2)) via a, b
 
 set logscale y
 set xrange [1:13]
+set yrange [1:100000]
 set xlabel "Month of year"
 set ylabel "Daily intersection pedestrian volume"
 set xtics (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12)
 plot "date-vs-count-2016" using (1 + 12 * ($1 - int($1))):(($2)), exp(f(x)) lt 1 lw 5
 plot "date-vs-count-2016" using (1 + 12 * ($1 - int($1))):(($2)) title "All pedestrian counts on each date", exp(0.205 * cos(x / 3 * pi + 1.32) + 6.2) lt 1 lw 5
+plot "date-vs-count-2016" using (1 + 12 * ($1 - int($1))):($2 / (exp(f(1 + 12 * ($1 - int($1))))) * exp(c)) title "Adjusted pedestrian counts on each date"
 
