@@ -1,0 +1,61 @@
+                     City Of Los Angeles
+                     Department Of Transportation
+                     MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South          MATEO ST
+
+East/West            INDUSTRIAL ST.
+
+Day:             THURSDAY               Date:       September 22, 2016 Weather:                SUNNY
+
+Hours:        11AM-2PM 3-6PM
+
+School Day:          YES                District:         CENTRAL            I/S CODE 0
+
+
+                      N/B                           S/B                      E/B                           W/B
+DUAL-
+WHEELED                90                           147                           0                          0
+BIKES                  11                            18                           0                          0
+BUSES                  16                            18                           0                          0
+
+
+                      N/B TIME                      S/B TIME                 E/B TIME                      W/B TIME
+
+AM PK 15 MIN           73      11.45                 83 11.45                     0 11.00                    0    11.00
+
+PM PK 15 MIN           80       5.30                109    4.00                   0   3.00                   0     3.00
+
+AM PK HOUR            228      12.45                289 11.45                     0 11.00                    0    11.00
+
+PM PK HOUR            293       5.00                398    4.45                   0   3.00                   0     3.00
+
+
+
+NORTHBOUND Approach                                       SOUTHBOUND Approach                                    TOTAL     XING S/L       XING N/L
+
+Hours          Lt     Th       Rt       Total             Hours     Lt       Th       Rt       Total              N-S         Ped Sch       Ped   Sch
+11-12            0    222           0     222             11-12          0    248          0      248              470          3   0        72     0
+12-1             0    207           0     207             12-1           0    280          0      280              487          6   0        62     0
+1-2              0    209           0     209             1-2            0    257          0      257              466         11   0        90     0
+3-4              0    199           0     199             3-4            0    301          0      301              500         10   0       103     0
+4-5              0    192           0     192             4-5            0    391          0      391              583          9   0        62     0
+5-6              0    293           0     293             5-6            0    389          0      389              682          6   0        43     0
+
+TOTAL            0 1322             0 1322                TOTAL          0 1866            0     1866             3188        45      0     432      0
+
+
+EASTBOUND Approach                                        WESTBOUND Approach                                     TOTAL     XING W/L       XING E/L
+
+Hours          Lt     Th       Rt       Total             Hours     Lt       Th       Rt       Total             E-W          Ped Sch       Ped   Sch
+11-12            0         0        0        0            11-12          0        0        0           0               0        0   0         0     0
+12-1             0         0        0        0            12-1           0        0        0           0               0        0   0         0     0
+1-2              0         0        0        0            1-2            0        0        0           0               0        0   0         0     0
+3-4              0         0        0        0            3-4            0        0        0           0               0        0   0         0     0
+4-5              0         0        0        0            4-5            0        0        0           0               0        0   0         0     0
+5-6              0         0        0        0            5-6            0        0        0           0               0        0   0         0     0
+
+TOTAL            0         0        0        0            TOTAL          0        0        0           0               0       0      0       0      0
+
+              (Rev Oct 06)
+
