@@ -1,0 +1,61 @@
+#!/usr/bin/perl
+
+use strict;
+
+while (<>) {
+	chomp;
+	if (/File Name: (.*)/) {
+		my $fname = $1;
+		$fname =~ s/^#[0-9]* - //;
+		$fname =~ s/ - .\.M\. Peak Period//;
+		$fname =~ s/,/ /g;
+
+		$a = $ARGV;
+		$a =~ s/,/ /g;
+
+		my $date = "";
+		my $within = 0;
+
+		LINE:
+		while (<>) {
+			chomp;
+			if (/Start Date: (.*)/) {
+				$date = $1;
+			}
+
+			if (/Start Time +Left/) {
+				$within = 1;
+			} elsif ($within) {
+				if (/^$/) {
+					last LINE;
+				}
+
+				my @fields = split(/ +/, $_);
+				if ($#fields != 18) {
+					print STDERR "expected 18 fields in $\n";
+					last LINE;
+				}
+
+				my $time = "";
+				if ($fields[0] =~ /(\d+):(\d+)/) {
+					my $h = $1;
+					my $m = $2;
+					if ($fields[1] eq "PM") {
+						$h += 12;
+					}
+					my $start = $h * 60 + $m;
+					my $end = $start + 15;
+					$time = sprintf("%02d:%02d-%02d:%02d", $start / 60, $start % 60, $end / 60, $end % 60);
+
+					print "$a,$fname,Los Angeles,$date,$time,";
+					print "$fields[4],$fields[3],$fields[2],";
+					print "$fields[8],$fields[7],$fields[6],";
+					print "$fields[12],$fields[11],$fields[10],";
+					print "$fields[16],$fields[15],$fields[14],";
+					print "$fields[5],$fields[9],$fields[13],$fields[17],,,,";
+					print "\n";
+				}
+			}
+		}
+	}
+}
