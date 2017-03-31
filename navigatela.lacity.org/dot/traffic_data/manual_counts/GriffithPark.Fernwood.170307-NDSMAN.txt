@@ -1,0 +1,60 @@
+                         City Of Los Angeles
+                         Department Of Transportation
+                         MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South              Griffith Park Blvd
+
+East/West                Fernwood Ave
+
+Day:                      Tuesday                 Date:         March 7, 2017                    Weather:             SUNNY
+
+Hours:        7-10 & 3-6                                                     Chekrs:             NDS
+
+School Day:              YES                      District:                                        I/S CODE
+
+
+                                N/B                           S/B                                   E/B                            W/B
+DUAL-
+WHEELED                            19                         20                                        0                            2
+BIKES                              50                         42                                        0                            1
+BUSES                               0                          0                                        0                            0
+
+
+                                N/B     TIME                  S/B    TIME                           E/B     TIME                   W/B    TIME
+
+AM PK 15 MIN                      104    7.45                 140     7.45                              0    0.00                   10     9.00
+
+PM PK 15 MIN                      177   16.45                 81     17.45                              0    0.00                   11    16.15
+
+AM PK HOUR                        330    7.15                 483     7.30                              0    0.00                   26     8.45
+
+PM PK HOUR                        631   16.45                 272    17.00                              0    0.00                   24    15.30
+
+
+
+
+NORTHBOUND Approach                                                 SOUTHBOUND Approach                                                  TOTAL    XING S/L       XING N/L
+
+Hours           Lt           Th         Rt        Total             Hours              Lt          Th       Rt        Total               N-S      Ped   Sch      Ped   Sch
+7-8                  2            269         8       279           7-8                     5       386          0        391              670       0     0        1     0
+8-9                  1            235         2       238           8-9                     0       401          0        401              639       0     0        5     0
+9-10                 1            208        11       220           9-10                    4       317          0        321              541       0     0        3     0
+15-16                2            339         8       349           15-16                   8       228          0        236              585       1     0        2     0
+16-17                1            514        26       541           16-17                   8       234          0        242              783       1     0        0     0
+17-18                1            538        70       609           17-18                   9       263          0        272              881       0     0        3     0
+
+TOTAL                8         2103      125         2236           TOTAL                   34     1829          0      1863              4099       2       0     14       0
+
+
+EASTBOUND Approach                                                  WESTBOUND Approach                                                   TOTAL    XING W/L       XING E/L
+
+Hours           Lt           Th         Rt        Total             Hours              Lt          Th       Rt        Total               E-W      Ped   Sch      Ped   Sch
+7-8                  0              0         0           0         7-8                      8          0        7            15             15      0     0        8     0
+8-9                  0              0         0           0         8-9                     11          0        5            16             16      0     0       13     1
+9-10                 0              0         0           0         9-10                    16          0        6            22             22      0     0       14     1
+15-16                0              0         0           0         15-16                   11          0        7            18             18      0     0       10     0
+16-17                0              0         0           0         16-17                   10          0        8            18             18      0     0       17     1
+17-18                0              0         0           0         17-18                    8          0        2            10             10      0     0       14     0
+
+TOTAL                0              0         0           0         TOTAL                   64          0        35           99            99       0       0     76       3
+

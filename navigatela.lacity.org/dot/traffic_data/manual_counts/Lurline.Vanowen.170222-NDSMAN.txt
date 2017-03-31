@@ -1,0 +1,60 @@
+                          City Of Los Angeles
+                          Department Of Transportation
+                          MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South               Lurline Ave
+
+East/West                 Vanowen St
+
+Day:                      Wednesday               Date:         February 22, 2017                 Weather:            SUNNY
+
+Hours:        7-10 & 3-6                                                      Chekrs:             NDS
+
+School Day:               YES                     District:                                         I/S CODE
+
+
+                                N/B                            S/B                                   E/B                          W/B
+DUAL-
+WHEELED                             4                           0                                    121                           111
+BIKES                               2                           0                                     30                            26
+BUSES                               0                           0                                     23                            32
+
+
+                                N/B     TIME                   S/B    TIME                           E/B     TIME                 W/B     TIME
+
+AM PK 15 MIN                       19    7.45                   0      0.00                          272      8.00                 381     7.45
+
+PM PK 15 MIN                       20   17.45                   0      0.00                          368     17.30                 291    17.15
+
+AM PK HOUR                         58    7.00                   0      0.00                          970      7.15                1441     7.30
+
+PM PK HOUR                         60   17.00                   0      0.00                         1401     17.00                1069    17.00
+
+
+
+
+NORTHBOUND Approach                                                  SOUTHBOUND Approach                                                 TOTAL    XING S/L       XING N/L
+
+Hours           Lt            Th        Rt        Total              Hours              Lt          Th       Rt       Total               N-S      Ped   Sch      Ped   Sch
+7-8                  17             0        41           58         7-8                     0           0        0           0              58      3     0        0     0
+8-9                   9             0        29           38         8-9                     0           0        0           0              38      3     0        0     0
+9-10                  5             0        19           24         9-10                    0           0        0           0              24      3     0        0     0
+15-16                17             0        32           49         15-16                   0           0        0           0              49      2     0        0     1
+16-17                 5             0        26           31         16-17                   0           0        0           0              31      4     0        0     0
+17-18                13             0        47           60         17-18                   0           0        0           0              60      3     0        0     0
+
+TOTAL                66             0    194          260            TOTAL                   0           0        0           0             260     18       0      0       1
+
+
+EASTBOUND Approach                                                   WESTBOUND Approach                                                  TOTAL    XING W/L       XING E/L
+
+Hours           Lt            Th        Rt        Total              Hours              Lt          Th       Rt       Total               E-W      Ped   Sch      Ped   Sch
+7-8                  1           829         21       851            7-8                     67     1183          0     1250               2101      0     0        4     0
+8-9                  0           878         29       907            8-9                     57     1237          0     1294               2201      3     0        5     0
+9-10                 0           695         10       705            9-10                    18      901          0       919              1624      7     0        6     0
+15-16                0          1189         29     1218             15-16                   24      981          0     1005               2223      5     0        5     0
+16-17                0          1292         27     1319             16-17                   25      976          0     1001               2320      6     0        0     0
+17-18                1          1363         37     1401             17-18                   30     1039          0     1069               2470      4     0        5     0
+
+TOTAL                2          6246     153         6401            TOTAL               221        6317          0     6538              12939     25       0     25       0
+
