@@ -1,0 +1,604 @@
+WILTEC
+DRIVEWAY COUNT SUMMARY
+
+CLIENT:         GIBSON TRANSPORTATION
+PROJECT:        CAL POLY POMONA
+DATE:           TUESDAY MARCH 11, 2014
+PERIOD:         6:30 AM TO 9:00 AM AND 4:00 PM TO 6:00 PM
+LOCATION:       CAL POLY POMONA PARKING STRUCTURE
+
+                  DRIVEWAY 1                                                DRIVEWAY 2
+
+15 MIN COUNTS                                               15 MIN COUNTS
+
+PERIOD                IN              OUT                   PERIOD              IN       OUT
+630-645                6               0                    630-645              2        0
+645-700               16               0                    645-700              9        0
+700-715               30               1                    700-715             16        1
+715-730               56               0                    715-730             58        2
+730-745               92               0                    730-745            125        5
+745-800               98               1                    745-800            143        1
+800-815               78               1                    800-815             63        1
+815-830               64               3                    815-830             33        2
+830-845               54               2                    830-845             41        2
+845-900               72               3                    845-900             65        0
+
+TIME                   IN             OUT                   TIME                IN       OUT
+630-730               108              1                    630-730             85        3
+645-745               194              1                    645-745            208        8
+700-800               276              2                    700-800            342        9
+715-815               324              2                    715-815            389        9
+730-830               332              5                    730-830            364        9
+745-845               294              7                    745-845            280        6
+800-900               268              9                    800-900            202        5
+
+15 MIN COUNTS                                               15 MIN COUNTS
+
+PERIOD                IN              OUT                   PERIOD              IN       OUT
+400-415               17               38                   400-415             10        44
+415-430               19               25                   415-430              8        38
+430-445               26               42                   430-445             12        67
+445-500               21               72                   445-500             12       104
+500-515               20               64                   500-515             13        73
+515-530               16               50                   515-530             18        48
+530-545               25               36                   530-545             17        30
+545-600               30               40                   545-600             10        29
+
+TIME                  IN              OUT                   TIME                IN       OUT
+400-500               83              177                   400-500             42       253
+415-515               86              203                   415-515             45       282
+430-530               83              228                   430-530             55       292
+445-545               82              222                   445-545             60       255
+500-600               91              190                   500-600             58       180
+WILTEC                                                                              Tel: (626) 564-1944       Fax: (626) 564-0969     info@wiltecusa.com
+INTERSECTION CAR/PED/BIKE TRAFFIC COUNT RESULTS SUMMARY
+
+CLIENT:                                GIBSON TRANSPORTATION
+PROJECT:                               CAL POLY POMONA
+DATE:                                  TUESDAY MARCH 11, 2014
+PERIOD:                                6:30 AM TO 9:00 AM
+INTERSECTION:                N/S       GRAND AVENUE
+                             E/W       TEMPLE AVENUE
+CITY:                                  POMONA
+
+VEHICLE COUNTS
+15 MIN COUNTS         1            2         3        4        5      6         7             8        9            10        11           12
+PERIOD             SBRT        SBTH       SBLT     WBRT     WBTH   WBLT      NBRT         NBTH      NBLT          EBRT      EBTH         EBLT      TOTAL
+630-645              23          205        15       19       46      8        33            78       10            21        49           29        536
+645-700              16          175        33       24       72     13        47           126       26            30        62           43        667
+700-715              25          227        71       36       77     17       110           194       28            21       114           45        965
+715-730              48          322        59       36       79     12       138           227       26            29       174           66       1216
+730-745              42          296        91       44       85     22       205           302       44            34       171           73       1409
+745-800              50          259        88       63       82     28       174           303       33            27       214           85       1406
+800-815              62          236        65       49       71     27       175           304       54            47       139           75       1304
+815-830              49          224        55       40      107     23       117           223       67            56        91           58       1110
+830-845              63          252        51       13       52     13        96           155       55            67       114           71       1002
+845-900              42          218        57       29       52     18        75           183       72            51       102           91        990
+HOUR TOTALS           1            2         3        4        5      6         7             8        9            10        11           12
+PERIOD             SBRT        SBTH       SBLT     WBRT     WBTH   WBLT      NBRT         NBTH      NBLT          EBRT      EBTH         EBLT      TOTAL
+630-730             112          929       178      115      274     50       328           625       90           101       399          183       3384
+645-745             131         1020       254      140      313     64       500           849      124           114       521          227       4257
+700-800             165         1104       309      179      323     79       627          1026      131           111       673          269       4996
+715-815             202         1113       303      192      317     89       692          1136      157           137       698          299       5335
+730-830             203         1015       299      196      345    100       671          1132      198           164       615          291       5229
+745-845             224          971       259      165      312     91       562           985      209           197       558          289       4822
+800-900             216          930       228      131      282     81       463           865      248           221       446          295       4406
+
+ AM PEAK HOUR:     715-815
+                                                                                    192
+
+                                         202      1113      303                     317
+
+                                                                                    89
+
+
+
+                                           299
+
+TEMPLE AVENUE                              698                     157     1136          692
+
+                                           137                            GRAND AVENUE
+
+
+
+PEDESTRIAN COUNTS                                                         BICYCLE COUNTS
+15 MIN COUNTS    NORTH       EAST      SOUTH     WEST     TOTAL           15 MIN COUNTS           NORTH       EAST        SOUTH       WEST       TOTAL
+PERIOD           LEG         LEG       LEG       LEG                      PERIOD                  LEG         LEG         LEG         LEG
+630-645                2      1      0      2        5                    630-645                         0           0           0          1           1
+645-700                2      1      1      0        4                    645-700                         0           0           0          0           0
+700-715                4      3      2      1       10                    700-715                         0           0           0          0           0
+715-730                2      1      1      0        4                    715-730                         0           0           0          1           1
+730-745                8      3      0      6       17                    730-745                         1           0           1          0           2
+745-800               12      0      0      3       15                    745-800                         0           0           0          0           0
+800-815                7      7      0      2       16                    800-815                         0           0           0          0           0
+815-830                1      1      1      4        7                    815-830                         0           0           0          0           0
+830-845                6      6      0      0       12                    830-845                         0           0           0          0           0
+845-900                2      2      0      1        5                    845-900                         0           0           0          0           0
+HOUR TOTALS      NORTH EAST     SOUTH WEST    TOTAL                       HOUR TOTALS             NORTH       EAST        SOUTH       WEST       TOTAL
+PERIOD           LEG     LEG    LEG    LEG                                PERIOD                  LEG         LEG         LEG         LEG
+630-730               10      6      4      3       23                    630-730                         0           0           0          2           2
+645-745               16      8      4      7       35                    645-745                         1           0           1          1           3
+700-800               26      7      3     10       46                    700-800                         1           0           1          1           3
+715-815               29     11      1     11       52                    715-815                         1           0           1          1           3
+730-830               28     11      1     15       55                    730-830                         1           0           1          0           2
+745-845               26     14      1      9       50                    745-845                         0           0           0          0           0
+800-900               16     16      1      7       40                    800-900                         0           0           0          0           0
+WILTEC                                                                                                           Phone: (626) 564-1944          Fax: (626) 564-0969
+INTERSECTION CAR/PED/BIKE TRAFFIC COUNT RESULTS SUMMARY
+
+CLIENT:                                  GIBSON TRANSPORTATION
+PROJECT:                                 CAL POLY POMONA
+DATE:                                    TUESDAY MARCH 11, 2014
+PERIOD:                                  4:00 PM TO 6:00 PM
+INTERSECTION:                N/S         GRAND AVENUE
+                             E/W         TEMPLE AVENUE
+CITY:                                    POMONA
+
+VEHICLE COUNTS
+15 MIN COUNTS          1           2           3          4            5         6         7             8        9           10         11          12
+PERIOD             SBRT        SBTH         SBLT      WBRT         WBTH       WBLT     NBRT          NBTH      NBLT        EBRT       EBTH         EBLT     TOTAL
+400-415               67         193          53         44           91        59        95           224       72           68         88          71       1125
+415-430               59         200          48         53          119        90        78           217       52           58        119          77       1170
+430-445               72         233          67         63          139        82        58           235       50           55         99          67       1220
+445-500               63         204          61         55          142        99        89           238       51           51        117          80       1250
+500-515               74         243          48         56          161        74        78           286       56           61        105          67       1309
+515-530               52         214          37         35          151        85        78           279       52           69        118          88       1258
+530-545               75         195          73         32          140        65        96           289       76           51        109          68       1269
+545-600               57         207          72         50          123        68       116           263       58           45        133          78       1270
+HOUR TOTALS            1           2           3          4            5         6         7             8        9           10         11          12
+PERIOD             SBRT        SBTH         SBLT      WBRT         WBTH       WBLT     NBRT          NBTH      NBLT        EBRT       EBTH         EBLT     TOTAL
+400-500              261         830         229        215          491       330       320           914      225          232        423         295       4765
+415-515              268         880         224        227          561       345       303           976      209          225        440         291       4949
+430-530              261         894         213        209          593       340       303          1038      209          236        439         302       5037
+445-545              264         856         219        178          594       323       341          1092      235          232        449         303       5086
+500-600              258         859         230        173          575       292       368          1117      242          226        465         301       5106
+
+ AM PEAK HOUR:     500-600
+                                                                                               173
+
+                                           258        859          230                         575
+
+                                                                                               292
+
+
+
+                                             301
+
+TEMPLE AVENUE                                465                              242     1117       368
+
+                                             226                                     GRAND AVENUE
+
+
+
+PEDESTRIAN COUNTS                                                                    BICYCLE COUNTS
+15 MIN COUNTS    NORTH       EAST        SOUTH       WEST        TOTAL               15 MIN COUNTS           NORTH       EAST       SOUTH       WEST       TOTAL
+PERIOD           LEG         LEG         LEG         LEG                             PERIOD                  LEG         LEG        LEG         LEG
+400-415               11             5           0          2            18          400-415                         1          0           0          0           1
+415-430               23             1           4          4            32          415-430                         3          1           0          0           4
+430-445               14             3           0          3            20          430-445                         2          0           0          0           2
+445-500               12             4           0          1            17          445-500                         1          0           0          0           1
+500-515               10             3           0          3            16          500-515                         1          3           0          1           5
+515-530               14            10           0          1            25          515-530                         0          1           0          0           1
+530-545               10             5           0          1            16          530-545                         1          0           0          0           1
+545-600               26             5           0          2            33          545-600                         1          0           0          1           2
+HOUR TOTALS      NORTH       EAST        SOUTH       WEST        TOTAL               HOUR TOTALS             NORTH       EAST       SOUTH       WEST       TOTAL
+PERIOD           LEG         LEG         LEG         LEG                             PERIOD                  LEG         LEG        LEG         LEG
+400-500               60            13           4          10           87          400-500                         7          1           0          0            8
+415-515               59            11           4          11           85          415-515                         7          4           0          1           12
+430-530               50            20           0           8           78          430-530                         4          4           0          1            9
+445-545               46            22           0           6           74          445-545                         3          4           0          1            8
+500-600               60            23           0           7           90          500-600                         3          4           0          2            9
+WILTEC                                                                                 Tel: (626) 564-1944       Fax: (626) 564-0969     info@wiltecusa.com
+INTERSECTION CAR/PED/BIKE TRAFFIC COUNT RESULTS SUMMARY
+
+CLIENT:                               GIBSON TRANSPORTATION
+PROJECT:                              CAL POLY POMONA
+DATE:                                 TUESDAY MARCH 11, 2014
+PERIOD:                               6:30 AM TO 9:00 AM
+INTERSECTION:                N/S      SOUTH CAMPUS DRIVE
+                             E/W      TEMPLE AVENUE
+CITY:                                 POMONA
+
+VEHICLE COUNTS
+15 MIN COUNTS         1           2         3           4         5      6         7            8        9             10        11           12
+PERIOD             SBRT        SBTH      SBLT        WBRT     WBTH    WBLT      NBRT         NBTH     NBLT           EBRT      EBTH         EBLT       TOTAL
+630-645              28           1         4           6        73      1         2            0        1              1        19           10         146
+645-700              82           1        12          28       198      2         2            0        0              0        29           28         382
+700-715             103           4        13          48       239      4         9            7        0              0        40           50         517
+715-730             174           5        27          86       310      6         4            2        4              1        58           55         732
+730-745             157          18        39          73       300      3         4           10       20              0        62           38         724
+745-800             177          20        30          89       276      4         4            3       18              7        81           86         795
+800-815             128           9        27         105       395      3         2            5       11              7       111           64         867
+815-830             122           7        20          92       294      2         4            1        3              2        81           47         675
+830-845              99           3        21          91       154      4         5            5        5             15        58           56         516
+845-900              90           3        27          84       207      3         3            2        9              3        79           61         571
+HOUR TOTALS           1           2         3           4         5      6         7            8        9             10        11           12
+PERIOD             SBRT        SBTH      SBLT        WBRT     WBTH    WBLT      NBRT         NBTH     NBLT           EBRT      EBTH         EBLT       TOTAL
+630-730             387          11        56         168       820     13        17            9        5              2       146          143        1777
+645-745             516          28        91         235      1047     15        19           19       24              1       189          171        2355
+700-800             611          47       109         296      1125     17        21           22       42              8       241          229        2768
+715-815             636          52       123         353      1281     16        14           20       53             15       312          243        3118
+730-830             584          54       116         359      1265     12        14           19       52             16       335          235        3061
+745-845             526          39        98         377      1119     13        15           14       37             31       331          253        2853
+800-900             439          22        95         372      1050     12        14           13       28             27       329          228        2629
+
+ AM PEAK HOUR:     715-815
+                                                                                       353
+
+                                        636          52       123                      1281
+
+                                                                                       16
+
+
+
+                                          243
+
+TEMPLE AVENUE                             312                         53       20            14
+
+                                              15                             SOUTH CAMPUS DRIVE
+
+
+
+PEDESTRIAN COUNTS                                                            BICYCLE COUNTS
+15 MIN COUNTS    NORTH       EAST     SOUTH        WEST     TOTAL            15 MIN COUNTS          NORTH        EAST        SOUTH       WEST        TOTAL
+PERIOD           LEG         LEG      LEG          LEG                       PERIOD                 LEG          LEG         LEG         LEG
+630-645                0      0       1       0        1                     630-645                         0           0           0           0            0
+645-700                6      1      11      13       31                     645-700                         0           0           0           1            1
+700-715               23      3      17      15       58                     700-715                         0           0           0           0            0
+715-730               13      2       1       7       23                     715-730                         0           0           0           1            1
+730-745               49      6      17      51     123                      730-745                         1           0           1           6            8
+745-800               13      6       2      28       49                     745-800                         2           1           0           8           11
+800-815               15      4      12      19       50                     800-815                         0           1           0           1            2
+815-830               14      3      17      25       59                     815-830                         0           0           0           2            2
+830-845               14      3       0       8       25                     830-845                         0           0           0           1            1
+845-900               24      9      17      38       88                     845-900                         4           0           1           7           12
+HOUR TOTALS      NORTH EAST     SOUTH WEST      TOTAL                        HOUR TOTALS            NORTH        EAST        SOUTH       WEST        TOTAL
+PERIOD           LEG     LEG    LEG     LEG                                  PERIOD                 LEG          LEG         LEG         LEG
+630-730               42      6      30      35     113                      630-730                         0           0           0           2            2
+645-745               91     12      46      86     235                      645-745                         1           0           1           8           10
+700-800               98     17      37     101     253                      700-800                         3           1           1          15           20
+715-815               90     18      32     105     245                      715-815                         3           2           1          16           22
+730-830               91     19      48     123     281                      730-830                         3           2           1          17           23
+745-845               56     16      31      80     183                      745-845                         2           2           0          12           16
+800-900               67     19      46      90     222                      800-900                         4           1           1          11           17
+WILTEC                                                                                                    Phone: (626) 564-1944          Fax: (626) 564-0969
+INTERSECTION CAR/PED/BIKE TRAFFIC COUNT RESULTS SUMMARY
+
+CLIENT:                                  GIBSON TRANSPORTATION
+PROJECT:                                 CAL POLY POMONA
+DATE:                                    TUESDAY MARCH 11, 2014
+PERIOD:                                  4:00 PM TO 6:00 PM
+INTERSECTION:                N/S         SOUTH CAMPUS DRIVE
+                             E/W         TEMPLE AVENUE
+CITY:                                    POMONA
+
+VEHICLE COUNTS
+15 MIN COUNTS          1          2            3           4         5      6        7            8        9          10          11          12
+PERIOD             SBRT        SBTH         SBLT       WBRT      WBTH    WBLT     NBRT         NBTH     NBLT        EBRT       EBTH         EBLT      TOTAL
+400-415               65         10          102          47       158     11       13            6        6          10         194          62        684
+415-430               75          5           76          62       160      9        8           11        8           8         199          96        717
+430-445               76          8          102          76       182     10       13            8        8          13         295         102        893
+445-500               74          2          134          67       164     11       16            8       10           7         305         111        909
+500-515               62          9          166          73       179      8        8           19        5          16         287          86        918
+515-530               84         11          128          64       149     12       11           19        6          15         229          99        827
+530-545               83          8          106         123       149     10       20           13        5           7         173          76        773
+545-600               76          5           74         104       194      8        6           14       16           3         175          97        772
+HOUR TOTALS            1          2            3           4         5      6        7            8        9          10          11          12
+PERIOD             SBRT        SBTH         SBLT       WBRT      WBTH    WBLT     NBRT         NBTH     NBLT        EBRT       EBTH         EBLT      TOTAL
+400-500              290         25          414         252       664     41       50           33       32          38         993         371        3203
+415-515              287         24          478         278       685     38       45           46       31          44        1086         395        3437
+430-530              296         30          530         280       674     41       48           54       29          51        1116         398        3547
+445-545              303         30          534         327       641     41       55           59       26          45         994         372        3427
+500-600              305         33          474         364       671     38       45           65       32          41         864         358        3290
+
+ AM PEAK HOUR:     430-530
+                                                                                         280
+
+                                           296          30       530                     674
+
+                                                                                         41
+
+
+
+                                             398
+
+TEMPLE AVENUE                               1116                         29       54           48
+
+                                                 51                             SOUTH CAMPUS DRIVE
+
+
+
+PEDESTRIAN COUNTS                                                               BICYCLE COUNTS
+15 MIN COUNTS    NORTH       EAST        SOUTH        WEST     TOTAL            15 MIN COUNTS         NORTH       EAST       SOUTH       WEST        TOTAL
+PERIOD           LEG         LEG         LEG          LEG                       PERIOD                LEG         LEG        LEG         LEG
+400-415               10             8         3      44       65               400-415                       1          0           0          2            3
+415-430                2             9         4      30       45               415-430                       0          0           0          1            1
+430-445               14             3         1      28       46               430-445                       3          0           0          5            8
+445-500               12            24        10      47       93               445-500                       1          0           0          1            2
+500-515                6             8         6      75       95               500-515                       1          0           0          7            8
+515-530                8            12         4      35       59               515-530                       0          1           0          4            5
+530-545                5             0         1      20       26               530-545                       1          3           1          2            7
+545-600               10            13         7      42       72               545-600                       1          0           0          5            6
+HOUR TOTALS      NORTH       EAST        SOUTH WEST      TOTAL                  HOUR TOTALS           NORTH       EAST       SOUTH       WEST        TOTAL
+PERIOD           LEG         LEG         LEG     LEG                            PERIOD                LEG         LEG        LEG         LEG
+400-500               38            44        18     149     249                400-500                       5          0           0           9           14
+415-515               34            44        21     180     279                415-515                       5          0           0          14           19
+430-530               40            47        21     185     293                430-530                       5          1           0          17           23
+445-545               31            44        21     177     273                445-545                       3          4           1          14           22
+500-600               29            33        18     172     252                500-600                       3          4           1          18           26
+WILTEC                                                                                       Tel: (626) 564-1944       Fax: (626) 564-0969     info@wiltecusa.com
+INTERSECTION CAR/PED/BIKE TRAFFIC COUNT RESULTS SUMMARY
+
+CLIENT:                                 GIBSON TRANSPORTATION
+PROJECT:                                CAL POLY POMONA
+DATE:                                   TUESDAY MARCH 11, 2014
+PERIOD:                                 6:30 AM TO 9:00 AM
+INTERSECTION:                N/S        SR 57 SOUTHBOUND OFF-RAMP
+                             E/W        TEMPLE AVENUE
+CITY:                                   POMONA
+
+VEHICLE COUNTS
+15 MIN COUNTS         1           2           3           4           5        6         7           8         9             10        11           12
+PERIOD             SBRT        SBTH        SBLT        WBRT       WBTH      WBLT      NBRT        NBTH      NBLT           EBRT      EBTH         EBLT      TOTAL
+630-645             155           6          92           0         129        1         0           0         0              5        63            0        451
+645-700             250           2         107           0         206        1         0           0         0              0        70            0        636
+700-715             232           2          98           0         300        1         2           0         0              1        84            0        720
+715-730             256           2         104           0         356        3         1           0         0              5       109            0        836
+730-745             195           2         107           0         225        0         0           0         0              2       132            0        663
+745-800             130           0         175           0         189        1         0           0         1              7       132            0        635
+800-815             148           0         161           0         284        7         0           0         0              8       153            0        761
+815-830             173           1          93           0         211        0         1           0         0              6       116            0        601
+830-845             185           0          56           0         252        1         1           0         0              4       116            0        615
+845-900             192           3          79           0         250        7         1           0         0              8       138            0        678
+HOUR TOTALS           1           2           3           4           5        6         7           8         9             10        11           12
+PERIOD             SBRT        SBTH        SBLT        WBRT       WBTH      WBLT      NBRT        NBTH      NBLT           EBRT      EBTH         EBLT      TOTAL
+630-730             893          12         401           0         991        6         3           0         0             11       326            0       2643
+645-745             933           8         416           0        1087        5         3           0         0              8       395            0       2855
+700-800             813           6         484           0        1070        5         3           0         1             15       457            0       2854
+715-815             729           4         547           0        1054       11         1           0         1             22       526            0       2895
+730-830             646           3         536           0         909        8         1           0         1             23       533            0       2660
+745-845             636           1         485           0         936        9         2           0         1             25       517            0       2612
+800-900             698           4         389           0         997       15         3           0         0             26       523            0       2655
+
+ AM PEAK HOUR:     715-815
+                                                                                             0
+
+                                          729          4          547                        1054
+
+                                                                                             11
+
+
+
+                                                 0
+
+TEMPLE AVENUE                               526                             1         0           1
+
+                                                22                                 SR 57 SOUTHBOUND OFF-RAMP
+
+
+
+PEDESTRIAN COUNTS                                                                  BICYCLE COUNTS
+15 MIN COUNTS    NORTH       EAST       SOUTH        WEST       TOTAL              15 MIN COUNTS         NORTH         EAST        SOUTH       WEST       TOTAL
+PERIOD           LEG         LEG        LEG          LEG                           PERIOD                LEG           LEG         LEG         LEG
+630-645                  0          0            0          0           0          630-645                         0           0           0          0           0
+645-700                  1          0            0          0           1          645-700                         0           0           0          0           0
+700-715                  0          0            0          0           0          700-715                         1           0           0          0           1
+715-730                  1          0            0          2           3          715-730                         1           0           0          0           1
+730-745                  0          0            0          0           0          730-745                         1           0           0          1           2
+745-800                  0          0            0          0           0          745-800                         0           0           0          0           0
+800-815                  0          0            0          2           2          800-815                         0           0           0          0           0
+815-830                  0          0            0          0           0          815-830                         0           0           0          0           0
+830-845                  0          0            0          1           1          830-845                         0           0           0          0           0
+845-900                  0          0            0          2           2          845-900                         3           0           0          0           3
+HOUR TOTALS      NORTH       EAST       SOUTH        WEST       TOTAL              HOUR TOTALS           NORTH         EAST        SOUTH       WEST       TOTAL
+PERIOD           LEG         LEG        LEG          LEG                           PERIOD                LEG           LEG         LEG         LEG
+630-730                  2          0            0          2           4          630-730                         2           0           0          0           2
+645-745                  2          0            0          2           4          645-745                         3           0           0          1           4
+700-800                  1          0            0          2           3          700-800                         3           0           0          1           4
+715-815                  1          0            0          4           5          715-815                         2           0           0          1           3
+730-830                  0          0            0          2           2          730-830                         1           0           0          1           2
+745-845                  0          0            0          3           3          745-845                         0           0           0          0           0
+800-900                  0          0            0          5           5          800-900                         3           0           0          0           3
+WILTEC                                                                                                       Phone: (626) 564-1944          Fax: (626) 564-0969
+INTERSECTION CAR/PED/BIKE TRAFFIC COUNT RESULTS SUMMARY
+
+CLIENT:                                 GIBSON TRANSPORTATION
+PROJECT:                                CAL POLY POMONA
+DATE:                                   TUESDAY MARCH 11, 2014
+PERIOD:                                 4:00 PM TO 6:00 PM
+INTERSECTION:                N/S        SR 57 SOUTHBOUND OFF-RAMP
+                             E/W        TEMPLE AVENUE
+CITY:                                   POMONA
+
+VEHICLE COUNTS
+15 MIN COUNTS          1          2           3          4            5        6        7            8        9          10          11          12
+PERIOD             SBRT        SBTH        SBLT       WBRT        WBTH      WBLT     NBRT         NBTH     NBLT        EBRT       EBTH         EBLT     TOTAL
+400-415              122          0         144          0          110        1        0            0        0          10         429           0        816
+415-430              118          0         158          0          135        0        1            0        0          14         395           0        821
+430-445              107          6         175          0          152        2        2            0        0          12         538           0        994
+445-500              101          1         186          0          142        3        1            0        0           6         518           0        958
+500-515              105          1         214          0          109        5        1            0        0           5         514           0        954
+515-530              126          1         257          0          144        2        5            0        0           5         510           0       1050
+530-545              134          0         232          0          103        2        2            0        0          11         410           0        894
+545-600              120          0         212          0          159        1        3            0        0           7         411           0        913
+HOUR TOTALS            1          2           3          4            5        6        7            8        9          10          11          12
+PERIOD             SBRT        SBTH        SBLT       WBRT        WBTH      WBLT     NBRT         NBTH     NBLT        EBRT       EBTH         EBLT     TOTAL
+400-500              448          7         663          0          539        6        4            0        0          42        1880           0       3589
+415-515              431          8         733          0          538       10        5            0        0          37        1965           0       3727
+430-530              439          9         832          0          547       12        9            0        0          28        2080           0       3956
+445-545              466          3         889          0          498       12        9            0        0          27        1952           0       3856
+500-600              485          2         915          0          515       10       11            0        0          28        1845           0       3811
+
+ AM PEAK HOUR:     430-530
+                                                                                            0
+
+                                          439          9          832                       547
+
+                                                                                            12
+
+
+
+                                                0
+
+TEMPLE AVENUE                              2080                             0         0           9
+
+                                                28                                 SR 57 SOUTHBOUND OFF-RAMP
+
+
+
+PEDESTRIAN COUNTS                                                                  BICYCLE COUNTS
+15 MIN COUNTS    NORTH       EAST       SOUTH        WEST       TOTAL              15 MIN COUNTS         NORTH       EAST       SOUTH       WEST       TOTAL
+PERIOD           LEG         LEG        LEG          LEG                           PERIOD                LEG         LEG        LEG         LEG
+400-415                  1          0           0           0           1          400-415                       0          0           0          0           0
+415-430                  0          0           0           0           0          415-430                       0          0           0          0           0
+430-445                  0          0           0           0           0          430-445                       0          0           0          0           0
+445-500                  0          0           0           0           0          445-500                       0          0           0          0           0
+500-515                  0          0           0           0           0          500-515                       0          0           0          0           0
+515-530                  0          0           0           0           0          515-530                       0          0           0          0           0
+530-545                  2          0           0           0           2          530-545                       0          0           0          0           0
+545-600                  0          0           0           0           0          545-600                       0          0           0          0           0
+HOUR TOTALS      NORTH       EAST       SOUTH        WEST       TOTAL              HOUR TOTALS           NORTH       EAST       SOUTH       WEST       TOTAL
+PERIOD           LEG         LEG        LEG          LEG                           PERIOD                LEG         LEG        LEG         LEG
+400-500                  1          0           0           0           1          400-500                       0          0           0          0           0
+415-515                  0          0           0           0           0          415-515                       0          0           0          0           0
+430-530                  0          0           0           0           0          430-530                       0          0           0          0           0
+445-545                  2          0           0           0           2          445-545                       0          0           0          0           0
+500-600                  2          0           0           0           2          500-600                       0          0           0          0           0
+WILTEC                                                                                       Tel: (626) 564-1944       Fax: (626) 564-0969     info@wiltecusa.com
+INTERSECTION CAR/PED/BIKE TRAFFIC COUNT RESULTS SUMMARY
+
+CLIENT:                                 GIBSON TRANSPORTATION
+PROJECT:                                CAL POLY POMONA
+DATE:                                   TUESDAY MARCH 11, 2014
+PERIOD:                                 6:30 AM TO 9:00 AM
+INTERSECTION:                N/S        SR 57 NORTHBOUND OFF-RAMP
+                             E/W        TEMPLE AVENUE
+CITY:                                   POMONA
+
+VEHICLE COUNTS
+15 MIN COUNTS         1           2           3           4           5        6         7          8          9             10        11           12
+PERIOD             SBRT        SBTH        SBLT        WBRT       WBTH      WBLT      NBRT       NBTH       NBLT           EBRT      EBTH         EBLT      TOTAL
+630-645               0           0           0           0         226        0        37          0         46              0       107            0        416
+645-700               0           0           0           0         326        0        46          0         78              0       125            0        575
+700-715               0           0           0           0         354        0        44          0         94              0       124            0        616
+715-730               0           0           0           0         500        0        61          0        137              0       134            0        832
+730-745               0           0           0           0         386        0        82          0        101              0       157            0        726
+745-800               0           0           0           0         322        0        76          0         74              0       180            0        652
+800-815               0           0           0           0         372        0        62          0         54              0       209            0        697
+815-830               0           0           0           0         344        0        53          0        107              0       138            0        642
+830-845               0           0           0           0         323        0        41          0        101              0       111            0        576
+845-900               0           0           0           0         316        0        57          0        113              0       120            0        606
+HOUR TOTALS           1           2           3           4           5        6         7          8          9             10        11           12
+PERIOD             SBRT        SBTH        SBLT        WBRT       WBTH      WBLT      NBRT       NBTH       NBLT           EBRT      EBTH         EBLT      TOTAL
+630-730               0           0           0           0        1406        0       188          0        355              0       490            0       2439
+645-745               0           0           0           0        1566        0       233          0        410              0       540            0       2749
+700-800               0           0           0           0        1562        0       263          0        406              0       595            0       2826
+715-815               0           0           0           0        1580        0       281          0        366              0       680            0       2907
+730-830               0           0           0           0        1424        0       273          0        336              0       684            0       2717
+745-845               0           0           0           0        1361        0       232          0        336              0       638            0       2567
+800-900               0           0           0           0        1355        0       213          0        375              0       578            0       2521
+
+ AM PEAK HOUR:     715-815
+                                                                                             0
+
+                                           0           0           0                         1580
+
+                                                                                             0
+
+
+
+                                                 0
+
+TEMPLE AVENUE                                  680                          366       0          281
+
+                                                 0                                 SR 57 NORTHBOUND OFF-RAMP
+
+
+
+PEDESTRIAN COUNTS                                                                  BICYCLE COUNTS
+15 MIN COUNTS    NORTH       EAST       SOUTH        WEST       TOTAL              15 MIN COUNTS        NORTH          EAST        SOUTH       WEST       TOTAL
+PERIOD           LEG         LEG        LEG          LEG                           PERIOD               LEG            LEG         LEG         LEG
+630-645                  0          0            0          0           0          630-645                         0           0           0          0           0
+645-700                  0          0            0          0           0          645-700                         0           0           0          0           0
+700-715                  0          0            0          0           0          700-715                         0           0           0          0           0
+715-730                  0          0            0          0           0          715-730                         0           0           0          0           0
+730-745                  0          0            0          0           0          730-745                         0           0           0          0           0
+745-800                  0          0            0          0           0          745-800                         0           0           0          0           0
+800-815                  0          0            0          0           0          800-815                         0           0           0          0           0
+815-830                  0          0            0          0           0          815-830                         0           0           0          0           0
+830-845                  0          0            0          0           0          830-845                         0           0           0          0           0
+845-900                  0          0            0          0           0          845-900                         0           0           0          0           0
+HOUR TOTALS      NORTH       EAST       SOUTH        WEST       TOTAL              HOUR TOTALS          NORTH          EAST        SOUTH       WEST       TOTAL
+PERIOD           LEG         LEG        LEG          LEG                           PERIOD               LEG            LEG         LEG         LEG
+630-730                  0          0            0          0           0          630-730                         0           0           0          0           0
+645-745                  0          0            0          0           0          645-745                         0           0           0          0           0
+700-800                  0          0            0          0           0          700-800                         0           0           0          0           0
+715-815                  0          0            0          0           0          715-815                         0           0           0          0           0
+730-830                  0          0            0          0           0          730-830                         0           0           0          0           0
+745-845                  0          0            0          0           0          745-845                         0           0           0          0           0
+800-900                  0          0            0          0           0          800-900                         0           0           0          0           0
+WILTEC                                                                                                       Phone: (626) 564-1944          Fax: (626) 564-0969
+INTERSECTION CAR/PED/BIKE TRAFFIC COUNT RESULTS SUMMARY
+
+CLIENT:                                 GIBSON TRANSPORTATION
+PROJECT:                                CAL POLY POMONA
+DATE:                                   TUESDAY MARCH 11, 2014
+PERIOD:                                 4:00 PM TO 6:00 PM
+INTERSECTION:                N/S        SR 57 NORTHBOUND OFF-RAMP
+                             E/W        TEMPLE AVENUE
+CITY:                                   POMONA
+
+VEHICLE COUNTS
+15 MIN COUNTS         1           2          3          4            5        6         7            8        9          10          11          12
+PERIOD             SBRT        SBTH       SBLT       WBRT        WBTH      WBLT     NBRT          NBTH     NBLT        EBRT       EBTH         EBLT     TOTAL
+400-415               0           0          0          0          215        0        51            0       36           0         305           0       607
+415-430               0           0          0          0          195        0        52            0       47           0         335           0       629
+430-445               0           0          0          0          238        0        53            0       36           0         386           0       713
+445-500               0           0          0          0          212        0        60            0       40           0         405           0       717
+500-515               0           0          0          0          231        0        53            0       33           0         432           0       749
+515-530               0           0          0          0          208        0        66            0       33           0         500           0       807
+530-545               0           0          0          0          227        0        58            0       37           0         480           0       802
+545-600               0           0          0          0          234        0        63            0       33           0         454           0       784
+HOUR TOTALS           1           2          3          4            5        6         7            8        9          10          11          12
+PERIOD             SBRT        SBTH       SBLT       WBRT        WBTH      WBLT     NBRT          NBTH     NBLT        EBRT       EBTH         EBLT     TOTAL
+400-500               0           0          0          0          860        0       216            0      159           0        1431           0       2666
+415-515               0           0          0          0          876        0       218            0      156           0        1558           0       2808
+430-530               0           0          0          0          889        0       232            0      142           0        1723           0       2986
+445-545               0           0          0          0          878        0       237            0      143           0        1817           0       3075
+500-600               0           0          0          0          900        0       240            0      136           0        1866           0       3142
+
+ AM PEAK HOUR:     500-600
+                                                                                            0
+
+                                           0          0           0                         900
+
+                                                                                            0
+
+
+
+                                                0
+
+TEMPLE AVENUE                              1866                            136       0          240
+
+                                                0                                 SR 57 NORTHBOUND OFF-RAMP
+
+
+
+PEDESTRIAN COUNTS                                                                 BICYCLE COUNTS
+15 MIN COUNTS    NORTH       EAST       SOUTH       WEST       TOTAL              15 MIN COUNTS          NORTH       EAST       SOUTH       WEST       TOTAL
+PERIOD           LEG         LEG        LEG         LEG                           PERIOD                 LEG         LEG        LEG         LEG
+400-415                  0          0           1          0           1          400-415                        0          0           0          0           0
+415-430                  0          0           1          0           1          415-430                        0          0           0          0           0
+430-445                  0          0           1          0           1          430-445                        0          0           0          0           0
+445-500                  0          0           0          0           0          445-500                        0          0           0          0           0
+500-515                  0          0           0          0           0          500-515                        0          0           0          0           0
+515-530                  0          0           1          0           1          515-530                        0          0           1          0           1
+530-545                  0          0           1          0           1          530-545                        0          0           1          0           1
+545-600                  0          0           1          0           1          545-600                        0          0           0          0           0
+HOUR TOTALS      NORTH       EAST       SOUTH       WEST       TOTAL              HOUR TOTALS            NORTH       EAST       SOUTH       WEST       TOTAL
+PERIOD           LEG         LEG        LEG         LEG                           PERIOD                 LEG         LEG        LEG         LEG
+400-500                  0          0           3          0           3          400-500                        0          0           0          0           0
+415-515                  0          0           2          0           2          415-515                        0          0           0          0           0
+430-530                  0          0           2          0           2          430-530                        0          0           1          0           1
+445-545                  0          0           2          0           2          445-545                        0          0           2          0           2
+500-600                  0          0           3          0           3          500-600                        0          0           2          0           2

@@ -171,6 +171,7 @@ sub col {
 			} elsif ($mode eq "car") {
 				my %sum = ();
 				for ($a = 1; $a <= $#fields && $a <= $#cols; $a++) {
+					$fields[$a] =~ s/^-//; # why do these negatives appear?
 					unless ($fields[$a] =~ /^[0-9]+$/) {
 						die $text[$i];
 					}
