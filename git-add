@@ -1,0 +1,4 @@
+#!/bin/sh
+
+find reports -name '*.html' -print0 | xargs -0 grep '\.pdf' | awk -F: '{print $1}' | xargs git add
+grep navigatela counts-la-dot.csv | awk -F, '{print $1}' | uniq | tr '\012' '\0' | xargs -0 git add
