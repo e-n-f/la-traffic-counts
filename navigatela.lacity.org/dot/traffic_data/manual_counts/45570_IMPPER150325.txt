@@ -1,0 +1,134 @@
+                         City Of Los Angeles
+                         Department Of Transportation
+                         MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South              Pershing Dr
+
+East/West                Imperial Hwy
+
+Day:                     Wednesday                Date:           March 25, 2015                   Weather:            SUNNY
+
+Hours:        7-10 & 3-6                                                       Chekrs:             NDS
+
+School Day:              YES                      District:                                          I/S CODE
+
+
+                               N/B                              S/B                                   E/B                        W/B
+DUAL-
+WHEELED                           0                             96                                        63                     165
+BIKES                             5                             63                                        78                      48
+BUSES                             0                             13                                         8                      21
+
+
+                               N/B      TIME                    S/B    TIME                           E/B      TIME              W/B     TIME
+
+AM PK 15 MIN                      2      7.15                   249     7.30                          191       8.15              433     7.45
+
+PM PK 15 MIN                      5     16.00                   279    16.15                          178      17.00              294    17.30
+
+AM PK HOUR                        4      7.00                   791     7.30                          685       8.15             1587     7.00
+
+PM PK HOUR                        9     15.45                  1052    16.45                          571      16.30             1088    17.00
+
+
+
+
+NORTHBOUND Approach                                                   SOUTHBOUND Approach                                               TOTAL    XING S/L       XING N/L
+
+Hours           Lt          Th          Rt        Total               Hours              Lt          Th        Rt      Total             N-S      Ped   Sch      Ped   Sch
+7-8                  0            1          3             4          7-8                 662             1      77        740             744      3     0        1     0
+8-9                  1            0          0             1          8-9                 633             1     107        741             742      4     0        1     0
+9-10                 1            0          0             1          9-10                477             1      88        566             567      7     0        0     0
+15-16                0            0          1             1          15-16               665             0     147        812             813      4     0        1     0
+16-17                0            3          6             9          16-17               822             1     186      1009             1018      8     0        0     0
+17-18                1            1          5             7          17-18               779             0     270      1049             1056     12     0        0     0
+
+TOTAL                3             5         15           23          TOTAL              4038              4    875      4917            4940      38       0      3       0
+
+
+EASTBOUND Approach                                                    WESTBOUND Approach                                                TOTAL    XING W/L       XING E/L
+
+Hours           Lt          Th          Rt        Total               Hours              Lt          Th        Rt Total                  E-W      Ped   Sch      Ped   Sch
+7-8              175             287         1        463             7-8                     7       340      1240 1587                  2050      2     0        0     0
+8-9              300             381         1        682             8-9                     2       317      1114 1433                  2115      0     0        0     0
+9-10             239             271         0        510             9-10                    1       261       870 1132                  1642      0     0        0     0
+15-16            118             416         0        534             15-16                   3       299       490   792                 1326      0     0        0     0
+16-17            138             389         0        527             16-17                   1       382       514   897                 1424      1     0        0     0
+17-18            114             408         0        522             17-18                   2       462       624 1088                  1610      1     0        0     0
+
+TOTAL           1084           2152           2      3238             TOTAL                   16     2061      4852      6929            10167      4       0      0       0
+                                           Intersection Turning Movement
+                                                              Prepared by:
+                                              National Data & Surveying Services
+         Project ID: 15-5172-005                                                                                           Day: Wednesday
+                                                                         TOTALS
+                  City: Los Angeles                                                                                       Date: 3/25/2015
+                                                                             AM
+     NS/EW Streets:             Pershing Dr               Pershing Dr                   Imperial Hwy                  Imperial Hwy
+                                NORTHBOUND                SOUTHBOUND                     EASTBOUND                    WESTBOUND
+
+                           NL          NT      NR   SL        ST        SR        EL        ET         ER        WL       WT         WR     TOTAL
+     LANES:                0            1       0   1.5       0.5        1        2          2          0        1         2          2
+
+           7:00   AM       0           0       1    128       0         19        28        71          1        2        79         297    626
+           7:15   AM       0           1       1    142       0         13        31        73          0        2        99         276    638
+           7:30   AM       0           0       1    222       1         26        48        58          0        2        90         307    755
+           7:45   AM       0           0       0    170       0         19        68        85          0        1        72         360    775
+           8:00   AM       1           0       0    157       0         13        71        81          1        1        70         284    679
+           8:15   AM       0           0       0    156       0         27        87        104         0        0        76         323    773
+           8:30   AM       0           0       0    149       0         36        65        106         0        1        78         255    690
+           8:45   AM       0           0       0    171       1         31        77        90          0        0        93         252    715
+           9:00   AM       1           0       0    137       0         19        87        69          0        0        70         239    622
+           9:15   AM       0           0       0    108       0         20        70        80          0        0        62         250    590
+           9:30   AM       0           0       0    110       0         23        43        70          0        0        53         207    506
+           9:45   AM       0           0       0    122       1         26        39        52          0        1        76         174    491
+
+                        NL        NT NR      SL       ST     SR      EL    ET                           ER       WL      WT     WR   TOTAL
+   TOTAL VOLUMES :       2         1  3     1772       3    272     714    939                           2        10    918    3224   7860
+    APPROACH %'s :    33.33% 16.67% 50.00% 86.57%    0.15% 13.29% 43.14% 56.74%                        0.12%     0.24% 22.11% 77.65%
+                     nb a      nb d       sb a    sb d           eb a   eb d                                   wb a   nb d
+PEAK HR START TIME :       730 AM                                                                                                    TOTAL
+
+      PEAK HR VOL :        1           0       1    705       1         85        274      328         1         4       308         1274   2982
+
+   PEAK HR FACTOR :                   0.500                 0.794                          0.789                         0.916              0.962
+
+         CONTROL : Signalized
+                                           Intersection Turning Movement
+                                                              Prepared by:
+                                              National Data & Surveying Services
+         Project ID: 15-5172-005                                                                                            Day: Wednesday
+                                                                          TOTALS
+                  City: Los Angeles                                                                                        Date: 3/25/2015
+                                                                              PM
+     NS/EW Streets:             Pershing Dr               Pershing Dr                    Imperial Hwy                  Imperial Hwy
+                                NORTHBOUND                SOUTHBOUND                      EASTBOUND                    WESTBOUND
+
+                           NL          NT      NR   SL        ST        SR         EL        ET         ER        WL       WT         WR     TOTAL
+     LANES:                0            1       0   1.5       0.5        1         2          2          0        1         2          2
+
+           3:00   PM       0           0       0    171       0         34         33        108         0        1        79         134    560
+           3:15   PM       0           0       0    144       0         39         26        105         0        2        87         119    522
+           3:30   PM       0           0       0    175       0         36         35        110         0        0        55         123    534
+           3:45   PM       0           0       1    175       0         38         24        93          0        0        78         114    523
+           4:00   PM       0           1       4    207       0         38         45        101         0        1        83         123    603
+           4:15   PM       0           0       0    232       0         47         34        82          0        0        108        137    640
+           4:30   PM       0           1       2    189       1         51         33        93          0        0        106        127    603
+           4:45   PM       0           1       0    194       0         50         26        113         0        0        85         127    596
+           5:00   PM       1           1       1    202       0         62         25        153         0        0        115        133    693
+           5:15   PM       0           0       1    202       0         72         30        98          0        1        113        154    671
+           5:30   PM       0           0       3    196       0         74         30        85          0        0        115        179    682
+           5:45   PM       0           0       0    179       0         62         29        72          0        1        119        158    620
+
+                        NL        NT NR      SL       ST     SR      EL    ET                            ER       WL      WT     WR   TOTAL
+   TOTAL VOLUMES :       1         4  12    2266       1    603     370   1213                            0        6     1143   1628   7247
+    APPROACH %'s :     5.88% 23.53% 70.59% 78.95%    0.03% 21.01% 23.37% 76.63%                         0.00%     0.22% 41.16% 58.62%
+                     nb a      nb d       sb a    sb d           eb a   eb d                                    wb a   nb d
+PEAK HR START TIME :       500 PM                                                                                                     TOTAL
+
+      PEAK HR VOL :        1           1       5    779       0         270        114      408         0         2       462         624    2666
+
+   PEAK HR FACTOR :                   0.583                 0.957                           0.733                         0.925              0.962
+
+         CONTROL : Signalized
+

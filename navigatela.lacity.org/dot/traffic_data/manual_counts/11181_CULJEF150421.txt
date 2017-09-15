@@ -1,0 +1,134 @@
+                         City Of Los Angeles
+                         Department Of Transportation
+                         MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South              Jefferson Blvd
+
+East/West                Culver Blvd
+
+Day:                      Tuesday                   Date:         April 21, 2015                   Weather:             SUNNY
+
+Hours:        7-10 & 3-6                                                       Chekrs:             NDS
+
+School Day:              YES                        District:                                        I/S CODE
+
+
+                               N/B                              S/B                                   E/B                           W/B
+DUAL-
+WHEELED                            26                            0                                        38                         26
+BIKES                               9                            0                                         4                          4
+BUSES                               0                            0                                         0                          1
+
+
+                               N/B      TIME                    S/B    TIME                           E/B      TIME                 W/B     TIME
+
+AM PK 15 MIN                      101     8.45                   0      0.00                          498       7.45                190      8.00
+
+PM PK 15 MIN                      267   17.45                    0      0.00                          200      17.15                 375    16.30
+
+AM PK HOUR                        374     8.00                   0      0.00                         1969       7.45                 549     7.45
+
+PM PK HOUR                     1002     17.00                    0      0.00                          774      16.45                1438    16.30
+
+
+
+
+NORTHBOUND Approach                                                   SOUTHBOUND Approach                                                  TOTAL    XING S/L       XING N/L
+
+Hours           Lt           Th           Rt        Total             Hours              Lt          Th        Rt       Total               N-S      Ped   Sch      Ped   Sch
+7-8              216                0          8        224           7-8                     0           0         0           0             224      0     0        0     0
+8-9              370                0          4        374           8-9                     0           0         0           0             374      0     0        0     0
+9-10             294                0          5        299           9-10                    0           0         0           0             299      0     0        0     0
+15-16            586                0          6        592           15-16                   0           0         0           0             592      0     0        0     0
+16-17            784                0          9        793           16-17                   0           0         0           0             793      0     0        0     0
+17-18            995                0          7      1002            17-18                   0           0         0           0            1002      1     0        0     0
+
+TOTAL           3245                0          39      3284           TOTAL                    0           0        0           0           3284       1       0      0       0
+
+
+EASTBOUND Approach                                                    WESTBOUND Approach                                                   TOTAL    XING W/L       XING E/L
+
+Hours           Lt           Th           Rt        Total             Hours              Lt          Th        Rt       Total               E-W      Ped   Sch      Ped   Sch
+7-8                  0        1946             1      1947            7-8                     50      355           0       405              2352      0     0        0     0
+8-9                  0        1949             0      1949            8-9                     64      456           0       520              2469      0     0        0     0
+9-10                 0        1791             1      1792            9-10                    65      316           0       381              2173      0     0        0     0
+15-16                0          733            0        733           15-16                   70      918           0       988              1721      0     0        0     0
+16-17                0          732            0        732           16-17                   98     1210           0     1308               2040      0     0        0     0
+17-18                0          773            0        773           17-18                   72     1347           0     1419               2192      0     0        0     0
+
+TOTAL                0         7924             2      7926           TOTAL               419        4602           0     5021              12947      0       0      0       0
+                                      Intersection Turning Movement
+                                                                 Prepared by:
+                                              National Data & Surveying Services
+          Project ID: 15-5237-002                                                                                                Day: Tuesday
+                                                                                   TOTALS
+                  City: Los Angeles                                                                                             Date: 4/21/2015
+                                                                                    AM
+     NS/EW Streets:             Jefferson Blvd                Jefferson Blvd                    Culver Blvd                  Culver Blvd
+                                NORTHBOUND                    SOUTHBOUND                        EASTBOUND                    WESTBOUND
+
+                          NL           NT        NR      SL        ST          SR        EL         ET        ER        WL      WT         WR      TOTAL
+     LANES:               2             0         1      0          0           0        0           2         0        0        2          0
+
+           7:00   AM       40          0          1      0          0          0            0      492         0        5        64         0      602
+           7:15   AM       52          0          3      0          0          0            0      473         0        8        84         0      620
+           7:30   AM       59          0          3      0          0          0            0      483         1        11       98         0      655
+           7:45   AM       65          0          1      0          0          0            0      498         0        26      109         0      699
+           8:00   AM       88          0          1      0          0          0            0      496         0        17      173         0      775
+           8:15   AM       87          0          2      0          0          0            0      482         0        10       94         0      675
+           8:30   AM       94          0          1      0          0          0            0      493         0        19      101         0      708
+           8:45   AM      101          0          0      0          0          0            0      478         0        18       88         0      685
+           9:00   AM       56          0          2      0          0          0            0      469         0        25       87         0      639
+           9:15   AM       96          0          0      0          0          0            0      480         0        12       79         0      667
+           9:30   AM       67          0          3      0          0          0            0      450         1        13       78         0      612
+           9:45   AM       75          0          0      0          0          0            0      392         0        15       72         0      554
+
+                        NL       NT              NR       SL      ST     SR       EL     ET                    ER       WL      WT         WR      TOTAL
+    TOTAL VOLUMES :    880        0               17       0       0      0        0    5686                    2       179    1127         0       7891
+     APPROACH %'s :   98.10%    0.00%            1.90% #DIV/0! #DIV/0! #DIV/0!   0.00% 99.96%                 0.04%    13.71% 86.29%       0.00%
+                     nb a     nb d                     sb a    sb d            eb a   eb d                            wb a   nb d
+PEAK HR START TIME :      745 AM                                                                                                                   TOTAL
+
+       PEAK HR VOL :      334          0         5       0          0          0         0        1969        0         72      477        0       2857
+
+   PEAK HR FACTOR :                   0.892                       0.000                           0.988                        0.722               0.922
+
+          CONTROL : Signalized
+                                      Intersection Turning Movement
+                                                                 Prepared by:
+                                              National Data & Surveying Services
+          Project ID: 15-5237-002                                                                                                Day: Tuesday
+                                                                                   TOTALS
+                  City: Los Angeles                                                                                             Date: 4/21/2015
+                                                                                    PM
+     NS/EW Streets:             Jefferson Blvd                Jefferson Blvd                    Culver Blvd                  Culver Blvd
+                                NORTHBOUND                    SOUTHBOUND                        EASTBOUND                    WESTBOUND
+
+                          NL           NT        NR      SL        ST          SR        EL         ET        ER        WL      WT         WR      TOTAL
+     LANES:               2             0         1      0          0           0        0           2         0        0        2          0
+
+           3:00   PM      108          0          2       0         0          0            0      183         0        11      237         0      541
+           3:15   PM      138          0          1       0         0          0            0      190         0        20      220         0      569
+           3:30   PM      172          0          2       0         0          0            0      198         0        21      226         0      619
+           3:45   PM      168          0          1       0         0          0            0      162         0        18      235         0      584
+           4:00   PM      155          0          5       0         0          0            0      173         0        23      277         0      633
+           4:15   PM      188          0          1       0         0          0            0      177         0        23      259         0      648
+           4:30   PM      213          0          2       0         0          0            0      186         0        31      344         0      776
+           4:45   PM      228          0          1       0         0          0            0      196         0        21      330         0      776
+           5:00   PM      230          0          2       0         0          0            0      190         0        20      344         0      786
+           5:15   PM      242          0          1       0         0          0            0      200         0        14      334         0      791
+           5:30   PM      259          0          1       0         0          0            0      188         0        24      335         0      807
+           5:45   PM      264          0          3       0         0          0            0      195         0        14      334         0      810
+
+                        NL       NT              NR       SL      ST     SR       EL      ET                   ER       WL      WT         WR      TOTAL
+    TOTAL VOLUMES :    2365       0               22       0       0      0        0     2238                   0       240    3475         0       8340
+     APPROACH %'s :   99.08%    0.00%            0.92% #DIV/0! #DIV/0! #DIV/0!   0.00% 100.00%                0.00%     6.46% 93.54%       0.00%
+                     nb a     nb d                     sb a    sb d            eb a    eb d                           wb a   nb d
+PEAK HR START TIME :      500 PM                                                                                                                   TOTAL
+
+       PEAK HR VOL :      995          0         7       0          0          0         0         773        0         72     1347        0       3194
+
+   PEAK HR FACTOR :                   0.938                       0.000                           0.966                        0.975               0.986
+
+          CONTROL : Signalized
+

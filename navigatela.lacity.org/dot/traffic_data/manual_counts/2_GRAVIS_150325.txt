@@ -1,0 +1,134 @@
+                          City Of Los Angeles
+                          Department Of Transportation
+                          MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South               Vista Del Mar
+
+East/West                 Grand Ave
+
+Day:                      Wednesday                 Date:           March 25, 2015                Weather:              SUNNY
+
+Hours:        7-10 & 3-6                                                         Chekrs:          NDS
+
+School Day:               YES                       District:                                       I/S CODE
+
+
+                                N/B                               S/B                                E/B                          W/B
+DUAL-
+WHEELED                            51                             62                                      1                        35
+BIKES                               5                             15                                     40                        66
+BUSES                               6                              4                                      0                         1
+
+
+                                N/B     TIME                      S/B    TIME                        E/B      TIME                W/B    TIME
+
+AM PK 15 MIN                      440      7.45                   190     8.45                           22    8.45                74     7.30
+
+PM PK 15 MIN                      191     17.00                   399    17.45                           12   15.15               168    17.00
+
+AM PK HOUR                      1708       7.45                   663     8.15                           50    8.15               268     7.15
+
+PM PK HOUR                        691     16.30                  1498    17.00                           30   16.45               502    16.45
+
+
+
+
+NORTHBOUND Approach                                                     SOUTHBOUND Approach                                             TOTAL    XING S/L       XING N/L
+
+Hours           Lt           Th           Rt Total                      Hours              Lt       Th        Rt        Total            N-S      Ped   Sch      Ped   Sch
+7-8                   5       1409         129 1543                     7-8                  83      378            8       469           2012      2     0       27     0
+8-9                   5       1472         199 1676                     8-9                  97      487           24       608           2284      2     0       27     0
+9-10                 13       1030         180 1223                     9-10                102      407            5       514           1737      1     0       20     0
+15-16                 3         491        127   621                    15-16               126      826            8       960           1581      1     0        9     0
+16-17                 2         517        139   658                    16-17               129     1125            8     1262            1920      2     0       16     1
+17-18                 5         503        177   685                    17-18               192     1299            7     1498            2183      4     0       42     7
+
+TOTAL                33         5422       951         6406             TOTAL               729     4522           60     5311           11717     12       0    141       8
+
+
+EASTBOUND Approach                                                      WESTBOUND Approach                                              TOTAL    XING W/L       XING E/L
+
+Hours           Lt           Th           Rt        Total               Hours              Lt       Th        Rt Total                   E-W      Ped   Sch      Ped   Sch
+7-8                   4            6           4            14          7-8                  84           8    146   238                   252      0     0        3     0
+8-9                   7           35           7            49          8-9                  86          20    118   224                   273      1     0        4     0
+9-10                  9            8           5            22          9-10                 94           9     98   201                   223      0     0        2     0
+15-16                 5           16           4            25          15-16               125          13    159   297                   322      1     0        0     0
+16-17                 5           12           3            20          16-17               161          16    153   330                   350      0     0        3     0
+17-18                11           13           6            30          17-18               253          19    215   487                   517      1     0        3     0
+
+TOTAL                41            90          29       160             TOTAL               803          85    889        1777            1937      3       0     15       0
+                                        Intersection Turning Movement
+                                                                Prepared by:
+                                              National Data & Surveying Services
+         Project ID: 15-5172-003                                                                                     Day: Wednesday
+                                                                                TOTALS
+                  City: Los Angeles                                                                                  Date: 3/25/2015
+                                                                                 AM
+     NS/EW Streets:             Vista Del Mar              Vista Del Mar                   Grand Ave              Grand Ave
+                                NORTHBOUND                 SOUTHBOUND                      EASTBOUND              WESTBOUND
+
+                           NL          NT       NR    SL        ST         SR         EL      ET       ER   WL       WT       WR       TOTAL
+     LANES:                1            2        0    1          2          0         0        1        0   1.5      0.5       1
+
+           7:00   AM       3          334       18    19       82           3         0       0        3    14       0        24       500
+           7:15   AM       0          334       29    12       83           1         2       1        0    25       1        38       526
+           7:30   AM       2          349       34    21       98           2         0       3        0    24       6        44       583
+           7:45   AM       0          392       48    31       115          2         2       2        1    21       1        40       655
+           8:00   AM       0          362       54    21       92           5         0       2        1    24       2        42       605
+           8:15   AM       2          372       52    24       116          6         2       8        1    18       0        21       622
+           8:30   AM       1          383       42    21       128          5         3       7        3    23       4        35       655
+           8:45   AM       2          355       51    31       151          8         2       18       2    21       14       20       675
+           9:00   AM       3          276       47    33       139          1         3       1        0    30       1        23       557
+           9:15   AM       3          278       43    27       98           0         0       3        2    14       2        26       496
+           9:30   AM       4          241       42    17       72           2         4       1        2    29       3        25       442
+           9:45   AM       3          235       48    25       98           2         2       3        1    21       3        24       465
+
+                        NL       NT  NR       SL    ST                      SR     EL     ET     ER    WL       WT    WR    TOTAL
+   TOTAL VOLUMES :      23      3911 508     282   1272                     37     20     49     16    264      37    362    6781
+    APPROACH %'s :     0.52% 88.05% 11.44% 17.72% 79.95%                   2.33% 23.53% 57.65% 18.82% 39.82%   5.58% 54.60%
+                     nb a     nb d        sb a   sb d                           eb a   eb d          wb a    nb d
+PEAK HR START TIME :      800 AM                                                                                            TOTAL
+
+      PEAK HR VOL :        5       1472         199   97       487         24         7       35       7    86       20       118      2557
+
+   PEAK HR FACTOR :                   0.984                   0.800                          0.557                  0.824              0.947
+
+         CONTROL : Signalized
+                                        Intersection Turning Movement
+                                                                 Prepared by:
+                                              National Data & Surveying Services
+         Project ID: 15-5172-003                                                                                      Day: Wednesday
+                                                                                 TOTALS
+                  City: Los Angeles                                                                                   Date: 3/25/2015
+                                                                                  PM
+     NS/EW Streets:             Vista Del Mar               Vista Del Mar                   Grand Ave              Grand Ave
+                                NORTHBOUND                  SOUTHBOUND                      EASTBOUND              WESTBOUND
+
+                           NL          NT       NR    SL         ST         SR         EL      ET       ER   WL       WT       WR       TOTAL
+     LANES:                1            2        0    1           2          0         0        1        0   1.5      0.5       1
+
+           3:00   PM       1          111       19    28        182          3         2       2        1    41        3       53       446
+           3:15   PM       0          123       27    32        178          2         2       10       0    34        3       48       459
+           3:30   PM       2          132       43    21        214          2         0       3        2    27        6       26       478
+           3:45   PM       0          125       38    45        252          1         1       1        1    23        1       32       520
+           4:00   PM       1          133       28    39        208          2         1       2        0    38        0       25       477
+           4:15   PM       0          132       43    29        292          1         1       2        1    32        7       28       568
+           4:30   PM       1          130       26    31        323          2         3       2        2    53        7       23       603
+           4:45   PM       0          122       42    30        302          3         0       6        0    38        2       77       622
+           5:00   PM       1          137       53    26        330          0         2       3        1    57        7       104      721
+           5:15   PM       3          129       47    39        348          4         4       3        1    61        0       36       675
+           5:30   PM       1          121       33    50        300          2         2       5        3    71        6       43       637
+           5:45   PM       0          116       44    77        321          1         3       2        1    64        6       32       667
+
+                        NL       NT  NR       SL    ST                       SR     EL     ET     ER    WL       WT    WR    TOTAL
+   TOTAL VOLUMES :      10      1511 443     447   3250                      23     21     41     13    539      48    527    6873
+    APPROACH %'s :     0.51% 76.93% 22.56% 12.02% 87.37%                    0.62% 28.00% 54.67% 17.33% 48.38%   4.31% 47.31%
+                     nb a     nb d        sb a   sb d                            eb a   eb d          wb a    nb d
+PEAK HR START TIME :      500 PM                                                                                             TOTAL
+
+      PEAK HR VOL :        5          503       177   192      1299         7          11      13       6    253      19       215      2700
+
+   PEAK HR FACTOR :                   0.897                    0.939                          0.750                  0.725              0.936
+
+         CONTROL : Signalized
+
