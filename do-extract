@@ -11,4 +11,4 @@ find caltrain -name '*.txt' -print0 | xargs -0 -L1 ./extract-eir | ../kc-traffic
 	find navigatela.lacity.org -name '*.txt' -print0 | xargs -0 ./extract-filename
 ) | ./extract-report-addresses > counts-la-dot.csv
 
-find navigatela.lacity.org/dot/traffic_data/automatic_counts -name '*.txt' -print | sort | tr '\012' '\0' | xargs -0 -L1 ./extract-tube > tube.csv
+find navigatela.lacity.org/dot/traffic_data/automatic_counts -name '*.txt' -print | sort | tr '\012' '\0' | xargs -0 -L1 ./extract-tube | ./extract-report-addresses > tube.csv

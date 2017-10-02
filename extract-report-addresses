@@ -208,7 +208,14 @@ for (@lines) {
 	# next if $seen{$name};
 	$seen{$name} = 1;
 
-	$out = $_;
+	$out = "";
+	@out = split(/,/, $_);
+	for ($i = 0; $i < 5 + 12 + 4 + 4; $i++) {
+		if ($i != 0) {
+			$out .= ",";
+		}
+		$out .= $out[$i];
+	}
 
 	if ($id =~ /^oak/ || $id =~ /^dowd/) {
 		if ($exactlat{$name} ne "") {
