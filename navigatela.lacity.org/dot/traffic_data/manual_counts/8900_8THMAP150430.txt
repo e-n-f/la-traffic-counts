@@ -1,0 +1,61 @@
+                    City Of Los Angeles
+                    Department Of Transportation
+                    MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South         Maple Avenue
+
+East/West           8th Street
+
+Day:           THURSDAY                Date:         April 30, 2015           Weather:         CLEAR
+
+Hours:      7-10AM 3-6PM                                              Staff: CUI
+
+School Day:         YES                District:         CENTRAL               I/S CODE 8900
+
+
+                      N/B                          S/B                          E/B                    W/B
+DUAL-
+WHEELED                 41                          42                           31                     98
+BIKES                   40                          43                           67                     82
+BUSES                    2                           3                            0                     62
+
+
+                      N/B TIME                     S/B TIME                     E/B TIME               W/B TIME
+
+AM PK 15 MIN            60   7.45                   65    7.45                   31   9.45             156    9.15
+
+PM PK 15 MIN            96   5.45                   98    5.30                   53   5.30             187    5.30
+
+AM PK HOUR            198    7.45                  242    7.45                  111   9.00             609    9.00
+
+PM PK HOUR            360    5.00                  330    5.00                  180   4.45             703    5.00
+
+
+
+NORTHBOUND Approach                                      SOUTHBOUND Approach                                 TOTAL   XING S/L    XING N/L
+
+Hours         Lt      Th     Rt Total                    Hours         Lt      Th     Rt Total                N-S     Ped Sch     Ped   Sch
+7-8            32      110    35   177                   7-8            23      115    83   221                398    100   0     138     3
+8-9            27      133    33   193                   8-9            33       86   100   219                412    102   1     112     2
+9-10           26      117    46   189                   9-10           32       90    69   191                380    114   1      79     0
+3-4            50      136    70   256                   3-4            34      121    97   252                508    181   8      85     1
+4-5            56      170    48   274                   4-5            26      149    75   250                524    150   4      75     5
+5-6            83      228    49   360                   5-6            19      169   142   330                690    168   1      87     0
+
+TOTAL         274     894        281     1449            TOTAL          167     730      566    1463          2912    815   15    576   11
+
+
+EASTBOUND Approach                                       WESTBOUND Approach                                  TOTAL   XING W/L    XING E/L
+
+Hours         Lt      Th     Rt        Total             Hours         Lt      Th     Rt Total               E-W      Ped Sch     Ped   Sch
+7-8            27       56        7         90           7-8            20      319    42   381                471     46   0      57     1
+8-9            19       60       14         93           8-9            27      402    47   476                569     41   1      81     0
+9-10           30       61       20       111            9-10           57      458    94   609                720     58   1      78     2
+3-4            11       60       33       104            3-4            37      360    30   427                531    131   3      55     2
+4-5            19      107       23       149            4-5            37      430    26   493                642     93   3      71     3
+5-6            34      125       21       180            5-6            49      620    34   703                883     77   0      84     0
+
+TOTAL         140     469        118      727            TOTAL          227 2589         273    3089          3816    446    8    426    8
+
+            (Rev Oct 06)
+

@@ -1,0 +1,60 @@
+                         City Of Los Angeles
+                         Department Of Transportation
+                         MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South              Inglewood Blvd
+
+East/West                Venice Blvd
+
+Day:                     Tuesday             Date:           07/18/2017                Weather:             SUNNY
+
+Hours:                                                                Chekrs:          NDS
+
+School Day:                        No                                                    I/S CODE
+
+
+                            N/B                        S/B                                E/B                         W/B
+DUAL-
+WHEELED                      24                        16                                  89                         123
+BIKES                        36                        16                                 154                         178
+BUSES                         0                         0                                  52                          51
+
+
+                            N/B    TIME                S/B    TIME                        E/B     TIME                W/B     TIME
+
+AM PK 15 MIN                161     8.30                51     8.45                       316      9.30                323     8.15
+
+PM PK 15 MIN                 82    16.45               131    17.45                       350     17.00                394    17.30
+
+AM PK HOUR                  582     8.30               173     8.15                      1172      8.15               1236     8.15
+
+PM PK HOUR                  311    16.00               493    17.00                      1271     15.15               1405    16.45
+
+
+
+
+NORTHBOUND Approach                                          SOUTHBOUND Approach                                             TOTAL    XING S/L     XING N/L
+
+Hours          Lt          Th      Rt        Total           Hours              Lt       Th       Rt        Total             N-S      Ped   Sch    Ped   Sch
+7-8             145         198         74       417         7-8                  33       45          17        95            512       8     8     24    25
+8-9             147         293        118       558         8-9                  37       95          33       165            723       7     7     12    14
+9-10            149         227        118       494         9-10                 40       84          24       148            642       5     5     19    22
+15-16             91        108         72       271         15-16                56      331          52       439            710      31    31     32    35
+16-17             90        122         99       311         16-17                65      333          41       439            750      28    28     34    37
+17-18           109         104         69       282         17-18               100      355          38       493            775      20    20     45    46
+
+TOTAL           731        1052        550     2333          TOTAL               331     1243       205       1779            4112      99   99     166   179
+
+
+EASTBOUND Approach                                           WESTBOUND Approach                                              TOTAL    XING W/L     XING E/L
+
+Hours          Lt          Th      Rt        Total           Hours              Lt       Th       Rt        Total             E-W      Ped   Sch    Ped   Sch
+7-8                 24      676         23       723         7-8                  90      801          61       952            1675     12    12     17    17
+8-9                 53     1038         51     1142          8-9                 138      961          81     1180             2322     10    11     23    23
+9-10                52     1018         63     1133          9-10                128      965          92     1185             2318     15    16     11    11
+15-16               46     1091        112     1249          15-16               170     1054          69     1293             2542     52    55     16    16
+16-17               42     1068         99     1209          16-17               229     1037          71     1337             2546     25    26     11    11
+17-18               48     1100         94     1242          17-18               269      984          89     1342             2584     29    31     16    16
+
+TOTAL           265        5991        442     6698          TOTAL              1024     5802       463       7289            13987    143   151     94    94
+

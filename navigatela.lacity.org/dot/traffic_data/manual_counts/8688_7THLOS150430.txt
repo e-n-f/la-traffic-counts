@@ -1,0 +1,61 @@
+                    City Of Los Angeles
+                    Department Of Transportation
+                    MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South         Los Angeles Street
+
+East/West           7th Street
+
+Day:           THURSDAY                Date:         April 30, 2015           Weather:         CLEAR
+
+Hours:      7-10AM 3-6PM                                              Staff: CUI
+
+School Day:         YES                District:         CENTRAL               I/S CODE 8688
+
+
+                      N/B                          S/B                          E/B                    W/B
+DUAL-
+WHEELED                48                           50                           88                     78
+BIKES                 130                           95                           53                     56
+BUSES                  75                           27                          254                    204
+
+
+                      N/B TIME                     S/B TIME                     E/B TIME               W/B TIME
+
+AM PK 15 MIN          122    8.45                  200    8.45                  111   8.00             148    8.15
+
+PM PK 15 MIN          243    5.30                  195    5.00                  157   5.30             148    4.30
+
+AM PK HOUR            424    8.15                  733    8.15                  385   7.30             493    9.00
+
+PM PK HOUR            855    5.00                  684    4.45                  611   4.45             540    4.30
+
+
+
+NORTHBOUND Approach                                      SOUTHBOUND Approach                                 TOTAL   XING S/L    XING N/L
+
+Hours         Lt      Th     Rt Total                    Hours         Lt      Th     Rt Total                N-S     Ped Sch     Ped   Sch
+7-8            18      214    42   274                   7-8            23      489    55   567                841    205 13      238     9
+8-9            29      309    68   406                   8-9            42      609    70   721               1127    184   2     220     4
+9-10           28      272    48   348                   9-10           71      530    70   671               1019    141   0     241     2
+3-4            25      347    71   443                   3-4            42      414    44   500                943    196   5     219     2
+4-5            25      494    82   601                   4-5            34      468    72   574               1175    221   7     236     4
+5-6            28      704   123   855                   5-6            34      544    75   653               1508    248 10      341     6
+
+TOTAL         153 2340           434     2927            TOTAL          246 3054         386    3686          6613   1195   37   1495   27
+
+
+EASTBOUND Approach                                       WESTBOUND Approach                                  TOTAL   XING W/L    XING E/L
+
+Hours         Lt      Th     Rt Total                    Hours         Lt      Th     Rt Total               E-W      Ped Sch     Ped   Sch
+7-8             2      294    48   344                   7-8              2     409    53   464                808    150   4     169    11
+8-9             2      314    67   383                   8-9              4     407    76   487                870    103   2     160     0
+9-10            8      281    77   366                   9-10            15     372   106   493                859    108   1     168     2
+3-4            11      407    99   517                   3-4              7     394   101   502               1019    174   4     162     3
+4-5             2      481   115   598                   4-5              4     432    83   519               1117    193 15      176     6
+5-6             2      506    91   599                   5-6              7     433    92   532               1131    221   4     205     4
+
+TOTAL          27 2283           497     2807            TOTAL           39 2447         511    2997          5804    949   30   1040   26
+
+            (Rev Oct 06)
+

@@ -1,0 +1,61 @@
+                    City Of Los Angeles
+                    Department Of Transportation
+                    MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South         Main Street
+
+East/West           7th Street
+
+Day:           THURSDAY                Date:         April 30, 2015             Weather:           CLEAR
+
+Hours:      7-10AM 3-6PM                                              Staff: CUI
+
+School Day:         YES                District:         CENTRAL                 I/S CODE 8918
+
+
+                      N/B                          S/B                            E/B                          W/B
+DUAL-
+WHEELED                96                           0                              77                           69
+BIKES                 116                          37                             141                           88
+BUSES                 345                           0                             254                          269
+
+
+                      N/B TIME                     S/B TIME                       E/B TIME                     W/B TIME
+
+AM PK 15 MIN          238    8.15                   0     7.00                     95     8.45                 144    8.15
+
+PM PK 15 MIN          395    4.30                   0     3.00                    132     4.45                 153    5.15
+
+AM PK HOUR            883    7.30                   0     7.00                    348     8.00                 496    8.00
+
+PM PK HOUR           1455    4.15                   0     3.00                    501     4.00                 574    4.30
+
+
+
+NORTHBOUND Approach                                      SOUTHBOUND Approach                                         TOTAL   XING S/L    XING N/L
+
+Hours         Lt  Th         Rt Total                    Hours         Lt        Th       Rt       Total              N-S     Ped Sch     Ped   Sch
+7-8            21 675         88   784                   7-8                0         0        0           0           784    211   7     190     5
+8-9            42 715         77   834                   8-9                0         0        0           0           834    217   1     204     1
+9-10           36 617         86   739                   9-10               0         0        0           0           739    167   3     219     4
+3-4            53 917        129 1099                    3-4                0         0        0           0          1099    254   0     256     0
+4-5            34 1224       134 1392                    4-5                0         0        0           0          1392    248   0     277     8
+5-6            53 1112       154 1319                    5-6                0         0        0           0          1319    246   0     264     0
+
+TOTAL         239 5260           668     6167            TOTAL              0         0        0           0          6167   1343   11   1410   18
+
+
+EASTBOUND Approach                                       WESTBOUND Approach                                          TOTAL   XING W/L    XING E/L
+
+Hours         Lt      Th     Rt        Total             Hours         Lt        Th       Rt Total                   E-W      Ped Sch     Ped   Sch
+7-8            31      242        0       273            7-8                0     404      64   468                    741     79   2      99     4
+8-9            50      298        0       348            8-9                0     408      88   496                    844     81   0      96     3
+9-10           64      272        0       336            9-10               0     375      86   461                    797     64   1     121     2
+3-4            60      373        0       433            3-4                0     384     106   490                    923    100   0     108     0
+4-5            47      454        0       501            4-5                0     397     149   546                   1047     80   0     115     0
+5-6            67      408        0       475            5-6                0     417     149   566                   1041     83   0      91     0
+
+TOTAL         319 2047             0     2366            TOTAL              0 2385         642       3027             5393    487    3    630    9
+
+            (Rev Oct 06)
+

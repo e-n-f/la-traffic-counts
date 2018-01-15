@@ -1,0 +1,61 @@
+                       City Of Los Angeles
+                       Department Of Transportation
+                       MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South            Los Angeles Street
+
+East/West              8th Street
+
+Day:               Wednesday               Date:         March 30, 2016            Weather:         CLEAR
+
+Hours:      7-10AM 3-6PM                                               Staff: CUI
+
+School Day:            YES                 District:         Central                I/S CODE 8707
+
+
+                         N/B                           S/B                           E/B                    W/B
+DUAL-
+WHEELED                    47                           50                             0                     131
+BIKES                      67                           63                            54                      99
+BUSES                      87                           96                             0                      49
+
+
+                         N/B TIME                      S/B TIME                      E/B TIME               W/B TIME
+
+AM PK 15 MIN             132      8.45                 177    9.00                     0   7.00              215    8.45
+
+PM PK 15 MIN             214      5.15                 245    5.00                     0   3.00              276    5.45
+
+AM PK HOUR               408      8.15                 672    8.15                     0   7.00              757    8.00
+
+PM PK HOUR               818      5.00                 879    4.45                     0   3.00             1064    5.00
+
+
+
+NORTHBOUND Approach                                          SOUTHBOUND Approach                                   TOTAL   XING S/L    XING N/L
+
+Hours         Lt         Th       Rt       Total             Hours        Lt        Th     Rt Total                 N-S     Ped Sch     Ped   Sch
+7-8            44         273          0      317            7-8               0     456    86   542                 859    121 14      148    16
+8-9            63         342          0      405            8-9               0     531   102   633                1038    124   8     100     8
+9-10           47         306          0      353            9-10              0     495   111   606                 959    112   3      84     3
+3-4            53         435          0      488            3-4               0     475   108   583                1071    166   0     119     5
+4-5            52         662          0      714            4-5               0     625   120   745                1459    152   0     108     4
+5-6            80         738          0      818            5-6               0     728   148   876                1694    241   0     217     0
+
+TOTAL         339 2756                 0     3095            TOTAL             0 3310         675    3985           7080    916   25    776    36
+
+
+EASTBOUND Approach                                           WESTBOUND Approach                                    TOTAL   XING W/L    XING E/L
+
+Hours         Lt         Th       Rt       Total             Hours        Lt        Th     Rt Total                E-W      Ped Sch     Ped   Sch
+7-8                0          0        0           0         7-8           47        561    31   639                 639     98   9      84    19
+8-9                0          0        0           0         8-9           55        633    69   757                 757     93   3      81     5
+9-10               0          0        0           0         9-10          71        513    76   660                 660    100   1      94     5
+3-4                0          0        0           0         3-4          116        546   109   771                 771    172   5     260    11
+4-5                0          0        0           0         4-5           97        592    96   785                 785    104   7     200     3
+5-6                0          0        0           0         5-6          117        849    98 1064                 1064    164   1     197     3
+
+TOTAL              0          0        0           0         TOTAL        503 3694            479    4676           4676    731   26    916    46
+
+            (Rev Oct 06)
+

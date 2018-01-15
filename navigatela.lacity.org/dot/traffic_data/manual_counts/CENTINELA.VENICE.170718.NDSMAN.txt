@@ -1,0 +1,60 @@
+                         City Of Los Angeles
+                         Department Of Transportation
+                         MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South              Centinela Ave
+
+East/West                Venice Blvd
+
+Day:                     Tuesday             Date:            07/18/2017                   Weather:           SUNNY
+
+Hours:                                                                 Chekrs:             NDS
+
+School Day:                        No                                                        I/S CODE
+
+
+                            N/B                         S/B                                   E/B                       W/B
+DUAL-
+WHEELED                      85                         76                                    100                       103
+BIKES                        43                         54                                    191                       218
+BUSES                        21                         22                                     60                        53
+
+
+                            N/B    TIME                 S/B    TIME                           E/B     TIME              W/B     TIME
+
+AM PK 15 MIN                341     7.45                266     9.30                          407      8.30              302     9.45
+
+PM PK 15 MIN                294    16.15                316    16.45                          341     15.15              364    16.30
+
+AM PK HOUR                 1264     7.00                939     9.00                         1433      8.30             1113     9.00
+
+PM PK HOUR                 1092    16.45               1232    16.45                         1318     15.15             1356    16.30
+
+
+
+
+NORTHBOUND Approach                                           SOUTHBOUND Approach                                              TOTAL    XING S/L     XING N/L
+
+Hours          Lt          Th      Rt        Total            Hours              Lt          Th       Rt      Total             N-S      Ped   Sch    Ped   Sch
+7-8                 68     1141         55     1264           7-8                     43      364        60       467            1731     47    65     40    40
+8-9                 68     1062         74     1204           8-9                     70      689        87       846            2050     57    67     34    34
+9-10                81     1056         67     1204           9-10                    85      713       141       939            2143     68    80     36    36
+15-16               68      788         83       939          15-16                   90     1024        46     1160             2099     87   126     66    68
+16-17               80      866        112     1058           16-17                   89     1053        38     1180             2238     73    83     71    73
+17-18               62      879         94     1035           17-18                   89     1067        42     1198             2233     80    92     57    58
+
+TOTAL           427        5792        485     6704           TOTAL               466        4910       414     5790            12494    412   513    304   309
+
+
+EASTBOUND Approach                                            WESTBOUND Approach                                               TOTAL    XING W/L     XING E/L
+
+Hours          Lt          Th      Rt        Total            Hours              Lt          Th       Rt Total                  E-W      Ped   Sch    Ped   Sch
+7-8             250         571         45       866          7-8                  82         703      141   926                 1792     51    63     21    22
+8-9             317         996         92     1405           8-9                 120         866      118 1104                  2509     53    60     15    16
+9-10            286         874        106     1266           9-10                136         908       69 1113                  2379     54    56     22    22
+15-16           175         908        181     1264           15-16               267         951       78 1296                  2560     68   117     49    55
+16-17           170         818        139     1127           16-17               279         957       79 1315                  2442     56    65     43    45
+17-18           180         838        146     1164           17-18               332         937       53 1322                  2486     43    63     55    58
+
+TOTAL          1378        5005        709     7092           TOTAL              1216        5322       538     7076            14168    325   424    205   218
+
