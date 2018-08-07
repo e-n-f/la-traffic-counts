@@ -1,0 +1,64 @@
+                        City Of Los Angeles
+                        Department Of Transportation
+                        MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South             Eagle Rock Blvd
+
+East/West               Westdale Ave
+
+Day:                    Thursday             Date:              06/07/2018                   Weather:            SUNNY
+
+Hours:                                                                   Chekrs:             NDS
+
+School Day:                        Yes                                                         I/S CODE
+
+
+                           N/B                            S/B                                   E/B                        W/B
+DUAL-
+WHEELED                      85                            95                                       0                       17
+BIKES                        24                            30                                       0                        6
+BUSES                        28                            29                                       0                        0
+
+
+                           N/B     TIME                   S/B    TIME                           E/B     TIME               W/B    TIME
+
+AM PK 15 MIN               275      7.45                  337     7.45                              0    0.00               54     7.45
+
+PM PK 15 MIN               278     17.45                  324    17.00                              0    0.00               46    17.00
+
+AM PK HOUR                 851      7.30                 1248     7.30                              0    0.00              163     7.15
+
+PM PK HOUR                1034     17.00                 1186    16.45                              0    0.00              148    17.00
+
+
+
+
+NORTHBOUND Approach                                             SOUTHBOUND Approach                                              TOTAL    XING S/L       XING N/L
+
+Hours          Lt         Th       Rt        Total              Hours              Lt          Th       Rt       Total            N-S      Ped   Sch      Ped   Sch
+7-8                 0      678       56          734            7-8                 91          980          0     1071           1805       0     0       17     1
+8-9                 0      627       39          666            8-9                 82          960          0     1042           1708       0     0        8     2
+9-10                0      536       28          564            9-10                50          673          0       723          1287       0     0       14     0
+11-12               0      680       33          713            11-12               56          769          0       825          1538       0     0       14     0
+14-15               0      775       33          808            14-15               61          847          0       908          1716       0     0        5     0
+15-16               0      769       33          802            15-16               82          854          0       936          1738       0     0       18     0
+16-17               0      794      111          905            16-17              175          875          0     1050           1955       1     0       12     0
+17-18               0      871      163        1034             17-18              201          910          0     1111           2145       0     0       18     0
+
+TOTAL               0     5730      496        6226             TOTAL              798         6868          0     7666          13892       1       0    106       3
+
+
+EASTBOUND Approach                                              WESTBOUND Approach                                               TOTAL    XING W/L       XING E/L
+
+Hours          Lt         Th       Rt        Total              Hours              Lt          Th       Rt Total                  E-W      Ped   Sch      Ped   Sch
+7-8                 0          0         0           0          7-8                     51          0    104   155                  155      0     0       12     0
+8-9                 0          0         0           0          8-9                     32          0     54     86                  86      0     0       14     1
+9-10                0          0         0           0          9-10                    20          0     33     53                  53      0     0        8     1
+11-12               0          0         0           0          11-12                   36          0    104   140                  140      0     0       16     0
+14-15               0          0         0           0          14-15                   28          0     58     86                  86      0     0        4     1
+15-16               0          0         0           0          15-16                   32          0     60     92                  92      0     0       17     0
+16-17               0          0         0           0          16-17                   32          0     62     94                  94      0     0       16     1
+17-18               0          0         0           0          17-18                   51          0     97   148                  148      0     0       22     1
+
+TOTAL               0          0         0           0          TOTAL              282              0     572       854            854       0       0    109       5
+

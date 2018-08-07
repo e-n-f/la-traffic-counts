@@ -1,0 +1,61 @@
+                    City Of Los Angeles
+                    Department Of Transportation
+                    MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South         Hoover Street
+
+East/West           Santa Monica Boulevard
+
+Day:             Thursday             Date:        August 17, 2017         Weather:        CLEAR
+
+Hours:      7-10AM 3-6PM                                           Staff: CUI
+
+School Day:         YES               District:         0                   I/S CODE 0
+
+
+                      N/B                         S/B                        E/B                    W/B
+DUAL-
+WHEELED                    5                       25                         57                     18
+BIKES                      9                       17                         45                     14
+BUSES                      0                        5                         80                     56
+
+
+                      N/B TIME                    S/B TIME                   E/B TIME               W/B TIME
+
+AM PK 15 MIN           64      7.30               217       9.00             210   7.45              67    8.00
+
+PM PK 15 MIN           64      3.00               186       3.30             274   5.15              57    3.15
+
+AM PK HOUR            211      7.15               802       8.15             722   7.30             223    7.45
+
+PM PK HOUR            232      4.45               583       3.15            1029   4.45             212    3.00
+
+
+
+NORTHBOUND Approach                                     SOUTHBOUND Approach                               TOTAL   XING S/L    XING N/L
+
+Hours         Lt     Th        Rt     Total             Hours        Lt     Th     Rt Total                N-S     Ped Sch     Ped   Sch
+7-8            46     147        6       199            7-8            7     167   392   566                765     13 23        6     2
+8-9            67      67        9       143            8-9            6     153   582   741                884     19   0      14     0
+9-10           60      51       13       124            9-10           4     114   582   700                824      7   0       5     0
+3-4            63     143       20       226            3-4           19     206   352   577                803     35 36       21    37
+4-5            74     101       17       192            4-5            8     137   280   425                617     19   8       6     6
+5-6            89     107       30       226            5-6            6     150   329   485                711     19   5      21     3
+
+TOTAL         399     616       95      1110            TOTAL         50     927 2517        3494          4604    112   72     73   48
+
+
+EASTBOUND Approach                                      WESTBOUND Approach                                TOTAL   XING W/L    XING E/L
+
+Hours         Lt     Th        Rt Total                 Hours        Lt     Th     Rt      Total          E-W      Ped Sch     Ped   Sch
+7-8           400     202       57   659                7-8           13     159       2      174           833      0   1      12    16
+8-9           312     214       83   609                8-9           21     186       6      213           822      5   0      21     0
+9-10          354     192       65   611                9-10          10     173       5      188           799      0   0       8     0
+3-4           437     315      141   893                3-4           33     169      10      212          1105      2   4      18    26
+4-5           485     342      103   930                4-5           17     150       8      175          1105      1   8       1     4
+5-6           545     363      114 1022                 5-6           15     144       7      166          1188      1   0      11     3
+
+TOTAL         2533 1628        563      4724            TOTAL        109     981      38     1128          5852      9   13     71   49
+
+            (Rev Oct 06)
+

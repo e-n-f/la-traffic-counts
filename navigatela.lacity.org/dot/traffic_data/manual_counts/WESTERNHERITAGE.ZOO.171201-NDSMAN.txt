@@ -1,0 +1,66 @@
+                          City Of Los Angeles
+                          Department Of Transportation
+                          MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South               Western Heritage Way (Griffith Park)
+
+East/West                 Zoo Dr
+
+Day:                      Friday                Date:            12/01/2017                   Weather:              SUNNY
+
+Hours:        9 AM - 6 PM                                                 Chekrs:             NDS
+
+School Day:                           Yes                                                       I/S CODE
+
+
+                             N/B                           S/B                                   E/B                          W/B
+DUAL-
+WHEELED                          69                       101                                        18                        49
+BIKES                            94                        93                                         6                        65
+BUSES                            15                        14                                         0                         0
+
+
+                             N/B      TIME                 S/B    TIME                           E/B      TIME                W/B    TIME
+
+AM PK 15 MIN                     58    9.15                109     9.15                               8    9.45                69     9.15
+
+PM PK 15 MIN                  141     16.45                272    15.00                              69   17.00                70    17.00
+
+AM PK HOUR                    218      9.00                406     9.00                              18    9.00               239     9.00
+
+PM PK HOUR                    536     16.30               1001    14.45                          193      16.15               221    16.15
+
+
+
+
+NORTHBOUND Approach                                              SOUTHBOUND Approach                                                TOTAL    XING S/L       XING N/L
+
+Hours           Lt          Th        Rt        Total            Hours              Lt          Th        Rt        Total            N-S      Ped   Sch      Ped   Sch
+9-10                 17      159        42          218          9-10                 80         233           93       406            624      0     0        0     0
+10-11                21      134        39          194          10-11                58         220           81       359            553      0     0        0     0
+11-12                12      116        49          177          11-12                94         184           52       330            507      1     0        0     0
+12-13                17      195        83          295          12-13               262         233           47       542            837      0     0        0     0
+13-14                13      164        94          271          13-14               378         253           36       667            938      2     0        0     0
+14-15                 8      226        66          300          14-15               378         349           24       751           1051      0     0        0     0
+15-16                13      325        89          427          15-16               551         409           25       985           1412      0     0        0     0
+16-17                12      357       126          495          16-17               537         373           45       955           1450      0     0        0     0
+17-18                19      327       113          459          17-18               495         293           37       825           1284      0     0        0     0
+
+TOTAL            132        2003       701        2836           TOTAL              2833        2547       440        5820           8656       3       0      0       0
+
+
+EASTBOUND Approach                                               WESTBOUND Approach                                                 TOTAL    XING W/L       XING E/L
+
+Hours           Lt          Th        Rt        Total            Hours              Lt          Th        Rt        Total            E-W      Ped   Sch      Ped   Sch
+9-10                  4          10         4        18          9-10                    96       74        69          239            257      0     0        5     0
+10-11                 6           9         8        23          10-11                   79       78        66          223            246      0     0        3     0
+11-12                23          26         8        57          11-12                   52       45        67          164            221      0     0        0     0
+12-13                47          53        12       112          12-13                   63       38        97          198            310      0     0        5     0
+13-14                82          71        13       166          13-14                   50       35        59          144            310      0     0        1     0
+14-15                38          54        11       103          14-15                   38       31        59          128            231      6     0        3     0
+15-16                43          44        18       105          15-16                   61       28        79          168            273      1     0        0     0
+16-17                51          84        24       159          16-17                   45       27       128          200            359      1     0        2     0
+17-18                32          86        23       141          17-18                   29      108        56          193            334      0     0        0     0
+
+TOTAL            326          437      121          884          TOTAL               513         464       680        1657           2541       8       0     19       0
+

@@ -1,0 +1,62 @@
+                           City Of Los Angeles
+                           Department Of Transportation
+                           MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South                Grand Ave
+
+East/West                  5th St
+
+Day:                       Tuesday               Date:                  10/31/2017                 Weather:           SUNNY
+
+Hours:         7-10AM 3-6PM                                                     Chekrs:            NDS
+
+School Day:                Yes                   District:          0                                I/S CODE         0
+
+
+                                 N/B                          S/B                                     E/B                        W/B
+DUAL-
+WHEELED                             0                         91                                         0                       211
+BIKES                               0                          0                                         0                         0
+BUSES                               0                        701                                         0                       357
+
+
+                                 N/B    TIME                  S/B       TIME                          E/B     TIME               W/B     TIME
+
+AM PK 15 MIN                        0    7.00                336         8.30                            0     7.00              341      7.30
+
+PM PK 15 MIN                        0    3.00                382         4.45                            0     3.00              461      4.45
+
+AM PK HOUR                          0    7.00                1277        8.15                            0     7.00              1336     7.15
+
+PM PK HOUR                          0    3.00                1444        4.30                            0     3.00              1789     4.15
+
+
+
+
+NORTHBOUND Approach                                                 SOUTHBOUND Approach                                                 TOTAL    XING S/L         XING N/L
+
+Hours             Lt         Th         Rt       Total              Hours                 Lt         Th       Rt Total                   N-S        Ped     Sch      Ped     Sch
+7-8                    0            0        0           0          7-8                        0      700      154   854                  854       227       0      320       0
+8-9                    0            0        0           0          8-9                        0     1025      189 1214                  1214       246       0      526       0
+9-10                   0            0        0           0          9-10                       0      962      217 1179                  1179       249       0      352       0
+3-4                    0            0        0           0          3-4                        0      686      269   955                  955       431       0      438       0
+4-5                    0            0        0           0          4-5                        0     1129      262 1391                  1391       480       0      521       0
+5-6                    0            0        0           0          5-6                        0     1184      210 1394                  1394       458       0      446       0
+
+TOTAL                  0            0        0           0          TOTAL                      0     5686     1301        6987           6987      2091      0      2603      0
+
+
+EASTBOUND Approach                                                  WESTBOUND Approach                                                  TOTAL    XING W/L         XING E/L
+
+Hours             Lt         Th         Rt       Total              Hours                 Lt         Th       Rt Total                   E-W        Ped     Sch      Ped     Sch
+7-8                    0            0        0           0          7-8                    183        918      180 1281                   1281      315       0      215       0
+8-9                    0            0        0           0          8-9                    263        857      163 1283                   1283      333       0      289       0
+9-10                   0            0        0           0          9-10                   252        802      139 1193                   1193      301       0      243       0
+3-4                    0            0        0           0          3-4                    229       1176      228 1633                   1633      361       0      255       0
+4-5                    0            0        0           0          4-5                    326       1160      271 1757                   1757      451       0      252       0
+5-6                    0            0        0           0          5-6                    332       1093      281 1706                   1706      452       0      247       0
+
+TOTAL                  0            0        0           0          TOTAL                 1585       6006     1262        8853           8853      2213      0      1501      0
+
+               (Rev Oct 06)
+

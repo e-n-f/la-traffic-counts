@@ -1,0 +1,64 @@
+                         City Of Los Angeles
+                         Department Of Transportation
+                         MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South              Eagle Rock Blvd
+
+East/West                Ave 45
+
+Day:                     Thursday             Date:               06/07/2018                   Weather:             SUNNY
+
+Hours:                                                                     Chekrs:             NDS
+
+School Day:                         Yes                                                          I/S CODE
+
+
+                            N/B                             S/B                                   E/B                            W/B
+DUAL-
+WHEELED                       89                             98                                       9                            8
+BIKES                         38                             33                                       1                            5
+BUSES                         28                             31                                       0                            0
+
+
+                            N/B     TIME                    S/B    TIME                           E/B     TIME                   W/B    TIME
+
+AM PK 15 MIN                250      7.45                   329     8.00                             30    7.30                   40     7.45
+
+PM PK 15 MIN                281     17.45                   269    17.00                             27   14.45                   26    17.00
+
+AM PK HOUR                  798      7.30                  1235     7.30                             91    7.15                  115     7.30
+
+PM PK HOUR                 1055     17.00                   991    17.00                             92   16.15                   92    17.00
+
+
+
+
+NORTHBOUND Approach                                               SOUTHBOUND Approach                                                  TOTAL    XING S/L       XING N/L
+
+Hours          Lt          Th       Rt        Total               Hours              Lt          Th       Rt        Total               N-S      Ped   Sch      Ped   Sch
+7-8                 21      626          25       672             7-8                     29      991          20     1040              1712       5     3        7     0
+8-9                 31      610          25       666             8-9                     23     1028          21     1072              1738       3     0        8     0
+9-10                26      537          19       582             9-10                    32      739          18       789             1371       3     0        2     0
+11-12               42      696          28       766             11-12                   33      792          15       840             1606       7     1       10     2
+14-15               41      750          30       821             14-15                   43      843          19       905             1726       6     1        4     0
+15-16               42      741          32       815             15-16                   32      853          23       908             1723       2     0        5     0
+16-17               44      858          48       950             16-17                   48      852          21       921             1871       7     5        5     1
+17-18               40      941          74     1055              17-18                   53      909          29       991             2046       7     1        8     1
+
+TOTAL          287         5759      281        6327              TOTAL              293         7007       166       7466             13793      40   11        49       4
+
+
+EASTBOUND Approach                                                WESTBOUND Approach                                                   TOTAL    XING W/L       XING E/L
+
+Hours          Lt          Th       Rt        Total               Hours              Lt          Th       Rt        Total               E-W      Ped   Sch      Ped   Sch
+7-8                 19       16          48           83          7-8                     27       13          55           95            178      7     4        3     0
+8-9                 14        5          45           64          8-9                     24       13          55           92            156     12     1        8     0
+9-10                14        5          28           47          9-10                    14        9          28           51             98     10     0        6     0
+11-12                9        5          43           57          11-12                   14       11          32           57            114     12     0       13     0
+14-15               13       17          39           69          14-15                   12        9          38           59            128      9     1       10     0
+15-16               14        9          30           53          15-16                   13        9          41           63            116      5     0        8     0
+16-17               17       30          31           78          16-17                   21       10          22           53            131     13     2       12     1
+17-18               19       31          32           82          17-18                   19       15          58           92            174     17     1        7     0
+
+TOTAL          119          118      296          533             TOTAL              144             89     329         562             1095      85       9     67       1
+

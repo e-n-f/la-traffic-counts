@@ -1,0 +1,62 @@
+                            City Of Los Angeles
+                            Department Of Transportation
+                            MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South                 Beachwood Dr
+
+East/West                   Beverly Blvd
+
+Day:                        Thursday              Date:                  10/26/2017                  Weather:             SUNNY
+
+Hours:         7-10AM 3-6PM                                                      Chekrs:             NDS
+
+School Day:                 Yes                   District:          0                                 I/S CODE           0
+
+
+                                  N/B                          S/B                                      E/B                            W/B
+DUAL-
+WHEELED                             3                           5                                       102                             85
+BIKES                               0                           0                                         0                              0
+BUSES                               0                           0                                        48                             51
+
+
+                                  N/B   TIME                   S/B       TIME                           E/B     TIME                   W/B     TIME
+
+AM PK 15 MIN                       16    8.00                  10         9.45                          293      7.45                  422      9.45
+
+PM PK 15 MIN                       13    4.45                  12         3.15                          407      5.45                  380      5.45
+
+AM PK HOUR                         49    8.45                  28         9.00                         1170      7.45                  1570     9.00
+
+PM PK HOUR                         46    4.00                  36         3.00                         1571      5.00                  1430     5.00
+
+
+
+
+NORTHBOUND Approach                                                  SOUTHBOUND Approach                                                      TOTAL    XING S/L         XING N/L
+
+Hours             Lt          Th        Rt        Total              Hours                 Lt          Th       Rt        Total                N-S        Ped     Sch      Ped     Sch
+7-8                     4           6        14           24         7-8                         3          4         8           15              39        6       0        4       0
+8-9                     6          13        21           40         8-9                         1          4         8           13              53       13       0        4       0
+9-10                   13          13        22           48         9-10                        2          2        24           28              76       15       0        8       0
+3-4                     3           4        19           26         3-4                        11          3        22           36              62       12       0        4       0
+4-5                     6          13        27           46         4-5                         4          4        17           25              71       14       0        3       0
+5-6                     5          12        16           33         5-6                        11          5        20           36              69       13       0        9       0
+
+TOTAL                  37          61      119        217            TOTAL                      32         22        99        153               370       73      0        32      0
+
+
+EASTBOUND Approach                                                   WESTBOUND Approach                                                       TOTAL    XING W/L         XING E/L
+
+Hours             Lt          Th        Rt        Total              Hours                 Lt          Th       Rt        Total                E-W        Ped     Sch      Ped     Sch
+7-8                     5      894            9       908            7-8                         9     1429          10     1448                2356        0       0        0       0
+8-9                    17     1128            5     1150             8-9                        21     1380          10     1411                2561        1       0        1       0
+9-10                   25     1014           10     1049             9-10                       21     1526          23     1570                2619        0       0        1       0
+3-4                    17     1433           14     1464             3-4                        18     1206          18     1242                2706        0       0        0       0
+4-5                    17     1436           11     1464             4-5                        18     1252          12     1282                2746        0       0        0       0
+5-6                    42     1520            9     1571             5-6                        21     1383          26     1430                3001        1       0        0       0
+
+TOTAL              123         7425          58      7606            TOTAL                  108        8176          99       8383             15989        2      0         2      0
+
+               (Rev Oct 06)
+

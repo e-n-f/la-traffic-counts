@@ -1,0 +1,60 @@
+                         City Of Los Angeles
+                         Department Of Transportation
+                         MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South              Winnetka Ave
+
+East/West                Gilmore St
+
+Day:                     Thursday               Date:             06/07/2018                  Weather:             SUNNY
+
+Hours:                                                                     Chekrs:            NDS
+
+School Day:                           Yes                                                       I/S CODE
+
+
+                            N/B                             S/B                                  E/B                           W/B
+DUAL-
+WHEELED                       85                             92                                      6                           0
+BIKES                         12                             11                                      2                           0
+BUSES                          7                             10                                      0                           0
+
+
+                            N/B       TIME                  S/B    TIME                          E/B     TIME                  W/B    TIME
+
+AM PK 15 MIN                250        7.45                 418     7.15                            35    7.15                   0     0.00
+
+PM PK 15 MIN                411       17.15                 290    17.15                            21   16.15                   0     0.00
+
+AM PK HOUR                  872        7.30                1531     7.00                         107      7.00                   0     0.00
+
+PM PK HOUR                 1469       16.30                1128    17.00                            64   15.45                   0     0.00
+
+
+
+
+NORTHBOUND Approach                                               SOUTHBOUND Approach                                                TOTAL    XING S/L       XING N/L
+
+Hours          Lt          Th         Rt        Total             Hours              Lt         Th       Rt        Total              N-S      Ped   Sch      Ped   Sch
+7-8                 28      729             0       757           7-8                     0     1504          27     1531             2288       0     0        0     0
+8-9                 35      764             0       799           8-9                     0     1345          20     1365             2164       0     0        1     0
+9-10                17      605             0       622           9-10                    0      978          12       990            1612       0     0        0     0
+15-16               40     1208             0     1248            15-16                   0      865          19       884            2132       2     2        0     0
+16-17               48     1288             0     1336            16-17                   1      929          31       961            2297       0     0        0     0
+17-18               59     1372             0     1431            17-18                   0     1102          26     1128             2559       1     0        0     0
+
+TOTAL          227         5966             0     6193            TOTAL                   1     6723       135       6859            13052       3       2      1       0
+
+
+EASTBOUND Approach                                                WESTBOUND Approach                                                 TOTAL    XING W/L       XING E/L
+
+Hours          Lt          Th         Rt        Total             Hours              Lt         Th       Rt        Total              E-W      Ped   Sch      Ped   Sch
+7-8                 13          0          94       107           7-8                     0          0         0           0            107      9     0        0     0
+8-9                 19          0          52         71          8-9                     0          0         0           0             71     12     0        0     0
+9-10                22          0          31         53          9-10                    0          0         0           0             53     10     0        0     0
+15-16               14          0          34         48          15-16                   0          0         0           0             48      6     2        0     0
+16-17               22          0          38         60          16-17                   0          0         0           0             60     12     0        0     0
+17-18               21          0          34         55          17-18                   0          0         0           0             55      6     3        0     0
+
+TOTAL          111              0      283          394           TOTAL                   0          0         0           0           394      55       5      0       0
+

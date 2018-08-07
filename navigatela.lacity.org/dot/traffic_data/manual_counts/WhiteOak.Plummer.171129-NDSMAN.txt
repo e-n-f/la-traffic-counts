@@ -1,0 +1,62 @@
+                            City Of Los Angeles
+                            Department Of Transportation
+                            MANUAL TRAFFIC COUNT SUMMARY
+STREET:
+North/South                 White Oak Ave
+
+East/West                   Plummer St
+
+Day:                    Wednesday                  Date:                 11/29/2017                  Weather:             SUNNY
+
+Hours:         7-10AM 3-6PM                                                      Chekrs:             NDS
+
+School Day:                 Yes                    District:         0                                 I/S CODE           0
+
+
+                                  N/B                          S/B                                      E/B                          W/B
+DUAL-
+WHEELED                            11                          13                                          21                         22
+BIKES                               0                           0                                           0                          0
+BUSES                               0                           0                                           8                          9
+
+
+                                  N/B   TIME                   S/B       TIME                           E/B     TIME                 W/B     TIME
+
+AM PK 15 MIN                       32    7.30                  71         7.45                          103      7.45                413      7.45
+
+PM PK 15 MIN                       56    5.15                  44         3.30                          168      5.00                197      3.00
+
+AM PK HOUR                         87    7.30                  218        7.30                          391      7.15                1364     7.15
+
+PM PK HOUR                        208    5.00                  151        3.00                          625      4.45                632      3.00
+
+
+
+
+NORTHBOUND Approach                                                  SOUTHBOUND Approach                                                    TOTAL    XING S/L         XING N/L
+
+Hours             Lt          Th         Rt        Total             Hours                 Lt          Th       Rt        Total              N-S        Ped     Sch      Ped     Sch
+7-8                    10       21         44           75           7-8                        56       50          87       193             268         0       0        9       0
+8-9                    10       18         32           60           8-9                        36       62          64       162             222         2       0       21       0
+9-10                   14       19         25           58           9-10                       26       22          31         79            137         0       0       16       0
+3-4                    23       58         97          178           3-4                        45       49          57       151             329         9       0       22       0
+4-5                    16       51         99          166           4-5                        30       38          30         98            264         0       0        7       0
+5-6                    19       46        143          208           5-6                        27       42          26         95            303         2       0        6       0
+
+TOTAL                  92         213     440          745           TOTAL                  220         263       295          778           1523        13      0        81      0
+
+
+EASTBOUND Approach                                                   WESTBOUND Approach                                                     TOTAL    XING W/L         XING E/L
+
+Hours             Lt          Th         Rt        Total             Hours                 Lt          Th       Rt        Total              E-W        Ped     Sch      Ped     Sch
+7-8                    11      320            30       361           7-8                    108        1098          65     1271              1632        0       0        1       0
+8-9                    11      266            14       291           8-9                    109         828          32       969             1260        0       0        0       0
+9-10                    8      171            14       193           9-10                     55        513          19       587              780        0       0        1       0
+3-4                    14      505            21       540           3-4                      53        524          55       632             1172        1       0        1       0
+4-5                     6      518            17       541           4-5                      27        419          40       486             1027        0       0        0       0
+5-6                     9      560            13       582           5-6                      37        437          33       507             1089        2       0        0       0
+
+TOTAL                  59     2340        109         2508           TOTAL                  389        3819       244         4452           6960         3      0         3      0
+
+               (Rev Oct 06)
+
